@@ -34,6 +34,7 @@ class Bucmi_es(BaseSite):
     _xpath_addr = "//header/p"
     _xpath_lat = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLatitude"]'
     _xpath_long = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLongitude"]'
+    _xpath_img = './/ul[@class="grid"]/li[@class="grid-item"]/a/img'
     services = []
     venues = []
     _lstVenues = []
@@ -207,6 +208,11 @@ class Bucmi_es(BaseSite):
                 if tel != None and tel.text != None:
                     vens.office_number = tel.text.strip()
                
+                venueImg = xmlVenueDetail.xpath(self._xpath_img)
+                for item in venueImg:
+                    for img in item.xpath("@src"):
+                      vens.img_link=img
+                     
 
                 xmlLat = xmlVenueDetail.xpath(self._xpath_lat)
                 for item in xmlLat:
@@ -216,6 +222,7 @@ class Bucmi_es(BaseSite):
                 for item in xmlLong:
                     for long in item.xpath("@value"):
                         vens.longitude = long.strip()
+                 
                     
         if self._lstVenues != None and len(self._lstVenues) > 0:
             
