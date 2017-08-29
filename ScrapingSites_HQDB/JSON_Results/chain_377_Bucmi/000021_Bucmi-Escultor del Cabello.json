@@ -1,0 +1,228 @@
+{
+    "name": "Bucmi-Escultor del Cabello", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=22", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4318269000", 
+    "longitude": "-3.7124392000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/escultor", 
+    "office_number": "915434021", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El Escultor del Cabello fue fundado por el profesional de la imagen Francisco Antonio Guerrero, en mayo de 1992. Es un centro de peluquería y estética ubicado en el barrio de Chamberí, en la calle Rodriguez San Pedro 42 de Madrid. Pertenece a la red de salones oficiales de L'Oréal Profesional y cuenta con los productos más innovadores de la firma. Desde la gama de tratamientos de pro-keratina, hasta coloraciones permanentes o reflejos, y productos específicos para realizar cortes y stylings de tendencia. También realizan sesiones de maquillaje personalizado, manicuras y pedicuras. Con una excelente valoración, el Escultor de Cabello cuenta con opiniones satisfactorias de sus clientes, quienes destacan un trato dedicado y un servicio 100% personalizado.", 
+    "services": [
+        {
+            "service": "Corte Hombre, Asesoramiento Y Lavado Cabello", 
+            "description": "Un servicio muy especial. En el momento en el que la persona se encuentra en el salón, se realiza un asesoramiento muy personalizado. En Escultor del Cabello te asesoramos con el corte y estilo que mayor favorezca tu imagen. El servicio incluye este asesoramiento, el lavado y el corte con productos de L'Oreal Professional. ¡Reserva ya en Bucmi al mejor precio! Te ofrecemos el resultado que buscas.", 
+            "price": "10.80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente Mujer", 
+            "description": "Reserva ya este servicio de manicura de larga duración. El servicio incluye el limado, cortado de la uña, la eliminación de cutículas, masaje con hidratación y el esmaltado permanente del color a elegir entre nuestra gama de tonos. ¡Luce unas manos cuidadas durante 3 semanas! Si deseas lucir unas manos bonitas y cuidadas sin tener que preocuparte de si se entropean, este es tu servicio ideal.", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Afeitado A Cuchilla Con Masaje Facial", 
+            "description": "Es tiempo de cuidarse y en Escultor del Cabello sabemos como hacer para que te sientas como en casa. Nuestro servicio de afeitado, garantizado por nuestros profesionales. Incluye un masaje facial para que disfrutes de un buen momento de relax. Duración del servicio es de 25 minutos. ¡Ponte en manos de nuestros mejores profesionales y reserva online al mejor precio!", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Afeitado De Cabeza A Navaja", 
+            "description": "Afeitado cabeza que al mismo tiempo te ayuda en la hidratación del cuero cabelludo. Incluye también masaje para disfrutar de un buen momento de relajación. ¡Todo ello en manos de nuestro mejor equipo de profesionales! Reserva online al mejor precio y en tan solo 3 clics.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Arreglo Barba Longitud Normal", 
+            "description": "Las barbas están de moda y nosotros lo sabemos. No hay nada como empezar a cuidarse. Recorte de barba para darle la forma deseada. Cuida con nosotros tu imagen y consigue un look envidiable. ¡Ponte en manos de los mejores profesionales! Calidad el mejor precio en Escultor del Cabello. Servicio para una longitud de la barba normal. Repetirás y te encantará.", 
+            "price": "13.5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Arreglo De Barba Longitud Normal Y Marcar Navaja", 
+            "description": "La barba se ha convertido en una parte fundamental de tu imagen, por lo que llevarla cuidada es muy importante. Recorte de barba para darle la forma deseada. Cuida con nosotros tu imagen y consigue un look envidiable. ¡Ponte en manos de los mejores profesionales! Calidad el mejor precio en Escultor del Cabello. El servicio incluye el arreglado y marcado de barba con una longitud normal.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Escultor Y Manicura Masculina", 
+            "description": "SCULTOR-MEN!! Servicio personalizado en el que los profesionales realizan un estudio de visagismo y adecuan un look a tu imagen y estructura facial. Este servicio incluye el lavado con champú recomendado, corte caballero y, además, una manicura básica. Duración aproximada 40 minutos. Dedica un tiempo para ti y nuestros estilistas se adaptarán a tus gustos para conseguir el cambio de look perfecto para ti.", 
+            "price": "7.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Hombre, Asesoramiento Y Lavado Cabello", 
+            "description": "Un servicio muy especial. En el momento en el que la persona se encuentra en el salón, se realiza un asesoramiento muy personalizado. En Escultor del Cabello te asesoramos con el corte y estilo que mayor favorezca tu imagen. El servicio incluye este asesoramiento, el lavado y el corte con productos de L'Oreal Professional. ¡Reserva ya en Bucmi al mejor precio! Te ofrecemos el resultado que buscas.", 
+            "price": "14.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Lavado Hombre (Estilista)", 
+            "description": "Este servicio incluye el lavado y el corte de caballero a elegir entre tijera o maquina, dependiendo del estilo a crear. ¡Todo ello con el mejor equipo de profesionales y a un precio increíble! No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com. Te atenderá un empleado de la peluquería Escultor. Reserva tu cita online.", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavado Champú Recomendado Y Corte Pelo Hombre", 
+            "description": "Con nuestros productos de alta calidad, cuidaremos tu cabello desde el inicio desde el servicio. Además, podrás realizar un corte para sanear o para un cambio de look. El servicio incluye el lavado con el producto más recomendado para tu tipo de cabello y el corte de pelo a tijera, maquina o navaja, dependiendo del estilo a crear. ¡Reserva ya en Bucmi, siempre con los mejores productos del mercado!", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Maquillaje Novia E Incluida Prueba De Regalo", 
+            "description": "Para estar perfecta el día mas especial en la vida de una mujer, el centro ofrece un servicio de maquillaje de novia con una prueba incluida. Todo debe estar perfecto este día, por eso un equipo profesional te atenderá para hacer que te sientas la más bella del mundo. El servicio incluye una prueba de maquillaje de regalo.", 
+            "price": "14.8 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Moldeado Media Melena", 
+            "description": "Si siempre has soñado con lucir una melena llena de movimiento y vida, reserva online un moldeado en Escultor del Cabello. Es un Rizado del cabello con moldes mediante ruptura-sellado puentes cistínicos. ¡Luce una melena peinada y con volumen en manos de nuestros profesionales cualificados! ¡Te encantará! Servicio para media melena.", 
+            "price": "20.8 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Moldeado Pelo Largo", 
+            "description": "Si tienes una melena larga y densa y quieres aportar volumen y movimiento te encantará el moldeado. Rizado del cabello con moldes mediante ruptura-sellado puentes cistínicos. ¡Luce una melena peinada y con volumen en manos de nuestros profesionales cualificados! ¡Te encantará! Servicio para pelo largo. Reserva online tu cita al mejor precio.", 
+            "price": "95 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mujer. Corte, Peinado Pelo Corto Y Manicura", 
+            "description": "Servicio de lavado con champú neutro ,bálsamo o crema corte y peinado para mujer en pelo corto. Además, acompaña el servicio con una manicura básica. ¡Reserva ya este pack de belleza en Bucmi! La duración aproximada es de 50 minutos!", 
+            "price": "46 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack Novia", 
+            "description": "Un pack especial y super completo para el día más importante en la vida. El centro ofrece a todas las futuras novias un pack de preparación de novia que incluye una limpieza de cutis para preparar la piel devolviendo vitalidad y suavidad, una depilación (que incluye piernas, ingles y axilas), manicura y pedicura, y el maquillaje. De regalo, incluido en el precio, una prueba de maquillaje por un valor ahorrado de 60 euros.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Tto. Capilar Steampod Bálsamo Y Plancha Hombre", 
+            "description": "Tratamiento de alisado temporal evitando encrespamiento con aporte de brillo y sedosidad. ¡Disfruta de una melena suave y lisa con este tratamiento con productos de L'oreal! Precio para hombre. No incluye peinado.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tto. Capilar Steampod Bálsamo Y Plancha Mujer", 
+            "description": "¿Conoces el placer de lavarte el pelo y tenerlo perfecto en apenas unos toques? Tratamiento de alisado temporal evitando encrespamiento con aporte de brillo y sedosidad. ¡Disfruta de una melena suave y lisa con este tratamiento con productos de L'oreal! No incluye peinado. Reserva online en tan solo 3 clics y al mejor precio. Todo lo mejor para tu cabello.", 
+            "price": "205 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Maquillaje Día Mujer", 
+            "description": "¿Quieres realzar tu belleza personal en tu día a día? ¿Deseas estar perfecta durante todo el día? Te asesoraremos según las facciones del rostro y sacaremos la mejor versión de ti misma. Reserva online ya este servicio y déjate maquillar por los profesionales de Escultor del Cabello. Utilización de productos de primeras marcas. Precio incluido para mujer.", 
+            "price": "8.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Maquillaje Día O Noche Hombre", 
+            "description": "¿Tienes una ocasión especial y quieres resaltar lo mejor de ti? Atrévete con nuestro maquillaje especial para hombres, tan natural que apenas se nota y estarás perfecto para la ocasión. ¡Se acabó el mito de que los hombres no se maquillan! En nuestro centro sacaremos lo mejor de ti. Reserva ya este servicio de maquillaje de día o noche y déjate maquillar por los profesionales de Escultor del Cabello. Utilización de productos de primeras marcas. Precio para hombre.", 
+            "price": "10.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Maquillaje Madrina E Incluida Prueba De Regalo", 
+            "description": "Ser una dama de honor es un evento especial y muy importante, por eso en este día es fundamental estar perfecta. El centro escultor del cabello y su parte dedicada a la estética atenderá a las damas de honor para que sean maravillosas en este importante día. El servicio incluye el maquillaje y una prueba gratuita de regalo.", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Maquillaje Noche Mujer", 
+            "description": "¿Tienes un evento especial y quieres lucir perfecta? Ponte en manos de nuestros maravillosos estilistas y déjate aconsejar, teniendo en cuenta tus rasgos y facciones te aconsejarán el mejor maquillaje con los tonos que más te favorezcan para que estés radiante.Reserva ya este servicio y déjate maquillar por los profesionales de Escultor del Cabello. Utilización de productos de primeras marcas. Precio para mujer.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Maquillaje Novia E Incluida Prueba De Regalo", 
+            "description": "Para estar perfecta el día mas especial en la vida de una mujer, el centro ofrece un servicio de maquillaje de novia con una prueba incluida. Todo debe estar perfecto este día, por eso un equipo profesional te atenderá para hacer que te sientas la más bella del mundo. El servicio incluye una prueba de maquillaje de regalo.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Escultor Y Manicura Masculina", 
+            "description": "SCULTOR-MEN!! Servicio personalizado en el que los profesionales realizan un estudio de visagismo y adecuan un look a tu imagen y estructura facial. Este servicio incluye el lavado con champú recomendado, corte caballero y, además, una manicura básica. Duración aproximada 40 minutos. Dedica un tiempo para ti y nuestros estilistas se adaptarán a tus gustos para conseguir el cambio de look perfecto para ti.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Básica Masglo Con Masaje Manos", 
+            "description": "¡Reserva ya este servicio de manicura básica con masaje! En el servicio cortamos/limamos, cuidamos cutículas, exfoliamos, tratamiento durezas, hidratamos, masajeamos y maquillamos tus uñas con color a elegir entre nuestra gama de tonos. Trabajamos con esmaltes de la marca Masglo. Luce unas uñas bonitas y cuidadas con esta maravillosa manicura y disfruta de un masaje de manos que las hidratarán al máximo.", 
+            "price": "95 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Masglo Y Tto. Parafina Mujer", 
+            "description": "Es muy importante cuidar y mimar tus manos y para eso te ofrecemos un servicio de manicura con parafina. La parafina proporciona nutrición y elasticidad para la piel a la vez que reduce dolores articulares. En el servicio cortamos / limamos, cuidamos cutículas, masajeamos con hidratación y maquillamos tus uñas con color a elegir entre nuestra gama de tonos. Trabajamos con esmaltes de la marca Masglo.", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente Mujer", 
+            "description": "Reserva ya este servicio de manicura de larga duración. El servicio incluye el limado, cortado de la uña, la eliminación de cutículas, masaje con hidratación y el esmaltado permanente del color a elegir entre nuestra gama de tonos. ¡Luce unas manos cuidadas durante 3 semanas! Si deseas lucir unas manos bonitas y cuidadas sin tener que preocuparte de si se entropean, este es tu servicio ideal.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura, Masaje Y Pulido", 
+            "description": "¡Disfruta esta manicura con pulido y masaje! El servicio incluye la retirada de cutículas, pulido de uñas o esmalte a elegir color entre nuestra gama de tonos. ¡Porque unas manos cuidadas dicen mucho de tí y en Escultor del Cabello lo sabemos! Trabajamos con esmaltes de la marca Masglo.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Básica Masglo Mujer", 
+            "description": "Es el momento de cuidar y mimar tus pies con esta pedicura básica que te ofrecemos, para que luzcas unas uñas a todo color. Reserva ya este servicio de pedicura que incluye el limado / cortado de uña, la eliminación de cutículas, masaje con hidratación y el esmaltado del color a elegir entre nuestra gama de tonos. ¡Luce unos pies cuidados todo el año! Trabajamos con esmaltes de la marca Masglo.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Con Esmaltado Permanente Mujer", 
+            "description": "En Escultor del Cabello ponemos a tu disposición la pedicura más duradera, para que durante más de dos semanas tengas unas uñas perfectas y a todo color. El servicio compuesto de corte/ limado de uñas, eliminación de cutículas, masaje con hidratación y el esmaltado permanente del color a elegir entre nuestra gama de tonos. ¡Luce unos pies cuidados durante 3 semanas! Te encantará.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

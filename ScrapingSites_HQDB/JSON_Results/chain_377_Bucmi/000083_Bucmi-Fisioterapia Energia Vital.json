@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Fisioterapia Energía Vital", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=84", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4531312000", 
+    "longitude": "-3.7074643999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/fisioterapiaevital", 
+    "office_number": "914594925", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Fisioterapia Energía Vital es un centro especializado en recuperar la salud de nuestros pacientes y preservar y evitar posibles lesiones y enfermedades crónicas en el futuro. Ven a vistarnos a Tetuán y nuestros profesionales cualificados te atenderán.", 
+    "services": [
+        {
+            "service": "Bono 4 Sesiones Acupuntura", 
+            "description": "Bono de 5 sesiones de Acupuntura, es una técnica que consiste en inyectar finas agujas en distintas zonas, según la necesidad a tratar. Si tienes problemas como :estrés, dolor de cabeza, espalda... Ven a vernos y prueba esta terapia.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Fisioterapia", 
+            "description": "Para evitar dolores musculares, eliminar esas tensiones creadas por el ritmo de vida que llevamos... Fisioterapia Energía Vital, te propone este Bono de 5 sesiones en promoción, si eres de los que acude con regularidad al fisio... ¡No lo dudes!", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Masaje Drenante", 
+            "description": "Bono de 5 sesiones de masaje Drenante realizado de forma manual, trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto tanto para hombres como mujeres. Se nota una eliminación de los líquidos acumulados. Disfruta de este precio excepcional en nuestro centro.", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Masaje Drenante", 
+            "description": "Bono de 5 sesiones de masaje Drenante realizado de forma manual, trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto tanto para hombres como mujeres. Se nota una eliminación de los líquidos acumulados. Disfruta de este precio excepcional en nuestro centro.", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Drenante", 
+            "description": "Masaje Drenante realizado de forma manual y que trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto para hombres o mujeres. Se nota la eliminación de los líquidos acumulados y disminución de la inflamación a través de la técnica de Drenaje Linfático.", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Fisioterapia", 
+            "description": "Para evitar dolores musculares, eliminar esas tensiones creadas por el ritmo de vida que llevamos... Fisioterapia Energía Vital, te propone este Bono de 5 sesiones en promoción, si eres de los que acude con regularidad al fisio... ¡No lo dudes!", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Fisioterapia", 
+            "description": "Si tienes dolores musculares, quieres eliminar esas tensiones creadas por el ritmo de vida que llevamos... Te proponemos esta sesión de fisioterapia practicada por un profesional en el sector, que notarás como mejoras desde esa misma sesión.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Fisioterapia Y Reeducación Postural Global", 
+            "description": "Sesión de una hora de duración de fisioterapia y RPG, reeducación postural global. Gracias a esta sesión, aprenderás posturas para mejorar las tensiones y eliminar los dolores físicos causados por los malo hábitos. Sistema de gran ayuda, realizado por nuestros profesionales.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 4 Sesiones Acupuntura", 
+            "description": "Bono de 5 sesiones de Acupuntura, es una técnica que consiste en inyectar finas agujas en distintas zonas, según la necesidad a tratar. Si tienes problemas como :estrés, dolor de cabeza, espalda... Ven a vernos y prueba esta terapia.", 
+            "price": "175 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Acupuntura Según Necesidades", 
+            "description": "La Acupuntura es una terapia alternativa proveniente de la Medicina Tradicional China que consiste en canalizar la energía de nuestro cuerpo de forma armónica y correcta, por medio de finas agujas que se colocan en distintas zonas del cuerpo, según la necesidad que se requiera tratar en el momento. Con ésta técnica podemos tratar desde problemas de ansiedad, estrés, depresión como dolores de cabeza, cuello, espalda, etc...", 
+            "price": "175 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

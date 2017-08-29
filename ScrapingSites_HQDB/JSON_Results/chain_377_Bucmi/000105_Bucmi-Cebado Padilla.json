@@ -1,0 +1,186 @@
+{
+    "name": "Bucmi-Cebado Padilla", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=7", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4063382000", 
+    "longitude": "2.1759005999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/cebado", 
+    "office_number": "934351323", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Tu peluquería cerca de La Sagrada Familia, ofrecen servicios de peluquería y de estética desde 1892 de la mano de los mejores profesionales. Ven a conocernos y disfruta de nuestros cortes de tendencia, mechas, coloraciones...y te encantará el resultado.", 
+    "services": [
+        {
+            "service": "Alisado Taninoplastia Cabello Corto", 
+            "description": "Con la taninoplastia conseguirás un alisado duradero sin dañar tu cabello gracias a las propiedades naturales de los taninos, compuestos naturales de origen vegetal. Olvídate por fin del encrespamiento y consigue domar tu melena. Es un servicio para cabello corto.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Alisado Taninoplastia Cabello Largo", 
+            "description": "Gracias a este servicio de taninoplastia conseguirás una melena libre de encrespamiento y completamente lisa sin dañar tu cabello gracias a las propiedades naturales de los taninos, compuestos naturales de origen vegetal. Olvídate por fin del encrespamiento y consigue domar tu melena. Es un servicio para cabello largo.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Alisado Taninoplastia Cabello Medio", 
+            "description": "Olvídate del encrespamiento y consigue un alisado que permanecerá varios meses gracias a la taninoplastia. No dañarás tu cabello gracias a las propiedades naturales de los taninos, compuestos naturales de origen vegetal. Olvídate por fin del encrespamiento y consigue domar tu melena. Es un servicio para cabello medio.", 
+            "price": "160.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "En Cebado recomendamos que te sometas a una higiene facial periódica para mantener la limpieza y buen aspecto de tu cutis. En primer lugar, realizamos un diagnóstico facial para emplear los productos adecuados a tu piel. Comenzamos por el desmaquillado, aplicamos tónico, realizamos la extracción con vapor y finalmente, aplicamos los productos de tratamiento adecuados a tu tipo de piel. Por último, finalizamos con mascarilla.", 
+            "price": "38.40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manipedi Shellac", 
+            "description": "Con este completo servicio conseguirás uno de los servicios más beauty de Cebado: ¡nuestra manipedi! Además de limar uñas y retirar cutículas (más tratamiento de durezas en el caso de los pies), te esmaltamos con laca de uñas Shellac, la máxima garantía de semipermanente en el mercado. Consigue unas manos y pies a todo color durante semanas.", 
+            "price": "72.42 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar", 
+            "description": "Cambia de look con este servicio que incluye corte asesorado, lavado con champú y mascarilla reforzante de la marca Kerastase y L'Oreal, y peinado de última tendencia. Consulte suplemento con el profesional para cabellos extralargos.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "Porque en Cebado también somos especialistas en cortes de pelo para él, te traemos este servicio. El servicio incluye corte asesorado, lavado y peinado con productos de acabado de la marca Kerastase y L'Oreal.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Spa", 
+            "description": "El servicio incluye limado de uñas, retirada de cutículas, hidratación de la piel con masaje y esmaltado con una amplía gama de colores de la marca CND con una duración de quince días.", 
+            "price": "160.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Alisado Taninoplastia Cabello Corto", 
+            "description": "Con la taninoplastia conseguirás un alisado duradero sin dañar tu cabello gracias a las propiedades naturales de los taninos, compuestos naturales de origen vegetal. Olvídate por fin del encrespamiento y consigue domar tu melena. Es un servicio para cabello corto.", 
+            "price": "38.40 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Alisado Taninoplastia Cabello Largo", 
+            "description": "Gracias a este servicio de taninoplastia conseguirás una melena libre de encrespamiento y completamente lisa sin dañar tu cabello gracias a las propiedades naturales de los taninos, compuestos naturales de origen vegetal. Olvídate por fin del encrespamiento y consigue domar tu melena. Es un servicio para cabello largo.", 
+            "price": "72.42 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Alisado Taninoplastia Cabello Medio", 
+            "description": "Olvídate del encrespamiento y consigue un alisado que permanecerá varios meses gracias a la taninoplastia. No dañarás tu cabello gracias a las propiedades naturales de los taninos, compuestos naturales de origen vegetal. Olvídate por fin del encrespamiento y consigue domar tu melena. Es un servicio para cabello medio.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Color Raíz Y Peinar", 
+            "description": "Unifica el color de tu cabello. El servicio incluye lavado con champú y mascarilla reforzante de la marca Kerastase y L'oreal, y peinado de última tendencia. Consulte suplemento con el profesional para cabellos extralargos.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar", 
+            "description": "Cambia de look con este servicio que incluye corte asesorado, lavado con champú y mascarilla reforzante de la marca Kerastase y L'Oreal, y peinado de última tendencia. Consulte suplemento con el profesional para cabellos extralargos.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "Porque en Cebado también somos especialistas en cortes de pelo para él, te traemos este servicio. El servicio incluye corte asesorado, lavado y peinado con productos de acabado de la marca Kerastase y L'Oreal.", 
+            "price": "48 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Y Peinar", 
+            "description": "Cambia de look con este servicio que incluye mechas, lavado con champú y mascarilla reforzante de la marca Kerastase y L'Oreal, y peinado de última tendencia. Consulte suplemento con el profesional para cabellos extralargos.", 
+            "price": "90.52 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "En Cebado recomendamos que te sometas a una higiene facial periódica para mantener la limpieza y buen aspecto de tu cutis. En primer lugar, realizamos un diagnóstico facial para emplear los productos adecuados a tu piel. Comenzamos por el desmaquillado, aplicamos tónico, realizamos la extracción con vapor y finalmente, aplicamos los productos de tratamiento adecuados a tu tipo de piel. Por último, finalizamos con mascarilla.", 
+            "price": "65.55 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manipedi Shellac", 
+            "description": "Con este completo servicio conseguirás uno de los servicios más beauty de Cebado: ¡nuestra manipedi! Además de limar uñas y retirar cutículas (más tratamiento de durezas en el caso de los pies), te esmaltamos con laca de uñas Shellac, la máxima garantía de semipermanente en el mercado. Consigue unas manos y pies a todo color durante semanas.", 
+            "price": "27.72 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Spa Francesa", 
+            "description": "El servicio incluye limado de uñas, retirada de cutículas, hidratación de la piel con masaje y esmaltado con manicura francesa de la marca CND con una duración de quince días.", 
+            "price": "19.77 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Spa", 
+            "description": "El servicio incluye limado de uñas, tratamiento de durezas, retirada de cutículas, hidratación de la piel con masaje y esmaltado con una amplía gama de colores de la marca CND con una duración de quince días.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Shellac", 
+            "description": "Con este completo servicio, no solo te llevas una manicura completa con limado y retirada de cutículas, sino que esmaltamos utilizando las lacas semipermanentes Shellac, que te garantizan un resultado que perdurará semanas. No lo pierdas y luce manos por más tiempo,", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Spa", 
+            "description": "El servicio incluye limado de uñas, retirada de cutículas, hidratación de la piel con masaje y esmaltado con una amplía gama de colores de la marca CND con una duración de quince días.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Shellac", 
+            "description": "Con esteservicio de pedicura disfrutarás del limado de uñas, retirada de cutículas y tratamiento de durezas para su eliminación. Además, te esmaltamos con pintaúñas semipermanente de la casa Shellac. ¿Te imaginas unos pies impecables durante semanas? Ahora, es posible. ¡Apúntate!", 
+            "price": "62.12 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Depilación Piernas Enteras E Ingles", 
+            "description": "Elimina ese vello tan molesto con cera tibia gracias a este pack de piernas enteras e ingles normales. Conseguirás una piel suave y libre de vello por más tiempo.", 
+            "price": "65.55 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "name": "Bucmi-Lashes Avenue", 
+    "scrape_page": "https://www.bucmi.com/Oviedo.html?page=1", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "43.3642218000", 
+    "longitude": "-5.8566925000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/lashes-avenue", 
+    "office_number": "984192398", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro de estética Lashes Avenue está ubicado en Calle Asturia 41, en Oviedo. El centro está especializado en extensiones de pestañas, en manicura y pedicuras. La experiencia y el saber de Juncal y Sara, los fundadores y propietarios del centro, son una garantía de profesionalidad y calidad. Ofrecen servicios aptos para todos los estilos, desde el tratamiento de pestañas naturales o el sistema de pestañas pelo a pelo para un volumen extra. Todos los productos son de alta calidad, como la marca Andreia y Elite Delux. La filosofía del centro es la de satisfacer todas las necesidades de sus clientes para que salgan satisfechos con el resultado. Un ambiente acogedor y el cuidado de cada detalle es lo que define al centro Lashes Avenue.", 
+    "services": [
+        {
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "description": "Con el pelo a pelo conseguirás que tu mirada luzca siempre perfecta y como si estuvieras recién maquillada con mascara de pestañas. Logra imitar el efecto de raya superior en tu ojo. Indicado para personas a partir de 22 años que quieran más volumen y largo en sus pestañas naturales. Se colocará una extensión sobra cada una de las pestañas naturales existentes.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Semipermanente", 
+            "description": "Este servicio incluye un Tratamiento SPA en seco con esmaltado semipermanente para la manicura y la pedicura. Elige entre una amplia gama de colores lo que más te gusta para uñas perfectas. Un equipo de profesionales expertos te atenderá para satisfacer todas tus necesidades. El tratamiento tiene una duración de 1 hora/1h15min aproximadamente.", 
+            "price": "26.40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "La manicura semipermanente incluye: limado, diseño y esmaltado de las uñas con laca de alta calidad, curado en lámpara LED. Las uñas estarán perfectas al menos durante 3 semanas.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Extensión Con Gel", 
+            "description": "Gracias al Gel de alta calidad se consigue el largo y la forma que el cliente desea. Para finalizar el tratamiento se esmaltará con laca de uñas de curado en lámpara LED, pudiendo elegir entre una gran variedad de colores y diseños.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "description": "Con el pelo a pelo conseguirás que tu mirada luzca siempre perfecta y como si estuvieras recién maquillada con mascara de pestañas. Logra imitar el efecto de raya superior en tu ojo. Indicado para personas a partir de 22 años que quieran más volumen y largo en sus pestañas naturales. Se colocará una extensión sobra cada una de las pestañas naturales existentes.", 
+            "price": "9.60 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Sistema Natural", 
+            "description": "Este tipo de sistema REALZA TU MIRADA, indicado para personas de entre 15 y 22 años que no necesitan demasiado volumen ni largo en sus pestañas pero que quieren redefinir su mirada, se emplea para sustituir a la máscara de pestañas tradicional.", 
+            "price": "26.40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Masculina", 
+            "description": "Este servicio está dedicado a todos los hombres que quieran cuidar sus manos y sus pies. Una manicura que incluye un tratamiento SPA que ayuda a hidratar las manos, y un servicio de pedicura para eliminar las durezas y devolver a los pies suavidad.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Semipermanente", 
+            "description": "Este servicio incluye un Tratamiento SPA en seco con esmaltado semipermanente para la manicura y la pedicura. Elige entre una amplia gama de colores lo que más te gusta para uñas perfectas. Un equipo de profesionales expertos te atenderá para satisfacer todas tus necesidades. El tratamiento tiene una duración de 1 hora/1h15min aproximadamente.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Envoltura Con Gel", 
+            "description": "Se realiza el trabajo sobre la uña natural sin utilizar molde para alargar tu uña de manera natural. Ideal para corregir fallos de estructura en la uña o aumentar el grosor en uñas débiles, se finaliza el trabajo esmaltando con laca de uñas de secado con lámpara LED.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensión Con Gel", 
+            "description": "Gracias al Gel de alta calidad se consigue el largo y la forma que el cliente desea. Para finalizar el tratamiento se esmaltará con laca de uñas de curado en lámpara LED, pudiendo elegir entre una gran variedad de colores y diseños.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Masculina", 
+            "description": "Limpieza, limado y pulido de la uña masculina sin esmaltado, eliminando imperfecciones y rediseñando la estructura de la uña.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "La manicura semipermanente incluye: limado, diseño y esmaltado de las uñas con laca de alta calidad, curado en lámpara LED. Las uñas estarán perfectas al menos durante 3 semanas.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Tradicional", 
+            "description": "La manicura tradicional incluye: limado, diseño de las uñas y esmaltado tradicional sin curado en lámpara. Luce unas uñas naturales durante al menos una semana sin necesidad de tener que acudir a tu centro de belleza para retirar el esmalte.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente", 
+            "description": "Si quieres un cambio en el color de tus uñas para lucirlas bonitas y cuidadas durante semanas, no pierdas la oportunidad con este servicio de pedicura semipermanente. El servicio incluye limado y esmaltado semipermanente de las mejores marcas. Ponemos a tu disposición una amplia gama donde seguro encontrarás el color que más te gusta.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente Spa", 
+            "description": "La pedicura semipermanente incluye: limado de las uñas, diseño y esmaltado con laca de alta calidad y curado en lámpara LED. Las uñas estarán perfectas al menos durante 3 semanas. En el caso de la pedicura se realiza un tratamiento SPA en seco, limado de asperezas y aplicación de exfoliante, además del esmaltado en lámpara LED.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Tradicional", 
+            "description": "Con la pedicura tradicional cuida tus uñas. El servicio es realizado de manos de las esteticistas de Lashes Avenue e incluye limado y esmaltado tradicional de las mejor marcas. Perfecto para un evento o todos los días.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

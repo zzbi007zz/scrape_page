@@ -1,0 +1,74 @@
+{
+    "name": "Bucmi-Rosselló", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=24", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3948673000", 
+    "longitude": "2.1595953999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/cerossello", 
+    "office_number": "934885247", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Ven a vernos a nuestra especializada clínica estética Rosselló, ubicada en La Dreta de L'Eixample, en Barcelona, y disfruta de una imagen renovada con nuestros profesionales especializados. Reserva con Bucmi nuestros tratamientos y disfruta del resultado", 
+    "services": [
+        {
+            "service": "Microblading Cejas", 
+            "description": "Disfruta de unas cejas estupendas y pobladas gracias a nuestro servicio de microblading de Clínica Rosselló. Te las dejaremos perfectas para que puedas olvidarte de maquillarlas de manera permanente. No te arrepentirás de los resultados.", 
+            "price": "232.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Corporal Indiba Abdomen", 
+            "description": "Para tratar grasa visceral focalizada y piel flácida en abdomen. Su objetivo es drenar el abdomen, accelerar la circulación, reducir la grasa acumulada y reafirmar la piel. 60 minutos en cabina.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Drenaje Linfático Piernas", 
+            "description": "Se ejercita manualmente mediante presiones para activar el sistema linfático y drenar liquidos.", 
+            "price": "232.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antifaz (Indiba)", 
+            "description": "Para hinchazón de párpados y bolsas de grasa. Gracias a este tratamiento la piel está más tensada y jóven. Su función es drenar y incrementar la circulación sanguinea en el contorno de ojos.", 
+            "price": "290 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Relleno Ellansé", 
+            "description": "Tratamietno de relleno facial con Ellansé. Lifting facial inmediato. Realizado con una microaguja sobre la zona a tratar, actuando como relleno, siendo muy efectico en rostros que se van descolgando y pierde el colágeno de forma natural. Rejuveneciemeitno general.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Microblading Cejas", 
+            "description": "Disfruta de unas cejas estupendas y pobladas gracias a nuestro servicio de microblading de Clínica Rosselló. Te las dejaremos perfectas para que puedas olvidarte de maquillarlas de manera permanente. No te arrepentirás de los resultados.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Fotodepilación Shr Indoloro Ingles O Axilas", 
+            "description": "Se acerca el verano. Si desea eliminar el vello en diferentes zonas del cuerpo, no dude en contratar este servicio que es totalmente indoloro y da buenos resultados con precio asequible. 30€ cada zona ( axilas o ingles)", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "name": "Bucmi-Esther Pérez Marenga", 
+    "scrape_page": "https://www.bucmi.com/Valencia.html?page=9", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "39.4783626000", 
+    "longitude": "-0.3761845000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/esther-perez-marenga", 
+    "office_number": "963925664", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro de estética y peluquería Esther Pérez Marenga, situado en Ciutat Vella, Valencia, ofrece gran variedad de cortes de pelo asesorados, mechas, color, higiene facial, masaje relajante y esmaltado en manos. Reserva ahora tu cita online con Bucmi.", 
+    "services": [
+        {
+            "service": "Tratamiento De Manos Con Parafina", 
+            "description": "Para las manos más castigadas contamos con un tratamiento intensivo con parafina, que se realiza siguiendo unos pasos muy específicos: desinfección de manos, exfoliación de las mismas para eliminar células muertas, aplicación de crema protectora, se sumergen las manos en la parafina 15 minutos, se retiran y se aplica crema hidratante. ¡Tus manos estarán más suaves que nunca!", 
+            "price": "10.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Aprovecha nuestra promoción y mima tu cutis para que ofrezca la mejor versión de ti misma. Nuestra higiene facial se realiza completa, incluyendo: limpieza inicial con leche limpiadora, aplicación de un revitalizante de mandarina y retirada con leche limpiadora, extracción de puntos negros, gasa calmante con lavanda y masaje final con crema de caviar. ¡No dejes la salud de tu cutis descuidada!", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "¿Quién dice que a los chicos nos les importa el estilo? En nuestra peluquería le damos la misma importancia al look masculino que al femenino, por eso nuestro corte de pelo se realiza escuchando siempre tus gustos y asesorándote. Además, incluye lavado con champú L'Oréal y masaje relajante. ¡Resérvalo ya y ven a conocernos!", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas", 
+            "description": "¿Te gustaría llevar un look de color más impactante? Consíguelo con unas mechas adecuadas a tu color de pelo y tus rasgos con nosotros. El servicio incluye la aplicación de mechas con papel plata, lavado con champú e hidratación específica según el tipo de pelo y secado al aire. No incluye peinado (tendría un suplemento en el centro). ¡Resérvalo en un clic y renueva tu color!", 
+            "price": "10.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte Raíz", 
+            "description": "Unifica el color de tu pelo cubriendo de forma adecuada la raíz, de la mano de nuestros especialistas en color. Este servicio es específico para raíz con color de Salerm o L'Oréal e incluye lavado con champú e hidratación específica para cada tipo de pelo. También incluye secado exprés para quitar humedad, pero no peinado. ¡Mantén tu color perfecto reservándolo ya con 3 clics!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Aprovecha nuestra promoción y mima tu cutis para que ofrezca la mejor versión de ti misma. Nuestra higiene facial se realiza completa, incluyendo: limpieza inicial con leche limpiadora, aplicación de un revitalizante de mandarina y retirada con leche limpiadora, extracción de puntos negros, gasa calmante con lavanda y masaje final con crema de caviar. ¡No dejes la salud de tu cutis descuidada!", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento De Manos Con Parafina", 
+            "description": "Para las manos más castigadas contamos con un tratamiento intensivo con parafina, que se realiza siguiendo unos pasos muy específicos: desinfección de manos, exfoliación de las mismas para eliminar células muertas, aplicación de crema protectora, se sumergen las manos en la parafina 15 minutos, se retiran y se aplica crema hidratante. ¡Tus manos estarán más suaves que nunca!", 
+            "price": "12.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Esmaltado Semipermanente", 
+            "description": "Presume de uñas bonitas hasta 3 semanas con nuestra manicura semipermanente. Primero te realizamos una manicura completa (limado e uñas y retirada de cutículas), después esmaltamos las uñas con laca semipermanente en el color que prefieras de nuestra gama disponible y finalizamos aplicando un aceite hidratante para las cutículas. ¡No podrás dejar de mirar tus uñas perfectas!", 
+            "price": "37.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Déjate envolver por nuestra burbuja de tranquilidad y elimina la tensión ocasionada por el frenético ritmo cotidiano con un masaje relajante. Para conseguir una mayor serenidad y acción sobre el sistema nervioso, se realiza con velas aromáticas y aceites esenciales. ¡Resérvalo online en 1 minuto y saldrás como nuevo de nuestro centro!", 
+            "price": "21.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "name": "Bucmi-Aiyo Masajes", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=80", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4296152999", 
+    "longitude": "-3.7016112999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/aiyomasajes", 
+    "office_number": "911297591", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En la Rotonda de Bilbao, el salón de Belleza Aiyo Masajes cuenta con todo tipo de tratamientos para el cuidado y bienestar del cuerpo. Técnicas tradicionales mezcladas con las últimas tendencias. ¡Reserva servicios con nosotros y verás los resultados!", 
+    "services": [
+        {
+            "service": "Bono 4 Manicuras Y 1 Pedicura", 
+            "description": "¡Aprovecha nuestro bono de 4 Manicuras y 1 Pedicura! Podrás disfrutar de unas uñas siempre perfectas. Empezamos limando, retiramos cutículas, y finalizamos esmaltando con el color que más te guste entre una amplia gama.", 
+            "price": "62.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. Con este servicio resultarás con una manicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas.", 
+            "price": "62.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Relajante O Descontracturante 60M", 
+            "description": "Masaje relajante o descontracturante, según las necesidades del cliente. El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga.", 
+            "price": "96 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Facial", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 4 Manicuras Y 1 Pedicura", 
+            "description": "¡Aprovecha nuestro bono de 4 Manicuras y 1 Pedicura! Podrás disfrutar de unas uñas siempre perfectas. Empezamos limando, retiramos cutículas, y finalizamos esmaltando con el color que más te guste entre una amplia gama.", 
+            "price": "52 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Belleza", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir y para finalizar un masaje en las manos. Todo ello por el increíble precio de 10 euros.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. Con este servicio resultarás con una manicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas.", 
+            "price": "96 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Spa", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir, peeling, hidratación y por último un masaje en las manos. Todo ello por el increíble precio de 24 euros.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Permanente", 
+            "description": "¿Te gustaría disfrutar de unas uñas siempre perfectas con este pack de manicura y pedicura permanente? Empezamos limando, retiramos cutículas, y finalizamos esmaltando con el color que más te guste entre una amplia gama.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Belleza", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado y corte de uñas, eliminación de cutículas y durezas, esmaltado de color a elegir y para finalizar un masaje en los pies. Todo ello por el increíble precio de 22 euros.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante O Descontracturante 30M", 
+            "description": "Masaje relajante o descontracturante, según las necesidades del cliente. El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga. Duración de 30 minutos.", 
+            "price": "52 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Relajante O Descontracturante 45M", 
+            "description": "Masaje relajante o descontracturante, según las necesidades del cliente. El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga. La duración del masaje es de 40 minutos.", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Relajante O Descontracturante 60M", 
+            "description": "Masaje relajante o descontracturante, según las necesidades del cliente. El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga.", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante O Descontracturante 90M", 
+            "description": "Masaje relajante o descontracturante, según las necesidades del cliente. El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga. Duración de 90 minutos.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Reflexologia Podal 50Min", 
+            "description": "Es una técnica terapéutica basada en la estimulación de puntos sobre los pies, denominados zonas de reflejo. Supone la aplicación de un masaje manual que aplica presión en áreas reflejas de los pies para producir efectos específicos en otras partes del cuerpo. La duración del servicio es de 50 minutos.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología Podal Y Masaje Cuello Y Espalda", 
+            "description": "Es una técnica terapéutica basada en la estimulación de puntos sobre los pies, denominados zonas de reflejo. Supone la aplicación de un masaje manual que aplica presión en áreas reflejas de los pies para producir efectos específicos en otras partes del cuerpo. Este servicio incluye masaje de cuello y espalda. La duración exacta es de 75 minutos.", 
+            "price": "72 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología Podal Y Masaje Piernas Con Algas", 
+            "description": "Es una técnica terapéutica basada en la estimulación de puntos sobre los pies, denominados zonas de reflejo. Supone la aplicación de un masaje manual que aplica presión en áreas reflejas de los pies para producir efectos específicos en otras partes del cuerpo. Este servicio incluye un masaje de piernas con algas.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "Arranca el vello de raíz reservando nuestra depilación con cera en la zona de las axilas. Te ofrecemos el método de depilación más clásico con la mejor relación calidad precio. Te lo haremos con el cuidado que te mereces.", 
+            "price": "72 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Pubis", 
+            "description": "Elimina el vello de tu zona más íntima reservando nuestra depilación con cera para el pubis. Utilizamos un método tradicional de toda la vida y con la mejor relación calidad precio. ¡No lo dudes más y reserva ahora!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

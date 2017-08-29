@@ -1,0 +1,81 @@
+{
+    "name": "Bucmi-Depilstetic", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=17", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3990468999", 
+    "longitude": "2.1542756000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/depilstetic", 
+    "office_number": "688444546", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de belleza en donde podrás relajarte y mimarte en perfectas condiciones arropados por nuestros profesionales de Depilstetic. Aprovecha y reserva con nosotros nuestros completos tratamientos y depilaciones. Estamos en Vila de Gracia, en Barcelona.", 
+    "services": [
+        {
+            "service": "Higiene Facial Completa Con Punta De Diamante", 
+            "description": "Elimina las impurezas de la piel y devuelve la luminosidad y la elasticidad a tu rostro con esta higiene facial completa. El servicio incluye limpieza facial con punta de diamante, mascarilla de oro de 24 kilates y ácido hialurónico.", 
+            "price": "29.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "3 Sesiones Depilación Láser Alejandrita Medias Piernas", 
+            "description": "Elimina ese vello tan molesto con esta técnica que se realiza con aplicaciones de luz intensa sobre las capas superficiales de la piel. Olvídate de la depilación con estas 3 sesiones. resultados visibles desde la primera sesión.", 
+            "price": "240.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Higiene Facial Completa Con Punta De Diamante", 
+            "description": "Elimina las impurezas de la piel y devuelve la luminosidad y la elasticidad a tu rostro con esta higiene facial completa. El servicio incluye limpieza facial con punta de diamante, mascarilla de oro de 24 kilates y ácido hialurónico.", 
+            "price": "29.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Rejuvenecimiento Facial Fototerapia De Máscara Led", 
+            "description": "Tratamiento específico para reducir las arrugar y recuperar el tono y la elasticidad natural de tu piel. Indicado para pieles maduras, con este tratamiento podrás eliminar manchas, reducir arrugas y bolsas etc. Obtendrás unos resultados espectaculares.", 
+            "price": "240.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Reductor Láser Lipolíticolipo Shape 3B", 
+            "description": "Moldea tu figura con este tratamiento reductor Lipo Shape, la tecnología más avanzada a través de la cual mediante diodos láser de baja potencia te ayudará a la reducción de la grasa localizada y a reducir volumen.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "3 Sesiones Depilación Láser Alejandrita Medias Piernas", 
+            "description": "Elimina ese vello tan molesto con esta técnica que se realiza con aplicaciones de luz intensa sobre las capas superficiales de la piel. Olvídate de la depilación con estas 3 sesiones. resultados visibles desde la primera sesión.", 
+            "price": "330 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Láser Alejandrita Labio Superior", 
+            "description": "¿ Quieres olvidarte de la depilación? El láser Alejandrita es la mejor técnica de depilación de luz pulsada para eliminar el vello de la zona que elijas. Podrás olvidarte de depilarte el labio superior para siempre en pocas sesiones.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Alejandrita Axilas", 
+            "description": "La técnica más avanzada para una depilación definitiva. El láser alejandrita se realiza con aplicaciones de luz intensa sobre las capas superficiales de la piel, eliminando de raíz el vello para que no vuelva a aparecer.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

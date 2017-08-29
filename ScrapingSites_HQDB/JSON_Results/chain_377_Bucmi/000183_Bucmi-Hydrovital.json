@@ -1,0 +1,508 @@
+{
+    "name": "Bucmi-Hydrovital", 
+    "scrape_page": "https://www.bucmi.com/Valencia.html?page=12", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "39.4716426000", 
+    "longitude": "-0.3927757000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/hydrovital", 
+    "office_number": "963825152", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Hydrovital encontrarás una amplia gama de terapias y masajes que ayudan a equilibrar cuerpo y mente. Podrás relajarte con nosotros y cuidarte a la vez. Disfruta de cada segundo de bienestar. Ven a conocernos.", 
+    "services": [
+        {
+            "service": "Higiene Facial", 
+            "description": "Luce un cutis suave y con más luminosidad con esta limpieza facial. El servicio incluye el desmaquillado de la piel, limpieza con extracción, exfoliación, depilación facial, masaje con aromaterapia y mascarilla. ¿Quieres lucir una piel suave, hidratada y libre de impurezas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Luce un cutis limpio y fresco. Reserva tu cita yaF", 
+            "price": "23.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Consigue unas uñas cuidadas y coloridas con este servicio de manicura básica. Esta manicura incluye tratamiento de cutículas, tratamiento de uñas y manos y esmaltado a elegir entre nuestra gama de colores. Para más información, consulte con el centro. ¿Quieres lucir unas manos bonitas y cuidadas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce unas uñas bonitas, cuidadas y perfectas. Tus manos son muy importantes y dicen mucho de ti. ¡Presume de manos!F", 
+            "price": "8.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Spa", 
+            "description": "Cuida y mima tus manos con esta manicura spa. Este servicio de manicura incluye: Tratamiento de uñas y manos, tratamiento de cutículas, masaje e hidratación y esmaltado de uñas con una amplia gama de colores. Para más información, consulte con el centro. ¿Quieres lucir unas manos bonitas y cuidadas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce unas uñas bonitas, cuidadas y perfectas. Tus manos son muy importantes y dicen mucho de ti. ¡Presume de uñas!F", 
+            "price": "22.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 10 Tto. Corporal Anticelulítico Liporeductor", 
+            "description": "Bono de 10 Sesiones de Tratamiento Corporal Anticelulítico Liporeductor que incluye: exfoliación, gel térmico, ampollas reductora, envoltura y masaje. ¿Quieres lucir un cuerpo tonificado? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Trabajamos con la aparatología más avanzada y de última generación para conseguir unos resultados óptimos y duraderos. Elimina la grasa localizada y la celulitis. Realza, remodela y reduce tu figura. Reserva tu cita en Bucmi.com.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Lápiz Dérmico Facial Y Corporal", 
+            "description": "Es un tratamiento médico estético. Es un sistema de mesoterapia y puede ser facial o corporal. Se pueden hacer tratamientos despigmentantes, reducción de marcas de acné, efecto flash, introducción de vitaminas... Trabajamos con las mejores marcas y productos. Y contamos con la aparatología de última generación para conseguir los mejores resultados. Presume de una piel mucho más tersa y joven. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "22.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje Novia Y Prueba", 
+            "description": "¡Te ponemos guapa para ese día tan especial! Incluye la prueba del maquillaje en el día seleccionado y el maquillaje el día de la boda. Para más información y detalles consulta con nuestros profesionales. ¿Quieres estar perfecta en uno de los días más especiales e importantes de tu vida? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y aplicarán un maquillaje muy natural y que realce las facciones más bonitas de tu rostro. Reserva yaF", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje De Novio", 
+            "description": "Porque ellos también se preocupan de estar perfectos ese día tan importante, reserva online nuestro maquillaje para novios y sé tú también el protagonista. ¿Quieres estar perfecto en uno de los días más especiales de tu día? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y aplicarán un maquillaje muy natural. ¡Estarás perfecto en tu día! Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Te encantará!F", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pack Novia *Como Tú Ninguna*", 
+            "description": "Este servicio incluye: Higiene Facial más Velo colágeno, lifting de pestañas, depilación completa, exfoliación corporal, masaje ayurvédico, manicura spa y pedicura spa. ¿Quieres estar perfecta en uno de los días más especiales e importantes de tu vida? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Estarás perfecta en tu día y tú serás la única protagonista. Estarás radiante.Reserva tu cita cómodamente online a través de Bucmi.com y aprovecha este fantástico packF", 
+            "price": "23.20 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Pack Novio *Por Siempre Tuyo*", 
+            "description": "Incluye: Higiene facial, depilación completa, exfoliación corporal, Masaje ayurvédico con pindas tailandesas, manicura spa y pedicura spa. ¿Quieres estar perfecto en uno de los días más importantes y especiales de tu vida? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Estarás perfecto y deslumbrante. Aprovecha este Pack y no te arrepentirás. Te verás radiante. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!¡No dejes que te lo cuenten!F", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Rayos Uva", 
+            "description": "¡Consigue el tono de piel deseado antes que nadie! Como si acabaras de llegar de tus vacaciones de verano, incluso en invierno. Incluye 10 sesiones a disfrutar en diferentes días. ¿Quieres lucir un bronceado bonito durante todo el año? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!F", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "description": "Reduce esa celulitis tan molesta con el método de la presoterapia, basado en un traje especial que se va inflando poco a poco, actuando sobre la grasa general. Incluye 10 sesiones de presoterapia a disfrutar en distintos días. ¿Quieres lucir un cuerpo tonificado y libre de grasa localizada? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis. Reserva tu cita en Bucmi.comF", 
+            "price": "8.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Cuidado Corporal: Exfoliacion Corporal", 
+            "description": "Sesión de exfoliación de todo el cuerpo para poder penetrar mejore en las capas más profundas de la piel. Conseguirás una piel limpia e hidratada. ¿Quieres lucir una piel suave, hidratada y libre de imperfecciones? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a las imperfecciones e impurezas. ¡Tu piel lucirá radiante y perfecta! Reserva tu cita en Bucmi.comF", 
+            "price": "22.40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Luce un cutis suave y con más luminosidad con esta limpieza facial. El servicio incluye el desmaquillado de la piel, limpieza con extracción, exfoliación, depilación facial, masaje con aromaterapia y mascarilla. ¿Quieres lucir una piel suave, hidratada y libre de impurezas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Luce un cutis limpio y fresco. Reserva tu cita yaF", 
+            "price": "14.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje Novia Y Prueba", 
+            "description": "¡Te ponemos guapa para ese día tan especial! Incluye la prueba del maquillaje en el día seleccionado y el maquillaje el día de la boda. Para más información y detalles consulta con nuestros profesionales. ¿Quieres estar perfecta en uno de los días más especiales e importantes de tu vida? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y aplicarán un maquillaje muy natural y que realce las facciones más bonitas de tu rostro. Reserva yaF", 
+            "price": "22.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Permanente De Pestañas", 
+            "description": "Consigue unas pestañas duraderas y perfectas. (Tiempo de duración: 4 semanas). ¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una mirada atractiva y seductora. Realza tus ojos gracias a este tratamiento y luce unas pestañas rizadas y con volumen. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 10 Tto. Corporal Anticelulítico Liporeductor", 
+            "description": "Bono de 10 Sesiones de Tratamiento Corporal Anticelulítico Liporeductor que incluye: exfoliación, gel térmico, ampollas reductora, envoltura y masaje. ¿Quieres lucir un cuerpo tonificado? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Trabajamos con la aparatología más avanzada y de última generación para conseguir unos resultados óptimos y duraderos. Elimina la grasa localizada y la celulitis. Realza, remodela y reduce tu figura. Reserva tu cita en Bucmi.com.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Lápiz Dérmico Facial Y Corporal", 
+            "description": "Es un tratamiento médico estético. Es un sistema de mesoterapia y puede ser facial o corporal. Se pueden hacer tratamientos despigmentantes, reducción de marcas de acné, efecto flash, introducción de vitaminas... Trabajamos con las mejores marcas y productos. Y contamos con la aparatología de última generación para conseguir los mejores resultados. Presume de una piel mucho más tersa y joven. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "46.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Cuidado Corporal: Exfoliación Y Envoltura Caliente", 
+            "description": "La exfoliación preparará tu piel para que todos los principios activos penetren mucho mejor y la envoltura te proporcionará una gran sensación de bienestar además de hidratar tu piel. ¿Quieres lucir una piel suave, hidratada y libre de imperfecciones? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a las imperfecciones e impurezas. Reserva tu cita ahoraF", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje De Noche", 
+            "description": "La mejor opción para estar siempre perfecta. Elegiremos unos tonos más fuertes para que seas la protagonista de la fiesta nocturna que te espera. ¿Tienes una cita especial, un evento o fiesta? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y conseguirán realzar los rasgos más característicos de tu rostro. aplicarán un maquillaje natural y trabajan con las mejores marcas de cosméticos. Reserva tu cita cómodamente online en Bucmi.comF", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Maquillaje De Novio", 
+            "description": "Porque ellos también se preocupan de estar perfectos ese día tan importante, reserva online nuestro maquillaje para novios y sé tú también el protagonista. ¿Quieres estar perfecto en uno de los días más especiales de tu día? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y aplicarán un maquillaje muy natural. ¡Estarás perfecto en tu día! Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Te encantará!F", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Anticelulítico/Reductor", 
+            "description": "Las mejores técnicas de masaje manual para terminar con todo tipo de celulitis. Reserva en tu agenda 30 minutos para ti y luce una figura diez. ¿Quieres lucir un cuerpo tonificado y libre de grasa localizada? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de un cuerpo tonificado y libre de celulitis y grasa localizada. Reduce y remodela. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!F", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Corporal Circulatorio/Piernas Cansadas", 
+            "description": "La mejor opción para aliviar la pesadez de piernas. Indicado también para embarazadas. Tratamiento con aromaterapia y vendas frías. ¿Notas tus piernas cansadas al final de todo el día? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y conseguirán que desconectes de tu rutina diaria. Sumérgete en un universo de relax y bienestar. Reserva tu cita cómodamente online a través de Bucmi.com. Saldrás renovad@ de nuestro centro.¡Te encantará!F", 
+            "price": "380 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Corporal Reafirmante", 
+            "description": "Esta técnica ayudará a elevar el tono de tu piel. Aspecto más terso y sin piel de naranja. Disfruta de una piel tersa gracias a nuestros terapeutas especializados. ¿Quieres lucir una piel tersa, joven y con vitalidad? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel natural y con mucha vitalidad. Devuelve a tu piel su color y aspecto inicial. Dí adiós al color naranja. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!F", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pack *Belleza Facial*: Higiene Y Tratamientos", 
+            "description": "Incluye una higiene de bienvenida y 4 tratamientos faciales con aromaterapia (por la compra de este pack te regalamos un masaje tailandés). ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel limpia y mucho más fresca. Reserva tu cita cómodamente online a través de Bucmi.com. F", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack *Piernas Cansadas*", 
+            "description": "Este servicio incluye: 10 masajes circulatorios o drenantes o tratamiento de vendas frías más 10 sesiones presoterapia. ¿Notas tus piernas cansadas al final de todo el día? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Mejora la circulación del sistema linfático. Presume de unas piernas tonificadas, con una piel tersa y libre de celulitis. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!F", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack *Remodela Tu Silueta*", 
+            "description": "Este servicio incluye: 10 masajes anticelulíticos más ampolla específica más 10 sesiones de presoterapia. ¿Quieres lucir un cuerpo perfecto durante todo el año? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de un cuerpo tonificado y realza tu figura. Dí adiós a la celulitis y grasa localizada. Mejora la circulación del sistema linfático. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! F", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Sesión De Presoterapia", 
+            "description": "Reduce esa celulitis tan molesta con el método de la presoterapia, basado en un traje especial que se va inflando poco a poco, actuando sobre la grasa general. ¿Quieres lucir un cuerpo tonificado y libre de grasa localizada? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de un cuerpo perfecto y dí adiós a la grasa localizada y la celulitis. Mejora la circulación del sistema linfático. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!F", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Sesión De Rayos Uva", 
+            "description": "¡Consigue el tono de piel deseado antes que nadie! Como si acabaras de llegar de tus vacaciones de verano, incluso en invierno. ¿Quieres lucir un bronceado bonito durante todo el año? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de un bronceado natural y duradero. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! F", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "¿Quieres presumir de una mirada penetrante y cautivadora? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce unas bonitas pestañas hidratadas y curvadas con nuestro servicio completo. La mirada es el reflejo del alma. Disfruta de una mirada seductora y atractiva. Dí adiós a tu máscara de pestañas. Estarás perfecta desde primera hora de la mañana. No te arrepentirás. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Te encantará!F", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial: Pack Momentos Especiales", 
+            "description": "Tratamiento facial con velo de colágeno, permanente de pestañas y manicura con esmaltado semipermanente. (Por la compra de este pack te regalamos una prueba de maquillaje). ¿Quieres lucir una piel limpia y fresca, con una mirada envidiable y unas manos perfectas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel suave, hidratada, limpia y fresca. Disfruta de unas uñas perfectas, cuidadas y elegantes. Y luce una mirada penetrante y cautivadoraF", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Tto Corporal Exfoliante Ritual Del *Himalaya*", 
+            "description": "Ritual completo que incluye: peeling del Himalaya más masaje, más aplicación de pindas con hierbas medicinales. Tu piel lucirá hidratada y suave. ¿Quieres lucir una piel perfecta y súper hidratada y nutrida? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel limpia y fresca, llena de vitalidad. Disfruta de una piel libre de imperfecciones e impurezas. Tu piel estará mucho más hidratada y nutrida. Reserva tu cita cómodamente online en Bucmi.comF", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Corporal Hidratante Ritual Chocolate Y Papaya", 
+            "description": "Ritual completo que incluye: Exfoliación con pulpa de papaya y masaje con virutas de chocolate caliente. Elimina el exceso de pieles muertas de tu piel. El servicio finaliza con una hidratación profunda de la piel del cuerpo. ¿Quieres probar estos deliciosos manjares de una manera totalmente diferente? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel limpia, fresca y suave. Tu piel estará mucho más hidratada y nutrida. Dí adiós a las impurezasF", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto Corporal: Cabina De Infrarrojos", 
+            "description": "Calor seco ideal para relajarse antes y después de un masaje. Indicado para embarazadas y personas de tercera edad. ¿Necesitas desconectar de todo por un momento? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Sumérgete en un universo de relax y bienestar. Envuélvete en un universo de tranquilidad y relajación. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! F", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tto Facial Antiedad", 
+            "description": "¿Quieres lucir una piel mucho más tersa y joven?Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Específico para arrugas producidas por el paso de los años o por cambios climáticos. Tu piel lucirá mucho más joven gracias a nuestra cosmética y aparatología de alta gama. Presume de una piel mucho más tersa y joven. ¡Porque la edad simplemente es un número y en nuestro Centro lo sabemos! Dí adiós a tus arrugas y marcas de expresión muy marcadas. Reserva tu cita ahoraF", 
+            "price": "380 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial Despigmentante Con Ácidos", 
+            "description": "¿Quieres presumir de una piel perfecta y libre de imperfecciones? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Tratamiento indicado para aquellas pieles llena de lunares, de manchas u otro tipo de daño que implica coloración de parte del rostro. Por fin tu piel lucirá de nuevo uniforme. Disfruta de una piel suave, limpia y fresca. Dí adiós a las imperfecciones de tu rostro. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!F", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial Específico Acné", 
+            "description": "¿Quieres lucir una piel libre de imperfecciones y acné? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Tratamiento purificante para esas pieles que necesitan un cuidado especial. Luce un rostro libre de granos y de los daños que el acné genera sobre ella con nuestra cosmética de alta gama. Presume de una piel suave, limpia y fresca. Tu piel estará perfecta y volverá a tener vitalidad. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!F", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial Hidratante Con Velo De Colágeno", 
+            "description": "Piel jugosa y radiante para esos momentos especiales gracias a nuestro completo facial que incluye velo de colágeno sobre el rostro. Para una piel más luminosa. ¿Quieres lucir una piel con mucho brillo y luminosidad? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Disfruta de una piel suave, hidratada y muy nutrida. Tu piel estará radiante y tendrá mucha más vitalidad, con un aspecto mucho más luminoso. Reserva tu cita cómodamente online a través de Bucmi.comF", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial Multivitamínico", 
+            "description": "Específico para pieles asfixiadas y con falta de luz. ¿Quieres lucir una piel mucho más limpia, fresca e hidratada? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Tu piel estará nutrida e hidratada gracias a la aplicación de un cóctel de vitaminas concentrado que hará que tu piel respire de nuevo. Presume de una piel con mucha vitalidad, brillo y luminosidad. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!F", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial Reafirmante Del Tejido Epitelial", 
+            "description": "Consiste en un tratamiento que emplea un efecto lifting desde las capas más profundas de la piel para ganar elasticidad y perder ese efecto flácido.¿Quieres presumir de una piel mucho más tersa, lisa y joven? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. ¡Porque la edad simplemente es un número y en nuestro Centro lo sabemos! Tu piel estará radiante, mucho más tersa y lisa, sin signos del paso de la edad. Reserva tu cita cómodamente online en Bucmi.comF", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Ritual Corporal *Hechizo De Luna*", 
+            "description": "Ritual completo que incluye: Peeling de papaya, masaje hawaiano y cabina de infrarrojos. Elimina esos kilitos de más gracias a Hydrovital, a la vez que te das un respiro para ti y te relajas. ¿Quieres lucir una piel suave e hidratada, a la vez que desconectas de tu rutina diaria? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel fresca, limpia y llena de vitalidad. Además, tonifica tu cuerpo gracias a este pack y realza tu figura. Reserva ahoraF", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Consigue unas uñas cuidadas y coloridas con este servicio de manicura básica. Esta manicura incluye tratamiento de cutículas, tratamiento de uñas y manos y esmaltado a elegir entre nuestra gama de colores. Para más información, consulte con el centro. ¿Quieres lucir unas manos bonitas y cuidadas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce unas uñas bonitas, cuidadas y perfectas. Tus manos son muy importantes y dicen mucho de ti. ¡Presume de manos!F", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Spa", 
+            "description": "Cuida y mima tus manos con esta manicura spa. Este servicio de manicura incluye: Tratamiento de uñas y manos, tratamiento de cutículas, masaje e hidratación y esmaltado de uñas con una amplia gama de colores. Para más información, consulte con el centro. ¿Quieres lucir unas manos bonitas y cuidadas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce unas uñas bonitas, cuidadas y perfectas. Tus manos son muy importantes y dicen mucho de ti. ¡Presume de uñas!F", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Porque tus pies también se merece que los cuiden, disfruta de esta pedicura básica. Incluye tratamiento de cutículas, tratamiento de uñas y esmaltado a elegir entre nuestra gama de colores. Para más información, consulte con el centro. ¿Quieres lucir unas uñas bonitas, cuidadas y perfectas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de unos pies cuidados, hidratados y perfectos. Disfruta de unas uñas coloridas. Reserva tu cita online en Bucmi.comF", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Spa", 
+            "description": "Mima y cuida tus pies con esta pedicura spa. El servicio incluye tratamiento de uñas y pies, tratamiento de cutículas, masaje e hidratación y esmaltado de uñas con una amplia gama de colores. Para más información, consulte con el centro. ¿Quieres lucir unas uñas bonitas, cuidadas y perfectas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de unos pies cuidados, hidratados y perfectos. Disfruta de unas uñas coloridas. Reserva tu cita online en Bucmi.comF", 
+            "price": "280 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "Consigue unas uñas cuidadas y coloridas con este servicio de manicura semipermanente. Esta manicura incluye tratamiento de cutículas, tratamiento de uñas y manos y esmaltado a elegir entre nuestra gama de colores. Para más información, consulte con el centro. ¿Quieres lucir unas manos bonitas y cuidadas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce unas uñas bonitas, cuidadas y perfectas. Tus manos son muy importantes y dicen mucho de ti. ¡Presume de uñas!F", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente", 
+            "description": "Porque tus pies también se merece que los cuiden, disfruta de esta pedicura permanente. Incluye tratamiento de cutículas, tratamiento de uñas y esmaltado a elegir entre nuestra gama de colores. Para más información, consulte con el centro. ¿Quieres lucir unas uñas bonitas, cuidadas y perfectas? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de unos pies cuidados, hidratados y perfectos. Disfruta de unas uñas coloridas. Reserva tu cita online en Bucmi.comF", 
+            "price": "4 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Corporal Holístico Piedras Calientes/Frías", 
+            "description": "Masaje holístico con piedras calientes y frías. Agudiza tus sensaciones y disfruta. Gracias a este completo masaje de una hora de duración, podrás desconectar tu cuerpo y tu mente y recargar la batería al 100%. ¿Necesitas desconectar de tu rutina diaria? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Sumérgete en un universo de relax y bienestar. Saldrás renovad@ de nuestro centro. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!F", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante Con Velas Aromáticas", 
+            "description": "Disfruta de una hora de desconexión y relájate con la combinación de un masaje manual y el efecto calmante de las velas aromáticas. Un momento de sosiego, que mezcla sensaciones y te envuelve en una atmósfera de tranquilidad. ¿Necesitas desconectar tu cuerpo y mente? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Sumérgete en un universo de relax y bienestar. Saldrás renovad@ de nuestro Centro y conseguirás descansar mucho mejor por las noches. ¡Te encantará!F", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante Y Cabina De Infrarrojos", 
+            "description": "Este pack de masaje relajante con aromaterapia y cabina de infrarrojos, es ideal para aquellos usuarios a los que la sauna clásica les resulta demasiado cálidaejora el riego sanguíneo y sirve de estimulación para la circulación y el metabolismo. ¿Necesitas desconectar tu cuerpo y mente? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Sumérgete en un universo de relax y bienestar. Saldrás renovad@ de nuestro Centroejora la circulación del sistema linfáticoF", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Ayurveda Personalizado", 
+            "description": "El ayurveda es el sistema holístico y preventivo de saluás antiguo del mundo y es una forma natural de crear equilibrio y fortalecer las capacidades auto-curativas del cuerpo. Consiste en un masaje acompañado de una cuidadosa elección de aceites esenciales personalizados. Actúa en el plano físico y energético. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Sumérgete en un universo de relax y bienestar! F", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Ayurveda Ritual *Diksha*", 
+            "description": "Técnica hindú que incluye el cuidado facial y corporal. Tu piel estará nutrida, descansada y desestresada gracias a las técnicas ayurvédicas de Hydrovital. Consiste en un masaje acompañado de una cuidadosa elección de aceites esenciales personalizados. Actúa en el plano físico y energético. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! F", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Corporal Circulatorio/Piernas Cansadas", 
+            "description": "La mejor opción para aliviar la pesadez de piernas. Indicado también para embarazadas. Tratamiento con aromaterapia y vendas frías. ¿Notas tus piernas cansadas al final de todo el día? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y conseguirán que desconectes de tu rutina diaria. Sumérgete en un universo de relax y bienestar. Reserva tu cita cómodamente online a través de Bucmi.com. Saldrás renovad@ de nuestro centro.¡Te encantará!F", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Corporal Especial *Orange Experience*", 
+            "description": "Pura explosión mediterránea. Exfoliación con cáscara de naranja y semillas de uva más envoltura con vitaminas E,C y B y masaje relajante. ¿Quieres disfrutar de un momento único? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel limpia, suave y fresca. Disfruta de una piel mucho más hidratada y nutrida. Además, podrás desconectar de tu rutina diaria y sumergirte en un universo de relax y bienestar. Reserva tu cita cómodamente online en Bucmi.comF", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Corporal Nutritivo Con Miel De Acacia", 
+            "description": "La miel de acacia es la miel más cara del mundo. Posee un sinfín de propiedades maravillosas que nutrirán e hidratarán tu piel y te harán sentir la persona más especial. ¿Quieres disfrutar de unos de los manjares más dulces de una forma diferente? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel suave, mucho más hidratada y nutrida. Luce una piel limpia y fresca. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!F", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Corporal Reafirmante", 
+            "description": "Esta técnica ayudará a elevar el tono de tu piel. Aspecto más terso y sin piel de naranja. Disfruta de una piel tersa gracias a nuestros terapeutas especializados. ¿Quieres lucir una piel tersa, joven y con vitalidad? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel natural y con mucha vitalidad. Devuelve a tu piel su color y aspecto inicial. Dí adiós al color naranja. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!F", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Relajante De Espalda", 
+            "description": "Reserva ahora este masaje relajante y dile adiós al estrés de la mano de los mejores profesionales. Con este tratamiento conseguirás eliminar tensiones y una profunda sensación de bienestar. ¿Necesitas desconectar tu cuerpo y mente? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Sumérgete en un universo de relax y bienestar. Saldrás renovad@ de nuestro Centro y conseguirás descansar mucho mejor por las noches. Empezarás tus días con mucha energía y vitalidad. F", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Relajante En Pareja", 
+            "description": "Podrás disfrutar de un agradable masaje relajante con quien tu desees. Un placer para 2 en un ambiente relajante y privado. ¿Tu pareja y tú necesitáis desconectar de todo por un momento y disfrutar de un momento único? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Viviréis un momento de sosiego, que mezcla sensaciones y os envuelve en una atmósfera de tranquilidad. Saldréis renovad@s de nuestro Centro. Reserva tu cita cómodamente online a través de Bucmi.comF", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack *Masajes Corporales A La Carta*", 
+            "description": "¿Quieres disfrutar de un momento único y relajante? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Disponemos de 10 masajes a elegir entre todos los disponibles en nuestra carta de servicios. No lo dudes ni un momento. Vivirás un momento de sosiego, que mezcla sensaciones y te envuelve en una atmósfera de tranquilidad. Sumérgete en un universo de relax y bienestar. Saldrás renovad@ de nuestro Centro. Reserva tu cita cómodamente online a través de Bucmi.comF", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Corporal Hidratante Ritual Chocolate Y Papaya", 
+            "description": "Ritual completo que incluye: Exfoliación con pulpa de papaya y masaje con virutas de chocolate caliente. Elimina el exceso de pieles muertas de tu piel. El servicio finaliza con una hidratación profunda de la piel del cuerpo. ¿Quieres probar estos deliciosos manjares de una manera totalmente diferente? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Presume de una piel limpia, fresca y suave. Tu piel estará mucho más hidratada y nutrida. Dí adiós a las impurezasF", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "Consigue unas axilas depiladas por más tiempo que con las cuchillas convencionales y de una forma más cómoda para ti, con esta depilación de axilas con cera. ¿Quieres lucir un cuerpo libre de vello molesto durante mucho más tiempo? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Olvídate de depilarte en al menos 3 semanas. Reserva tu cita cómodamente online en Bucmi.com. F", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera De Espalda", 
+            "description": "Consigue una espalda depilada por más tiempo que con las cuchillas convencionales y de una forma más cómoda para ti, con esta depilación de espalda con cera. ¿Quieres lucir un cuerpo libre de vello molesto durante mucho más tiempo? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Olvídate de depilarte en al menos 3 semanas. Reserva tu cita cómodamente online en Bucmi.com. F", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Facial", 
+            "description": "Elimina gracias a la cera el vello de tu cara con nuestro completo pack facial y disfruta de una piel suave y sedosa por más tiempo. ¿Quieres lucir un cuerpo libre de vello molesto durante mucho más tiempo? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Olvídate de depilarte en al menos 3 semanas. Reserva tu cita cómodamente online en Bucmi.com. ¡Ven a visitarnos! F", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles", 
+            "description": "Olvídate del vello de esta durante más tiempo que con las cuchillas convencionales, con esta depilación de ingles normales con cera. ¿Quieres lucir un cuerpo libre de vello molesto durante mucho más tiempo? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Olvídate de depilarte en al menos 3 semanas. Reserva tu cita cómodamente online en Bucmi.com. ¡Te encantará! F", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Integrales", 
+            "description": "Olvídate por fin del vello incómodo. Disfruta de una piel suave y sedosa gracias a este servicio de depilación con cera. La zona a depilar son las ingles integrales. Este servicio se ofrece únicamente a mujeres. ¡Podrás olvidarte de las cuchillas y otros elementos de depilación gracias a nuestros expertos esteticistas! Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Olvídate de depilarte en al menos 3 semanas. Reserva tu cita cómodamente online en Bucmi.comF", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "Disfruta de unas piernas depiladas por más tiempo que con otros métodos de depilación, con este servicio de depilación con cera de medias piernas. ¿Quieres lucir un cuerpo libre de vello molesto durante mucho más tiempo? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Olvídate de depilarte en al menos 3 semanas. Reserva tu cita cómodamente online en Bucmi.com.¡Ven a visitarnos!F", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Completas", 
+            "description": "¡Lista para cualquier evento, para llevar falda o vestido! Con este servicio de depilación con cera de piernas completas, te olvidarás del vello durante más tiempo que con otros métodos de depilación. ¿Quieres lucir un cuerpo libre de vello molesto durante mucho más tiempo? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Olvídate de depilarte en al menos 3 semanas. Reserva yaF", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Tórax", 
+            "description": "Consigue un tórax depilado por más tiempo que con las cuchillas convencionales y de una forma más cómoda para ti, con esta depilación de tórax con cera. ¿Quieres lucir un cuerpo libre de vello molesto durante mucho más tiempo? Ven a tu Centro de Estética Hydrovital y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Olvídate de depilarte en al menos 3 semanas. Reserva tu cita cómodamente online en Bucmi.com. F", 
+            "price": "58 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Flores De Bach Consulta Terapia Floral", 
+            "description": "Recupera el equilibrio personal con esta terapia alternativa especialmente indicada para afrontar momentos emocionalmente difíciles y problemas de ansiedad, estrés, etc. Incluye la consulta y la esencia floral, preparada en base a tus necesidades. Las Flores de Bach actúan de una manera holística sobre el cuerpo y las emociones, restableciendo el equilibrio físico y psicológico. Ayudan en innumerables problemas de salud física y psicológica, incluyendo los problemas de sueño o las dietas.Reserva tu cita yaF", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reiki", 
+            "description": "Métoso Usui de sanación con las manos. Reequilibra tu energía y reestructura cuerpo y mente gracias a las propiedades de la imposición de manos. Esa terapia japonesa canaliza una fuente de energía para curar enfermedades a través de las manos. Cuando la energía se bloquea se produce la enfermedad, que gracias al reiki se desbloquea y tu organismo vuelve a un equilibrio completo y perfecto. Tratamiento energético en el que mejoraremos tu equilibrio físico, mental, emocional y espiritual. F", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

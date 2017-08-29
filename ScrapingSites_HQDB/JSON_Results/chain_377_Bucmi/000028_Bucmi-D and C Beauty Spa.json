@@ -1,0 +1,312 @@
+{
+    "name": "Bucmi-D and C Beauty Spa", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=29", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4477451000", 
+    "longitude": "-3.7051337000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/dandcbeautyspa", 
+    "office_number": "913449483", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "D and C Beauty Spa es un salón de peluquería, estética y bienestar situado en la calle Doctor Santero número 10 en el barrio de Tetuán y muy cerca de Cuatro Caminos, en Madrid. Este centro cuenta con zona de peluquería, cabinas de estética, zonas de manicura y pedicura, además de zona spa, pensado para ofrecer circuitos termales. Su amplia cartera de servicios abarca cortes de pelo asesorados, coloraciones, tratamientos capilares, tratamientos faciales, corporales, manicuras, pedicuras, masajes, rituales de bienestar, depilaciones y circuitos spa. Todo ello se realiza en un ambiente de tranquilidad y armonía, utilizando cosméticos de gran calidad de firmas como CND Shellac, Essie, Masglo, Nouveau y Vinilux.", 
+    "services": [
+        {
+            "service": "Manicura Shellac", 
+            "description": "La manicura más duradera y resistente con una de las mejores marcas del mercado. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado permanente con el color que más te guste a elegir entre nuestra amplia gama.", 
+            "price": "22.40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Peinado Media Melena Y Pelo Largo", 
+            "description": "Atrévete con un cambio de estilo de la mano de nuestros profesionales, siempre bajo asesoramiento personalizado para conseguir sacar lo mejor de ti. El servicio incluye corte, lavado con champú y tratamiento de hidratación profunda y peinado.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Extensión De Pestañas Medio Set", 
+            "description": "Alargamos o damos espesor a tu pestaña natural con 50 extensiones en cada ojo con un acabado muy natural... Reserva de un solo clic con Bucmi.com.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Limpia, hidrata y deja tu rostro libre de impurezas gracias a nuestra higiene facial. El servicio incluye extracción, exfoliación, hidratación, mascarilla y masaje.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Circuito Spa De 90 Minutos", 
+            "description": "Circuito hidrotermal que se compone de jacuzzi, sauna finlandesa, baño de vapor, duchas, pediluvio, fuente de hielo y terraza. Ideal relax...¡ven a conocernos!", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bótox Capilar Y Peinado", 
+            "description": "Disfruta de un pelo saneado, liso y sin encrespamiento gracias a nuestro completo tratamiento capilar de bótox, que ayuda a engrosar tu cabello para que vuelva a lucir brillante y lleno de vida. ¿A qué estás esperando para reserva?", 
+            "price": "56.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Alisado Queratina Largo: Cirugía Plástica Capilar", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Alisado Queratina Medio: Cirugía Plástica Capilar", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Color Y Peinado", 
+            "description": "¿Aburrida de tu melena? Dale una vuelta a tu estilo con nuestro completo servicio que incluye coloración a escoger entre todos nuestros colores, lavado con champú y tratamiento de hidratación profunda y peinado del pelo.", 
+            "price": "8.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Los cortes que marcan tendencia y que más van contigo, en nuestro centro para ti. El servicio incluye corte con asesoramiento personalizado, lavado con champú y acabado.", 
+            "price": "8.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "Ponte en las manos de los mejores profesionales para conseguir un corte de pelo acorde con tu estilismo. El servicio incluye corte con asesoramiento personalizado y lavado con champú.", 
+            "price": "14.40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Peinado Pelo Corto", 
+            "description": "¿Te apetece un cambio de look? ¿Necesitas sanear tu melena? Ven a nuestro centro y déjate asesorar por nuestros estilistas. El servicio incluye corte de pelo, lavado con champú y tratamiento de hidratación profunda y peinado.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Pelo Corto", 
+            "description": "Dale un toque de luz y color a tu aburrida melena gracias a nuestro servicio de mechas tradicionales con el que aclararemos unos tonos tu cabello. El servicio incluye lavado conc hampú y acondicionador pero no peinado.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Pelo Largo", 
+            "description": "Dale un toque de luz y color a tu aburrida melena gracias a nuestro servicio de mechas tradicionales con el que aclararemos unos tonos tu cabello. El servicio incluye lavado conc hampú y acondicionador pero no peinado.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Y Peinar Pelo Corto", 
+            "description": "Dale un toque de luz y color a tu aburrida melena gracias a nuestro servicio de mechas tradicionales con el que aclararemos unos tonos tu cabello. El servicio incluye lavado con champú y tratamiento de hidratación profunda y peinado del pelo.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Y Peinar Pelo Largo", 
+            "description": "Dale un toque de luz y color a tu aburrida melena gracias a nuestro servicio de mechas tradicionales con el que aclararemos unos tonos tu cabello. El servicio incluye lavado con champú y tratamiento de hidratación profunda y peinado del pelo.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Peinado Media Melena Y Pelo Largo", 
+            "description": "Atrévete con un cambio de estilo de la mano de nuestros profesionales, siempre bajo asesoramiento personalizado para conseguir sacar lo mejor de ti. El servicio incluye corte, lavado con champú y tratamiento de hidratación profunda y peinado.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color, Corte, Tto. Botox Y Peinado", 
+            "description": "Reserva tu pack de belleza para tu cabello y luce una melena brillante y saneada. Realizamos color con asesoramiento personalizado, lavado, tratamiento de botox capilar para eliminar el encrespado y aportar más vida a tu cabello, corte y peinado.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto Corporal Reductor Completo", 
+            "description": "Disfruta de nuestro completo reductor para moldear tu figura desde la primera sesión. Incluye una hora de masaje reductor, 25 minutos de sesión de LPG y 10 minutos de plataforma vibratoria y presoterapia. ¡No pierdas la oportunidad!", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Exfoliación Corporal Y Masaje Relajante", 
+            "description": "Disfruta de un momento de relax gracias a nuestro completo servicio que incluye exfoliación corporal con frutos rojos, hidratación de la piel para que quede suave y para finalizar, un masaje relajante de 30 minutos de duración. Te encantará.", 
+            "price": "50.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensión De Pestañas Completas", 
+            "description": "Alarga tus pestañas de la forma más natural con las extensiones individuales que aplicamos pelo a pelo, consigue un look natural y deluxe con la marca profesional Nouveau.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial Y Manicura Shellac", 
+            "description": "Disfruta de un tratamiento facial completo, acabado con una manicura permanente para lucir unas manos perfectas. Realizamos desmaquillado de la piel, extracción, exfoliación, hidratación, mascarilla, masaje y para terminar una manicura completa con limado, retirada de cutículas, hidratación y esmaltado Shellac, a elegir entre nuestra amplia gama de colores.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensión De Pestañas Medio Set", 
+            "description": "Alargamos o damos espesor a tu pestaña natural con 50 extensiones en cada ojo con un acabado muy natural... Reserva de un solo clic con Bucmi.com.", 
+            "price": "50.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Limpia, hidrata y deja tu rostro libre de impurezas gracias a nuestra higiene facial. El servicio incluye extracción, exfoliación, hidratación, mascarilla y masaje.", 
+            "price": "12.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones De Lpg Y 10 Ss De Presoterapia", 
+            "description": "Este servicio incluye 10 sesiones de Lpg con una duración de 35 minutos y 10 sesiones de Presoterapia O Cavitación (a elegir) con una duración de 30 minutos.¡El tratamiento reductor de las estrellas! Disfruta de un cuerpo 10 con nuestra aparatología de alta gama y reduce aquellos centímetros de más que no consigues eliminar ni con dieta ni con ejercicio. Te encantarán los resultados.", 
+            "price": "22.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Y Manicura Shellac", 
+            "description": "Disfruta de un tratamiento facial completo, acabado con una manicura permanente para lucir unas manos perfectas. Realizamos desmaquillado de la piel, extracción, exfoliación, hidratación, mascarilla, masaje y para terminar una manicura completa con limado, retirada de cutículas, hidratación y esmaltado Shellac, a elegir entre nuestra amplia gama de colores.", 
+            "price": "52.80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Luce unas manos perfectas y unas uñas maquilladas con el color que más te guste de la mano de nuestros profesionales. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado con el color que más te guste.", 
+            "price": "17.60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Shellac", 
+            "description": "La manicura más duradera y resistente con una de las mejores marcas del mercado. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado permanente con el color que más te guste a elegir entre nuestra amplia gama.", 
+            "price": "30.40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Shellac", 
+            "description": "La manicura y pedicura más duradera y resistente con una de las mejores marcas del mercado SHELLAC. El servicio incluye limado, retirada de cutículas y durezas, hidratación y esmaltado permanente con el color que más te guste a elegir entre nuestra amplia gama.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Luce unos pies perfecto y bonitos y unas uñas maquilladas con el color que más te guste de la mano de nuestros profesionales. El servicio incluye limado, retirada de cutículas y durezas, hidratación y esmaltado con el color que más te guste.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Shellac", 
+            "description": "La pedicura más duradera de D And C Beauty SPA con la mejor marca de esmaltes de SHELLAC. El servicio es completo, incluye el limado de la uña, la retirada de cutículas, la hidratación y el esmaltado en el color que prefieras de todos nuestros esmaltes.", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Completa", 
+            "description": "Luce unas manos y unos pies perfectos y unas uñas maquilladas con el color que más te guste de la mano de nuestros profesionales. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado con el color que más te guste.", 
+            "price": "90.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Exfoliación Corporal Y Masaje Relajante", 
+            "description": "Disfruta de un momento de relax gracias a nuestro completo servicio que incluye exfoliación corporal con frutos rojos, hidratación de la piel para que quede suave y para finalizar, un masaje relajante de 30 minutos de duración. Te encantará.", 
+            "price": "56.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Disfruta de 30 minutos para ti y date un respiro con este masaje relajante. Podrás desconectar tu mente del estrés diario y cargar las pilas.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Con Hilo Cejas Y Labio", 
+            "description": "Depilación con hilo, cejas más labio. para que vayas con la última tendencia de depilación, venida desde las tierras lejanas de La India. te encantará el resultado.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Circuito Spa Y Hammam En Pareja", 
+            "description": "Disfruta de esta estupenda experiencia junto a tu pareja. Comenzamos con 1 horita en nuestro spa Circuito Spa, compuesto de jacuzzi,sauna finlandesa,baño de vapor, duchas, pediluvio, fuente de hielo y terraza, después pasamos al baño turco para abrir todos los poros y después, en la sala de tratamiento, realizamos un exfoliación con guante KESSA para eliminar las pieles muertas y activar la circulación, para finalizar realizamos un masaje relajante de 45 minutos.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Circuito Spa De 60 Minutos", 
+            "description": "Circuito hidrotermal que se compone de jacuzzi, sauna finlandesa,baño de vapor, duchas, pediluvio,fuente de hielo y terraza. Ideal relax...¡ven a conocernos!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Circuito Spa Dos Personas", 
+            "description": "Circuito hidrotermal que se compone de jacuzzi,sauna finlandesa,baño de vapor,duchas,pediluvio,fuente de hielo y terraza.Ideal relax...ven a conocernos!! Precio Para dos Personas", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Circuito Spa De 90 Minutos", 
+            "description": "Circuito hidrotermal que se compone de jacuzzi, sauna finlandesa, baño de vapor, duchas, pediluvio, fuente de hielo y terraza. Ideal relax...¡ven a conocernos!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado Queratina Largo: Cirugía Plástica Capilar", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Alisado Queratina Medio: Cirugía Plástica Capilar", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }
+    ]
+}

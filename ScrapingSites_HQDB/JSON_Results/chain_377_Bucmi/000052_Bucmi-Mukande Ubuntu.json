@@ -1,0 +1,81 @@
+{
+    "name": "Bucmi-Mukande Ubuntu", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=53", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4194758999", 
+    "longitude": "-3.6684218999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/mukandeubuntu", 
+    "office_number": "646898752", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Escuela de yoga para todo el mundo. Profundiza dentro de ti a través del yoga, ponemos a tu alcance diferentes tipos y niveles de yoga así como horarios, para que elijas lo que necesitas a cada momento. Ven a conocernos a nuestro centro en Retiro", 
+    "services": [
+        {
+            "service": "Bono 5 Clases De Yoga Kundalini", 
+            "description": "El Yoga Kundalini está indicado para mejorar dolencias musculares, equilibrar el sistema nervioso y mejorar la sensación de bienestar a través de tu cuerpo y tu mente. Si eres nuevo en yoga, aunque reserves online, ponte en contacto con nosotros para asesorarte en el mejor nivel y clase y que aproveches al máximo tus clases. Bono aplicable a un máximo de tres meses.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 2 Personas Clases De Yoga Kundalini", 
+            "description": "Este Bono para dos personas incluye clases ilimitadas. Ven a descubrir esta técnica de Yoga para equilibrar tu cuerpo y tu mente. No te arrepentirás. Si eres nuevo en yoga, aunque reserves online, ponte en contacto con nosotros para asesorarte en el mejor nivel y clase y que aproveches al máximo tus clases.", 
+            "price": "15.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Clases Ilimitadas Mensuales De Yoga Kundalini", 
+            "description": "El Yoga Kundalini es una técnica milenaria que combina la coordinación del cuerpo y la mente a través de los ejercicios y la respiración y utiliza los mantras en la meditación. El servicio incluye clases ilimitadas mensualmente. Si eres nuevo en yoga, aunque reserves online, ponte en contacto con nosotros para asesorarte en el mejor nivel y clase y que aproveches al máximo tus clases.", 
+            "price": "90.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Prueba Clases De Yoga 1 Semana", 
+            "description": "Descubre esta técnica milenaria de relajación, el Yoga Kundalini está indicado para equilibrar tu cuerpo y tu mente y conseguir una sensación de bienestar y relajación profunda. Si eres nuevo en yoga, aunque reserves online, ponte en contacto con nosotros para asesorarte en el mejor nivel y clase y que aproveches al máximo tus clases.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 10 Clases De Yoga Kundalini", 
+            "description": "Estas 10 sesiones de Yoga Kundalini te ayudarán a equilibrar tu mente y tu cuerpo. Los beneficios de esta técnica incluyen la mejora de dolencias musculares. Si eres nuevo en yoga, aunque reserves online, ponte en contacto con nosotros para asesorarte en el mejor nivel y clase y que aproveches al máximo tus clases.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 5 Clases De Yoga Kundalini", 
+            "description": "El Yoga Kundalini está indicado para mejorar dolencias musculares, equilibrar el sistema nervioso y mejorar la sensación de bienestar a través de tu cuerpo y tu mente. Si eres nuevo en yoga, aunque reserves online, ponte en contacto con nosotros para asesorarte en el mejor nivel y clase y que aproveches al máximo tus clases. Bono aplicable a un máximo de tres meses.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 2 Personas Clases De Yoga Kundalini", 
+            "description": "Este Bono para dos personas incluye clases ilimitadas. Ven a descubrir esta técnica de Yoga para equilibrar tu cuerpo y tu mente. No te arrepentirás. Si eres nuevo en yoga, aunque reserves online, ponte en contacto con nosotros para asesorarte en el mejor nivel y clase y que aproveches al máximo tus clases.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Clases Ilimitadas Mensuales De Yoga Kundalini", 
+            "description": "El Yoga Kundalini es una técnica milenaria que combina la coordinación del cuerpo y la mente a través de los ejercicios y la respiración y utiliza los mantras en la meditación. El servicio incluye clases ilimitadas mensualmente. Si eres nuevo en yoga, aunque reserves online, ponte en contacto con nosotros para asesorarte en el mejor nivel y clase y que aproveches al máximo tus clases.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

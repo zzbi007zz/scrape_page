@@ -1,0 +1,123 @@
+{
+    "name": "Bucmi-La Coiffeuse Estilistes", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=7", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3880446999", 
+    "longitude": "2.1511246999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/coiffeuse", 
+    "office_number": "934548713", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Peluquería en l'Antigua Esquerra donde cuentas con las últimas tendencias en servicios de peluquería con los mejores productos. Déjate asesorar por los mejores profesionales en un sitio con mucho encanto, logrando un alto bienestar. Haz ya tu reserva.", 
+    "services": [
+        {
+            "service": "Corte Hombre", 
+            "description": "¿Por qué renunciar a estar a la última? En La Coiffeuse pensamos en ti y te traemos este corte de pelo para caballero. Pega un cambio de look con este corte asesorado, lavado y peinado productos de acabado de la marca Paul Mitchell.", 
+            "price": "90.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer", 
+            "description": "¿Estás buscando sanear tu melena? Pues este servicio está pensado para ti. Incluye corte de cabello básico para eliminar las puntas abiertas y conseguir sanear el cabello. El servicio incluye lavado y corte, pero no incluye peinado.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Color Raíz, Corte Y Peinar Cabello Corto Y Medio", 
+            "description": "Con este servicio de color conseguirás eliminar el efecto raíz. Vuelve a lucir una melena llena de brillo y color. Además, te cortamos y peinamos siguiendo un look de última tendencia para que el resultado sea, sencillamente, perfecto. El servicio para cabello corto y media melena incluye tinte, corte, lavado y peinado con productos de acabado de la marca Paul Mitchell.", 
+            "price": "90.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado Queratina Cabello Corto", 
+            "description": "Alisa y elimina el encrespamiento de tu cabello con este alisado de queratina sin formol. Consigue un pelo perfecto y lleno de brillo, sin dañar tu cabello y nutriéndolo en profundidad. Es un servicio para cabello corto.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Alisado Queratina Pelo Largo", 
+            "description": "Alisa y elimina el encrespamiento de tu cabello con este alisado de queratina sin formol. Consigue un pelo perfecto y lleno de brillo, sin dañar tu cabello y nutriéndolo en profundidad. Es un servicio para cabello largo.", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color Raíz, Corte Y Peinar Cabello Largo", 
+            "description": "Con este servicio de color conseguirás eliminar el efecto raíz. Vuelve a lucir una melena llena de brillo y color. Además, te cortamos y peinamos siguiendo un look de última tendencia para que el resultado sea, sencillamente, perfecto. El servicio para cabello largo incluye tinte, corte, lavado y peinado con productos de acabado de la marca Paul Mitchell. Para cabellos extralargos o con mucho volumen consulta suplemento con el profesional.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "¿Por qué renunciar a estar a la última? En La Coiffeuse pensamos en ti y te traemos este corte de pelo para caballero. Pega un cambio de look con este corte asesorado, lavado y peinado productos de acabado de la marca Paul Mitchell.", 
+            "price": "41 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer", 
+            "description": "¿Estás buscando sanear tu melena? Pues este servicio está pensado para ti. Incluye corte de cabello básico para eliminar las puntas abiertas y conseguir sanear el cabello. El servicio incluye lavado y corte, pero no incluye peinado.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Peinado Cabello Corto Y Cabello Medio", 
+            "description": "Disfruta de este pack que incluye corte de pelo a la moda, lavado y peinado con productos de acabado de la marca Paul Mitchell. Déjate asesorar por nuestros expertos profesionales y consigue un look a la última. Es un servicio para cabello corto y media melena.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Y Peinado Cabello Largo", 
+            "description": "Déjate asesorar por nuestros expertos profesionales y consigue un look a la última. Disfruta de este pack que incluye corte de pelo a la moda, lavado y peinado con productos de acabado de la marca Paul Mitchell. Es un servicio para cabello largo. Para cabellos extralargos o con mucho volumen consulte suplemento con el profesional.", 
+            "price": "44 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas", 
+            "description": "Las mechas aportan luz y color a tu melena. El look conseguirá aportarle movimiento y dinamismo a tu melena. Con este servicio te llevarás el lavado y mechas de plata. El servicio no incluye peinado.", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Raíz, Corte Y Peinar Cabello Corto Y Medio", 
+            "description": "Con este servicio de color conseguirás eliminar el efecto raíz. Vuelve a lucir una melena llena de brillo y color. Además, te cortamos y peinamos siguiendo un look de última tendencia para que el resultado sea, sencillamente, perfecto. El servicio para cabello corto y media melena incluye tinte, corte, lavado y peinado con productos de acabado de la marca Paul Mitchell.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado Queratina Cabello Corto", 
+            "description": "Alisa y elimina el encrespamiento de tu cabello con este alisado de queratina sin formol. Consigue un pelo perfecto y lleno de brillo, sin dañar tu cabello y nutriéndolo en profundidad. Es un servicio para cabello corto.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Alisado Queratina Pelo Largo", 
+            "description": "Alisa y elimina el encrespamiento de tu cabello con este alisado de queratina sin formol. Consigue un pelo perfecto y lleno de brillo, sin dañar tu cabello y nutriéndolo en profundidad. Es un servicio para cabello largo.", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }
+    ]
+}

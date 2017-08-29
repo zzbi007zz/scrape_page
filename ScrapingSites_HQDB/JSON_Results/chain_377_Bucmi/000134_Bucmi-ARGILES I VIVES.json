@@ -1,0 +1,53 @@
+{
+    "name": "Bucmi-ARGILES I VIVES", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=36", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4141358000", 
+    "longitude": "2.1429057999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/argilesvives", 
+    "office_number": "932545248", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Fundado en 1960 siendo pioneros en implantar y difundir las técnicas radiológicas en España. La calidad de nuestros servicios es reconocida internacionalmente y nuestro equipo son grandes especialistas. Además, disponemos de la última tecnología digi", 
+    "services": [
+        {
+            "service": "Terapia Alternativa Ecografía 3D/4D Alta Precisión", 
+            "description": "Exploración exhaustiva 4d mediante ultrasonidos realizada por un GINECÓLOGO, Imágenes en foto y DVD y canastilla con productos para su bebé. No incluye: la valoración de estructuras, ni las mediciones fetales. Recomendado para 20 a 32 semanas", 
+            "price": "57.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa Eco 3D/4D Alta Prec Gemelar", 
+            "description": "Exploración exhaustiva 4d mediante ultrasonidos realizada por un GINECÓLOGO, Imágenes en foto y DVD y canastilla con productos para su bebé. No incluye: la valoración de estructuras, ni las mediciones fetales. Recomendado para 20 a 32 semanas", 
+            "price": "97.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa Ecografía 3D/4D Alta Precisión", 
+            "description": "Exploración exhaustiva 4d mediante ultrasonidos realizada por un GINECÓLOGO, Imágenes en foto y DVD y canastilla con productos para su bebé. No incluye: la valoración de estructuras, ni las mediciones fetales. Recomendado para 20 a 32 semanas", 
+            "price": "57.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa Eco 3D/4D Alta Prec Gemelar", 
+            "description": "Exploración exhaustiva 4d mediante ultrasonidos realizada por un GINECÓLOGO, Imágenes en foto y DVD y canastilla con productos para su bebé. No incluye: la valoración de estructuras, ni las mediciones fetales. Recomendado para 20 a 32 semanas", 
+            "price": "97.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

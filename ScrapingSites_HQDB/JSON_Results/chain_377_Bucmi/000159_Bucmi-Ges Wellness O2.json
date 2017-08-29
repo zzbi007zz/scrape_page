@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-Ges Wellness O2", 
+    "scrape_page": "https://www.bucmi.com/Granada.html?page=4", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "37.1684585000", 
+    "longitude": "-3.6088808000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/ges-wellness-o2", 
+    "office_number": "958222889", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Ubicado en el centro de la ciudad, Ges Spa O2 Granada es posiblemente el espacio más sereno que se puede encontrar a unos pasos del centro histórico de Granada. El Spa es un lugar donde apreciará la armonía total del bienestar. Reserva ahora tu cita.", 
+    "services": [
+        {
+            "service": "Circuito Spa 2 Personas", 
+            "description": "¿Quieres compartir nuestro circuito spa con alguien especial? Pues reserva ahora nuestro pack para 2 personas con Bucmi y aprovechad este descuento! Ambos disfrutaréis de una hora de nuestro completo circuito que incluye: piscina olímpica de natación, piscina de relajación, piscina descontracturante (chorros cervicales, lumbares y camas de hidromasaje), sauna, baño turco y jacuzzi). La toalla no está incluida en el precio, tendrás que abonar 1.50€ en el centro. Trae de casa gorro y chanclas.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Circuito Spa Y Masaje 15 Minutos 2 Personas", 
+            "description": "¡Es el regalo perfecto! Regala y comparte con quien quieras una sesión de relax gracias a nuestras terapias de agua y nuestros masajes. Aprovecha este descuento y reserva ya tu pack de Circuto Spa y masaje de 15 minutos para 2 personas. Incluye el acceso al circuito spa, además de un masaje de 15 minutos en espalda y cervicales para cada uno y un cóctel de cava para que brindéis por un momento tan especial. La toalla no está incluida en el precio. Trae de casa gorro y chanclas.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones Circuito Spa", 
+            "description": "Escápate de la rutina cuando quieras para disfrutar del rato de relajación que te ofrece nuestro circuito spa. Tendrás acceso a la piscina olímpica de natación, la piscina de relajación, la piscina descontracturante (chorros cervicales, lumbares y camas de hidromasaje), a la sauna, al baño turco y al jacuzzi. La toalla no está incluida en el precio, tendrás que abonar 1.50€ en el centro. Además trae de casa chanclas y gorro.", 
+            "price": "49.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Circuito Spa Y Masaje 25 Minutos 2 Personas", 
+            "description": "Si quieres hacer un regalo inolvidable o queréis disfrutar de una experiencia de bienestar total juntos este pack en promoción es perfecto para vosotros. Incluye el acceso al spa (piscinas, sauna, baño turco y jacuzzi), un masaje de 25 minutos para cada uno a elegir (descontracturante, deportivo o drenante) y un cóctel de cava cortesía de nuestro centro de bienestar. La toalla no está incluida en el precio, tendrás que abonar 1.50€ en el centro. Trae de casa gorro y chanclas.", 
+            "price": "65.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Circuito Spa 2 Personas", 
+            "description": "¿Quieres compartir nuestro circuito spa con alguien especial? Pues reserva ahora nuestro pack para 2 personas con Bucmi y aprovechad este descuento! Ambos disfrutaréis de una hora de nuestro completo circuito que incluye: piscina olímpica de natación, piscina de relajación, piscina descontracturante (chorros cervicales, lumbares y camas de hidromasaje), sauna, baño turco y jacuzzi). La toalla no está incluida en el precio, tendrás que abonar 1.50€ en el centro. Trae de casa gorro y chanclas.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Circuito Spa Y Masaje 15 Minutos 2 Personas", 
+            "description": "¡Es el regalo perfecto! Regala y comparte con quien quieras una sesión de relax gracias a nuestras terapias de agua y nuestros masajes. Aprovecha este descuento y reserva ya tu pack de Circuto Spa y masaje de 15 minutos para 2 personas. Incluye el acceso al circuito spa, además de un masaje de 15 minutos en espalda y cervicales para cada uno y un cóctel de cava para que brindéis por un momento tan especial. La toalla no está incluida en el precio. Trae de casa gorro y chanclas.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Circuito Spa Y Masaje 25 Minutos 2 Personas", 
+            "description": "Si quieres hacer un regalo inolvidable o queréis disfrutar de una experiencia de bienestar total juntos este pack en promoción es perfecto para vosotros. Incluye el acceso al spa (piscinas, sauna, baño turco y jacuzzi), un masaje de 25 minutos para cada uno a elegir (descontracturante, deportivo o drenante) y un cóctel de cava cortesía de nuestro centro de bienestar. La toalla no está incluida en el precio, tendrás que abonar 1.50€ en el centro. Trae de casa gorro y chanclas.", 
+            "price": "65.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones Circuito Spa", 
+            "description": "Escápate de la rutina cuando quieras para disfrutar del rato de relajación que te ofrece nuestro circuito spa. Tendrás acceso a la piscina olímpica de natación, la piscina de relajación, la piscina descontracturante (chorros cervicales, lumbares y camas de hidromasaje), a la sauna, al baño turco y al jacuzzi. La toalla no está incluida en el precio, tendrás que abonar 1.50€ en el centro. Además trae de casa chanclas y gorro.", 
+            "price": "49.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones Circuito Spa Y Masaje 15 Minutos", 
+            "description": "Si sufres de estrés habitualmente y estás buscando una forma de aliviarlo, nuestro Bono de 3 Sesiones de Circuito Spa y Masaje de 15 minutos es perfecto para ti. Por un lado, tendrás acceso al circuito spa (piscina olímpica de natación, piscina de relajación, piscina descontracturante, sauna, baño turco y jacuzzi), por otro te realizaremos un masaje relajante en espalda y cervicales, y por último, disfrutarás de un cóctel de cava. La toalla no está incluida en el precio. Trae de casa gorro y chanclas.", 
+            "price": "69.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Circuito Spa 1 Persona", 
+            "description": "¡Anímate a venir a probar nuestro circuito spa reservando hora con Bucmi! Durante 60-75 minutos disfrutarás de la armonía de nuestras instalaciones y una terapia relajante basada en el agua. Nuestro circuito incluye: piscina olímpica de natación, piscina de relajación, piscina descontracturante (chorros cervicales, lumbares y camas de hidromasaje), sauna, baño turco y jacuzzi). La toalla no está incluida en el precio, tendrás que abonar 1.50€ en el centro. Trae de casa gorro y chanclas.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Circuito Spa Y Masaje 15 Minutos 1 Persona", 
+            "description": "¡Descubre la combinación perfecta de relajación reservando este fantástico pack! Con él tendrás acceso a nuestro spa (piscina olímpica de natación, piscina de relajación, piscina descontracturante, sauna, baño turco y jacuzzi) durante 60 minutos aproximadamente y podrás disfrutar de un masaje de 15 minutos en la zona cervical y de la espalda, para después tomar un cóctel de cava cortesía de nuestro Spa. La toalla no está incluida en el precio, tendrás que abonar 1.50€. Trae de casa gorro y chanclas.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

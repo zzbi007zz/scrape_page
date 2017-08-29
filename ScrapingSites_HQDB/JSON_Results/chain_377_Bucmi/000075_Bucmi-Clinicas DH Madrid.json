@@ -1,0 +1,172 @@
+{
+    "name": "Bucmi-Clínicas DH Madrid", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=76", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4450499999", 
+    "longitude": "-3.6672899999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/clinicasdhmadrid", 
+    "office_number": "914022519", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Clínica DH, es un centro de estética avanzada en el barrio de Prosperidad, Madrid. Te ofrecemos los mejores servicios para que salgas lo más guapa posible de nuestro establecimiento. Realizamos depilación laser en todas las zonas, peeling y botox facial.", 
+    "services": [
+        {
+            "service": "A) Depilación Láser Axilas Para Mujer", 
+            "description": "Elimina permanentemente el vello de tus axilas y olvídate para siempre de la depilación. Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "C) Mesoterapia Facial De Vitaminas", 
+            "description": "Tratamiento rejuvenecedor de la piel. La mesoterapia consiste en la aplicación de vitamina localizada en las zonas donde la piel del rostro más lo requiere. Comprueba los resultados desde la primera aplicación. ¿Quieres lucir una piel mucha más tersa y joven? Ven a tu Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel tersa, libre de imperfecciones y mucho más juvenil. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "B) Depilación Láser Piernas Completas Para Hombre", 
+            "description": "Elimina ese vello no deseado para siempre de las piernas (depilación masculina) Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "C) Mesoterapia Facial De Vitaminas", 
+            "description": "Tratamiento rejuvenecedor de la piel. La mesoterapia consiste en la aplicación de vitamina localizada en las zonas donde la piel del rostro más lo requiere. Comprueba los resultados desde la primera aplicación. ¿Quieres lucir una piel mucha más tersa y joven? Ven a tu Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel tersa, libre de imperfecciones y mucho más juvenil. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "C) Bono 5 Sesiones Mesoterapia Facial", 
+            "description": "Con este bono de 5 sesiones de mesoterapia facial podrás rejuvenecer tu piel. La mesoterapia consiste en la aplicación de vitamina localizada en las zonas donde la piel del rostro más lo requiere. Comprueba los resultados desde la primera sesión. ¿Quieres lucir una piel mucha más tersa y joven? Ven a tu Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel tersa, libre de imperfecciones y mucho más juvenil. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "116.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "C) Bótox Facial", 
+            "description": "Luce una piel tersa y suave con este tratamiento de toxina botulínica. Rellena las arrugas y rejuvenece la piel. Podrás quitarte años de encima con una sola aplicación. ¿Quieres lucir una piel mucho más joven y tersa? Ven a tus Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel libre de imperfecciones, mucho más joven y tersa. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Te encantará!", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "C) Microdermoabrasión Facial", 
+            "description": "Mantén tu piel joven, suave y sin impurezas. Obtendrás un resultado parecido a realizarte un peeling facial de la forma más natural. ¿Quieres lucir una piel suave, hidratada y joven? Ven a tus Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel hidratada, nutrida y mucho más sedosa. Devuelve a tu piel su color y aspecto natural. Dí adiós a las imperfecciones. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "D) Tto. Corporal Reductor Liposucción Aqualyx", 
+            "description": "Moldea tu figura con este tratamiento corporal reductor Liposucción Aqualix. La forma más natural para reducir volumen y conseguir una silueta de 10. ¿Quieres lucir un cuerpo tonificadfo y libre de celulitis y grasa localizada? Ven a tus Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Utilizan aparatología de última generación. Podrás disfrutar de un cuerpo perfecto y notarás los resultados desde el primer momento. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "A) Depilación Láser Axilas Para Mujer", 
+            "description": "Elimina permanentemente el vello de tus axilas y olvídate para siempre de la depilación. Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "A) Depilación Láser Piernas Completas Para Mujer", 
+            "description": "Este servicio incluye una sesión de depilación láser de piernas enteras para mujer. Resultados visibles desde la primera sesión. Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita en Bucmi.com.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "B) Depilación Láser Axilas Para Hombre", 
+            "description": "Este servicio incluye una depilación láser de axilas masculina. Utilizamos las últimas técnicas en depilación láser para eliminar los folículos pilosos del vello y así evitamos su aparición posterior. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita online en Bucmi.com.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "A) Depilación Láser Ingles", 
+            "description": "Este servicio incluye depilación láser de ingles. En nuestras clínicas utilizamos la tecnología más avanzada en estética láser, trabajamos con láser Alejandrita y Soprano Xl, para conseguir unos resultados increíbles desde la primera sesión. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "A) Depilación Láser Ingles Brasileñas", 
+            "description": "¿Quieres olvidarte definitivamente de la depilación? Ponte en nuestras manos y te olvidarás del vello para siempre. Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita online en Bucmi.com.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "A) Depilación Laser Medias Piernas Para Mujer", 
+            "description": "Luce unas piernas suaves y sedosas para siempre. La depilación láser te ayudará a no tener que preocuparte nunca más por la depilación. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "A) Depilación Láser Medios Brazos Para Mujer", 
+            "description": "Elimina ese vello no deseado para siempre de los brazos (depilación láser para mujer). Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "B) Depilación Láser Abdomen Para Hombre", 
+            "description": "Este servicio incluye una sesión de depilación láser de abdomen masculina. Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "145 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "B) Depilación Láser Brazos Completos Para Hombre", 
+            "description": "Elimina ese vello no deseado para siempre de los brazos (masculina) Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "B) Depilación Láser Espalda Para Hombre", 
+            "description": "Este servicio incluye una sesión de depilación láser de espalda masculina. Elimina ese vello tan molesto definitivamente. Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita online en Bucmi.com.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "B) Depilación Láser Hombros Para Hombre", 
+            "description": "En Clínicas DH conseguirás eliminar el vello corporal no deseado. Resultados visibles en la primera sesión. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "B) Depilación Láser Tórax Para Hombre", 
+            "description": "Olvídate de la depilación dolorosa. La depilación láser es indolora y elimina el vello corporal en la zona deseada para siempre. Resultados visibles en la primera sesión. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "B) Depilación Láser Piernas Completas Para Hombre", 
+            "description": "Elimina ese vello no deseado para siempre de las piernas (depilación masculina) Disfruta de las últimas técnicas en depilación láser que te ofrecemos desde Clínicas DH. ¿Quieres lucir un cuerpo libre de vello molesto? Ven a Clínicas DH Madrid y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Dí adiós a depilarte durante mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

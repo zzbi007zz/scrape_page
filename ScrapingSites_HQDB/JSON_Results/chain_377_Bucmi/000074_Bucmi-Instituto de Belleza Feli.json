@@ -1,0 +1,81 @@
+{
+    "name": "Bucmi-Instituto de Belleza Feli", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=75", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3953414000", 
+    "longitude": "-3.7136746999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/feli", 
+    "office_number": "914600290", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Especialistas en el cuidado de tu pelo. En Instituto de belleza Feli nuestro principal objetivo eres tu. Trato personalizado siempre con los mejores productos de peluquería. Reserva nuestros cortes de pelo, peinados de tendencia.. Estamos en Carabanchel", 
+    "services": [
+        {
+            "service": "Lavar + Cortar + Peinar", 
+            "description": "El servicio incluye lavado con champú específico para tu tipo de cabello, corte a elegir asesorado por nuestros profesionales y peinado a elegir. No incluye mascarilla o crema.", 
+            "price": "16.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar + Teñir + Peinar", 
+            "description": "El servicio incluye tinte color a elegir, lavado con champú específico para tu tipo de cabello y peinado a elegir. No incluye mascarilla o crema.", 
+            "price": "18.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Lavar + Peinar", 
+            "description": "El servicio incluye lavado con champú específico para tu tipo de cabello y peinado. No incluye mascarilla o crema.", 
+            "price": "21.10 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar", 
+            "description": "Olvídate de una vez de tus problemas capilares. Tratamiento para la caída del cabello, grasa o caspa. Se hace primero un análisis con microscopia electrónica gratuito. El tratamiento se realiza con rayo láser.", 
+            "price": "23.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Moldeado + peinado", 
+            "description": "Luce unos rizos perfectos. El servicio incluye lavado con champú específico para tu tipo de cabello, el moldeado y peinado a elegir. No incluye mascarilla ni crema.", 
+            "price": "16.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar + Cortar + Peinar", 
+            "description": "El servicio incluye lavado con champú específico para tu tipo de cabello, corte a elegir asesorado por nuestros profesionales y peinado a elegir. No incluye mascarilla o crema.", 
+            "price": "18.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar + Teñir + Peinar", 
+            "description": "El servicio incluye tinte color a elegir, lavado con champú específico para tu tipo de cabello y peinado a elegir. No incluye mascarilla o crema.", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Lavar + Peinar", 
+            "description": "El servicio incluye lavado con champú específico para tu tipo de cabello y peinado. No incluye mascarilla o crema.", 
+            "price": "24.3 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

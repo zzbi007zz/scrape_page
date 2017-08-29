@@ -1,0 +1,193 @@
+{
+    "name": "Bucmi-Mirame Lashes & Brows Muntaner", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=12", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3933833000", 
+    "longitude": "2.1509366999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/mirame-lashes-and-brows-muntaner", 
+    "office_number": "931402343", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Mirame Lashes and Brows Muntaner es uno de los salones de belleza que tiene esta firma abierto al público en la zona L'Antiga Esquerra de l'Eixample de Barcelona. Está ubicado en La calle Muntaner 210 y ofrece una amplia variedad de servicios especializados para la mirada y el rostro. Mírame Lashes and Brow es la firma líder en extensiones de pestañas pelo a pelo, pero también ofrece servicios de tinte, permanente y lifting de pestañas, diseño y extensiones de cejas, y depilaciones faciales. Sus tratamientos destacan por su realización a medida, con precisión, cariño y el talento de sus expertos en pestañas y cejas. El salón cuenta con todos los espacios necesarios y una decoración minimalista y elegante en tonos blancos y negros.", 
+    "services": [
+        {
+            "service": "Extensiones De Pestañas City", 
+            "description": "Se colocan las pestañas Mink una a una para conseguir un efecto más natural. Son más ligeras y más flexibles que las pestañas sintéticas convencionales.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Una A Una Mink", 
+            "description": "Las pestañas Mink son más ligeras y más flexibles que las pestañas sintéticas convencionales. Estas extensiones son curvadas y con un acabado cónico perfecto, dando un look suave y natural como también un efecto máscara intenso. Para lucir una mirada mucho más profunda.", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Diseño De Cejas Express", 
+            "description": "Diseño de cejas recomendado para clientas habituales que ya se hayan hecho previamente un diseño de cejas en Mírame. El objetivo de este tratamiento es mantener la forma del diseño de cejas de la clienta, mediante la técnica del hilo. Perfeccionamos con pinza y sólo en casos necesarios recortamos el vello sobrante.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas City", 
+            "description": "Se colocan las pestañas Mink una a una para conseguir un efecto más natural. Son más ligeras y más flexibles que las pestañas sintéticas convencionales.", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Una A Una Mink", 
+            "description": "Las pestañas Mink son más ligeras y más flexibles que las pestañas sintéticas convencionales. Estas extensiones son curvadas y con un acabado cónico perfecto, dando un look suave y natural como también un efecto máscara intenso. Para lucir una mirada mucho más profunda.", 
+            "price": "76.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Una A Una Mink Light", 
+            "description": "Las pestañas Mink Light son más natural, con un 50% de seda con un resultado muy natural. Estas extensiones son curvadas y con un acabado cónico perfecto, dando un look suave y natural como también un efecto máscara intenso. Para una mirada cautivadora.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Una A Una Princess", 
+            "description": "Son las extensiones de pestañas por excelencia, hechas a mano con 100% de pelo natural de visón. Su proceso de curvado es más extenso que el de las Mink o Mink Light. Crean un efecto natural, elegante y sexy.", 
+            "price": "150.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Eliminar Extensiones De Pestañas (De Otro Centro)", 
+            "description": "Tratamiento indicado para eliminar de forma rápida extensiones de pestañas realizadas en otro centro.", 
+            "price": "87.50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Extensión De Cejas Reconstrucción Parcial", 
+            "description": "Las extensiones de cejas una a una consisten en la aplicación de pelo sintético, directamente sobre la piel o el pelo de la ceja, con un adhesivo hipoalergénico y especialmente diseñado para pieles sensibles. De esta forma, podemos dar solución incluso a personas que han perdido completamente el vello debido a un problema médico o bien a aquellas que desean rellenar calvitas.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Extensión De Cejas Reconstrucción Total", 
+            "description": "Las extensiones de cejas consisten en la aplicación de pelo sintético, directamente sobre la piel o el pelo de la ceja, con un adhesivo hipoalergénico y especialmente diseñado para pieles sensibles. De esta forma, podemos dar solución incluso a personas que han perdido completamente el vello debido a un problema médico o bien a aquellas que desean rellenar calvitas. Para una reconstrucción completa de las cejas.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Una A Una 2D - 3D", 
+            "description": "Tratamiento de extensiones de pestañas 2D-3D, en el que se colocan pestañas aún más finas que las habituales sobre las propias extensiones de pestañas (hasta 2 o 3 por pestaña), para dar sensación de volumen. Estas extensiones de pestañas son aún más suaves, ligeras y flexibles que las Mink.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Una A Una 4D - 5D", 
+            "description": "Tratamiento de extensiones de pestañas 4D-5D, en el que se colocan pestañas aún más finas que las habituales sobre las propias extensiones de pestañas (hasta 2 o 3 por pestaña), para dar sensación de volumen. Para una mirada de infarto.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Una A Una 4D - 5D", 
+            "description": "Retoque para tus extensiones de pestañas 4D-5D, en el que se colocan pestañas aún más finas que las habituales sobre las propias extensiones de pestañas (hasta 2 o 3 por pestaña), para dar sensación de volumen.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Retoque Extensiones De Pestañas Mink", 
+            "description": "Retoque de pestañas Mink, que son más ligeras y más flexibles que las pestañas sintéticas convencionales. Estas extensiones son curvadas y con un acabado cónico perfecto, dando un look suave y natural como también un efecto máscara intenso.", 
+            "price": "95 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Retoque Extensiones De Pestañas Mink Light", 
+            "description": "Las pestañas Mink Light son más natural, con un 50% de seda con un resultado muy natural. Estas extensiones son curvadas y con un acabado cónico perfecto, dando un look suave y natural como también un efecto máscara intenso.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Retoque Extensiones De Pestañas Princess", 
+            "description": "Son las extensiones de pestañas por excelencia, hechas a mano con 100% de pelo natural de visón. Su proceso de curvado es más extenso que el de las Mink o Mink Light. Crean un efecto natural, elegante y sexy.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Retoque Extensiones De Pestañas Una A Una 2D - 3D", 
+            "description": "Retoque de extensiones de pestañas 2D-3D, en el que se colocan pestañas aún más finas que las habituales sobre las propias extensiones de pestañas (hasta 2 o 3 por pestaña), para dar sensación de volumen. Estas extensiones de pestañas son aún más suaves, ligeras y flexibles que las Mink.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "Tinte y permanente de pestañas sobre las pestañas superiores. El nuevo tinte y permanente HD de Mírame, nos ofrece un efecto lifting de pestañas, 2 curvaturas diferentes, una para mujer (curvatura C) y otra para hombres (curvatura J) las levanta eliminando el rizado efecto caracol de la permanente clásica. Los productos utilizados han evolucionado, son mejores y los resultados más satisfactorios. Este tratamiento también se puede realizar por separado.", 
+            "price": "95 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 10 Diseño De Cejas Mirame", 
+            "description": "Pack de 10 sesiones de diseño de cejas que incluye un asesoramiento en base a la forma de rostro y deseos de la clienta. Tras convenir un diseño, se aplican las sombras y finalmente se define el diseño de cejas con la técnica del hilo.", 
+            "price": "170 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Diseños De Cejas Mirame", 
+            "description": "Pack de 5 sesiones de diseño de cejas que incluye un asesoramiento en base a la forma de rostro y deseos de la clienta. Tras convenir un diseño, se aplican las sombras y finalmente se define el diseño de cejas con la técnica del hilo.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Con Hilo Del Labio Superior", 
+            "description": "La depilación con hilo es un técnica más duradera y menos dolorosa que las tradicionales. Para labio superior.", 
+            "price": "95 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Diseño De Cejas Celebrity Eyebrows By Mírame", 
+            "description": "Diseño de cejas semipermanente, gracias a la segunda fase del tratamiento. El Celebrity Eyebrows incluye un asesoramiento en base a la forma de rostro y deseos de la clienta. En una primera fase, tras convenir un diseño, definimos el diseño de cejas con la técnica del hilo, y aplicamos el tinte seleccionado previamente. Este tinte tiene una duración máxima de 6 semanas aproximadamente.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Diseño De Cejas Express", 
+            "description": "Diseño de cejas recomendado para clientas habituales que ya se hayan hecho previamente un diseño de cejas en Mírame. El objetivo de este tratamiento es mantener la forma del diseño de cejas de la clienta, mediante la técnica del hilo. Perfeccionamos con pinza y sólo en casos necesarios recortamos el vello sobrante.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Diseño De Cejas Mírame", 
+            "description": "Diseño de cejas que incluye un asesoramiento en base a la forma de rostro y deseos de la clienta. Tras convenir un diseño, aplicamos las sombras y finalmente definimos el diseño de cejas con la técnica del hilo.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

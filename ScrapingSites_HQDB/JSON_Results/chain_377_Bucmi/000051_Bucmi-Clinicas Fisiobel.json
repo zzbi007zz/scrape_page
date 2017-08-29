@@ -1,0 +1,130 @@
+{
+    "name": "Bucmi-Clínicas Fisiobel", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=52", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4109323000", 
+    "longitude": "-3.6561177999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/fisiobell", 
+    "office_number": "913285339", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Fisiobel es un centro especializado en fisioterapia, podología, nutrición y pilates con más de 10 años de experiencia. Nuestro centro lo compone un equipo de profesionales cualificados para tratar y mejorar dolencias y lesiones musculares. Reserva ahora.", 
+    "services": [
+        {
+            "service": "Bono De 4 Consultas De Nutrición", 
+            "description": "El servicio consta de dietas equilibradas y personalizadas de adelgazamiento (sin pasar hambre ni pesar alimentos) y seguimiento de resultados. Incluye primera consulta y estudio de masa corporal.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión De Fisioterapia", 
+            "description": "Reserva ahora online esta sesión de fisioterapia que es la terapia que elimina la dolencia de la zona localizada para que puedas continuar con tu vida sin que nada te pare.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Deportivo", 
+            "description": "Reserva ahora nuestra sesión de masaje deportivo y prepara tu cuerpo para un duro día de ejercicio además de prevenir posibles lesiones.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "description": "Luce el cuerpo que siempre has querido de la mano de los mejores profesionales gracias a este bono de 10 sesiones de presoterapia corporal. Si lo combinas con una dieta sana y equilibrada los resultados serán visibles mucho antes. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "140 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Sesión Podología", 
+            "description": "Los pies son el punto neurálgico de todo el cuerpo. Sesión de quiropodia. Nuestros profesionales presionarán puntos específicos del pie para conseguir eliminar determinadas dolencias. Confía en nuestros expertos, que te harán la vida mucho más fácil.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono De 5 Sesiones De Fisioterapia", 
+            "description": "Terapia que elimina la dolencia de la zona localizada para que nada impida que puedas seguir con tu ritmo de vida. Cada sesión es de una hora de duración.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono De 5 Sesiones De Osteopatia", 
+            "description": "¿Todavía no conoces este servicio? La Osteopatía es un sistema de cuidados de la Salud, que se basa en el diagnóstico diferencial, bien como en el tratamiento de varias definiciones y prevención de la Salud. ¡Ahora puedes reservar nuestro bono de 5 sesiones! ¿A qué esperas?", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Fisioterapia Punción Seca", 
+            "description": "Combina masaje con punción según la patología del paciente, para una recuperación más rápida de la lesión. Prueba y decide que te va mejor.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión De Fisioterapia", 
+            "description": "Reserva ahora online esta sesión de fisioterapia que es la terapia que elimina la dolencia de la zona localizada para que puedas continuar con tu vida sin que nada te pare.", 
+            "price": "135 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión Osteopatía", 
+            "description": "La Osteopatía es un sistema de cuidados de la Salud, que se basa en el diagnóstico diferencial, bien como en el tratamiento de varias definiciones y prevención de la Salud. ¿A qué esperas para probar? ¡Te encantará!", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Deportivo", 
+            "description": "Reserva ahora nuestra sesión de masaje deportivo y prepara tu cuerpo para un duro día de ejercicio además de prevenir posibles lesiones.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante", 
+            "description": "Reserva ahora online esta sesión de masaje descontracturante para eliminar las tensiones que provoca el día a día además de eliminar el estrés y posibles dolencias.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono De 4 Consultas De Nutrición", 
+            "description": "El servicio consta de dietas equilibradas y personalizadas de adelgazamiento (sin pasar hambre ni pesar alimentos) y seguimiento de resultados. Incluye primera consulta y estudio de masa corporal.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Consulta Nutrición", 
+            "description": "El servio consta de un estudio de composición corporal y elaboración de una dieta personalizada acorde con los hábitos alimenticios de cada persona. Da el paso y aprende a comer sano.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Consulta Nutrición Ortomolecular", 
+            "description": "El servicio consta de pautas alimentarias, ayudadas de suplementación natural, fundamentales para saber qué tratamiento vamos a emplear como forma de regular el organismo o para tratar las diferentes patologías (Migrañas, Alergias, etc.) siempre desde el ángulo de los principios de la Naturopatía.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

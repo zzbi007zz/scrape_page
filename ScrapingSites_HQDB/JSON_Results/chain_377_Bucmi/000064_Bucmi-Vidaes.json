@@ -1,0 +1,109 @@
+{
+    "name": "Bucmi-Vidaes", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=65", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4485928000", 
+    "longitude": "-3.7083107999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/vidaes", 
+    "office_number": "913275346", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro de masajes y terapias naturales Vidaes situado en cuatro caminos, Madrid, ofrece gran variedad de terapias naturales para eliminar dolencias en la zona localizada y eliminar diferentes patologías. No esperes más y reserva ahora tu cita online.", 
+    "services": [
+        {
+            "service": "Masaje Facial Kobido", 
+            "description": "Con este tipo de masaje facial japonés conseguimos estimular las terminaciones nerviosas del rostro y la piel, mejora la circulación y elimina toxina e impurezas, lo que se traduce en un aspecto más joven y saludable. Este servicio tiene una duración aproximada de 50 minutos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Fusión", 
+            "description": "Haz tu hora de relajación perfecta con nuestro Pack Fussion. Al reservar este servicio podrás disfrutar de una sesión de reiki combinada con otra terapia a elegir entre masaje con pindas, bambuterapia, aromaterapia o masaje con piedras volcánicas. Nuestros expertos en relajación te aconsejarán según tus necesidades. La sesión dura una hora aproximadamente.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Shiatsu", 
+            "description": "Más que un masaje, el Shiatsu es una técnica de la medicina tradicional japonesa, basada en el masaje realizado mediante presiones aplicadas con los pulgares y las palmas de las manos en puntos concretos que alivia tensiones y reduce los síntomas de ciertas enfermedades. No pierdas la oportunidad de brindarle a tu cuerpo 50 minutos de relax y sanación interior, y reserva ya este servicio.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión De Reiki", 
+            "description": "El Reiki es una técnica japonesa que busca el equilibrio interior de nuestro organismo para desarrollar su capacidad para autosanarse. Prueba nuestra sesión suelta y dale a tu cuerpo y tu mente el impulso energético que necesita. Incluye una sesión suelta de 50 minutos aproximadamente.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático Manual", 
+            "description": "Gracias a los efectos del drenaje linfático manual, conseguirás lucir una figura esbelta y reducir la celulitis en zonas localizadas de tu cuerpo. ¡Reserva cómodamente tu servicio a través de Bucmi!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Quiromasaje", 
+            "description": "Con el quiromasaje tratamos dolencias musculares y articulares comunes, realizando una serie de manipulaciones manuales de las estructuras blandas de nuestro cuerpo y las articulaciones. Notarás como te relajas y se activan los mecanismos naturales del cuerpo para refrenar el dolor. La sesión tiene una duración aproximada de 50 minutos.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología", 
+            "description": "Muchos de los problemas de nuestro organismo se ven reflejados en los pies y se pueden tratar mediante la reflexología. Esta técnica de masaje proporciona una gran relajación y puede servir para tratar problemas como problemas de espalda, migrañas, desórdenes digestivos, problemas menstruales, etc. La sesión dura 50 minutos aproximadamente.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Facial Kobido", 
+            "description": "Con este tipo de masaje facial japonés conseguimos estimular las terminaciones nerviosas del rostro y la piel, mejora la circulación y elimina toxina e impurezas, lo que se traduce en un aspecto más joven y saludable. Este servicio tiene una duración aproximada de 50 minutos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Fusión", 
+            "description": "Haz tu hora de relajación perfecta con nuestro Pack Fussion. Al reservar este servicio podrás disfrutar de una sesión de reiki combinada con otra terapia a elegir entre masaje con pindas, bambuterapia, aromaterapia o masaje con piedras volcánicas. Nuestros expertos en relajación te aconsejarán según tus necesidades. La sesión dura una hora aproximadamente.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Shiatsu", 
+            "description": "Más que un masaje, el Shiatsu es una técnica de la medicina tradicional japonesa, basada en el masaje realizado mediante presiones aplicadas con los pulgares y las palmas de las manos en puntos concretos que alivia tensiones y reduce los síntomas de ciertas enfermedades. No pierdas la oportunidad de brindarle a tu cuerpo 50 minutos de relax y sanación interior, y reserva ya este servicio.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Curso De Reiki Individual", 
+            "description": "Si quieres profundizar en el Reiki, te encantará nuestro curso de Reiki. No sólo aprenderás a realizar técnicas más avanzadas de relajación, sino que aprenderás a conseguir a realizar sesión para otras personas. Además, después podrás realizar prácticas en las propias instalaciones de Vidaes. El curso se realiza en un solo día y se imparte en 5 horas a acordar con nosotros. Para cualquier duda consulta con el centro.", 
+            "price": "170 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Sesión De Reiki", 
+            "description": "El Reiki es una técnica japonesa que busca el equilibrio interior de nuestro organismo para desarrollar su capacidad para autosanarse. Prueba nuestra sesión suelta y dale a tu cuerpo y tu mente el impulso energético que necesita. Incluye una sesión suelta de 50 minutos aproximadamente.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-Moli Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=17", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4473601000", 
+    "longitude": "-3.6737273999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/molipeluqueros", 
+    "office_number": "915199001", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Peluquería masculina caracterizada por el uso de materiales desechables: capa de corte, toalla, navaja y peine así como el uso de marcas de primera categoría como American Crew, una de las más conocidas y reveladoras del mercado. ¡Ven a conocernos!", 
+    "services": [
+        {
+            "service": "Corte Y Tratamiento Capilar Ampolla Anticaída", 
+            "description": "Servicio de corte caballero con tratamiento de anticaída incluido. El servicio incluye el corte, la ampolla, el lavado el champú anticaída, crema y masaje capilar. Recuerda que en Moli Peluqueros el material utilizado es higiénico y de uso personal (Capa corte, Peine, Toalla, Navaja)", 
+            "price": "26.9 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Arreglo De Barba", 
+            "description": "Te ofrecemos una imagen actual y el estilo que mejor refleja su personalidad. Servicio de arreglo de barba para que las mantengas siempre cuidada. Con productos de acabado American Crew. Ahorra tiempo y reserva ya tu cita online.", 
+            "price": "6.5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "El servicio incluye lavado, masaje capilar y corte. En moli peluqueros nos caracterizamos por el uso de material higiénico personal : la capa de corte, el peine, la toalla y la cuchilla son de un solo uso. Realizamos nuestros servicios con productos L'OREAL y American Crew.", 
+            "price": "14.9 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Color O Tinte Para Las Canas", 
+            "description": "Innovadora técnica del color que consigue dar luz y volumen a tu cabello de la forma más natural con productos American Crew. Porque los hombres también se cuidan. ¡Reserva ya online!", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "description": "El servicio incluye lavado, masaje capilar y corte. En moli peluqueros nos caracterizamos por el uso de material higiénico personal: la capa de corte, el peine, la toalla y la cuchilla son de un solo uso. Y productos de alta calidad como American Crew y L'OREAL. Incluye también arreglo de barba.", 
+            "price": "21.4 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Y Tratamiento Capilar Ampolla Anticaída", 
+            "description": "Servicio de corte caballero con tratamiento de anticaída incluido. El servicio incluye el corte, la ampolla, el lavado el champú anticaída, crema y masaje capilar. Recuerda que en Moli Peluqueros el material utilizado es higiénico y de uso personal (Capa corte, Peine, Toalla, Navaja)", 
+            "price": "26.9 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Y Tratamiento Capilar Purificante", 
+            "description": "Profunda purificación del cuero cabelludo que estimula el crecimiento del cabello sano. Contiene Ácido Glicólico, un potente agente queratolítico que ayuda a eliminar las impurezas del cuero cabelludo y a su oxigenación. Productos American Crew y L'OREAL.", 
+            "price": "26.9 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Tto. Capilar Para Pelo Graso O Seco", 
+            "description": "¡Tu melena siempre cuidada gracias a nuestro centro! Podrás disfrutar de un corte asesorado por nuestro equipo de profesionales, además de un tratamiento indicado para pelo graso o seco, según las necesidades del cliente. En definitiva, un pelo sano y cuidado con productos American Crew y L'OREAL. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "26.9 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Arreglo De Barba", 
+            "description": "Te ofrecemos una imagen actual y el estilo que mejor refleja su personalidad. Servicio de arreglo de barba para que las mantengas siempre cuidada. Con productos de acabado American Crew. Ahorra tiempo y reserva ya tu cita online.", 
+            "price": "6.5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "El servicio incluye lavado, masaje capilar y corte. En moli peluqueros nos caracterizamos por el uso de material higiénico personal : la capa de corte, el peine, la toalla y la cuchilla son de un solo uso. Realizamos nuestros servicios con productos L'OREAL y American Crew.", 
+            "price": "14.9 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Corte De Pelo Niño", 
+            "description": "Corte de pelo para niños hasta 7 años. Los más peques de la casa también tienen sitio en nuestra peluquería... Incluye asesoramiento por parte de nuestros profesionales. ¡Reserva ya online!", 
+            "price": "9.9 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

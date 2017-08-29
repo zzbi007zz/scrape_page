@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Gesvital Orense", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=57", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4488335000", 
+    "longitude": "-3.6950099000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/gesvital-orense", 
+    "office_number": "915552222", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El Centro de Estética Gesvital Orense situada en Nuevos Ministerios en Madrid, ofrece todo tipo de tratamientos sin cirugía para aumentar volumen en pecho, frenar la caída del pelo o tratamiento para la eliminación de las estrías.", 
+    "services": [
+        {
+            "service": "Tratamiento Capilar", 
+            "description": "En Innovación Estética, frenamos la caída del pelo con un sistema de regeneración capilar personalizado y sin riesgos. Se corrige de forma inmediata caspa, grasa, seborrea y se activa el riego sanguíneo aportando nutrientes esenciales para la recuperación del cabello. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Reductor", 
+            "description": "Tratamiento Reductor Intensivo diseñado especialmente para eliminar la grasa en cualquier zona del cuerpo,eliminar la retención de líquidos y activar el sistema circulatorio, reducir el volumen y reafirmar. El tratamiento está totalmente orientado a las necesidades individuales, consiguiendo la satisfacción plena del cliente. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Te encantará!", 
+            "price": "47.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antimanchas", 
+            "description": "Tratamiento muy efectivo para todo tipo de manchas, recientes y antiguas, producidas por el sol, medicamentos u otras causas. En una sola sesión ya se consigue un buen resultado, incluso en casos de manchas profundas. ¿Quieres lucir una piel libre de imperfecciones? Ven a tu Centro Gesvital y ponte en manos de nuestros mejores profesionales. Luce una piel perfecta y libre de imperfecciones. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantarán los resultados!", 
+            "price": "39.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar", 
+            "description": "En Innovación Estética, frenamos la caída del pelo con un sistema de regeneración capilar personalizado y sin riesgos. Se corrige de forma inmediata caspa, grasa, seborrea y se activa el riego sanguíneo aportando nutrientes esenciales para la recuperación del cabello. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Dermotensor", 
+            "description": "Es un tratamiento corporal reafirmante que se aplica en en el descolgamiento de la piel de la cara interna de los brazos y las piernas (muslos). Duración: entre 45 minutos y 60 minutos. ¿Quieres lucir una piel tersa y firme? Ven a tu Centro Gesvital y ponte en manos de nuestros mejores profesionales. La piel resulta firme, tersa y elástica. Elimina el efecto de la piel flácida. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantarán los resultados!", 
+            "price": "44.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Reafirmante Pecho Sin Cirugía", 
+            "description": "Tratamiento totalmente innovador que aumenta el volumen y moldea el busto, gracias a una fórmula exclusiva que combina aparatología de alta tecnología, y sin ningún efecto secundario. Con este tratamiento se consigue la remodelación total de los contornos del busto, redensificar, tonificar y la revitalizar la glándula mamaria. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "47.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Reductor", 
+            "description": "Tratamiento Reductor Intensivo diseñado especialmente para eliminar la grasa en cualquier zona del cuerpo,eliminar la retención de líquidos y activar el sistema circulatorio, reducir el volumen y reafirmar. El tratamiento está totalmente orientado a las necesidades individuales, consiguiendo la satisfacción plena del cliente. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Te encantará!", 
+            "price": "47.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antimanchas", 
+            "description": "Tratamiento muy efectivo para todo tipo de manchas, recientes y antiguas, producidas por el sol, medicamentos u otras causas. En una sola sesión ya se consigue un buen resultado, incluso en casos de manchas profundas. ¿Quieres lucir una piel libre de imperfecciones? Ven a tu Centro Gesvital y ponte en manos de nuestros mejores profesionales. Luce una piel perfecta y libre de imperfecciones. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantarán los resultados!", 
+            "price": "39.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Antiedad Reparador De Estrías", 
+            "description": "Se realiza un estudio y diagnóstico de forma personalizado, por un especialista, para determinar el grado de deterioro de nuestra piel y aplicar el tratamiento más correcto en cada caso. Se tratan con láseres y principios activos regeneradores de efecto profundo, orientados a reconstruir la piel dañada y el tejido conjuntivo que se ha roto en las capas internas de nuestra piel. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tto Corporal Eliminación De Varices Sin Cirugía", 
+            "description": "En Innovación Estetica, realizamos tratamientos de varices no invasivos que incluyen: estudio personalizado, asesoramiento y seguimiento por médicos especialistas en varices, en tratamientos de arañas vasculares, telangiectasias, tratamientos de varices reticulares, medias y avanzadas y varices internas. ¿Quieres lucir unas piernas perfectas?Ven a tu Centro Gesvital y ponte en manos de nuestros mejores profesionales.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Presume de piernas!", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-Centro Medico Estetico Ponzano", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=83", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4378863000", 
+    "longitude": "-3.6994944000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/cmeponzano", 
+    "office_number": "915945446", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Centro Médico Ponzano en Almagro, ofrecemos una gama de servicios médicos estéticos dispuestos para conseguir la belleza y cuidar la salud de nuestros clientes. Trabajamos con las mejores firmas cosméticas y la aparotología más efectiva y sofisticada.", 
+    "services": [
+        {
+            "service": "Bono 10 Sesiones Tto. Corporal Láser Lipolítico", 
+            "description": "El láser Lipólitico es una técnica de última generación que aplica láser frío sobre la zona localizada para conseguir eliminar unos centímetros sin necesidad de cirugía. Es totalmente inocuo para la piel. Aprovecha este bono de 10 sesiones.", 
+            "price": "210.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Limpieza Facial Y 2 Sesiones De Radiofrecuencia", 
+            "description": "El servicio incluye limpieza facial y 2 sesiones de radiofrecuencia facial. El resultado es una piel más tersa gracias al efecto lifting, suave, firme y elástica. Gana la batalla a los años.", 
+            "price": "99.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Tto. Corporal Láser Lipolítico", 
+            "description": "El láser Lipólitico es una técnica de última generación que aplica láser frío sobre la zona localizada para conseguir eliminar unos centímetros sin necesidad de cirugía. Es totalmente inocuo para la piel. Aprovecha este bono de 10 sesiones.", 
+            "price": "210.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Limpieza Facial Y 2 Sesiones De Radiofrecuencia", 
+            "description": "El servicio incluye limpieza facial y 2 sesiones de radiofrecuencia facial. El resultado es una piel más tersa gracias al efecto lifting, suave, firme y elástica. Gana la batalla a los años.", 
+            "price": "99.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Bono 4 Sesiones Radiofrecuencia Corporal", 
+            "description": "Reserva ya nuestro bono de 4 sesiones de radiofrecuencia para conseguir una piel más firme gracias a que la radiofrecuencia ayuda a que la piel vuelva a generar colágeno. No te arrepentirás del resultado.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Hilos Tensores Con Ácido Hialurónico", 
+            "description": "Revitalización facial con ácido hialurónico para que el efecto sea natural.Con los hilos tensores conseguimos un efecto tensor.", 
+            "price": "149 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Corporal", 
+            "description": "El servicio incluye una sesión de Radiofrecuencia Corporal. El resultado es una piel más tersa, suave, firme y elástica. Luce una figura 10 gracias a Centro Médico Estético Ponzano.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad Hilos Tensores", 
+            "description": "Tu piel lucirá más joven gracias a la aplicación de hilos tensores sobre el rostro. El tratamiento no implica cirugía y no daña la piel. Incluye la zona del óvalo facial.", 
+            "price": "149 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Hidratante Cocktail Vitaminas", 
+            "description": "Luce tu rostro mucho más nutrido e hidratado con este servicio que incluye una aplicación de cóctel de vitaminas específico para las pieles secas. ¿A qué estás esperando? ¡Reserva online con Bucmi.com!", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Anticelulítico Velasmooth", 
+            "description": "El servicio incluye una sesión de Velasmooth. Este tratamiento es uno de los más efectivos para acabar con la celulitis gracias a nuestra aparatología de última generación.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Ayurveda", 
+            "description": "El servicio tiene una duración aproximada de una hora y cuarto. Consiste en una técnica en la que se trabaja con las energías del apciente para poder equilibrar tanto el cuerpo como la mente. Saldrás con las pilas cargadas.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "name": "Bucmi-Godes", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=61", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4222715000", 
+    "longitude": "-3.6735499000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/godes", 
+    "office_number": "910333340", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Godés es tu Centro de Estética y Masajes situados en pleno barrio de Salamanca. Dónde te ofrecemos servicios tanto de belleza y estética como diferentes tipos de masajes. Somos distribuidor oficial de productos Skeyndor y Productos de NuSkin. ¡Visítanos!", 
+    "services": [
+        {
+            "service": "Bono 10 Ss Tto.Corporal Galvánico Nuskin Abdomen", 
+            "description": "Este servicio de 10 Sesiones de tratamiento corporal galvánico NuSkin en abdomen (para un tratamiento completo de 1 mes) incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento NuSkin, presoterapia, regalo de un drenante bebible para obtener mejores resultados. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes.", 
+            "price": "320.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Ss Tratamiento Facial Galvánico Nuskin", 
+            "description": "Bono para un tratamiento completo de 1 mes. Posibilidad de pagar en dos plazos, uno al reservar y el otro para continuar la mitad de las sesiones. El tratamiento se compone de: limpieza, tónico, peeling, aplicación del tratamiento NuSkin, mascarilla final, adaptada a cada tipo de piel (peeling y mascarilla una vez por semana).Recomendación de producto para casa durante los meses de descanso. No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos.", 
+            "price": "280.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Ss Tto.Corporal Galvánico Nuskin En Brazos", 
+            "description": "Este servicio de 10 Sesiones de tratamiento corporal galvánico NuSkin en brazos (para un tratamiento completo de 1 mes) incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento NuSkin, electroestimulación, regalo de un drenante bebible para obtener mejores resultados. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes.", 
+            "price": "240.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "1 Sesión De Tratamiento Facial Galvánico Nuskin", 
+            "description": "El tratamiento se compone de: limpieza, tónico, peeling, aplicación del tratamiento NuSkin, mascarilla final, adaptada a cada tipo de piel (peeling y mascarilla una vez por semana). Los efectos del tratamiento galvánico facial NuSkin se van viendo con efecto retroactivo (a más días, mayor resultado) aunque tiene efectos visibles desde la primera sesión. Recomendación de producto para casa durante los meses de descanso. No se puede hacer un tratamiento completo más de 3 veces al año. Reserva ahora.", 
+            "price": "13.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Ss Tto.Corporal Galvánico Nuskin Piernas", 
+            "description": "Este servicio de 10 Sesiones de tratamiento corporal galvánico NuSkin en piernas (para un tratamiento completo de 1 mes) incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento NuSkin, presoterapia, regalo de un drenante bebible para obtener mejores resultados. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes.", 
+            "price": "320.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 7 Sesiones De Presoterapia", 
+            "description": "Este servicio tiene una duración de 40 minutos. Te mantenemos este Bono hasta Fin de Verano. Tienes 1 mes para consumirlo. ¿Quieres lucir un cuerpo tonificado y libre de celulitis? Ven a tu Centro de Estética y Masajes Godes y ponte en manos de nuestros mejores profesionales. Conseguirás obtener un cuerpo mucho más tonificado y libre de celulitis y flacidez. Dí adiós a la grasa localizada y realza tu figura. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te esperamos!", 
+            "price": "280.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono De 10 Sesiones De Presoterapia", 
+            "description": "¿Quieres lucir un cuerpo tonificado y libre de celulitis? Ven a tu Centro de Estética y Masajes Godes y ponte en manos de nuestros mejores profesionales. Conseguirás obtener un cuerpo mucho más tonificado y libre de celulitis y flacidez. Dí adiós a la grasa localizada y realza tu figura. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! ¡Te esperamos! Este bono tiene 2 meses de validez para consumirlo.", 
+            "price": "240.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono De Tratamiento Anticell Body Sculpt", 
+            "description": "Pack BodyScultt: Bono de 6 sesiones que incluye un masaje reductor y lipolítico y presoterapia. Este tratamiento se lleva a cabo con unas de las mejores marcas de productos que se llama Skeyndor. Conseguirás obtener un cuerpo mucho más tonificado y libre de celulitis y flacidez. Ven a Godés y aprovecha esta oportunidad. Reserva tu cita online a través de Bucmi.com. Tienes un mes para todo el tratamiento con resultados desde la primera sesión.", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Masaje relajante de 30 minutos para descansar cuerpo y mente, olvídate del estrés causado en tu día a día. ¿Quieres olvidarte del estrés acumulado y las preocupaciones del día a día? Ven a Godés y ponte en manos de los mejores profesionales. Notarás los resultados. Además conseguirás descansar mejor por las noches y así empezarás los días con mucha más energía y vitalidad. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Otros Masajes: Masaje Oriental", 
+            "description": "Son masajes de más de 5000 años de atigüedad que se caracterizan por movimientos largos continuos, maniobras con y sin aceite, presiones, estiramientos, baños, etc, según la técnica empleada... Restablece cuerpo,mente y espíritu. La terapeuta trabaja en estado de meditación, por lo que la palabra no es bienvenida, para obtener los mejores resultados. Reserva cómodamente tu cita online a través de Bucmi.com. ¡Visítanos, te encantará el resultado!", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Galvánico Nuskin En Abdomen", 
+            "description": "Este servicio de 1 Sesión de tratamiento corporal galvánico Nuskin en abdomen incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento NuSkin y presoterapia. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes. Mantenimiento: según la necesidad de cada persona.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Galvánico Nuskin En Brazos", 
+            "description": "Este servicio de 1 Sesión de tratamiento corporal galvánico NuSkin en brazos incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento Nuskin, electroestimulación. Recomendación de productos para casa durante los meses de descanso. No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes. Mantenimiento: según cada persona.", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Galvánico Nuskin En Piernas", 
+            "description": "Este servicio de 1 Sesión de tratamiento corporal galvánico Nuskin en piernas incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento Nuskin y presoterapia. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes. Mantenimiento: según la necesidad de cada persona", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Galvánico", 
+            "description": "Este servicio es un tratamiento facial balsámico de una sesión que nuestros profesionales utilizan un producto revolucionario con un principio activo muy potente. Realza tu cutis gracias a este poder activador. Notarás los resultados. Disfruta de una piel suave, luminosa y cuidada. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "1 Sesión De Presoterapia", 
+            "description": "¿Quieres lucir un cuerpo tonificado y libre de celulitis? Ven a tu Centro de Estética y Masajes Godes y ponte en manos de nuestros mejores profesionales. Conseguirás obtener un cuerpo mucho más tonificado y libre de celulitis y flacidez. Dí adiós a la grasa localizada y realza tu figura. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "210 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 10 Ss Tto.Corporal Galvánico Nuskin Abdomen", 
+            "description": "Este servicio de 10 Sesiones de tratamiento corporal galvánico NuSkin en abdomen (para un tratamiento completo de 1 mes) incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento NuSkin, presoterapia, regalo de un drenante bebible para obtener mejores resultados. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Ss Tratamiento Facial Galvánico Nuskin", 
+            "description": "Bono para un tratamiento completo de 1 mes. Posibilidad de pagar en dos plazos, uno al reservar y el otro para continuar la mitad de las sesiones. El tratamiento se compone de: limpieza, tónico, peeling, aplicación del tratamiento NuSkin, mascarilla final, adaptada a cada tipo de piel (peeling y mascarilla una vez por semana).Recomendación de producto para casa durante los meses de descanso. No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Ss Tto.Corporal Galvánico Nuskin En Brazos", 
+            "description": "Este servicio de 10 Sesiones de tratamiento corporal galvánico NuSkin en brazos (para un tratamiento completo de 1 mes) incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento NuSkin, electroestimulación, regalo de un drenante bebible para obtener mejores resultados. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "1 Sesión De Tratamiento Facial Galvánico Nuskin", 
+            "description": "El tratamiento se compone de: limpieza, tónico, peeling, aplicación del tratamiento NuSkin, mascarilla final, adaptada a cada tipo de piel (peeling y mascarilla una vez por semana). Los efectos del tratamiento galvánico facial NuSkin se van viendo con efecto retroactivo (a más días, mayor resultado) aunque tiene efectos visibles desde la primera sesión. Recomendación de producto para casa durante los meses de descanso. No se puede hacer un tratamiento completo más de 3 veces al año. Reserva ahora.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Ss Tto.Corporal Galvánico Nuskin Piernas", 
+            "description": "Este servicio de 10 Sesiones de tratamiento corporal galvánico NuSkin en piernas (para un tratamiento completo de 1 mes) incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento NuSkin, presoterapia, regalo de un drenante bebible para obtener mejores resultados. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 7 Sesiones De Presoterapia", 
+            "description": "Este servicio tiene una duración de 40 minutos. Te mantenemos este Bono hasta Fin de Verano. Tienes 1 mes para consumirlo. ¿Quieres lucir un cuerpo tonificado y libre de celulitis? Ven a tu Centro de Estética y Masajes Godes y ponte en manos de nuestros mejores profesionales. Conseguirás obtener un cuerpo mucho más tonificado y libre de celulitis y flacidez. Dí adiós a la grasa localizada y realza tu figura. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te esperamos!", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono De 10 Sesiones De Presoterapia", 
+            "description": "¿Quieres lucir un cuerpo tonificado y libre de celulitis? Ven a tu Centro de Estética y Masajes Godes y ponte en manos de nuestros mejores profesionales. Conseguirás obtener un cuerpo mucho más tonificado y libre de celulitis y flacidez. Dí adiós a la grasa localizada y realza tu figura. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! ¡Te esperamos! Este bono tiene 2 meses de validez para consumirlo.", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono De Tratamiento Anticell Body Sculpt", 
+            "description": "Pack BodyScultt: Bono de 6 sesiones que incluye un masaje reductor y lipolítico y presoterapia. Este tratamiento se lleva a cabo con unas de las mejores marcas de productos que se llama Skeyndor. Conseguirás obtener un cuerpo mucho más tonificado y libre de celulitis y flacidez. Ven a Godés y aprovecha esta oportunidad. Reserva tu cita online a través de Bucmi.com. Tienes un mes para todo el tratamiento con resultados desde la primera sesión.", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Galvánico Nuskin En Abdomen", 
+            "description": "Este servicio de 1 Sesión de tratamiento corporal galvánico Nuskin en abdomen incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento NuSkin y presoterapia. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes. Mantenimiento: según la necesidad de cada persona.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Galvánico Nuskin En Brazos", 
+            "description": "Este servicio de 1 Sesión de tratamiento corporal galvánico NuSkin en brazos incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento Nuskin, electroestimulación. Recomendación de productos para casa durante los meses de descanso. No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes. Mantenimiento: según cada persona.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Galvánico Nuskin En Piernas", 
+            "description": "Este servicio de 1 Sesión de tratamiento corporal galvánico Nuskin en piernas incluye: Limpieza, peeling (una vez por semana), masaje circulatorio, aplicación del tratamiento Nuskin y presoterapia. Recomendación de productos para casa durante los meses de descanso.No se puede hacer un tratamiento completo más de 3 veces al año.Basta con el mantenimiento en casa con sus descansos correspondientes. Mantenimiento: según la necesidad de cada persona", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Galvánico", 
+            "description": "Este servicio es un tratamiento facial balsámico de una sesión que nuestros profesionales utilizan un producto revolucionario con un principio activo muy potente. Realza tu cutis gracias a este poder activador. Notarás los resultados. Disfruta de una piel suave, luminosa y cuidada. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Esencial", 
+            "description": "Manicura en la que se incluye limado, masaje y esmaltado básico. Luce unas uñas bonitas y cuidadas. Además podrás elegir entre una gran variedad de colores para esmaltar tus uñas. Disfruta de este tratamiento y ven a Godes tu centro de Estética y Masaje en pleno centro de Madrid. Reserva tu cita online a través de Bucmi.com.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Incluye cortar, limar, retirar cutículas, hidratación, masaje y esmaltado permanente. Ven a Godes y ponte en las manos de nuestros mejores estilistas profesionales. Luce unas manos bonitas y cuidadas. Además podrás elegir entre una gran variedad de colores para esmaltar tus uñas. Te durarán intactas durante tres semanas, no se levantan ni se agrietan. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Masaje relajante de 30 minutos para descansar cuerpo y mente, olvídate del estrés causado en tu día a día. ¿Quieres olvidarte del estrés acumulado y las preocupaciones del día a día? Ven a Godés y ponte en manos de los mejores profesionales. Notarás los resultados. Además conseguirás descansar mejor por las noches y así empezarás los días con mucha más energía y vitalidad. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "210 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Otros Masajes: Masaje Oriental", 
+            "description": "Son masajes de más de 5000 años de atigüedad que se caracterizan por movimientos largos continuos, maniobras con y sin aceite, presiones, estiramientos, baños, etc, según la técnica empleada... Restablece cuerpo,mente y espíritu. La terapeuta trabaja en estado de meditación, por lo que la palabra no es bienvenida, para obtener los mejores resultados. Reserva cómodamente tu cita online a través de Bucmi.com. ¡Visítanos, te encantará el resultado!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Axilas", 
+            "description": "Servicio de Depilación Cera Mujer en Axilas, elimina el vello molesto en tus axilas. ¿Quieres despreocuparte de depilarte en un tiempo? Libérate del vello de tus axilas y luce unas axilas bonitas, suaves y libres de vello. Reserva tu cita online a través de Bucmi.com. ¡Visítanos, te encantará el resultado!", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Brazos", 
+            "description": "Servicio de Depilación Cera Mujer en Brazos, elimina el vello no deseado de la mano de los mejores profesionales. ¿Quieres despreocuparte de depilarte en un tiempo? Libérate del vello de tus brazos y luce unas brazos bonitas, suaves y libres de vello. Reserva tu cita online a través de Bucmi.com. ¡Visítanos, te encantará el resultado!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Piernas Enteras", 
+            "description": "Servicio de Depilación Cera Mujer en Piernas enteras y olvídate del vello durante más tiempo. ¿Quieres despreocuparte de depilarte en un tiempo? Libérate del vello de tus piernas y luce unas piernas bonitas, suaves y libres de vello. Reserva tu cita online a través de Bucmi.com. ¡Visítanos, te encantará el resultado!", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

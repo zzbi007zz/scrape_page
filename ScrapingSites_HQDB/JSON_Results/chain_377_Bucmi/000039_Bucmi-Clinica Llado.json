@@ -1,0 +1,60 @@
+{
+    "name": "Bucmi-Clínica Lladó", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=40", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4558621000", 
+    "longitude": "-3.6767113999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/clinicallado", 
+    "office_number": "915631886", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Clínica Lladó, situado en el barrio Chamartín (Madrid), nos tomamos muy en serio la seguridad de nuestros pacientes y es por ello que no aceptamos el uso de materiales y equipos no reconocidos y certificados por la CE.", 
+    "services": [
+        {
+            "service": "Depilacion Laser Axilas", 
+            "description": "Servicio para la eliminacion del vello en las axilas. La depilacion está realizada por el Equipo de laser alejandrita.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Anticelulitico", 
+            "description": "Ejercen una presión mecánica sobre los tejidos, influyendo directamente sobre las venas y los vasos linfáticos que se encuentran comprimidos por varios nódulos celulíticos de esta forma se produce una mejor eliminación de toxinas.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Anticelulitico", 
+            "description": "Ejercen una presión mecánica sobre los tejidos, influyendo directamente sobre las venas y los vasos linfáticos que se encuentran comprimidos por varios nódulos celulíticos de esta forma se produce una mejor eliminación de toxinas.", 
+            "price": "100.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilacion Laser Axilas", 
+            "description": "Servicio para la eliminacion del vello en las axilas. La depilacion está realizada por el Equipo de laser alejandrita.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilacion Laser Axilas Bono 5 Sesiones", 
+            "description": "Bono 5 sesiones para la eliminacion del vello en las axilas. Realizado por el Equipo de laser alejandrita.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

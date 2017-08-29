@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Roberto Abitbol", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=62", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4372687000", 
+    "longitude": "-3.6867984000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/robertoabitbol", 
+    "office_number": "658883771", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de osteopatía liderado por Roberto Abitbol con más de 20 años de experiencia en el campo de la Osteopatía Humana y también obtiene una diplomatura en el campo de la Homeopatía. Ven a conocer nuestro centro, obtendrás una atención muy personal.", 
+    "services": [
+        {
+            "service": "Homeopatía Dos Sesiones", 
+            "description": "Dos sesiones de Homeopatía a precio de una. Este tratamiento es realizado por un profesional. Es un sistema de medicina alternativa, que trata al paciente según sus necesidades. Se emplean medicamentos homeopáticos, tratando los problemas de forma distinta que la medicina tradicional.", 
+            "price": "70.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Osteopatía Dos Sesiones", 
+            "description": "Tratamiento mediante técnica manual, realizado por un profesional cualificado y beneficia problemas de columna, cervicales, lesiones deportivas con afectación de estabilidad ósea... Este Pack incluye una sesión gratis. Disfruta de este dos por uno y resuelve eficazmente tus problemas de espalda.", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Homeopatía Aparato Digestivo", 
+            "description": "Sesión de Homepatía para tratat problemas del aparato digestivo. Tales como una gastronteritis. Cuando tenemos este tipo de inconvenientes digestivos. Dichos, pueden ser tratados de forma más natural. Nuestro profesional te enseñará como. Primera sesión gratis.", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Osteopatía Dos Sesiones", 
+            "description": "Tratamiento mediante técnica manual, realizado por un profesional cualificado y beneficia problemas de columna, cervicales, lesiones deportivas con afectación de estabilidad ósea... Este Pack incluye una sesión gratis. Disfruta de este dos por uno y resuelve eficazmente tus problemas de espalda.", 
+            "price": "70.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Osteopatía Craneal", 
+            "description": "La duración de la sesión es de media hora. Nuestro profesional trata los problemas provocados por bloqueos craneales tales como cefaléas de origen desconocido, como consecuencia de un traumatsimo antiguo etc . Primera sesión gratis.", 
+            "price": "140 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Osteopatía Estructural", 
+            "description": "Tratamiento realizado de forma manual de Osteopatía Estructural. Dicho tratamiento se basa en el empleo de movimientos, presiones, etc, para conseguir devolver la movilidad completa del cuerpo, mantiniendo a su vez su elasticidad. Primera sesión gratis.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Osteopatía Visceral", 
+            "description": "Esta terapia es realizada por un Osteópata titulado. La duración es de unos 30 minutos. Nos centraremos en una Osteopatía dirigida a devolver la movilidad correcta a los órganos, ya que se encuentran anclados a nuestro sistema óseo. Primera sesión gratis.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Homeopatía Dos Sesiones", 
+            "description": "Dos sesiones de Homeopatía a precio de una. Este tratamiento es realizado por un profesional. Es un sistema de medicina alternativa, que trata al paciente según sus necesidades. Se emplean medicamentos homeopáticos, tratando los problemas de forma distinta que la medicina tradicional.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Homeopatía Alergías", 
+            "description": "Si tienes problemas de alergía. Estás cansado de medicamentos y medicina tradicional. Te proponemos esta técnica, en la que un profesional tratará este problema con productos naturales. Primera sesión junto con esta gratis.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Homeopatía Aparato Digestivo", 
+            "description": "Sesión de Homepatía para tratat problemas del aparato digestivo. Tales como una gastronteritis. Cuando tenemos este tipo de inconvenientes digestivos. Dichos, pueden ser tratados de forma más natural. Nuestro profesional te enseñará como. Primera sesión gratis.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

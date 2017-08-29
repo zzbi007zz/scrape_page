@@ -1,0 +1,130 @@
+{
+    "name": "Bucmi-Cosmo Nails", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=40", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3944751000", 
+    "longitude": "2.1444378999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/cosmonails", 
+    "office_number": "934141662", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Cosmo Nails en Eixample, somos expertos en todo tipo de tratamientos para cuidar de tus uñas. De las manos más expertas podrás disfrutar de todos nuestros servicios de manicuras, pedicuras, tratamientos con parafina, reconstrucción de uña y mucho más.", 
+    "services": [
+        {
+            "service": "Manicura Básica", 
+            "description": "Nuestra manicura incluye limado de uñas, retirada de cutículas y esmaltado en una amplía gama de colores. También incluye esmaltado francesa. ¿A qué estás esperando para lucir unas manos bonitas y cuidadas? ¡Ven ya a Cosmo Nails!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "El servicio incluye limado de uñas, retirada de cutículas y esmaltado permanente Gel-Lac en una amplía gama de colores (incluido francesa). Este esmaltado consiste en un gel de larga duración fácil de quitar. Mima tus uñas en nuestro exclusivo salón de Cosmo Nails y te encantará el resultado.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Tus pies estarán bonitos y perfectamente pintados gracias a nuestra completa pedicura que incluye limado de uñas, tratamiento de durezas, retirada de cutículas y esmaltado en una amplía gama de colores (incluido francesa).", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas", 
+            "description": "Luce una mirada de cine gracias a nuestras extensiones de pestañas. Realizamos el servicio pelo a pelo con un total de entre 80 a 100 pelos por pestaña. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "85 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "Intensifica tu mirada de la mano de los mejores profesionales gracias a este servicio en el que realizamos tinte y permanente de pestañas. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Nuestra manicura incluye limado de uñas, retirada de cutículas y esmaltado en una amplía gama de colores. También incluye esmaltado francesa. ¿A qué estás esperando para lucir unas manos bonitas y cuidadas? ¡Ven ya a Cosmo Nails!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "El servicio incluye limado de uñas, retirada de cutículas y esmaltado permanente Gel-Lac en una amplía gama de colores (incluido francesa). Este esmaltado consiste en un gel de larga duración fácil de quitar. Mima tus uñas en nuestro exclusivo salón de Cosmo Nails y te encantará el resultado.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Básica", 
+            "description": "Nuestra manicura y pedicura incluye limado de uñas, retirada de cutículas, cuidado de durezas, y esmaltado en una amplía gama de colores. También incluye esmaltado francesa. ¿A qué estás esperando para lucir unas manos y unos pies bonitos y cuidados? ¡Ven ya a Cosmo Nails!", 
+            "price": "43 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Permanente", 
+            "description": "El servicio incluye limado de uñas, retirada de cutículas y esmaltado permanente Gel-Lac en una amplía gama de colores (incluido francesa). Este esmaltado consiste en un gel de larga duración fácil de quitar. Mima tus uñas en nuestro exclusivo salón de Cosmo Nails y te encantará el resultado.", 
+            "price": "64 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Tus pies estarán bonitos y perfectamente pintados gracias a nuestra completa pedicura que incluye limado de uñas, tratamiento de durezas, retirada de cutículas y esmaltado en una amplía gama de colores (incluido francesa).", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "La Pedicura Gel-Lac es a última técnica revolucionaria para el esmaltado que consiste en un gel de larga duración muy fácil de quitar. Además, incluye limado de uñas, tratamiento de durezas, retirada de cutículas y el esmaltado en sí a color o francesa.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Retirar Esmaltado Semipermanente", 
+            "description": "Retira de forma profesional y sin dañar la uña tu esmaltado semipermanente para conseguir que tus uñas estén perfectas y no se debiliten. Ven a conocernos en Cosmo Nails y no te arrepentirás de la experiencia.", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Retirar Gel", 
+            "description": "SI quieres quitar el esmaltado de tus uñas de gel reserva online en Cosmo Nails y nuestros expertos estilsitas retirarán con sumo cuidado el esmaltado para que no se queden tus uñas débiles y dañadas. ¡No te arrepentirás!", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Uñas De Gel", 
+            "description": "Consigue unas uñas más largas y que luzcan perfectas durante más tiempo gracias a la utilización de gel sobre las uñas. ¿A qué estás esperando para venir a Cosmo Nails y vivir una experiencia única?", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Alargo De Gel Uñas Mordidas", 
+            "description": "Este servicio es perfecto para uñas mordidas, repara la uña gracias al gel para lucir unas manos bonitas. No te avergüences más de tus manos y presume de uñas gracias a nuestros expertos esteticistas de Cosmo Nails. Haz ya tu reserva con Bucmi.com y te encantará el resultado.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

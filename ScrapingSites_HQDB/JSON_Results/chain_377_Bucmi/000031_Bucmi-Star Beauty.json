@@ -1,0 +1,123 @@
+{
+    "name": "Bucmi-Star Beauty", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=32", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4579592000", 
+    "longitude": "-3.7026002000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/starbeauty", 
+    "office_number": "915701034", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro de estética Star Beauty situado en Tetuán - Estrecho, Madrid, ofrece una amplia variedad de tratamientos faciales y corporales para sentirte bien por dentro y por fuera. Además de servicios de uñas tales como manicuras y pedicuras.", 
+    "services": [
+        {
+            "service": "Higiene Facial", 
+            "description": "Te realizamos una limpieza facial en base a las necesidades de tu piel, para que tenga un aspecto cuidado, saludable y bonito. Durante este tratamiento te desmaquillamos, te realizamos el peeling, abrimos poros, realizamos la extracción, aplicamos mascarilla y crema hidratante.", 
+            "price": "28.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "Nuestras manos dicen mucho de nosotros. No las descuides y ven a visitarnos a Star Beauty para que te las cuidemos como se merecen. Te realizamos una manicura completa (cortar, limar, cutículas), te las hidratamos y te aplicamos esmaltado normal en el color que más te apetezca.", 
+            "price": "9.60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Te realizamos una limpieza facial en base a las necesidades de tu piel, para que tenga un aspecto cuidado, saludable y bonito. Durante este tratamiento te desmaquillamos, te realizamos el peeling, abrimos poros, realizamos la extracción, aplicamos mascarilla y crema hidratante.", 
+            "price": "28.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Presoterapia", 
+            "description": "Drenaje linfático, activa circulación sanguínea, ayuda a disminuir la celulitis, alivia el dolor y la inflamación proporcionando un confort inmediato.", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Sesión De Presoterapia", 
+            "description": "¿Pasas muchas horas sentada estudiando o trabajando? Si no tienes tiempo para hacer deporte probablemente notes tus piernas cargadas y con molestias, provocadas por la mañana circulación. En Star Beauty puedes ponerle remedio con nuestra sesión de presoterapia de media hora. Notarás tus piernas más ligeras y con menos molestias.", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "¿Aún no conoces el tinte y la permanente para pestañas? Si te da pereza lo de tener que aplicarte la máscara de pestañas a diario y utilizar el rizador, con este servicio podrás olvidarte de ello y mantener tu mirada perfecta durante semanas.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Vela Y Presoterapia", 
+            "description": "Tratamiento con vacunterapia, radiofrecuencia e infrarrojos, para remodelar y perder la celulitis. La presoterapia es para activar circulación y drenaje lunfático.", 
+            "price": "68.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "Nuestras manos dicen mucho de nosotros. No las descuides y ven a visitarnos a Star Beauty para que te las cuidemos como se merecen. Te realizamos una manicura completa (cortar, limar, cutículas), te las hidratamos y te aplicamos esmaltado normal en el color que más te apetezca.", 
+            "price": "9.60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Si eres de las que se olvida de hacerse la manicura, el esmaltado permanente puede ser tu gran aliado. Elige este servicio y ven a Star Beauty para disfrutar de tu manicura permanente. Incluye cortar y limar las uñas, tratar las cutículas y maquillado con esmalte de uñas permanente en el color que prefieras.", 
+            "price": "14.40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Tratamiento de belleza de pies, tal cual te gusta enseñarlos, muy completos con hidratación", 
+            "price": "19.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "Belleza de pies con el esmalte seco para que no se estropee ninguna uña, perfectas y con un brillo duradero más de un mes.", 
+            "price": "23.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "¿Te apetece ponerte falda o vestido, pero te da pereza depilarte? Ven a depilarte a Star Beauty. Te libramos del vello de las piernas en tan sólo 40 minutos con nuestro servicio de depilación de piernas enteras con cera caliente y/o tibia.", 
+            "price": "12.80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles", 
+            "description": "Sólo necesitas unos 20 ó 30 minutos para librarte del vello de las ingles. Con nuestro servicio de depilación con cera para esta zona te podrás olvidar de la cuchilla o la maquinilla y estar depilada durante más tiempo.", 
+            "price": "4.80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Diseño De Cejas", 
+            "description": "Diseño, depilación y asesoramiento de cejas, sea cual sea su forma y tamaño. También existen extensiones de cejas.", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

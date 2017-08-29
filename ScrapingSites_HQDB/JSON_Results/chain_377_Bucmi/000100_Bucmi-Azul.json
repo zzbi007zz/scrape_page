@@ -1,0 +1,235 @@
+{
+    "name": "Bucmi-Azul", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=2", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3827843000", 
+    "longitude": "2.1819107999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/peluqueria-azul", 
+    "office_number": "931932081", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La peluquería Azul en el Barrio Gótico de Barcelona ofrece tratamientos, coloraciones y cortes exclusivos utilizando los mejores productos de las marcas Davines, Wella y L’Oreal. Un equipo profesional y experto te atenderá para devolver vida a tu melena y conseguir un look perfecto.Se puede elegir entre una amplia gama de colores para satisfacer todas las necesidades de los clientes, así como varios tratamientos hidrantes, de arcillas y Keratina Express para rejuvenecer el pelo y aportarle luz. Los cortes siguen las últimas tendencias para lucir hermosa y actual. Un lugar muy acogedor, que está decorado con madera para una sensación de paz y tranquilidad.", 
+    "services": [
+        {
+            "service": "Corte De Pelo De Hombre", 
+            "description": "Porque a ellos también les gusta sentirse bien, ven a Peluquería Azul, ponte en manos de nuestros expertos y renueva tu imagen con nosotros. Luce un aspecto renovado y fresco con productos de Davines, con el corte de pelo que más va contigo. Además el servicio incluye lavado, peinado y productos de acabado si se desean. ¡Te encantarán los resultados! Escoge entre un corte más clásico o atrévete con las últimas tendencias. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar, Cortar Y Peinar", 
+            "description": "¿Necesitas un cambio de look? ¡Este es tu sitio ideal! Ven a conocernos, ponte en manos de nuestros profesionales y disfrtuta de un corte de pelo totalmente asesorado, sacando el mayor partido a tu imagen y logrando unos resultados inigualables. El servicio incluye lavado, corte y peinado con definición. Garantizamos increíbles resultados con productos de la marca Davines. ¡Desearás repetir! No lo pienses más y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando?", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Presume de unas manos bonitas y ciudadas. El servicio incluye; retirada de cutículas, limado de uñas, masaje y peeling de manos y esmaltado del color que más te guste. Disfruta de una manicura completa gracias a nuestros profesionales. Pide cita hoy mismo a través de Bucmi.com.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Hidratante Y Peinar", 
+            "description": "Este tratamiento es ideal para aquellas personas cuya melena luce estropeada y apagada. Es un tratamiento hidratante, reparador de tu cabello, haciendo que luzca un aspecto sano, brillante e hidratado. Contamos con productos de la marca Davines, para garantizar unos resultados óptimos, visibles y duraderos. pruébalo y ¡Notarás la diferencia! No lo pienses más y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! Una melena perfecta te está esperando.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color, Cortar, Lavar Y Peinar", 
+            "description": "Si notas tu cabello apagado y aburrido, este es tu servicio ideal. Escoge el tono que más va contigo para tu cabello y devuélvele vida. Déjate asesorar por nuestros profesionales y disfruta de un corte de pelo totalmente a la moda y sacando el mayor partido a tu imagen. Renueva tu aspecto con nosotros con productos de marcas como Wella, L'oreal y Davines. ¡Te encantarán los resultados! Por lo tanto el servicio incluye el lavado, el corte asesorado, el color a tu gusto y el peinado con definición.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color, Lavar Y Peinar", 
+            "description": "Cambia de look, con nuestros profesionales. Conseguirás un cabello luminoso y ciudado gracias a nuestros productos de la mejor calidad. El servicio incluye el lavado y el peinado que más te gusta. Dájate asesorar por nosotros y reserva hoy mismo tu cita con Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo De Hombre", 
+            "description": "Porque a ellos también les gusta sentirse bien, ven a Peluquería Azul, ponte en manos de nuestros expertos y renueva tu imagen con nosotros. Luce un aspecto renovado y fresco con productos de Davines, con el corte de pelo que más va contigo. Además el servicio incluye lavado, peinado y productos de acabado si se desean. ¡Te encantarán los resultados! Escoge entre un corte más clásico o atrévete con las últimas tendencias. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Niño O Niña Hasta 12 Años", 
+            "description": "¡Porque los más peques de la casa también quieren presumir de melena delante de sus compañeros de clase! En Peluquería Azul les haremos sentir de los más a gusto. El servicio consiste en un corte de pelo adaptado de tus gustos, siempre en manos de nuestro equipo de profesionales.Además también lo secaremos con definición. ¡No lo dudes y reserva ya su cita cómodamente online a través de Bucmi.com! Saldrán encantados con su nuevo look y estilo. ¿A qué estás esperando?", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Corto", 
+            "description": "¿No logras tú misma cuando te lavas el pelo el acabado que deseas? ¿Quieres disfrutar de un agradable lavado de cabeza y un pelo peinado perfecto? ¡Este es tu sitio! En Peluquería Azul nos gusta mimarte. Siempre con los mejores productos y marcas como Davines, conseguimos unos acabados inigualables. Ponte en nuestras manos y ¡luce un aspecto más que perfecto! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "description": "¿No logras tú misma cuando te lavas el pelo el acabado que deseas? ¿Quieres disfrutar de un agradable lavado de cabeza y un pelo peinado perfecto? ¡Este es tu sitio! En Peluquería Azul nos gusta mimarte. Siempre con los mejores productos y marcas como Davines, conseguimos unos acabados inigualables. Ponte en nuestras manos y ¡luce un aspecto más que perfecto! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar, Cortar Y Peinar", 
+            "description": "¿Necesitas un cambio de look? ¡Este es tu sitio ideal! Ven a conocernos, ponte en manos de nuestros profesionales y disfrtuta de un corte de pelo totalmente asesorado, sacando el mayor partido a tu imagen y logrando unos resultados inigualables. El servicio incluye lavado, corte y peinado con definición. Garantizamos increíbles resultados con productos de la marca Davines. ¡Desearás repetir! No lo pienses más y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando?", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar, Corte, Reflejos Y Peinar", 
+            "description": "Consigue la luminosidad que estabas buscando para tu melena. Unos reflejos de lo más natural para que tu pelo brille por si solo. Disfruta de este maravilloso pack que incluye un agradable lavado, el corte asesorado por nuestros profesionales, los reflejos o toques de color en alguna zona y el peinado con definición. Todo ello con la mejor calidad, con productos de marcas como Wella, L'oreal y Davines. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Lavar, Mechas De Plata, Corte Y Peinar", 
+            "description": "Unas mechas a la última con la que podrás conseguir el color y la luminosidad que estás buscando para melena. Disfruta de este maravilloso pack que incluye un agradable lavado, el corte asesorado por nuestros profesionales, las mechas realizadas con papel de plata y el peinado con definición. Todo ello con la mejor calidad, con productos de marcas como Wella, L'oreal y Davines. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Reflejos Uno O Dos Tonos, Cortar Y Peinar", 
+            "description": "Perfecto servicio si lo que quieres es darle ese toque de luz a tu melena que tanto necesita. Unos ligeros reflejos, en uno o dos tonos según lo que más vaya contigo y notarás tu melena ligeramente más luminosa y colorida. Además el servicio incluye un corte de pelo totalmente asesorado por nuestros profesionales, renovando tu imagen y ¡haciendo que luzcas un aspecto inigualable! Trabajamos con productos de marcas como Wella, L'oreal y Davines ¡para darte la calidad de servicio que buscabas!", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Reflejos Uno O Dos Tonos,Lavar Y Peinar", 
+            "description": "Perfecto servicio si lo que quieres es darle ese toque de luz a tu melena que tanto necesita. Unos ligeros reflejos, en uno o dos tonos según lo que más vaya contigo y notarás tu melena ligeramente más luminosa y colorida. Trabajamos con productos de marcas como Wella, L'oreal y Davines para darte una calidad de servicio inigualable. Garantizamos resultados de 10, con el que te sentirás perfecta. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando?", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Hidratante Y Peinar", 
+            "description": "Este tratamiento es ideal para aquellas personas cuya melena luce estropeada y apagada. Es un tratamiento hidratante, reparador de tu cabello, haciendo que luzca un aspecto sano, brillante e hidratado. Contamos con productos de la marca Davines, para garantizar unos resultados óptimos, visibles y duraderos. pruébalo y ¡Notarás la diferencia! No lo pienses más y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! Una melena perfecta te está esperando.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Queratina Express Y Peinado", 
+            "description": "Consigue la melena que siempre habías deseado, una melena menos dañada y mucho más nutrida. Para ello utilizamos la queratina, que tratará tus cabello seco y le dará la nutrición que estabas buscando. Además, disfrutarás de unos resultados inigualables gracias a la calidad de nuestros productos, de la marca Davines. EL servicio incluye un agradable lavado, el tratamiento de queratina y el peinado con definición. ¡No lo dudes y reseva ya tu cita cómodamente online a través de Bucmi.com!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto. Capilar De Arcilla, Lavar Y Peinar", 
+            "description": "Un tratamiento antigrasa para lucir así una melena envidiable. Consiste en utratamiento en el que se mezclan más de 50 hierbas diferencias y arcilla, para aprovechar así tods sus propiedades. Utilizamos productos 100% naturales, sin ningún elemento químico. Los resultados están garantizados. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuentenR", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto. Capilar Keratina Media Melena", 
+            "description": "Un profundo tratamiento de keratina que conseguirás la hidratación que estás buscando para tu melena. Utilizamos productos naturales, sin ningún componente químico. Garantizamos resultados verdaderamente efectivos. Una melena mucho más nutrida y sana, siempre en manos de nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para media melena.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tto. Capilar Keratina Pelo Corto", 
+            "description": "Un profundo tratamiento de keratina que conseguirás la hidratación que estás buscando para tu melena. Utilizamos productos naturales, sin ningún componente químico. Garantizamos resultados verdaderamente efectivos. Una melena mucho más nutrida y sana, siempre en manos de nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo corto. R", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tto. Capilar Keratina Pelo Largo", 
+            "description": "Un profundo tratamiento de keratina que conseguirás la hidratación que estás buscando para tu melena. Utilizamos productos naturales, sin ningún componente químico. Garantizamos resultados verdaderamente efectivos. Una melena mucho más nutrida y sana, siempre en manos de nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo largo.", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Presume de unas manos bonitas y ciudadas. El servicio incluye; retirada de cutículas, limado de uñas, masaje y peeling de manos y esmaltado del color que más te guste. Disfruta de una manicura completa gracias a nuestros profesionales. Pide cita hoy mismo a través de Bucmi.com.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Luce unos pies bonitos y ciudados en cualquier momento y fecha gracias a nuestros profesiones. El servicio incluye; limado de uñas, retirada de cutículas y esmaltado, además de un maravilloso masaje de piernas. Reserva hoy mismo tu manicura completa con Bucmi.com.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento De Parafina Y Masaje", 
+            "description": "¡Hidrata en profundidad tus manos! Tratamiento de hidratación manos con parafina ayuda a mejorar los dolores de las articulaciones y conseguirás unas manos mucho más suaves y fantástico masaje. Puedes hacer tu reserva en cualquier momento con Bucmi.com.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cejas Y Labio Superior", 
+            "description": "Gracias a nuestros expertos lucirás un mirada fantástica y una piel más suave. Los acceites esenciales evitarán rojeces, y escozores, de está forma tendrás la zona a tratar más refrescada. Nuestros expertos siempre tratan tu piel de la forma más delicada y profesional. Reserva ya mismo tu cita con Bucmi.com.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Cejas", 
+            "description": "Resalta tu mirada con nuestra depilación de cejas y asesoramiento. Nuestros profesionales te realizarán una depilación de cejas con cera acorde con la forma del rostro para sacar el máximo partido a la mirada. Por lo tanto no lo dudes más y reserva en nuestro centro con Bucmi.com", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Labio Superior", 
+            "description": "Conseguir una piel suave y sedosa gracias a nuestros esteticistas es muy fácil. Este servicio específico para la depilación de la zona facial del labio superior se realiza con la mayor delicadeza y eficacia. El resultado es una piel suave y libre de vello en la zona a tratar. Reserva tu cita con Bucmi.com.", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tto. Capilar Keratina Media Melena", 
+            "description": "Un profundo tratamiento de keratina que conseguirás la hidratación que estás buscando para tu melena. Utilizamos productos naturales, sin ningún componente químico. Garantizamos resultados verdaderamente efectivos. Una melena mucho más nutrida y sana, siempre en manos de nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para media melena.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tto. Capilar Keratina Pelo Corto", 
+            "description": "Un profundo tratamiento de keratina que conseguirás la hidratación que estás buscando para tu melena. Utilizamos productos naturales, sin ningún componente químico. Garantizamos resultados verdaderamente efectivos. Una melena mucho más nutrida y sana, siempre en manos de nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo corto. R", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tto. Capilar Keratina Pelo Largo", 
+            "description": "Un profundo tratamiento de keratina que conseguirás la hidratación que estás buscando para tu melena. Utilizamos productos naturales, sin ningún componente químico. Garantizamos resultados verdaderamente efectivos. Una melena mucho más nutrida y sana, siempre en manos de nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo largo.", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }
+    ]
+}

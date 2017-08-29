@@ -1,0 +1,172 @@
+{
+    "name": "Bucmi-Estética Aplicada", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=50", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3899662000", 
+    "longitude": "-3.6632455999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/esteticaaplicada", 
+    "office_number": "914770142", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El Centro de Estética Aplicada, situado en Vallecas, ofrece tratamientos tales como limpiezas faciales, maquillajes, láser, masajes, manicuras y pedicura. Ven y siéntete bien tanto por dentro como por fuera.", 
+    "services": [
+        {
+            "service": "Limpieza Facial E Hidratación", 
+            "description": "Tratamiento personalizado en función al tipo de piel, para corregir los poros y eliminar las células muertas y puntos negros, combate esa sensación de piel seca con una hidratación para conseguir una piel suave, hidratada y luminosa. Aplicación de Indiba.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Empezamos limando las uñas (a elegir), se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Maquillaje Novia", 
+            "description": "Toda novia quiere lucir hermosa y radiante en su día y es por eso que el maquillaje para novias es importantísimo y debe ser perfecto.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensión De Pestañas", 
+            "description": "La Extensión de Pestañas es la última técnica para lograr unas pestañas largas, curvadas y flexibles, mediante la colocación de pestañas sintéticas semipermanentes adheridas a la pestaña natural. Evita el efecto tosco de las pestañas postizas y sus resultados tienen una gran durabilidad.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial Básica", 
+            "description": "La higiene facial es un hábito imprescindible para el cuidado de nuestra piel no solo desde el punto de vista estético, sino porque ayuda a limpiar e hidratar nuestro rostro para que tenga una apariencia más saludable. La piel de la cara está expuesta constantemente a los cambios de clima, el sol o la polución requiriendo de la debida atención para que se mantenga siempre radiante.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Limpieza Facial E Hidratación", 
+            "description": "Tratamiento personalizado en función al tipo de piel, para corregir los poros y eliminar las células muertas y puntos negros, combate esa sensación de piel seca con una hidratación para conseguir una piel suave, hidratada y luminosa. Aplicación de Indiba.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Maquillaje De Fiesta", 
+            "description": "El maquillaje de noche se caracteriza por ser más cargado que el de día, sin embargo buscamos que aunque sea muy cargado luzca natural y elegante.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje Novia", 
+            "description": "Toda novia quiere lucir hermosa y radiante en su día y es por eso que el maquillaje para novias es importantísimo y debe ser perfecto.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje Social", 
+            "description": "El maquillaje social es todo maquillaje utilizado para lucir cara a cara, de ir por la calle, como por ejemplo el maquillaje de día.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Reafirmante", 
+            "description": "El masaje reafirmante está indicado para conseguir un efecto de reafirmación del tejido. Oxigena y nutre a través del riego sanguíneo los tejidos afectados.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Reductor", 
+            "description": "El masaje reductor se utiliza como método para combatir y eliminar la acumulación de grasa de una zona localizada del cuerpo, como glúteos o abdomen.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Reductor Anticelutico", 
+            "description": "El masaje anticelulítico rompe la grasa, moviliza líquidos acumulados y facilita la penetración de las cremas anticelulíticas.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peeling Corporal", 
+            "description": "tratamiento indicado para la eliminación de las células muertas de la piel o descamación superficial, aportando frescura y limpieza a la piel.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Permanente+Tinte De Pestañas", 
+            "description": "Servicio que permite otorgar ondulación a las pestañas y color para una mirada con mayor expresividad.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte De Pestañas Y Cejas", 
+            "description": "Consigue que el color del tinte de pestañas y cejas sea mucho más brillante además de reparar e hidrata el pelo de los daños causados por agentes externos.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Litho Essentials", 
+            "description": "aporta beneficios cosméticos al cuerpo, a la vez que paz y tranquilidad a la mente. La litocosmética aporta al corazón de las células de la piel todas las virtudes de estos elixires minerales", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad: Vitamina C", 
+            "description": "Tratamiento multi-corrector anti-edad: firmeza y densidad, uniformidad y luminosidad inmediata, elasticidad, hidratación y frescura. Consigue un rostro más joven y gánale la batalla a los años y consigue una piel libre de imperfecciones gracias a nuestros expertos esteticistas.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Reafirmante Facial", 
+            "description": "Su exclusivo método de aplicación profesional intensifica la acción lifting. Un original masaje cuidadosamente diseñado para “esculpir” rostro y cuello con maniobras muy precisas que trabajan el óvalo facial desde todos los ángulos. En él confluyen la influencia de técnicas milenarias orientales, como el sistema de meridianos, y más vanguardistas, inspiradas en intervenciones de medicina estética.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Reductor De Brazos", 
+            "description": "La flacidez en los brazos es algo bastante común, esta puede suceder por sedentarismo, descenso de mucho peso o bien falta de elasticidad en la piel. Pero afortunadamente existe una solución para cada caso.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente Shellac", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. El servicio incluye limado, retirada de cutículas, masaje y esmaltado dentro de una amplia variedad de colores.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Empezamos limando las uñas (a elegir), se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

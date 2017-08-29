@@ -1,0 +1,256 @@
+{
+    "name": "Bucmi-KlynInk", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=39", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3916871000", 
+    "longitude": "2.1732554999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/klynink", 
+    "office_number": "934126413", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "KlynInk es tu centro especializado en tratamiento láser, eliminación de tatuaje y de micropigmentación, depilación con láser Diodo. Más de 5.000 tratamientos al año nos avalan como uno de los mejores centros de Barcelona por calidad, garantía y seguridad. Nº Registro Sanitario: BCN-TPM-0156.", 
+    "services": [
+        {
+            "service": "Peeling Facial Y Cuello *Hollywood Peel*", 
+            "description": "El tratamiento se ha denominado 'Hollywood Peeling' porque hay varios aficionados de este tratamiento - incluyendo Angelina Jolie y Kim Kardashian - y se ha convertido en uno de los tratamientos faciales más populares de Los Ángeles. Consiste en la exfoliciación de una fina mascara de carbón mediante Láser. Las partículas penetran en los poros y explotan a medida que absorben energía láser, estimulando así la producción de colágeno y haciendo que las paredes internas de los poros reduzcan el tamaño.", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Eliminación Tatuajes Hasta 15 Cm2", 
+            "description": "Elimina ese tatuaje que te ha dejado de gustar gracias a esta sesión de eliminación de tatuaje por láser para un tamaño de 0 a 15 cm2.", 
+            "price": "105.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Microblading Cejas Pelo A Pelo 3D", 
+            "description": "Nueva técnica, de Microblading en cejas pelo a pelo, para conseguir repoblar, de manera super natural, tus cejas y devolver a tu rostro esa expresividad que había perdido. Este servicio incluye un estudio previo del diseño de cejas, microblading y retoque a los 30 días. Reserva ya tu tratamiento de microblading y ponte en las manos de los mejores profesionales para recuperar la expresión de tu rostro.", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación De Cejas", 
+            "description": "Nueva técnica, de micro-pigmentación en cejas pelo a pelo, para conseguir repoblar, de manera super natural, tus cejas y devolver a tu rostro esa expresividad que había perdido. Este servicio incluye un estudio previo del diseño de cejas, micropigmentación y retoque a los 30 días. No lo pienses más y reserva ya tu tratamiento de micropigmentación y ponte en las manos de los mejores profesionales para recuperar la expresión de tu rostro.", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación De Labios", 
+            "description": "Técnica Micropigmentación en Labios. Este servicio incluye un estudio previo, micropigmentación de Labios completos, perfil y mucosa, retoque a los 30 días. No lo pienses más y reserva ya tu tratamiento de micropigmentación y ponte en las manos de los mejores profesionales para recuperar la expresión de tu rostro.", 
+            "price": "105.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentacion Ojos (Eyeliner)", 
+            "description": "Técnica, de micropigmentación en Eyeliner. Este servicio incluye un estudio previo del diseño de Eyeliner, micropigmentación y retoque a los 30 días. No lo pienses más y reserva ya tu tratamiento de micropigmentación y ponte en las manos de los mejores profesionales para recuperar la expresión de tu rostro. Nº Registro Sanitario: BCN-TPM-0156", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Peeling Facial *Hollywood Peel*", 
+            "description": "El tratamiento se ha denominado 'Hollywood Peeling' porque hay varios aficionados de este tratamiento - incluyendo Angelina Jolie y Kim Kardashian - y se ha convertido en uno de los tratamientos faciales más populares de Los Ángeles. Consiste en la exfoliciación de una fina mascara de carbón mediante Láser. Las partículas penetran en los poros y explotan a medida que absorben energía láser, estimulando así la producción de colágeno y haciendo que las paredes internas de los poros reduzcan el tamaño.", 
+            "price": "90.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peeling Facial Y Cuello *Hollywood Peel*", 
+            "description": "El tratamiento se ha denominado 'Hollywood Peeling' porque hay varios aficionados de este tratamiento - incluyendo Angelina Jolie y Kim Kardashian - y se ha convertido en uno de los tratamientos faciales más populares de Los Ángeles. Consiste en la exfoliciación de una fina mascara de carbón mediante Láser. Las partículas penetran en los poros y explotan a medida que absorben energía láser, estimulando así la producción de colágeno y haciendo que las paredes internas de los poros reduzcan el tamaño.", 
+            "price": "99.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Eliminación Micropigmentación Labios O Cejas", 
+            "description": "Elimina el perfilado de labios y cejas gracias a esta sesión que borra los efectos de la micropigmentación.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Eliminación Tatuajes Hasta 15 Cm2", 
+            "description": "Elimina ese tatuaje que te ha dejado de gustar gracias a esta sesión de eliminación de tatuaje por láser para un tamaño de 0 a 15 cm2.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Microblading Cejas Pelo A Pelo 3D", 
+            "description": "Nueva técnica, de Microblading en cejas pelo a pelo, para conseguir repoblar, de manera super natural, tus cejas y devolver a tu rostro esa expresividad que había perdido. Este servicio incluye un estudio previo del diseño de cejas, microblading y retoque a los 30 días. Reserva ya tu tratamiento de microblading y ponte en las manos de los mejores profesionales para recuperar la expresión de tu rostro.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación De Cejas", 
+            "description": "Nueva técnica, de micro-pigmentación en cejas pelo a pelo, para conseguir repoblar, de manera super natural, tus cejas y devolver a tu rostro esa expresividad que había perdido. Este servicio incluye un estudio previo del diseño de cejas, micropigmentación y retoque a los 30 días. No lo pienses más y reserva ya tu tratamiento de micropigmentación y ponte en las manos de los mejores profesionales para recuperar la expresión de tu rostro.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación De Labios", 
+            "description": "Técnica Micropigmentación en Labios. Este servicio incluye un estudio previo, micropigmentación de Labios completos, perfil y mucosa, retoque a los 30 días. No lo pienses más y reserva ya tu tratamiento de micropigmentación y ponte en las manos de los mejores profesionales para recuperar la expresión de tu rostro.", 
+            "price": "450 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentacion Ojos (Eyeliner)", 
+            "description": "Técnica, de micropigmentación en Eyeliner. Este servicio incluye un estudio previo del diseño de Eyeliner, micropigmentación y retoque a los 30 días. No lo pienses más y reserva ya tu tratamiento de micropigmentación y ponte en las manos de los mejores profesionales para recuperar la expresión de tu rostro. Nº Registro Sanitario: BCN-TPM-0156", 
+            "price": "450 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Eliminación Tatuajes Hasta 150 Cm2", 
+            "description": "Elimina ese tatuaje que te ha dejado de gustar gracias a esta sesión de eliminación de tatuaje por láser para un tamaño de 15 a 150 cm2.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Eliminación Tatuajes Hasta 300 Cm2", 
+            "description": "Elimina ese tatuaje que te ha dejado de gustar gracias a esta sesión de eliminación de tatuaje por láser para un tamaño de 150 a 300 cm2. Para tatuajes de mayor tamaño consulte suplemento con el profesional.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Láser Medias Piernas Y Ingles Completas", 
+            "description": "Depilación láser de Diodo de medias Piernas y Ingles completas. El precio es para una sesión y para la zona elegida. Debes venir rasurado/a al centro.", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peeling Facial *Hollywood Peel*", 
+            "description": "El tratamiento se ha denominado 'Hollywood Peeling' porque hay varios aficionados de este tratamiento - incluyendo Angelina Jolie y Kim Kardashian - y se ha convertido en uno de los tratamientos faciales más populares de Los Ángeles. Consiste en la exfoliciación de una fina mascara de carbón mediante Láser. Las partículas penetran en los poros y explotan a medida que absorben energía láser, estimulando así la producción de colágeno y haciendo que las paredes internas de los poros reduzcan el tamaño.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peeling Facial Y Cuello *Hollywood Peel*", 
+            "description": "El tratamiento se ha denominado 'Hollywood Peeling' porque hay varios aficionados de este tratamiento - incluyendo Angelina Jolie y Kim Kardashian - y se ha convertido en uno de los tratamientos faciales más populares de Los Ángeles. Consiste en la exfoliciación de una fina mascara de carbón mediante Láser. Las partículas penetran en los poros y explotan a medida que absorben energía láser, estimulando así la producción de colágeno y haciendo que las paredes internas de los poros reduzcan el tamaño.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Piernas Completas", 
+            "description": "Depilación láser de Diodo, de Piernas completas. EL precio es para una sesión y para la zona elegida. Debes venir rasurado/a al centro.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Láser Medias Piernas,Axilas,Ingle,Pubis", 
+            "description": "Depilación láser de medias piernas, axilas, ingles, pubis y pies. Elimina la zona el vello en dichas zonas de forma muy eficaz. Debes venir rasurado/a al centro.", 
+            "price": "450 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Axilas", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado al centro.", 
+            "price": "450 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Brazo Completo", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado al centro.", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Dorsales", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado al centro.", 
+            "price": "89 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Facial", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado/a al centro.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Hombros", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado al centro.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Ingles Completas", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado/a al centro.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Lumbar", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado al centro.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Pecho", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado al centro.", 
+            "price": "130 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Perianal", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado/a al centro.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Lumbares, Dorsales Y Hombros", 
+            "description": "Aprovecha con este pack de calidad precio una depilación láser de diodo en la zona de los lumbares, dorsales y hombros. Debes venir rasurado al centro.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Abdomen", 
+            "description": "Elimina ese vello tan molesto, gracias a esta sesión de depilación con láser de diodo, totalmente indoloro. EL precio es para una sesión y para la zona a elegida. Debes venir rasurado al centro", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Pack Cobano", 
+            "description": "Depilación láser diodo para conseguir la eliminación completa del vello. Descubre los beneficios de la depilación con láser de diodo en las zonas de Pecho, Abdomen, Hombros, Dorsal y Lumbar. Recuerda que debes venir rasurado a tu tratamiento láser.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }
+    ]
+}

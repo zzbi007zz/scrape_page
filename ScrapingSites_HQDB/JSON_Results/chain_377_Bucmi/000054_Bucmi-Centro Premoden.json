@@ -1,0 +1,151 @@
+{
+    "name": "Bucmi-Centro Premoden", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=55", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4370133000", 
+    "longitude": "-3.6793834999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/premoden", 
+    "office_number": "914507118", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Odontología y Fisioterapia Avanzada, situada en el B. de Salamanca, está especializada en mejorar y favorecer el bienestar y la salud de nuestros clientes. Para los tratamientos dentales contamos con equipos avanzados que permiten un servicio ágil.", 
+    "services": [
+        {
+            "service": "Sesión De Fisioterapia Y Tratamiento De Osteopatía", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? En Premoden te ofrecemos este pack de Fisioterapia y Osteopatía que elimina la dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? No lo dudes y reserva ya tu cita online a través de Bucmi.com", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Con Ultrasonido, Revisión Y Pulido Dental", 
+            "description": "Sanea tus dientes y encías con esta limpieza dental con ultrasonido y pulido de la superficie del diente, además incluye revisión gratuita. Para lucir una sonrisa de cine. Ven a tu Clínica Dental Premoden y ponte en manos de nuestros mejores profesionales. Luce una sonrisa cuidada, bonita, luminosa y envidiable. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! (*Promoción válida sólo para la primera cita.)", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Sesión De Fisioterapia", 
+            "description": "Terapia manual que elimina la dolencia de la zona localizada del paciente gracias al tratamiento de contracturas. Saldrás como nuevo. Ven a tu Clínica de Fisioterapia Premoden y ponte en manos de nuestros mejore profesionales titulados. Recibirás un trato personalizado según las patologías de cada paciente. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará el resultado! ¡Y lo notarás!", 
+            "price": "19.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Dental: Implante Unitario Con Pilar Y Corona Fija", 
+            "description": "Los tratamientos con implantes dentales se componen de dos partes: uno, el propio implante que es lo que equivaldría a la raíz del diente y se coloca en el hueso, y otra encima o superior en la que se coloca la corona o prótesis dental (parte exterior equivalente a la corona química del diente natural). El período de cicatrización ósea se situa de 3 a 6 meses dependiendo del paciente. Durante este período el paciente puede realizar una vida normal con ciertas precauciones alimenticias.", 
+            "price": "1.199.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión Blanqueamiento Dental Led Y Limpieza", 
+            "description": "Luce una sonrisa perfectamente blanca gracias a esta sesión de blanqueamiento led que incluye todas las arcadas de la boca, y disfruta de una higiene bucal completa al alcance de tu mano. Presume de boca bonita y cuidada y ¡mantenla limpia y saludable con nosotros! Las piezas dentarias pueden tener distintas tonalidades y a través de esta técnica estética se logra aclarar varios tonos el color de los dientes. Rerserva ya tu cita online en Bucmi.com.", 
+            "price": "89.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "2 Sesiones Blanqueamiento Dental Led Y Limpieza", 
+            "description": "Luce una sonrisa perfectamente blanca gracias a estas dos sesiones de blanqueamiento led que incluye todas las arcadas de la boca, y disfruta de una higiene bucal completa al alcance de tu mano. Presume de boca bonita y cuidada y ¡mantenla limpia y saludable con nosotros! Las piezas dentarias pueden tener distintas tonalidades y a través de esta técnica estética se logra aclarar varios tonos el color de los dientes. Rerserva ya tu cita online en Bucmi.com.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Técnica manual que consiste en devolver el líquido extravasado y que se queda retenido en diferentes regiones corporales. De esta forma, conseguiremos eliminar la flacidez del cuerpo, llegando a una figura mucho más tonificada. Déjate asesorar por nuestro equipo de profesionales, que te cuidarán y mimarán para que salgas encantad@. ¿A qué estás esperando para reservar? ¡No te arrepentirás!", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Con Ultrasonido, Revisión Y Pulido Dental", 
+            "description": "Sanea tus dientes y encías con esta limpieza dental con ultrasonido y pulido de la superficie del diente, además incluye revisión gratuita. Para lucir una sonrisa de cine. Ven a tu Clínica Dental Premoden y ponte en manos de nuestros mejores profesionales. Luce una sonrisa cuidada, bonita, luminosa y envidiable. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! (*Promoción válida sólo para la primera cita.)", 
+            "price": "175.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Blanqueamiento Dental En Casa", 
+            "description": "Blanqueamiento se se realiza por medio férulas que se realizan sobre los modelos de yeso y se rellenan directamente con el gel blanqueante. Dichos modelos se confeccionan a partir de las impresiones con alginato de los maxilares del paciente. Las férulas confeccionadas están provistas de pequeños vestíbulos que actúan como reserva para la cantidad adecuada de gel e impiden que el producto blanqueante entre en contacto con los tejidos gingivales, lo cual provocaría abrasiones bastante dolorosas.", 
+            "price": "220.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Férula De Descarga Michigan", 
+            "description": "La férula de descarga Michigan es un protector de plástico que se suele colocar en los dientes de la arcada superior, de manera que proteje a las piezas dentales de estar en permanente contacto con las de la arcada antagonista y, con ello, evita las consecuencias del desgaste dental ocasionado por el bruxismo. La férula Michigan ayuda a la relajación de la articulación mandibular.", 
+            "price": "1.199.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Dental: Implante Unitario Con Pilar Y Corona Fija", 
+            "description": "Los tratamientos con implantes dentales se componen de dos partes: uno, el propio implante que es lo que equivaldría a la raíz del diente y se coloca en el hueso, y otra encima o superior en la que se coloca la corona o prótesis dental (parte exterior equivalente a la corona química del diente natural). El período de cicatrización ósea se situa de 3 a 6 meses dependiendo del paciente. Durante este período el paciente puede realizar una vida normal con ciertas precauciones alimenticias.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión Blanqueamiento Dental Led Y Limpieza", 
+            "description": "Luce una sonrisa perfectamente blanca gracias a esta sesión de blanqueamiento led que incluye todas las arcadas de la boca, y disfruta de una higiene bucal completa al alcance de tu mano. Presume de boca bonita y cuidada y ¡mantenla limpia y saludable con nosotros! Las piezas dentarias pueden tener distintas tonalidades y a través de esta técnica estética se logra aclarar varios tonos el color de los dientes. Rerserva ya tu cita online en Bucmi.com.", 
+            "price": "19.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión De Fisioterapia Y Tratamiento De Osteopatía", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? En Premoden te ofrecemos este pack de Fisioterapia y Osteopatía que elimina la dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? No lo dudes y reserva ya tu cita online a través de Bucmi.com", 
+            "price": "159.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión De Fisioterapia", 
+            "description": "Terapia manual que elimina la dolencia de la zona localizada del paciente gracias al tratamiento de contracturas. Saldrás como nuevo. Ven a tu Clínica de Fisioterapia Premoden y ponte en manos de nuestros mejore profesionales titulados. Recibirás un trato personalizado según las patologías de cada paciente. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará el resultado! ¡Y lo notarás!", 
+            "price": "95.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "10 Sesiones Fisioterapia", 
+            "description": "Terapia manual que elimina la dolencia de la zona localizada del paciente gracias al tratamiento de contracturas. Aprovecha este bono de 10 sesiones. Ven a tu Clínica de Fisioterapia Premoden y ponte en manos de nuestros mejore profesionales titulados. Recibirás un trato personalizado según las patologías de cada paciente. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará el resultado! ¡Y lo notarás!", 
+            "price": "599.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "5 Sesiones Fisioterapia", 
+            "description": "Terapia manual que elimina la dolencia de la zona localizada del paciente gracias al tratamiento de contracturas. Aprovecha este bono de 5 sesiones. Ven a tu Clínica de Fisioterapia Premoden y ponte en manos de nuestros mejore profesionales titulados. Recibirás un trato personalizado según las patologías de cada paciente. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará el resultado! ¡Y lo notarás!", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Prótesis Removible Superior O Inferior", 
+            "description": "La prótesis removible superior o inferior consiste en un reemplazo artificial extraíble de los dientes naturales de la mandíbula superior o inferior, puede ser total si faltan todos los dientes o parcial, en el caso que sólo sea necesario reemplazar unas piezas determinadas. ¡No lo dudes y reserva cómodamente tu cita online en Bucmi.com!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Extracción Quirúrgica De Corval O Muela Del Juicio", 
+            "description": "La extracción de las muelas del juicio se hace necesaria cuando éstas no han erupcionado o lo han hecho sólo parcialmente, lo cual puede ocasionar diferentes problemas: dolor, infección e inflamación de las encías, desplazamiento de las piezas dentales adyacentes, etc. También puede requerirse la extracción cuando han salido pero alteran la mordida de forma significativa. En todo caso será el odontólogo quien determinará la conveniencia o no de proceder a su extracción.", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

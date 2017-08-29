@@ -1,0 +1,312 @@
+{
+    "name": "Bucmi-Casla", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=37", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4663210000", 
+    "longitude": "-3.6978771000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/casla", 
+    "office_number": "913147136", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Establecimiento de peluquería y estética con un gran abanico de variados y modernos servicios desde manicura y pedicura hasta masajes y terapias naturales. Un centro donde encontrarás todo lo que necesite para el bienestar de su belleza.", 
+    "services": [
+        {
+            "service": "Pack Depilación Cera Completa", 
+            "description": "Depilación piernas enteras, ingles y axilas. Tu piel estará suave y sedosa por un par de semanas gracias a nuestros expertos esteticistas de Casla. ¡Y olvídate de la depilación por un par de semanas! Aprovecha ahora este pack y luce un cuerpo libre de vello durante mucho más tiempo. Despreocúpate de depilarte tan amenudo. Reserva tu cita cómodamente online a través de Bucmi.com", 
+            "price": "27.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Extensión De Pestañas Y Manicura Permanente", 
+            "description": "Aprovecha ya este pack que incluye la extensión de pestañas pelo a pelo y, de regalo, una manicura permanente. Podrás lucir una mirada de infarto, con unas pestañas con volumen y mucha más longitud. Además, la manicura permanente incluye el limado de la uña, la retirada de cutículas y el esmaltado del color a elegir entre nuestra variedad de tonos. ¿A qué estás esperando? Aprovecha esta oferta.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "10 Sesiones Tto.Reductor De Algas Con Presoterapia", 
+            "description": "¿Quieres disfrutar de un cuerpo perfecto y decir adiós a la grasa localizada y la celulitis? Ven a tu centro de Peluquería y Estética Casla y ponte en manos de nuestros mejores profesionales. Mediante este tratamiento con algas marinas activarás la circulación y mejorarás la circulación del sistema linfático. Además conseguirás eliminar las toxinas de tu cuerpo. Realza tu figura gracias a este tratamiento. Reserva tu cita ahora a través de Bucmi.com.", 
+            "price": "27.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "1 Sesión Tratamiento Facial Para Pieles Grasas", 
+            "description": "¿Tienes la piel grasa y has probado cientos de productos diferentes y no han funcionado? Ven a tu centro de Peluquería y Estética Casla y ponte en manos de nuestros mejores estilistas profesionales, conseguirán que digas adiós a la piel grasa de una vez por todas. Luce una piel suave, hidratada, luminosa y bonita. Reserva ahora tu cita online a través de Bucmi.com. ¡Te encantará el resultado!", 
+            "price": "34 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "1 Sesión Tto. Reductor De Algas Con Presoterapia", 
+            "description": "¿Quieres disfrutar de un cuerpo perfecto y decir adiós a la grasa localizada y la celulitis? Ven a tu centro de Peluquería y Estética Casla y ponte en manos de nuestros mejores profesionales. Mediante este tratamiento con algas marinas activarás la circulación y mejorarás la circulación del sistema linfático. Además conseguirás eliminar las toxinas de tu cuerpo. Realza tu figura gracias a este tratamiento. Reserva tu cita ahora a través de Bucmi.com.", 
+            "price": "83 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "1Ss Tto. Facial Antienvejecimiento Adn Cronologie", 
+            "description": "Una sesión. Luce un rostro más joven y libre de cualquier arruga con este tratamiento antienvejecimiento ADN Cronologie. Ponte en manos de nuestro equipo de profesionales que trabajarán para conseguir el mejor resultado. ¿A qué estás esperando para reservar? En Casla cuidamos de tí.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "4 Sesiones Tratamiento Facial Para Pieles Grasas", 
+            "description": "¿Tienes la piel grasa y has probado cientos de productos diferentes y no han funcionado? Ven a tu centro de Peluquería y Estética Casla y ponte en manos de nuestros mejores estilistas profesionales, conseguirán que digas adiós a la piel grasa de una vez por todas. Luce una piel suave, hidratada, luminosa y bonita. Reserva ahora tu cita online a través de Bucmi.com. ¡Te encantará el resultado!", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "4Ss Tto. Facial Antienvejecimiento Adn Cronologie", 
+            "description": "Una sesión. Luce un rostro más joven y libre de cualquier arruga con este tratamiento antienvejecimiento ADN Cronologie. Ponte en manos de nuestro equipo de profesionales que trabajarán para conseguir el mejor resultado. De regalo, una crema ADN valorada en 75 euros. ¿A qué estás esperando para reservar? En Casla cuidamos de tí.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "7 Ss Cavitación Y 5 Ss Radiofrecuencia Facial", 
+            "description": "Disfruta de esta oferta que incluye 7 sesiones de cavitación y, de regalo, 5 ss de radiofrecuencia facial. ¿Quieres lucir un cuerpo tonificado y además, un cutis libre de impurezas? Ven a tu centro de Peluquería y Estética Casla y ponte en manos de los mejores profesionales. Conseguirás reducir la silueta, tonificar y liberarte de la grasa localizada y celulitis. ¡Aprovecha ya esta oferta y reserva ya este servicio cómodamente online!", 
+            "price": "49.9 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "7 Ss Cavitación, Radiofrecuencia Y Presoterapia", 
+            "description": "Bono de 7 sesiones: Cavitación, Radiofrecuencia corporal y Presoterapia. Presume de una figura estupenda gracias a este completo pack de 7 sesiones de triple tratamiento. ¿Quieres lucir un cuerpo tonificado y libre de grasa localizada? Ven a tu centro de Peluquería y Estética Casla y ponte en manos de los mejores profesionales. Conseguirás reducir la silueta, tonificar y liberarte de la grasa localizada y celulitis. Además conseguirás una mejora de la circulación de la sangre y del sistema linfático.", 
+            "price": "99.9 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cavitación,Radiofrecuencia Corporal Y Presoterapia", 
+            "description": "¡Aprovecha este pack para cuidarse el triple! Disfruta de una figura estupenda gracias a nuestro completo pack reductor corporal que incluye sesión de cavitación, sesión de radiofrecuencia corporal y sesión de Presoterapia. ¿Quieres lucir un cuerpo tonificado y libre de grasa localizada? Ven a tu centro de Peluquería y Estética Casla y ponte en manos de los mejores profesionales. Conseguirás reducir la silueta, tonificar y liberarte de la grasa localizada y celulitis. Reserva ahora a través de Bucmi.com.", 
+            "price": "255 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Diseño De Cejas, Manicura Semi Y Radiofrecuencia", 
+            "description": "¿A que estás esperando para parecer toda una estrella de Hollywood? Ven ahora a tu centro de Peluquería y Estética Casla y ponte en manos de nuestros mejores profesionales. Aprovecha ahora este pack de diseño de cejas más manicura semipermanente más radiofrecuencia facial. Luce una mirada de cine con tus cejas bien perfiladas. Disfruta de unas manos cuidadas y bonitas y esmaltadas del color que más te guste. Y aprovecha las ventajas de la radiofrecuencia facial que lucirás una piel radiante y luminosa.", 
+            "price": "534 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Efecto Seda", 
+            "description": "Incluye regalo de diseño de cejas. Conseguirás una mirada de cine,al más puro estilo de las estrellas de Hollywood gracias a nuestras extensiones de pelo. Las colocamos pelo a pelo sobre tus pestañas para conseguir un efecto perfecto. Luce una mirada de película gracias a tus nuevas pestañas. Realza tu mirada y disfruta de todas las ventajas de este tratamiento. Ven a tu centro de peluquería y estética Casla y ponte en las manos de nuestros mejores esteticistas profesionales. Reserva tu cita en Bucmi.com.", 
+            "price": "600 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Mix Pelo A Pelo", 
+            "description": "¿Quieres lucir una mirada de película? Ven a tu centro de Peluquería Y Estética Casla y ponte en manos de nuestros mejores profesionales esteticistas. Luce una mirada de cine gracias a tus nuevas extensiones. Realza tu mirada. Te encantará. Además este tratamiento son extensiones de pestañas volumen ruso. Y te regalamos un diseño de cejas. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "description": "¿Quieres lucir una mirada de película? Ven a tu centro de Peluquería Y Estética Casla y ponte en manos de nuestros mejores profesionales esteticistas. Luce una mirada de cine gracias a tus nuevas extensiones. Realza tu mirada. Te encantará. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "58 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Volumen", 
+            "description": "Extensiones de pestañas efecto seda con regalo de un diseño de cejas. Ilumina tu mirada con nuestras extensiones de pestañas efecto extra volumen de Peluquería Casla. No te arrepentirás del resultado. ¿Quieres lucir una mirada de película? Gracias a estas extensiones realzarás tu mirada y parecerás toda una estrella de cine. Disfruta de todas las ventajas de este tratamiento ahora reservando tu cita online a través de Bucmi.com.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Disfruta de una piel nutrida e hidratada, libre de impurezas y suciedad, gracias a nuestra completa higiene facial que incluye el desmaquillado de la piel, exfoliación, extracción de impurezas y mascarilla final. Luce una piel mucho más cuidada, suave e hidratada. Ven a tu centro de peluquería y estética Casla y ponte en las mejores manos de nuestros esteticistas profesionales. Di adiós de una vez por todas a las imperfecciones y el acné. Reserva tu cita online a través de Bucmi.com.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial, Manicura Permanente, Tto. Uñas...", 
+            "description": "Un auténtico pack dedicado a tu belleza. Reserva ya este pack que incluye la higiene facial con un tratamiento también dedicado a tu rostro, la manicura permanente y un tratamiento regenerador de uñas. ¡No lo dudes, ponte a punto y disfruta de este pack! ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Pack 10 Sesiones De Plataforma Y Presoterapia", 
+            "description": "Pack de diez sesiones de plataforma vibratoria y presoterapia activa la circulación y previene la celulitis y la acumulación de líquidos. ¡No pierdas la oportunidad! Empieza a lucir ya un cuerpo tonificado y realza tu figura gracias a este tratamiento. Di adiós a la celulitis y la grasa localizada. Además mejora la circulación de la sangre y del sistema linfático. ¡Cuídate! Reserva ya tu cita online a través de Bucmi.com.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack Radiofrecuencia Facial De 5 Sesiones", 
+            "description": "Bono de 5 sesiones de Radiofrecuencia Facial. Luce un rostro más joven y consigue eliminar las imperfecciones en tu piel gracias a nuestro completo servicio de radiofrecuencia facial. Disfruta gracias a este tratamiento de una piel luminosa y radiante. Además conseguirás una piel mucho más suave y cuidada. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peeling Corporal Con Masaje Relajante", 
+            "description": "Regenera tu piel después del Sol. Peeling corporal y masaje relajante con crema regeneradora. Una piel suave y nutrida gracias a tu centro de Peluquería y Estética Casla. Cuida siempre tu piel y disfruta de las ventajas de este tratamiento. Notarás la piel mucho más hidratada y libre de imperfecciones e impurezas. Reserva tu cita online cómodamente a través de Bucmi.com.", 
+            "price": "83 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Regenerador De Uñas", 
+            "description": "¿Quieres lucir unas uñas bonitas y cuidadas? Ven a tu centro de Peluquería y Estética Casla y ponte en las mejores manos de nuestros esteticistas profesionales. Disfrutarás de unas uñas perfectas como el primer día. Tendrás unas manos envidiables. Notarás los resultados desde la primera sesión. ¡Te encantará! Reserva ahora cómodamente tu cita online a través de Bucmi.com.", 
+            "price": "79.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Regenerador Y Manicura Y Pedicura", 
+            "description": "Servicio de tratamiento hidratante y regenerador de manos y pies. Incluye peeling, masaje, tratamiento hidratante y esmaltado. El pack perfecto de belleza para ti. Luce una piel luminosa, nutrida y radiante. Además podrás disfrutar de unas uñas bonitas y cuidadas. Podrás elegir entre una gran variedad de colores para esmaltar tus uñas de manos y pies. Elige el color que más te guste. Reserva ya tu cita online a través de Bucmi.com. ¡Empieza a mimarte!", 
+            "price": "205 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto. Facial Regenerador Con Aceites Esenciales", 
+            "description": "Tratamiento regenerador con aceites esenciales ideal después del sol. Cuida siempre tu piel y aprovecha ahora para realizarte este tratamiento. Lucirás una piel luminosa y radiante. Notarás que está mucho más hidratada. ¿A qué estás esperando para hacer tu reserva online? Un solo clic y tendrás una piel perfecta gracias a tu centro de Peluquería y Estética Casla.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Diseño De Cejas, Manicura Semi Y Radiofrecuencia", 
+            "description": "¿A que estás esperando para parecer toda una estrella de Hollywood? Ven ahora a tu centro de Peluquería y Estética Casla y ponte en manos de nuestros mejores profesionales. Aprovecha ahora este pack de diseño de cejas más manicura semipermanente más radiofrecuencia facial. Luce una mirada de cine con tus cejas bien perfiladas. Disfruta de unas manos cuidadas y bonitas y esmaltadas del color que más te guste. Y aprovecha las ventajas de la radiofrecuencia facial que lucirás una piel radiante y luminosa.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensión De Pestañas Y Manicura Permanente", 
+            "description": "Aprovecha ya este pack que incluye la extensión de pestañas pelo a pelo y, de regalo, una manicura permanente. Podrás lucir una mirada de infarto, con unas pestañas con volumen y mucha más longitud. Además, la manicura permanente incluye el limado de la uña, la retirada de cutículas y el esmaltado del color a elegir entre nuestra variedad de tonos. ¿A qué estás esperando? Aprovecha esta oferta.", 
+            "price": "60.5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Higiene Facial, Manicura Permanente, Tto. Uñas...", 
+            "description": "Un auténtico pack dedicado a tu belleza. Reserva ya este pack que incluye la higiene facial con un tratamiento también dedicado a tu rostro, la manicura permanente y un tratamiento regenerador de uñas. ¡No lo dudes, ponte a punto y disfruta de este pack! ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!", 
+            "price": "31 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Servicio de una manicura básica que incluye: limar, tratamiento de cutículas, masaje de mano y esmalte. Presume de uñas gracias a Peluquería Casla y no te arrepentirás del resultado. Luce unas manos bonitas y mucho más cuidadas. Además tenemos una gran variedad de colores para elegir el que más te guste. ¡Mima tus manos! Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "58 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Pemanente", 
+            "description": "Servicio de una manicura permanente que incluye: limar, tratamiento cutículas, masaje de mano y esmalte. Presume de uñas por más tiempo gracias a Peluquería Casla y no te arrepentirás del resultado. Luce unas manos bonitas y mucho más cuidadas. Además tenemos una gran variedad de colores para elegir el que más te guste. ¡Mima tus manos! Tus uñas estarán perfectas durante mucho más tiempo. No se levantan ni se agrietan. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "83 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Básica", 
+            "description": "Servicio de manicura y pedicura básica que incluye: limar, tratamiento cutículas y de durezas, masaje de mano y esmalte. Presume de uñas gracias a Peluquería Casla y no te arrepentirás del resultado. Luce unos pies y manos bonitos y mucho más cuidados. Además tenemos una gran variedad de colores para elegir el que más te guste. ¡Mima tus manos y pies! Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "83 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Permanente", 
+            "description": "Servicio de una manicura y pedicura permanente que incluye: limar, tratamiento cutículas y durezas, masaje de mano y esmalte. Presume de uñas por más tiempo gracias a Peluquería Casla y no te arrepentirás del resultado. Luce unos pies y manos bonitos y mucho más cuidados. Además tenemos una gran variedad de colores para elegir el que más te guste. Tus uñas estarán perfectas durante mucho más tiempo. No se levantan ni agrietan.¡Mima tus manos y pies! Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "11.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Servicio de una pedicura básica que incluye: limar, tratamiento cutículas y de durezas, masaje de mano y esmalte. Presume de uñas gracias a Peluquería Casla y no te arrepentirás del resultado. Luce unos pies bonitos, cuidados y mucho más hidratados. Además tenemos una gran variedad de colores para que elijas el que más te guste. Reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "Servicio de una pedicura permanente que incluye: limar, tratamiento cutículas y durezas, masaje de mano y esmalte. Presume de uñas por más tiempo gracias a Peluquería Casla y no te arrepentirás del resultado. Luce unos pies bonitos, cuidados y mucho más hidratados. Además tenemos una gran variedad de colores para que elijas el que más te guste. Disfruta de unas uñas mucho más duraderas. No se levantan ni se agrietan. Reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "32.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Regenerador Y Manicura Y Pedicura", 
+            "description": "Servicio de tratamiento hidratante y regenerador de manos y pies. Incluye peeling, masaje, tratamiento hidratante y esmaltado. El pack perfecto de belleza para ti. Luce una piel luminosa, nutrida y radiante. Además podrás disfrutar de unas uñas bonitas y cuidadas. Podrás elegir entre una gran variedad de colores para esmaltar tus uñas de manos y pies. Elige el color que más te guste. Reserva ya tu cita online a través de Bucmi.com. ¡Empieza a mimarte!", 
+            "price": "43 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pack Depilación Cera Completa", 
+            "description": "Depilación piernas enteras, ingles y axilas. Tu piel estará suave y sedosa por un par de semanas gracias a nuestros expertos esteticistas de Casla. ¡Y olvídate de la depilación por un par de semanas! Aprovecha ahora este pack y luce un cuerpo libre de vello durante mucho más tiempo. Despreocúpate de depilarte tan amenudo. Reserva tu cita cómodamente online a través de Bucmi.com", 
+            "price": "21 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "Tu piel estará suave y sedosa por un par de semanas gracias a nuestros expertos esteticistas de Casla. ¡Y olvídate de la depilación por un par de semanas! Libérate del vello tan molesto y luce unas axilas bonitas y suaves. Además no tendrás que preocuparte en depilarte durante unas semanas. Reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Brasileñas", 
+            "description": "Tu piel estará suave y sedosa por un par de semanas gracias a nuestros expertos esteticistas de Casla. ¡Y olvídate de la depilación por un par de semanas! Disfruta de unas inglés libres de vello durante mucho más tiempo. Despreocúpate de tener que depilarte a menudo. Durante semanas estarás perfecta. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "60.5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Completas", 
+            "description": "Tu piel estará suave y sedosa por un par de semanas gracias a nuestros expertos esteticistas de Casla. ¡Y olvídate de la depilación por un par de semanas! Disfruta de unas inglés libres de vello durante mucho más tiempo. Despreocúpate de tener que depilarte a menudo. Durante semanas estarás perfecta. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "34 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Normales", 
+            "description": "Tu piel estará suave y sedosa por un par de semanas gracias a nuestros expertos esteticistas de Casla. ¡Y olvídate de la depilación por un par de semanas! Disfruta de unas inglés libres de vello durante mucho más tiempo. Despreocúpate de tener que depilarte a menudo. Durante semanas estarás perfecta. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "7 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "Tu piel estará suave y sedosa por un par de semanas gracias a nuestros expertos esteticistas de Casla. ¡Y olvídate de la depilación por un par de semanas! Empieza a lucir unas piernas bonitas sin vello y mucho más suaves y duraderas. Despreocúpate de tener que depilarte a menudo. Durante semanas estarás perfecta. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "Tu piel estará suave y sedosa por un par de semanas gracias a nuestros expertos esteticistas de Casla. ¡Y olvídate de la depilación por un par de semanas! Empieza a lucir unas piernas bonitas sin vello y mucho más suaves y duraderas. Despreocúpate de tener que depilarte a menudo. Durante semanas estarás perfecta. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

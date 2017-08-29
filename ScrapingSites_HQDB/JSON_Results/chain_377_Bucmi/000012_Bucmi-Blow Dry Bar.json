@@ -1,0 +1,144 @@
+{
+    "name": "Bucmi-Blow Dry Bar", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=13", 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4249539000", 
+    "longitude": "-3.6967194000", 
+    "formatted_address": "Madrid", 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/Blow_Dry_Bar", 
+    "office_number": "910096594", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Blow Dry Bar es un nuevo concepto, un lugar en el que elegir tu peinado, corte o color de un menú y disfrutar mientras estás siendo atendida: un refresco, una revista…tu momento para relajarte. Ven a vernos al barrio de Justicia y te encantará.", 
+    "services": [
+        {
+            "service": "Color Raíz Aveda", 
+            "description": "Coloración natural Aveda (incluye tratamientos pre y post coloración). El servicio no incluye ni lavado ni penado de la melena, sólo la coloración Aveda en raíz. Consigue la uniformidad en el color y la luminosidad que estás buscando para tu melena. Todo ello con productos de primeras marcas, para resultados de 10. ¡No lo pienses más y presume de un look fresco y renovado! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!D", 
+            "price": "29.60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Raíz Con Barros", 
+            "description": "Coloración con barros 100% natural (incluye tratamientos pre y post coloración). Tu melena lucirá lleno de brillo gracias al aporte de nutrientes de los barros. No incluye lavado ni peinado en el precio. Consigue la uniformidad en el color y la luminosidad que estás buscando para tu melena. Todo ello con productos de primeras marcas, para resultados de 10. ¡No lo pienses más y presume de un look fresco y renovado! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!D", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Raíz Secretos Del Agua", 
+            "description": "Coloración sin amoniaco en raíz (incluye tratamiento pre y post coloración). El servicio incluye solo la coloración, no incluye lavado ni peinado. Disfruta de una coloración perfecta y natural gracias a Blow Dry Bar. Consigue el color y la luminosidad que estás buscando para tu melena. Todo ello con productos de primeras marcas, para resultados de 10. ¡No lo pienses más y presume de un look fresco y renovado! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!D", 
+            "price": "29.60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Raíz Aveda", 
+            "description": "Coloración natural Aveda (incluye tratamientos pre y post coloración). El servicio no incluye ni lavado ni penado de la melena, sólo la coloración Aveda en raíz. Consigue la uniformidad en el color y la luminosidad que estás buscando para tu melena. Todo ello con productos de primeras marcas, para resultados de 10. ¡No lo pienses más y presume de un look fresco y renovado! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!D", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Raíz Con Barros", 
+            "description": "Coloración con barros 100% natural (incluye tratamientos pre y post coloración). Tu melena lucirá lleno de brillo gracias al aporte de nutrientes de los barros. No incluye lavado ni peinado en el precio. Consigue la uniformidad en el color y la luminosidad que estás buscando para tu melena. Todo ello con productos de primeras marcas, para resultados de 10. ¡No lo pienses más y presume de un look fresco y renovado! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!D", 
+            "price": "29.60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Vegetal (Semipermanente)", 
+            "description": "Descubre nuestra coloración vegetal. Fórmulas innovadoras, naturales y saludablesincorporando una amplia gama de pigmentos y aromas naturales a partir de plantas y extractos de la naturaleza. Este tratamiento nos proporcionará un cuidado impecable de tu melena. El servicio no incluye lavado ni peinado. ¡No lo pienses más y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando para venir a visitarnos? ¡No dejes que te lo cuenten!D", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Hombre Corte Director Creativo", 
+            "description": "Nos adaptamos siempre al aspecto individual de cada uno , personalizándolo para concebir su corte o colorD", 
+            "price": "21.60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Corto/Media Melena", 
+            "description": "Trabajamos exclusivamente con productos orgánicos y están incluidos en el precio del servicio así como los masajes de bienvenida y nuestra extensa carta de bebidas. Domina ese melena tan rebelde y luce un peinado ideal para cualquier ocasión. Nuestro equipo te asesorará con el peinado que más te favorezca, siempre respetando tu gusto y estilo. EL servicio incluye también el lavado. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! Precio para media melena o pelo corto. D", 
+            "price": "26.40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Largo/ Extralargo", 
+            "description": "Trabajamos exclusivamente con productos orgánicos y están incluidos en el precio del servicio así como los masajes de bienvenida y nuestra extensa carta de bebidas. Domina ese melena tan rebelde y luce un peinado ideal para cualquier ocasión. Nuestro equipo te asesorará con el peinado que más te favorezca, siempre respetando tu gusto y estilo. EL servicio incluye también el lavado. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! Precio para pelo largo o melenas extralargas. D", 
+            "price": "46.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mujer Corte Director Creativo", 
+            "description": "Trabajamos exclusivamente con productos orgánicos y están incluidos en el precio del servicio asi como los masajes de bienvenida y nuestra extensa carta de bebidas D", 
+            "price": "88.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Recogido (Prueba Novia)", 
+            "description": "Trabajamos exclusivamente con productos orgánicos y están incluidos en el precio del servicio asi como los masajes de bienvenida y nuestra extensa carta de bebidas D", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Recogido Especial", 
+            "description": "Trabajamos exclusivamente con productos orgánicos y están incluidos en el precio del servicio asi como los masajes de bienvenida y nuestra extensa carta de bebidas D", 
+            "price": "176.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Recogido Novia (Incluye Prueba)", 
+            "description": "Estarás en manos de nuestro mejor equipo de profesionales, que trabajarán para que brilles con luz propia. Gracias a nuestros distintos recogidos, te pondremos guapa de una forma natural. Incluye la prueba antes de la boda. Te asesoraremos para conseguir el recogido que más se adapte a tí, a tu estilo y personalidad. ¡Porque en un día tan especial, cualquier cuidado es poco! Te encantará el resultado. ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com! No te arrepentirás. D", 
+            "price": "48.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Recogido Sencillo (Incluye Peinado)", 
+            "description": "Estarás en manos de nuestro mejor equipo de profesionales, que trabajarán para que brilles con luz propia. Gracias a nuestros distintos recogidos, te pondremos guapa de una forma natural y sencilla. Te asesoraremos para conseguir el recogido que más se adapte a tí, a tu estilo y personalidad. Te encantará el resultado. ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com! No te arrepentirás. D", 
+            "price": "38.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Raíz Secretos Del Agua", 
+            "description": "Coloración sin amoniaco en raíz (incluye tratamiento pre y post coloración). El servicio incluye solo la coloración, no incluye lavado ni peinado. Disfruta de una coloración perfecta y natural gracias a Blow Dry Bar. Consigue el color y la luminosidad que estás buscando para tu melena. Todo ello con productos de primeras marcas, para resultados de 10. ¡No lo pienses más y presume de un look fresco y renovado! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!D", 
+            "price": "46.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje Para El Día", 
+            "description": "Utilizaremos tonos naturales de maquillaje para potenciar tus rasgos y tu belleza. Te asesoraremos con el maquillaje más te favorece, siempre respetando tu gusto y estilo. ¡Perfecto si tienes un evento importante de día! En Blow Dry Bar contamos con expertos profesionales que trabajan con productos cosméticos de primeras marcas. ¡Saldrás encantada con el resultado! No lo pienses más y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!D", 
+            "price": "37 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje Para La Noche", 
+            "description": "Utilizaremos tonos más fuertes de maquillaje para potenciar tu belleza. Te asesoraremos con el maquillaje más te favorece, siempre respetando tu gusto y estilo. ¡Perfecto si tienes un evento importante de noche! En Blow Dry Bar contamos con expertos profesionales que trabajan con productos cosméticos de primeras marcas. ¡Saldrás encantada con el resultado! No lo pienses más y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!D", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "name": "Bucmi-Salón Balmes", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=16", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3978757000", 
+    "longitude": "2.1525351999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/balmes", 
+    "office_number": "932173622", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Balmes es una de las barberías más clásicas de la ciudad condal. Fundada en 1945, ha estado enfocada únicamente para dar un servicio y trato único al caballero. Con afeitados y cortes tradicionales pero sin estar reñidos con las tendencias actuales.", 
+    "services": [
+        {
+            "service": "Corte De Pelo Hombre Y Afeitado", 
+            "description": "Aprovecha este servicio tan completo de corte de pelo para hombre en el que se incluye el lavado del pelo con champú específico, el afeitado de barba con hidratación y los productos de acabado. Un aspecto renovado y perfecto para cualquier momento, no esperes a una ocasión especial y disfruta de nuestro pack reservando online.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "description": "Que cuidarse está de moda, no es una novedad. Es por ello que hemos creado este pack de corte y arreglo de barba para que renueves tu aspecto en una sola visita.El servicio incluye el corte de pelo para hombres con lavado incluido y los productos de acabado, y por último el arreglo de barba.", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "Cambia tu look y renueva el aspecto. Disfruta de un corte de pelo especialmente pensado para vosotros, a tijera y navaja. El servicio incluye el lavado y productos de acabado. No esperes más y reserva tu corte de pelo a tan solo un clic.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Afeitado Premium", 
+            "description": "¿Un aspecto de lo más chic y actual ?Descubre este afeitado completo con toalla caliente acompañado de aceite con aroma de romero para ablandar la piel, te encantará el resultado.Se hacen dos pasadas con jabón (una de ellas a contrapelo) y se finaliza el afeitado con toallas frías y crema facial para hidratar tu piel.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre Y Afeitado", 
+            "description": "Aprovecha este servicio tan completo de corte de pelo para hombre en el que se incluye el lavado del pelo con champú específico, el afeitado de barba con hidratación y los productos de acabado. Un aspecto renovado y perfecto para cualquier momento, no esperes a una ocasión especial y disfruta de nuestro pack reservando online.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "description": "Que cuidarse está de moda, no es una novedad. Es por ello que hemos creado este pack de corte y arreglo de barba para que renueves tu aspecto en una sola visita.El servicio incluye el corte de pelo para hombres con lavado incluido y los productos de acabado, y por último el arreglo de barba.", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "Cambia tu look y renueva el aspecto. Disfruta de un corte de pelo especialmente pensado para vosotros, a tijera y navaja. El servicio incluye el lavado y productos de acabado. No esperes más y reserva tu corte de pelo a tan solo un clic.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Arreglo De Barba", 
+            "description": "Llevar barba está de moda, pero no lo que no lo está es descuidarla. La barba es un aspecto muy importante para la imagen de muchos chicos, es por eso que nosotros os ofrecemos este arreglo de barba para estar siempre a punto. Duración: entre 15 - 30 minutos, dependiendo de la barba.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

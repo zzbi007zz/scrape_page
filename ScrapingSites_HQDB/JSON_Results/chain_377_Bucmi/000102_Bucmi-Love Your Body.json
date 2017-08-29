@@ -1,0 +1,221 @@
+{
+    "name": "Bucmi-Love Your Body", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=4", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3933557999", 
+    "longitude": "2.1268969000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/Loveyourbody", 
+    "office_number": "932521818", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En nuestro centro encontrarás u oasis de bienestar y relajación, con los mejores tratamientos estéticos dedicados al cuidado y bienestar de nuestros clientes. Trabajamos con las marcas más prestigiosas como Natura Bissé o Thalgo.", 
+    "services": [
+        {
+            "service": "Tto. Facial Antiedad Natura Bissé - 4 Sesiones", 
+            "description": "Para que nuestro revolucionario tratamiento facial tenga los mejores resultados, te recomendamos someterte a las 4 sesiones que lo componen. La 1ª sesión consiste en una higiene facial con punta de diamante y extracción (2 horas); las 3 sesiones restantes se distribuyen cada 15 días y combinan el tratamiento de Ácido Pirúvico que permitirá que tu rostro recupere su luminosidad, tersura y uniformidad, reduciendo los signos de la edad (1h 15 min cada sesión).", 
+            "price": "308.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Ritual Facial Y Corporal Hidratante", 
+            "description": "El ritual aromas de oriente nos transporta sin movernos de nuestra ciudad hasta el lejano oriente. Déjate seducir por el delicioso peeling facial y corporal elaborado a partir de semillas albaricoque, piel de naranja y pétalos de rosa. A este paso le sigue una envoltura nutritiva al aroma de vainilla, y para finalizar un masaje facial y corporal a base del aceite tibio de una vela que se consume a medida que aumenta nuestro estado de relajación. Una experiencia completa diseñada para ti.", 
+            "price": "90.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto. Facial Antiedad Natura Bissé 1ª Sesión", 
+            "description": "¡Reestrena tu piel! Nuestro tratamiento facial es toda una revolución; gracias a la sofisticada tecnología de Natura Bissé, consigue borrar los daños del paso del tiempo, y del sol. Recupera una tez luminosa, radiante, uniforme y perfecta. Esta es la 1ª sesión de un total de 4, y consiste en una higiene con punta de diamante, incluyéndose la extracción.", 
+            "price": "82.50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Micropigmentación Eyeliner Superior", 
+            "description": "¿No tienes tiempo para maquillarte, pero te gusta estar perfecta siempre? Con este maquillaje permanente estilo eyeliner en el párpado móvil para mantener una mirada profunda, ya es posible. Olvídate de todo el tiempo que pierdes con el maquillado a diario, perfecta del día a la noche. ¿Te apuntas?", 
+            "price": "260.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación Cejas", 
+            "description": "Si tienes unas cejas poco pobladas y estás cansada de tener que maquillarlas y retocarlas continuamente, este servicio es tu mejor solución. Conseguirás unas cejas rellenas, con un aspecto más saludable y, sobre todo, natural. Realizamos el diseño acorde a tus facciones para que el resultado esté en armonía con tu rostro.", 
+            "price": "260.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tto. Facial Antiedad Natura Bissé - 4 Sesiones", 
+            "description": "Para que nuestro revolucionario tratamiento facial tenga los mejores resultados, te recomendamos someterte a las 4 sesiones que lo componen. La 1ª sesión consiste en una higiene facial con punta de diamante y extracción (2 horas); las 3 sesiones restantes se distribuyen cada 15 días y combinan el tratamiento de Ácido Pirúvico que permitirá que tu rostro recupere su luminosidad, tersura y uniformidad, reduciendo los signos de la edad (1h 15 min cada sesión).", 
+            "price": "308.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Ritual Facial Y Corporal Hidratante", 
+            "description": "El ritual aromas de oriente nos transporta sin movernos de nuestra ciudad hasta el lejano oriente. Déjate seducir por el delicioso peeling facial y corporal elaborado a partir de semillas albaricoque, piel de naranja y pétalos de rosa. A este paso le sigue una envoltura nutritiva al aroma de vainilla, y para finalizar un masaje facial y corporal a base del aceite tibio de una vela que se consume a medida que aumenta nuestro estado de relajación. Una experiencia completa diseñada para ti.", 
+            "price": "90.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto. Facial Antiedad Natura Bissé 1ª Sesión", 
+            "description": "¡Reestrena tu piel! Nuestro tratamiento facial es toda una revolución; gracias a la sofisticada tecnología de Natura Bissé, consigue borrar los daños del paso del tiempo, y del sol. Recupera una tez luminosa, radiante, uniforme y perfecta. Esta es la 1ª sesión de un total de 4, y consiste en una higiene con punta de diamante, incluyéndose la extracción.", 
+            "price": "82.50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Micropigmentación Labios Con Relleno", 
+            "description": "Maquillaje permanente para conseguir unos labios simétricos y perfectos. Podrás corregir ese defecto que siempre te ha preocupado y, además, el resultado será natural. Todos te verán más guapa pero no darán con lo que te has hecho. ¿Lista para tu gran cambio?", 
+            "price": "296.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación Eyeliner Superior", 
+            "description": "¿No tienes tiempo para maquillarte, pero te gusta estar perfecta siempre? Con este maquillaje permanente estilo eyeliner en el párpado móvil para mantener una mirada profunda, ya es posible. Olvídate de todo el tiempo que pierdes con el maquillado a diario, perfecta del día a la noche. ¿Te apuntas?", 
+            "price": "260.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación Cejas", 
+            "description": "Si tienes unas cejas poco pobladas y estás cansada de tener que maquillarlas y retocarlas continuamente, este servicio es tu mejor solución. Conseguirás unas cejas rellenas, con un aspecto más saludable y, sobre todo, natural. Realizamos el diseño acorde a tus facciones para que el resultado esté en armonía con tu rostro.", 
+            "price": "260.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Este tratamiento de drenaje linfático consiste en masaje manual, con movimientos suaves de bombeo, recanalizador de la linfa, para todos los casos en el que exista edema. Es recomendable para el embarazo, retención de líquidos, post-operatorios, sensación de piernas cansadas. Existen abonos de 10 sesiones.", 
+            "price": "440 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas 1º Puesta", 
+            "description": "Extensiones para tus pestañas, conseguirás un efecto de máxima largura, volumen, y curvatura. Tu mirada más intensa y sexy. Duran hasta 3 semanas, pudiendo realizar vida normal... Baños, deporte ... etc. ¡Olvídate del Rimmel Estar siempre perfecta ya es posible, gracias a nuestros expertos que cuidarán tus pestañas en todo momento.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Higiene Facial Profunda + Ácido Glycólico", 
+            "description": "Higiene facial profunda + Ácido Glycólico o Punta de Diamante (suplemento de 15€ a aplicar en el centro), según la piel que tenga el cliente. Conseguimos una piel limpia, sana, sin impurezas y luminosa gracias a marcas como Natura Bissé. No lo dudes, ponte en manos de nuestros profesionales y disfruta de un rostro envidiable.", 
+            "price": "110 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Peeling Corporal Con Ducha", 
+            "description": "No solo podrás disfrutar de un completo masaje proporcionado por nuestro equipo de profesionales, sino que además, con este servicio, te llevas un peeling corporal que te permitirá regenerar las células de tu piel, eliminando cualquier rastro de impureza y consiguiendo una dermis suave, lisa y radiante. El servicio dura 1 hora y 15 minutos.", 
+            "price": "325 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Micropigmentación Eyeliner Inferior", 
+            "description": "Maquillaje permanente en el eyeliner inferior. Podrás conseguir unos ojos más rasgados, profundos y, sobre todo, estarás perfectamente maquillada para cada ocasión, ¡no tendrás que volver a preocuparte de tu maquillaje! ¿Lista para decir adiós a los retoques?", 
+            "price": "325 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte Pestañas", 
+            "description": "Permanente y Tinte de Pestañas. Consigue una mirada chispeante, con el moldeado de tus pestañas y tinte. Consiguiendo con toda la naturalidad, verlas más largas y oscuras durante un mes y medio. Olvídate del Rimmel, y consigue una mirada perfecta con toda la naturalidad de tu rostro.", 
+            "price": "440 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Relleno De Extensiones De Pestañas", 
+            "description": "Para repoblar tus pestañas postizas, es recomendable volver a visitar a tu profesional cada cierto tiempo para reponer las pestañas que van perdiéndose y repoblar tu mirada. El precio es de 35€ si el relleno se ha realizado a los 15 días; será de 45€ si han pasado 3 semanas. Disfruta de una mirada infinita con unas pestañas efecto mariposa.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial Antimanchas Natura Bissé 4 Sesiones", 
+            "description": "¿No sabes como eliminar esas manchas oscuras de tu rostro? Ven a nuestro centro Love your Body y ponte en las manos de nuestros expertos. Este tratamiento facial elimina las manchas del rostro que surgen por causas de la edad, de los efectos solares. Este servicio Natura Bissé incluye 4 sesiones para tu rostro.", 
+            "price": "110 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial Para Manchas Natura Bissè 1 Sesion", 
+            "description": "“Tratamiento Diamond White”Servicio Potente renovador en manchas, imperfecciones o marcas de acné .Mejora instantánea del fotoenvejecimiento. Conseguirás una piel más clara y uniforme, mejora textura y suaviza cicatrices. Ya es hora de decir adiós a esas marcas o pequeñas manchas que tienes en el rostro gracias a Natura Bissé.", 
+            "price": "370 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Con Esmalte Semi-Permanente Astral", 
+            "description": "Nuestra manicura con semipermanente te permitirá disfrutar de unas manos llenas de color durante varias semanas. ¿A qué esperas? El servicio es igual que para nuestra manicura básica: limado y corte de uñas, retirada de cutículas, masaje con crema y esmaltado con laca semipermanente del color que se elija", 
+            "price": "325 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "¡Manos perfectas y llenas de color! Nuestro servicio de manicura se realiza con todo el mimo por nuestros profesionales e incluye: limado y corte de uñas, retirada de cutículas, masaje con crema y esmaltado con laca normal del color que se elija, entre nuestra gama de esmaltes de Essie y Masglo.", 
+            "price": "325 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Ponte en manos de profesionales de la belleza y luce unas uñas espectaculares. Realizamos un completo servicio de pedicura para darle a tus pies todos los mimos que se merecen: limamos tus uñas, retiramos e hidratamos tus cutículas, también limamos las durezas y, finalmente, esmaltamos con laca de uñas normal de Essie o Masglo, e hidratamos. Si quieres resultados que duren semanas, te recomendamos las lacas permanentes (suplemento de 10€).", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante", 
+            "description": "¿Dolor de espalda? No sufras más, ven a relajarte a la vez que dejas tu espalda como nueva eliminando las contracturas. Masaje profundo, trabaja la musculatura, relajándola, estirándola, y proporcionando alivio a las contracturas. Prepárate para el día a día y deja que aliviemos tus molestias.", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "Una técnica de masaje milenaria que se utiliza en los puntos reflexologicos del pie que va aportando energía a los diferentes organos del cuerpo y produce un equilibrio de energía y aporta bienestar. Si quieres sentirte bien para afrontar el estrés del día a día este masaje es ideal para ti.", 
+            "price": "77 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilacion Piernas Completas", 
+            "description": "Con nuestro servicio de depilación podrás librarte del vello ¡durante semanas! Es un servicio que se realiza con cera tibia o caliente.. Ponte en manos de nuestros profesionales y disfruta de una piel suave, lisa y sedosa. La zona a depilar son las piernas completas. Este servicio incluye la cera depilatoria en piernas completas y una crema hidratante para cuidar tu piel.", 
+            "price": "110 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilacion Cera Axilas", 
+            "description": "¿Quieres despedirte del vello durante semanas? Entonces, hazte con nuestro servicio de depilación con cera tibia o caliente. Ponte en manos de nuestros profesionales y disfruta de una piel suave, lisa y sedosa. Este servicio incluye la cera depilatoria en axilas y una crema hidratante para cuidar tu piel.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilacion Medias Piernas", 
+            "description": "En Love Your Body queremos que te sientas agusto con tu cuerpo, es por ello que queremos proporcionarte este servicio de depilación con cera en medias piernas. El servicio se realiza con cera tibia o caliente. Ponte en manos de nuestros profesionales y disfruta de una piel suave, lisa y sedosa. Este servicio incluye la cera depilatoria en medias piernas y una crema hidratante para cuidar tu piel.", 
+            "price": "56 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

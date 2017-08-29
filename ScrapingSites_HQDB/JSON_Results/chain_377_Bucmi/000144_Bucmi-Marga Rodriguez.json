@@ -1,0 +1,186 @@
+{
+    "name": "Bucmi-Marga Rodríguez", 
+    "scrape_page": "https://www.bucmi.com/Alicante.html?page=1", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "38.3480386000", 
+    "longitude": "-0.5148259000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/marga", 
+    "office_number": "966084369", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Marga Rodríguez es una peluquería ubicada en plena zona de Florida Baja, en Alicante, donde encontrarás todo lo necesario para la belleza de tu melena gracias a nuestros servicios de corte de pelo, mechas californianas, coloraciones.... Ven a conocernos.", 
+    "services": [
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "¡Ellos también pueden ponerse guapos! Con este servicio incluímos el lavado, corte y peinado para él. Puedes escoger entre un corte al más puro estilo hipster o algún corte más clásico gracias a nuestros expertos estilistas de Marga Rodriguez.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Bótox Media Melena", 
+            "description": "Este revolucionario tratamiento permite que tu cabello también disfrute del efecto del bótox. Lograrás un resultado espectacular, aumentando la hidratación y densidad de tu cabello gracias a la reestructuración del mismo. El servicio es para media melena o pelo corto e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Bótox Pelo Largo", 
+            "description": "Este revolucionario tratamiento permite que tu cabello también disfrute del efecto del bótox. Lograrás un resultado espectacular, aumentando la hidratación y densidad de tu cabello gracias a la reestructuración del mismo. El servicio es para pelo largo (en caso de pelo extralargo consulta el suplemento en el salón) e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinado Media Melena", 
+            "description": "Incluye servicio de coloración raíz o se puede arrastrar completamente por el pelo, según las necesidades de tu melena. Además, incluye lavado con champú e hidratación y peinado definido para que salgas perfecta y con un pelo brillante y lleno de vida.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinado Pelo Corto", 
+            "description": "Incluye servicio de coloración raíz o se puede arrastrar completamente por el pelo, según las necesidades de tu melena. Además, incluye lavado con champú e hidratación y peinado definido para que salgas perfecta y con un pelo brillante y lleno de vida.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinado Pelo Largo", 
+            "description": "Incluye servicio de coloración raíz o se puede arrastrar completamente por el pelo, según las necesidades de tu melena. Además, incluye lavado con champú e hidratación y peinado definido para que salgas perfecta y con un pelo brillante y lleno de vida.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cortar Y Peinado Media Melena", 
+            "description": "Este servicio incluye el lavado, corte y peinado para cabello medio. Nuestros expertos te asesorarán para crear un look acorde a tus facciones y a la última moda. No pierdas esta última oportunidad y disfruta de un estiloso corte gracias a Marga Rodríguez.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Cortar Y Peinado Pelo Corto", 
+            "description": "Este servicio incluye el lavado, corte y peinado para cabello corto. Nuestros expertos te asesorarán para crear un look acorde a tus facciones y a la última moda. No pierdas esta última oportunidad y disfruta de un estiloso corte gracias a Marga Rodríguez.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Cortar Y Peinado Pelo Largo", 
+            "description": "Este servicio incluye el lavado, corte y peinado para cabello largo. Nuestros expertos te asesorarán para crear un look acorde a tus facciones y a la última moda. No pierdas esta última oportunidad y disfruta de un estiloso corte gracias a Marga Rodríguez.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "¡Ellos también pueden ponerse guapos! Con este servicio incluímos el lavado, corte y peinado para él. Puedes escoger entre un corte al más puro estilo hipster o algún corte más clásico gracias a nuestros expertos estilistas de Marga Rodriguez.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Peinado Media Melena", 
+            "description": "¿Te apetece llevar la coloración del momento? Ponte en manos de nuestros profesionales y logra un bonito efecto degradado en tus puntas, que parecerán bañadas por la luz del sol. El servicio es para cabello medio e incluye el peinado. En caso de cabello teñido la duración del servicio llegará a 2 horas.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Peinado Pelo Largo", 
+            "description": "¿Te apetece llevar la coloración del momento? Ponte en manos de nuestros profesionales y logra un bonito efecto degradado en tus puntas, que parecerán bañadas por la luz del sol. El servicio es para cabello largo e incluye el peinado. En caso de cabello teñido la duración del servicio llegará a 2 horas.", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peinado Media Melena", 
+            "description": "Si tienes una cita importante o simplemente te apetece verte más arreglada por un día, reserva en Marga Rodríguez nuestro servicio de peinado, que incluye un lavado previo de tu cabello con champú e hidratación. Saldrás encantada de nuestro salón.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peinado Pelo Corto", 
+            "description": "Si tienes una cita importante o simplemente te apetece verte más arreglada por un día, reserva en Marga Rodríguez nuestro servicio de peinado, que incluye un lavado previo de tu cabello con champú e hidratación. Saldrás encantada de nuestro salón.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peinado Pelo Largo", 
+            "description": "Si tienes una cita importante o simplemente te apetece verte más arreglada por un día, reserva en Marga Rodríguez nuestro servicio de peinado, que incluye un lavado previo de tu cabello con champú e hidratación. Saldrás encantada de nuestro salón.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Bótox Media Melena", 
+            "description": "Este revolucionario tratamiento permite que tu cabello también disfrute del efecto del bótox. Lograrás un resultado espectacular, aumentando la hidratación y densidad de tu cabello gracias a la reestructuración del mismo. El servicio es para media melena o pelo corto e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Bótox Pelo Largo", 
+            "description": "Este revolucionario tratamiento permite que tu cabello también disfrute del efecto del bótox. Lograrás un resultado espectacular, aumentando la hidratación y densidad de tu cabello gracias a la reestructuración del mismo. El servicio es para pelo largo (en caso de pelo extralargo consulta el suplemento en el salón) e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina Media Melena", 
+            "description": "Este tratamiento capilar de keratina está especialmente diseñado para reducir el encrespamiento y lograr un cabello liso y suave. El servicio es para media melena o pelo corto e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina Pelo Extra Largo", 
+            "description": "Este tratamiento capilar de keratina está especialmente diseñado para reducir el encrespamiento y lograr un cabello liso y suave. El servicio es para cabello extra largo e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina Pelo Largo", 
+            "description": "Este tratamiento capilar de keratina está especialmente diseñado para reducir el encrespamiento y lograr un cabello liso y suave. El servicio es para cabello largo (a la altura de los hombros) e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina Media Melena", 
+            "description": "Este tratamiento capilar de keratina está especialmente diseñado para reducir el encrespamiento y lograr un cabello liso y suave. El servicio es para media melena o pelo corto e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina Pelo Extra Largo", 
+            "description": "Este tratamiento capilar de keratina está especialmente diseñado para reducir el encrespamiento y lograr un cabello liso y suave. El servicio es para cabello extra largo e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina Pelo Largo", 
+            "description": "Este tratamiento capilar de keratina está especialmente diseñado para reducir el encrespamiento y lograr un cabello liso y suave. El servicio es para cabello largo (a la altura de los hombros) e incluye el peinado al final del tratamiento para que salgas perfecta del salón.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }
+    ]
+}

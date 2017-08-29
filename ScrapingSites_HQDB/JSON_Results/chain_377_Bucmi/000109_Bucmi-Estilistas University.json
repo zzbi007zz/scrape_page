@@ -1,0 +1,165 @@
+{
+    "name": "Bucmi-Estilistas University", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=11", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3963469000", 
+    "longitude": "2.1228231000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/estilistasuniversity", 
+    "office_number": "930026481", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "ESTILISTAS UNIVERSITY, ubicada en la Calle Bonaplata en Pedralbes, Barcelona, ofrece gran variedad de servicios.Nuestros expertos estilistas conseguirán sacar el máximo partido a tu cabello e imagen. Ven a conocer nuestros cortes, mechas, alisados...", 
+    "services": [
+        {
+            "service": "Tratamiento Keratina", 
+            "description": "En Estilistas University te ofrecemos la oportunidad de mostrar una melena fuerte y suave. Consigue una Hidratación 100% y elimina de una vez por todas el encrespamiento, el pelo seco y sin brillo. Con este tratamiento podrás lucir una melena sana, con brillo y suavidad sin necesidad de usar planchas o secador. Este servicio incluye el lavado y el peinado.", 
+            "price": "99.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Solarium", 
+            "description": "¿Quieres lucir un moreno envidiable? Consíguelo ahora con este bono de cinco sesiones + 1 de regalo. Después de las sesiones tu piel se verá más firme y ya te atreverás a probarte el bikini de este verano. En el precio no están incluidas las gafas. Puedes traerte las tuyas o comprarlas en el centro por 3,5€. ¡Broncéate de forma segura y sin dañar tu piel!", 
+            "price": "35.20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina", 
+            "description": "En Estilistas University te ofrecemos la oportunidad de mostrar una melena fuerte y suave. Consigue una Hidratación 100% y elimina de una vez por todas el encrespamiento, el pelo seco y sin brillo. Con este tratamiento podrás lucir una melena sana, con brillo y suavidad sin necesidad de usar planchas o secador. Este servicio incluye el lavado y el peinado.", 
+            "price": "99.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Media Melena", 
+            "description": "Atrévete a darle color a tu media melena y disfruta de los colores de esta temporada. Ponte en manos de nuestros especialistas en color y disfruta de un pelo brillante y con fuerza. Este servicio incluye el lavado, el color y secado al natural, pero no incluye el servicio de peinado. ¡Dile adiós a esa melena apagada y aburrida!", 
+            "price": "35.20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Pelo Corto", 
+            "description": "Atrévete a darle color a tu pelo corto y disfruta de los colores de esta temporada. Ponte en manos de nuestros especialistas en color y disfruta de un pelo brillante y con fuerza. Este servicio incluye el lavado, el color y secado al natural, pero no incluye el servicio de peinado. ¡Dile adiós a ese look apagado y aburrido!", 
+            "price": "99.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Pelo Largo", 
+            "description": "Atrévete a darle color a tu larga melena y disfruta de los colores de esta temporada. Ponte en manos de nuestros especialistas en color y disfruta de un pelo brillante y con fuerza. Este servicio incluye el lavado, el color y secado al natural, pero no incluye el servicio de peinado. ¡Dile adiós a esa melena apagada y aburrida!", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Caballero", 
+            "description": "¿Quieres un corte de pelo de actualidad? Ven a visitarnos Estilistas University y déjate aconsejar por nuestros profesionales, que te asesorarán para conseguir ese corte y presumir. Este servicio incluye corte, lavado y acabado con diferentes productos. No lo pienses más reserva ya tu cita online. ¡No te arrepentirás!", 
+            "price": "44 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer", 
+            "description": "Corte 100% asesorado por nuestros profesionales para sacarle el máximo partido a tu pelo. El servicio incluye lavado, hidratación capilar, corte asesorado y secado natural. En el precio no está incluido el servicio de peinado. Gracias a nuestros especialistas descubre tu belleza natural. ¡Prueba ya nuestros cortes asesorados!", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavado Y Peinado Media Melena", 
+            "description": "¿Quieres estar perfecta en poco tiempo? Ponte en las manos de nuestros especialistas del centro Estilistas University y obtendrás unos resultados increíbles. Este servicio para media melena incluye lavado, hidratación capilar y peinado asesorado por nuestros profesionales. ¡Ideal para esos días en los que quieres deslumbrar!", 
+            "price": "24.9 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavado Y Peinado Pelo Largo", 
+            "description": "¿Quieres estar perfecta en poco tiempo? Ponte en las manos de nuestros especialistas del centro Estilistas University y obtendrás unos resultados increíbles. Este servicio para pelo largo incluye lavado, hidratación capilar y peinado asesorado por nuestros profesionales. ¡Ideal para esos días en los que quieres deslumbrar!", 
+            "price": "20.99 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Corto", 
+            "description": "¿Quieres estar perfecta en poco tiempo? Ponte en las manos de nuestros especialistas del centro Estilistas University y obtendrás unos resultados increíbles. Este servicio para pelo corto incluye lavado, hidratación capilar y peinado asesorado por nuestros profesionales. ¡Ideal para esos días en los que quieres deslumbrar!", 
+            "price": "27.99 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Media Melena", 
+            "description": "¿Te atreves con unas mechas para tu pelo? Si te gustan los looks con reflejos naturales, éste es tu tratamiento. Disfruta de unas mechas para darle brillo y vitalidad a tu cabello. Este servicio incluye lavado, mechas y secado al natural para media melena. El servicio no incluye peinado, consulte con su profesional para posibles suplementos.", 
+            "price": "12.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Pelo Corto", 
+            "description": "¿Te atreves con unas mechas para tu pelo? Si te gustan los looks con reflejos naturales, éste es tu tratamiento. Disfruta de unas mechas para darle brillo y vitalidad a tu cabello. Este servicio incluye lavado, mechas y secado al natural para pelo corto. El servicio no incluye peinado, consulte con su profesional para posibles suplementos.", 
+            "price": "12.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Pelo Largo", 
+            "description": "¿Te atreves con unas mechas para tu pelo? Si te gustan los looks con reflejos naturales, éste es tu tratamiento. Disfruta de unas mechas para darle brillo y vitalidad a tu cabello. Este servicio incluye lavado, mechas y secado al natural para pelo largo. El servicio no incluye peinado, consulte con su profesional para posibles suplementos.", 
+            "price": "17.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Solarium", 
+            "description": "¿Quieres lucir un moreno envidiable? Consíguelo ahora con este bono de cinco sesiones + 1 de regalo. Después de las sesiones tu piel se verá más firme y ya te atreverás a probarte el bikini de este verano. En el precio no están incluidas las gafas. Puedes traerte las tuyas o comprarlas en el centro por 3,5€. ¡Broncéate de forma segura y sin dañar tu piel!", 
+            "price": "20.5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Manicura Francesa", 
+            "description": "¡Una manicura perfecta a tan solo un clikc ya es posible! Con este servicio de Estilistas University realizado por nuestros especialistas muestra unas uñas perfectas. El servicio incluye una manicura completa en la que se quitan pieles, cutículas, exfoliación y esmaltado a elegir de entre una gran variedad de colores, en este caso, esmaltado manicura francesa. ¡Reserva ya tu cita!", 
+            "price": "15.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Francesa", 
+            "description": "¡Una pedicura perfecta a tan solo un clikc ya es posible! Con este servicio de Estilistas University realizado por nuestros especialistas muestra unas uñas perfectas. El servicio incluye una pedicura completa en la que se quitan pieles, cutículas, exfoliación y esmaltado, en este caso, el esmaltado pedicura francesa. ¡Reserva ya tu cita!", 
+            "price": "38.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Normal", 
+            "description": "¡Una pedicura perfecta a tan solo un clikc ya es posible! Con este servicio de Estilistas University realizado por nuestros especialistas muestra unas uñas perfectas. El servicio incluye una pedicura completa en la que se quitan pieles, cutículas, exfoliación y esmaltado a elegir entre la gama de nuestros colores. En este servicio no se incluye el esmaltado pedicura francesa. ¡Reserva ya tu cita!", 
+            "price": "32.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "¡Una manicura perfecta a tan solo un clikc ya es posible! Con este servicio de Estilistas University realizado por nuestros especialistas muestra unas uñas perfectas. El servicio incluye una manicura completa en la que se quitan pieles, cutículas, exfoliación y esmaltado a elegir de entre una gran variedad de colores. No incluye el esmaltado de manicura francesa. ¡Reserva ya tu cita!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina", 
+            "description": "En Estilistas University te ofrecemos la oportunidad de mostrar una melena fuerte y suave. Consigue una Hidratación 100% y elimina de una vez por todas el encrespamiento, el pelo seco y sin brillo. Con este tratamiento podrás lucir una melena sana, con brillo y suavidad sin necesidad de usar planchas o secador. Este servicio incluye el lavado y el peinado.", 
+            "price": "44 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "name": "Bucmi-Peluqueria Unisex", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=20", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3758228000", 
+    "longitude": "2.1661013000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/unisex", 
+    "office_number": "934431876", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Salón de Belleza en Sant Antoni, Barcelona, cuenta con servicios de peluquería y de estética facial y corporal. Déjate asesorar por los mejores profesionales del sector y disfruta de nuestros cortes de pelo, mechas de moda, coloraciones de alta calidad..", 
+    "services": [
+        {
+            "service": "Color Corto", 
+            "description": "Incluye el lavado con champú normal con color completo y peinado", 
+            "price": "19.06 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Media Melena", 
+            "description": "Incluye el lavado con champú normal con color completo y peinado", 
+            "price": "205.24 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Pelo Largo", 
+            "description": "Incluye el lavado con champú normal con color completo y peinado", 
+            "price": "92.72 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "El servicio incluye corte asesorado, lavado y peinado con productos de acabado.", 
+            "price": "20.09 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer Y Peinado Corto", 
+            "description": "Disfruta de un corte de tendencia, incluye lavado y el peinado.", 
+            "price": "21.87 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer Y Peinado Largo", 
+            "description": "Disfruta de un corte de tendencia, incluye lavado y el peinado. En caso de pelo de extralargo consulte con su profesional.", 
+            "price": "16.13 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer Y Peinado Media Melena", 
+            "description": "Disfruta de un corte de tendencia, incluye lavado y el peinado.", 
+            "price": "17.19 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mascarilla Facial Express", 
+            "description": "Servicio de estética,es una mascarilla facial tratamiento express para vitaminar el cutis. incluye: peeling + mascarilla a escoger entre 5 variedades + cóctel vitamínico con radiofrecuencia y ultrasonido.", 
+            "price": "37.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Micropigmentación De Cejas", 
+            "description": "Servicio de maquillaje permanente,con una duración de 5 años.", 
+            "price": "17.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas", 
+            "description": "Luce una mirada de cine con estas extensiones de pestañas para los dos ojos colocadas pelo a pelo.", 
+            "price": "34.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Presoterapia De Piernas Y Abdomen", 
+            "description": "Servicio de masaje con la maquinaria de presoterapia (piernas + abdomen)", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte De Pestañas", 
+            "description": "Luce unas pestañas perfectas en todo momento y olvídate del rimmel gracias a este pack de permanente y tinte de pestañas.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza De Cutis", 
+            "description": "Servicio de estética,una limpieza de cutis profunda junto con maquinaria de ultrasonido y láser desinfectante e hidratante multi-vitamínica.", 
+            "price": "47 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Solo Esmaltado De Gel-Lac En Los Pies", 
+            "description": "Servicio de solo el esmaltado de gel-lac en los pies.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Gel-Lac", 
+            "description": "Servicio de Manicura con esmaltado de Gel-lac.", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Spa Y Gel-Lac En Los Pies", 
+            "description": "Servicio de Pedicura Spa con esmaltado de Gel-lac (sillón de hidromasaje, peeling, esmaltado gel-lac en los pies y hidratante)", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Spa", 
+            "description": "Servicio de manicura Spa (peeling, parafina y hidratante de extracto de caviar con madre perla). incluye también el esmaltado normal o calcio para fortalecer las uñas.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Spa", 
+            "description": "Servicio de Pedicura Spa en sillón de hidromasaje(peeling + hidratante de extracto de caviar con madre perla + esmaltado normal)", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje De Media Hora", 
+            "description": "Servicio de masaje relajante circulatorio de media hora en la zona donde lo desee (espalda o piernas o pecho)", 
+            "price": "280 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje De Una Hora", 
+            "description": "Servicio de masaje relajante circulatorio de una hora en las zonas que desee (espalda,piernas,pecho,abdomen)", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Láser Axilas", 
+            "description": "Elimina ese vello tan molesto de la zona de las axilas con esta sesión de láser.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Ingles Completas", 
+            "description": "Aprovecha esta sesión de láser para la zona de las ingles completas y despreocúpate este verano.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

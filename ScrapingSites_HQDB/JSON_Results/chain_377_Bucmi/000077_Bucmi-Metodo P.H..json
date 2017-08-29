@@ -1,0 +1,81 @@
+{
+    "name": "Bucmi-Método P.H.", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=78", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4166234000", 
+    "longitude": "-3.7066661999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/metodoph", 
+    "office_number": "647161639", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Método PH contamos con un equipo de cualificados profesionales que te atenderán personalmente para conseguir los mejores resultados. Te ofrecemos distintas terapias para mejorar así tu calidad de vida. ¡No lo dudes más y ven a visitarnos a Madrid!", 
+    "services": [
+        {
+            "service": "Terapia Alternativa: Dejar De Fumar", 
+            "description": "¿Eres de esas personas que quieren dejar su adicción y no lo consiguen? En Método PH trabajamos en estas adicciones para ayudarte a superarlas con una terapia de física cuántica. Ven a nuestro centro y garantizamos unos resultados excelentes. En todo momento estarás atendido por nuestro equipo de profesionales. Ven a conocernos y ¡Notarás los resultados! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Eliminar Estrés", 
+            "description": "Si padeces de estrés este es tu tratamiento idóneo. Ven a conocernos, ponte en manos de nuestros profesionales y lograremos reducirlo. Utilizamos terapias con física cuántica logrando unos resultados óptimos. Ponte en nuestras manos y ¡mejora tu bienestar con nosotros! Reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Conseguirás así tu calidad de vida, consiguiendo canalizar el estrés de tu día a día.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Artritis", 
+            "description": "La artritis afecta a nuestras articulaciones provocando una molestia en nuestras tareas del día a día. Todo ello en manos de nuestro equipo de profesionales. Déjate mimar y prueba nuestro tratamiento para artritis, donde aliviaremos los síntomas haciendo que tu calidad de vida y bienestar mejore de una manera que ¡notarás resultados verdaderamente efectivos! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Dejar De Fumar", 
+            "description": "¿Eres de esas personas que quieren dejar su adicción y no lo consiguen? En Método PH trabajamos en estas adicciones para ayudarte a superarlas con una terapia de física cuántica. Ven a nuestro centro y garantizamos unos resultados excelentes. En todo momento estarás atendido por nuestro equipo de profesionales. Ven a conocernos y ¡Notarás los resultados! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Depresión/Falta De Sueño", 
+            "description": "En Método PH nos preocupamos por tí. Por ello te ofrecemos este tratamiento indicado a la mejora de falta de sueño. Además, conseguiremos inculcarte la positividad y ayudarte en tus bajadas de ánimo. ¡Ponte en manos de nuestro equipo de profesionales que trabajarán para conseguir el mejor resultado! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Te sentirás mucho mejor, afrontando tu día a día con otra perspectiva.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Eliminar Estrés", 
+            "description": "Si padeces de estrés este es tu tratamiento idóneo. Ven a conocernos, ponte en manos de nuestros profesionales y lograremos reducirlo. Utilizamos terapias con física cuántica logrando unos resultados óptimos. Ponte en nuestras manos y ¡mejora tu bienestar con nosotros! Reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Conseguirás así tu calidad de vida, consiguiendo canalizar el estrés de tu día a día.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Alternativa:Orientación Vida Laboral...", 
+            "description": "En Método PH te ayudamos encauzar tu vida y te orientamos a qué manejes todas las situaciones en tu vida laboral, familiar, personal... Conseguirás resolver mucho de los problemas que tanto te preocupan. Estarás en manos de un cualificado equipo de profesionales que trabajarán para conseguir el mejor resultado. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! ¡Saldrás encantado de nuestro centro!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Anti Virus, Hongos, Dolencias", 
+            "description": "Magnífico tratamiento para eliminar cualquier tipo de virus, hongo, dolencia o enfermedad que padezcas. Utilizamos las mejores técnicas para que puedes mejorar tu calidad de vida. Ven a conocernos y ponte en manos de nuestros profesionales. Nos gusta mimarte y que te sientas bien, por eso garantizamos unos fabulosos resultados que ¡te encantarán! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

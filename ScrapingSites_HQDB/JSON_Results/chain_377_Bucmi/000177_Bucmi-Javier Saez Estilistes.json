@@ -1,0 +1,123 @@
+{
+    "name": "Bucmi-Javier Saez Estilistes", 
+    "scrape_page": "https://www.bucmi.com/Valencia.html?page=6", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "39.4547122000", 
+    "longitude": "-0.4039906000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/javiersaez", 
+    "office_number": "963222675", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La peluquería Javier Saez, situada en Sant Isidre, Valencia, ofrece tratamientos capilares tales como keratina para devolver el brillo a tu melena, cortes de pelo, tinte y mechas, entre otros. Trabajamos con la marca Artego. No esperes más y reserva ahor", 
+    "services": [
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "¿Quieres lucir un corte de pelo que se adapte a ti y a tu estilo? Difruta de éste servicio de la mano de nuestros expertos profesionales y lo conseguirás. Además la sesión incluye el lavado y peinado con productos de acabado (Gomina, Cera). ¿A qué estás esperando? Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "¡Déjate asesorar por nuestros expertos peluqueros y cambia tu look! También, si lo prefieres, saneamos tu melena. Sólo tienes que reservar ahora este servicio y nosotros nos encargaremos de darle estilo a tu pelo. Incluye lavado y secado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Moldeado Parameter T Artego", 
+            "description": "¿Te gustaría tener el pelo ondulado de forma natural? Con nuestro sistema de ondulación Parameter-T de Artego, podrás llevar unos rizos naturales durante 3 o 4 meses. Este tratamiento no contiene productos químicos, por lo que no daña tu cabello. Además el servicio incluye lavado y secado. ¡Ahora con la facilidad de la reserva online!", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones Trat. Reparador Capilar Artego", 
+            "description": "¡Aprovecha este bono especial de nuestro tratamiento reparador de Artego para tu cabello! Pagarás solo dos sesiones y podrás disfrutar de la tercera gratis. Notarás como tu pelo recupera su brillo, haz desaparecer el encrespamiento y reconstruye la fibra capilar. El servicio incluye lavado y secado.", 
+            "price": "25.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "¿Quieres lucir un corte de pelo que se adapte a ti y a tu estilo? Difruta de éste servicio de la mano de nuestros expertos profesionales y lo conseguirás. Además la sesión incluye el lavado y peinado con productos de acabado (Gomina, Cera). ¿A qué estás esperando? Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "¡Déjate asesorar por nuestros expertos peluqueros y cambia tu look! También, si lo prefieres, saneamos tu melena. Sólo tienes que reservar ahora este servicio y nosotros nos encargaremos de darle estilo a tu pelo. Incluye lavado y secado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "54 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Mechas", 
+            "description": "¡El pack perfecto para dar un toque de luz a tu melena! Ponte en manos de los mejores estilistas y disfrutarás de un fantástico servicio de corte de pelo y mechas. Además, también conseguirás hidratar tu melena. El servicio incluye lavado y secado. ¡No esperes más y reserva ahora!", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo, Tinte Y Mechas", 
+            "description": "¡El pack perfecto para ti y para tu cambio de look! Nuestros profesionales te asesorarán en todo lo que necesites para dejarte guapísima. El servicio incluye lavado y secado. No esperes más, reserva ya tu cita cómodamente online y disfrutarás de un magnífico servicio de corte de pelo, tinte y mechas.", 
+            "price": "25.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peinado", 
+            "description": "¿Tienes una ocasión especial o simplemente quieres estar guapa? Ponte en manos de nuestros expertos estilistas y luce un increíble peinado profesional de peluquería... ¡Ven a conocernos y reserva ya este servicio!. Nuestros peluqueros se encargarán de realizarte el peinado que desees. El servicio incluye el lavado. ¡No te arrepentirás!", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Recogido", 
+            "description": "¿Tienes una ocasión especial? Ven a conocer nuestro centro y te realizaremos el recogido que más te apetezca lucir ese día. ¡Serás la envidia de tu evento! ¿A qué estás esperando para reservar? El servicio incluye el lavado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Repetirás seguro!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Completo Y Corte De Pelo", 
+            "description": "¿Estás cansada de tu melena y quieres probar con algo nuevo? Ahora podrás hacerte un cambio de look y conseguir el color de pelo que siempre has querido. ¿Cómo? ¡Solo tienes que hacer click en reservar cita y elegir tu hora! Lucirás un color perfecto. El servicio incluye lavado y secado. ¡Ahora con la facilidad de la reserva online!", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina", 
+            "description": "Disfruta de éste tratamiento de Keratina en nuestro centro al mejor precio. Hidrata y apórtale fuerza y luminosidad a tu cabello. ¡El tratamiento definitivo para acabar con el encrespamiento del pelo! El servicio puede contener suplemento según la longitud y cantidad de la melena, consulte con su profesional. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Reparador Capilar Artego", 
+            "description": "¿Tu pelo necesita que lo repares? ¡Reserva nuestro tratamiento reparador de la marca Artego! Verás tu pelo sin encrespamiento, con más brillo y reconstruido. El servicio también incluye el lavado y el secado. ¡Disfruta de un pelo sano y libre de encrespamiento gracias a nuestros expertos profesionales!", 
+            "price": "44 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina", 
+            "description": "Disfruta de éste tratamiento de Keratina en nuestro centro al mejor precio. Hidrata y apórtale fuerza y luminosidad a tu cabello. ¡El tratamiento definitivo para acabar con el encrespamiento del pelo! El servicio puede contener suplemento según la longitud y cantidad de la melena, consulte con su profesional. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }
+    ]
+}

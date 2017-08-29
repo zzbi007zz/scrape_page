@@ -1,0 +1,221 @@
+{
+    "name": "Bucmi-Pepelu Ciutat Vella El Born", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=6", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3795863000", 
+    "longitude": "2.1683570999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/pepeluborn", 
+    "office_number": "932688944", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Nuestro compromiso con realizar una actividad lo mas respetuosa que podemos con el medio ambiente. Por eso trabajamos con productos provenientes de la agricultura ecologica con Certificado Eco. Recibirás un trato profesional y afable de todo su equipo.", 
+    "services": [
+        {
+            "service": "Tratamiento De Keratina Corto", 
+            "description": "Tratamiento de Queratina con Carbotecnología totalmente libre de derivados del formol. Estre tratamiento tan popular está recomendado sobretodo para cabellos, foscos y sin vida. Acaba con el encrespamiento y dale fuerza y cuerpo a tu cabello, además se volverá una melena más dócil y manejable. Incluye lavado, tratamiento y secado natural.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tto. Capilar Hidratación Orgánico Cabello Medio", 
+            "description": "Con este tratamiento capilar de hidratación pon a punto tu cabello, restructurándolo y devolviéndole vitalidad y fuerza. Rituales Orgánicos(Certificado Eco). Maravillosa combinación de proteínas -vitaminas y minerales para tu cuero cabelludo y cabello.Una gozada para tus sentidos. Utilizamos productos de Philip Martins y Ref. El servicio incluye peinado para cabello corto o media melena. Te encantará.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tto. Capilar Hidratación Orgánico Cabello Largo", 
+            "description": "Con este tratamiento capilar de hidratación pon a punto tu cabello, restructurándolo y devolviéndole vitalidad y fuerza. Rituales Orgánicos(Certificado Eco). Utilizamos productos de Philip Martins y Ref. Maravillosa combinación de proteínas -vitaminas y minerales para tu cuero cabelludo y cabello.Una gozada para tus sentidos. El servicio incluye peinado para cabello largo.Te encantará.", 
+            "price": "48.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Largo", 
+            "description": "Tratamiento de Queratina formulada por Carbotecnología totalmente libre de derivados del formol. Prueba ya este tratamiento ideal para cabellos foscos o encrespados, un cabello más dócil, fuerte y brillante gracias a nuestro tratamiento. Incluye lavado, tratamiento y secado natural", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Corte Mujer Pelo Corto", 
+            "description": "Si eres de lucir una melena corta, pero siempre perfecta, este es tu servicio. Podrás cambiar de look, dar un mejor aspecto a tu melena o sanar tu cabello. Te aconsejamos y asesoramos para que tu experiencia sea de lo más satisfactoria. Estamos seguros de que te encantará. Utilizamos productos de Philip Martins y Ref. La duración del servicio es de 40 minutos.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Mujer Pelo Largo/ Cambio De Estilo", 
+            "description": "Luce un look nuevo y renueva tu melena. Con este servicio podrás cambiar de look, dar un mejor aspecto a tu melena o sanar tu cabello. Te aconsejamos y asesoramos para que tu experiencia sea de lo más satisfactoria. Consultar con el profesional posible suplemento de 6 a 12€ por medida o densidad extra. La duración del servicio es de aproximadamente 75 minutos.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Antiedad Células Madre. Medio", 
+            "description": "Potente tratamiento anti-aging para reestructurar tu cabello. Renueva y protege tu melena y siéntelo 15 años mas joven, con células madre de origen vegetal y extractos vegetales de argán. Utilizamos productos de Philip Martins y Ref. Estupendo tratamiento capilar que devuelve la vitalidad a tu melena, como si el tiempo no hubiese pasado. Además mejorará la elasticidad y tersura del cabello.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Antiedad Células Madre.Largo", 
+            "description": "Potente tratamiento anti-aging para reestructurar tu cabello. Renueva y protege tu melena y siéntelo 15 años mas joven, con células madre de origen vegetal y extractos vegetales de argán. Utilizamos productos de Philip Martins y Ref. Estupendo tratamiento capilar que devuelve la vitalidad a tu melena, como si el tiempo no hubiese pasado. Además mejorará la elasticidad y tersura del cabello.", 
+            "price": "128.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Corto", 
+            "description": "Tratamiento de Queratina con Carbotecnología totalmente libre de derivados del formol. Estre tratamiento tan popular está recomendado sobretodo para cabellos, foscos y sin vida. Acaba con el encrespamiento y dale fuerza y cuerpo a tu cabello, además se volverá una melena más dócil y manejable. Incluye lavado, tratamiento y secado natural.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Medio", 
+            "description": "Tratamiento con Queratina formulada con Carbotecnología, totalmente libre de derivados del formol. Un tratamiento ideal para cabellos secos, encrespados y sin forma. Devolverás cuerpo a tu cabello y lucirá perfecto. Utilizamos productos de Philip Martins y Ref. Incluye lavado, tratamiento y secado natural.", 
+            "price": "48.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tto. Capilar Hidratación Orgánico Cabello Medio", 
+            "description": "Con este tratamiento capilar de hidratación pon a punto tu cabello, restructurándolo y devolviéndole vitalidad y fuerza. Rituales Orgánicos(Certificado Eco). Maravillosa combinación de proteínas -vitaminas y minerales para tu cuero cabelludo y cabello.Una gozada para tus sentidos. Utilizamos productos de Philip Martins y Ref. El servicio incluye peinado para cabello corto o media melena. Te encantará.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tto. Capilar Hidratación Orgánico Cabello Largo", 
+            "description": "Con este tratamiento capilar de hidratación pon a punto tu cabello, restructurándolo y devolviéndole vitalidad y fuerza. Rituales Orgánicos(Certificado Eco). Utilizamos productos de Philip Martins y Ref. Maravillosa combinación de proteínas -vitaminas y minerales para tu cuero cabelludo y cabello.Una gozada para tus sentidos. El servicio incluye peinado para cabello largo.Te encantará.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Largo", 
+            "description": "Tratamiento de Queratina formulada por Carbotecnología totalmente libre de derivados del formol. Prueba ya este tratamiento ideal para cabellos foscos o encrespados, un cabello más dócil, fuerte y brillante gracias a nuestro tratamiento. Incluye lavado, tratamiento y secado natural", 
+            "price": "128.00 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Color Baño", 
+            "description": "Dale brillo a tu melena con un baño de color y cambia de estilo. El servicio incluye lavado y secado natural. Consultar al profesional para posibles suplementos de peinado. Dependiendo de la densidad o largura se añadirá un suplemento de 6 a 12€. Utilizamos productos de Philip Martins y Ref.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Creativo Y Reflejos", 
+            "description": "¿Necesitas un cambio? ¿Quieres un nuevo estilo? ¿Un evento a la vista? Atrévete con un cambio de look. Descubre los colores de la temporada y elige el que más te guste, además nuestros profesionales sabrán aconsejarte para que salgas encantada. El servicio incluye lavado y secado natural. Consultar al profesional para los suplementos de entre 6 y 12€. Utilizamos productos de Philip Martins y Ref.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Sin Amoniaco", 
+            "description": "Coloración 100% natural. Disfruta de los tonos de temporada sin castigar tu cabello . Productos 100% ecológicos y sin amoniaco. El servicio incluye lavado y secado natural. Consultar al profesional para los suplementos dependiendo de la largura y densidad se añadirá de 6 a 12€. Utilizamos productos de Philip Martins y Ref.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Y Peinado", 
+            "description": "Unifica el tono de tu cabello, déjate asesorar por nuestros profesionales para conseguir un resultado de cine .El servicio incluye lavado y peinado. Consultar al profesional para los suplementos dependiendo de la largura y densidad se añadirá suplemento de 6 a 12€. Utilizamos productos de Philip Martins y Ref.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color, Tratamiento De Hidratación Y Peinado", 
+            "description": "Dale a tu cabello un toque de luz y de color de las manos de los mejores profesionales. El servicio incluye baño de color, tratamiento de hidratación, lavado y peinado. Utilizamos productos de Philip Martins y Ref.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre Máquina", 
+            "description": "Ponte en buenas manos para un cambio de look de moda de la mano de los mejores estilistas de PPLU . Consigue un estilismo acorde con tu estilo, moderno, desenfadado, clásico, arriesgado, déjate asesorar por nuestros estilistas, una amplia experiencia les avala. No te arrepentirás. Utilizamos productos de Philip Martins y Ref.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre Tijera", 
+            "description": "Si lo que necesitas es un cambio de look, nuestro corte de caballero a tijera te encantará. Renovarás tu estilo y mejorarás tu apariencia de la mano de los mejores expertos. Perfección en tu corte de pelo. Reserva ya con Bucmi.com. Utilizamos productos de Philip Martins y Ref.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer Midi Media Melena", 
+            "description": "Ideal para darle a tu estilo midi la frescura que necesita. Prueba nuestra técnica en bobs largos, medias melenas. Luce un corte de pelo a la última con este servicio que incluye lavar, acondicionador, cortar y secado de tu melena. Reserva ahora tu cita online con Bucmi.com y presume de melena. Utilizamos productos de Philip Martins y Ref.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Localizadas", 
+            "description": "¿Quieres buscar contrastes localizados en tu color de pelo? Con este servicio de mechas localizadas, salpicaremos tu melena con mechas varias para aportar luminosidad a tu cabello. Descubre la última tendencia en mechas y saldrás encantada. Utilizamos productos de Philip Martins y Ref. ¡Prueba nuestra técnica!", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "New Moldeado Permanente Orgánica Melena Media", 
+            "description": "Descubre el mundo del rizo y el volumen en tu cabello sin miedos,resultados fantásticos gracias a la calidad de nuestro previo diagnóstico y el producto orgánico. Consultar suplemento con el profesional (corte no incluido). Utilizamos productos de Philip Martins y Ref. El precio incluye posibilidad de diagnóstico previo antes de la cita,moldeado orgánico, secado y styling.", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "New Moldeado Permanente Orgánica Pelo Corto", 
+            "description": "Descubre el mundo del rizo y el volumen en tu cabello sin miedos,resultados fantásticos gracias a la calidad de nuestro previo diagnóstico y el producto orgánico. Consultar suplemento con el profesional (corte no incluido). Utilizamos productos de Philip Martins y Ref. El precio incluye posibilidad de diagnóstico previo antes de la cita,moldeado orgánico ,secado y styling.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte Mujer Pelo Corto", 
+            "description": "Si eres de lucir una melena corta, pero siempre perfecta, este es tu servicio. Podrás cambiar de look, dar un mejor aspecto a tu melena o sanar tu cabello. Te aconsejamos y asesoramos para que tu experiencia sea de lo más satisfactoria. Estamos seguros de que te encantará. Utilizamos productos de Philip Martins y Ref. La duración del servicio es de 40 minutos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Mujer Pelo Largo/ Cambio De Estilo", 
+            "description": "Luce un look nuevo y renueva tu melena. Con este servicio podrás cambiar de look, dar un mejor aspecto a tu melena o sanar tu cabello. Te aconsejamos y asesoramos para que tu experiencia sea de lo más satisfactoria. Consultar con el profesional posible suplemento de 6 a 12€ por medida o densidad extra. La duración del servicio es de aproximadamente 75 minutos.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Corto", 
+            "description": "Tratamiento de Queratina con Carbotecnología totalmente libre de derivados del formol. Estre tratamiento tan popular está recomendado sobretodo para cabellos, foscos y sin vida. Acaba con el encrespamiento y dale fuerza y cuerpo a tu cabello, además se volverá una melena más dócil y manejable. Incluye lavado, tratamiento y secado natural.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Medio", 
+            "description": "Tratamiento con Queratina formulada con Carbotecnología, totalmente libre de derivados del formol. Un tratamiento ideal para cabellos secos, encrespados y sin forma. Devolverás cuerpo a tu cabello y lucirá perfecto. Utilizamos productos de Philip Martins y Ref. Incluye lavado, tratamiento y secado natural.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }
+    ]
+}

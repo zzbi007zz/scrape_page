@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-SkinFuture", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=41", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4277053000", 
+    "longitude": "-3.6739787999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/skinfuture", 
+    "office_number": "911828378", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "SkinFuture es un instituto de belleza que se encuentra en la zona de Lista, en Madrid. El centro cuenta con un equipo de profesionales especializados en belleza y estética. Ofrecen efectivos tratamientos antienvejecimiento tanto corporales como faciales.", 
+    "services": [
+        {
+            "service": "Higiene Facial 75 Min", 
+            "description": "¿Necesitas una limpieza en profundidad en tu rostro? ¡Reserva nuestra higiene facial! Te realizaremos una limpieza profunda de cutis y un masaje facial con vitaminas. El servicio tiene una duración de 75 minutos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cavitación Kavitar Cool", 
+            "description": "Tratamiento de cavitación y presoterapia para grasa localizada. Gracias a la cavitación rompemos los nódulos de grasa con calor y con la presoterapia drenamos de forma natural los líquidos acumulados.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial 75 Min", 
+            "description": "¿Necesitas una limpieza en profundidad en tu rostro? ¡Reserva nuestra higiene facial! Te realizaremos una limpieza profunda de cutis y un masaje facial con vitaminas. El servicio tiene una duración de 75 minutos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Permanente De Pestañas", 
+            "description": "¿Te gustaría lucir unas pestañas mucho más rizadas siempre? ¡Reserva nuestra permanente de pestañas! Utilizamos una técnica especial de rizado para esta zona sin dañar tus pestañas. Te encantará el resultado.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peeling Facial Environ Cool Peel", 
+            "description": "Peeling en frío con ácido láctico. Este tratamiento esta diseñado para tratar líneas de expresión, los signos visibles de envejecimiento y el deterioro solar, así como para pieles con problemas de acné.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "¡Potencia el poder de tu mirada reservando nuestro servicio de tinte y permanente de pestañas! Aplicamos un tinte oscuro en tus pestañas para que se vean más definidas y marcas. Además, las rizamos para aumentar su volumen.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Craneofacial Indian Head", 
+            "description": "¡Relájate reservando nuestro masaje craneofacial Indian head massage! Este masaje está basado en una terapia holística de la India, que consiste en aplicar un masaje manual por la zona del cráneo y el rostro. ¿A qué esperas para probarlo?", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante Deep Tissue", 
+            "description": "¡Prueba nuestro masaje descontracturante en profundidad! Realizamos un masaje manual muscular bastante profundo por todo el cuerpo. Nuestros profesionales conseguirán aliviar tus molestias y lesiones.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante Descontracturante", 
+            "description": "¿Necesitas un masaje completo para sentirte relajada? Reserva nuestro masaje relajante y descontracturante que aplicamos por el cuerpo entero del paciente. Este servicio tiene una duración de una hora. Te encantará.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante Descontracturante", 
+            "description": "¡Desconecta de la dura rutina reservando este masaje! El servicio consiste en un masaje corporal relajante y descontracturante que se realiza sobre las siguientes zonas: espalda, nuca y hombros. Tiene una duración de 30 minutos.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

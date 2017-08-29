@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Nails Rus Centro de Estética", 
+    "scrape_page": "https://www.bucmi.com/Valencia.html?page=4", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "39.4740053000", 
+    "longitude": "-0.3741374999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/nailsrus", 
+    "office_number": "963919431", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Tus manos hablan por ti por eso en Nails Rus nos preocupamos por ellas para que puedas marcar así la diferencia.", 
+    "services": [
+        {
+            "service": "Manicura Y Pedicura Shellac", 
+            "description": "Con este pack de manicura y pedicura podras lucir unas uñas perfectas durante mas tiempo. El servicio incluye el limar, retirada de cutícula para el cuidado de tu uña, tratamiento de durezas, masaje e hidratacion.", 
+            "price": "45.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Shellac", 
+            "description": "Luce unas uñas bonitas durante mucho más tiempo.", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Shellac", 
+            "description": "Limamos las uñas, retiramos la cutícula y durezas y esmaltamos. No se agrieta y se mantiene perfecta durante mínimo tres semanas.", 
+            "price": "45.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad", 
+            "description": "Un tratamiento facial profundo que reduce de manera visible las impurezas y puntos negros del rostro. Gracias al tratamiento, activa la circulación de la piel, mejora la luminosidad de la piel y alisa el rostro.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Shellac", 
+            "description": "Con este pack de manicura y pedicura podras lucir unas uñas perfectas durante mas tiempo. El servicio incluye el limar, retirada de cutícula para el cuidado de tu uña, tratamiento de durezas, masaje e hidratacion.", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Caballero", 
+            "description": "Un servicio de manicura y pedicura para él. Incluye limado, cuidado de las cutículas, tratamiento de placa de la uñas, cuidado de los talones y todo ello con un masaje hidratante.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Shellac", 
+            "description": "Luce unas uñas bonitas durante mucho más tiempo.", 
+            "price": "34 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Shellac", 
+            "description": "Limamos las uñas, retiramos la cutícula y durezas y esmaltamos. No se agrieta y se mantiene perfecta durante mínimo tres semanas.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Puesta De Uñas", 
+            "description": "Una manicura perfecta durante más tiempo. Un servicio de aplicación de uñas de gel que incluye el maquillaje del esmalte de tu elección.", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Relleno Uñas Gel", 
+            "description": "Retoca tus uñas gracias a este servicio, consigue unas manos perfectas durante más tiempo.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

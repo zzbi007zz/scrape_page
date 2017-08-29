@@ -1,0 +1,242 @@
+{
+    "name": "Bucmi-El Suareg", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=14", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3793272000", 
+    "longitude": "-3.7483346000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/suareg", 
+    "office_number": "914284542", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro de estética El Suareg, situado en Carabanchel, ofrece tratamientos faciales, masajes, manicuras y pedicuras entre otros. Sal como nuevo y disfruta de un ambiente relajado y positivo.", 
+    "services": [
+        {
+            "service": "Manicura", 
+            "description": "Comenzamos dando forma a la uña, trabajamos la cutícula, exfoliamos la piel, hidratamos con una buena crema de manos y un pequeño masaje y esmaltamos tus uñas del color que prefieras.", 
+            "price": "11.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente", 
+            "description": "Una pedicura en la que tu esmalte durara 15 días con el brillo y la intensidad del primer dia", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "Un esmalte que hagas lo que hagas te durara 15 días ¡Toda una maravillapara tus uñas! Incluye limado, retirada de cutículas y esmaltado de tus uñas del color que prefieras.", 
+            "price": "19 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Fuera durezas y ¡¡Viva la hidratación!!, con nuestro cuidado de pies te iras flotando y si deseas con las uñas maquilladas.", 
+            "price": "18.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "7 Sesiones Peeling Corporal Envolturas Y Masaje", 
+            "description": "Consigue una piel cuidada y libre de pieles muertas gracias a nuestro peeling realizado con envolturas de hierbas medicinales para suavizar e hidratar la piel. La sesión termina con un masaje relajante para que salgas como nuevo. Fecha de caducidad un año desde la fecha de la compra ¡Reserva online en Bucmi.com!", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 5 Ses Electroestimulacion Y Presoterapia", 
+            "description": "Para reafirmar y eliminar líquidos y toxinas. Con media hora de electroestimulación y media hora de presoterapia. Es aconsejable una sesión por semana para que el tratamiento sea completo. Fecha de caducidad 1 año desde la fecha de la compra¿A qué estás esperando? ¡Haz tu reserva online!", 
+            "price": "130 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Masaje Y Presoterapia", 
+            "description": "Cinco sesiones donde buscamos mejorar circulación o celulitis (a elegir por la clienta) con media hora de masaje y media hora de presoterapia. Aconsejable una sesión por semana. Caduca en 1 año desde la fecha de la compra.", 
+            "price": "170 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono Facial Tratamiento Bioptron 10+1", 
+            "description": "Una limpieza facial normal de regalo mas 10 sesiones con el Bioptron , luz polarizada que activa la microcirculación oxigenando asi las células mejorando su calidad de vida, por lo que de forma natural crean colágeno y elastina. Valido para tratamientos antiedad y para el acné. Aconsejable hacer las cinco primeras seguidas. ¡¡FECHA DE CADUCIDAD UN AÑO DESDE EL DIA DE LA COMPRA!!", 
+            "price": "270 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono Facial Tratamiento Bioptron 5 +1", 
+            "description": "Una limpieza normal de regalo con cinco sesiones con el Bioptron , luz polarizada que activa la microcirculación oxigenando asi las células mejorando su calidad de vida, por lo que de forma natural crean colágeno y elastina. Valido para tratamientos antiedad y para el acné. Aconsejable hacer las cinco primeras seguidas. ¡¡FECHA DE CADUCIDAD UN AÑO DESDE EL DIA DE LA COMPRA!!", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Limpieza Facial Ac.Hialurónico Con Bioptron", 
+            "description": "A nuestra ya conocida limpieza facial de ácido hialurónico añadimos el uso del bioptron, luz polarizada que activa la microcirculación mejorando asi la calidad de las células, creando de forma natural colágeno y elastina ¡¡pruébalo ya!! Además trabajamos con productos de primeras marcas como Skeyndor. No lo dudes y reserva ya cómodamente tu cita online a través de Bucmi.com. ¡No te arrepentirás!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Limpieza Facial Con Bioptron", 
+            "description": "Ponte en manos de nuestros profesionales y nuestros productos de la marca Skeyndor. A nuestra ya conocida limpieza facial añadimos el uso del bioptron, luz polarizada que activa la microcirculación mejorando asi la calidad de las células, creando de forma natural colágeno y elastina ¡¡pruébalo ya!!. No lo dudes y reserva ya cómodamente tu cita online en Bucmi.com.", 
+            "price": "48 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Limpieza Facial De Ac. Hialurónico", 
+            "description": "Exfoliación de piel, con un tratamiento profundo de ácido hialurónico a base de corriente galvánicas con efecto lifting y un buen masaje facial, terminado con una buena mascarilla apropiada para tu piel. Trabajamos con productos de la prestigiosa marca Skeyndor.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Limpieza Facial De Tratamiento Con Bipotron", 
+            "description": "A nuestra ya conocida limpieza facial de tratamiento con aceites esenciales añadimos el uso del bioptron, luz polarizada que activa la microcirculación mejorando asi la calidad de las células, creando de forma natural colágeno y elastina, además trabajamos con productos de la prestigiosa marca Skeyndor. ¡¡Pruébalo ya!!", 
+            "price": "55.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Limpieza Facial De Tratamiento De Aceites Esencial", 
+            "description": "Una limpieza completa (desmaquillado, extracción y tónico) que además incluye tratamiento específico para tu piel con productos 100% naturales de primeras marcas como Skeyndor entre otras. Incluye depilación de labio superior y cejas si así lo deseas. No lo dudes y reserva ya tu cita cómodamente en Bucmi.com. ¡No te arrepentirás!", 
+            "price": "45.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Limpieza Facial Normal", 
+            "description": "Hazte una limpieza facial básica para quitar las células muertas y los puntos negros, además de llevarte la piel hidratada, trabajamos con productos de la marca Skeyndor. Incluye depilación de labio superior y cejas si lo deseas. No lo dudes y reserva cómodamente tu cita online en Bucmi.com. ¡No te arrepentirás!", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peeling Corporal Envoltura Y Masaje", 
+            "description": "Exfoliamos tu piel con sales minerales y aceite de almendras, hidratamos con una envoltura a elegir la que más te guste (chocolate, algas, reina del nilo o te verde) y finalizamos con un masaje relajante para que olvides tus problemas y salgas totalmente relajado. ¡Reserva ahora mismo!", 
+            "price": "45.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte De Pestañas", 
+            "description": "Consigue una mirada cautivadora y penetrante gracias al pack de tinte y permanente de pestañas de El Suareg. Consigue una mirada de cine en un ambiente relajante. ¡Reserva ya online!", 
+            "price": "46 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "Comenzamos dando forma a la uña, trabajamos la cutícula, exfoliamos la piel, hidratamos con una buena crema de manos y un pequeño masaje y esmaltamos tus uñas del color que prefieras.", 
+            "price": "11.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Con Parafina", 
+            "description": "Una manicura completa y además con parafina para aumentar la hidratación y calmar dolores articulares", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Con Parafina", 
+            "description": "Pedicura completa con parafina para que tus pies se queden mas hidratados que nunca y perfecto para si hay problemas de artrosis", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente", 
+            "description": "Una pedicura en la que tu esmalte durara 15 días con el brillo y la intensidad del primer dia", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "Un esmalte que hagas lo que hagas te durara 15 días ¡Toda una maravillapara tus uñas! Incluye limado, retirada de cutículas y esmaltado de tus uñas del color que prefieras.", 
+            "price": "19 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Fuera durezas y ¡¡Viva la hidratación!!, con nuestro cuidado de pies te iras flotando y si deseas con las uñas maquilladas.", 
+            "price": "18.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "7 Sesiones Masaje Corporal Equilibrio De Chakras", 
+            "description": "Este bono incluye siete sesiones de masaje para activar los chakras del paciente. Realizamos una terapia manual con masajes esenciales y piedras calientes para que recuperes la energía perdida y equilibres cuerpo y mente.Fecha de caducidad 1 año desde el dia de la compra", 
+            "price": "190 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Corporal Equilibrio De Chakras", 
+            "description": "Masaje relajante con la mezcla de aceites esenciales y minerales específicos para trabajar el chakra que corresponda y finalizar con piedras calentitas de los chakras.", 
+            "price": "32.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Depilacion Cera Ingles", 
+            "description": "depilación con cera tibia o caliente para piel sensible, dependiendo de tu tipo de piel", 
+            "price": "8.5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "depilación con cera tibia o caliente para piel sensible, dependiendo de tu tipo de piel", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilacion Cera Ingles Brasileñas", 
+            "description": "depilación con cera tibia o caliente para piel sensible, dependiendo de tu tipo de piel", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilacion Cera Ingles Integrales Chica", 
+            "description": "depilación con cera tibia o caliente para piel sensible, dependiendo de tu tipo de piel", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras Completa Unisex", 
+            "description": "Depilación con cera tibia desechable.¡¡¡Pide ya tu cita por Bucmi!!! El servicio es unisex y conseguirás tener una piel suave y sedosa durante un par de semanas. Te encantará el resultado. La zona a depilar es piernas enteras.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Ses Electroestimulacion Y Presoterapia", 
+            "description": "Para reafirmar y eliminar líquidos y toxinas. Con media hora de electroestimulación y media hora de presoterapia. Es aconsejable una sesión por semana para que el tratamiento sea completo. Fecha de caducidad 1 año desde la fecha de la compra¿A qué estás esperando? ¡Haz tu reserva online!", 
+            "price": "130 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "name": "Bucmi-Agadu", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=16", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3879800000", 
+    "longitude": "-3.6454200000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/agadu", 
+    "office_number": "913801013", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de Peluqueria y Estética innovador y con exclusividad única al cliente, situado en Vallecas. Estamos especializados en recogidos y técnicas de color, mechas y matizado. Reserva con nosotros cita online.", 
+    "services": [
+        {
+            "service": "Microdermoabrasion Con Punta De Diamante", 
+            "description": "La Microdermoabrasion con punta de diamante es una terapia de exfoliación controlada, precisa y progresiva de la capa cornea de la piel de modo que se retiran las celulas muertas de la superficie de la piel, promoviendo la recuperación y el desarrollo de una piel mas saludable y de aparencia mas juvenil.resultados visibles dsd la primera sesión, Procedimiento, leche limpiadora,exfoliante, microdermoabrasión, masaje relajante, mascarilla calmante y crema con protección solar.", 
+            "price": "15.20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peeling Corporal Y Masaje Cuerpo Entero", 
+            "description": "Relájate y disfruta durante una hora con un peeling coorporal en todo el cuerpo con el que eliminamos todas las pieles muertas, para despúes relajarte con un masaje relajante. Los resultados una piel suave, hidratada ideal en esta época del año.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "El servicio incluye corte, lavado, champú especifico. Dejate asesorar por nuestros peluqueros y atrévete a un cambio de look.", 
+            "price": "15.20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "El servicio incluye corte para cualquier largo, lavado, champú especifico, el acondicionador o mascarilla no van incluídos, tendrán un coste adicional de 2 y tres euros que se abonará en el salón.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Limpieza Facial Completa", 
+            "description": "Cuida tu piel con esta limpieza completa. El servicio incluye desmaquillado, tónico,peeling, vapor, extracción, masaje, mascarilla y crema hidratante.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "El servicio incluye corte, lavado, champú especifico. Dejate asesorar por nuestros peluqueros y atrévete a un cambio de look.", 
+            "price": "19 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "El servicio incluye corte para cualquier largo, lavado, champú especifico, el acondicionador o mascarilla no van incluídos, tendrán un coste adicional de 2 y tres euros que se abonará en el salón.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Media Melena Y Peinado", 
+            "description": "Mechas de plata con decoloración o tinte melena hasta hombro, seguido de un relajante lavado del cabello con un champú especifico y se aplicara después una mascarilla de Keratina con un masaje craneal,para después acabar con un peinado con secador de mano.", 
+            "price": "9.5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Pelo Corto Y Peinado", 
+            "description": "Mechas de plata con decoloración o tinte, después un relajante lavado del cabello con champú específico, seguidamente se aplicara una mascarilla de Keratina con un masaje craneal y acabamos con un peinado con secador de mano.", 
+            "price": "9.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Pelo Largo Y Peinado", 
+            "description": "Mechas con plata con decoloración o tinte pelo largo si la melena es excesivamente larga se cobrara un suplemento de 5 euros en el salón. Después relájate con un lavado del cabello con un champú específico seguido de la aplicación de una mascarilla de Keratína con un masaje craneal y acabamos con un peinado con secador de mano.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Tinte Y Peinado Media Melena", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte, lavado, champú especifico y peinado con secador. Apto para cabello medio, el acondicionador y mascarilla tienen un importe de dos y tres euros que se abonarán en el salón.", 
+            "price": "9.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Y Peinado Pelo Corto", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte, lavado, champú especifico y peinado con secador. El acondicionador y mascarilla no van incluídos, tienen un coste de dos y tres euros que se abonarán en el salón.", 
+            "price": "9.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte Y Peinado Pelo Largo", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte para cabello largo, lavado, champú especifico y peinado con secador. El acondicionador y mascarilla no van incluidos en el precio, tienen un coste de dos y tres euros que se abonarán en el centro.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Microdermoabrasion Con Punta De Diamante", 
+            "description": "La Microdermoabrasion con punta de diamante es una terapia de exfoliación controlada, precisa y progresiva de la capa cornea de la piel de modo que se retiran las celulas muertas de la superficie de la piel, promoviendo la recuperación y el desarrollo de una piel mas saludable y de aparencia mas juvenil.resultados visibles dsd la primera sesión, Procedimiento, leche limpiadora,exfoliante, microdermoabrasión, masaje relajante, mascarilla calmante y crema con protección solar.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peeling Corporal Y Masaje Cuerpo Entero", 
+            "description": "Relájate y disfruta durante una hora con un peeling coorporal en todo el cuerpo con el que eliminamos todas las pieles muertas, para despúes relajarte con un masaje relajante. Los resultados una piel suave, hidratada ideal en esta época del año.", 
+            "price": "52 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Facial Completa", 
+            "description": "Cuida tu piel con esta limpieza completa. El servicio incluye desmaquillado, tónico,peeling, vapor, extracción, masaje, mascarilla y crema hidratante.", 
+            "price": "24.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Permanente Pestañas", 
+            "description": "El tinte te ayudará a realzar tus pestañas sin necesidad de usar máscara de pestañas y gracias a la permanente daremos una forma curvada a la pestaña.", 
+            "price": "22.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tinte Para Pestañas", 
+            "description": "Dale mas intensidad a tus pestañas con este tinte de pestañas y luce una mirada espectacular. No dependerás tanto de la mascara de pestañas y es ideal, para personas con las pestañas no muy oscuras...", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Pack Depilación Mujer Cuerpo Entero", 
+            "description": "Este Pack incluye: Depilación de piernas enteras con cera tibia, ingles brasileñas, axilas, labio superior y diseño de cejas con cera caliente.", 
+            "price": "19 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Cera Brasileñas", 
+            "description": "Elimina esos pelos molestos de las inles y un poquito más con esta depilación de cera.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas Unisex", 
+            "description": "Depilación de axilas con cera caliente. Servicio Unisex. Elimina ese bello no deseado...", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles", 
+            "description": "Elimina esos pelos molestos de las ingles con cera, la técnica más tradicional. Ven a nuestro salón y deja la cuchilla de lado.", 
+            "price": "21 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Pubis Mujer", 
+            "description": "Depilación con cera caliente de zona pubica. este servicio es para mujeres. Gracias a esta depilación tradicional, estarás sin pelo por más tiempo.", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Unisex Piernas Completas", 
+            "description": "Elimina esos pelos molestos con cera y luce unas piernas fantásticas... Este servicio es unisex.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Y Diseño De Cejas.", 
+            "description": "Depilación y diseño de cejas con aplicación de cera caliente y después retocadas con pinzas. Luce una bonita mirada. Personalizadas según rostro.", 
+            "price": "8.5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Piernas Enteras, Ingles Y Axilas", 
+            "description": "Ingles normales, piernas enteras y axilas.¡presume una piel muy suave! Gracias a Agadú y a Bucmi reserva tu cita online cómodamente desde tu casa.", 
+            "price": "4 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "name": "Bucmi-Beauty by Ele & Lash Extension Madrid", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=84", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4597665999", 
+    "longitude": "-3.7815305000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/beauty-by-ele", 
+    "office_number": "634935940", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Beauty By Ele and Lash Extension es el centro de estética para ti en Aravaca,conformado por un equipo cualificado de profesionales, podrás encontrar desde tratamientos faciales y corporales hasta servicios de manicura o extensiones de pestañas.", 
+    "services": [
+        {
+            "service": "Extensiones De Pestañas Efecto Máscara", 
+            "description": "Luce una mirada de infarto gracias a nuestro servicio de extensión de pestañas colocadas pelo a pelo por nuestros estilistas. Las pestañas son volumen ruso, lo que dará a tu mirada un toque de intensidad y fuerza inigualable. ¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Centro de Estética Beauty by Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una mirada seductora y atractiva. Reserva tu cita online a través de Bucmi.com. ¡No pasarás desapercibida!", 
+            "price": "66.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial 3 Peeling", 
+            "description": "Tratamiento a base de 3 peeling naturales, limpia, exfolia y detoxifica tu piel en tan solo una sesión, lucirás una piel renovada, iluminada y tersa. ¿Quieres lucir una piel suave y tersa? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Dí adiós a las imperfecciones e impurezas. Disfruta de una piel con mucho más brillo y luminosidad. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "23.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Eve Lom", 
+            "description": "Nuestro tratamiento estrella:Limpieza en profundidad y masaje linfático para descongestionar la piel y eliminar la tensión y el estrés. Después del tratamiento la piel se presentará limpia, luminosa y sentirá una agradable sensación de bienestar. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una piel libre de imperfecciones e impurezas. Disfruta de un cutis mucho más suave e hidratado.", 
+            "price": "52.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad E Iluminador", 
+            "description": "Tratamiento Facial AntiAging e iluminador by Casmara Fórmula unisex para todo tipo de piel, edad y época del año. Indicado para iluminar y unificar el color de la piel. Gracias al alto concentrado en principio activo, proporciona una piel nácar, radiante, luminosa y más joven. Devuelve a tu piel su color y aspecto natural. Tu piel se verá mucho mejor con brillo y luminosidad. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Notarás unos resultados óptimos!", 
+            "price": "85 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Renovador Celular", 
+            "description": "Renueva tu piel gracias a este tratamiento que consta de limpieza facial, peeling enzimático, mascarilla oxigenante, ampolla iluminadora, masaje facial activador de colágeno, sérum y crema. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una piel con mucho brillo y luminosidad. Repara e hidrata tu cutis. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará el resultado!", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono Novia Deluxe", 
+            "description": "Bono Novias Deluxe, combina un facial détox e higiene profunda, un exfoliante sal y aceites esenciales reafirmante y detoxificante, una sesión de maderoterapia corporal, belleza en manos y pies y un facial iluminador y piel nácar by Casmara unos días antes de tu gran acontecimiento. Estarás espectacular en tu día. Serás una novia radiante. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Efecto Volumen 3D-6D", 
+            "description": "Luce una mirada de infarto con nuestras extensiones de pestañas colocadas en el 90% de tu pelo natural. Podrás elegir el volumen deseado desde de 3D hasta 6D. ¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Centro de Estética Beauty by Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una mirada seductora y atractiva. Reserva tu cita online a través de Bucmi.com. ¡No pasarás desapercibida! ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Expréss Detox", 
+            "description": "Gracias a este tratamiento conseguimos una piel renovada. Limpieza en 4 pasos, limpiar y purificar piel con cleanser, exfoliar con enzimático, mascarilla detoxificante y ampolla y crema o gel final. Indicado para pieles mixtas o grasas, producidas por un exceso de secreción sebácea en una piel gruesa y resistente, poco irritable. Pruébalo y disfruta de unos resultados visibles. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tto Facial Ocean By Casmara 100% Eco Nature", 
+            "description": "Prueba nuestro tratamiento facial a base de algas marinas y 100 x 100 eco nature, tu piel lucirá radiante, llena de luz y gracias a sus componentes naturales notaras una piel mas reafirmante. ¿Quieres lucir una piel con mucho brillo y luminosidad? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y más tersa gracias al poder activador de las algas marinas. Disfruta de un rostro lleno de vitalidad. Reserva ahora.", 
+            "price": "299 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 2 Sesiones Tto Corporal Reductor Detox", 
+            "description": "Combina 2 sesiones de masaje manual reductor y anticelulítico y la bambuterapia, deshaciendo nódulos de grasa, tratamiento muy efectivo. Notarás los resultados desde la primera sesión. ¿Quieres lucir un cuerpo tonificado? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "95 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Bono Novia Deluxe", 
+            "description": "Bono Novias Deluxe, combina un facial détox e higiene profunda, un exfoliante sal y aceites esenciales reafirmante y detoxificante, una sesión de maderoterapia corporal, belleza en manos y pies y un facial iluminador y piel nácar by Casmara unos días antes de tu gran acontecimiento. Estarás espectacular en tu día. Serás una novia radiante. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Drenaje Linfático Corporal Para Embarazadas", 
+            "description": "El drenaje linfático manual es una forma de masaje que favorece el funcionamiento del sistema linfático, crucial para una marcha eficaz del sistema inmunológico. ¿Quieres mejorar tu circulación, sobre todo en la temporada del embarazo? Ven a tu Centro de Estética Beauty by Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce un cuerpo tonificado y mejora la circulación del sistema linfático. Reserva ya en Bucmi este servicio y consigue hacer tu día a día mucho más fácil.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático Vodder Piernas", 
+            "description": "Magnifico tratamiento especialmente para piernas con problemas de circulación, retención de líquidos. Ayuda a eliminar toxinas dándole un alivio y ligereza a tus piernas. ¿Notas tus piernas cansadas? Ven a tu Centro de Estética Beauty by Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Ayuda a mejorar la circulación en tus piernas y así consigue aliviar la pesadez y el cansancio. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Efecto Máscara", 
+            "description": "Luce una mirada de infarto gracias a nuestro servicio de extensión de pestañas colocadas pelo a pelo por nuestros estilistas. Las pestañas son volumen ruso, lo que dará a tu mirada un toque de intensidad y fuerza inigualable. ¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Centro de Estética Beauty by Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una mirada seductora y atractiva. Reserva tu cita online a través de Bucmi.com. ¡No pasarás desapercibida!", 
+            "price": "299 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Look Hollywood", 
+            "description": "Para un look de infarto con el que no poder presumir de una mirada siempre perfecta. Acabado de cine con la colocación de las extensiones en todas y cada una de tus pestañas. Pestañas en volumen. Resultados duraderos durante semanas. ¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Centro de Estética Beauty by Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una mirada seductora y atractiva. Reserva tu cita online a través de Bucmi.com. ¡No pasarás desapercibida!", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Volumen Extrem", 
+            "description": "Luce una mirada de infarto gracias a las extensiones de pestañas, colocadas con efecto volumen de 3D a 9D.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial 3 Peeling", 
+            "description": "Tratamiento a base de 3 peeling naturales, limpia, exfolia y detoxifica tu piel en tan solo una sesión, lucirás una piel renovada, iluminada y tersa. ¿Quieres lucir una piel suave y tersa? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Dí adiós a las imperfecciones e impurezas. Disfruta de una piel con mucho más brillo y luminosidad. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "85 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Eve Lom", 
+            "description": "Nuestro tratamiento estrella:Limpieza en profundidad y masaje linfático para descongestionar la piel y eliminar la tensión y el estrés. Después del tratamiento la piel se presentará limpia, luminosa y sentirá una agradable sensación de bienestar. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una piel libre de imperfecciones e impurezas. Disfruta de un cutis mucho más suave e hidratado.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "description": "¿Quieres lucir un rostro cuidado, suave, joven y libre de imperfecciones? Reserva ya esta microdermoabrasión en la que se utiliza punta de diamante con la que presumirás de un cutis envidiable. Ponte en manos de nuestros profesionales que utilizan la mejor aparatología del mercado. Notarás increíbles resultados. Luce una piel suave, hidratada y nutrida. Dí adiós a las imperfecciones e impurezas. Devuelve a tu piel su color y aspecto natural. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Maderoterapia", 
+            "description": "La sesión de maderoterapia empieza con un masaje que permite preparar la piel y remover la grasa acumulada. A continuación, la terapeuta aplica aceites esenciales con propiedades reductores y vuelve a masajear al paciente. Para finalizar,se realiza el masaje con los accesorios de madera como el rodillo liso, rodillo estriado, tabla moldeadora,copa sueca... Suena realmente tentador ¿Verdad? Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Superslimming Reducer", 
+            "description": "Tratamiento Corporal Super Slimming Reducer By Shiseido, masaje manual es un tratamiento concentrado exclusivo de Shiseido que realiza una triple acción: rompe, quema y previene la acumulación de nuevas grasas en el organismo. Este sistema esta formado por las Fast Fighting Capsules (cápsulas que combaten la grasa) y la fragancia SLM. Luce un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad E Iluminador", 
+            "description": "Tratamiento Facial AntiAging e iluminador by Casmara Fórmula unisex para todo tipo de piel, edad y época del año. Indicado para iluminar y unificar el color de la piel. Gracias al alto concentrado en principio activo, proporciona una piel nácar, radiante, luminosa y más joven. Devuelve a tu piel su color y aspecto natural. Tu piel se verá mucho mejor con brillo y luminosidad. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Notarás unos resultados óptimos!", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Renovador Celular", 
+            "description": "Renueva tu piel gracias a este tratamiento que consta de limpieza facial, peeling enzimático, mascarilla oxigenante, ampolla iluminadora, masaje facial activador de colágeno, sérum y crema. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una piel con mucho brillo y luminosidad. Repara e hidrata tu cutis. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará el resultado!", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Corporal Anticelulítico Piernas Slimming", 
+            "description": "Masaje anti-celulítico drenante: tras dejar absorber correctamente el producto aplicado, la esteticista realiza movimientos de renovación venosa (ojo, que no es drenaje linfático). El objetivo es reconducir (eliminar) líquidos estancados entre la celulitis hacia los ganglios, la piel se alisa y gana firmeza. Se suele reducir volumen, el típico tratamiento en el que te miden antes y después de la sesión y comprobar que has reducido de 2 a 4 centímetros (según la zona y el cuerpo de cada una).", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tto Corporal Brazos Reafirma Y Tonifica", 
+            "description": "Gracias a la combinación del masaje manual y maderoterapia como las copas suecas realizamos una técnica en los brazos donde obtenemos resultados desde la primera sesión todo ello junto con la cosmética especifica para deshacer grasa, reafirmar y tonificar. ¿Quieres lucir unos brazos tonificados y una piel tersa? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce una piel tersa y reafirmada. Dí adiós a la grasa localizada. Reserva tu cita ya.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tto Facial Aumento Labios Con Ácido Hialurónico", 
+            "description": "Aumenta el volumen de tus labios de la forma más sencilla y menos dañina. Realizado mediante infiltraciones conseguirás unos labios más carnosos y atractivos. Resultados temporales pero fantásticos. ¿Quieres lucir unos labios voluptuosos? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Disfruta de unos labios carnosos y naturales. Reserva tu cita cómodamente online en Bucmi.com. ¡Potencia tu belleza y siéntete guapa con nosotros!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tto Facial Vitamina C Splendor By Casmara", 
+            "description": "Dejate seducir por uno de nuestros tratamientos estrella,tras realizar la Higiene Facial procederemos con el Tratamiento Iluminador con Vitamina C. Aplicaremos directamente sobre el rostro mediante pincel mariposa la Vitamina C dejándola actuar unos minutos para luego realizar un suave masaje hasta su total absorción. El cutis recupera tersura y luminosidad. Serás la envidia de todas tus amigas! Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial: Face Lift Oriental", 
+            "description": "El Face- lift esta orientado hacia el tratamiento y prevención de las arrugas y la flacidez, a la vez que equilibra a nivel interno debido a la estimulación de las diferentes zonas reflejas en la cara y al drenaje linfático que se realiza. ¿Quieres lucir una piel mucho más tersa y joven? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Disfruta de un piel mucho más tersa y libre de flacidez. Reserva tu cita cómodamente online en Bucmi.com.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tto. Corporal Slim & Detox Reductor", 
+            "description": "Reserva ya este tratamiento corporal Programa Slim & Detox Reductor que combina un exfoliante de sal y aceites esenciales reductor y reafirmante, un masaje manual adelgazante y sesión de maderoterapia cuerpo completo, incluye piernas, abdomen, flancos y brazos. ¡Realza tu figura sin necesidad de pasar por el bisturí! No lo dudes y confía en nuestro cualificado equipo de profesionales. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "299 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto. Facial Anti Aging Efecto Bótox", 
+            "description": "Reserva ya este tratamiento facial Anti Aging efecto Bótox. Gracias a la combinación de los principios activos como el argireline y recoverine, conseguimos en una sesión resultados espectaculares para lucir una piel tersa y llena de vida, limpieza profunda, exfoliante enzimático, peeling natural a base de producto 100% bio, mascarilla, masaje y crema final combinado con radiofrecuencia. ¡Notarás resultados increíbles! Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Expréss", 
+            "description": "Si tienes poco tiempo pero necesitas que tus manos estén impecables, no dudes en pasar por nuestro espacio de belleza para pies y manos, te limamos y esmaltamos en un plis y con las mejores firmas en lacas de uñas como Estee Lauder, Chanel Opi, christian Louboutin. ¿Quieres lucir unas uñas bonitas, cuidadas y perfectas? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Luce unas manos envidiables y unas uñas elegantes. Reserva tu cita ahora.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Manicura Expréss Mujer", 
+            "description": "Presume de manos bonitas y cuidadas. Date un capricho y disfruta de un momento de relajación, disfruta de tu momento. Gracias a nuestro servicio de manicura expréss podrás lucir unas manos con el acabado perfecto, meticulosamente cuidadas. Elige el color de esmalte que deseas y ¡siéntete guapa! El servicio incluye limar, retirar cutículas y esmaltar. Luce unas uñas bonitas y cuidadas. Tus manos son muy importantes y dicen mucho de ti. Mima y cuida tus manos. Reserva tu cita online a través de Bucmi.com.", 
+            "price": "79 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Completa Mujer", 
+            "description": "A veces no comos conscientes de la importancia que cobran nuestros pies en nuestra vida. Disfruta de esta pedicura completa que va más allá de la simple estética. Siente tus pies cuidados, además de bonitos. Notarás la comodidad y belleza. El servicio incluye limar, retirada de cutículas y durezas, exfoliante, masaje hidratante y esmaltado. Luce unas uñas bonitas, cuidadas y perfectas. Prepara tus pies para el verano y lúcelos con esas sandalias que tanto te gustan. Reserva tu cita online en Bucmi.com.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Maderoterapia Corporal", 
+            "description": "Gracias al tratamiento de maderoterapia puedes reducir volumen, drenar, esculpir, tonificar y reafirmar, es un tratamiento que se basa en un masaje realizado a través del uso de instrumentos de madera de diferentes formas, tamaños y diseños. Estos instrumentos se adaptan a distintas partes del cuerpo consiguiendo la estimulación corporal. Luce un cuerpo tonificado y realza tu figura gracias a este tratamiento. Dí adiós a la grasa localizada. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Deportivo Para Piernas", 
+            "description": "Disfruta después de un duro entrenamiento con este masaje para aliviar tus contracturas gracias a nuestro masaje descontracturante. También puedes escoger el masaje deportivo, perfecto para prevenir lesiones, ya sea antes o después del ejercicio. ¿Necesitas relajar tus piernas y eliminar esa sensación de pesadez? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Saldrás renovad@ de nuestro Centro. Reserva tu cita online a través de Bucmi.com.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante Y Aromaterapia", 
+            "description": "El masaje con aromaterapia, combina los beneficios de la aromaterapia con las bondades del masaje terapéutico, entregando en cada masaje relajación y placer, además de excelentes propiedades curativas para ti. Masaje ideado para la relajación total de cuerpo y mente, realizado con técnica de amasamiento sobre espalda cuello y piernas. Relajación de cuerpo y mente, obteniendo así la armonía entre ambos. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "La reflexología es la disciplina que promueve el tratamiento de diversas afecciones a través de masajes en las manos o en los pies. De acuerdo a esta doctrina, los masajes que se aplican en ciertos puntos del cuerpo provocan un reflejo en otras regiones corporales, permitiendo el alivio de un malestar. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "390 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Maderoterapia", 
+            "description": "La sesión de maderoterapia empieza con un masaje que permite preparar la piel y remover la grasa acumulada. A continuación, la terapeuta aplica aceites esenciales con propiedades reductores y vuelve a masajear al paciente. Para finalizar,se realiza el masaje con los accesorios de madera como el rodillo liso, rodillo estriado, tabla moldeadora,copa sueca... Suena realmente tentador ¿Verdad? Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Diseño Y Depilación De Cejas Con Pinzas Mujer", 
+            "description": "Las cejas son un punto clave en la expresión del rostro. En nuestro centro conocemos la importancia de un buen diseño de cejas que más favorezca a tu imagen. Reserva ya este servicio de diseño y depilación de cera con pinza por un precio increíble. Luce una mirada arrebatadora y cautivadora gracias a nuestro diseño de cejas. Nuestros profesionales te asesorarán y adaptarán el diseño a tus facciones. ¡Nuestro equipo se preocupa por tu belleza! Te encantará.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Relajante Y Aromaterapia", 
+            "description": "El masaje con aromaterapia, combina los beneficios de la aromaterapia con las bondades del masaje terapéutico, entregando en cada masaje relajación y placer, además de excelentes propiedades curativas para ti. Masaje ideado para la relajación total de cuerpo y mente, realizado con técnica de amasamiento sobre espalda cuello y piernas. Relajación de cuerpo y mente, obteniendo así la armonía entre ambos. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Nutrición: Consulta Dietética Y Hábitos De Comida", 
+            "description": "¿Necesitas cambiar tus hábitos de vida? Ven a tu Centro de Estética Beauty By Ele & Lash Extension y ponte en manos de nuestros mejores profesionales. Te aconsejarán en todo momento y te darán pautas de como comenzar un estilo de vida saludable. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

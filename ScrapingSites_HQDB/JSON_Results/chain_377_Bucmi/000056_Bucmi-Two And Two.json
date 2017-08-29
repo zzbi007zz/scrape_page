@@ -1,0 +1,109 @@
+{
+    "name": "Bucmi-Two And Two", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=57", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4459800000", 
+    "longitude": "-3.6705100000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/twoandtwo", 
+    "office_number": "915195836", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La Peluquería y Centro de Estética Two and Two situado en el barrio de chamartín en Madrid, ofrece todo tipo de cortes de pelo para que siempre estés a la última. Además realizamos tratamientos corporales de cavitación y presoterapia. ¡Reserva ahora!", 
+    "services": [
+        {
+            "service": "Corte De Pelo Y Peinado Media Melena", 
+            "description": "Atrévete a un cambio de look de la mano de los mejores profesionales, siempre con asesoramiento personalizado. El servicio incluye corte de pelo, lavado con champú específico y peinado.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Piernas Y Espalda", 
+            "description": "¿Cansado después de un día duro de trabajo? ¿Necesitas urgentemente desconectar de tanto estrés? Ven a Two and Two y disfruta de una hora de relajación total.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Y Corte De Pelo Media Melena", 
+            "description": "¿Te apetece darle un toque de color a tu melena? Con nuestras mechas conseguimos un efecto de brillo y luminosidad de la manera más natural. El servicio incluye mechas, lavado con champú específico y corte de pelo.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Y Corte De Pelo Corto", 
+            "description": "Da color a tu pelo o cubre esa raíz tan molesta, gracias a nuestros estilistas conseguirás el color deseado para tu melena. El servicio incluye color, lavado con champú específico y corte de pelo.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Corte De Pelo Largo", 
+            "description": "Da brillo y color a tu pelo de la mano de los mejores estilistas del sector. El servicio incluye color, lavado con champú específico y corte de pelo. No esperes más y reserva ahora online.", 
+            "price": "51 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Corte De Pelo Media Melena", 
+            "description": "El pack más completo de belleza para lucir una melena de infarto. El servicio incluye color, lavado con champú específico y corte de pelo. No esperes más y reserva ahora online.", 
+            "price": "46 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Peinado Media Melena", 
+            "description": "Atrévete a un cambio de look de la mano de los mejores profesionales, siempre con asesoramiento personalizado. El servicio incluye corte de pelo, lavado con champú específico y peinado.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Peinado Pelo Largo", 
+            "description": "Los cortes mejores cortes de pelo en Two and Two. Anímate con un cambio de look de la mano de los mejores profesionales. El servicio incluye corte, lavado con champú específico y peinado.", 
+            "price": "43 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Y Corte De Pelo Largo", 
+            "description": "Cambia tu imagen con nuestras mechas, de la mano de los mejores profesionales del sector de la belleza. El servicio incluye mechas, lavado con champú específico y corte de pelo.", 
+            "price": "63 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Y Corte De Pelo Media Melena", 
+            "description": "¿Te apetece darle un toque de color a tu melena? Con nuestras mechas conseguimos un efecto de brillo y luminosidad de la manera más natural. El servicio incluye mechas, lavado con champú específico y corte de pelo.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Cavitación Y Presoterapia", 
+            "description": "Tratamiento corporal combinando estas dos técnicas (cavitación y presoterapia) para conseguir unos resultados increíbles. Elimina la grasa acumulada y la celulitis tan molesta de tu cuerpo.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Piernas Y Espalda", 
+            "description": "¿Cansado después de un día duro de trabajo? ¿Necesitas urgentemente desconectar de tanto estrés? Ven a Two and Two y disfruta de una hora de relajación total.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

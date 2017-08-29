@@ -1,0 +1,81 @@
+{
+    "name": "Bucmi-The Petit Nail Concept", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=89", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4560895000", 
+    "longitude": "-3.6172371000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/thepetitnailconcept", 
+    "office_number": "917418203", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de estética en Madrid especializado en uñas. Deja que cuidemos de ti y de tus manos. Nos encontramos en el Corte Inglés Campo de las Naciones. Parking gratuito. Podrás encontrar servicios de manicura, pedicura y depilaciones con hilo. ¡Visítanos!", 
+    "services": [
+        {
+            "service": "Pedicura Completa", 
+            "description": "Los cambios de estación, el calor o el estar de pie muchas horas, hacen que nuestros pies sufran y soporten agresiones continuas. Por eso, y también porque uno de nuestros objetivos es cuidarte y mimarte, te ofrecemos una pedicura completa que relajará y embellecerá tus pies. El servicio incluye limado, tratamiento de durezas, cutículas, masaje y esmaltado de CND Vinylux. Luce unas uñas bonitas, cuidadas y perfectas. Presume de pies perfectos durante todo el año. ¡Reserva tu cita en Bucmi.com!.", 
+            "price": "26.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Los cambios de estación, el calor o el estar de pie muchas horas, hacen que nuestros pies sufran y soporten agresiones continuas. Por eso, y también porque uno de nuestros objetivos es cuidarte y mimarte, te ofrecemos una pedicura completa que relajará y embellecerá tus pies. El servicio incluye limado, tratamiento de durezas, cutículas, masaje y esmaltado de CND Vinylux. Luce unas uñas bonitas, cuidadas y perfectas. Presume de pies perfectos durante todo el año. ¡Reserva tu cita en Bucmi.com!.", 
+            "price": "26.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Completa Permanente Shellac", 
+            "description": "Limpiamos los pies en agua tibia, higienizamos las manos y los pies del cliente, retiramos el esmalte sin necesidad de limar, eliminamos la cutícula, limamos la uña, eliminamos las durezas si es necesario, empujamos la cutícula, secamos el pie, restauramos los talones y la planta del pie, aplicamos el aceite hidratante para uña y cutícula para prevenir la aparición de cutícula y padrastros, realizamos un masaje hidratante y esmaltamos con uno de nuestros más de 40 tonos de CND Shellac. ¡Te encantará!.", 
+            "price": "37.60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Las manos son el reflejo de uno mismo. El servicio incluye el limado de la uña para conseguir la forma deseada, retirada de cutículas para el cuidado de tu uña y esmaltado dentro de una amplia variedad de colores de CND Vinylux. ¡Reserva ya este servicio y ponte en manos de nuestros mejores profesionales! Utilizamos productos de calidad. ¡No lo dudes, porque unas manos cuidadas dirán mucho de ti!.", 
+            "price": "33.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente Shellac", 
+            "description": "Higienizamos las manos del cliente y la manicurista, retiramos el esmalte sin necesidad de limar, limamos y damos forma a la uña, eliminamos la cutícula de la placa de la uña, humedecemos ligeramente la uña con una solución jabonosa para eliminar el exceso de producto, preparamos la uña para una perfecta adhesión del esmalte, esmaltamos con uno de nuestros mas de 40 tonos de CND Shellac, aplicamos el aceite hidratante para uña y cutícula y realizamos un masaje hidratante. ¡Te encantará!", 
+            "price": "33.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cejas Con Hilo", 
+            "description": "La depilación con hilo es una técnica milenaria procedente de la India con muchísimas ventajas: menos dolorosa que las técnicas tradicionales, permite un perfilado mejor de las cejas por lo que tienen una forma mas definida, proceso totalmente natural sin el uso de ningún producto, únicamente hilo de algodón, no es agresivo con la piel, arranca el pelo de raíz sin estirar el músculo por lo que evita descolgamientos. Al arrancar el pelo de raíz lo debilita retrasando su aparición. ¡Reserva ya en Bucmi!.", 
+            "price": "47 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Hilo Rostro Completo", 
+            "description": "¡Luce un rostro libre de vello! La depilación con hilo es una técnica milenaria procedente de la India con muchísimas ventajas: menos dolorosa que las técnicas tradicionales, proceso totalmente natural sin el uso de ningún producto únicamente hilo de algodón, no es agresivo con la piel, arranca el pelo de raíz sin estirar el músculo por lo que evita descolgamientos. Al arrancar el pelo de raíz lo debilita retrasando su aparición. ¡Reserva ya en Bucmi! ¡Te encantará!.", 
+            "price": "18.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Labio Superior", 
+            "description": "La depilación con hilo es una técnica milenaria procedente de la India con muchísimas ventajas: menos dolorosa que las técnicas tradicionales, proceso totalmente natural sin el uso de ningún producto únicamente hilo de algodón, no es agresivo con la piel, arranca el pelo de raíz sin estirar el músculo por lo que evita descolgamientos. Al arrancar el pelo de raíz lo debilita retrasando su aparición. ¡Reserva ya en Bucmi y notarás los resultados!.", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

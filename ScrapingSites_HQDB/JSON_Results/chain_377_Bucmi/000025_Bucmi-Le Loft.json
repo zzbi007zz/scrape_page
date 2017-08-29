@@ -1,0 +1,158 @@
+{
+    "name": "Bucmi-Le Loft", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=26", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4298293000", 
+    "longitude": "-3.6776560000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/leloft", 
+    "office_number": "913092955", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En el número 48 de la calle José Ortega y Gasset en el corazón del Barrio de Salamanca, se encuentra Le Loft, salón regentado por Vladimir. Este exclusivo salón de peluquería cuenta con un equipo de jóvenes profesionales especialistas en estilismos y cambios de imagen, que ofrecen tratamientos especializados para el cuidado del cabello. Ejemplos son el replumping, a base de productos ricos en fitocéuticos extraídos de la ciruela para ayudar a hidratar y darle más brillo y cuerpo al cabello seco, y de tinte con Biocomply, la coloración 100% natural.", 
+    "services": [
+        {
+            "service": "Mechas Sin Amoniaco, Lavado Spa, Cortar Y Peinar", 
+            "description": "Un completo pack de tratamientos de peluquería pensado para redefinir la forma del pelo y su color, de la mano de los mejores estilistas y los cosméticos de peluquería de la marca Davines. Incluye aplicación de mechas en un color sin amoniaco, lavado Spa con champú, acondicionador y masaje, corte de pelo asesorado y peinado aplicando productos de acabado. No incluye mechas balayage, babylight o californianas. Válido para todos los largos de pelo.", 
+            "price": "49.90 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Color Sin Amoniaco, Lavado Spa, Cortar Y Peinar", 
+            "description": "Este pack es mucho más que un tratamiento de peluquería, es todo un ritual de cambio y cuidado del pelo. Incluye coloración en un color de la marca Davines, lavado Spa realizado con champú, acondicionador y masaje, corte de pelo asesorado por los estilistas de Le Loft y peinado para un acabado perfecto. El resultado es un nuevo look y un pelo sano, ya que el tinte no lleva amoniaco. Válido para todos los largos de pelo.", 
+            "price": "49.90 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color,Tratamiento Bótox,Corte,Peinado Y Mucho Mas", 
+            "description": "El servicio incluye tinte sin amoniaco,esmaltado de brillo, ritual spa relax, , tratamiento Bótox capilar efecto lifting,corte en tendencia y peinado con definición del cabello para que salgas perfecta de nuestro salón. Todos los productos que utilizamos para el cuidado de tu melena son de la marca Davines.", 
+            "price": "49.90 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas,Bótox Capilar Corte,Peinado Y Mucho Mas...", 
+            "description": "El servicio incluye mechas ,matizador, ritual spa relax,, bótox efecto lifting,corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales y peinado. Todos los productos que utilizamos para el cuidado del cabello son de la marca Davines. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "49.90 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Mechas Californianas,Tto De Bótox, Corte,Peinar", 
+            "description": "El servicio incluye,mechas californianas o balayage,Matizador, ritual Spa relax, Bótox efecto lifting,corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales y peinado. Todos los productos que utilizamos para el cuidado de tu melena son de la marca Davines. No esperes más y reserva ahora tu cita online.", 
+            "price": "113 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Tto Bótox Capilar, Corte Y Peinado", 
+            "description": "Tratamiento de bótox capilar con efecto lifting reparador del pelo. Incluye el lavado con champú y también el peinado con definición del cabello. Tu pelo está sedoso y brillante gracias a Le Loft. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "98 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Sin Amoniaco, Lavado Spa, Cortar Y Peinar", 
+            "description": "Un completo pack de tratamientos de peluquería pensado para redefinir la forma del pelo y su color, de la mano de los mejores estilistas y los cosméticos de peluquería de la marca Davines. Incluye aplicación de mechas en un color sin amoniaco, lavado Spa con champú, acondicionador y masaje, corte de pelo asesorado y peinado aplicando productos de acabado. No incluye mechas balayage, babylight o californianas. Válido para todos los largos de pelo.", 
+            "price": "79.9 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Color Sin Amoniaco, Lavado Spa, Cortar Y Peinar", 
+            "description": "Este pack es mucho más que un tratamiento de peluquería, es todo un ritual de cambio y cuidado del pelo. Incluye coloración en un color de la marca Davines, lavado Spa realizado con champú, acondicionador y masaje, corte de pelo asesorado por los estilistas de Le Loft y peinado para un acabado perfecto. El resultado es un nuevo look y un pelo sano, ya que el tinte no lleva amoniaco. Válido para todos los largos de pelo.", 
+            "price": "79.9 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color,Tratamiento Bótox,Corte,Peinado Y Mucho Mas", 
+            "description": "El servicio incluye tinte sin amoniaco,esmaltado de brillo, ritual spa relax, , tratamiento Bótox capilar efecto lifting,corte en tendencia y peinado con definición del cabello para que salgas perfecta de nuestro salón. Todos los productos que utilizamos para el cuidado de tu melena son de la marca Davines.", 
+            "price": "79.9 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "Incluye lavado ritual SPA para relajarte de la mano de los mejores profesionales mientras aclaramos tu melena. Incluye un corte de tendencia para mujer, para depurar tu look y tu estilo. El servicio no incluye el peinado. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peinado", 
+            "description": "Incluye lavado con 'ritual spa' para que te relajes. Después de preparar tu cabello con el lavado, peinaremos con definición tu melena para que salgas realmente guapa de la peluquería. Si tu melena es extralarga consulta posible suplemento en el salón. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "113 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas,Bótox Capilar Corte,Peinado Y Mucho Mas...", 
+            "description": "El servicio incluye mechas ,matizador, ritual spa relax,, bótox efecto lifting,corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales y peinado. Todos los productos que utilizamos para el cuidado del cabello son de la marca Davines. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "98 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Color", 
+            "description": "El color utilizado es sin amoniaco a base de aceites tratantes. El servicio incluye lavado 'ritual SPA', consiste en el lavado de tu melena masajeando tu cabeza en nuestro espacio dedicado a este efecto para evitar cualquier ruido y relajarte. No incluye el peinado de la melena. Servicio válido para todo tipo de largos realizado con productos Davines.", 
+            "price": "79.9 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Matizador", 
+            "description": "Servicio de mechas californianas sin amoniaco a base de aceites tratantes+matizador. Incluye lavado 'Ritual Spa' pero no incluye el peinado con definición. Disfruta del look de moda gracias a nuestros estilista de Le Loft. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Californianas,Tto De Bótox, Corte,Peinar", 
+            "description": "El servicio incluye,mechas californianas o balayage,Matizador, ritual Spa relax, Bótox efecto lifting,corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales y peinado. Todos los productos que utilizamos para el cuidado de tu melena son de la marca Davines. No esperes más y reserva ahora tu cita online.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Completo", 
+            "description": "Servicio de keratina vegetal para eliminar por una larga temporada el encrespamiento del pelo, aportará nutrición. Incluye el lavado, el tratamiento keratina vegetal y secado natural. Importante: Avisar con 15 días de antelación, no realizamos este servicio en vísperas de festivos.", 
+            "price": "79.9 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Mechas", 
+            "description": "Mechas, reflejos, babylights sin amoniaco a base de aceites tratantes... ¡Escoge las que más te gusten! Incluye lavado'ritual spa' pero no incluye el peinado de la melena. Dale un toque de luz a tu melena de la mano de los mejores profesionales. Utilizamos productos Davines.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto Bótox Capilar, Corte Y Peinado", 
+            "description": "Tratamiento de bótox capilar con efecto lifting reparador del pelo. Incluye el lavado con champú y también el peinado con definición del cabello. Tu pelo está sedoso y brillante gracias a Le Loft. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Completo", 
+            "description": "Servicio de keratina vegetal para eliminar por una larga temporada el encrespamiento del pelo, aportará nutrición. Incluye el lavado, el tratamiento keratina vegetal y secado natural. Importante: Avisar con 15 días de antelación, no realizamos este servicio en vísperas de festivos.", 
+            "price": "79.9 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }
+    ]
+}

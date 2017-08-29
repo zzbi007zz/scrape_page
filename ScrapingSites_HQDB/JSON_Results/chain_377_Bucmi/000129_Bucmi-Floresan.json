@@ -1,0 +1,116 @@
+{
+    "name": "Bucmi-Floresan", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=31", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4036417000", 
+    "longitude": "2.1980324999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/floresan", 
+    "office_number": "618523012", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Tú Salón de Belleza en el centro de Barcelona. Profesionales en el sector de la estética, especializados en manicuras, pedicuras, o depilaciones. Te trataremos como te mereces para que salgas encantado. Ven a visitarnos.", 
+    "services": [
+        {
+            "service": "Depilación Pierna Completa", 
+            "description": "Despídete de los pantalones en los próximos meses y da la bienvenida a los fabulosos vestidos con unas piernas lisas y brillantes. Reserva tu cita ya en Floresan y disfruta de tu piel cuidada y sin los molestos pelitos. Además ponemos a tu disposición varios tipos de cera para que puedas elegir la que más te guste. Querrás repetir.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Si dispones de tiempo y quieres prepararte para esa cita tan especial, reserva tu cita ya en Floresan. Nuestros profesionales te realizarán este servicio de manicura completa que consta de limado en la forma deseada, retirada de cutículas, hidratación y esmaltado del color que más te guste de nuestra amplia gama. Si te gusta el acabado en francesa, tendrá un recargo de 2€ a pagar en el centro. Querrás repetir", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Completa Shellac", 
+            "description": "Si quieres un resultado para tu pedicura mucho más duradero, opta sin dudar por el esmaltado Shellac, reserva tu cita ya y escoge el color que más te guste. Será sin dudarlo un resultado brillante y duradero, para poder lucir una pedicura perfecta durante semanas.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Limpieza De Cutis", 
+            "description": "Desmaquillarse a diario no es suficiente. Nuestra piel contiene impurezas derivadas de cremas, maquillajes, o incluso del mismo ambiente , por lo que es necesario realizarse una limpieza de cutis en determinadas ocasiones. Una piel perfecta en tan solo un clic.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Express", 
+            "description": "Si te surgen planes improvisados y necesitas un esmaltado urgente, estas en el centro adecuado, en Floresan ponemos a tu disposición el servicio de manicura express que en pocos minutos podrás lucir unas manos bonitas y más cuidadas para estar perfecta. El acabado francesa tendrá un recargo de 2€, a pagar en el centro.No te arrepentirás.", 
+            "price": "7 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "En Floresan le dedicamos tiempo a los más olvidados. Nuestro equipo mimará tus pies para que queden perfectos para lucir en la temporada más calurosa.El servicio se compone de limado de la uña de la forma deseada, cuidado de durezas, hidratación y esmaltado del color que más te guste. El acabado francesa tendrá un recargo de 2€ a pagar en el centro.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Completa Shellac Francesa", 
+            "description": "Si quieres olvidarte del cuidado de tus pies por un tiempo, tenemos para ti el servicio que necesitas. En nuestro centro, el equipo te mimará para que presumas de una pedicura perfecta durante semanas. con el acabado más clásico, una pedicura con finalización en francesa. Querrás repetir. Reserva tu cita ya.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Express", 
+            "description": "Después de la temporada del frio es hora de quitarse los zapatos y disfrutar. En Floresan te ofrecemos la pedicura express para que puedas presumir de esmaltado en pocos minutos y muy cerca de ti. El servicio consiste en el limado de la uña natural de la forma deseada y esmaltado del color que te apetezca de nuestra amplia gama.El acabado francesa tendrá un recargo de 2€ a pagar en el centro.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Si dispones de tiempo y quieres prepararte para esa cita tan especial, reserva tu cita ya en Floresan. Nuestros profesionales te realizarán este servicio de manicura completa que consta de limado en la forma deseada, retirada de cutículas, hidratación y esmaltado del color que más te guste de nuestra amplia gama. Si te gusta el acabado en francesa, tendrá un recargo de 2€ a pagar en el centro. Querrás repetir", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Completa Shellac", 
+            "description": "Si quieres un resultado para tu pedicura mucho más duradero, opta sin dudar por el esmaltado Shellac, reserva tu cita ya y escoge el color que más te guste. Será sin dudarlo un resultado brillante y duradero, para poder lucir una pedicura perfecta durante semanas.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Ingles Brasileñas", 
+            "description": "Para la temporada estival lúcete siempre perfecta y sin un pelito de más. Reserva tu cita ya en nuestro centro y elige el tipo de cera que mejor se adapte a tus gustos. Di adiós a los molestos pelitos durante semanas. Querrás repetir.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Labio Superior", 
+            "description": "Di adios a los horribles pelitos del labio superior reservando cita ya en Floresan. Nuestro equipo pone a tu disposicion varios tipo de cera, para que puedas elegir la que mejor se adapte a tus gustos y preferencias. No te lo pierdas.", 
+            "price": "5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Pierna Completa", 
+            "description": "Despídete de los pantalones en los próximos meses y da la bienvenida a los fabulosos vestidos con unas piernas lisas y brillantes. Reserva tu cita ya en Floresan y disfruta de tu piel cuidada y sin los molestos pelitos. Además ponemos a tu disposición varios tipos de cera para que puedas elegir la que más te guste. Querrás repetir.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

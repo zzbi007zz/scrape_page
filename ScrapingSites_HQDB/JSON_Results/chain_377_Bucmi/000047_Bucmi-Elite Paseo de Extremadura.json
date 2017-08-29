@@ -1,0 +1,207 @@
+{
+    "name": "Bucmi-Elite Paseo de Extremadura", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=48", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4104323000", 
+    "longitude": "-3.7363482000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/elite", 
+    "office_number": "914702327", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de Peluquería y belleza situado en el Paseo de Extremadura, donde te ofrecemos una gama de productos exclusivos y de calidad. Trato personalizado con cada cliente, somos un centro como los de toda la vida... De tú a tú.", 
+    "services": [
+        {
+            "service": "Corte Mujer Pelo Largo", 
+            "description": "Ya no se lleva el pelo largo, sigue las nuevas tendencias de moda y ven a nuestro salón. Te aconsejarán los mejores profesionales. El servicio incluye cortar, lavar y peinar.", 
+            "price": "21.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Y Corte Mujer Pelo Largo", 
+            "description": "Disfruta de este estupendo pack que incluye lavado de pelo, corte de pelo y mechas realizadas con papel de plata. Este servicio es para pelo largo. El acondicionador no va incluido y se abonaría en el salón, 2 euros.", 
+            "price": "50.40 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tinte Y Moldeador De Pestañas", 
+            "description": "Luce unas pestañas perfectas con un tinte de pestañas y moldeador permanente de pestañas. Tú mirada más intensa y pestañas más negras...", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Limpieza con velo de colágeno. Incluye desmaquillado con extracción, ionización y colágeno natural más masaje con crema de caviar. Una limpieza muy completa.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Completo Y Peinado Corto", 
+            "description": "¿Quiéres peinar y cortar tu pelo?¿ No sabes dónde? No dudes más... Incluye: lavado del cabello, coloración completa en cabello corto y peinado.", 
+            "price": "23.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Pelo Medio", 
+            "description": "En nuestra peluquería cuidamos de tu pelo y damos color. Incluye lavado y tinte para tu media melena. El acondicionador no va incluido en el precio y tiene un suplemento de 2 euros que se abonaría en el salón.", 
+            "price": "25.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte Mujer Pelo Corto", 
+            "description": "Ven a nuestra pelu y confía en nuestros profesionales parav realizarte el corte de pelo, con el que vas a estar ideal sin duda. Incluye lavado y corte en pelo corto y para terminar, peinamos.", 
+            "price": "18.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Mujer Pelo Largo", 
+            "description": "Ya no se lleva el pelo largo, sigue las nuevas tendencias de moda y ven a nuestro salón. Te aconsejarán los mejores profesionales. El servicio incluye cortar, lavar y peinar.", 
+            "price": "21.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Californianas Corto Y Peinado", 
+            "description": "Si quieres dar un efecto a tú pelo tocado por el sol, puedes conseguirlo con estas mechas californianas y peinado. Te irás ideal... El acondicionador no va incluído y tiene un suplemento de dos euros que se abona en el salón. Servicio para cabello corto.", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Californianas Largo Y Peinado", 
+            "description": "Si quieres dar un efecto a tú pelo tocado por el sol, puedes conseguirlo con estas mechas californianas y peinado. Te irás ideal... El acondicionador no va incluído y tiene un suplemento de dos euros que se abona en el salón. Servicio para cabello largo.", 
+            "price": "43.20 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas De Plata Y Peinado Largo", 
+            "description": "En nuestra peluquería puedes confiar... Ven y realízate unas mechas con papel de plata del color que elijas y después nosotras peinamos tu cabello largo. El acondicionador no va incluido, tiene un suplemnto de dos euros que se abona en el salón.", 
+            "price": "43.20 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas De Plata Y Peinar Corto", 
+            "description": "Reserva y realízate unas mechas con papel de plata del color que elijas y después nosotras peinamos tu cabello corto. El acondicionador no va incluido, tiene un suplemnto de dos euros que se abona en el salón.", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Peine O Gorro Cabello Medio/Largo", 
+            "description": "El servicio incluye las mechas,lavar y peinar cabello medio o largo. Opta por dar luz a tu cabello con estas mechas realizadas con gorro o peine. El acondicionador tiene un suplemento de dos euros.", 
+            "price": "40.80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Peine O Gorro Pelo Corto", 
+            "description": "El servicio incluye las mechas,lavar y peinar cabello medio o largo. Opta por dar luz a tu cabello con estas mechas realizadas con gorro o peine. El acondicionador no va incluido en el precio y tiene un suplemento de dos euros.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Y Corte Mujer Pelo Medio", 
+            "description": "Disfruta de este estupendo pack que incluye lavado, corte de pelo y mechas de plata. Este servicio es para pelo corto o medio. El acondicionador no está incluido y tiene un suplemento de dos euros, que se abona en el salón.", 
+            "price": "43.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Y Corte Mujer Pelo Largo", 
+            "description": "Disfruta de este estupendo pack que incluye lavado de pelo, corte de pelo y mechas realizadas con papel de plata. Este servicio es para pelo largo. El acondicionador no va incluido y se abonaría en el salón, 2 euros.", 
+            "price": "50.40 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Mujer Pelo Medio", 
+            "description": "Ven a nuestra pelu y confía en nuestros profesionales para realizarte ese corte de pelo, estarás ideal sin duda. Incluye lavado y corte en pelo medio y para terminar, peinamos.", 
+            "price": "20.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Pelo Largo", 
+            "description": "Si ves que el color de tu cabello pierde vida, puedes resolverlo en nuestra Peluquería. Este servicio incluye: lavado del cabello, coloración completa y peinado.", 
+            "price": "26.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tinte Y Moldeador De Pestañas", 
+            "description": "Luce unas pestañas perfectas con un tinte de pestañas y moldeador permanente de pestañas. Tú mirada más intensa y pestañas más negras...", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Limpieza con velo de colágeno. Incluye desmaquillado con extracción, ionización y colágeno natural más masaje con crema de caviar. Una limpieza muy completa.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Disfruta de una manicura permanente a un precio genial... Incluye limado de uñas, retirar cutículas, hidratación y esmaltado del color que más te guste. Si optas por francesa, tiene un suplemento de dos euros que se abona en el salón.", 
+            "price": "12.80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Medias Piernas", 
+            "description": "Si eres de las que le gustan las técnicas clásicas... Depilamos con cera tibia tus piernas, zona medias piernas, la técnica más tradicional. Elimina el vello con nosotros.", 
+            "price": "12.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Zona Pequeña", 
+            "description": "Depilamos con cera caliente tú zona pequeña, la técnica más tradicional. Elimina el vello con nosotros.", 
+            "price": "4.80 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación De Ingles Brasileñas", 
+            "description": "Depilamos con cera caliente tus ingles brasileñas, la técnica más tradicional. Elimina el vello con nosotros de ingles y un poquito más y olvídate de usar cuchilla...", 
+            "price": "11.20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación De Ingles Normales", 
+            "description": "Depilamos con cera caliente tus ingles, la técnica más tradicional. Elimina el vello con nosotros y olvídate de usar cuchilla...", 
+            "price": "7.20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilacion Piernas Completas", 
+            "description": "Si eres de las que le gustan las técnicas clásicas... Depilamos con cera tibia, elimina el vello con nosotros de piernas enteras.", 
+            "price": "18.40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

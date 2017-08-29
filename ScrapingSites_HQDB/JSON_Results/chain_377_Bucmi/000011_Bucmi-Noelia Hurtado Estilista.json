@@ -1,0 +1,130 @@
+{
+    "name": "Bucmi-Noelia Hurtado Estilista", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=12", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4233267000", 
+    "longitude": "-3.6765431999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/noelia-hurtado", 
+    "office_number": "914354640", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La Peluquería Noelia Hurtado Estilista está situada en el barrio de Goya. Ofrece todo tipo de cortes de pelo asesorados. Pertencemos a la red de salones L'Oréal Professionnel y utilizamos productos de la misma marca y otras de gran calidad como INOA.", 
+    "services": [
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "Con nuestro servicio Cut&Go podrás darle forma a tu look en una breve visita a nuestro salón. Este servicio incluye lavado con champú y mascarilla, además de un masaje, el corte de pelo y un secado exprés para quitar humedad. No incluye peinado (si se desea se pagará a parte en el centro). Válido para todo largo de pelo de mujer.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Hombre A Tijera", 
+            "description": "El corte a tijera para hombre también es una de nuestras especialidades. Si reservas este servicio online, durante tu visita te realizaremos un lavado con champú y masaje, un corte de pelo a tijera según tus preferencias y aplicaremos cera o gomina.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Maquillaje Día O Noche", 
+            "description": "¿Te vas de fiesta? Si tienes una ocasión o celebración especial en la que quieres estar perfecta no dejes nada al azar. Reserva online tu sesión de maquillaje y los mejores make up artists se pondrán a tu disposición para sacarle todo el partido a tu rostro, ojos, pestañas... ¡serás la mejor versión de ti misma! No te pierdas nuestros increíbles precios y pide cita ya.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Completas 1 Color", 
+            "description": "Las mechas pueden ser el punto de luz que le hace falta a tu pelo para volver a enamorarte de tu look. Si reservas este servicio disfrutaras de la aplicación de mechas en 1 color en toda la cabeza, un lavado completo (champú, mascarilla y masaje) y un secado exprés. No incluye peinado (si se desea se pagará a parte en el centro). Válido para todo largo de pelo de mujer.", 
+            "price": "48 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Retoque de Mechas 1 Color", 
+            "description": "Si notas que tus mechas han perdido fuerza en Noelia Hurtado Estilista te ayudamos a recuperarla con nuestro servicio de retoque de mechas. Incluye la aplicación de mechas, el lavado completo (champú, mascarilla y masaje) y secado para quitar humedad. No incluye peinado (si se desea se pagará a parte en el centro). Válido para todo largo de pelo de mujer.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color", 
+            "description": "Reaviva el magnetismo de tu pelo retocando tu color. El servicio de tinte incluye la aplicación de color, el lavado completo (champú, mascarilla y masaje) y un secado al aire para quitar humedad. No incluye peinado (si se desea se pagará a parte en el centro). Válido para todo largo de pelo de mujer.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Inoa", 
+            "description": "Si eres exigente con el cuidado de tu pelo nuestro servicio de color INOA te encantará. Nuestros profesionales te aplicaran el color INOA que elijas, después te lavarán el pelo con champú, mascarilla y masaje, y finalizarán realizando un secado exprés para quitar humedad. No incluye peinado (si se desea se pagará a parte en el centro). Válido para todo largo de pelo de mujer.", 
+            "price": "34 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "Con nuestro servicio Cut&Go podrás darle forma a tu look en una breve visita a nuestro salón. Este servicio incluye lavado con champú y mascarilla, además de un masaje, el corte de pelo y un secado exprés para quitar humedad. No incluye peinado (si se desea se pagará a parte en el centro). Válido para todo largo de pelo de mujer.", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Hombre A Máquina", 
+            "description": "Dale un aire diferente a tu peinado con este corte de pelo. Si te gusta más la rapidez y precisión con máquina, también puedes reservar el corte de pelo a máquina. Servicio específico para hombre. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Hombre A Tijera", 
+            "description": "El corte a tijera para hombre también es una de nuestras especialidades. Si reservas este servicio online, durante tu visita te realizaremos un lavado con champú y masaje, un corte de pelo a tijera según tus preferencias y aplicaremos cera o gomina.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Recogido Fiesta", 
+            "description": "¿Tienes una ocasión especial? ¿Vas a una fiesta? ¿O simplemente quieres estar guapa y bien peinada? En Noelia Hurtado te preparamos para cualquier momento y sacamos la mejor versión de ti misma. Tú escoges. Reserva tu cita online.", 
+            "price": "48 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Y Peinado Media Melena", 
+            "description": "Consigue más brillo, cuerpo y un tacto sedoso en tu pelo con nuestro tratamiento de keratina. Consiste en la aplicación de un champú y una mascarilla específicos basados en la keratina, que dejamos en exposición durante un tiempo para que penetre en profundidad en el pelo, lo retiramos y finalizamos con un peinado con plancha. Para pelo extralargo o muy denso se deberá pagar un extra en el centro (consulta con nuestros profesionales).", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Maquillaje Día O Noche", 
+            "description": "¿Te vas de fiesta? Si tienes una ocasión o celebración especial en la que quieres estar perfecta no dejes nada al azar. Reserva online tu sesión de maquillaje y los mejores make up artists se pondrán a tu disposición para sacarle todo el partido a tu rostro, ojos, pestañas... ¡serás la mejor versión de ti misma! No te pierdas nuestros increíbles precios y pide cita ya.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Normal", 
+            "description": "Consigue una manicura perfecta de la mano de los mejores profesionales. El servicio incluye limado de las uñas, retirada de cutículas y esmaltado del color que prefieras a elegir entre na amplia gama o francesa. No esperes más y reserva ahora tu cita cómodamente online con Bucmi.com.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Y Peinado Media Melena", 
+            "description": "Consigue más brillo, cuerpo y un tacto sedoso en tu pelo con nuestro tratamiento de keratina. Consiste en la aplicación de un champú y una mascarilla específicos basados en la keratina, que dejamos en exposición durante un tiempo para que penetre en profundidad en el pelo, lo retiramos y finalizamos con un peinado con plancha. Para pelo extralargo o muy denso se deberá pagar un extra en el centro (consulta con nuestros profesionales).", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }
+    ]
+}

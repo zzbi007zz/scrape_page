@@ -1,0 +1,277 @@
+{
+    "name": "Bucmi-Fernand Vero", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=32", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4056883000", 
+    "longitude": "2.1742676000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/fernandvero", 
+    "office_number": "934330542", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Salón de belleza para hombre, mujer o niños, nuestro equipo pone a su disposición su experiencia, afición y buen humor para ayudarle a encontrar tu corte ideal, color, alisados, manicuras, pedicuras. Estamos ubicados en el barrio de La Sagrada Familia.", 
+    "services": [
+        {
+            "service": "Color Elumen Y Peinado Corto", 
+            "description": "Tratamiento de color sin amoniaco compuesto por un pigmento de color bastante permanente recomendado por nuestros peluqueros y estilistas de Fernand Vero. Este servicio que te proponemos incluye lavado con champú, color asesorado ELUMEN y peinado para pelo corto consiguiendo un resultado perfecto. ¡Te encantará, no podrás dejar de mirarte!", 
+            "price": "41.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Déjate asesorar por nuestros profesionales y haz un corte moderno o tradicional de acuerdo con lo que deseas y teniendo en cuentas tus las facciones de tu rostro. Además, lavaremos tu pelo con un ligero masaje craneal y peinaremos con productos de acabado. Ven a vernos a nuestro centro Fernand Vero, ¡reserva ya tu cita con nuestros profesionales!", 
+            "price": "136.25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Esmaltado Permanente", 
+            "description": "Servicio ideal para que no te preocupes por la belleza de tus manos durante más tiempo. Ven a vernos a nuestro centro Fernand Vero, conseguiremos una manicura perfecta. El servicio incluye cortar uñas, lima, tratamiento cutículas, crema, y esmaltado permanente a elegir entre nuestra gama de esmaltes permanentes. ¡Te encantará!", 
+            "price": "87.25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "Déjate asesorar por nuestros profesionales y cambia de look para lucir más guapa. En Fernand Vero tenemos en cuenta las facciones de tu rostro para conseguir el corte perfecto. El servicio incluye un corte asesorado y lavado de la melena. Se realiza un secado para quitar un poco la humedad, no está incluido el peinado. ¡Te encantará el resultado!", 
+            "price": "600.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte Elumen Color Fantasía Y Peinado Pelo Largo", 
+            "description": "El servicio consiste en la aplicación de un tinte especial Elumen de Fernand Vero sin amoniaco compuesto por un pigmento de color bastante permanente recomendado por nuestros peluqueros de color fantasía. Además incluye el lavado con champú específico, una decoloración, si necesitarás más de una decoloración consulta posible suplemento, y por último el tinte de color y secado para pelo largo. Si tu pelo es extralargo consulta posible suplemento. Reserva ya tu cita, ¡te encantará el resultado!", 
+            "price": "63.50 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color Elumen Y Peinado Largo", 
+            "description": "Consigue una coloración perfecta y brillante gracias al color ELUMEN de Fernand Vero sin amoniaco compuesto por un pigmento de color bastante permanente recomendado por nuestros peluqueros de Fernand Vero. Además, incluye lavado con champú y acondicionador y peinado con definición. Si tienes el pelo extralargo consulta suplemento con el profesional. ¡Te encantará, no podrás dejar de mirarte!", 
+            "price": "41.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones Great Lenghts (100 Extensiones)", 
+            "description": "¿Quieres lucir un pelo largo con volumen? Ven a nuestro centro Fernand Vero y ponte en las manos de nuestros especialistas en extensiones. Disfruta de este pack de 80 extensiones individuales de la marca Great Lenghts, para alargar tu melena. En caso de que tengas mucho volumen, consulta con el profesional por posible suplemento. ¡Te encantará el resultado!", 
+            "price": "448.00 €", 
+            "service_category": null, 
+            "duration": "210 min"
+        }, 
+        {
+            "service": "Color Elumen Y Peinado Media Melena", 
+            "description": "Tratamiento de color sin amoniaco compuesto por un pigmento de color que dura durante meses y que está recomendado por nuestros estilsitas expertos de Fernand Vero. Además del color Elumen asesorado incluye, lavado con champú y peinado para media melena. Se considera que el cabello media melena es hasta altura de los hombros. ¡Te encantará, no podrás dejar de mirarte!", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Elumen Y Peinado Corto", 
+            "description": "Tratamiento de color sin amoniaco compuesto por un pigmento de color bastante permanente recomendado por nuestros peluqueros y estilistas de Fernand Vero. Este servicio que te proponemos incluye lavado con champú, color asesorado ELUMEN y peinado para pelo corto consiguiendo un resultado perfecto. ¡Te encantará, no podrás dejar de mirarte!", 
+            "price": "132.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pelo Natural (80 Extensiones)", 
+            "description": "¿Quieres lucir un pelo largo con volumen? Ven a nuestro centro Fernand Vero y ponte en las manos de nuestros especialistas en extensiones. El servicio consiste en la puesta de 80 mechones de pelo natural para aumentar el volumen o largura de tu pelo realizado con ultrasonido. En caso de que tengas mucho volumen, consulta con el profesional por posible suplemento. ¡Te encantará el resultado!", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Reconstructor Y Secado", 
+            "description": "¿Tu pelo está seco y débil? ¿Ya no tiene la suavidad y el brillo que tenía? Ven a nuestro centro Fernand Vero y recupera tu melena de las manos de los mejores profesionales. El servicio incluye una sesión en el que se realizará un tratamiento reconstructor del cabello a través de varios pasos de mascarillas hidratantes y ampollas. Por último se realizará el secado. Reserva ya tu cita, ¡te encantará el resultado!", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina", 
+            "description": "¡Ponle freno a la rebeldía de tu pelo! El servicio que conseguirá que tengas un pelo sin encrespamiento, brillante y sano. Este servicio que te proponemos en Fernand Vero incluye: lavado con champú y acondicionador, tratamiento alisador de Keratina y secado 'brushing' de la melena. Reserva tu cita y, ¡consigue un resultado espectacular!", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Alisado Japonés", 
+            "description": "¡Olvídate del secado y la plancha que dañan y debilitan tu pelo! Prueba esta técnica japonesa para conseguir un alisado permanente, realizado por los mejores profesionales de Fernand Vero, incluye: lavado con champú y acondicionador, el tratamiento de alisado japones y secado express de la melena. Reserva tu cita, ¡gana la batalla al encrespamiento y consigue un pelo liso!", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color De Pelo Y Secado Media Melena", 
+            "description": "El servicio consiste en aplicación de un tinte de color a elegir y asesorado por nuestros profesionales del centro Fernand Vero. Este servicio que te ofrecemos incluye el lavado del pelo con champú específico, el color, y por último el secado para media melena. Se considera que media melena es hasta altura de los hombros. Ven a vernos, reserva ya tu cita, ¡un pelo brillante como nuevo!", 
+            "price": "132.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color De Pelo Y Secado Pelo Corto", 
+            "description": "El servicio consiste en aplicación de un tinte de color a elegir y asesorado por nuestros profesionales del centro Fernand Vero. Este servicio que te ofrecemos incluye el lavado del pelo con champú específico, el color, y por último el secado para pelo corto. Ven a vernos, reserva ya tu cita, ¡un pelo brillante como nuevo!", 
+            "price": "51.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color De Pelo Y Secado Pelo Largo", 
+            "description": "El servicio consiste en aplicación de un tinte de color a elegir y asesorado por nuestros profesionales del centro Fernand Vero. Este servicio que te ofrecemos incluye el lavado del pelo con champú específico, el color, y por último el secado para pelo largo. Si tu pelo es extralargo consulta posible suplemento. Ven a vernos, reserva ya tu cita, ¡un pelo brillante como nuevo!", 
+            "price": "18.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cortar Y Peinado Media Melena", 
+            "description": "Con este servicio de corte y peinado de media melena, serás la envidia de tus amigas. Te haremos un corte según tus facciones y forma de tu pelo. Además en este servicio te lavaremos el pelo con champú y peinaremos tu media melena con definición para que estés perfecta. Se considera media melena hasta los hombros. Ven a vernos a nuestro centro Fernand Vero, reserva ya tu cita. ¡Ponte en las mejores manos!", 
+            "price": "14.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Corto", 
+            "description": "Con este servicio de corte y peinado de pelo corto, serás la envidia de tus amigas. Te haremos un corte según tus facciones y forma de tu pelo. Además en este servicio te lavaremos el pelo con champú y peinaremos tu pelo corto con definición para que estés perfecta. Ven a vernos a nuestro centro Fernand Vero, reserva ya tu cita. ¡Ponte en las mejores manos!", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "description": "Con este servicio de corte y peinado de pelo largo, serás la envidia de tus amigas. Te haremos un corte según tus facciones y forma de tu pelo. Además en este servicio te lavaremos el pelo con champú y peinaremos tu pelo largo con definición para que estés perfecta. Si tu pelo es extralargo consulta posible suplemento. Ven a vernos a nuestro centro Fernand Vero, reserva ya tu cita. ¡Ponte en las mejores manos!", 
+            "price": "187.25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Déjate asesorar por nuestros profesionales y haz un corte moderno o tradicional de acuerdo con lo que deseas y teniendo en cuentas tus las facciones de tu rostro. Además, lavaremos tu pelo con un ligero masaje craneal y peinaremos con productos de acabado. Ven a vernos a nuestro centro Fernand Vero, ¡reserva ya tu cita con nuestros profesionales!", 
+            "price": "117.25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte Elumen Color Fantasía Y Peinado Pelo Corto", 
+            "description": "El servicio consiste en la aplicación de un tinte especial Elumen de Fernand Vero sin amoniaco compuesto por un pigmento de color bastante permanente recomendado por nuestros peluqueros de color fantasía. Además incluye el lavado con champú específico, una decoloración, si necesitarás más de una decoloración consulta posible suplemento, y por último el tinte de color y secado para pelo corto. Reserva ya tu cita, ¡te encantará el resultado!", 
+            "price": "800 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tinte Elumen Color Fantasía Y Peinado Pelo Medio", 
+            "description": "El servicio consiste en la aplicación de un tinte especial Elumen de Fernand Vero sin amoniaco compuesto por un pigmento de color bastante permanente recomendado por nuestros peluqueros de color fantasía. Además incluye el lavado con champú específico, una decoloración, si necesitarás más de una decoloración consulta posible suplemento, y por último el tinte de color y secado para pelo medio. Se considera que media melena hasta los hombros. Reserva ya tu cita, ¡te encantará el resultado!", 
+            "price": "83.5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Hidratación Y Secado Del Pelo", 
+            "description": "¿Pelo dañado, no consigues que vuelva a lucir sano y brillante? Prueba nuestro servicio de hidratación capilar. El servicio consta de un tratamiento de hidratación para los cabellos más dañados. El precio no distingue de larguras de melenas, pero si tienes una melena extralarga consulta posible suplemento. ¡Reserva ya tu cita online en Fernand Vero peluqueros! Ponte en las mejores manos.", 
+            "price": "51.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "Déjate asesorar por nuestros profesionales y cambia de look para lucir más guapa. En Fernand Vero tenemos en cuenta las facciones de tu rostro para conseguir el corte perfecto. El servicio incluye un corte asesorado y lavado de la melena. Se realiza un secado para quitar un poco la humedad, no está incluido el peinado. ¡Te encantará el resultado!", 
+            "price": "560 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial Y Masaje", 
+            "description": "Tratamiento indicado para la reafirmación facial, cuello y escote. Consiste en un antiarrugas y un lifting en ojos. Por último te aplicaremos una mascarilla y realizaremos el masaje facial con hidratación para que a la vez que te cuidas también te mimes. Ponte en las manos de nuestro equipo de profesionales, ¡reserva ya tu cita, no esperes más!", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Exfoliación Corporal Y Facial E Hidratación Masaje", 
+            "description": "El servicio consiste en una exfoliación para eliminar las células muertas tanto corporales como faciales, para así dejar la piel preparada con hidratación intensa y por último masaje relajante. Consigue una piel suave e increíble con este exclusivo servicio que te ofrecemos en Fernand Vero. Reserva ya tu cita y, ¡consigue una piel sedosa!", 
+            "price": "165 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación Cejas", 
+            "description": "Corrige tus imperfecciones con la micropigmentación o maquillaje permanente para conseguir un diseño de cejas perfecto. Ponte en las manos de nuestros estilistas, consiguiendo el mejor resultado de forma segura. Ven a vernos a nuestro centro Fernand Vero, reserva ya tu cita online con nosotros, ¡no te arrepentirás!", 
+            "price": "375 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Micropigmentación De Los Ojos Efecto Eyliner", 
+            "description": "Micropigmentación tanto arriba como abajo realizado con efecto eyeliner con maquillaje permanente que realzará tu mirada y ofrecerá volumen. Ponte en las manos de nuestros estilistas, consiguiendo el mejor resultado de forma segura. Ven a vernos a nuestro centro Fernand Vero, reserva ya tu cita online con nosotros, ¡no te arrepentirás!", 
+            "price": "51 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Micropigmentación Labio", 
+            "description": "Consigue un embellecimiento de los labios con un contorno y de esta manera corregirás las imperfecciones asimétricas. Ponte en las manos de nuestros estilistas, consiguiendo el mejor resultado de forma segura. Ven a vernos a nuestro centro Fernand Vero, reserva ya tu cita online con nosotros, ¡no te arrepentirás!", 
+            "price": "47.75 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Micropigmentación Relleno Del Labio", 
+            "description": "Consigue un embellecimiento de tus labios con un relleno que rejuvenece y causa volumen. Ponte en las manos de nuestros estilistas, consiguiendo el mejor resultado de forma segura. No esperes más, ven a vernos a nuestro centro Fernand Vero, reserva ya tu cita online con nosotros, ¡no te arrepentirás!", 
+            "price": "58.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "¿Quieres una mirada impactante sin necesidad de maquillaje? Prueba nuestro servicio de tinte y permanente de pestañas. Consiste en oscurecer las pestañas para hacer que la pestañas parezcan más frondosas, con más cantidad de pelo y por último rizarlas para hacer un efecto volumen como maquillaje rimmel. Ven a vernos a nuestro centro Fernand Vero, ¡reserva ya tu cita!", 
+            "price": "40.25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Servicio ideal para que no te preocupes por la belleza de tus pies durante más tiempo. Ven a vernos a nuestro centro Fernand Vero, conseguiremos una pedicura perfecta. El servicio que incluye limado, cortado, tratamiento de durezas, crema, y esmaltado del color que elijas entre nuestra gama de esmaltes. Para que tengas los pies cuidados y hidratados. En el caso de esmaltado francesa consulta suplemento con el profesional.", 
+            "price": "38.25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Esmaltado Permanente", 
+            "description": "Servicio ideal para que no te preocupes por la belleza de tus manos durante más tiempo. Ven a vernos a nuestro centro Fernand Vero, conseguiremos una manicura perfecta. El servicio incluye cortar uñas, lima, tratamiento cutículas, crema, y esmaltado permanente a elegir entre nuestra gama de esmaltes permanentes. ¡Te encantará!", 
+            "price": "44 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial Y Masaje", 
+            "description": "Tratamiento indicado para la reafirmación facial, cuello y escote. Consiste en un antiarrugas y un lifting en ojos. Por último te aplicaremos una mascarilla y realizaremos el masaje facial con hidratación para que a la vez que te cuidas también te mimes. Ponte en las manos de nuestro equipo de profesionales, ¡reserva ya tu cita, no esperes más!", 
+            "price": "18.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Envoltura Terapéutica Masaje Hidratante Y Relajant", 
+            "description": "El servicio consiste en un tratamiento spa con envolturas naturales como el barro o frutas naturales. Obtendrás una hidratación indicada para cada tipo de piel. Además disfrutarás de un masaje relajante final, porque cuidarse está bien pero mimarse también. ¡Reserva ya tu cita online en nuestro centro Fernand Vero!", 
+            "price": "100.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina", 
+            "description": "¡Ponle freno a la rebeldía de tu pelo! El servicio que conseguirá que tengas un pelo sin encrespamiento, brillante y sano. Este servicio que te proponemos en Fernand Vero incluye: lavado con champú y acondicionador, tratamiento alisador de Keratina y secado 'brushing' de la melena. Reserva tu cita y, ¡consigue un resultado espectacular!", 
+            "price": "112.25 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }
+    ]
+}

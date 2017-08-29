@@ -1,0 +1,123 @@
+{
+    "name": "Bucmi-Navarro Estilistas", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=34", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4212068000", 
+    "longitude": "-3.6976088999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/navarro", 
+    "office_number": "913604759", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Navarro Estilistas es uno de los mejores salones de belleza de la zona centro de Madrid desde el 2013 y se encuentra en la calle San Marcos 34, entre las zonas de Tribunal y de Chueca. Navarro Peluquería llega de la mano de Juanjo López Dalda, socio y fundador del centro, especializado en asesoría de imagen personalizada con más de 13 años de experiencia. El equipo se centra en la investigación sobre las últimas tendencias más innovadoras para ofrecer estilo y la moda. Navarro Estilistas es perfecto para conseguir resultados fashion y actuales, corte y color: las nuevas técnicas que aplican llegan directamente desde Londres. Su espacio lleno de luz y color refleja el lujo y la calidad. Se utilizan productos de alta calidad como Secretos del Agua, Essie y Sebastian Profesional. En Navarro Estilistas la prioridad es la salud capilar y prestan mucha atención al análisis del cuero cabelludo y el cabello.", 
+    "services": [
+        {
+            "service": "Higiene Facial Secretos Del Agua", 
+            "description": "Mucho más que una limpieza de cutis. Tratamiento facial completo realizado con la linea exclusiva y natural Secretos del Agua, productos ecológicos que te cuidan. Incluye además extracción de impurezas y para que tu piel luzca radiante aplicamos aparatología Indiba. Todo lo que tu piel necesita: hidratación intensiva, limpieza y rejuvenecimiento. Trabajamos con cosméticos de alta calidad.", 
+            "price": "44.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial Secretos Del Agua", 
+            "description": "Mucho más que una limpieza de cutis. Tratamiento facial completo realizado con la linea exclusiva y natural Secretos del Agua, productos ecológicos que te cuidan. Incluye además extracción de impurezas y para que tu piel luzca radiante aplicamos aparatología Indiba. Todo lo que tu piel necesita: hidratación intensiva, limpieza y rejuvenecimiento. Trabajamos con cosméticos de alta calidad.", 
+            "price": "44.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "Este tratamiento está dirigido completamente a tu mirada. Incluye tinte y permanente de pestañas, sin dañarlas, no tendrás que usar máscara de pestañas, durante semanas. Además para que tu mirada luzca excepcional el servicio incluye también diseño de cejas según tendencia y la tipología de tu rostro. Lucirás la mirada que siempre has soñado de la mano de Navarro Estilistas.", 
+            "price": "52.80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Cejas", 
+            "description": "Presume de cejas bien definidas. Nuevo y revolucionario servicio indicado para cejas poco pobladas o con alguna zona de caída. Es necesario que haya pelo. Te quedarán con la forma deseada para potenciar tu mirada, nuestros estilistas te asesorarán según tus necesidades y el resultado será increíble. No esperes más, para nosotros lo importante eres tu.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "description": "Las miradas de las celebrities están a tu alcance... Ven a nuestro centro y lo haremos realidad. Incluye puesta de pestañas con la técnica pelo a pelo, según tus gustos más largas o con efecto natural. Tu decides... Las pestañas son de seda y disponemos de tres tipos de curvaturas para adaptarnos a la tuya. Lucirás una mirada fantástica, ya que aportaremos luz y belleza a tu mirada.", 
+            "price": "43.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Maquillaje Social", 
+            "description": "¿Tienes un evento y quieres estar perfecta? Reserva el servicio de maquillaje en donde preparamos la piel y elegimos el look que mejor se adapte a tus facciones. Además incluye pestañas postizas pelo a pelo. Trabajamos con productos de primeras marcas. ¡Anímate, No te arrepentirás! En Navarro Estilistas dispones de profesionales cualificados para que siempre estés perfecta e impecable.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Permanente/Lifting De Pestañas", 
+            "description": "Consigue una curvatura ideal para resaltar la mirada y que quede completamente natural. Obtendrás una mirada más luminosa y natural. Este servicio deberías acompañarlo con el tinte de pestañas, de esta manera lucirías una ¡nueva mirada!", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte De Pestañas", 
+            "description": "¿Quieres una mirada más impactante y profunda? El tinte de pestañas puede ser una muy buena opción. ¡Puedes olvidarte de la máscara de pestañas durante 2 meses !Este servicio es perfecto con la permanente o lifting de pestañas, de esta manera lucirás una nueva mirada! Dí adiós al rimmel por un tiempo. Tu comodidad es lo más importante para nosotros.", 
+            "price": "66 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "¡Luce tus uñas perfectas durante semanas! Manicura completa la cual incluye; corte y limado de uñas, retirada de cutículas, pulido, exfoliación y/o hidratación. Y por supuesto nuestro esmaltado permanente Essie, donde te incluimos la retirada del esmalte. Si eres de esas que no tienen tiempo pero que te encanta estar perfecta, la manicura permanente es tu solución, estarás encantada con el resultado.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "Reserva este servicio en el que además de trabajar la uña, trabajamos tus pies. Incluye: limado y cortado de la uña, limpieza de pieles muertas y durezas con torno y esmaltado permanente que puedes elegir de nuestra gama de colores. También incluimos exfoliacion o hidratación a tus pies. Pies bonitos y perfectos durante mucho más tiempo gracias al esmaltado permanente de la marca Essie ¿Vas a saber que color elegir?", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "Si te apetece tener unas uñas perfectas y no volver a fallar en el intento de hacerte la manicura en casa, has llegado al lugar perfecto. ¡Tenemos todo tipo de manicuras al mejor precio ¡Luce tus uñas perfectas!Manicura completa la cual incluye; corte y limado de uñas, retirada de cutículas, pulido, exfoliación y/o hidratación. Y por supuesto nuestro esmaltado Essie. Tenemos lo mejor para ti.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Muchas veces olvidamos que los pies soportan la carga del día a día y que están sometidos a agresiones continuas, como los cambios de temperaturas. Por ese motivo, es necesario darles un respiro y proporcionarles un descanso de vez en cuando Pedicura o también conocido como Podología estética. Además de trabajar la uña trabajamos tus pies. Incluye: limado y cortado de la uña, limpieza de pieles muertas y durezas con torno y esmaltado final Essie.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Ingles Brasileñas", 
+            "description": "¿A qué estás esperando para lucir ese bikini o bañador que tanto te gusta? Depilación para ella, por medio del proceso de cera para conseguir unas ingles perfectas. En Navarro Estilistas contamos con una cera de alta calidad tibia para que tu piel queda suave, bonita y sin rastro de vello. Reserva tu cita online al mejor precio. La técnica es prácticamente indolora. Reserva cita cita online.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Diseño De Cejas", 
+            "description": "Las cejas son una parte fundamental de tu rostro y puede mejorar y acentuar tus rasgos, ayudando a sacar la mejor versión de ti mismo. Primero se realiza visagismo, un estudio según tus rasgos faciales, se realiza un diseño y cuando disponemos de la aprobación de la clienta se realiza el diseño de cejas con pinzas y maquillaje cuando sea necesario ¡Lucirás unas cejas perfectas y bonitas!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

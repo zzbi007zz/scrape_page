@@ -1,0 +1,81 @@
+{
+    "name": "Bucmi-QuirOptimo", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=41", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4372687000", 
+    "longitude": "-3.6867984000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/quiroptimo", 
+    "office_number": "910236265", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La misión del centro QuirOptimo es la de maximizar las capacidades del cuerpo humano proporcionando un cuidado de alta calidad en un entorno profesional y familiar. Ven a vernos a nuestro centro ubicado en plena Castellana en Madrid. ¡No te arrepentirás!", 
+    "services": [
+        {
+            "service": "Primera Visita Nutrición", 
+            "description": "En la primera visita se realizara un estudio para valorar el estado nutricional del paciente y conocer su estilo de vida y sus necesidades Nuestro método se basa en una dieta equilibrada con la que no pasara hambre y se aprenderá a comer bien Cada dieta se adapta a cada persona con un único objetivo: facilitar la alimentación y proporcionar ideas y cambios constantes de pauta, para favorecer la motivación de principio a fin. Sin poner en peligro la salud, sin pastillas, ni productos nocivos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Primera Visita Quiropráctica", 
+            "description": "La primera visita quiropráctica consiste en una evaluación completa de su salud y del estado de su columna vertebral con una duración de 45 min a 1 hora. Analizaremos tu caso para que te puedas beneficiar al máximo de los cuidados quiroprácticos. ¡No lo dudes y acude a nuestro centro para mejorar así tu día a día y olvidarte de esas dolencias que tanto te incomodan! Reserva ya tu cita cómodamente online. El precio es indicado para la primera toma de contacto y la primera visita a nuestro centro.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Primera Visita Quiropráctica Y Dos Sesiones", 
+            "description": "Primero realizaremos con una entrevista previa al paciente de 45 minutos a una hora de duración una evaluación completa de su salud y del estado de su columna vertebral. Además, una vez realizado el estudio, este pack incluye dos citas de quiropráctica para tratar de corregir las dolencias. ¡No lo dudes y ponte en manos de nuestro equipo de profesionales! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "134 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Primera Visita Quiropráctica", 
+            "description": "La primera visita quiropráctica consiste en una evaluación completa de su salud y del estado de su columna vertebral con una duración de 45 min a 1 hora. Analizaremos tu caso para que te puedas beneficiar al máximo de los cuidados quiroprácticos. ¡No lo dudes y acude a nuestro centro para mejorar así tu día a día y olvidarte de esas dolencias que tanto te incomodan! Reserva ya tu cita cómodamente online. El precio es indicado para la primera toma de contacto y la primera visita a nuestro centro.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Primera Visita Quiropráctica Y Dos Sesiones", 
+            "description": "Primero realizaremos con una entrevista previa al paciente de 45 minutos a una hora de duración una evaluación completa de su salud y del estado de su columna vertebral. Además, una vez realizado el estudio, este pack incluye dos citas de quiropráctica para tratar de corregir las dolencias. ¡No lo dudes y ponte en manos de nuestro equipo de profesionales! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "134 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Primera Visita Quiropráctica Y Sesión", 
+            "description": "Estudio completo de su columna vertebral con una duración de 45 minutos a 1 hora para una evaluación completa de su salud y del estado de su columna vertebral. Una vez realizado el estudio, disfrutarás de una segunda cita de sesión quiropráctica con una duración de 15 minutos. ¡No lo dudes y ponte en manos de nuestro equipo de profesionales! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "97 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Primera Visita Nutrición", 
+            "description": "En la primera visita se realizara un estudio para valorar el estado nutricional del paciente y conocer su estilo de vida y sus necesidades Nuestro método se basa en una dieta equilibrada con la que no pasara hambre y se aprenderá a comer bien Cada dieta se adapta a cada persona con un único objetivo: facilitar la alimentación y proporcionar ideas y cambios constantes de pauta, para favorecer la motivación de principio a fin. Sin poner en peligro la salud, sin pastillas, ni productos nocivos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Primera Visita Nutrición Y Dos Sesiones Revision", 
+            "description": "Se realizara un estudio para valorar el estado nutricional del paciente y conocer su estilo de vida. Cada dieta se adapta a cada persona con un único objetivo: facilitar la alimentación y proporcionar ideas y cambios constantes de pauta, para favorecer la motivación de principio a fin. Además, incluye dos sesiones de seguimiento de la dieta del paciente. Lo importante no es perder peso, sino perder grasa y volumen y no recuperarlo, además de adquirir unos hábitos que duren de por vida.", 
+            "price": "96 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "name": "Bucmi-L'aura Centro de Estética", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=23", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3967730000", 
+    "longitude": "2.1417966000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/laura", 
+    "office_number": "932002951", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "L'aura es tu centro de estética en pleno barro de Sant Gervasi, en Barcelona. Ponemos a tu servicio nuestra experiencia para ofrecerte un trato cercano y de calidad. Manicuras, tratamientos faciales, corporales... ¡Todo para que te veas estupenda!", 
+    "services": [
+        {
+            "service": "Higiene Facial Con Depilación Cejas Y Labio", 
+            "description": "Completa higiene facial con desamaquillaje, peeling, ozono, extracción, masaje y mascarilla para que la piel de tu rostro luzca ideal. Pero para completar el tratamiento y estés genial incluimos depilación de cejas y labio superior. No esperes más y reserva ahora tu cita online.", 
+            "price": "45.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peeling Corporal Y Tto. Corporal Hidratante", 
+            "description": "Da el cuidado que se merece la piel de tu cuerpo con nuestro tratamiento que incluye peeling e hidratación corporal, realizando la exfoliación, ducha y posteriormente masaje con hidratación, saldrás de nuestro centro con la piel perfecta y relajada.", 
+            "price": "52.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Hidratación Facial", 
+            "description": "Con una hidratación facial la piel se mantiene joven, suave y flexible por más tiempo.", 
+            "price": "45.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Radiofrecuencia", 
+            "description": "La radiofrecuencia consiste en un aumento de temperatura de la piel para su rejuvenecimiento sin cirugia con multiples beneficios.", 
+            "price": "52.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Con Depilación Cejas Y Labio", 
+            "description": "Completa higiene facial con desamaquillaje, peeling, ozono, extracción, masaje y mascarilla para que la piel de tu rostro luzca ideal. Pero para completar el tratamiento y estés genial incluimos depilación de cejas y labio superior. No esperes más y reserva ahora tu cita online.", 
+            "price": "28.80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peeling Corporal Y Tto. Corporal Hidratante", 
+            "description": "Da el cuidado que se merece la piel de tu cuerpo con nuestro tratamiento que incluye peeling e hidratación corporal, realizando la exfoliación, ducha y posteriormente masaje con hidratación, saldrás de nuestro centro con la piel perfecta y relajada.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Hidratación Facial", 
+            "description": "Con una hidratación facial la piel se mantiene joven, suave y flexible por más tiempo.", 
+            "price": "58 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Maquillaje", 
+            "description": "¿Tienes un evento especial y no quieres preocuparte del maquillaje? Ponte en nuestras manos para tener el maquillaje que saque lo mejor de ti teniendo en cuanta el evento, tus rasgos y tu personalidad. Estarás radiante en menos de una hora.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Presoterapia Con Masaje Circulatorio", 
+            "description": "La presoterapia dará respuesta a tus problemas circulatorios de varices y piernas cansadas, problemas linfáticos y desintoxicación del organismo. Junto con un masaje de aceites adecuado para ello.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia", 
+            "description": "La radiofrecuencia consiste en un aumento de temperatura de la piel para su rejuvenecimiento sin cirugia con multiples beneficios.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Spa", 
+            "description": "Luce unos pies ideales con nuestra pedicura spa con peeling, envoltura, preparación de cutículas, limado y esmaltado de uñas, pudiendo elegir entre color o francesa. Tus pies te lo agradecerán. No esperes más y reserva ahora online con Bucmi.", 
+            "price": "58 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Uñas De Gel", 
+            "description": "Si te gustan las uñas de gel reserva con nosotros, haremos que luzcas unas uñas naturales de una gran resistencia que estilizarán tus manos. Ten asegurado el mejor resultado en tus uñas. No esperes más para reservar ahora tu cita online con Bucmi.com.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Relleno De Gel", 
+            "description": "Cuando tienes uñas de gel el crecimiento natural de la uña hace necesario rellenar las uñas para que estén ideales como el primer día, asegura que tus uñas estén perfectas. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Consigue un estado de relax de forma agradable con los mejores aceites esenciales mientras desconectas de tu rutina diaria.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Quiromasaje", 
+            "description": "Masaje en el que a través de la columna vertebral se tratan enfermedades y dolencias musculares u oseas. Ponte en nuestras manos para poner solución a esas incomodas dolencias. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

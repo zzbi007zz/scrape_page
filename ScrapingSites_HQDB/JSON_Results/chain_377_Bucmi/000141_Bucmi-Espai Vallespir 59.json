@@ -1,0 +1,284 @@
+{
+    "name": "Bucmi-Espai Vallespir 59", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=43", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3799259000", 
+    "longitude": "2.1366292999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/espaivallespir", 
+    "office_number": "640262951", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Espai Vallespir 59 de Ana Morte disfrutarás de la profesionalidad de nuestros trabajadores y de la calidad en los servicios en un entorno sereno, cálido y cuidado. Mimaremos cada detalle. Descubre tu centro en Sants - Les corts. ¡Te encantará!", 
+    "services": [
+        {
+            "service": "Masaje Ayurvédico Con Piedras Volcánicas", 
+            "description": "El calor junto al poder magnético que transmiten las piedras y el masaje, tiene una combinación extraordinaria. La terapia geotermal produce notables mejoras en el bienestar general de nuestro organismo. Reduce los dolores crónicos -sobre todo los óseos y musculares-, y ayuda a equilibrar el sistema nervioso y el circulatorio. Nos ayuda a relajarnos, pues mediante el correcto flujo de la energía, armonizamos cuerpo, mente y espíritu. A qué esperas para venir a visitarnos? ¡No dejes que te lo cuenten!", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante De Espalda", 
+            "description": "El Masaje Descontracturante, es uno de los más pedidos y utilizados para bajar los niveles de tensión, producto del estrés, movimientos repetitivos, adquisición de malas posturas en el diario vivir que, a largo plazo, provocan dolencias y malestar corporal general. Durante el proceso del masaje, el paciente siente un gran alivio y confort en las zonas más afectadas, dando especial énfasis en cuello, espalda, zona lumbar, aplicando diferentes maniobras, técnicas y presiones específicas.", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Presoterapia Ballancer", 
+            "description": "Está recomendado para tratamientos de celulitis, pre y pos liposucción, pos embarazo, mala circulación, piernas cansadas etc.La terapia logra reactivar el sistema circulatorio, aumenta la oxigenación del cuerpo, estimula el sistema inmunológico y tonifica los músculos. Generando un drenaje linfático, contribuyendo así a la eliminación de los líquidos, grasas y toxinas que generan la celulitis, edemas, linfoedemas y trastornos venosos como las varices.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Dermapen", 
+            "description": "Dermapen: El tratamiento que reafirma, levanta y rejuvenece la piel. Consta de un dispositivo con cabezal de microagujas y funciona para reafirmar, levantar y rejuvenecer la piel. Con la inserción de microagujas automatizado, provocamos que la piel aumente la absorción de los productos que aplicamos a la piel simultáneamente al Dermapen, tales como ácido hialurónico, aminoácidos, vitaminas…, lo que lleva a mejores resultados. Cabezales esterilizados, desechables y de uso individual.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Maquillaje De Novia", 
+            "description": "Recibe el mejor maquillaje para uno de los días más importantes de tu vida. Obtén el resultado deseado para tu boda sin estrés solo tienes que ponerte en nuestras manos y relajarte. Trabajamos con los mejores productos ¡Visítanos en nuestro centro Espai Vallespir 59! ¡No lo dudes y reserva ya cómodamente tu cita online en Bucmi.com!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial a Elegir", 
+            "description": "Corrige las imperfecciones de la piel de tu rostro o combate las marcas del paso del tiempo con uno de nuestros tratamientos faciales. Podrás elegir entre: el tratamiento anti-acné, el rehidratante, el anti-aging o el especial para pieles fotoenvejecidas.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cavitación Por Zona", 
+            "description": "La duración de la sesión es de 40 minutos. Tratamiento efectivo para remodelar tu cuerpo en una sesión. Eliminarás la grasa localizada y conseguirás así una figura mucho más esbelta y tonificada. ¡Ideal para cualquier temporada del año! ¡Es importante cuidarse y en Espai Vallespir 59 lo sabemos! Nuestra prioridad es tu belleza y bienestar. ¡No lo dudes y reserva tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Higiene Facial Profunda", 
+            "description": "Servicio para el cuidado de tu piel que consiste en una Higiene Facial en la que se incluye una limpieza profunda con exfoliante y extraccion. Y para finalizar realizaremos un tratamiento personalizado con mascarilla.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial Profunda Orgánica", 
+            "description": "Cuidada tu piel con esta Higiene Facial en la que se incluye una limpieza profunda con exfoliante y extraccion. Y para finalizar realizaremos un tratamiento personalizado con mascarilla todo ello con productos orgánicos y ecológicos. Ponte en manos de nuestros profesionales y disfruta de este servicio que te dejará una piel radiante.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Maquillaje De Fiesta", 
+            "description": "Realza tu belleza con este Maquillaje de fiesta, en el que te atenderán de manera personalizada teniendo en cuenta el maquillaje que mejor se adapte a tu rostro. ¿Tienes algún evento especial y quieres lucir como una verdadera estrella? Ponte en manos de nuestro equipo de profesionales que trabajarán para conseguir el mejor resultado. ¡Reserva ya cómodamente online en nuestro centro Espai Vallespir 59!", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje De Novia", 
+            "description": "Recibe el mejor maquillaje para uno de los días más importantes de tu vida. Obtén el resultado deseado para tu boda sin estrés solo tienes que ponerte en nuestras manos y relajarte. Trabajamos con los mejores productos ¡Visítanos en nuestro centro Espai Vallespir 59! ¡No lo dudes y reserva ya cómodamente tu cita online en Bucmi.com!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Maquillaje Para Eventos", 
+            "description": "Ponte en manos de nuestros profesionales y no te preocupes del maquillaje para ese día tan especial, con los mejores productos que darán el mejor cuidado a tu piel. Te asesoramos para conseguir el resultado que buscas, embelleciendo los rasgos de tu rostro. ¡Visítanos en nuestro centro Espai Vallespir 59!", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Anticelulítico 25 Minutos", 
+            "description": "¿Quieres lucir un cuerpo más tonificado y libre de pequeños complejos? No dejes pasar la oportunidad y reserva ahora este masaje anticelulítico. En Espai Vallespir 59 nuestros profesionales conseguirán resultados increíbles. ¿A qué estás esperando? Que no te lo cuenten y reserva ya tu cita online en Bucmi.com.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Anticelulítico 40 Minutos", 
+            "description": "¿Quieres lucir un cuerpo más tonificado y libre de pequeños complejos? No dejes pasar la oportunidad y reserva ahora este masaje anticelulítico. En Espai Vallespir 59 nuestros profesionales conseguirán resultados increíbles. ¿A qué estás esperando? Que no te lo cuenten y reserva ya tu cita online en Bucmi.com.", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Circulatorio", 
+            "description": "Activa el riego sanguíneo y linfático favoreciendo el intercambio celular. De esta conseguimos que los nutrientes lleguen mejor a las células, y por otro, eliminar las toxinas. Como resultado, habrá un incremento en la temperatura corporal que calentará y transformará los tejidos, previniendo lesiones circulatorias. No lo dudes y reserva ya tu cita online a través de Bucmi.com.", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Maxcara, Maquillaje Semipermanente De Pestañas", 
+            "description": "Con Maxcara se consigue máximo volumen, pestañas más curvadas y un color intenso que perdura intacto durante 21 días, sin tener que aplicar rímel a diario, ni correr riesgos de manchas oscuras alrededor del párpado. ¡Incluso puedes bañarte en la piscina, el mar, realizar deporte o ir al cine a ver la película más romántica, sin tener que perder intensidad en la mirada!¡No lo pienses más y reserva ya tu cita cómodamente online a través de Bucmi.com! Te encantará.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pack Peeling Corporal Y Masaje", 
+            "description": "Relaja y mima todo tu cuerpo con este pack de tratamientos corporales que incluye un peeling corporal completo y un masaje. Saldrás como nuevo después de este tratamiento. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peeling Corporal Y Masaje", 
+            "description": "Los cambios de tiempo y el estrés afectan a tu piel más de lo que crees, por lo que debes mimar y sanar tu piel para evitar problemas de manchas, granitos y demás imperfecciones. Nuestros peelings corporales orgánicos a base de elementos activos naturales penetran hasta las capas más profundas de la piel activando la producción de colágeno y dándole un aspecto más bonito y saludable. El masaje posterior está realizado con aceites ecológicos nutritivos e hidrantantes. No te lo puedes perder!", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Presoterapia Ballancer", 
+            "description": "Está recomendado para tratamientos de celulitis, pre y pos liposucción, pos embarazo, mala circulación, piernas cansadas etc.La terapia logra reactivar el sistema circulatorio, aumenta la oxigenación del cuerpo, estimula el sistema inmunológico y tonifica los músculos. Generando un drenaje linfático, contribuyendo así a la eliminación de los líquidos, grasas y toxinas que generan la celulitis, edemas, linfoedemas y trastornos venosos como las varices.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Corporal", 
+            "description": "Consigue una piel firme y modelada gracias a nuestro servicio de radiofrecuencia corporal, que hará que tu cuerpo vuelva a regenerar colágeno para eliminar el efecto de la flacidez. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial Rejuvenecedor Y Efecto Lif", 
+            "description": "Redefine el rostro y atenúa las líneas de expresión poniendo la piel más tersa. Los resultados te sorprenderán: por fin verás cómo la flacidez se va reduciendo a la vez que consigues una piel elástica y firme. Olvídate de la cirugía y apuesta por este servicio.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "Consigue una mirada de cine con nuestro pack de tinte y permanente de pestañas, con un acabado lo más natural posible. Acapararás todas las miradas a tu paso. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antimanchas", 
+            "description": "Tratamiento para todo tipo de manchas, recientes y antiguas, producidas por el sol, edad u otras causas. Consigue un buen resultado, incluso en casos de manchas profundas. ¿Quieres lucir una piel libre de imperfecciones? Ven a tu Centro Espai Vallespir 59 y ponte en manos de nuestros mejores profesionales. Luce una piel perfecta y libre de imperfecciones. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantarán los resultados!", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Dermapen", 
+            "description": "Dermapen: El tratamiento que reafirma, levanta y rejuvenece la piel. Consta de un dispositivo con cabezal de microagujas y funciona para reafirmar, levantar y rejuvenecer la piel. Con la inserción de microagujas automatizado, provocamos que la piel aumente la absorción de los productos que aplicamos a la piel simultáneamente al Dermapen, tales como ácido hialurónico, aminoácidos, vitaminas…, lo que lleva a mejores resultados. Cabezales esterilizados, desechables y de uso individual.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Rejuvenecedor Dermapen", 
+            "description": "Rejuvenece la piel de tu rostro con este tratamiento facial con el que conseguirás una regeneración de la piel, suaviza y elimina cicatrices. Además aporta nutrición multivitamínica, antiflacidez, hidratación profunda. Reserva ahora online con Bucmi.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Orgánico-Ecológica Gold Sparitual 15 Días", 
+            "description": "Prueba nuestra manicura orgánica-ecológica completa con esmaltado permanente durante 15 días.Escoge el tono de esmalte que más va contigo y presume de manos bonitas y cuidadas. El servicio incluye limado, retirada de pieles y cutículas, esmaltado semipermanente de la marca Spa-Ritual e hidratación final. ¿A qué estás esperando para reservar?", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Orgánico-Ecológica Spa-Ritual", 
+            "description": "En Espai Vallespir59, muchos de nuestros productos de belleza están realizados con ingredientes 100% naturales, con certificación orgánica, recolectados en todo el mundo mediante prácticas de Comercio Justo, veganos, sin gluten y libres de tóxicos DBP. Te ofrecemos esta manicura orgánica, todo un tratamiento de hidratación para uñas y manos, con unos colores maravillosos ¡porque unas manos bonitas y cuidadas son siempre una buena carta de presentación. Te encantará el resultado. Reserva ya tu cita!", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Permanente Cnd Shellac", 
+            "description": "Ven a tu Salón de Belleza Espai Vallespir 59 y olvídate del cuidado de las uñas y lúcelas impecables durante mucho más tiempo. Incluye limado de la uña, tratamiento de la cutícula, esmaltado de color que más te guste e hidratación. Disfruta de unas uñas perfectas por más tiempo. Presume de unas uñas bonitas, cuidadas y elegantes. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Orgánico-Ecológica Gold Sparitual 15 Días", 
+            "description": "Prueba nuestra pedicura orgánica-ecológica completa con esmaltado permanente durante 15 días. Escoge el tono de esmalte que más va contigo y presume de pies bonitos y cuidados. El servicio incluye limado, quita-duricias, retirada de pieles y cutículas, esmaltado semipermanente de la marca Spa-Ritual e hidratación final. ¿A qué estás esperando para reservar?", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Orgánico-Ecológica Spa-Ritual", 
+            "description": "En Espai Vallespir59, muchos de nuestros productos de belleza están realizados con ingredientes 100% naturales, con certificación orgánica, recolectados en todo el mundo mediante prácticas de Comercio Justo, veganos, sin gluten y libres de tóxicos DBP. Te ofrecemos esta pedicura orgánica, todo un tratamiento de hidratación para uñas y pies, con unos colores maravillosos ¡porque unos pies bonitos y cuidados hablan mucho de ti. Te encantará el resultado. Reserva ya tu cita!", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Permanente Cnd Shellac", 
+            "description": "¿Quieres presumir de unas uñas cuidadas, bonitas y coloridas? Ven a tu Salón Espai Vallespir 59 y ponte en manos de nuestros mejores profesionales. Este es el mejor tratamiento para lucir tus pies perfectos por más tiempo. Limado de la uña de la forma deseada,cuidado de cutículas y durezas, hidratación y esmaltado permanente. Disfruta de unos pies perfectos y cuidados durante todo el año. Reserva tu cita online a través de Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Ayurvédico Con Piedras Volcánicas", 
+            "description": "El calor junto al poder magnético que transmiten las piedras y el masaje, tiene una combinación extraordinaria. La terapia geotermal produce notables mejoras en el bienestar general de nuestro organismo. Reduce los dolores crónicos -sobre todo los óseos y musculares-, y ayuda a equilibrar el sistema nervioso y el circulatorio. Nos ayuda a relajarnos, pues mediante el correcto flujo de la energía, armonizamos cuerpo, mente y espíritu. A qué esperas para venir a visitarnos? ¡No dejes que te lo cuenten!", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Corporal A Elegir", 
+            "description": "Ponte en las mejores manos par mejorar tu circulación o combatir la grasa localizada, gracias a nuestro masaje de 45 minutos específico. Podrás elegir entre un masaje anticelulítico, un masaje circulatorio o anti-estrés.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante De Espalda", 
+            "description": "El Masaje Descontracturante, es uno de los más pedidos y utilizados para bajar los niveles de tensión, producto del estrés, movimientos repetitivos, adquisición de malas posturas en el diario vivir que, a largo plazo, provocan dolencias y malestar corporal general. Durante el proceso del masaje, el paciente siente un gran alivio y confort en las zonas más afectadas, dando especial énfasis en cuello, espalda, zona lumbar, aplicando diferentes maniobras, técnicas y presiones específicas.", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "Ayuda a mejorar cualquier problema de tu cuerpo, gracias a la reflexología podal, que consiste en estimular los puntos reflejos del pie que están conectados con todo tu cuerpo y mente. Ven a tu Centro Espai Vallespir 59 y ponte en manos de nuestros mejores profesionales titulados. Desconecta de tu día a día en nuestro centro, relaja tu cuerpo y tu mente y olvídate del exterior. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "Reserva ya este servicio de depilación con cera en axilas, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Espai Vallespir 59.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Normales", 
+            "description": "Este servicio incluye la depilación con cera para las ingles normales. ¿Quieres lucir una piel libre de vello molesto? Ven a tu Centro de Espai Vallespir 59 y ponte en manos de nuestros mejores profesionales. Presume de una piel suave e hidratada. Dí adiós al vello molesto durante al menos 3 semanas y olvídate de depilarte en casa. Devuelve a tu piel su color y aspecto natural. Reserva tu cita en Bucmi.com.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

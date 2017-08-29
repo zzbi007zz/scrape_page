@@ -1,0 +1,123 @@
+{
+    "name": "Bucmi-The Urban Massage", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=3", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3897020000", 
+    "longitude": "2.1729055000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/theurbanmassage", 
+    "office_number": "937071364", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Descubre The Urban Massage. Disfrutarás de un Servicio de masaje terapéutico para el ritmo de vida urbano enfocado en la experiencia de usuario. Las vistas panorámicas de la ciudad son el telón de fondo de la experiencia única y personalizada del masaje", 
+    "services": [
+        {
+            "service": "Masaje ¡Nudos Fuera!", 
+            "description": "Masaje descontracturante para reducir tensiones y dolores causados por el estrés laboral. Cuídate como te mereces y consigue el confort inicial de relajación. Elimina la tensión de la musculatura. En nuestro centro de masajes daremos solución a esas molestas contracturas de tu cuerpo con productos de Kinesis, destinados a masajes terapéuticos con una gran variedad de aromas como romero y frutos rojos.", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje En Pareja ¡Sube A La Nube!", 
+            "description": "¡Abajo el estrés!,¡Subid a la nube! y disfrutar de un masaje en pareja relajante con la combinación de la técnica shiatsu y quiromasaje alternando momentos de tonificación y sedación en un entorno minimalista, cuidado al detalle y con unas vistas panorámicas de Barcelona espectaculares. Eliminareis la tensión acumulada y el dolor muscular. Reserva ya tu cita online por Bucmi.", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje En Pareja ¡Sube A La Nube! 1H", 
+            "description": "Ahora podéis disfrutar de 1h del masaje en pareja 'Sube a la Nube'. Sin duda nuestro masaje estrella. Una combinación de masaje descontracturante con relajante con técnicas de quiromasaje y shiatsu. Y con la experiencia única de nuestras vistas de Barcelona. Sin duda un lugar privelegiado.", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Shiatsu", 
+            "description": "Hemos readaptado una técnica tradicional como el Shiatsu (presión con los dedos) aplicándola en camilla y utilizando aceite para hacer la experiencia mas agradable o si lo deseas también es posible con presión. Notarás el eficiente trabajo en tus contracturas y como la energía fluye por tu cuerpo dejándote a la vez relajado. Todos nuestros masajes se realizan con productos Kinesis, reconocidos aceites terapéuticos, con una gran variedad de aromas.", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje ¡Nudos Fuera!", 
+            "description": "Masaje descontracturante para reducir tensiones y dolores causados por el estrés laboral. Cuídate como te mereces y consigue el confort inicial de relajación. Elimina la tensión de la musculatura. En nuestro centro de masajes daremos solución a esas molestas contracturas de tu cuerpo con productos de Kinesis, destinados a masajes terapéuticos con una gran variedad de aromas como romero y frutos rojos.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje En Pareja ¡Sube A La Nube!", 
+            "description": "¡Abajo el estrés!,¡Subid a la nube! y disfrutar de un masaje en pareja relajante con la combinación de la técnica shiatsu y quiromasaje alternando momentos de tonificación y sedación en un entorno minimalista, cuidado al detalle y con unas vistas panorámicas de Barcelona espectaculares. Eliminareis la tensión acumulada y el dolor muscular. Reserva ya tu cita online por Bucmi.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje En Pareja ¡Nudos Fuera!", 
+            "description": "Masaje para disfrutar en pareja para eliminar las tensiones de tu espalda. Elimina el estrés acumulado y deshazte de las molestas contracturas en una nube creada especialmente para vosotros. Ven a conocer nuestro centro de masajes. ¡Sube a la nube!.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje En Pareja ¡Sube A La Nube! 1H", 
+            "description": "Ahora podéis disfrutar de 1h del masaje en pareja 'Sube a la Nube'. Sin duda nuestro masaje estrella. Una combinación de masaje descontracturante con relajante con técnicas de quiromasaje y shiatsu. Y con la experiencia única de nuestras vistas de Barcelona. Sin duda un lugar privelegiado.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Express", 
+            "description": "Masaje que se realiza en una silla ergonómica aplicando la técnica shiatsu (no es necesario desvestirse). Se trata las zonas cérvico - dorsal, ideal para tratar el estrés laboral, migrañas, dolores de cabeza, vertigos... Se realiza con presiones de pulgares, palmares y codo sobre la misma contractura adaptando la presión a cada cliente. Apto para mujeres embarazadas.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "¡Abajo el estrés!,¡sube a la nube! disfruta de una masaje relajante en un entorno minimalista, cuidado al detalle, con unas vistas espectaculares de Barcelona ciudad.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Quiromasaje", 
+            "description": "Quiromasaje que resolverá problemas osteoarticulares. Nuestros profesionales utilizan productos de la marca Kinesis, reconocida en el ámbito terapéutico. También conseguirás relajar cuerpo y mente. Descubre los beneficios del quiromasaje y elimina la sobrecarga muscular. Si tienes alguna duda, consulta con su profesional.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Shiatsu", 
+            "description": "Hemos readaptado una técnica tradicional como el Shiatsu (presión con los dedos) aplicándola en camilla y utilizando aceite para hacer la experiencia mas agradable o si lo deseas también es posible con presión. Notarás el eficiente trabajo en tus contracturas y como la energía fluye por tu cuerpo dejándote a la vez relajado. Todos nuestros masajes se realizan con productos Kinesis, reconocidos aceites terapéuticos, con una gran variedad de aromas.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje ¡Sube A La Nube!", 
+            "description": "Trasládate para vivir la experiencia a uno de los edificios mas emblemáticos y céntricos de la ciudad de Barcelona para que puedas disfrutar de sus vistas y de un masaje que combina diferentes técnicas con base en Quiromasaje y Shiatsu. Un masaje relajante y descontracturante con productos de Kinesis, con momentos de tonificación y sedación. Tratamiento de extremidades, espalda y masaje craneo-facial.", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Lomi Lomi", 
+            "description": "Masaje de origen Hawaiano muy relajante que se trabaja con antebrazos y manos. De movimientos amplios, profundos y rítmicos. ¡Siente como tu espíritu se eleva hasta las nubes!.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

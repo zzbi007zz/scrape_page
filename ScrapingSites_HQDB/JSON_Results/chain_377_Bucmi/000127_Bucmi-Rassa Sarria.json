@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Rassa Sarriá", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=29", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3947173000", 
+    "longitude": "2.1268043999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": null, 
+    "office_number": "935181709", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Rassa Sarriá es un espacio dónde encontrarás que cada pequeño detalle te hará viajar a un mundo de sensaciones. Ofreciéndote una carta de tratamientos y una amplia gama de productos de aromaterapia y cosmética natural. Vivirás momentos únicos.", 
+    "services": [
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Conoce los beneficios de esta técnica de masaje específico con el que se favorece la captación y reabsorción de líquidos y sustancias para ser evacuados a través del sistema linfático. Sentirás como tu cuerpo te lo agradece. Presume de un cuerpo tonificado. Elimina la grasa localizada y la celulitis. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Si sientes al piel de tu rostro apagada y sin vida, es el momento de reservar tu cita ya y disfrutar de un ritual completo de higiene facial con productos de primera calidad y totalmente personalizados y adaptados a la necesidades de cada piel. Luce una piel limpia, fresca y sedosa. Tú piel mucho más hidratada y nutrida. Devuelve a tu piel su aspecto y color natural. Sentirás como tu piel recobra toda su luz y brillo natural. Te encantará.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Vegana Spa", 
+            "description": "Presume de una manos bonitas y cuidadas con nuestro servicio de manicura completa con productos que respetan por igual a ti y al entorno, cien por cien naturales. El servicio consiste en limado de la uña natural de la forma deseada, retirada de cutículas, tratamiento spa, hidratación y esmaltado del color que más te guste de nuestra amplia gama. Presume de unas uñas bonitas, cuidadas y perfectas siempre. Tus manos son muy importantes y dicen mucho de ti. Luce unas manos sedosas. Querrás repetir.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Conoce los beneficios de esta técnica de masaje específico con el que se favorece la captación y reabsorción de líquidos y sustancias para ser evacuados a través del sistema linfático. Sentirás como tu cuerpo te lo agradece. Presume de un cuerpo tonificado. Elimina la grasa localizada y la celulitis. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Si sientes al piel de tu rostro apagada y sin vida, es el momento de reservar tu cita ya y disfrutar de un ritual completo de higiene facial con productos de primera calidad y totalmente personalizados y adaptados a la necesidades de cada piel. Luce una piel limpia, fresca y sedosa. Tú piel mucho más hidratada y nutrida. Devuelve a tu piel su aspecto y color natural. Sentirás como tu piel recobra toda su luz y brillo natural. Te encantará.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Vegana Spa", 
+            "description": "Presume de una manos bonitas y cuidadas con nuestro servicio de manicura completa con productos que respetan por igual a ti y al entorno, cien por cien naturales. El servicio consiste en limado de la uña natural de la forma deseada, retirada de cutículas, tratamiento spa, hidratación y esmaltado del color que más te guste de nuestra amplia gama. Presume de unas uñas bonitas, cuidadas y perfectas siempre. Tus manos son muy importantes y dicen mucho de ti. Luce unas manos sedosas. Querrás repetir.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Vegana Spa", 
+            "description": "Luce unos pies bonitos y cuidados con nuestro servicio de pedicura completa con productos naturales. El servicio consiste en limado de la uña natural de la forma deseada, retirada de cutículas, tratamiento spa, hidratación y esmaltado del color que más te guste de nuestra amplia gama. Presume de unos pies perfectos y sedoso durante todo el año. Visita tu Centro de Estética Rassa Sarriá y ponte en manos de nuestros mejores profesionales. Trabajan con productos totalmente naturales. Te encantará.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje De 30 Minutos", 
+            "description": "Si sientes que tu cuerpo necesita un descanso, no dudes en reservar este servicio de masaje relajante de 30 minutos de manos de nuestros profesionales y sentirás como tu cuerpo se recupera y descansa. Ven a tu Centro de Estética Rassa Sarriá y ponte en manos de nuestros mejores profesionales. Sumérgete en un universo de relax y bienestar. Saldrás renovad@ de nuestro Centro y te notarás mucho más activo y con energía para afrontar los días. Reserva tu cita cómodamente online desde Bucmi.com.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje De 50 Minutos", 
+            "description": "Cuando notas que tu cuerpo no puede seguir el ritmo del día a día, es el momento de disfrutar de este masaje relajante de 50 minutos, en el que nuestros profesionales lograrán que tu cuerpo se cargue de energía y recupere su ritmo y vitalidad habitual. ¿A qué estás esperando? Sumérgete en un universo de relax y bienestar. Saldrás renovad@ de nuestro Centro. Envuélvete en una atmósfera de tranquilidad. Reserva tu cita online a través de Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack Depilación: Piernas Enteras, Ingles Y Axilas", 
+            "description": "Ven a visitar tu Centro de Estética Rassa Sarriá y ponte en manos de nuestros mejores profesionales. Di adiós al vello molesto con este pack de depilación que incluye piernas enteras, ingles y axilas. Presume de una piel suave y libre de vello durante semanas. Olvídate de depilarte al menos durante 3 semanas. No dejes pasar la oportunidad de disfrutar de este magnífico precio y reserva tu cita online a través de Bucmi.com.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

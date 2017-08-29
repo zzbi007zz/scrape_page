@@ -1,0 +1,165 @@
+{
+    "name": "Bucmi-Aire Estilistes", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=22", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4302170000", 
+    "longitude": "2.1914085999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/aireestilistes", 
+    "office_number": "933456965", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Ven a descubrir los mejores tratamientos de belleza para tu melena. En Aire Estilistes ponemos a tu disposición las manos y el asesoramiento de nuestros mejores profesionales para sacar el máximo partido a tu pelo. Ven y prueba nuestros tratamientos.", 
+    "services": [
+        {
+            "service": "Alisado De Keratina Pelo Corto", 
+            "description": "¿Quieres un pelo liso y brillante? Ven a Aire estilistes y disfruta de una melena suave e hidratada, olvídate de usar planchas y secadores que dañan tu melena. El alisado de keratina proporciona la suavidad e hidratación que tu melena necesita. Efecto brillo y liso sin necesidad de utilizar productos adicionales.", 
+            "price": "119.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Media Melena", 
+            "description": "En Aire Estilistes ponemos a tu disposición los mejores tratamientos de keratina para conseguir una melena suave, lisa e hidratada. Olvídate de castigar tu pelo con planchas, secadores y productos agresivos para tu cuero cabelludo. Ponte en manos de nuestros estilistas. No te arrepentirás.", 
+            "price": "159.20 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Largo", 
+            "description": "¿Tu pelo está seco y sin brillo? Ven a Aire Estilistes y prueba nuestros alisados de keratina para conseguir unos resultados espectaculares. Obtendrás una melena suave, hidratada y lisa sin necesidad de castigarla más con productos agresivos para tu pelo.", 
+            "price": "199.20 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Corto", 
+            "description": "¿Quieres un pelo liso y brillante? Ven a Aire estilistes y disfruta de una melena suave e hidratada, olvídate de usar planchas y secadores que dañan tu melena. El alisado de keratina proporciona la suavidad e hidratación que tu melena necesita. Efecto brillo y liso sin necesidad de utilizar productos adicionales.", 
+            "price": "119.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Media Melena", 
+            "description": "En Aire Estilistes ponemos a tu disposición los mejores tratamientos de keratina para conseguir una melena suave, lisa e hidratada. Olvídate de castigar tu pelo con planchas, secadores y productos agresivos para tu cuero cabelludo. Ponte en manos de nuestros estilistas. No te arrepentirás.", 
+            "price": "159.20 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Largo", 
+            "description": "¿Tu pelo está seco y sin brillo? Ven a Aire Estilistes y prueba nuestros alisados de keratina para conseguir unos resultados espectaculares. Obtendrás una melena suave, hidratada y lisa sin necesidad de castigarla más con productos agresivos para tu pelo.", 
+            "price": "199.20 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Color Raíz Sin Amoníacos, Lavado Y Peinado", 
+            "description": "Unifica el color de tu melena desde la raíz sin dañar tu melena. Color sin amoniaco y sin ppd. El servicio incluye color en raíz, lavado con hidratación, secado y peinado asesorado por nuestros profesionales. Consulta en el centro por posibles suplementos si deseas color en puntas o cambios de color.", 
+            "price": "119.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color, Corte Y Secado", 
+            "description": "Necesitas un pack completo...este es el tuyo. Aplicamos color en tus raíces ( colores sin amoniaco y sin ppd), lavamos con masaje y mascarilla incluida, te asesoramos en un corte que te quede bien y hacemos brussing adecuado al corte.", 
+            "price": "159.20 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Cabello Bebes Hasta Los 4 Años", 
+            "description": "corte de cabello para bebes menores de 4 años. Sin lavado , ya que no llegan al lavacabezas.", 
+            "price": "149 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Niñ@S Hasta Los 14 Años", 
+            "description": "Corte de cabello para chicos y después lavado para eliminar cabellos, secado y producto. En el caso de las niñas primero lavado y acondicionado y después corte. Secado al aire.", 
+            "price": "199 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Hombre A Tijera", 
+            "description": "¿Cansado siempre del mismo corte de pelo? En Aire Estilistes te ofrecemos un servicio 100% personalizado para conseguir un corte de pelo moderno y con estilo, acorde con tu personalidad. El servicio incluye lavado, con masaje y peinado asesorado con productos de acabado.", 
+            "price": "249 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "¿Necesitas un cambio de look? Ven a Aire Estilistas y ponte en manos de nuestros profesionales. Consigue un corte de pelo actual y acorde con tu estilo. El servicio incluye : lavado, masaje, mascarilla, corte de cabello asesorado y secado actual y acorde al estilo deseado.", 
+            "price": "149 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Lavado Y Secado", 
+            "description": "Disfruta de una melena perfecta con este servicio de lavado y peinado . Ven a Aire Estelistes y ponte en manos de nuestros profesionales para mimar tu melena con los productos de la gama más alta del mercado. El servicio incluye lavado, masaje, mascarilla y secado deseado ( plancha si es necesario incluido en el precio )", 
+            "price": "199 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Plata Y Secado", 
+            "description": "Mechas a plata a gusto de la clienta con productos de primera calidad, matizado para sellar cutícula. Lavado con masaje y mascarilla y secado a gusto de la clienta.", 
+            "price": "249 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina Intensivo + Peinado", 
+            "description": "¿Tienes el cabello encrespado, sin brillo y te cuesta dominarlo? Este es el tratamiento perfecto para ti. Tratamiento capilar de Keratina que devuelve el brillo , la textura a tu melena y te elimina el encrespado de manera intensa. Recupera el aspecto sano y cuidado de tu melena y luce tu peinado favorito.", 
+            "price": "39.9 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Completa Tradicional", 
+            "description": "La manicura más completa. Disfruta de unas manos perfectas con este servicio de manicura. Incluye limado, retirada de cutículas, , hidratación y esmaltado a elegir de entre una gran gama de colores. Atrévete con los colores de esta temporada y consigue unas manos suaves y cuidadas.", 
+            "price": "53.9 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Pedicura tradicional: spa de pies,limado de impurezas, masaje con crema, uñas perfectas con esmaltado tradicional.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Corto", 
+            "description": "¿Quieres un pelo liso y brillante? Ven a Aire estilistes y disfruta de una melena suave e hidratada, olvídate de usar planchas y secadores que dañan tu melena. El alisado de keratina proporciona la suavidad e hidratación que tu melena necesita. Efecto brillo y liso sin necesidad de utilizar productos adicionales.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Media Melena", 
+            "description": "En Aire Estilistes ponemos a tu disposición los mejores tratamientos de keratina para conseguir una melena suave, lisa e hidratada. Olvídate de castigar tu pelo con planchas, secadores y productos agresivos para tu cuero cabelludo. Ponte en manos de nuestros estilistas. No te arrepentirás.", 
+            "price": "14.9 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina Intensivo + Peinado", 
+            "description": "¿Tienes el cabello encrespado, sin brillo y te cuesta dominarlo? Este es el tratamiento perfecto para ti. Tratamiento capilar de Keratina que devuelve el brillo , la textura a tu melena y te elimina el encrespado de manera intensa. Recupera el aspecto sano y cuidado de tu melena y luce tu peinado favorito.", 
+            "price": "32.9 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }
+    ]
+}

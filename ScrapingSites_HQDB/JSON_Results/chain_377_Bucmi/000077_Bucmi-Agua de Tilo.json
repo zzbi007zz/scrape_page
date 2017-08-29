@@ -1,0 +1,130 @@
+{
+    "name": "Bucmi-Agua de Tilo", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=78", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3881881999", 
+    "longitude": "-3.7558473999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/agua-de-tilo", 
+    "office_number": "911399158", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Agua de Tilo es un centro de terapias naturales ubicado en Aluche, en Madrid. Nuestros profesionales son maestros en Reiki, forman parte de la Federación Española de Reiki. Es por eso que todos nuestros cursos llevan el sello oficial de la federación.", 
+    "services": [
+        {
+            "service": "Sesión Reiki", 
+            "description": "Conoce todos los beneficios de las terapias de reiki. Equilibra tu mente y tu cuerpo con esta terapia ancestral que ayuda a eliminar la mala energía y equilibrar tus chacras.Encuentra tu paz interior.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Reiki", 
+            "description": "Para que puedas disfrutar de un tratamiento más alargado en el tiempo no pierdas la oportunidad de reservar nuestro bono de seis sesiones de reiki. ¡Mantén tu cuerpo y tu mente en equilibrio reservando este servicio!", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Registros Akáshicos", 
+            "description": "Los Registros Akáshicos son el gran libro de la vida, donde queda una impresión o huella de todo lo sucedido en el Universo. A través de la meditación y la oración adecuadas, podemos acceder a la información que a cada uno nos concierne o conviene conocer en un momento dado, transmitida con sabiduría, compasión y sin enjuiciamientos por Seres de Luz que son nuestros Maestros, Profesores y Amados. Ellos están para ayudarnos en nuestro proceso evolutivo y en cualquier momento que lo necesitemos.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Flores De Bach Personalizadas Con Reiki", 
+            "description": "Elixir de 30 ml de flores de Bach, flores del mediterráneo y elixires de alqvimia. Personalizado con Reiki y radiestesia.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Sesión Reiki", 
+            "description": "Conoce todos los beneficios de las terapias de reiki. Equilibra tu mente y tu cuerpo con esta terapia ancestral que ayuda a eliminar la mala energía y equilibrar tus chacras.Encuentra tu paz interior.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Reiki", 
+            "description": "Para que puedas disfrutar de un tratamiento más alargado en el tiempo no pierdas la oportunidad de reservar nuestro bono de seis sesiones de reiki. ¡Mantén tu cuerpo y tu mente en equilibrio reservando este servicio!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Curso Maestría Reiki Usui", 
+            "description": "¿Te gustaría poder impartir clases de reiki? En nuestro centro ponemos a tu disposición este curso de Maestría Reiki Usui con una duración de 8 horas que imparten seguidas en el mismo día. El curso incluye un manual según el grado y el diploma con el sello de la Federación Española de Reiki. Los cursos se pueden impartir individualmente y también en grupo. No existe un calendario cerrado para estas clases, se acuerda con el centro en función de tu disponibilidad.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Curso Reiki Usui 1º Grado", 
+            "description": "Si quieres aprender la técnica del reiki, en nuestro centro ponemos a tu disposición este curso de Primer Grado con una duración de 4 horas. El curso incluye un manual según el grado y el diploma con el sello de la Federación Española de Reiki.Los cursos se imparten individualmente y tambien en grupo.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Curso Reiki Usui 2º Grado", 
+            "description": "¿Te gustaría aprender la técnica del reiki? En nuestro centro ponemos a tu disposición este curso de Segundo Grado con una duración de 4 horas que imparten seguidas en el mismo día. El curso incluye un manual según el grado y el diploma con el sello de la Federación Española de Reiki. Los cursos se pueden impartir individualmente y también en grupo. No existe un calendario cerrado para estas clases, se acuerda con el centro en función de tu disponibilidad.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Curso Reiki Usui 3º Grado", 
+            "description": "¿Te gustaría aprender la técnica del reiki? En nuestro centro ponemos a tu disposición este curso de Tercer Grado con una duración de 8 horas que imparten seguidas en el mismo día. El curso incluye un manual según el grado y el diploma con el sello de la Federación Española de Reiki. Los cursos se pueden impartir individualmente y también en grupo. No existe un calendario cerrado para estas clases, se acuerda con el centro en función de tu disponibilidad.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Flores De Bach Personalizadas Con Reiki", 
+            "description": "Elixir de 30 ml de flores de Bach, flores del mediterráneo y elixires de alqvimia. Personalizado con Reiki y radiestesia.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Registros Akáshicos", 
+            "description": "Los Registros Akáshicos son el gran libro de la vida, donde queda una impresión o huella de todo lo sucedido en el Universo. A través de la meditación y la oración adecuadas, podemos acceder a la información que a cada uno nos concierne o conviene conocer en un momento dado, transmitida con sabiduría, compasión y sin enjuiciamientos por Seres de Luz que son nuestros Maestros, Profesores y Amados. Ellos están para ayudarnos en nuestro proceso evolutivo y en cualquier momento que lo necesitemos.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Consulta Radioestesia", 
+            "description": "Se trata de un tratamiento en el que nuestro profesional especializado se dedica a estudiar la confluencia de las energías con la utilización de utensilios como péndulos o varillas. Si todavía no lo has probado...¿A qué estas esperando?", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Consulta Radioestesia Con Elixir 30Ml", 
+            "description": "Se trata de un tratamiento en el profesional estudia la confluencia de las energías con la utilización de utensilios como péndulos o varillas. Además este servicio incluye la preparación personalizada de elixires adecuados para ayudar a eliminar ansiedad, miedos o fobias. Se trata de un preparado de 30ml con el que poder continuar con tu tratamiento en casa.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Consulta Radioestesia Con Elixir 60Ml", 
+            "description": "Se trata de un tratamiento en el profesional estudia la confluencia de las energías con la utilización de utensilios como péndulos o varillas. Además este servicio incluye la preparación personalizada de elixires adecuados para ayudar a eliminar ansiedad, miedos o fobias. Se trata de un preparado de 60ml con el que poder continuar con tu tratamiento en casa.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

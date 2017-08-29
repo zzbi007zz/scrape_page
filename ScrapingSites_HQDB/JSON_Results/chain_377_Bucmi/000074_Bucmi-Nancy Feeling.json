@@ -1,0 +1,151 @@
+{
+    "name": "Bucmi-Nancy Feeling", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=75", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3925597000", 
+    "longitude": "-3.7121700999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/nancyfeeling", 
+    "office_number": "911403618", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Nancy Feeling es un Salón de Belleza en el que disfrutarás de tratamientos de la mejor calidad a precios asequibles. Estamos situado en la zona de Carabanchel, Madrid. Disponemos de profesionales con años de experiencia en el sector de la belleza.", 
+    "services": [
+        {
+            "service": "Limpieza Facial", 
+            "description": "¿Necesitas limpiar tu piel de impurezas? Reserva nuestra limpieza facial y podrás lucir la piel que siempre has deseado. El servicio incluye: desmaquillado, extracción profunda, mascarilla hidratante y masaje facial.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Normal", 
+            "description": "¡Arréglate las uñas en nuestro centro reservando nuestra manicura normal a un precio ideal! Incluye el corte de uñas, limado y esmaltado normal en el color que más te guste. Te dejaremos unas manos perfectas, dignas de mostrar al mundo.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Mujer", 
+            "description": "¡Aprovecha nuestro pack de manicura y pedicura para mujer y reserva ahora! Te realizaremos un servicio completo para que salgas de nuestro centro con unas manos y pies totalmente cuidados y bonitos. Utilizamos esmaltes normales.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Piernas Enteras Hombre", 
+            "description": "Reserva nuestra depilación con cera para piernas enteras y olvídate del vello durante dos semanas. Utilizamos cera caliente o tibia. Servicio de depilación para hombres.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Facial", 
+            "description": "¿Necesitas limpiar tu piel de impurezas? Reserva nuestra limpieza facial y podrás lucir la piel que siempre has deseado. El servicio incluye: desmaquillado, extracción profunda, mascarilla hidratante y masaje facial.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Normal", 
+            "description": "¡Arréglate las uñas en nuestro centro reservando nuestra manicura normal a un precio ideal! Incluye el corte de uñas, limado y esmaltado normal en el color que más te guste. Te dejaremos unas manos perfectas, dignas de mostrar al mundo.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Hombre", 
+            "description": "¿Quién dice que los hombres no se cuidan? Si eres de los que les gusta sentirse bien, necesitas reservar nuestro pack de manicura y pedicura para hombre. Nuestros profesionales te realizarán un servicio completo en tus manos y pies para que salgas perfecto.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Mujer", 
+            "description": "¡Aprovecha nuestro pack de manicura y pedicura para mujer y reserva ahora! Te realizaremos un servicio completo para que salgas de nuestro centro con unas manos y pies totalmente cuidados y bonitos. Utilizamos esmaltes normales.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Hombre", 
+            "description": "Si eres hombre y te gustaría poder disfrutar de unos pies bonitos y cuidados, este es tu servicio ideal. Durante la pedicura, cortamos y limamos las uñas, tratamos durezas para dejarte unos pies perfectos.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Mujer", 
+            "description": "Cuida tus pies reservando nuestra pedicura para mujer en nuestro centro. Durante el servicio cortamos y limamos uñas, tratamos durezas y maquillamos las uñas con el esmalte normal en el color que más te guste. Nuestros profesionales se encargarán de dejarte unos pies perfectos.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Axilas Hombre", 
+            "description": "¿Necesitas una depilación urgente? Reserva nuestro servicio de depilación masculina con cera caliente o tibia en tus axilas. ¡Líbrate del incómodo vello!", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilacion Con Cera Brazos Hombre", 
+            "description": "Elimina el incómodo vello de los brazos con nuestra depilación con cera fría o caliente de primera calidad. Ponte en manos de nuestros profesionales en estética.", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Espalda Hombres", 
+            "description": "Luce una espalda libre de vello reservando nuestra depilación con cera, caliente o tibia, para tu comodidad. ¡Y disfruta de una espalda bonita y sin vello!", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Ingles Completas Mujer", 
+            "description": "¿Quieres eliminar el vello de tus Ingles completas? ¡Reserva nuestra depilación con cera para la zona de las ingles. Depilación exclusiva para mujer.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Medias Piernas Mujer", 
+            "description": "¡Luce unas piernas suaves y sedosas! Solo tienes que reservar nuestra depilación con cera para tus medias piernas. Utilizamos cera caliente o tibia. Depilación solo para mujer.", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Piernas Enteras Mujer", 
+            "description": "¡Presume de piernas suaves reservando nuestra depilación con cera! Utilizamos cera caliente o fría para tus piernas enteras. Servicio exclusivo para mujeres.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Axilas Mujer", 
+            "description": "Deshazte del incómodo vello de tus axilas reservando nuestra depilación con cera, caliente o tibia, en la zona de las axilas. Depilación exclusivamente para mujer.", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Con Cera Piernas Enteras Hombre", 
+            "description": "Reserva nuestra depilación con cera para piernas enteras y olvídate del vello durante dos semanas. Utilizamos cera caliente o tibia. Servicio de depilación para hombres.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

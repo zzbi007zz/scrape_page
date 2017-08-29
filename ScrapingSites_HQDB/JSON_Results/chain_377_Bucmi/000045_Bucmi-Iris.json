@@ -1,0 +1,200 @@
+{
+    "name": "Bucmi-Iris", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=46", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4521741999", 
+    "longitude": "-3.6963740999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/iris", 
+    "office_number": "915550039", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Iris es un salón de peluquería y estética ubicado en la zona de Cuatro Caminos, Madrid. Ven a conocernos y disfruta de todo tipo de tratamientos, tanto de peluquería como de estética. Realizamos un descuento del 20% para menores de 30 años. Te encantará.", 
+    "services": [
+        {
+            "service": "Manicura Permanente Joven", 
+            "description": "Servicio de manicura para MENORES de 30 años. En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Para las que quieren tener siempre las uñas perfectas, servicio de manicura permanente de hasta 3 semanas de duración. Incluye una manicura básica y el esmaltado permanente a tu gusto.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte", 
+            "description": "Reserva nuestro corte de pelo asesorado por nuestros profesionales. El servicio incluye el corte que más te apetezca lucir y el lavado. No incluye crema ni mascarilla. ¡Te encantará el resultado final de tu cabello!", 
+            "price": "22.40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Color", 
+            "description": "¿Te gustaría lucir un color espectacular en tu cabello? ¡Reserva este servicio! Utilizamos tintes sin amoniaco de la marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema.", 
+            "price": "12.80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peinado", 
+            "description": "¿Tienes una ocasión especial y quieres estar perfecta? ¡Reserva nuestro servicio de peinado! Incluye lavado, no incluye mascarilla o crema, peinado y productos de acabado. El precio no varía por el largo de tu pelo.", 
+            "price": "30.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Joven", 
+            "description": "Servicio de color mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce un color espectacular con nuestros tintes sin amoniaco marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema.", 
+            "price": "30.40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte Joven", 
+            "description": "Servicio de corte mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Corte asesorado por nuestros profesionales. El servicio incluye el corte a elegir y el lavado. No incluye crema ni mascarilla.", 
+            "price": "12.80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Completas O Californianas Joven", 
+            "description": "Servicio de mechas o bien completas o californianas para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce unas mechas perfectas en todo el cabello o californianas. El servicio incluye las mechas, tonalidad a elegir y el lavado. No incluye mascarilla o crema.", 
+            "price": "28.80 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Moldeador Joven", 
+            "description": "Servicio de moldeador para MENORES de 30 años. En caso de no cumplir el requisito, se abonará la diferencia de precio en el salón.Consigue unos rizos o unas ondas perfectas. El precio no varía según el largo de tu pelo.", 
+            "price": "11.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peinado Joven", 
+            "description": "¡Reserva nuestro servicio de peinado para MENORES de 30 años! El servicio incluye lavado (no incluye mascarilla o crema), peinado y productos de acabado. El precio no varía según el largo de tu pelo.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte", 
+            "description": "Reserva nuestro corte de pelo asesorado por nuestros profesionales. El servicio incluye el corte que más te apetezca lucir y el lavado. No incluye crema ni mascarilla. ¡Te encantará el resultado final de tu cabello!", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Completas O Californianas", 
+            "description": "Luce unas mechas perfectas en todo el cabello o californianas. Este servicio incluye las mechas, tonalidad a elegir y el lavado. En el lavado no incluye mascarilla o crema. ¡Te encantará el resultado de nuestras mechas!", 
+            "price": "26.40 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Moldeador", 
+            "description": "¿Te gustaría conseguir unos rizos o unas ondas perfectas durante más tiempo? ¡Reserva nuestro servicio de moldeado para tu cabello! Utilizamos productos de gran calidad para no dañar tu melena. El precio no varía según el largo de tu pelo.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color", 
+            "description": "¿Te gustaría lucir un color espectacular en tu cabello? ¡Reserva este servicio! Utilizamos tintes sin amoniaco de la marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peinado", 
+            "description": "¿Tienes una ocasión especial y quieres estar perfecta? ¡Reserva nuestro servicio de peinado! Incluye lavado, no incluye mascarilla o crema, peinado y productos de acabado. El precio no varía por el largo de tu pelo.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Con Hidratación Joven", 
+            "description": "Servicio de higiene facial con hidratación para MENORES de 30 años. En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. No trabajamos con vapores. Se limpia la piel mediante ácidos y exfoliantes enzimáticos trabajando de dentro a afuera sin necesidad de abrir el poro. Incluye extracción.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial Con Hidratación", 
+            "description": "Higiene facial completa con hidratación. No trabajamos con vapores. Se limpia la piel mediante ácidos y exfoliantes enzimáticos trabajando de dentro a afuera sin necesidad de abrir el poro. Incluye extracción.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Basica Joven", 
+            "description": "Servicio de manicura básica para MENORES de 30 años. En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Limamos, retiramos cutícula, masajeamos tus manos y esmaltamos del color que prefieras. Incluye esmaltado en manicura francesa si se desea.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Permanente Joven", 
+            "description": "Servicio de manicura para MENORES de 30 años. En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Para las que quieren tener siempre las uñas perfectas, servicio de manicura permanente de hasta 3 semanas de duración. Incluye una manicura básica y el esmaltado permanente a tu gusto.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Joven", 
+            "description": "Servicio de pedicura para MENORES de 30 años. En caso de no cumplir el requisito, se abonará la diferencia de precio en el salón. Pedicura completa con limado, tratamiento de cutícula y de pieles muertas, masaje y esmaltado del color que prefieras.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "¡Disfruta de nuestro servicio de manicura básica! Durante la manicura, limamos, retiramos cutícula, masajeamos tus manos y esmaltamos del color que prefieras. Incluye esmaltado en manicura francesa si se desea.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Para las que quieren tener siempre las uñas perfectas, servicio de manicura permanente de hasta 3 semanas de duración. Incluye una manicura básica y el esmaltado permanente a tu gusto.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "¿A qué esperas para reservar nuestra pedicura completa? Durante el servicio realizamos: limado, tratamiento de cutícula y de pieles muertas, masaje y esmaltado en el color que prefieras. Utilizamos esmalte normal.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Piernas Completas Ingles Y Axilas Joven", 
+            "description": "Precio para MENORES de 30 años. Se hará comprobación en el centro y en caso de no cumplir el requisito, se aplicará la diferencia en el salón. Pack depilación piernas completas (cera tibia), ingles (cera caliente) y axilas (cera caliente). Las ingles son ingles normales, linea del biquini. Si se desea otro tipo de depilación de ingles, se aplicará un suplemento adicional en el salón.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Ceja O Barbilla", 
+            "description": "¡Acaba con el vello de tu rostro! Reserva este servicio y podrás elegir entre la zona de las cejas o barbilla. La depilación de cejas se realiza con pinzas y la depilación de barbilla con cera caliente de gran calidad.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Piernas Completas, Ingles Y Axilas", 
+            "description": "Pack depilación piernas completas (cera tibia), ingles (cera caliente) y axilas (cera caliente). Las ingles son ingles normales, linea del biquini. Si se desea otro tipo de depilación de ingles, se aplicará un suplemento adicional en el salón.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

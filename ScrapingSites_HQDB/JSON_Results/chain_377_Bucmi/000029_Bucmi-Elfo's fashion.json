@@ -1,0 +1,305 @@
+{
+    "name": "Bucmi-Elfo's fashion", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=30", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4334358000", 
+    "longitude": "-3.6547312999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/elfosfashion", 
+    "office_number": "914051361", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Elfo´s Fashion es un salón de belleza situado en Ventas, Madrid que maneja una alta calidad en los servicios que ofrece y que cuenta con profesionales que van a la vanguardia en las últimas técnicas del sector. Nuestro lema: “Porque tú nos importas'.", 
+    "services": [
+        {
+            "service": "Baño De Color Pelo Corto", 
+            "description": "Si eres de las que te gusta cuidar tu melena con productos 100% naturales reserva nuestros baños de color sin amoniaco y cambia el color de tu cabello o unifica la raíz. Válido para la melena corta. No incluye peinado. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Pelo Corto", 
+            "description": "Gracias al asesoramiento de nuestros profesionales expertos en colorimetría, podrás elegir dentro de nuestra gama de colores la coloración que mejor vaya con tu estilo y la forma de tu cara. El servicio es válido para melenas cortas y no incluye peinado. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "12.80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Lavar, Cortar Y Peinar", 
+            "description": "Actualiza tu look. Incluye corte, lavado con hidratación de queratina y oro fluido, masaje craneal y peinado mas producto de acabado , (serum,laca o espuma) Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "104.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Brasileño Con Ácido Hialurónico Pelo Corto", 
+            "description": "Alisado con ácido hialurónico, progresivo y permanente. Proporciona al cabello un brillo y suavidad intenso al a vez que reestructura la fibra capilar. El servicio es válido para pelo corto. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "136.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Alisado Brasileño Con Ácido Hialurónico Pelo Largo", 
+            "description": "Doma tu melena larga con nuestro alisado brasileño con ácido hialurónico que repara y protege tu melena a la vez que consigue un efecto alisado libre de encrespado. Si tu pelo es extralargo consulta suplemento con el profesional. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Alisado Brasileño Con Ácido Hialurónico Pelo Medio", 
+            "description": "Consigue eliminar el encrespamiento de tu pelo a la vez que consigues dotarle de luminosidad, suavidad y brillo gracias a la aplicación de ácido hialurónico sobre el cabello. ¡Recupera la vida de tu media melena! Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "48.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Alisado Con Queratina Pelo Corto", 
+            "description": "Las melenas más rebeldes y difíciles se alisan con facilidad volviéndose suaves, sedosas, sanas y lisas. Un alisado natural que suele durar tres o cuatro meses, para que no tengas que preocuparte del aspecto de tu cabello. Keratina 100% libre de formol. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Alisado Con Queratina Pelo Largo", 
+            "description": "Ven a Elfo's Fashion y ponte en las manos de nuestros profesionales para alisar tu melena con nuestra queratina sin formol, 100% natural. Elimina el encrespado, repara y protege tu melena y devuelve la vida. Si tu melena es extralarga consulta suplemento en el salón. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "56.00 €", 
+            "service_category": null, 
+            "duration": "210 min"
+        }, 
+        {
+            "service": "Alisado Con Queratina Pelo Medio", 
+            "description": "El alisado más popular. Reserva nuestro alisado de queratina 100% libre de formol para no dañar tu pelo y di adiós el encrespado. El servicio es para melenas a media altura. Además, conseguirás reparar las zonas dañadas y darle más brillo a tu melena. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Baño De Color Pelo Corto", 
+            "description": "Si eres de las que te gusta cuidar tu melena con productos 100% naturales reserva nuestros baños de color sin amoniaco y cambia el color de tu cabello o unifica la raíz. Válido para la melena corta. No incluye peinado. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "19.20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Baño De Color Pelo Largo", 
+            "description": "Elige entre nuestra gama de colores libres de amoniaco y déjate asesorar por nuestros profesionales. El servicio incluye lavado de la melena pero no secado del cabello. Si tu melena es muy larga o con mucho volumen pregunta a nuestros profesionales por posibles suplementos. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "17.60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Baño De Color Pelo Medio", 
+            "description": "Aprovecha nuestra coloración sin amoniaco para cambiar de look sin dañar tu pelo gracias a nuestros productos vegetales libres de amoniaco. El servicio no incluye peinado y es para la media melena. No incluye peinado. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bótox Capilar", 
+            "description": "Tratamiento reestructurante con bótox capilar especialmente recomendado para cabellos maltratados. El resultado un cabello más suave, con mayor brillo y además, mejora la textura. Incluye lavado, tratamiento bótox y peinado. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "12.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Pelo Corto", 
+            "description": "Gracias al asesoramiento de nuestros profesionales expertos en colorimetría, podrás elegir dentro de nuestra gama de colores la coloración que mejor vaya con tu estilo y la forma de tu cara. El servicio es válido para melenas cortas y no incluye peinado. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Pelo Largo", 
+            "description": "Ven a Elfo's Fashion y cambia tu look gracias a nuestra amplía gama de colores de tinte para la melena larga. Incluimos secado de pelo. Si tu melena es extralarga pregunta en el salón por posible suplemento. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "14.40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Pelo Medio", 
+            "description": "Si estás aburrida de tu melena cambia el color gracias a nuestros expertos profesionales y escoge el que más te guste dentro de nuestra gama de colores. El servicio es para la melena media y no incluye peinado. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Tratamiento De Queratina", 
+            "description": "Hidratacion de queratina para nutrir el cabello, además se aplica aceite de argán y oro fluido para una máxima hidratación. Incluye corte mas peinado con productos de acabado. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "12.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Pelo Hombre Y Tratamiento Capilar Hidratante", 
+            "description": "Corte para hombre con tratamiento hidratante y anticaída de la firma cosmética, Salerm. Incluye lavado con champú anticaída más productos de acabado (laca, gel, espuma, cera). Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Tradicional O Californianas Y Peinado", 
+            "description": "Mechas tradicional o californianas hechas con las mejores técnicas para darle un toque muy personal a tu color. Incluye Matiz ,peinado y producto de acabado.(Laca,serum,espuma) Si tu melena es extralarga consulta nuestro suplemento. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Lavar, Cortar Y Peinar", 
+            "description": "Actualiza tu look. Incluye corte, lavado con hidratación de queratina y oro fluido, masaje craneal y peinado mas producto de acabado , (serum,laca o espuma) Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "72.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinado Pelo Corto", 
+            "description": "¿Tienes una cita que te ha surgido a última hora? ¿Un evento al que te apetece ir con un look más natural? Pues no dudes en reservar nuestro completo servicio de lavado con champú y peinado de la melena. No incluye peinados muy elaborados ni recogidos ni semirecogidos. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinado Pelo Largo", 
+            "description": "¿Tienes una cita que te ha surgido a última hora? ¿Un evento al que te apetece ir con un look más natural? Pues no dudes en reservar nuestro completo servicio de lavado con champú y peinado de la melena. No incluye peinados muy elaborados ni recogidos ni semirecogidos. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "12.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinado Pelo Medio", 
+            "description": "¿Tienes una cita que te ha surgido a última hora? ¿Un evento al que te apetece ir con un look más natural? Pues no dudes en reservar nuestro completo servicio de lavado con champú y peinado de la melena. No incluye peinados muy elaborados ni recogidos ni semirecogidos. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "14.40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "description": "Consigue eliminar el volumen y la grasa localizada con drenaje linfático mediante presoterapia y masaje reductor manual. Aprovecha este bono de 5 sesiones y modela tu figura. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Drenaje Linfatico Y Masaje", 
+            "description": "Mediante el masaje se activa el funcionamiento del sistema linfático superficial para conseguir mejorar la eliminación de líquidos retenidos por el organismo y de las moléculas de gran tamaño con el objetivo de facilitar su evacuación. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "48.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Diagnóstico Y Limpieza Facial", 
+            "description": "Tratamiento realizado con productos de alta calidad, Selvert Thermal. Incluye: limpieza, exfoliación, nutrición con colágeno e hidratación. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Ve perfecta a esa cita tan especial con esta manicura completa que incluye limado de uñas, tratamiento de cutículas, exfoliación con sales del mar muerto, esmaltado con colores a elegir el que más te guste, nutrición y top coat efecto gel. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "56.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente Completa", 
+            "description": "Vive una experiencia nueva en Elfo's Fashion que incluye coloración de la uña en esmalte permanente, limado e hidratación de las manos. Tiene una duración de unas tres semanas.Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Spa Y Pedicura Spa", 
+            "description": "El servicio incluye limado, tratamiento para las durezas y cutículas. Además, incluye un baño de parafina junto con una exfoliación de sales del mar muerto. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Básica", 
+            "description": "Date un respiro con este pack de manicura y pedicura completa con esmaltado normal dentro de nuestra amplía gama de colores. Disfruta de esta experiencia inolvidable. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Pedicura completa con esmaltado normal, limado de uñas, retirada de cutículas, exfoliación con sales del mar muerto, limado de durezas, nutrición y top coat efecto gel. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "130 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Permanente Completa", 
+            "description": "La pedicura más duradera de Elfo's Fashion, a elegir el color que más guste entre nuestro amplío esmaltado permanente. Además, limamos las uñas, tratamos durezas y cutículas e hidratamos y exfoliamos los pies. Una experiencia única. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "170 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Uñas Acrílicas", 
+            "description": "Este servicio es perfecto si tienes las uñas muy cortas o mordidas. Gracias a nuestras uñas acrílicas a elegir entre nuestra amplía gama de colores para conseguir unas manos envidiables. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Uñas De Gel", 
+            "description": "Ponte en las manos de nuestros profesionales con amplia experiencia y luce unas uñas de cine. Este servicio es ideal si no consigues unas uñas largas o las tienes dañadas. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles", 
+            "description": "Perfila tus ingles normales con nuestro servicio de depilación a la cera. Al final se aplica aloe vera sobre la zona para evitar el enrojecimiento. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "Ponte una falda y luce tus piernas perfectas durante semanas gracias a nuestra depilación a la cera para las piernas enteras. Gracias a la aplicación de aloe vera evitarás que se pongan rojas. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Piernas Completas, Ingles Y Axilas", 
+            "description": "El mejor pack de depilación. Incluye las piernas completas, las ingles normales y las axilas. Aplicamos aloe vera al terminar la sesión para evitar rojeces. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Alisado Con Queratina Pelo Corto", 
+            "description": "Las melenas más rebeldes y difíciles se alisan con facilidad volviéndose suaves, sedosas, sanas y lisas. Un alisado natural que suele durar tres o cuatro meses, para que no tengas que preocuparte del aspecto de tu cabello. Keratina 100% libre de formol. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Alisado Con Queratina Pelo Largo", 
+            "description": "Ven a Elfo's Fashion y ponte en las manos de nuestros profesionales para alisar tu melena con nuestra queratina sin formol, 100% natural. Elimina el encrespado, repara y protege tu melena y devuelve la vida. Si tu melena es extralarga consulta suplemento en el salón. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "210 min"
+        }, 
+        {
+            "service": "Alisado Con Queratina Pelo Medio", 
+            "description": "El alisado más popular. Reserva nuestro alisado de queratina 100% libre de formol para no dañar tu pelo y di adiós el encrespado. El servicio es para melenas a media altura. Además, conseguirás reparar las zonas dañadas y darle más brillo a tu melena. Ponte en las manos de nuestros profesionales de Elfo's Fashion y disfruta de unos resultados increíbles desde el primer momento. Haz ya tu reserva onlineF", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "name": "Bucmi-Eternal Beauty Príncipe de Vergara", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=43", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4594445000", 
+    "longitude": "-3.6769606000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/eternalbeautyclinicprincipe", 
+    "office_number": "913593619", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Clínica Estética situada en la calle Príncipe de Vergara. En Eternal Beauty Clinic ofrecemos al cliente servicios médico estéticos. Experimenta la combinación perfecta de calidad, profesionalidad y completa dedicación a tu belleza y bienestar.", 
+    "services": [
+        {
+            "service": "Depilación Láser Axilas", 
+            "description": "¿Te gustaría eliminar el vello de tus axilas? ¡Reserva ahora! El servicio incluye una sesión de depilación láser para axilas, que ayudará a que el vello desaparezca definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "299.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Ingles", 
+            "description": "¡Deshazte del vello de tus ingles para siempre! Reserva nuestra sesión de depilación láser para ingles, que ayudará a eliminar el vello definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "198.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Bótox", 
+            "description": "¿A qué esperas para probar nuestro tratamiento facial? En el servicio está incluido una sesión de tratamiento estético para la inyección de bótox facial. Podrás notar el rejuvenecimiento facial en tan solo la primera sesión. ¡Reserva ya tu cita online!", 
+            "price": "90.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones De Tratamiento Facial Hidratante", 
+            "description": "El servicio incluye dos sesiones de quince minutos para realizar la infiltración de vitaminas, que sirve para tratar la luminosidad y la flacidez facial y una sesión de tratamiento de luminosidad con vitamina C de sesenta minutos.", 
+            "price": "165.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Cavitación", 
+            "description": "Eliminaremos la grasa localizada que no consigues eliminar ni con dietas ni ejercicio gracias a nuestro servicio de cavitación, que rompe el nódulo de grasa a través de la aplicación de calor sobre la zona.", 
+            "price": "150.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Drenaje Linfático Manual", 
+            "description": "Terapia manual de una hora de duración que aplicamos sobre tu cuerpo y sobre esas zonas donde tienes la celulitis localizada, para que consigas mejorar la circulación de tu organismo y eliminar de forma natural la grasa localizada.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Básica", 
+            "description": "En el servicio está incluido una leche desmaquillante, un tónico, un peeling ultrasonico (klapp) para la eliminación de impurezas de la piel, una mascarilla y un masaje final. ¡Reserva ya tu cita online!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Profunda", 
+            "description": "¡Limpia y cuida la piel de tu rostro reservando nuestra higiene facial profunda! El servicio incluye desmaquillado, tónico, extracción, peeling ultrasónico, hidratación, mascarilla y masaje facial. ¡Lucirás una cara perfecta!", 
+            "price": "450 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza De Espalda", 
+            "description": "Disfruta de una piel suave, tersa y libre de impurezas gracias a nuestro completo servicio de limpieza de espalda que incluye la exfoliación con peeling, eliminación de impurezas e hidratación de la piel para que el tratamiento sea completo.", 
+            "price": "280 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peeling Detox Corporal", 
+            "description": "Gracias a este servicio podrás ayudar a reparar tu piel con este peeling corporal a base de envolturas para eliminar las capas de células muertas y con esta desintoxicación de la piel. ¡Reserva online!", 
+            "price": "78 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Presoterapia", 
+            "description": "La sesión tiene una duración aproximada de 20 minutos. Disfruta de una piel firme y de unas piernas sin dolor gracias a nuestro servicio de presoterapia, que ayuda a mejorar la circulación de tus extremidades y a reducir y eliminar la piel de naranja.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Corporal", 
+            "description": "Tu piel volverá a generar elastina y colágeno, que vas perdiendo poco a poco con el paso del tiempo, por lo que tu piel volverá a estar tersa y firme. Di adiós a esa celulitis que tanto te disgusta.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial", 
+            "description": "Tu piel volverá a generar elastina y colágeno, que vas perdiendo poco a poco con el paso de los años, gracias a nuestra sesión de radiofrecuencia facial de una hora de duración. Notarás los resultados desde el principio.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Coporal", 
+            "description": "Déjate mimar y luce tipo esta temporada con cualquiera de nuestros tratamientos a elegir, cavitación, presoterapia, masaje linfático, masaje reductor, masaje anticelulítico o electroestimulación.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Reductor", 
+            "description": "¿Quieres reducir volumen y eliminar la celulitis acumulada en tu cuerpo? Reserva nuestro tratamiento corporal en el que combinamos un masaje reductor de 30 minutos y una sesión de 30 minutos de vacunterapia.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Vacumterapia", 
+            "description": "La sesión tiene una duración aproximada de 20 minutos.Consigue una piel tersa y firme gracias a los beneficios que la vacumterapia tiene sobre tu piel. Conseguirás ese cuerpo 10 tan deseado.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Corporal A Elegir", 
+            "description": "Escoge entre todos nuestros masajes relajantes, descontracturantes, deportivos... de Eternal Beauty Clinic. La sesión tiene un duración de treinta minutos. ¡Saldrás con las pilas totalmente cargadas!", 
+            "price": "78 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pack Depilación Axilas, Ingles Y Medias Piernas", 
+            "description": "El servicio incluye un pack depilación láser en axilas, ingles y medias piernas. Eligiendo cualquiera de los 3 tipos de técnicas: Alejandrita, Diodo o Soprano. Reserva ya tu cita online con nosotros.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Láser Piernas, Ingles B Y Axilas", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro completo pack de depilación láser que incluye las zonas de las piernas completas, ingles brasileñas y axilas. Y despídete de las cuchillas.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Láser Piernas Completas E Ingles Normal", 
+            "description": "Elimina el vello de forma definitiva de tus piernas completas y de tus ingles normales y presume de una piel suave y sedosa gracias a nuestro diodo de Eternal Beauty Clinic.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "4 Sesiones Depilación Láser Zona Pequeña", 
+            "description": "¡Elimina el vello de forma definitiva gracias al láser de diodo! El servicio incluye cuatro sesiones de depilación de láser de diodo en una zona pequeña a elegir entre: labio superior, ingles o axilas.", 
+            "price": "78 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Antebrazos", 
+            "description": "El servicio incluye una sesión de depilación láser para antebrazos, que ayudará a eliminar el vello definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Láser Axilas", 
+            "description": "¿Te gustaría eliminar el vello de tus axilas? ¡Reserva ahora! El servicio incluye una sesión de depilación láser para axilas, que ayudará a que el vello desaparezca definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Brazos Completos", 
+            "description": "El servicio incluye una sesión de depilación láser para brazos enteros, que ayudará a eliminar el vello definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "268 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Láser Ingles Brasileñas", 
+            "description": "El servicio incluye una sesión de depilación láser para ingles brasileñas, que ayudará a eliminar el vello definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "210 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Masculina Ingles Y Pierna", 
+            "description": "Elimina el vello de tus ingles y tus piernas completas y despídete de la cuchilla y de otros utensilios de depilación de forma definitiva gracias a nuestro completo servicio de depilación para el hombre.", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Masculina Tórax O Abdomen", 
+            "description": "Di adiós al vello de tu tórax o abdomen que nuestro láser de diodo, mucho más eficaz y menos doloroso que otro tipo de láseres. Notarás los resultados desde la primera sesión. Reserva ya con Bucmi.com.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Masculina Tórax Y Abdomen", 
+            "description": "Elimina el vello de tu tórax y abdomen y despídete de la cuchilla y de otros utensilios de depilación de forma definitiva gracias a nuestro completo servicio de depilación para el hombre.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Medias Piernas", 
+            "description": "El servicio incluye una sesión de depilación láser para medias piernas, que ayudará a eliminar el vello definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Medias Piernas, Ingles B Y Axilas", 
+            "description": "Completo pack de depilación láser que harás que te olvides del vello de forma definitiva para la zona de las medias piernas, ingles brasileñas y axilas. ¡Y olvídate de las cuchillas!", 
+            "price": "58 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Láser Piernas Enteras", 
+            "description": "El servicio incluye una sesión de depilación láser para piernas enteras, que ayudará a eliminar el vello definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "230 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Masculina Espalda", 
+            "description": "Olvídate del vello de forma definitiva gracias a nuestro completo servicio de depilación para el hombre que incluye la zona de la espalda completa. Disfrutarás de un piel suave y sedosa.", 
+            "price": "110 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Masculina Piernas Enteras", 
+            "description": "Olvídate del vello de forma definitiva gracias a nuestro completo servicio de depilación para el hombre que incluye la zona de las medias piernas. Disfrutarás de un piel suave y sedosa.", 
+            "price": "210 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Diseño De Cejas", 
+            "description": "Tendrás unas cejas de una forma perfecta según tus facciones gracias a nuestro servicio de depilación de cejas con pinzas,donde previamente estudiaremos tu cara para adaptarnos a tu estilo y personalidad.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Ingles", 
+            "description": "¡Deshazte del vello de tus ingles para siempre! Reserva nuestra sesión de depilación láser para ingles, que ayudará a eliminar el vello definitivamente. El láser es a elegir entre 3 tipos de técnicas, Alejandrita, Diodo o Soprano.", 
+            "price": "105 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

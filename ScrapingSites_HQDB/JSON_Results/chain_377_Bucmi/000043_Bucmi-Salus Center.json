@@ -1,0 +1,165 @@
+{
+    "name": "Bucmi-Salus Center", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=44", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4409378000", 
+    "longitude": "-3.6959437000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/saluscenter", 
+    "office_number": "915533463", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Salus Center es una clínica de estética ubicada en la zona de Ríos Rosas de Madrid. Sus profesionales cuentan con más de 20 años de experiencia y realizan tratamientos especializados 100% adaptados a las necesidades de cada cliente. Los principales servicios que ofrecen son tratamientos faciales, tratamientos corporales y depilaciones láser. Todo ello en un espacio acogedor, que inspira armonía y relajación. La profesionalidad de su equipo y los productos de calidad utilizados periten conseguir una calidad estándar, valorada positivamente por sus clientes.", 
+    "services": [
+        {
+            "service": "Tratamiento Facial Células Madre", 
+            "description": "¡Prueba nuestro tratamiento facial de células madre vegetales! Gracias a este servicio conseguirás evitar el envejecimiento prematuro, reducir e incluso eliminar las arrugas y acabar con la flacidez, nutriendo y renovando la piel de manera natural. El tratamiento se realiza con un peeling previo, en rostro, cuello, escote y cuero cabelludo (si fuera necesario). Utilizamos productos de alta calidad según las necesidades de tu piel. Resérvalo online en tan solo 3 clics. ¡Notarás los resultados!", 
+            "price": "290.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 10 Tto. Corporal Reductor Photon", 
+            "description": "Reserva nuestro bono de diez sesiones de tratamiento corporal Photon. Consiste en una terapia que sirve para regular las constantes vitales así como reducir toxinas y volumen. ¡Te encantará el resultado! Luce la figura que siempre has soñado gracias a nuestros profesionales de Salus Center, ellos identificarán tus necesidades y te realizarán un tratamiento reductor personalizado para ti.", 
+            "price": "210.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Reafirmante Lipoled", 
+            "description": "En Salus Center contamos con la aparatología más novedosa del mundo de la estética, para ofrecerte los mejores resultados. Ahora puedes probar la tecnología Lipoled, basada en el fotorejuvenecimiento LED, con la que podemos combatir la celulítis y las adiposidades localizadas, conseguir un efecto drenante y sobre todo tonificar y tensar la piel en zonas tan sensibles como los brazos. ¡Reserva esta sesión para una zona corporal y descubre sus increíbles resultados!", 
+            "price": "75.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Rejuvenecedor Lipoled", 
+            "description": "¿Aún no conoces la tecnología Lipoled? Se trata de la aparatología más eficaz y novedosa del sector de la estética, en lo que a tratamientos reafirmantes se refiere. Reserva ya nuestra sesión facial y te aplicaremos este tratamiento en rostro, cuello y escote. Notarás los resultados desde la primera sesión y lucirás un aspecto más joven y vital. ¡Reserva esta sesión individual con Bucmi y ven a probarlo!", 
+            "price": "75.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 10 Tto. Corporal Reductor Therapy Cool", 
+            "description": "Bono de 10 sesiones del tratamiento corporal de therapy cool. Cada sesión tiene una duración aproximada de 55 minutos. El tratamiento consiste en una serie de contrastes de frio y calor. Mejora las defensas y la circulación así como ayuda a reducir celulitis y volumen corporal. Consigue una mejor figura gracias a los profesionales de Salus Center y reserva online tu cita al mejor precio.", 
+            "price": "350.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Radiofrecuencia Corporal", 
+            "description": "Bono de cinco sesiones de radiofrecuencia coporal de 55 minutos de duración aproximada cada sesión. Ayuda a eliminar la grasa localizada y trata la grasa superficial. La sesión suelta tiene un precio de 75 euros y con este bono tiene un precio de 60 euros. Este tratamiento produce un aumento en la circulación de la zona que permitirá mejorar el metabolismo tanto del tejido graso como la mejora de la piel.", 
+            "price": "300.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Células Madre", 
+            "description": "¡Prueba nuestro tratamiento facial de células madre vegetales! Gracias a este servicio conseguirás evitar el envejecimiento prematuro, reducir e incluso eliminar las arrugas y acabar con la flacidez, nutriendo y renovando la piel de manera natural. El tratamiento se realiza con un peeling previo, en rostro, cuello, escote y cuero cabelludo (si fuera necesario). Utilizamos productos de alta calidad según las necesidades de tu piel. Resérvalo online en tan solo 3 clics. ¡Notarás los resultados!", 
+            "price": "290.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 10 Tto. Corporal Reductor Photon", 
+            "description": "Reserva nuestro bono de diez sesiones de tratamiento corporal Photon. Consiste en una terapia que sirve para regular las constantes vitales así como reducir toxinas y volumen. ¡Te encantará el resultado! Luce la figura que siempre has soñado gracias a nuestros profesionales de Salus Center, ellos identificarán tus necesidades y te realizarán un tratamiento reductor personalizado para ti.", 
+            "price": "210.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Tto Corporal Reafirmante Lipoled", 
+            "description": "Consigue resultados más eficaces a la hora de remodelar tu cuerpo y tonificar o reafirmar tu piel. Con este bono podrás disfrutar de 6 sesiones de nuestro tratamiento Lipoled, basado en la tecnología LED, para zona localizada. Está especialmente indicado para tonificar y tensar zonas como los brazos, pero es igualmente eficaz para tratar celulítis, adiposidades, tonificar senos o conseguir un efecto drenante. ¡Resérvalo en 1 minuto y consigue tus objetivos!", 
+            "price": "398.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Tto Facial Rejuvenecedor Lipoled", 
+            "description": "Luce un rostro, cuello y escote mucho más firmes y jóvenes, con nuestro bono de 6 sesiones de 45 minutos de este tratamiento Lipoled. Este bono está especialmente pensado para las personas más exigentes con su piel, ya que consigue reducir la flacidez y los signos de la edad en estas zonas de forma notable. No dejes escapar nuestro bono en promoción y resérvalo ya online de la forma más cómoda con Bucmi.", 
+            "price": "398.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Reafirmante Lipoled", 
+            "description": "En Salus Center contamos con la aparatología más novedosa del mundo de la estética, para ofrecerte los mejores resultados. Ahora puedes probar la tecnología Lipoled, basada en el fotorejuvenecimiento LED, con la que podemos combatir la celulítis y las adiposidades localizadas, conseguir un efecto drenante y sobre todo tonificar y tensar la piel en zonas tan sensibles como los brazos. ¡Reserva esta sesión para una zona corporal y descubre sus increíbles resultados!", 
+            "price": "75.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Rejuvenecedor Lipoled", 
+            "description": "¿Aún no conoces la tecnología Lipoled? Se trata de la aparatología más eficaz y novedosa del sector de la estética, en lo que a tratamientos reafirmantes se refiere. Reserva ya nuestra sesión facial y te aplicaremos este tratamiento en rostro, cuello y escote. Notarás los resultados desde la primera sesión y lucirás un aspecto más joven y vital. ¡Reserva esta sesión individual con Bucmi y ven a probarlo!", 
+            "price": "75.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 10 Tto. Corporal Reductor Therapy Cool", 
+            "description": "Bono de 10 sesiones del tratamiento corporal de therapy cool. Cada sesión tiene una duración aproximada de 55 minutos. El tratamiento consiste en una serie de contrastes de frio y calor. Mejora las defensas y la circulación así como ayuda a reducir celulitis y volumen corporal. Consigue una mejor figura gracias a los profesionales de Salus Center y reserva online tu cita al mejor precio.", 
+            "price": "350.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Radiofrecuencia Corporal", 
+            "description": "Bono de cinco sesiones de radiofrecuencia coporal de 55 minutos de duración aproximada cada sesión. Ayuda a eliminar la grasa localizada y trata la grasa superficial. La sesión suelta tiene un precio de 75 euros y con este bono tiene un precio de 60 euros. Este tratamiento produce un aumento en la circulación de la zona que permitirá mejorar el metabolismo tanto del tejido graso como la mejora de la piel.", 
+            "price": "300.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Corporal", 
+            "description": "Este tratamiento influye en el drenaje linfático, lo cual permite disminuir los líquidos y toxinas en las que se encuentran embebidos los adipocitos (células grasas) del tejido afectado de celulitis. A su vez, produce un aumento en la circulación de la zona que permitirá mejorar el metabolismo tanto del tejido graso como la mejora de la piel ¡Reserva nuestra sesión suelta de radiofrecuencia corporal! Gracias a este servicio eliminamos la grasa localizada y tratamos la grasa superficial", 
+            "price": "280.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial", 
+            "description": "La radiofrecuencia facial es una técnica que combate de manera efectiva la flacidez. Consiste en aplicar energía de radiofrecuencia para calentar las capas internas de la piel. Al aplicar energía en forma de calor a una temperatura promedio de 40 grados se realiza una contracción de las redes de colágeno y elastina de nuestra piel, obteniendo resultados inmediatos y de larga duración. ¡Di adiós a las arrugas y luce una piel rejuvenecida!", 
+            "price": "125.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Reductor Photon", 
+            "description": "¿Todavía no has probado nuestro tratamiento corporal reductor Photon? ¡No esperes más y reserva ahora! Consiste en una terapia que sirve para regular las constantes vitales así como reducir las toxinas y volumen. Luce la figura que siempre has soñado gracias a nuestros profesionales de Salus Center, ellos identificarán tus necesidades y te realizarán un tratamiento reductor personalizado para ti. Y todo esto, al mejor precio.", 
+            "price": "490 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial 4 Hilos Tensores", 
+            "description": "¡Reserva nuestro tratamiento facial! Consiste en la colocación de cuatro hilos tensores. Es el nuevo lifting facial sin cirugía. Elimina la flacidez facial y borra arrugas gracias a la implantación de hilos intradérmicos. Los Hilos tensores consiguen elevar los tejidos relajados para dar al rostro un aspecto más joven y saludable, preservando los rasgos y las características naturales de cada persona. Se trata de un procedimiento mínimamente invasivo, sencillo y que aporta muy buenos resultados.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Depilacion Laser Medias Piernas", 
+            "description": "Bono de cinco sesiones de láser de Alejandrita indicado para medias piernas. La sesión suelta tiene un precio de 60 euros y con este bono, pagas la sesión suelta a 45 euros. Resultados probados y garantizados. Estás a 3 clics de olvidarte de los métodos de depilación tradicional que te irritan y te obligan a repetir el tratamiento una y otra vez. ¿Necesitas más razones para hacer tu reserva online?", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Depilacion Laser Axilas O Ingles", 
+            "description": "Bono de cinco sesiones de depilación láser Alejandrita para zona pequeña (ingle normal o axilas). Resultados comprobados y garantizados. La sesión suelta tiene un precio de 60 euros, pero con este bono, la sesión. Estás a 3 clics de olvidarte de los métodos de depilación tradicional que te irritan y te obligan a repetir el tratamiento una y otra vez. ¿Necesitas más razones para hacer tu reserva online?", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

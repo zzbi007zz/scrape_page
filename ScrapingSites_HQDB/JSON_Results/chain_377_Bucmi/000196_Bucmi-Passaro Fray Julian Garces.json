@@ -1,0 +1,193 @@
+{
+    "name": "Bucmi-Passaro Fray Julián Garces", 
+    "scrape_page": "https://www.bucmi.com/Zaragoza.html?page=6", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.6290397000", 
+    "longitude": "-0.8874872000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/passarofray", 
+    "office_number": "976250207", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Passaro Fray Julián Garces es un salón de belleza situado en Zaragoza y avalado por una amplia experiencia en el mercado del cabello masculino. En Passaro ponemos pasión e ilusión en todo momento a nuestro trabajo para garantizar un resultado excelente.", 
+    "services": [
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Disfruta de éste servicio de corte de pelo para hombre de la mano de nuestros exeprtos profesionales. El corte incluye lavado y peinado. No esperes más, renueva tu look en nuestro salón. ¡Ahora con la facilidad de la reserva online!", 
+            "price": "9.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer Media Melena", 
+            "description": "Presume de melena con éste corte de pelo de mujer para media melena. El servicio incluye lavado y secado. Si quieres cortarte el pelo, en Passaro Fray Julián Garces te realizaremos un corte con mucho estilo ¡Ven a probarlo, no te arrepentirás!", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Jubilados", 
+            "description": "Disfruta de éste servicio de corte de pelo para jubilados de la mano de nuestros exeprtos profesionales. El corte incluye lavado y peinado con asesoramiento de nuestros exeprtos. No esperes más, renueva tu look en nuestro salón. ¡Ahora con la facilidad de la reserva online! Este servicio es un precio especial solo para jubilado.", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte Hombre", 
+            "description": "Ya sea simplemente para cubrir las canas o cambiar el color de tu cabello éste es tu servicio. Ven a Passaro Fray Julián Garces y ponte en manos de nuestros mejores profesionales. ¡No te arrepentirás! Reserva ya tu cita online a través de Bucmi.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Media Melena", 
+            "description": "Dale vida y color a tu melena con nuestro servicio de tinte para media melena, ponte en manos de nuestros expertos estilistas y luce un cabello espectacular. El servicio incluye lavado y secado. ¿A qué estás esperando? Reserva tu cita a través de Bucmi.com. ¡No te arrepentirás!", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Mujer Pelo Corto", 
+            "description": "Dale vida y color a tu melena con nuestro servicio de tinte, ponte en manos de nuestros expertos estilistas y luce un cabello espectacular. El servicio incluye lavado y secado. ¿A qué estás esperando? Reserva tu cita a través de Bucmi.com. ¡No te arrepentirás!", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Pelo Largo", 
+            "description": "Dale vida y color a tu melena con nuestro servicio de tinte para pelo largo, ponte en manos de nuestros expertos estilistas y luce un cabello espectacular. El servicio incluye lavado y secado. ¿A qué estás esperando? Reserva tu cita a través de Bucmi.com. ¡No te arrepentirás!", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Disfruta de éste servicio de corte de pelo para hombre de la mano de nuestros exeprtos profesionales. El corte incluye lavado y peinado. No esperes más, renueva tu look en nuestro salón. ¡Ahora con la facilidad de la reserva online!", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer Media Melena", 
+            "description": "Presume de melena con éste corte de pelo de mujer para media melena. El servicio incluye lavado y secado. Si quieres cortarte el pelo, en Passaro Fray Julián Garces te realizaremos un corte con mucho estilo ¡Ven a probarlo, no te arrepentirás!", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer Pelo Corto", 
+            "description": "¿Estás cansado de tu pelo y quieres lucir un look en tendecia? Disfruta de éste corte de pelo para mujer de pelo corto. El servicio incluye lavado y secado, además serás asesorado por los mejores profesionales. ¡Conseguirás el look que tanto deseas! Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Niño", 
+            "description": "Como los niños también se merecen estar guapo, en Passaro Fray Julián Garces ofrecemos un corte para niño al mejor precio. Corte para los más pequeños de la casa, hasta los 12 años de edad, el servicio incluye lavado y peinado con productos de acabado. ¡Ahora con la facilidad de la reserva online!", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Color Media Melena", 
+            "description": "Si lo que quieres es ocultar las canas o cambiar tu look, ponte en manos de nuestros expertos y disfruta de éste servicio de corte y color para media melena. El servicio incluye lavado y secado. Conseguirás una melena brillante y un color espectacular. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te asombrará el resultado!", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Y Color Pelo Corto", 
+            "description": "Si lo que quieres es ocultar las canas o cambiar tu look, ponte en manos de nuestros expertos y disfruta de éste servicio de corte y color en nuestro salón. El servicio incluye lavado y secado. Conseguirás una melena brillante y un color espectacular. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te asombrará el resultado!", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Y Color Pelo Largo", 
+            "description": "Si lo que quieres es ocultar las canas o cambiar tu look, ponte en manos de nuestros expertos y disfruta de éste servicio de corte y color para pelo largo. El servicio incluye lavado y secado. Conseguirás una melena brillante y un color espectacular. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te asombrará el resultado!", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar Y Secar Media Melena", 
+            "description": "Disfruta de éste servicio de lavado y secado para media melena de la mano de nuestros mejores estilistas. Ven a Passaro Fray Julián Garces y recibirás el mejor trato posible. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Secar Mujer Pelo Corto", 
+            "description": "Disfruta de éste servicio de lavado y secado para mujer de la mano de nuestros mejores estilistas. Ven a Passaro Fray Julián Garces y recibirás el mejor trato posible. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Secar Pelo Largo", 
+            "description": "Disfruta de éste servicio de lavado y secado para pelo largo de la mano de nuestros mejores estilistas. Ven a Passaro Fray Julián Garces y recibirás el mejor trato posible. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Hombre", 
+            "description": "¿Te apetece darle un toque de luz a tu pelo? Disfruta de éste servicio de mechas para hombre con el asesoramiento de nuestros expertos estilistas. Reserva ya tu cita cómodamente online a través de Bucmi.com. ¡Te encantarán los resultados!", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Media Melena", 
+            "description": "¿Quieres conseguir un cabello más dulce y natural? Dale luz a tu melena gracias a éste servicio de mechas para media melena. Ponte en manos de nuestros expertos estilistas y déjate asesorar. ¡No esperes más! Reserva ya tu cita, ahora con la facilidad de la reserva online. ¡Te encantará!", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Mujer Pelo Corto", 
+            "description": "¿Quieres conseguir un cabello más dulce y natural? Dale luz a tu melena gracias a éste servicio de mechas para pelo corto. Ponte en manos de nuestros expertos estilistas y déjate asesorar. ¡No esperes más! Reserva ya tu cita, ahora con la facilidad de la reserva online. ¡Te encantará!", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Pelo Largo", 
+            "description": "¿Quieres conseguir un cabello más dulce y natural? Dale luz a tu melena gracias a éste servicio de mechas para pelo largo. Ponte en manos de nuestros expertos estilistas y déjate asesorar. ¡No esperes más! Reserva ya tu cita, ahora con la facilidad de la reserva online. ¡Te encantará!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Permanente Media Melena", 
+            "description": "¿Quieres conseguir un cabello rizado de una manera natural? La permanente es el método ideal para rizar tu melena. Disfruta de éste servicio de permanente para media melena de la mano de nuestros expertos estilistas y consigue unos rizos perfectos. ¡Reserva ya tu cita! ¡No te arrepentirás!", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Permanente Pelo Corto", 
+            "description": "¿Quieres conseguir un cabello rizado de una manera natural? La permanente es el método ideal para rizar tu melena. Disfruta de éste servicio de permanente para pelo corto de la mano de nuestros expertos estilistas y consigue unos rizos perfectos. ¡Reserva ya tu cita! ¡No te arrepentirás!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Permanente Pelo Largo", 
+            "description": "¿Quieres conseguir un cabello rizado de una manera natural? La permanente es el método ideal para rizar tu melena. Disfruta de éste servicio de permanente para pelo largo de la mano de nuestros expertos estilistas y consigue unos rizos perfectos. ¡Reserva ya tu cita! ¡No te arrepentirás!", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

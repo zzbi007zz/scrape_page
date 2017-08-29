@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Metropolitano", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=89", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4464350000", 
+    "longitude": "-3.7194253999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/metropolitano", 
+    "office_number": "915331980", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "¡En Metropolitano queremos tenerte lo más espectacular posible!, prueba nuestros servicios de estética y consigue la mejor relación calidad-precio. Además te ofrecemos la posibilidad de comprar los productos de belleza que utilices. ¡Ven a visitarnos!", 
+    "services": [
+        {
+            "service": "Tratamiento Extensiones Pestañas", 
+            "description": "Luce una mirada natural de cine con pestañas de seda que se colocan una a una. Resalta tu mirada con estas nuevas pestañas. Reserva ya tu cita online a través de Bucmi.com.", 
+            "price": "70.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Disfruta de una limpieza facial que incluye extracción e hidratación para un rostro lleno de vida. Luce un cutis bonito, suave y libre de impurezas. Reserva ya tu cita online a través de Bucmi.com.", 
+            "price": "70.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Extensiones Pestañas", 
+            "description": "Luce una mirada natural de cine con pestañas de seda que se colocan una a una. Resalta tu mirada con estas nuevas pestañas. Reserva ya tu cita online a través de Bucmi.com.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Disfruta de una limpieza facial que incluye extracción e hidratación para un rostro lleno de vida. Luce un cutis bonito, suave y libre de impurezas. Reserva ya tu cita online a través de Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Peeling Corporal Y Masaje Hidratante", 
+            "description": "Es un tratamiento que elimina las células muertas de la piel, aportando frescura y limpieza a la piel. Además incluye un masaje hidratante para dejarte una piel suave y bonita. Reserva ya tu cita online con Bucmi.com.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Permanente Y Tinte De Pestañas", 
+            "description": "Luce una mirada bonita y llena de color. Resalta tus ojos con nuestro tratamiento. La mirada es la expresión del cuerpo que más dice sobre nosotros.¡Lúcela! Reserva ya tu cita online a través de Bucmi.com. La duración estimada son 75 minutos.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Basica", 
+            "description": "Este servicio incluye: Limado de uñas, tratamiento de cutículas, masaje con loción regeneradora y maquillado de uñas. Luce unas manos bonitas y elige entre una gran variedad de colores. Reserva ya tu cita online con Bucmi.com.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Esmaltado Permanente", 
+            "description": "Este servicio inluye: Limado de uñas, tratamiento de cutículas, masaje con loción regeneradora y maquillado de uñas con esmaltado permanente", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Este servicio incluye: Limado de uñas, tratamiento de cutículas, tratamiento de durezas y masaje con loción regeneradora y maquillado de uñas. Luce unas manos bonitas y elige entre una gran variedad de colores. Reserva ya tu cita online con Bucmi.com.", 
+            "price": "12.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Esmaltado Permanente", 
+            "description": "Este servicio incluye: Limado de uñas, tratamiento de cutículas, tratamiento de durezas y masaje con loción regeneradora y maquillado de uñas con esmalte permanente. Luce unos pies bonitos y elige entre una gran variedad de colores. Reserva ahora tu cita online con Bucmi.com.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

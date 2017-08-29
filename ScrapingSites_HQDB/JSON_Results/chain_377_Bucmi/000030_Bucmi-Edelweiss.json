@@ -1,0 +1,88 @@
+{
+    "name": "Bucmi-Edelweiss", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=31", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4320119000", 
+    "longitude": "-3.7105093000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/edelweiss", 
+    "office_number": "915930670", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de estética y terapias naturales especializado en osteopatía, terapias holísticas y belleza. Tenemos un gran variedad de tratamientos y terapias naturales. Nos preocupa tu bienestar, tu salud y el cuidado de tu cuerpo. Te esperamos.", 
+    "services": [
+        {
+            "service": "Higiene Facial", 
+            "description": "En el servicio está incluido el desmaquillado de la piel, limpieza con extracción, mascarilla y por último un masaje facial. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales Edelweiss", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Reafirmante Facial", 
+            "description": "El servicio incluye una sesión de radiofrecuencia, electroestimulación, colágeno y ácido hialurónico. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "En el servicio está incluido el desmaquillado de la piel, limpieza con extracción, mascarilla y por último un masaje facial. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales Edelweiss", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Reductor", 
+            "description": "El servicio incluye una sesión combinada de presoterapia y vacumterapia. Es un tratamiento reductor eficaz desde la primera sesión. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales Edelwiss.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "Técnicas manuales encaminadas a la reestructuración del paciente, tanto a nivel del sistema estructural como a nivel viscero-craneal.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Deportivo", 
+            "description": "Masaje deportivo de una hora de duración. Indicado tanto para deportistas profesionales como para personas que hacen deporte de forma menos habitual. Ayuda a prevenir y tratar lesiones derivadas del deporte.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Piernas Enteras Ingles Y Axilas", 
+            "description": "Pack de depilación cera caliente piernas enteras ingles (normales) y axilas. En caso de querer ingles completas o brasileñas, se aplicará el suplemento adicional en el salón.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

@@ -1,0 +1,333 @@
+{
+    "name": "Bucmi-Cala", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=63", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3837118000", 
+    "longitude": "-3.7275975999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/esteticacala", 
+    "office_number": "914661168", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Cala es un centro de estética especializado, ubicado en pleno barrio de Carabanchel, donde podrás encontrar múltiples tratamientos faciales, corporales, manicuras.... para que te sientas bien tanto por dentro como por fuera. Ven a vernos y te encantará.", 
+    "services": [
+        {
+            "service": "Bono 15 Sesiones Presoterapia", 
+            "description": "Si aún no has probado la presoterapia, este es el momento. No dejes escapar nuestro bono en promoción y ahorra dinero. La presoterapia es un tratamiento con el que fomentamos la estimulación sanguínea, combatimos la retención de liquido y movilizamos la grasa localizada.", 
+            "price": "150.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "5 Sesiones De Masaje Relajante O Terapeutico", 
+            "description": "Prueba nuestro quiromasaje para tratar cualquier tipo de tension o contractura muscular o simplemente para relajarte placidamente durante 1 hora con nuestros masajes aromaticos", 
+            "price": "112.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas Para 2 Personas", 
+            "description": "Anímate con quien tu más quieras y probad juntas el tinte y la permanente de pestañas. Aprovechad nuestro pack en promoción y os ahorraréis algo de dinero. Os realizaremos el tratamiento a la misma hora a las dos.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Con Microdermoabrasíon Y Masaje", 
+            "description": "Limpieza facial con peeling,extracción de comedones y milium en caso necesario,reactivación profunda celular con punta de diamante para afinar la piel dar luminosidad y activar fibras de colágeno y elastina,principios activos adecuados al tipo de piel,desinfeccion con alta frecuencia,masaje facial relajante,mascarilla y masaje podal", 
+            "price": "150.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial", 
+            "description": "Conoces la radiofrecuencia facial?Este es el momento!Rejuvenece,reafirma y regenera tu piel con nuestra monopolar!Un servicio de autentico placer con limpieza exfoliacion vitaminas,masaje y para acabar nuestra máscara con tecnologia led con espectaculares resultados antiedad", 
+            "price": "350.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 15 Sesiones Presoterapia", 
+            "description": "Si aún no has probado la presoterapia, este es el momento. No dejes escapar nuestro bono en promoción y ahorra dinero. La presoterapia es un tratamiento con el que fomentamos la estimulación sanguínea, combatimos la retención de liquido y movilizamos la grasa localizada.", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "12 Sesiones Tratamiento Corporal Lipolítico", 
+            "description": "Prepara tu figura para lucir ese vestido que tanto te gusta o estar estupenda en bikini, con nuestro pack de tratamientos reductores y remodelantes. En cada una de las 12 sesiones te aplicaremos nuestro láser frío lipolítico para romper las estructuras de grasa y te aplicaremos una sesión de presoterapia para favorecer su eliminación. Notaras los resultados.", 
+            "price": "370.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 20 Sesiones Rayos Uva", 
+            "description": "Prepara tu piel para exponerla al sol o para lucir de forma irresistible las prendas claras con nuestro bono de 20 sesiones de rayos uva. Y presume de bronceado irresistible en cualquier época del año. Cada sesión tendrá una duración de 13 minutos como máximo.", 
+            "price": "63.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 12 Sesiones Tratamiento Facial Antiedad", 
+            "description": "Si quieres un efecto rejuvenecedor más visible y profundo, elige nuestro bono de 12 sesiones de tratamiento antiedad realizado con nuestro láser frío. Las arrugas y la flacidez serán historia y tu rostro estará más luminoso que nunca.", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas", 
+            "description": "Nuestras extensiones de pestañas pelo a pelo diseñadas para tu tipo de ojo y mirada conseguiran que no pases desapercibida....hasta 100 pestañas por ojo", 
+            "price": "216.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Bono 11 Sesiones De Rayos Uva", 
+            "description": "Prepara tu piel para exponerla al sol o para lucir de forma irresistible las prendas claras con nuestro bono de 20 sesiones de rayos uva. Y presume de bronceado irresistible en cualquier época del año. Cada sesión tendrá una duración de 13 minutos como máximo.", 
+            "price": "224.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Tratamiento Facial Antiedad", 
+            "description": "¿Sabías que el láser frío también favorece el rejuvenecimiento de la piel de tu cutis? Consigue eliminar arrugas, combatir la flacidez y recuperar la luminosidad de tu rostro con nuestro pack de 6 sesiones.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 7 Sesiones De Radiofrecuencia Facial", 
+            "description": "Limpia,hidrata,regenera,reafirma y rejuvenece tu piel con nuestro bono de radiofrecuencia monopolar y mascára de tecnologia lud Led...un efecto lifting y un aspecto joven y radiante para tu piel", 
+            "price": "112.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas Para 2 Personas", 
+            "description": "Anímate con quien tu más quieras y probad juntas el tinte y la permanente de pestañas. Aprovechad nuestro pack en promoción y os ahorraréis algo de dinero. Os realizaremos el tratamiento a la misma hora a las dos.", 
+            "price": "48.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Con Microdermoabrasíon Y Masaje", 
+            "description": "Limpieza facial con peeling,extracción de comedones y milium en caso necesario,reactivación profunda celular con punta de diamante para afinar la piel dar luminosidad y activar fibras de colágeno y elastina,principios activos adecuados al tipo de piel,desinfeccion con alta frecuencia,masaje facial relajante,mascarilla y masaje podal", 
+            "price": "252.80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte De Pestañas", 
+            "description": "Despierta tu mirada con nuestra permanente y tinte de pestañas,te sorprendera el briilo que le dará a tus ojos", 
+            "price": "380.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Presoterapia", 
+            "description": "Si aún no has probado la presoterapia, este es el momento. No dejes escapar nuestro bono en promoción y ahorra dinero. La presoterapia es un tratamiento con el que fomentamos la estimulación sanguínea, combatimos la retención de liquido y movilizamos la grasa localizada.", 
+            "price": "380.80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial", 
+            "description": "Conoces la radiofrecuencia facial?Este es el momento!Rejuvenece,reafirma y regenera tu piel con nuestra monopolar!Un servicio de autentico placer con limpieza exfoliacion vitaminas,masaje y para acabar nuestra máscara con tecnologia led con espectaculares resultados antiedad", 
+            "price": "252.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión Tto Corporal Lipolítico", 
+            "description": "Prepara tu figura para lucir ese vestido que tanto te gusta o estar estupenda en bikini, con nuestro pack de tratamientos reductores y remodelantes. Te aplicaremos nuestro láser frío lipolítico para romper las estructuras de grasa y te aplicaremos una sesión de presoterapia para favorecer su eliminación. Notaras los resultados.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "Si quieres lucir una mirada increíble durante unas semanas, pero no te apetece aplicarte máscara de pestañas diariamente, reserva online nuestro completo servicio de tinte y permanente de pestañas, donde ganarás profundidad y alzarás tu mirada de una forma muy natural.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad", 
+            "description": "Si quieres un efecto rejuvenecedor más visible y profundo, elige nuestro tratamiento facial antiedad realizado con nuestro láser frío. Las arrugas y la flacidez serán historia y tu rostro estará más luminoso que nunca.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto Facial Antiedad Láser Frío", 
+            "description": "Nuestro completo tratamiento incluye una limpieza de la piel. Exfoliación, viales de vitaminas adecuados al tipo de piel, 20 minutos de bioestimulación con Láser Frío que manda energía a las nuestras células para así producir un rejuvenecimiento, seguiremos con masaje, mascarilla de alginatos, y masaje podal final. Duración completa del tratamiento de 75 minutos.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "5 Sesiones De Masaje Relajante O Terapeutico", 
+            "description": "Prueba nuestro quiromasaje para tratar cualquier tipo de tension o contractura muscular o simplemente para relajarte placidamente durante 1 hora con nuestros masajes aromaticos", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "2 Masajes De 1 Hora Relajantes O Terapeuticos", 
+            "description": "Puedes utilizar estas dos sesiones para ti o compartir con un amig@...a que esperas para conocer nuestros profesionales masajes que te relajaran y trataran todas las posibles tensiones y contracturas", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Terapeutico O Relajante", 
+            "description": "Disfruta o recomponte con uno de nuestros masajes mas profesionales,para relajar cualquier zona de tu cuerpo o trabajar a nivel terapeutico", 
+            "price": "552 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "4 Sesiones Depilación Laser De Diodo Media Pierna", 
+            "description": "Aprovecha este descuento del 20% de descuento en bono de 4 sesiones y olvidate definitivamente de pelo...apto para todo tipo de pieles incluso bronceadas...sesiones cada 2 o 3 meses", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "4 Sesiones Depilación Láser Diodo Pecho Y Abdomen", 
+            "description": "Olvidate del pelo para siempre y aprovecha nuestro 20% de dto en este bono de 4 sesiones con la depilacion definitiva mas eficaz,....apto para todo tipo de pieles incluso bronceadas.....sesiones cada 2 o 3 meses", 
+            "price": "540 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "4 Sesiones Depilación Láser Diodo Piernas Enteras", 
+            "description": "Aprovecha esta promoción de 4 sesiones con un 20% de descuento y olvidate definitivamente del pelo ,apto para todo tipo de pieles incluso bronceadas", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "4 Ss Depilación Láser Ingles Normales Y Axilas", 
+            "description": "Disfruta del 20% de descuento con este bono de 4 sesiones y olvidate para siempre del pelo...apto para todo tipo de pieles incluso bronceadas...sesiones cada 2 o 3 meses", 
+            "price": "49.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Brasileña", 
+            "description": "Prepárate para lucir este verano bikini con toda la tranquilidad de una buena depilación. En Estética Cala utilizamos cera de un solo uso, para que tu piel quede suave y sedosa al menos por un par de semanas. No te arrepentirás del resultado.", 
+            "price": "270 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Brasileñas Y Perianal", 
+            "description": "Depilación con cera caliente para las partes más intimas de tu cuerpo, máximo cuidado y suavidad para tu piel y tu zona íntima. No dudes en hacer tu reserva en Estética Cala y consigue una piel libre de vello por un par de semanas.", 
+            "price": "280 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Y Axilas", 
+            "description": "Nuestra cera tibia o caliente esta elaborada con principios activos de alta calidad e hipoalergénicos. En Estética Cala utilizamos cera de un solo uso, para que tu piel quede suave y sedosa al menos por un par de semanas. No te arrepentirás del resultado.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "Depilación con cera tibia o caliente indolora rápida y eficaz... En Estética Cala utilizamos cera de un solo uso, para que tu piel quede suave y sedosa al menos por un par de semanas. No te arrepentirás del resultado.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilacíón Cera Piernas Enteras", 
+            "description": "Te garantizamos un servicio rápido e indoloro en nuestra depilación a la cera. En Estética Cala utilizamos cera de un solo uso, para que tu piel quede suave y sedosa al menos por un par de semanas. No te arrepentirás del resultado.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Electrica", 
+            "description": "La depilación definitiva de siempre con aguja para ese pelo rebelde o blanco que no puede tratarse con depilación láser indicado para la zona facial garantizando muy buenos resultados.Bonos de 150 minutos con material de un sólo uso inclúido", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser De Diodo Ingles", 
+            "description": "La mejor depilación láser definitiva en todo tipo de pelo y pieles incluso bronceadas...ven a conocerla y preparate para el verano", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Laser De Diodo Labio Superior", 
+            "description": "Di adios el vello facial con la depilación mas efectiva e indolora... ven a probarlo", 
+            "price": "46 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Laser De Diodo Labio Y Menton", 
+            "description": "Olvidate de esos pelitos tan desagradables de una vez por todas...en 15 minutos estarás lista para lucir una piel perfecta", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Laser De Diodo Labio,Menton Y Patillas", 
+            "description": "Depilación facial completa apta para todo tipo de pelo y de pieles....", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser De Diodo Medias Piernas", 
+            "description": "La depilación mas eficaz para olvidarte definitivamente del pelo ...apta para todo tipo de vello y pieles incluso las bronceadas", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Laser De Diodo Pecho Y Abdomen", 
+            "description": "Depilación mas eficaz en chicos para olvidarte de tirones o irritaciones....1 sesión cada 2 o 3 meses", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Láser De Diodo Piernas Completas", 
+            "description": "Una sesión cada 2 o 3 meses dependiendo del crecimiento de tu pelo...olvidate del vello definitivamente y preparate para el verano", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Axilas", 
+            "description": "La mejor depilación definitiva adecuada para todo tipo de pelo y pieles incluso bronceadas...sesiones cada 2 o 3 meses", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Diseño De Cejas Y Depilación Labio Superior", 
+            "description": "En nuestro centro somos especialistas en diseño de cejas porque unas cejas bien diseñadas dicen todo de un rostro,ven a probar nuestros diseños y te asesoraremos en todo lo que debes de hacer para mantener una mirada preciosa", 
+            "price": "316 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

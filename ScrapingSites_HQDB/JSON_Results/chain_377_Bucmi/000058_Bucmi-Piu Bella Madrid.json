@@ -1,0 +1,207 @@
+{
+    "name": "Bucmi-Piu Bella Madrid", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=59", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4865904000", 
+    "longitude": "-3.7193666000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/piubellamadrid", 
+    "office_number": "913764446", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Piu Bella es tu centro de belleza ubicado en el barrio de Arroyo del Fresno, que gracias a nuestros expertos profesionales, te cuidaremos y mimaremos mientras te ponemos guapa. Disfruta de nuestras higienes faciales, tratamientos faciales, presoterapias.", 
+    "services": [
+        {
+            "service": "Higiene Facial", 
+            "description": "Realizamos un diagnóstico previo y utilizamos el tratamiento más adecuado para cada tipo de piel, diferenciando entre pieles jóvenes, maduras, secas, grasas, deshidratadas... y siempre con productos de primeras marca. Cuida tu cutis con nuestro tratamiento de higiene facial y elimina la suciedad acumulada del día a día.", 
+            "price": "33.60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Corporal O Facial", 
+            "description": "Está indicado para reafirmar y tonificar cualquier zona, facial o corporal, actuando también como reductor de celulitis edematosa y fibrosa, piel de naranja y retención de líquidos. Podrás elegir si lo prefieres corporal o facial. ¡Descúbre Piu Bella!", 
+            "price": "10.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad Coolifting", 
+            "description": "Coolifting Rejuvenecimiento Facial ExpressVen a conocer esta novedosa técnica de rejuvenecimiento. El Coolifting consiste en la aplicación con pistola una combinación de frío, alta presión y CO2, con un cocktail de potentes principios activos nebulizados, consiguiendo un espectacular efecto lifting + masaje final para facilitar la absorción de los activos. Super efectivo rellenando pequeñas arrugas del contorno de ojos, frente, entrecejo, mejillas y zona labial. No lo dudes, saldrás fascinada!", 
+            "price": "48.30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Iluminador Vitamina C", 
+            "description": "Primer tratamiento profesional anti-edad que contrarresta los efectos negativos de la glicación cutánea: inhibe la formación de los A.G.E.’s y acelera la descomposición de los ya existentes, eliminando el “efecto kusumi” (tono cetrino en la piel).Multi-corrección anti-edad: Firmeza y densidad, uniformidad y luminosidad inmediata, elasticidad, hidratación y tersura.", 
+            "price": "33.60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Personalizado Più Bella", 
+            "description": "Un tratamiento específico para tu piel diseñado sobre un diagnóstico previo en cabina. Combinando un serum facial anti-edad formulado con Matrixil y Silicio Orgánico, pensado para tratar los efectos del paso del tiempo en el rostro, cuello y escote, con los concentrados especialmente seleccionados por el profesional. Descúbre ya tu tratamiento de Piu Bella.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Personalizado Più Bella", 
+            "description": "Un tratamiento específico para tu piel diseñado sobre un diagnóstico previo en cabina. Combinando un serum facial anti-edad formulado con Matrixil y Silicio Orgánico, pensado para tratar los efectos del paso del tiempo en el rostro, cuello y escote, con los concentrados especialmente seleccionados por el profesional. Descúbre ya tu tratamiento de Piu Bella.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Presoterapia", 
+            "description": "Con esta sesión de presoterapia conseguirás eliminar la celulitis acumulada en tu cuerpo y además reducir volumen para así lucir una figura perfecta. ¡Reserva ya tu tratamiento corporal! En Piu Bella te asesoraremos en todo lo que necesites.", 
+            "price": "52 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Royal Jelly", 
+            "description": "Avanzado tratamiento profesional en cabina que promueve con éxito la cohesión epidérmica, restituyendo así la “resiliencia cutánea” y haciendo posible que la epidermis se enfrente con integridad al desafío diario del estrés externo.La piel queda nutrida, reconstituida y revitalizada profundamente, a la vez que con firmeza y luminosidad.Recomendado enPieles que estén sometidas a agresiones externas como radiación ultravioleta, atmósferas contaminadas, humedad ambiental, depilación, higiene diaria…Cual", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Realizamos un diagnóstico previo y utilizamos el tratamiento más adecuado para cada tipo de piel, diferenciando entre pieles jóvenes, maduras, secas, grasas, deshidratadas... y siempre con productos de primeras marca. Cuida tu cutis con nuestro tratamiento de higiene facial y elimina la suciedad acumulada del día a día.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono Tto Corporal Anticelulítico", 
+            "description": "Pack ideal para eliminar esos kilitos de más consiguiendo un beneficio en donde eliminarás la celulitis de tu cuerpo. El servicio consta de 3 sesiones cavitación y 6 sesiones de presoterapia, 3 masajes anticeluíticos y 3 sesiones de mesoterapia. Se realiza en 6 días el servicio. ¿Lo vas a dejar escapar? Aprovecha esta súper promoción.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Cavitación Y Presoterapia", 
+            "description": "La cavitación es una técnica avanzada anticelulítica, un tratamiento no invasivo que actúa sobre la grasa localizada. Mediante ondas ultrasónicas moduladas se atacan desde el interior las células adiposas que conforman la grasa acumulada. ¿Qué beneficios tiene la cavitación?Eliminación de la grasa acumulada.Mejora la circulación.Elimina toxinas.Aumenta el tono. Aumenta la elasticidad de los tejidos. La presoterapia es un masaje linfático mecanizado.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Drenaje Linfático Manual", 
+            "description": "El drenaje linfático estimula el sistema linfático, lo que favorece las piernas cansadas, la retención de líquidos con este masaje manual de drenaje. Reserva online ya tu tratamiento en Bucmi.com y benefíciate de sus efectos. ¿Todavía no lo conoces?", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Higiene Facial Con Ultrasonidos", 
+            "description": "Desmaquillado, tonificado, ultrasonidos para limpiar impurezas, aplicación de mascarilla, aplicación de crema y lifting con la crema elegida según su tipo de piel. En Piu Bella intentaremos en todo momento asesorarte y atender a todas tus necesidades.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Láser Metabólico Más Presoterapia", 
+            "description": "Una técnica novedosa e indolora con efecto lipolítico para acabar con los problemas de la adiposidad localizada. Elimina esos bultitos de grasa que quedan encapsulados en nuestra piel y la celulitis acumulada en zonas especificas de tu cuerpo. Con la presoterapia haremos que el efecto sea completo.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Corporal O Facial", 
+            "description": "Está indicado para reafirmar y tonificar cualquier zona, facial o corporal, actuando también como reductor de celulitis edematosa y fibrosa, piel de naranja y retención de líquidos. Podrás elegir si lo prefieres corporal o facial. ¡Descúbre Piu Bella!", 
+            "price": "485 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad Coolifting", 
+            "description": "Coolifting Rejuvenecimiento Facial ExpressVen a conocer esta novedosa técnica de rejuvenecimiento. El Coolifting consiste en la aplicación con pistola una combinación de frío, alta presión y CO2, con un cocktail de potentes principios activos nebulizados, consiguiendo un espectacular efecto lifting + masaje final para facilitar la absorción de los activos. Super efectivo rellenando pequeñas arrugas del contorno de ojos, frente, entrecejo, mejillas y zona labial. No lo dudes, saldrás fascinada!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Anti-Manchas", 
+            "description": "Tratamiento Facial Anti-Manchas: TimExpert White de Germaine de Capuccini, conseguirás que las manchas se desvanezcan poco a poco, disminuyendo su número, tamaño e intensidad. La tez se tornará más clara, luminosa y su tono se unifica.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Iluminador Vitamina C", 
+            "description": "Primer tratamiento profesional anti-edad que contrarresta los efectos negativos de la glicación cutánea: inhibe la formación de los A.G.E.’s y acelera la descomposición de los ya existentes, eliminando el “efecto kusumi” (tono cetrino en la piel).Multi-corrección anti-edad: Firmeza y densidad, uniformidad y luminosidad inmediata, elasticidad, hidratación y tersura.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Nuskin", 
+            "description": "Tratamiento Facial Nu Skin: Ilumina, rejuvenece y recupera volumen.Luce rostro fresco y luminoso con este tratamiento facial aplicado con galvánica. Consiste en una limpieza inicial muy efectiva, posterior tratamiento de hidratación e iluminación y finalmente tratamiento de relleno de arrugas. Rejuvenece tu rostro y recupera el volumen de tu piel!", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Personalizado Più Bella", 
+            "description": "Un tratamiento específico para tu piel diseñado sobre un diagnóstico previo en cabina. Combinando un serum facial anti-edad formulado con Matrixil y Silicio Orgánico, pensado para tratar los efectos del paso del tiempo en el rostro, cuello y escote, con los concentrados especialmente seleccionados por el profesional. Descúbre ya tu tratamiento de Piu Bella.", 
+            "price": "52 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Láser Metabólico", 
+            "description": "Una técnica novedosa e indolora con efecto lipolítico para acabar con los problemas de la adiposidad localizada. Elimina esos bultitos de grasa que quedan encapsulados en nuestra piel y la celulitis acumulada en zonas especificas de tu cuerpo. Reserva online atrevés de bucmi en Piu bella.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Láser De Diodo Zona Grande", 
+            "description": "Depilación con láser de diodo ideal para eliminar el vello oscuro y grueso. La zona grande consta de una zona a elegir entre: brazos, ingles brasileñas, muslos, medias piernas o tórax completo. ¡Elimina el vello y consigue una piel suave! En nuestro centro encontrarás una buena calidad, si dispones de alguna duda consulta con nuestros profesionales.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Láser De Diodo Zona Maxi", 
+            "description": "Depilación de láser de diodo a elegir entre las zonas: piernas enteras, pubis completo o espalda. Reserva online para eliminar el vello de cualquiera de estas zonas. En nuestro centro encontrarás una buena calidad, si dispones de alguna duda consulta con nuestros profesionales.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Láser De Diodo Zona Mediana", 
+            "description": "Depilación láser de diodo a elegir entre las zonas de : axilas , ingles, medios brazos, abdomen, glúteos, perianal. En nuestro centro encontrarás una buena calidad, si dispones de alguna duda consulta con nuestros profesionales. ¡Elimina el vello de tu cuerpo y consigue una piel suave!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Láser De Diodo Zona Mini", 
+            "description": "Depilación de diodo ideal para eliminar el vello en la zona mini a elegir entre: labio superior, aerolas, línea alba, mentón, nuca, pies y manos. En nuestro centro encontrarás una buena calidad, si dispones de alguna duda consulta con nuestros profesionales. Reserva online por bucmi.com", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Láser Metabólico Más Presoterapia", 
+            "description": "Una técnica novedosa e indolora con efecto lipolítico para acabar con los problemas de la adiposidad localizada. Elimina esos bultitos de grasa que quedan encapsulados en nuestra piel y la celulitis acumulada en zonas especificas de tu cuerpo. Con la presoterapia haremos que el efecto sea completo.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

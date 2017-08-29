@@ -1,0 +1,186 @@
+{
+    "name": "Bucmi-Swan Centro Estético", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=68", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4243351000", 
+    "longitude": "-3.6785899000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/swan-centro-estetico", 
+    "office_number": "910237152", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro médico estético de salud y belleza Swan, situado en el barrio de Salamanca, Madrid, ofrece una gran variedad de servicios, como son: masajes, tratamientos corporales y faciales, mesoterapia y depilaciones láser entre otros. Reserva ahora online", 
+    "services": [
+        {
+            "service": "5 Sesiones Depilación Láser Zona Mediana", 
+            "description": "¿Quieres eliminar el vello de por vida y olvidarte de depilarte para siempre? Acude a nuestro centro para la depilación láser de diodo. El láser de diodo es una máquina de una precisión extraordinaria construida con pequeños diodos y semiconductores que todos juntos forman un haz de luz. ¡Olvídate del pelo para siempre!. Esta zona incluye: medias piernas, ingles completas, brazos, espalda, pecho. Reserva en Bucmi.com.", 
+            "price": "139.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "1Ss Eliminación De Tatuajes De 50 A 100Cm", 
+            "description": "¿Quieres quitarte un tatuaje? Tratar los tatuajes con Láser es un procedimiento muy seguro, eficaz y sin prácticamente efectos secundarios, pudiendo eliminarlos al 100%. La tecnología Láser ND:YAG Q-SWITCHED, emite pulsos de energía que actúa sobre la tinta absorbiendo la energía y fragmentándola en pequeñas partículas de tinta muy pequeñas, tras el tratamiento las células de la piel eliminan las partículas a través del sistema linfático eliminando así el tatuaje. Reserva en Bucmi.com.Tatuajes de 50 a 100cm", 
+            "price": "71.20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "1Ss Mesoterapia Facial Ácido Hialurónico", 
+            "description": "Técnica de rejuvenecimiento por excelencia. Nutre la piel en profundidad. Estimula la vascularización y la formación de nuevo colágeno y elastina. Rostro con aspecto más joven y uniforme. Piel más tersa, lisa y luminosa. Ponte en manos de nuestros profesionales y disfruta de unos resultados visibles y duraderos.", 
+            "price": "71.20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Micropigmentación Ojos Eyeliner", 
+            "description": "¿Cansada de pintarte cada día la raya del ojo? Ven a nuestro centro a probar la micropigmentación, que es una técnica de maquillaje semipermanente que dura hasta 2 años. Técnica con muy buenos resultados, ¡con la que te podrás olvidar de maquillarte cada día!. Embellece, corrige y equilibra los rasgos. Con resultados naturales. Reserva ya a través de Bucmi.com.", 
+            "price": "99.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "1Ss Eliminación De Tatuajes De 50 A 100Cm", 
+            "description": "¿Quieres quitarte un tatuaje? Tratar los tatuajes con Láser es un procedimiento muy seguro, eficaz y sin prácticamente efectos secundarios, pudiendo eliminarlos al 100%. La tecnología Láser ND:YAG Q-SWITCHED, emite pulsos de energía que actúa sobre la tinta absorbiendo la energía y fragmentándola en pequeñas partículas de tinta muy pequeñas, tras el tratamiento las células de la piel eliminan las partículas a través del sistema linfático eliminando así el tatuaje. Reserva en Bucmi.com.Tatuajes de 50 a 100cm", 
+            "price": "139.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "1Ss Eliminación De Tatuajes De 0 A 10Cm", 
+            "description": "¿Quieres quitarte un tatuaje? Tratar los tatuajes con Láser es un procedimiento muy seguro, eficaz y sin prácticamente efectos secundarios, pudiendo eliminarlos al 100%.La tecnología Láser ND:YAG Q-SWITCHED, emite pulsos de energía que actúa sobre la tinta absorbiendo la energía y fragmentándola en pequeñas partículas de tinta muy pequeñas, tras el tratamiento las células de la piel eliminan las partículas a través del sistema linfático eliminando así el tatuaje. Reserva en Bucmi.com. Tatuajes hasta 10cm.", 
+            "price": "245.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "1Ss Eliminación De Tatuajes De 10 A 50Cm", 
+            "description": "¿Quieres quitarte un tatuaje? Tratar los tatuajes con Láser es un procedimiento muy seguro, eficaz y sin prácticamente efectos secundarios, pudiendo eliminarlos al 100%.La tecnología Láser ND:YAG Q-SWITCHED, emite pulsos de energía que actúa sobre la tinta absorbiendo la energía y fragmentándola en pequeñas partículas de tinta muy pequeñas, tras el tratamiento las células de la piel eliminan las partículas a través del sistema linfático eliminando así el tatuaje. Reserva en Bucmi.com. Tatuajes de 10 a 50cm", 
+            "price": "59.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "1Ss Mesoterapia Corporal Silicio, Brazos Y Piernas", 
+            "description": "Administración de productos mediante pequeñas inyecciones para restablecer la microcirculación, combatir la fibrosis, degradar la grasa y reafirmar los tejidos.Según la indicación se utilizarán distintas asociaciones de productos inyectables para tratar la flacidez, la celulitis o piel de naranja y/o el acúmulo de grasa localizada.", 
+            "price": "245 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "1Ss Mesoterapia Facial Ácido Hialurónico", 
+            "description": "Técnica de rejuvenecimiento por excelencia. Nutre la piel en profundidad. Estimula la vascularización y la formación de nuevo colágeno y elastina. Rostro con aspecto más joven y uniforme. Piel más tersa, lisa y luminosa. Ponte en manos de nuestros profesionales y disfruta de unos resultados visibles y duraderos.", 
+            "price": "89 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Micropigmentación Cejas Pelo A Pelo", 
+            "description": "Ven a nuestro centro a probar la micropigmentación, que es una técnica de maquillaje semipermanente que dura hasta 2 años. Técnica con muy buenos resultados, ¡con la que te podrás olvidar de maquillarte cada día!. Embellece, corrige y equilibra los rasgos. Con resultados naturales. Reserva ya a través de Bucmi.com. ¡Te encantará el resultado de tus cejas!.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Micropigmentación Ojos Eyeliner", 
+            "description": "¿Cansada de pintarte cada día la raya del ojo? Ven a nuestro centro a probar la micropigmentación, que es una técnica de maquillaje semipermanente que dura hasta 2 años. Técnica con muy buenos resultados, ¡con la que te podrás olvidar de maquillarte cada día!. Embellece, corrige y equilibra los rasgos. Con resultados naturales. Reserva ya a través de Bucmi.com.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Micropigmentación Perfilado De Labio", 
+            "description": "Ven a nuestro centro a probar la micropigmentación, que es una técnica de maquillaje semipermanente que dura hasta 2 años. Técnica con muy buenos resultados, ¡con la que te podrás olvidar de maquillarte cada día!. Embellece, corrige y equilibra los rasgos de tus labios con unos resultados muy naturales. Reserva ya a través de Bucmi.com.", 
+            "price": "89 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal: Esclerosis Química Varices", 
+            "description": "Las varices son dilataciones anormales de las venas. Estas dilataciones venosas pueden darse en cualquier parte del cuerpo, por la fuerza de la gravedad son más frecuentes en las extremidades inferiores. La esclerosis vascular consiste en la inyección de una sustancia esclerosante en la luz de la vena.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial: Hilos Tensores Pdo", 
+            "description": "El precio indicado es para 20 hilos, a partir de ahí el coste se incrementa en base al número de hilos. Lifting autoinducido sin cirugía. Tratamiento preventivo o curativo del descolgamiento cutáneo. Hilos de nueva generación de Polidioxanona, material estable y reabsorbible. Refuerzo de los contornos naturales, mejoría la elasticidad de la piel de la cara. Reserva a través de Bucmi.com.", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial: Relleno Labio Ácido Hialurónico", 
+            "description": "Inyecciones de ácido hialurónico para redefinir la forma del labio, recuperar el volumen perdido, eliminación de arrugas perilabiales y corrección de asimetrías. Ven a conocernos, ponte en manos de nuestros profesionales y déjate mimar, ¡te encantarán los resultados!.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Quiromasaje Bono 5 + 1 Ss Drenaje Linfático Manual", 
+            "description": "Bono de 5 sesiones de drenaje linfático manual. Es una técnica basada en movimientos suaves para la activación de la circulación linfática superficial y drenar o desplazar la linfa que, por causas patológicas, se encuentra acumulada.Indicado en los siguientes casos: postcirugía estética, facial y corporal, edemas postquirúrgicos, edemas postraumático, edemas por embarazo y linfedema postmastectomía. ¡Te encantará el resultado!. Reserva a través de Bucmi.com.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Quiromasaje, Masaje Descontracturante", 
+            "description": "Tratamiento muy eficaz para problemas de Cervicales, dorsales y lumbares relacionados con tensión, rigidez postural,contracturas y bloqueos. Produce alivio inmediato del dolor", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Quiromasaje: 1Ss Drenaje Linfático Manual", 
+            "description": "El drenaje linfático manual es una técnica basada en movimientos suaves para la activación de la circulación linfática superficial y drenar o desplazar la linfa que, por causas patológicas, se encuentra acumulada.Indicado en los siguientes casos: postcirugía estética, facial y corporal, edemas postquirúrgicos, edemas postraumático, edemas por embarazo y linfedema postmastectomía. ¡Te encantará el resultado!. Reserva a través de Bucmi.com.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Quiromasajista: Reflexologia Podal", 
+            "description": "Técnica ancestral muy placentera y relajante que mediante la aplicación de masaje y presión muy especifica en ciertos puntos reflejos e los pies, se consigue conectar con todos los sistemas y órganos del cuerpo, restableciendo el equilibrio del organismo en general.", 
+            "price": "290 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "5 Sesiones Depilación Láser Zona Pequeña", 
+            "description": "¿Quieres eliminar el vello de por vida y olvidarte de depilarte para siempre? Acude a nuestro centro para la depilación láser de diodo. El láser de diodo es una máquina de una precisión extraordinaria construida con pequeños diodos y semiconductores que todos juntos forman un haz de luz. ¡Olvídate del pelo para siempre!. Esta zona incluye: ingles, axilas, abdomen, cuello, facial, glúteos, hombros, lumbar, pubis, barba. Reserva en Bucmi.com.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "5 Sesiones Depilación Láser Zona Mediana", 
+            "description": "¿Quieres eliminar el vello de por vida y olvidarte de depilarte para siempre? Acude a nuestro centro para la depilación láser de diodo. El láser de diodo es una máquina de una precisión extraordinaria construida con pequeños diodos y semiconductores que todos juntos forman un haz de luz. ¡Olvídate del pelo para siempre!. Esta zona incluye: medias piernas, ingles completas, brazos, espalda, pecho. Reserva en Bucmi.com.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "5 Sesiones Depilación Láser Zona Grande", 
+            "description": "¿Quieres eliminar el vello de por vida y olvidarte de depilarte para siempre? Acude a nuestro centro para la depilación láser de diodo. El láser de diodo es una máquina de una precisión extraordinaria construida con pequeños diodos y semiconductores que todos juntos forman un haz de luz. ¡Olvídate del pelo para siempre!. Esta zona incluye: piernas completas. Reserva en Bucmi.com.", 
+            "price": "260 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "5 Sesiones Depilación Láser Zona Mini", 
+            "description": "¿Quieres eliminar el vello de por vida y olvidarte de depilarte para siempre? Acude a nuestro centro para la depilación láser de diodo. El láser de diodo es una máquina de una precisión extraordinaria construida con pequeños diodos y semiconductores que todos juntos forman un haz de luz. ¡Olvídate del pelo para siempre!. Esta zona incluye: línea alba, aureola, mentón, labio, entrecejo, dedos, manos, nuca, dedos, pies, patillas. Reserva en Bucmi.com.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

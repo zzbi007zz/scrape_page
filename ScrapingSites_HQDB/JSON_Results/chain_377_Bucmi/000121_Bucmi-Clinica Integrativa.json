@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-Clinica Integrativa", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=23", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4044084000", 
+    "longitude": "2.1423545000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/clinicaintegrativa", 
+    "office_number": "931051188", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Clínica Integrativa es un centro especializado en Osteopatía y Fisioterapia, encargado de cuidar tu bienestar y restaurar la salud perdida por el estrés diario. Ven a conocer nuestro centro en Sarriá-Sant Gervasi y reserva online nuestros tratamientos.", 
+    "services": [
+        {
+            "service": "Osteopatía", 
+            "description": "Tratamiento médico, medicina alternativa, realizada de forma manual en técnica de masaje. Dando importancia a los huesos, tejidos, articulaciones como papel fundamental del mantenimiento de la salud.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Fisioterapia", 
+            "description": "Si tienes que ir a un fisio con urgencia, no conoces ninguno realmente bueno... No lo dudes y ven a vernos. Tenemos a personal altamente cualificado en la materia, notarás como esos dolores musculares desaparecen.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Indiva", 
+            "description": "Este tratamiento se realiza con aparatología con la técnica Indiva.Terapia innovadora que acelera tu metabolismo y periodo de recuperación.Indicado para: Artrosis, cervicales, roturas musculares, lumbalgias, esguince, dolores articulares...", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mesoterapia Corporal 10 Sesiones", 
+            "description": "Si quieres eliminar la celulitis de tu cuerpo, no sabes como hacerlo aunque te pongas a dieta, te proponemos esta terapia anticelulítica, realizada con aparatología y que hará que tu piel luzca más lisa y sin esa piel de naranja. La sesión es de una hora e incluye 10 sesiones.", 
+            "price": "460.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Indiva", 
+            "description": "Este tratamiento se realiza con aparatología con la técnica Indiva.Terapia innovadora que acelera tu metabolismo y periodo de recuperación.Indicado para: Artrosis, cervicales, roturas musculares, lumbalgias, esguince, dolores articulares...", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "Tratamiento médico, medicina alternativa, realizada de forma manual en técnica de masaje. Dando importancia a los huesos, tejidos, articulaciones como papel fundamental del mantenimiento de la salud.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa Ondas De Choque", 
+            "description": "Terápia Avanzada innovadora que está científicamente probada.Se encuentra indicado para problemas como:Calcificaciones, espolón Calcaneo, tendinitis de Hombro, tendinitis Rotuliana, codo de tenista, contracturas Musculares... Realizado con aparatología.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Fisioterapia", 
+            "description": "Si tienes que ir a un fisio con urgencia, no conoces ninguno realmente bueno... No lo dudes y ven a vernos. Tenemos a personal altamente cualificado en la materia, notarás como esos dolores musculares desaparecen.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Alternativa Ondas De Choque", 
+            "description": "Terápia Avanzada innovadora que está científicamente probada.Se encuentra indicado para problemas como:Calcificaciones, espolón Calcaneo, tendinitis de Hombro, tendinitis Rotuliana, codo de tenista, contracturas Musculares... Realizado con aparatología.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Nutrición Seguimiento", 
+            "description": "Sesión de Nutricionista que personaliza el tratamiento, logrando la curación del paciente, para ello tenemos en cuenta su alimentación, que se lleve una dieta equilibrada e indicada según sus analíticas de sangre, también vemos sus intolerancias y diversas patologias asociadas que pueda tener el paciente. Precio para seguimiento, el de la primera sesión es superior.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Acupuntura", 
+            "description": "La Acupuntura es una técnica milenaria con grandes beneficios para la salud. Trata cualquier tipo de dolencia o enfermedad a través de la inserción de agujas, en distintas zonas, según problema a tratar.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

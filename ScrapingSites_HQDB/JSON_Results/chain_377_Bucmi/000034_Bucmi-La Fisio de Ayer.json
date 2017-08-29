@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-La Fisio de Ayer", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=35", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4234300000", 
+    "longitude": "-3.7273921999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/lafisiodeayer", 
+    "office_number": "912043902", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La Fisio de Ayer de Argüelles, ofrece tratamientos tales como masajes deportivos, descontracturantes, pilates, sesiones de entrenamiento personal, todo ello para ponerte en forma. ¡Reserva on line con nosotros!", 
+    "services": [
+        {
+            "service": "Masaje Deportivo", 
+            "description": "Este tipo de masaje mejora el rendimiento y previene lesiones. El masaje como parte de un programa de tratamiento, como terapia. Alivia los dolores, sobrecarga muscular, pinzamientos o cualquier tipo de rotura. Descubre nuestra profesionalidad y reserva en bucmi.com nuestro servicio.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Fisioterapia Individual", 
+            "description": "El servicio se realiza en la zona afectada. Este método es impartido por profesionales titulados que cuentan con un amplio conocimiento de la anatomía física y te garantizan una sesión segura y eficaz. Descubre nuestra profesionalidad y reserva en bucmi.com nuestro servicio.", 
+            "price": "55.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Reductor Y Anticelulítico 5 Sesiones", 
+            "description": "El servicio incluye 5 sesiones de cavitación, vendas frías y drenaje. Moldea tu figura y elimina esas zonas con grasa localizada. Preparáte para decir adiós a la celulitis. Con estas 5 sesiones ganarás beneficios perfecto para la operación bikini. ¡Anímate a conocernos!", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Reductor Y Anticelulítico 5 Sesiones", 
+            "description": "El servicio incluye 5 sesiones de cavitación, vendas frías y drenaje. Moldea tu figura y elimina esas zonas con grasa localizada. Preparáte para decir adiós a la celulitis. Con estas 5 sesiones ganarás beneficios perfecto para la operación bikini. ¡Anímate a conocernos!", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 2 Sesiones De Fisioterapia", 
+            "description": "¡Disfruta de nuestro pack de dos sesiones! Este método es impartido por profesionales titulados que cuentan con un amplio conocimiento de la anatomía física y te garantizan una sesión segura y eficaz. Descubre nuestra profesionalidad y reserva en bucmi.com nuestro servicio.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones De Fisioterapia", 
+            "description": "5 sesiones de fisioterapia en la zona afectada. Este método es impartido por profesionales titulados que cuentan con un amplio conocimiento de la anatomía física y te garantizan una sesión segura y eficaz. Descubre nuestra profesionalidad y reserva en bucmi.com nuestro servicio.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Deportivo", 
+            "description": "Este tipo de masaje mejora el rendimiento y previene lesiones. El masaje como parte de un programa de tratamiento, como terapia. Alivia los dolores, sobrecarga muscular, pinzamientos o cualquier tipo de rotura. Descubre nuestra profesionalidad y reserva en bucmi.com nuestro servicio.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Fisioterapia Individual", 
+            "description": "El servicio se realiza en la zona afectada. Este método es impartido por profesionales titulados que cuentan con un amplio conocimiento de la anatomía física y te garantizan una sesión segura y eficaz. Descubre nuestra profesionalidad y reserva en bucmi.com nuestro servicio.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 4 Sesiones De Pilates", 
+            "description": "El precio incluye una sesión por semana durante un mes, con grupos reducidos de máximo 4 personas. Ejercicio de Pilates de suelo. El pilates centra el trabajo en la musculatura abdominal y consigue corregir las malas posturas. Reserva online nuestro servicio, te encantará el resultado.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 8 Sesiones De Pilates", 
+            "description": "¡Disfruta tus 8 sesiones! El precio incluye dos sesiones por semana durante un mes, con grupos reducidos de máximo 4 personas. Ejercicio de Pilates de suelo. El pilates centra el trabajo en la musculatura abdominal y consigue corregir las malas posturas. Reserva online nuestro servicio, te encantará el resultado.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Entrenamiento Personal", 
+            "description": "Incluye ejercicios físicos para estar en forma al aire libre, plan de entrenamiento para 15 días y consejos nutricionales. Comparte con nosotros una sensación excelente y disfruta entrenando... ¡Te engancharás!", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

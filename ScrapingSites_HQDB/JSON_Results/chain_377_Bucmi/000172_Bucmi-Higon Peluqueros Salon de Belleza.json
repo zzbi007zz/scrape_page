@@ -1,0 +1,179 @@
+{
+    "name": "Bucmi-Higón Peluqueros Salón de Belleza", 
+    "scrape_page": "https://www.bucmi.com/Valencia.html?page=2", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "39.4745638000", 
+    "longitude": "-0.3906696999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/higon", 
+    "office_number": "963820174", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Establecimiento decano en Valencia con 70 años de trayectoria en peluquería y estética. Ofrecemos técnicas remember, corte, color, tratamientos de queratina, alisado Japonés, tratamientos de estética 'Cuida de tu pelo como de ti misma'", 
+    "services": [
+        {
+            "service": "Corte De Mujer", 
+            "description": "¿Estás cansada de tu corte? o ¿Tienes las puntas ya abiertas y te apetece sanear el cabello? Disfruta de nuestro corte de pelo de mujer. Incluye lavado con corte de pelo y secado natural con el secador. Ven a conocer nuestra profesionalidad en Higón peluqueros.", 
+            "price": "69.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Pelo Hombre", 
+            "description": "A tijera, máquina o navaja, según los gustos y necesidades de nuestros clientes. Conseguirás un look a la moda. El servicio también cuenta con lavado y peinado con productos fijadores si es necesario. Consulta con nuestros profesionales si tienes alguna duda.", 
+            "price": "89.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Limpieza De Cutis", 
+            "description": "En tan solo una hora tu piel quedará renovada y libre de impurezas. El servicio incluye exfoliación, limpieza profunda y mascarilla final. Consigue una piel bonita y cuidada con una higiene facial recomendable hacer de vez en cuando.", 
+            "price": "110.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura", 
+            "description": "Este servicio incluye limado, tratamiento de durezas, retirada de cutículas, esmaltado francesa e hidratación. Presume de unas manos y pies bonitos y de aspecto cuidado gracias a nuestros expertos esteticistas de Higón. ¡Te encantará el resultado!.", 
+            "price": "110.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento De Queratina", 
+            "description": "Tratamiento de queratina bio activa de Argán. Aporta un extra de hidratación y nutrición a tu cabello, dejándolo suave y brillante. ¡Haz ya tu reserva en Higón Peluqueros!. Si tu melena es extralarga o tiene mucho volumen consulta posible suplemento con el salón.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Alisado Japonés", 
+            "description": "Alisado japonés o desrizante definitivo Straigh Therapy Schwarzkopf consigue un alisado con volumen en la raíz si así se desea. Está libre de formol para no dañar tu melena. Si tu pelo es extralargo o tiene mucho volumen consulta posible suplemento con el profesional.", 
+            "price": "7 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Bio- Estimulación Natural: Tto Capilar Colageno", 
+            "description": "Nuestro completo tratamiento rico en colágeno incluye cóctel de ácido hialurónico, tratamiento de células madre y ampolla hidratante. Tu piel quedará nutrida y llena de vida. Si tienes alguna duda, consulta con nuestros profesionales.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Mujer", 
+            "description": "¿Estás cansada de tu corte? o ¿Tienes las puntas ya abiertas y te apetece sanear el cabello? Disfruta de nuestro corte de pelo de mujer. Incluye lavado con corte de pelo y secado natural con el secador. Ven a conocer nuestra profesionalidad en Higón peluqueros.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Pelo Hombre", 
+            "description": "A tijera, máquina o navaja, según los gustos y necesidades de nuestros clientes. Conseguirás un look a la moda. El servicio también cuenta con lavado y peinado con productos fijadores si es necesario. Consulta con nuestros profesionales si tienes alguna duda.", 
+            "price": "242 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina Keratin Dickson", 
+            "description": "La Keratina Italiana Dikson a diferencia de otras queratinas se puede lavar ya el día posterior al tratamiento. Ni playa ni piscina en los dos días posteriores.El tratamiento dura tres meses según tipos de cabellos y según el post tratamiento.", 
+            "price": "292 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Tratamientos Capilar Triácidos", 
+            "description": "Tratamiento ácido hialurónico al 50%, emulsión neutralizadora, mascarilla ácido hialurónico y ampolla de ácido hialurónico. ¡Disfrutarás de una melena hidratada y brillante gracias a nuestros estilistas de Higón Peluqueros!.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Botox Capilar", 
+            "description": "Como toda mujer sabe, años de cepillado, brushing, plancha y tintes y tu genética pueden estropear tu cabello hasta el límite... ¡El bótox capilar es el primer rellenador que reconstruye con lágrimas las queratinas rotas o inexistentes!.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Micropigmentacion Cejas", 
+            "description": "Estudio de visajismo, diseño, prueba alergénica mas repaso. Olvídate de una vez de maquillarte las cejas, y consigue un look totalmente natural gracias a nuestro completo servicio de micropigmentación de Higón. ¡No te arrepentirás de los resultados!.", 
+            "price": "7 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Micropigmentación Labios", 
+            "description": "Estudio de visajismo, diseño, corrección mas repaso. ¡Olvídate de una vez de maquillarte las cejas, y consigue un look totalmente natural gracias a nuestro completo servicio de micropigmentación de Higón!. ¡No te arrepentirás de los resultados!.", 
+            "price": "242 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 4 Sesiones Tto Facial Antienvejecimiento", 
+            "description": "No pierdas la oportunidad y reserva online nuestro completo tratamiento facial de Germaine de Capuccini, con el que conseguirás eliminar las imperfecciones que van apareciendo con el paso de los años.Notarás los resultados desde a primera sesión.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Limpieza De Cutis", 
+            "description": "En tan solo una hora tu piel quedará renovada y libre de impurezas. El servicio incluye exfoliación, limpieza profunda y mascarilla final. Consigue una piel bonita y cuidada con una higiene facial recomendable hacer de vez en cuando.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Presoterapia", 
+            "description": "Si quieres mejorar la circulación de tu sistema linfático a la vez que reduces volumen, reserva online nuestra sesión de 30 minutos de presoterapia de Higón Peluqueros. Consiste en el juego de corrientes de agua a través de un chaleco para estimular la linfa. ¡Te encantará el resultado!.", 
+            "price": "242 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura", 
+            "description": "Este servicio incluye limado, tratamiento de durezas, retirada de cutículas, esmaltado francesa e hidratación. Presume de unas manos y pies bonitos y de aspecto cuidado gracias a nuestros expertos esteticistas de Higón. ¡Te encantará el resultado!.", 
+            "price": "181 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Completa Permanente", 
+            "description": "Cuida tus pies con una pedicura completa que incluye tratamiento de durezas, limado, cutículas, hidratación y esmaltado permanente. ¡Sólo tienes que escoger el color que más te guste entre nuestra paleta de colores!.", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Uñas De Gel", 
+            "description": "Esta técnica se ha convertido en una tendencia. ¡Nunca antes había sido tan fácil lucir unas manos bonitas y cuidadas!. Además, olvídate de pintarte las uñas por más tiempo. ¡Te va a encantar como te dejamos las manos!.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante", 
+            "description": "Son las manipulaciones realizadas sobre uno o varios grupos musculares contracturados mediante técnicas manuales, aparatología e infrarojos. ¡Nuestra intención es localizar las contracturas y hacerlas desaparecer!.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Tiende a armonizar el sistema nervioso, induciendo, tal como su nombre indica un determinado grado de relajación muscular y ayudando al individuo a recuperar o mantener el equilibrio psicofísico.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

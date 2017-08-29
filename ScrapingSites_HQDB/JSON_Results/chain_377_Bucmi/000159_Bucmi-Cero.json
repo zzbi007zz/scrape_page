@@ -1,0 +1,158 @@
+{
+    "name": "Bucmi-Cero", 
+    "scrape_page": "https://www.bucmi.com/Granada.html?page=5", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "37.1797211000", 
+    "longitude": "-3.6136023000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/ceropeluqueria", 
+    "office_number": "958099813", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Peluquería Cero de Granada en el barrio Juventud. Encontrarás numerosos servicios de peluquería de calidad como cortes de pelo, peinados, color, mechas...Disfruta de nuestra calidad en todos nuestros tratamientos y disfruta de tu belleza única y especial", 
+    "services": [
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "Incluye lavado previo, corte de pelo para hombre según lo que quiera el cliente y productos de acabado. Dale una aire diferente a tu peinado. ¡Disfruta de un cambio único! No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "55.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "Encuentra el mejor corte que se adapte a tu rostro. En Cero peluquería te asesoraremos en todo momento. Incluye el lavado con champú, corte de moda y secado natural. No incluye peinado. Reserva ahora tu cita online.", 
+            "price": "58.40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinado", 
+            "description": "Descubre los nuevos estilos de peinado, ponte en nuestras manos! Incluye: lavado con champú, acondicionador y peinado. Es un servicio exprés que devolverá a tu cabello su brillo normal. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "55.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina", 
+            "description": "Alisado brasileño que controla el encrespamiento, reduce el volumen y mejora la condición y la calidad del cabello. Olvídate de una melena despeinada gracias a este tratamiento. No esperes más y reserva ahora tu cita online.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Color, Mechas, Corte Y Peinado", 
+            "description": "¿Vas a rechazar esta oportunidad única? Es un pack que dará resultado. Servicio de color, mechas corte y peinado con hidratación. ¡No lo dejes escapar! No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "11.5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color Y Peinado", 
+            "description": "Servicio de color para mantener el tuyo o darte un cambio. El servicio incluye el lavado y el peinado. Sin dudarlo, el resultado te encantará. ¡Descubre nuestro centro! No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color, Tratamiento De Hidratación Y Peinado", 
+            "description": "Servicio de color con tratamiento de hidratación capilar para que luzcas un pelo bonito. El servicio es realizado con tinte de la marca Wella y productos de alta gama Sebastian Professional. Incluye el lavado y peinado. Reserva ahora tu cita online.", 
+            "price": "160 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cortar, Peinar Y Tratamiento De Hidratación", 
+            "description": "Servicio realizado con los productos de alta gama Sebastian Professional. El servicio consta de un lavado previo con champú, corte de moda, tratamiento de hidratación para nutrir el cabello y peinado final. No esperes más y reserva ahora tu cita online.", 
+            "price": "73 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "Incluye lavado previo, corte de pelo para hombre según lo que quiera el cliente y productos de acabado. Dale una aire diferente a tu peinado. ¡Disfruta de un cambio único! No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "31.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas", 
+            "description": "El servicio ideal para lucir un pelo bonito y natural con unas mechas que aportarán luminosidad en tu rostro. El servicio consta también del matiz para que quede un resultado completamente natural. No esperes más y reserva tu cita online con Bucmi.com.", 
+            "price": "36.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Recogido", 
+            "description": "¿Tienes un evento o una fiesta especial? ¿Te apetece ir con un recogido para resaltar tu belleza? Anímate con un recogido. Incluye el lavado y recogido.", 
+            "price": "28.5 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Semirecogido", 
+            "description": "Otra idea para ir adecuada a tu evento o fiesta es un semirecogido. En Cero peluquería encontraremos el semirecogido que mejor se adapte a ti. Incluye el lavado y peinado. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "Encuentra el mejor corte que se adapte a tu rostro. En Cero peluquería te asesoraremos en todo momento. Incluye el lavado con champú, corte de moda y secado natural. No incluye peinado. Reserva ahora tu cita online.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinado", 
+            "description": "Descubre los nuevos estilos de peinado, ponte en nuestras manos! Incluye: lavado con champú, acondicionador y peinado. Es un servicio exprés que devolverá a tu cabello su brillo normal. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Normal Y Esmalte Normal", 
+            "description": "El servicio de manicura con esmaltado normal que incluye: limado, cortado de la uña, masaje de manos, exfoliante y esmalte de larga duración. Puedes elegir de toda nuestra gama de colores. Reserva ahora tu cita online con Bucmi.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "El servicio de manicura con esmaltado permanente. Incluye esmaltado, retirada de cutículas y esmaltado final. Puedes elegir el color que mejor se adapte. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "11.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Normal", 
+            "description": "¿Quieres lucir de pies bonitos con las uñas cuidadas? Consta de: limado y cortado de la uña, eliminación de durezas con tornos y esmaltado final. Elige entre nuestra gama de colores. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Labio Superior Y Cejas", 
+            "description": "Servicio de depilación en la zona del labio superior y en la zona de las cejas para darle forma según las facciones de tu rostro. El servicio se realiza con pinzas y cera. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "7 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tratamiento De Keratina", 
+            "description": "Alisado brasileño que controla el encrespamiento, reduce el volumen y mejora la condición y la calidad del cabello. Olvídate de una melena despeinada gracias a este tratamiento. No esperes más y reserva ahora tu cita online.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }
+    ]
+}

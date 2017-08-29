@@ -1,0 +1,88 @@
+{
+    "name": "Bucmi-Gyrotonic", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=18", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3987212000", 
+    "longitude": "2.1700190000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/gyrotonic", 
+    "office_number": "934579110", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Tu único centro de GYROTONIC® en Barcelona, último método de entrenamiento que mejora la tonificación y elasticidad que ayudan a mejorar dolencias del cuerpo.", 
+    "services": [
+        {
+            "service": "Clases Particulares Gyrotonic Bono 5 Clases", 
+            "description": "Aprovecha este bono de 5 sesiones de clases individuales de gyrotonic para poner a punto tu cuerpo y tu mente. Se practica utilizando aparatología. Se realiza una secuencia de ejercicios de ambos métodos se compone de espirales y movimientos circulares que se sincronizan con la correspondiente respiración para lograr el máximo beneficio y una libertad total de movimiento.", 
+            "price": "160.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Clases Grupales Gyrokinessis Mes", 
+            "description": "La tarifa es para un mes, con una clase semanal. Misma técnica que el Gyrotonic solo que sobre el suelo, no se utiliza aparatología. Se practica utilizando un taburete y una esterilla. Se realiza una secuencia de ejercicios de ambos métodos se compone de espirales y movimientos circulares que se sincronizan con la correspondiente respiración para lograr el máximo beneficio y una libertad total de movimiento.", 
+            "price": "320.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Clases Particulares Gyrotonic", 
+            "description": "Refuerza y rehabilita tu cuerpo para moverte con mayor fluidez y potencia. Se trabaja todo el cuerpo a través de siete elementos naturales con un movimiento suave y sistemático de las articulaciones. Apto para todas las edades, incluye aparatos. Precio para una sesión.", 
+            "price": "160.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 10 Clases Particulares Gyrotonic", 
+            "description": "Refuerza y rehabilita tu cuerpo para moverte con mayor fluidez y potencia. Se trabaja todo el cuerpo a través de siete elementos naturales con un movimiento suave y sistemático de las articulaciones. Apto para todas las edades, incluye aparatos. Se realiza en 3 meses.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Clases Particulares Gyrotonic Bono 5 Clases", 
+            "description": "Aprovecha este bono de 5 sesiones de clases individuales de gyrotonic para poner a punto tu cuerpo y tu mente. Se practica utilizando aparatología. Se realiza una secuencia de ejercicios de ambos métodos se compone de espirales y movimientos circulares que se sincronizan con la correspondiente respiración para lograr el máximo beneficio y una libertad total de movimiento.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Clases Compartidas Gyrotonic", 
+            "description": "Clase con dos personas, el precio es por persona. Refuerza y rehabilita tu cuerpo para moverte con mayor fluidez y potencia. Se trabaja todo el cuerpo a través de siete elementos naturales con un movimiento suave y sistemático de las articulaciones. Utilizamos máquinas para realizar estos ejercicios. Precio para una sesión.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Clases Compartidas Gyrotonic 4 Clases", 
+            "description": "Aprovecha este bono de 4 sesiones de clases compartidas de gyrotonic para poner a punto tu cuerpo y tu mente.", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Clases Grupales Gyrokinessis Mes", 
+            "description": "La tarifa es para un mes, con una clase semanal. Misma técnica que el Gyrotonic solo que sobre el suelo, no se utiliza aparatología. Se practica utilizando un taburete y una esterilla. Se realiza una secuencia de ejercicios de ambos métodos se compone de espirales y movimientos circulares que se sincronizan con la correspondiente respiración para lograr el máximo beneficio y una libertad total de movimiento.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Clases Particulares Gyrotonic", 
+            "description": "Refuerza y rehabilita tu cuerpo para moverte con mayor fluidez y potencia. Se trabaja todo el cuerpo a través de siete elementos naturales con un movimiento suave y sistemático de las articulaciones. Apto para todas las edades, incluye aparatos. Precio para una sesión.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

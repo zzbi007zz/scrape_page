@@ -1,0 +1,144 @@
+{
+    "name": "Bucmi-Atrezzo", 
+    "scrape_page": "https://www.bucmi.com/Oviedo.html?page=3", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "43.3629951000", 
+    "longitude": "-5.8468450000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/atrezzo", 
+    "office_number": "985217226", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La peluquería Atrezzo situada en Oviedo ofrece todo tipo de cortes de pelo asesorados para sacar el mayor partido de tus rasgos faciales a la vez que de tu melena. Además podrás reservar mechas para iluminar tu cabello y aclarar tu tono. Reserva ahora.", 
+    "services": [
+        {
+            "service": "Lavar, Cortar, Peinar Y Fusio Dose", 
+            "description": "Maravillosa promoción que incluye lavar con champú específico para tu cabello, corte de pelo asesorado por nuestros estilistas, peinado a tu gusto, y el estupendo tratamiento Fusio Dose de Kerastase que repara el cabello, aporta brillo y lo nutre logrando una sublime transformación del cabello.", 
+            "price": "29.90 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar, Corte De Pelo, Color, Peinar Y Fusio Dose", 
+            "description": "Date un capricho y ven a nuestro centro donde somos expertos en el mimado de tu cabello. Disfruta de esta estupenda promoción que incluye lavado con champú específico, corte de pelo asesorado por nuestros profesionales, color a elegir entre nuestra amplia gama de tonos, mascarilla y el maravilloso tratamiento Fusio Dose de Kerastase que repara el cabello, aporta brillo y lo nutre, logrando una sublime transformación del cabello.", 
+            "price": "55.20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre Y Masaje", 
+            "description": "Porque a ellos también les gusta cuidarse y lucir un aspecto impecable. Ven a Atrezzo Peluquería y déjate asesorar por nuestros profesionales. Lograremos darte una imagen renovada y con un acabado perfecto. El servicio incluye champú específico, masaje capilar, corte y aclarado.", 
+            "price": "29.90 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Lavar, Cortar, Peinar Y Fusio Dose", 
+            "description": "Maravillosa promoción que incluye lavar con champú específico para tu cabello, corte de pelo asesorado por nuestros estilistas, peinado a tu gusto, y el estupendo tratamiento Fusio Dose de Kerastase que repara el cabello, aporta brillo y lo nutre logrando una sublime transformación del cabello.", 
+            "price": "55.20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar, Corte De Pelo, Color, Peinar Y Fusio Dose", 
+            "description": "Date un capricho y ven a nuestro centro donde somos expertos en el mimado de tu cabello. Disfruta de esta estupenda promoción que incluye lavado con champú específico, corte de pelo asesorado por nuestros profesionales, color a elegir entre nuestra amplia gama de tonos, mascarilla y el maravilloso tratamiento Fusio Dose de Kerastase que repara el cabello, aporta brillo y lo nutre, logrando una sublime transformación del cabello.", 
+            "price": "44.80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Y Peinar", 
+            "description": "Dale un toque de vida a tu pelo y atrévete con los colores más trendys. Dale un cambio de estilo a tu look y elige entre la amplia gama de colores que te ofrecemos para tu cabello. El servicio incluye color L'oreal, champú específico para el cabello, masaje capilar y peinado. Pelo corto y largo.", 
+            "price": "39.9 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar", 
+            "description": "Dejate asesorar por nuestros expertos y atrévete con los peinados más a la moda. En Atrezzo Peluquería lograremos el look que más va contigo. El servicio incluye champú específico para el cabello,masaje capilar, corte asesorado por nuestros profesionales y peinado. Pelo corto y largo.", 
+            "price": "72.4 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre Y Masaje", 
+            "description": "Porque a ellos también les gusta cuidarse y lucir un aspecto impecable. Ven a Atrezzo Peluquería y déjate asesorar por nuestros profesionales. Lograremos darte una imagen renovada y con un acabado perfecto. El servicio incluye champú específico, masaje capilar, corte y aclarado.", 
+            "price": "10.9 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Con Crema", 
+            "description": "¿Tienes algún evento especial o, por el contrario, te gusta presumir todo el día? Esta es tu ocasión gracias a esta oferta de lavado y corte por un precio inmejorable. No lo dudes más y date un pequeño capricho.", 
+            "price": "39.9 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Balayage / Babylights Y Peinar", 
+            "description": "Átrevete con lo último en color. Las mechas balayage o babylight son el último grito en tendencia. Podrás lucir un aspecto totalmente natural y notarás tu pelo ligeramente más claro y luminoso. Dale un toque de alegría y viveza a tu melena.El servicio incluye Incluye contrastes para dar luz a tú pelo, champú específico para el cabello, masaje capilar y peinado.", 
+            "price": "72.4 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pack Manicura Y Pedicura Semipermanente", 
+            "description": "Consigue unas manos y pies perfectos gracias a este pack. Incluye limado, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras a elegir entre una amplia gama. No esperes más y reserva ahora tu cita online.", 
+            "price": "41.5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Básica Con Masaje", 
+            "description": "Da forma y brillo a tus uñas gracias a esta manicura realizada por los mejores profesionales. Incluye un masaje para que tus manos estén suaves e hidratadas. ¡No dejes pasar la oportunidad de tener unas uñas ideales!", 
+            "price": "37.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "Luce una manicura perfecta de la mano de los mejores profesionales del sector. El servicio incluye limado, retirada de cutículas y esmaltado a elegir entre una amplia variedad de colores. No esperes más y reserva ahora tu cita online.", 
+            "price": "10.9 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Completa", 
+            "description": "Date un capricho y ven a nuestro centro a disfrutar de un agradable momento de relajación mientras nuestros profesionales consiguen el acabado perfecto en manos y pies. Luce una manicura y pedicura impecable y escoge el tono de esmalte que más te gusta entre nuestra amplia gama de colores.El servicio incluye limado, retirada de cutículas, tratamiento de pieles y durezas, masaje hidratante y esmaltado.", 
+            "price": "13.2 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pack Manicura Y Pedicura Semipermanente", 
+            "description": "Consigue unas manos y pies perfectos gracias a este pack. Incluye limado, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras a elegir entre una amplia gama. No esperes más y reserva ahora tu cita online.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Pedicura Con Masajes", 
+            "description": "¡No olvides que los pies también son una parte esencial de tu cuerpo! Gracias a esta pedicura podrás lucir unos uñas perfectas para el día a día o para cualquier ocasión. Este tratamiento incluye un masaje hidratante para que prime la suavidad en tus pies.", 
+            "price": "56 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente", 
+            "description": "Luce una pedicura perfecta más tiempo de la mano de los mejores profesionales. El servicio incluye limado, retirada de cutículas, eliminación de durezas y esmaltado a elegir entre una amplia gama de colores. Reserva ahora tu cita online.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

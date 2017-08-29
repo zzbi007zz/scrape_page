@@ -1,0 +1,116 @@
+{
+    "name": "Bucmi-Fisioinnova Plus", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=77", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4274257000", 
+    "longitude": "-3.6578154999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/fisioinnova", 
+    "office_number": "913568549", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Conoce tu centro de Fuente del Berro especialistas en fisioterapia, terapias alternativas y belleza. Disponemos de un equipo de profesionales y tratamientos de verdadera calidad. Obtendrás una atención personalizada y nos adaptamos a cada caso.", 
+    "services": [
+        {
+            "service": "Bono 5 Sesiones Fisioterapia", 
+            "description": "Bono de 5 sesiones de fisioterapia. La duración de esta es de 40 minutos. Trataremos dolores musculares, como los ocasionados por malas posturas, etc. Además del masaje manual, lo cambinamos con electroterapia y termoterapia, hasta las técnicas más novedosas de estiramientos, kinesiotaping, etc. Personalizando cada servicio.", 
+            "price": "100.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "La Osteopatía trata patologías que tienen origen en distintos niveles, como: Craneal, sacro, visceral, vertebral...Nuestras técnicas son naturales, realizando manipulaciones, masajes profundos y superficiales, tratamiento de las fascias.Los resultados visibles desde la primera sesión. Todo ello realizado por un profesional.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Podología", 
+            "description": "Tratamiento de podología, que está aconsejado para personas con necesidades específicas en sus pies. Tratamietnos tales como: Quiropodia, ortesis de silicona, tratamiento de hongos. Todo ello realizado por un profesional.", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Indiba (Lesiones Deportivas)", 
+            "description": "Tratamiento para lesiones deportivas que ayduará a mejorar en el rendimiento deportivo. Reduce la recuperación muscular generadas por cúmulo de esfuerzo y acelera el proceso regenerativo y anti-inflamatorio del cuerpo. Es una Terapia a nivel celular de los tegidos dañados, ematomas, esguinces…", 
+            "price": "100.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Podología", 
+            "description": "Tratamiento de podología, que está aconsejado para personas con necesidades específicas en sus pies. Tratamietnos tales como: Quiropodia, ortesis de silicona, tratamiento de hongos. Todo ello realizado por un profesional.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Fisioterapia", 
+            "description": "Bono de 5 sesiones de fisioterapia. La duración de esta es de 40 minutos. Trataremos dolores musculares, como los ocasionados por malas posturas, etc. Además del masaje manual, lo cambinamos con electroterapia y termoterapia, hasta las técnicas más novedosas de estiramientos, kinesiotaping, etc. Personalizando cada servicio.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Fisioterapia", 
+            "description": "Sesión de fisioterapia de 40 minutos de duración. En la que nuestros profesionales, tratarán tanto dolores musculares, como ocasionados por malas posturas, etc. Además del masaje manual, lo cambinamos con electroterapia y termoterapia, hasta las técnicas más novedosas de estiramientos, kinesiotaping, etc. Personalizando cada servicio.", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "La Osteopatía trata patologías que tienen origen en distintos niveles, como: Craneal, sacro, visceral, vertebral...Nuestras técnicas son naturales, realizando manipulaciones, masajes profundos y superficiales, tratamiento de las fascias.Los resultados visibles desde la primera sesión. Todo ello realizado por un profesional.", 
+            "price": "125 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Indiba (Lesiones Deportivas)", 
+            "description": "Tratamiento para lesiones deportivas que ayduará a mejorar en el rendimiento deportivo. Reduce la recuperación muscular generadas por cúmulo de esfuerzo y acelera el proceso regenerativo y anti-inflamatorio del cuerpo. Es una Terapia a nivel celular de los tegidos dañados, ematomas, esguinces…", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Acupuntura", 
+            "description": "Medicina tradicional asiática que consiste en la introducción de agujas muy finas en determinados puntos del cuerpo para tratar los dolores y curar enfermedades. Si dispones de alguna duda, consulte con sus profesionales.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Flores De Bach", 
+            "description": "Sesión de flores de Bach, su origen viene hace unos cincuenta años.Basada en un concepto distinto de medicina clásica: relación entre el alma humana y la manifestación de la enfermedad, que tienerelación.Siendo estas adecuadas para tratar enfermedades de todo tipo, también para llevar una vida sana...", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Logopedia", 
+            "description": "La logopedia tratar con técnicas terapéuticas las alteraciones del lenguaje, tales como: Dislalias, disartrias, del habla, de la voz, dislexia, déficit de atención y la comprensión lectora... La logopedia también está indicada en personas adultas y mayores, paliar la degeneración cognitiva, pérdida de memoria, etc. La sesión tiene una duración de 40 minutos.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Psicología", 
+            "description": "Sesión de psicología de 60 minutos de duración. Esta es indicada tanto para niños o adultos. Nuestro profesional personalizará en todo momento la sesión. Muchas veces nuestros obstaculos se ven solucionados con terapias de psicología.", 
+            "price": "125 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "name": "Bucmi-Estilo", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=38", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3764234000", 
+    "longitude": "-3.7452364000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/estilo", 
+    "office_number": "914624361", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de peluquería y estética en Madrid. Encontrarás una variada gama de servicios con precios inmejorables y un trato personalizado. Nuestra profesionalidad y dedicación nos avalan. No dudes en visitarnos a nuestro centro ubicado en Carabanchel.", 
+    "services": [
+        {
+            "service": "Corte, Mechas Y Peinar Pelo Medio", 
+            "description": "Disfruta de este Pack completo con lavado, mechas del tono que más te guste y peinado. El PACK perfecto para realizar un cambio de look. Para otros largos, consultar suplementos en el salón.", 
+            "price": "37.60 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Corte Señora", 
+            "description": "Este servicio ncluye lavar, acondicionador y corte. No incluye peinado.El servicio es para cualquier tipo de largo y corte, ven y déjate asesorar por nuestros profesionales...", 
+            "price": "17.60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte, Peinar Y Cortar Pelo Media Melena Mujer", 
+            "description": "Opta por el tratamiento más completo, que incluye lavado, acondicionador, tinte de pelo, cortar y para fianlizar peinamos tu cabello. Te irás perfecta... VEN", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "¿Un rollo ir a la peluquería? Con nosotros no te pasará eso, disfruta de nuestro servicio que incuye: lavar, cortar y producto de acabado.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Media Melena", 
+            "description": "Incluye lavado, cortar con asesoramiento + peinar media melena. El acondicionador va incluido en el precio", 
+            "price": "37.60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "description": "Si quieres cortar tu cabello, no lo dudes y ven a visitarnos. Incluye lavar con acondicionador, productos de lavado, cortar y peinar.", 
+            "price": "47 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "description": "¿Quiéres cortate el pelo? No lo dudes y ven a conocernos, si no lo has hecho ya! Incluye lavado con acondicionador, corte de pelo de medida largo y peinado.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte, Mechas Y Peinar Pelo Medio", 
+            "description": "Disfruta de este Pack completo con lavado, mechas del tono que más te guste y peinado. El PACK perfecto para realizar un cambio de look. Para otros largos, consultar suplementos en el salón.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Corte Señora", 
+            "description": "Este servicio ncluye lavar, acondicionador y corte. No incluye peinado.El servicio es para cualquier tipo de largo y corte, ven y déjate asesorar por nuestros profesionales...", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Media Melena", 
+            "description": "Este servicio de mechas, hará que tu melena no luzca sosa y sin vida. Incluye lavado con acondicionador y mechas en tu cabello. Si deseas peinarte, se abonaría en el salón.", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Pelo Corto", 
+            "description": "Con este servicio de mechas, te damos luz a la cara y aportamos vida. Incluye lavar, acondicionador y mechas en cabello corto.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Pelo Largo", 
+            "description": "Gracias a las mechas, tu pelo podrá lucir con más vida y simular más movimiento.Incluye lavar, uso de acondicionador y mechas en cabello largo.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peinar Media Melena", 
+            "description": "Si tan sólo quieres peinar tu cabello, esta es tu mejor opción. Lavamos tú pelo, acondicionamos y peinamos como desees, si no tienes idea clara, te asesoraremos...", 
+            "price": "47 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinar Pelo Corto", 
+            "description": "Porque el pelo corto es muy cómodo, pero también hay que peinarlo. Incluye lavar, acondicionador y peinar.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinar Pelo Extra Largo", 
+            "description": "¿Melena muy larga? Dificil de peinar, no, en nuestro centro eso no te ocurrirá.Incluye lavar,acondicionador y peinar.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peinar Pelo Largo", 
+            "description": "Peina tu melena en nuestra peluquería. Te verás radiante... Te asesoramos si no sabes que hacerte, no lo dudes y ven!", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tinte, Peinar Y Cortar Pelo Corto Mujer", 
+            "description": "Este servicio incluye Tinte de cabello corto, peinado, cortar el pelo y peinarlo como más te guste o nosotros te asesoramos.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tinte, Peinar Y Cortar Pelo Largo Mujer", 
+            "description": "¿Tenerlo todo? Esto es posible gracias a este completo Pack que te ofrecemos en nuestra peluquería. Incluye: Lavado, acondicionador, tinte, peinar y cortar tu cabello largo.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tinte, Peinar Y Cortar Pelo Media Melena Mujer", 
+            "description": "Opta por el tratamiento más completo, que incluye lavado, acondicionador, tinte de pelo, cortar y para fianlizar peinamos tu cabello. Te irás perfecta... VEN", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "¿Un rollo ir a la peluquería? Con nosotros no te pasará eso, disfruta de nuestro servicio que incuye: lavar, cortar y producto de acabado.", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Incluye limar, retiración de cutículas, hidratación y esmaltado con el color que más te guste. Si optas por francesa, tiene un suplemento de dos euros, que se abonaría en el salón.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Manicura Francesa", 
+            "description": "Incluye limado de uñas, retiración de cutículas, hidratación y manicura francesa. La manicura más elegante, esta pidiendo a gritos que la reserves...", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Luce uñas hasta 3 semanas intactas. Este servicio incluye limado, quitar cutículas, hidratación y esmaltado a color, entre nuestra amplia gama.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura", 
+            "description": "Manicura y pedicura tradicional básica, que incluye limado de uñas, retirar cutículas, hidratación y tratamiento de durezas. Después te las esmaltamos con el color que más te guste o francesa. La francesa supone dos euros de suplemento que se abonarán en el salón.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

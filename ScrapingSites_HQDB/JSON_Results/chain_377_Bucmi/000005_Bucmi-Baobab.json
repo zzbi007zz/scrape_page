@@ -1,0 +1,277 @@
+{
+    "name": "Bucmi-Baobab", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=6", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4442228000", 
+    "longitude": "-3.6662453999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/baobabpeluqueria", 
+    "office_number": "915150389", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Somos una peluquería unisex. Abarcamos todos los servicios referentes al cabello, preocupándonos de tu estilismo y de que vivas una experiencia de belleza y bienestar. Disfruta de nuestros increíbles precios. Ven a conocernos al barrio Prosperidad.", 
+    "services": [
+        {
+            "service": "Alisado Japonés Pelo Largo", 
+            "description": "El alisado japonés es un tratamiento químico que ofreceos en Baobab, que consiguen cambiar la estructura interna del cabello de forma permanente, es decir de forma definitiva. El cabello que se alisa con este sistema quedara liso para siempre. Trabajamos con productos de Wella, de alta calidad. Consulta posibles suplementos dependiendo de la longitud y volumen del cabello.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Las estilistas de Baobab Peluquería estarán encantadas de ofrecerte un servicio personalizado y sacarte el máximo partido posible. Siempre fiel a tu estilo. El servicio Incluye: lavado, peinado con acabado y el cortede tendencia. DD", 
+            "price": "12.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer, Lavado, Acondicionador Y Secado", 
+            "description": "¡El pack perfecto para ti! Cambia de look y siéntete más guapa que nunca y déjate cuidar y mimar. El Servicio incluye corte mujer con lavado, acondicionador y secado efecto brushing. Haz tu reserva online en nuestro centro de Baobab Peluquería y no te arrepentirás de los resultados. Todo gracias a Bucmi.com.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Japonés Media Melena", 
+            "description": "El alisado japonés es un tratamiento químico que ofreceos en Baobab, que consiguen cambiar la estructura interna del cabello de forma permanente, es decir de forma definitiva. El cabello que se alisa con este sistema quedara liso para siempre. Trabajamos con productos de Wella, de alta calidad. DD", 
+            "price": "160.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Alisado Japonés Pelo Corto", 
+            "description": "El alisado japonés es un tratamiento químico que ofreceos en Baobab, que consiguen cambiar la estructura interna del cabello de forma permanente, es decir de forma definitiva. El cabello que se alisa con este sistema quedara liso para siempre. Trabajamos con productos de Wella, de alta calidad. Consulta posibles suplementos dependiendo de la longitud y volumen del cabello.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Alisado Japonés Pelo Largo", 
+            "description": "El alisado japonés es un tratamiento químico que ofreceos en Baobab, que consiguen cambiar la estructura interna del cabello de forma permanente, es decir de forma definitiva. El cabello que se alisa con este sistema quedara liso para siempre. Trabajamos con productos de Wella, de alta calidad. Consulta posibles suplementos dependiendo de la longitud y volumen del cabello.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Las estilistas de Baobab Peluquería estarán encantadas de ofrecerte un servicio personalizado y sacarte el máximo partido posible. Siempre fiel a tu estilo. El servicio Incluye: lavado, peinado con acabado y el cortede tendencia. DD", 
+            "price": "12.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer, Lavado, Acondicionador Y Secado", 
+            "description": "¡El pack perfecto para ti! Cambia de look y siéntete más guapa que nunca y déjate cuidar y mimar. El Servicio incluye corte mujer con lavado, acondicionador y secado efecto brushing. Haz tu reserva online en nuestro centro de Baobab Peluquería y no te arrepentirás de los resultados. Todo gracias a Bucmi.com.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Media Melena", 
+            "description": "La queratina actúa sobre los cabellos encrespados y dañados, ya que la queratina repara la segunda capa, que se llama cutícula capilar, que se encuentra bastante abierta y al aplicar el tratamiento, se consigue que se cierre y se repare. Alisa, aporta brillo y fuerza y hace más manejable al pelo. DD", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Corto", 
+            "description": "La queratina actúa sobre los cabellos encrespados y dañados, ya que la queratina repara la segunda capa, que se llama cutícula capilar, que se encuentra bastante abierta y al aplicar el tratamiento, se consigue que se cierre y se repare. Alisa, aporta brillo y fuerza y hace más manejable al pelo. DD", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Largo", 
+            "description": "La queratina actúa sobre los cabellos encrespados y dañados, ya que la queratina repara la segunda capa, que se llama cutícula capilar, que se encuentra bastante abierta y al aplicar el tratamiento, se consigue que se cierre y se repare. Alisa, aporta brillo y fuerza y hace más manejable al pelo. Consulta posibles suplementos dependiendo de la longitud y volumen del cabello.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color Completo", 
+            "description": "¿Cuál el color que más te gusta para tu melena? En Baobab encontraremos lo que más te favorezca según tu estilo. El servicio Incluye: lavado y coloración completa de la melena. No incluye peinado en el servicio.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Completo Y Peinado Media Melena Y Pelo Largo", 
+            "description": "¿Cuál el color que más te gusta para tu melena? En Baobab encontraremos lo que más te favorezca según tu estilo. El servicio Incluye: lavado y coloración completa de la melena. Para terminar, incluye peinado en el servicio.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Completo Y Peinado Pelo Corto", 
+            "description": "¿Cuál el color que más te gusta para tu melena? En Baobab encontraremos lo que más te favorezca según tu estilo. El servicio Incluye: lavado y coloración completa de la melena. No incluye peinado en el servicio.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Completo, Tto Hidratación, Corte Y Peinado", 
+            "description": "Disfruta de tu pack de belleza total y ponte guapa de las mejores manos. Realizamos color en todo el cabello, asesorado por nuestros profesionales, lavado con champú especifico y tratamiento de hidratación, corte de pelo y peinado. En caso de pelo extralargo se cobrará un suplemento en el centro.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "description": "Renueva tu peinado con nosotros y cambia de estilo con un nuevo corte de pelo. El servicio Incluye: lavado con acondicionador, corte y peinado. Haz ya tu reserva con Bucmi.com y sal perfecta del salón.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Pelo Largo Y Media Melena", 
+            "description": "Renueva tu peinado con nosotros y cambia de estilo con un nuevo corte de pelo. El servicio Incluye: lavado con acondicionador, corte y peinado. Haz ya tu reserva con Bucmi.com y sal perfecta del salón.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte, Tratamiento De Hidratación Y Peinado", 
+            "description": "¿Te apetece un cambio de look?¿Necesitas sanear tus puntas? Ponte en nuestras manos y déjate asesorar por los mejores profesionales del sector. El servicio incluye corte de pelo, tratamiento de hidratación y peinado.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Californianas", 
+            "description": "Mechas con un brillo natural como si fuese causado por el sol. Un look Natural y con estilo. Degrada tu color y ponte en manos de auténticos profesionales. El servicio Incluye: lavado y las mechas californianas.", 
+            "price": "170 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Peinado Pelo Corto", 
+            "description": "Mechas con un brillo natural como si fuese causado por el sol. Un look Natural y con estilo. Degrada tu color y ponte en manos de auténticos profesionales. El servicio Incluye: lavado,peinado del cabello y las mechas californianas.", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Peinado Pelo Largo Y Medio", 
+            "description": "Mechas con un brillo natural como si fuese causado por el sol. Un look Natural y con estilo. Degrada tu color y ponte en manos de auténticos profesionales. El servicio Incluye: lavado, peinado del cabello y las mechas californianas.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Plata", 
+            "description": "Las mechas básicas darán un toque especial a tu look. Además de un brillo excelente. El servicio Incluye: lavado y mechas básicas de plata. ¡Ya es hora de que le des un toque de luz a tu melena!DD", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "description": "Las mechas básicas darán un toque especial a tu look. Además de un brillo excelente. El servicio Incluye: lavado, peinado del cabello y mechas básicas de plata. ¡Ya es hora de que le des un toque de luz a tu melena!DD", 
+            "price": "104 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Y Peinado Pelo Largo Y Media Melena", 
+            "description": "Las mechas básicas darán un toque especial a tu look. Además de un brillo excelente. El servicio Incluye: lavado y mechas básicas de plata. ¡Ya es hora de que le des un toque de luz a tu melena!DD", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas, Corte, Peinado Y Tto. Hidratación", 
+            "description": "Reserva este pack completo de belleza para tu cabello y consigue lucir un pelo suave y luminoso. El servicio incluye mechas con asesoramiento personalizado, lavado con champú especifico y masaje, tratamiento hidratante, corte y peinado.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Peinado Pelo Corto", 
+            "description": "¿Melena lisa o rizada? Lo que quieras lo tienes en Baobab y con los mejores productos de acabado para no dañar tu pelo. El servicio Incluye: lavado con acondicionador y el peinado. Confía en nuestros expertos profesionales de Baobab Peluquería y no te arrepentirás de haber reservado. Gracias a Bucmi.com.", 
+            "price": "54 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinado Pelo Largo Y Media Melena", 
+            "description": "¿Melena lisa o rizada? Lo que quieras lo tienes en Baobab y con los mejores productos de acabado para no dañar tu pelo. El servicio Incluye: lavado con acondicionador y el peinado. Confía en nuestros expertos profesionales de Baobab Peluquería y no te arrepentirás de haber reservado. Gracias a Bucmi.com.", 
+            "price": "46 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Recogido, Peinado Y Acondicionador", 
+            "description": "Los recogidos son una de las opciones a las que a menudo recurrimos cuando queremos llevar un peinado diferente de forma rápida y sencilla, ¡y la mejor opción para una noche de fiesta o un evento. El servicio Incluye: lavado, acondicionador, peinado y recogido. DD", 
+            "price": "62 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Semirrecogido, Lavar Y Peinar", 
+            "description": "¿Tienes una fiesta y no sabes qué peinado de moda ponerte? Si quieres ver las últimas tendencias de moda en semirecogidos ¡Reserva y verás! El servicio Incluye: lavado, semi recogido y peinado.", 
+            "price": "66 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tinte Raíz", 
+            "description": "¿Cuál el color que más te gusta para tu melena? En Baobab encontraremos lo que más te favorezca según tu estilo. El servicio Incluye: lavado y tinte en la raíz. No incluye peinado en el servicio.", 
+            "price": "57 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte Raíz Y Peinado Pelo Corto", 
+            "description": "¿Cuál el color que más te gusta para tu melena? En Baobab encontraremos lo que más te favorezca según tu estilo. El servicio Incluye: lavado y tinte en la raíz. Para finalizar,te peinaremos con estilo para que salgas perfecta.", 
+            "price": "73 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Raíz Y Peinado Pelo Largo Y Media Melena", 
+            "description": "¿Cuál el color que más te gusta para tu melena? En Baobab encontraremos lo que más te favorezca según tu estilo. El servicio Incluye: lavado y tinte en raíz. Para finalizar,te peinaremos con estilo para que salgas perfecta.", 
+            "price": "77 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Sesión De Maquillaje", 
+            "description": "Maquillaje de día, de noche o fantasía al mejor precio, lo que necesites. Disfruta de una Sesión de Maquillaje para ponerse guapa y sacarte el máximo partido según los rasgos de tu cara.", 
+            "price": "110 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Media Melena", 
+            "description": "La queratina actúa sobre los cabellos encrespados y dañados, ya que la queratina repara la segunda capa, que se llama cutícula capilar, que se encuentra bastante abierta y al aplicar el tratamiento, se consigue que se cierre y se repare. Alisa, aporta brillo y fuerza y hace más manejable al pelo. DD", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Corto", 
+            "description": "La queratina actúa sobre los cabellos encrespados y dañados, ya que la queratina repara la segunda capa, que se llama cutícula capilar, que se encuentra bastante abierta y al aplicar el tratamiento, se consigue que se cierre y se repare. Alisa, aporta brillo y fuerza y hace más manejable al pelo. DD", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Largo", 
+            "description": "La queratina actúa sobre los cabellos encrespados y dañados, ya que la queratina repara la segunda capa, que se llama cutícula capilar, que se encuentra bastante abierta y al aplicar el tratamiento, se consigue que se cierre y se repare. Alisa, aporta brillo y fuerza y hace más manejable al pelo. Consulta posibles suplementos dependiendo de la longitud y volumen del cabello.", 
+            "price": "57 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }
+    ]
+}

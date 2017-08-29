@@ -1,0 +1,144 @@
+{
+    "name": "Bucmi-Clínica Estética T&B", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=97", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4535353000", 
+    "longitude": "-3.6846442999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/clinicaesteticatyb", 
+    "office_number": "918195496", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Clínica Estética T&B contamos con un equipo cualificado de profesionales y con lo último en aparatología. Nuestra prioridad es tu belleza y bienestar. Variedad de tratamientos faciales, corporales.. con un trato personalizado.¡Visítanos en Chamartín!", 
+    "services": [
+        {
+            "service": "Bono 5 Sesiones Lipoláser", 
+            "description": "¡Reserva ahora nuestra oferta de bono de 5 sesiones de lipoláser! ¡No dejes escapar esta oportunidad! Elimina la celulitis de tu cuerpo de mano de nuestros mejores profesionales. ¡No dejes que te lo cuenten y reserva ahora!", 
+            "price": "105.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Axilas", 
+            "description": "Olvídate del vello por un tiempo con esta sesión de depilación láser axilas. Consigue una piel suave y brillante de mano de nuestros mejores profesionales. No esperes más y reserva ahora tu cita online de una forma rápida y sencilla.", 
+            "price": "205.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Ingles", 
+            "description": "Olvídate del vello por un tiempo con esta sesión de depilación láser de ingles. Consigue una piel suave y brillante de mano de nuestros mejores profesionales. No esperes más y reserva ahora tu cita online de una forma rápida y sencilla.", 
+            "price": "205.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 4 Sesiones De Radiofrecuencia Facial", 
+            "description": "Este servicio incluye un Bono de 4 Sesiones de Radiofrecuencia Facial. Recomendado realizarse 1 sesión de 1 hora cada 15 días. Protocolo de trabajo:1º limpieza y peeling facial, 2º radio frecuencia en cara con ácido hialurónico, 3º Mascarilla calmante, 4º Terminación con masaje aceites reafirmantes. ¿Quieres lucir una piel tersa y mucho más joven? Ven a tu Clínica Estética T&B y ponte en manos de nuestros mejores profesionales. Luce una piel libre de imperfecciones, suave, tersa y joven. Reserva tu c", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Lipoláser", 
+            "description": "¡Reserva ahora nuestra oferta de bono de 5 sesiones de lipoláser! ¡No dejes escapar esta oportunidad! Elimina la celulitis de tu cuerpo de mano de nuestros mejores profesionales. ¡No dejes que te lo cuenten y reserva ahora!", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Limpieza Y Peeling", 
+            "description": "Este servicio incluye una Sesión de Limpieza y Peeling Faci Se recomienda realizar una cada semana. Protocolo de trabajo: 1º limpieza y peeling facial, 2º Face & led con sus 7 colores, 3º Mascarilla personalizada en función de la piel y sus necesidades, 4º Masaje faci ¿Quieres lucir una piel suave, hidratada y libre de impurezas? Ven a tu Clínica Estética T&B y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su vitalidad na", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial", 
+            "description": "Este servicio incluye una sesión de Radiofrecuencia Facial. Recomendado realizarse 1 sesión de 1 hora cada 15 días. Protocolo de trabajo:1º limpieza y peeling facial, 2º radio frecuencia en cara con ácido hialurónico, 3º Mascarilla calmante, 4º Terminación con masaje aceites reafirmantes. ¿Quieres lucir una piel tersa y mucho más joven? Ven a tu Clínica Estética T&B y ponte en manos de nuestros mejores profesionales. Luce una piel libre de imperfecciones, suave, tersa y joven. Reserva tu c", 
+            "price": "220 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Anticelulítico Hifu", 
+            "description": "Tratamiento para la celulitis de aproximadamente 2horas y media de duración, enfocado en las piernas. Se realiza una previa valoración del grado de celulitis y resultados de la primera sesión. El tratamiento consiste en un peeling en la zona a tratar combinado con 45 minutos de presoterapia, masaje activador de circulación e hifu en la zona. Ponte en manos de nuestros profesionales y disfruta de unos resultados visibles y magní", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Reafirmante Hifu", 
+            "description": "Este servicio incluye una sesión de un tratamiento reafirmante facial Hifu en las siguientes zonas: cara, cuello y escote. Las cantidad de sesiones se valora en base al estudio de la piel y al grado de flacidez de la paciente o paciente. Protocolo de trabajo: 1º Peeling facial, 2º Hifu en facial, 3º Mascarilla calmente. Se recomienda realizar una sesión cada 3 meses. Ponte en manos de nuestros profesionales y disfruta de unos resultados visibles y magníficos. Reserva tu cita online en Bucm", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 5Ss Depilación Láser Shr Ingles Y Axilas", 
+            "description": "Olvídate para siempre del molesto vello y reserva ya este servicio de depilación con el láser SHR Multipulso de Barrido Rápido. Apto para pieles bronceadas. Podrás disfrutar de un maravilloso bono de 5 sesiones en ingles y, además, por sólo 5 euros ya incluidos en el precio, en la zona de las axilas. En nuestro centro contamos con lo último en aparatología, en manos de nuestro cualificado equipo de profesionales. ¿A qué estás esperando? ¡Luce una piel suave y sedosa en cualquier oc", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 5 Ss Depilación Láser Pecho,Abdomen Y Axilas", 
+            "description": "Olvídate para siempre del molesto vello y reserva ya este servicio de depilación con el láser SHR Multipulso de Barrido Rápido. Apto para pieles bronceadas. Podrás disfrutar de un maravilloso bono de 5 sesiones en pecho y abdomen y, además, por sólo 5 euros ya incluidos en el precio, en la zona de las axilas. En nuestro centro contamos con lo último en aparatología, en manos de nuestro cualificado equipo de profesionales. ¿A qué estás esperando? ¡Luce una piel suave y sedosa en cualquier oc", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5Ss Depilación Láser Piernas Completas,Axilas", 
+            "description": "Olvídate para siempre del molesto vello y reserva ya este servicio de depilación con el láser SHR Multipulso de Barrido Rápido. Apto para pieles bronceadas. Podrás disfrutar de un maravilloso bono de 5 sesiones en piernas completas y, además, por sólo 5 euros ya incluidos en el precio, en la zona de las axilas. En nuestro centro contamos con lo último en aparatología, en manos de nuestro cualificado equipo de profesionales. ¿A qué estás esperando? ¡Luce una piel suave y sedosa en cualquier oc", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Láser Axilas", 
+            "description": "Olvídate del vello por un tiempo con esta sesión de depilación láser axilas. Consigue una piel suave y brillante de mano de nuestros mejores profesionales. No esperes más y reserva ahora tu cita online de una forma rápida y sencilla.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Ingles", 
+            "description": "Olvídate del vello por un tiempo con esta sesión de depilación láser de ingles. Consigue una piel suave y brillante de mano de nuestros mejores profesionales. No esperes más y reserva ahora tu cita online de una forma rápida y sencilla.", 
+            "price": "450 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Ingles Y Axilas", 
+            "description": "Olvídate para siempre del molesto vello y reserva ya este servicio de depilación con el láser SHR Multipulso de Barrido Rápido. Apto para pieles bronceadas. Podrás disfrutar de una maravillosa sesión en ingles y, además, por sólo 5 euros ya incluidos en el precio, en la zona de las axilas. En nuestro centro contamos con lo último en aparatología, en manos de nuestro cualificado equipo de profesionales. ¿A qué estás esperando? ¡Luce una piel suave y sedosa en cualquier oc", 
+            "price": "425 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Láser Pecho, Abdomen Y Axilas", 
+            "description": "Olvídate para siempre del molesto vello y reserva ya este servicio de depilación con el láser SHR Multipulso de Barrido Rápido. Apto para pieles bronceadas. Podrás disfrutar de una maravillosa sesión en pecho y abdomen y, además, por sólo 5 euros ya incluidos en el precio, en la zona de las axilas. En nuestro centro contamos con lo último en aparatología, en manos de nuestro cualificado equipo de profesionales. ¿A qué estás esperando? ¡Luce una piel suave y sedosa en cualquier oc", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Láser Piernas Completas Y Axilas", 
+            "description": "Olvídate para siempre del molesto vello y reserva ya este servicio de depilación con el láser SHR Multipulso de Barrido Rápido. Apto para pieles bronceadas. Podrás disfrutar de una maravillosa sesión en piernas completas y, además, por sólo 5 euros ya incluidos en el precio, en la zona de las axilas. En nuestro centro contamos con lo último en aparatología, en manos de nuestro cualificado equipo de profesionales. ¿A qué estás esperando? ¡Luce una piel suave y sedosa en cualquier oc", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

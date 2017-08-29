@@ -1,0 +1,137 @@
+{
+    "name": "Bucmi-Marisa Sanz", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=79", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4233106999", 
+    "longitude": "-3.6762290000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/marisa-sanz", 
+    "office_number": "915752704", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro de estética y terapias naturales Marisa Sanz situado en Barrio Salamanca, Madrid, ofrece gran variedad de tratamientos. En nuestros tratamientos utilizamos alta cosmética biológica de Biologique Recherche y Dr. Baumann SkinIdent. Reserva online", 
+    "services": [
+        {
+            "service": "Acupuntura 1º Sesion", 
+            "description": "La acupuntura es una terapia proveniente de la medicina china tradicional, que permite reducir y tratar malestares y molestias de muy diversa naturaleza (nerviosas, musculares, digestivas...). Si buscas una alternativa a los tratamientos químicos, consulta con nuestro centro y reserva ya una sesión con Bucmi.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "La osteopatía nos ofrece una alternativa a la hora de mejorar problemas musculares o dolores provenientes de huesos y articulaciones. Se trata de una terapia que consigue la mejora de esas molestias, mediante la manipulación estudiada de articulaciones y el cuerpo en general. No dudes en probarlo reservando esta sesión con Bucmi.", 
+            "price": "48.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Rejuvenecedor Ácido Hialorónico", 
+            "description": "Consigue el mismo efecto rejuvenecedor que con las filtraciones de ácido hialurónico, pero con nuestro tratamiento no invasivo 'Segunda Piel'. Se trata de un novedoso tratamiento basado en la acción de unos parches especiales de ácido hialurónico. Primero se limpia la piel y se prepara realizando un masaje específico, se aplican los parches, se trata con aparatología específica y finaliza con la aplicación de unos sueros específicos. ¡Piel visiblemente más joven en 90 minutos!", 
+            "price": "48.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Redensificante", 
+            "description": "Nuestro tratamiento redensificante mejora la firmeza de la piel actuando sobre la densidad de la dermis. Para conseguir el efecto deseado combinamos un masaje profesional específico con cosméticos especialmente indicados para redensificar y una mascarilla específica. ¡Notarás sus efectos desde la primera sesión!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Desintoxicante", 
+            "description": "No siempre cuidamos y limpiamos nuestro cutis como debemos. El uso de maquillajes y la exposición a distintos agentes externos puede hacer que nuestro cutis ofrezca una imagen poco saludable. Ponle solución con nosotros reservando este tratamiento desintoxicante realizado con cosméticos y mascarillas específicas, aplicados mediante un masaje manual que permite penetrar estos componentes y actuar de forma efectiva para mostrar tu mejor cara.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Rejuvenecedor Ácido Hialorónico", 
+            "description": "Consigue el mismo efecto rejuvenecedor que con las filtraciones de ácido hialurónico, pero con nuestro tratamiento no invasivo 'Segunda Piel'. Se trata de un novedoso tratamiento basado en la acción de unos parches especiales de ácido hialurónico. Primero se limpia la piel y se prepara realizando un masaje específico, se aplican los parches, se trata con aparatología específica y finaliza con la aplicación de unos sueros específicos. ¡Piel visiblemente más joven en 90 minutos!", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiestrés", 
+            "description": "El cansancio y los nervios se ven claramente reflejados en nuestro cutis, pero estos signos de fatiga no se van tan rápidamente como vienen. Ayuda a tu piel a librarse del estrés con este tratamiento facial específico realizado con un importante trabajo manual que hace penetrar los cosméticos específicos que utilizamos y la mascarilla final. ¡Y dale un respiro a tu piel!", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Higiene Facial Con Tratamiento", 
+            "description": "¿Quieres tener una piel cuidada y sana? llámanos y disfruta de una piel radiante con este tratamiento, consiste en la preparación de la piel con productos de primera calidad, una higiene profunda y un tratamiento adecuado para restaurar el ph y las necesidades de la piel. Te esperamos, reserva ya tu cita!!.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antimanchas", 
+            "description": "Si quieres reducir notablemente las manchas de tu rostro, este tratamiento específico te encantará. Primero preparamos la piel, después aplicamos cosméticos específicos anti-manchas, realizamos un masaje manual específico esencial para que actúen correctamente y aplicamos una mascarilla final que complementa el tratamiento. ¡Resérvalo cómodamente online con Bucmi!", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Con Piedras Calientes Y Aromaterapia", 
+            "description": "¿quieres relajarte y sentir sensaciones de bienestar extraordinarias?.Con la combinación de la aromaterapia y las piedras calientes disfrutaras de un momento inolvidable", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "La osteopatía nos ofrece una alternativa a la hora de mejorar problemas musculares o dolores provenientes de huesos y articulaciones. Se trata de una terapia que consigue la mejora de esas molestias, mediante la manipulación estudiada de articulaciones y el cuerpo en general. No dudes en probarlo reservando esta sesión con Bucmi.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Local", 
+            "description": "Masaje especialmente indicado para dolores más localizados como piernas, brazos o espalda.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Reflexoterapia Podal", 
+            "description": "Se basa en realizar un masaje en el pie trabajando las zonas reflejas que estimulan distintas partes del cuerpo, trabajando así las funciones orgánicas,además de ser muy relajante.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Completo", 
+            "description": "El masaje en el cuerpo es una de las terapias mas completas que existen,activa y mejora la circulación, relaja, descontractura,reafirma la piel, tonifica,etc. cuando te sientas mal o con alguno de estos síntomas, aprovecha y llámanos recuperaras tu vitalidad y podrás seguir con tu actividad.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Con Piedras Calientes Y Aromaterapia", 
+            "description": "¿quieres relajarte y sentir sensaciones de bienestar extraordinarias?.Con la combinación de la aromaterapia y las piedras calientes disfrutaras de un momento inolvidable", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Acupuntura 1º Sesion", 
+            "description": "La acupuntura es una terapia proveniente de la medicina china tradicional, que permite reducir y tratar malestares y molestias de muy diversa naturaleza (nerviosas, musculares, digestivas...). Si buscas una alternativa a los tratamientos químicos, consulta con nuestro centro y reserva ya una sesión con Bucmi.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

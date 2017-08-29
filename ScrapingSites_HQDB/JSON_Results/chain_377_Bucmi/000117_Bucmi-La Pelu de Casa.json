@@ -1,0 +1,109 @@
+{
+    "name": "Bucmi-La Pelu de Casa", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=19", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4415902000", 
+    "longitude": "2.1780770999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/lapeludecasa", 
+    "office_number": "618677368", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Peluqueria en Nou Barris en Barcelona, especialistas en servicios de peluqueria para mujer, hombre y niños. Siéntete como en casa y déjate asesorar por profesionales de gran experiencia. Reserva con Bucmi nuestros cortes de tendencia, coloraciones, etc.", 
+    "services": [
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "Porque los cambios de look no son sólo cosas de chicas. Cambia tu look con este servicio de corte de pelo, lavado y peinado con productos de acabado para hombre. Reserva ya con Bucmi.com, más rápido y sencillo.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Peinado", 
+            "description": "Quizás lo que necesitas en sanear tu melena. Recurre a este servicio de corte y peinado, corta por lo sano y luce un nuevo look. El servicio incluye corte y lavado con peinado incluído. Para cabellos extralargos consulte suplemento con el profesional. Te encantará.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas, Corte Y Secado", 
+            "description": "Renueva tu look dándole un toque de luz con unas mechas que iluminarán las melenas más serias y apagadas. Añade además un corte asesorado para sanear tu melena , lavado y secado con productos de acabado. Para cabellos extralargos consulte suplemento con el profesional.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Raíz, Corte Y Secado Al Aire", 
+            "description": "Si necesitas pasar por la peluquería para unificar el color de tu cabello, este pack te vendrá de perlas. Primero aplicamos el color en la raíz para que luzcas perfecta, un corte para dejarte una melena sana y por último secamos tu cabello al aire. Para cabellos extralargos consulte suplemento con el profesional.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Raíz, Mechas, Corte Y Peinado", 
+            "description": "Dale un toque de color a tu melena añadiendo un corte asesorado, lavado y secado con productos de acabado. Para cabellos extralargos consulte suplemento con el profesional.", 
+            "price": "47 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "Porque los cambios de look no son sólo cosas de chicas. Cambia tu look con este servicio de corte de pelo, lavado y peinado con productos de acabado para hombre. Reserva ya con Bucmi.com, más rápido y sencillo.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Niño", 
+            "description": "Con este corte de pelo para niños de hasta 12 años, no tendrás que preocuparte más. Hazles un hueco en su agenda , después del cole y saldrán encantados. Les encantará incluso más que a tí. Reserva ya con Bucmi.com", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Peinado", 
+            "description": "Quizás lo que necesitas en sanear tu melena. Recurre a este servicio de corte y peinado, corta por lo sano y luce un nuevo look. El servicio incluye corte y lavado con peinado incluído. Para cabellos extralargos consulte suplemento con el profesional. Te encantará.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar", 
+            "description": "Si tienes un evento especial o siemplemente quieres estar perfecta para el día a día, te lavamos y trabajamos el cabello, peinándote para que salgas encantada. El servicio incluye lavado y peinado con productos de acabado. Para cabellos extralargos consulte suplemento con el profesional.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas, Corte Y Secado", 
+            "description": "Renueva tu look dándole un toque de luz con unas mechas que iluminarán las melenas más serias y apagadas. Añade además un corte asesorado para sanear tu melena , lavado y secado con productos de acabado. Para cabellos extralargos consulte suplemento con el profesional.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Lifting Capilar, Lavar Y Secar", 
+            "description": "Una de las mejores técnicas para cuidar tu cabello y recuperar su estado original. Es muy recomendado para quienes necesitan hidratar su cabello o lo tiene debilitado. Regenera el cabello, le devuelve elasticidad, evita su debilitación y por supuesto mejora su aspecto. El servicio incluye lavado y secado del cabello. Combínalo con el resto de servicios para un resultado increíbles.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Labio Superior Y Cejas", 
+            "description": "Deshazte de ese molesto vello facial, con este pack que te ofrecemos con depilación de labio superior y cejas. Luce más bonita, repetirás seguro. Reserva ya con Bucmi.com", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

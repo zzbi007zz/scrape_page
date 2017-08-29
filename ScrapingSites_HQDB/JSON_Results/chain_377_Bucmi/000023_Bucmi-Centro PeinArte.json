@@ -1,0 +1,172 @@
+{
+    "name": "Bucmi-Centro PeinArte", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=24", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4277100000", 
+    "longitude": "-3.6951500000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/centropeinarte", 
+    "office_number": "913195978", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El Salón de Belleza Centro PeinArte situado a pocos pasos del metro Alonso Martinez, ofrece todo tipo de cortes de pelo asesorados por los mejores profesionales. Servicios de uñas tales como manicuras y pedicuras. No esperes más y reserva ahora tu cita.", 
+    "services": [
+        {
+            "service": "Manicura Y Pedicura Permanente", 
+            "description": "Consigue unas manos y pies perfectos durante al menos dos semanas. Limamos las uñas, tratamos y retiramos cutículas, eliminamos durezas y por último esmaltamos del color que prefieras. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Disfruta de un corte a la moda, asesorado por nuestros expertos profesionales de Centro Peinarte, y gracias a los años de experiencia que nos avalan y a que seguimos las últimas tendencias, nos adaptaremos al estilo que mejor se adapte a ti. El servicio incluye el corte de tendencia, lavado con champú y acabado con styling. No lo dudes más y haz tu reserva con nosotros.", 
+            "price": "46.80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Empezamos cortando/limando las uñas, se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras. No incluye Francesa suplemento de 1€ a abonar en el salón. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "24.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte, Color Y Peinado", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com.", 
+            "price": "24.80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Disfruta de un corte a la moda, asesorado por nuestros expertos profesionales de Centro Peinarte, y gracias a los años de experiencia que nos avalan y a que seguimos las últimas tendencias, nos adaptaremos al estilo que mejor se adapte a ti. El servicio incluye el corte de tendencia, lavado con champú y acabado con styling. No lo dudes más y haz tu reserva con nosotros.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Color Para Mujer", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y pero peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Lavado Y Peinado", 
+            "description": "Si tienes un evento especial al que quieres ir guapa, pero te gusta llevar un estilo natural y menos recargado, reserva en nuestro centro de peinarte nuestro completo servicio que incluye lavado de la melena y peinado definido, todo con productos Schwarzkopf. No incluye trabajos muy elaborados, ni recogidos ni semirecogidos. No lo dudes más y haz tu reserva con nosotros.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas", 
+            "description": "Dale un toque de luz a tu melena de la forma más rápida, el servicio incluye lavado con champú específico y secado no incluye el peinado. Confía en nuestros expertos estilistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "11 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Y Peinado", 
+            "description": "Dale un toque de luz a tu melena de la forma más rápida, el servicio incluye lavado con champú específico y el peinado. Reserva en nuestro salón nuestro completo tratamiento de belleza capilar. Confía en nuestros expertos estilistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "58.5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Limpieza De Cutis Facial", 
+            "description": "Limpieza de cutis facial con aromaterapia. Se realiza con vapor de ozono y se incluye un tratamiento de contorno de ojos. El servicio incluye un desmaquillado de la piel, tonificación, hidratación, extracción de impurezas y mascarilla con masaje hidratante para que el efecto sea completo. Utilizamos productos Skeyndor.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Completa", 
+            "description": "El pack perfecto para que luzcas unas uñas de cine a un precio increíble, se realiza el servicio de la manicura y pedicura completas con esmaltado normal. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "44 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Permanente", 
+            "description": "Consigue unas manos y pies perfectos durante al menos dos semanas. Limamos las uñas, tratamos y retiramos cutículas, eliminamos durezas y por último esmaltamos del color que prefieras. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Empezamos cortando/limando las uñas, se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras. No incluye Francesa suplemento de 1€ a abonar en el salón. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Con Esmaltado Permanente", 
+            "description": "La manicura más duradera, incluye limar/cortar, tratamiento cutículas, masaje, hidratación y esmaltado permanente dentro de una amplia variedad de colores, incluye acabado en francesa. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "59 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "En el servicio cortamos/limamos, cuidamos cutículas, exfoliamos, tratamiento durezas, hidratamos y maquillamos tus uñas con el color que más te guste. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "Depilación de axilas con cera caliente con aroma de clorofila, calmante para producir menos irritacion en la piel. Confía en nuestro expertos esteticistas del Centro PeinArte y disfruta de una piel suave y sedosa por un par de semanas. No tendrás necesidad de recurrir de manera diaria a la cuchilla para disfrutar de una piel estupenda. No lo dudes más y reserva online con Bucmi.com.", 
+            "price": "31 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Brasileñas", 
+            "description": "Depilación de ingles brasileñas con cera caliente con aroma de clorofila, calmante para producir menos irritación en la piel. Confía en nuestro expertos esteticistas del Centro PeinArte y disfruta de una piel suave y sedosa por un par de semanas. No tendrás necesidad de recurrir de manera diaria a la cuchilla para disfrutar de una piel estupenda. No lo dudes más y reserva online con Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Integrales", 
+            "description": "Depilación de ingles integrales con cera caliente con aroma de clorofila, calmante para producir menos irritación en la piel.Confía en nuestro expertos esteticistas del Centro PeinArte y disfruta de una piel suave y sedosa por un par de semanas. No tendrás necesidad de recurrir de manera diaria a la cuchilla para disfrutar de una piel estupenda. No lo dudes más y reserva online con Bucmi.com.", 
+            "price": "11 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Normales", 
+            "description": "Depilación de ingles normales (linea del biquini) con cera caliente con aroma de clorofila, calmante para producir menos irritación en la piel. Confía en nuestro expertos esteticistas del Centro PeinArte y disfruta de una piel suave y sedosa por un par de semanas. No tendrás necesidad de recurrir de manera diaria a la cuchilla para disfrutar de una piel estupenda. No lo dudes más y reserva online con Bucmi.com.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "Depilación de medias piernas con cera tibia de roll-on con aroma a chocolate que es calmante y produce menos irritación sobre la piel. Confía en nuestro expertos esteticistas del Centro PeinArte y disfruta de una piel suave y sedosa por un par de semanas. No tendrás necesidad de recurrir de manera diaria a la cuchilla para disfrutar de una piel estupenda. No lo dudes más y reserva online con Bucmi.com.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "Depilación de piernas completas con cera tibia de rollon con aroma de chocolate que es calmante y produce menos irritación sobre la piel. Confía en nuestro expertos esteticistas del Centro PeinArte y disfruta de una piel suave y sedosa por un par de semanas. No tendrás necesidad de recurrir de manera diaria a la cuchilla para disfrutar de una piel estupenda. No lo dudes más y reserva online con Bucmi.com.", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

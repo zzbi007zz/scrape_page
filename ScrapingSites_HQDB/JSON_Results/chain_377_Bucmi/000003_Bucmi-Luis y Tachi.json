@@ -1,0 +1,200 @@
+{
+    "name": "Bucmi-Luis y Tachi", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=4", 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4296636000", 
+    "longitude": "-3.6739966999", 
+    "formatted_address": "Madrid", 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/luisytachi", 
+    "office_number": "914016949", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Luis & Tachi Peluqueros está ubicado en la Calle de José Ortega y Gasset, 74 al lado de la parada Lista en pleno barrio de Salamanca de Madrid. Cuenta con expertos en coloración adecuada para todo tipo de cabello, edad y tendencias de moda, de la mano de L’Oréal Professional, en Rituales capilares Kerastasse y Bioesthétique. En Luis y Tachi tienen obsesión por el color, la moda y la máxima calidad en servicios profesionales, por eso trabajan con la marca Essie, Inoa y Diarichesse.", 
+    "services": [
+        {
+            "service": "Afeitado Clásico A Navaja", 
+            "description": "Llevamos más de 40 años realizando el afeitado clásico con navaja, toallas calientes con productos y cuchillas de primera calidad. Disfruta de la experiencia de la Barbería. Es el momento de cuidarte y mimarte de la mano de los profesionales de Luis y Tachi. Relájate y consigue un look cuidado según tu estilo. Siempre nos adaptamos a tus gustos con un asesoramiento personalizado. Reserva cita online al mejor precio.", 
+            "price": "13.73 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Tanto si quiere un cambio de estilo como sanear tu cabello, ponte en manos de los estilistas de Luis y Tachi; ellos te ofrecerán un asesoramiento personalizado para sacar la mejor versión de ti mismo. Cambia tu look con este servicio que incluye lavado con champú específico, corte para hombre, baño tratamiento con Kerastase Homme y peinado con productos de acabado REDKEN para el hombre. ¡No esperes más y reserva online!", 
+            "price": "17.18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer Y Baño Tratamiento Kerastase", 
+            "description": "Los estilistas cualificados de Luis y Tachi están a tu disposición para conseguir un estilo que se ajuste a lo que tu buscas. Además, te ofrecen un asesoramiento personalizado para dejarte perfecta. Dale un nuevo look a tu melena con este servicio de corte para mujer, incluye lavado con baño personalizado Kerastase para nutrir y reparar tu cabello dañado. No te arrepentirás del resultado.", 
+            "price": "23.12 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Raíz Absoluto Inoa", 
+            "description": "Unifica el color de tu melena con este servicio de color Absoluto by Inoa sin amoniaco, una de las mejores marcas del mercado, para que tu cabello esté cuidado desde el inicio del tratamiento y no se dañe. El servicio incluye el lavado con champú específico e hidratación y la coloración INOA en la zona de raíz. Si deseas un cambio de color se abonará en el salón un suplemento de 8,30€. El servicio no incluye peinado del cabello.", 
+            "price": "30.32 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Afeitado Clásico A Navaja", 
+            "description": "Llevamos más de 40 años realizando el afeitado clásico con navaja, toallas calientes con productos y cuchillas de primera calidad. Disfruta de la experiencia de la Barbería. Es el momento de cuidarte y mimarte de la mano de los profesionales de Luis y Tachi. Relájate y consigue un look cuidado según tu estilo. Siempre nos adaptamos a tus gustos con un asesoramiento personalizado. Reserva cita online al mejor precio.", 
+            "price": "13.73 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Tanto si quiere un cambio de estilo como sanear tu cabello, ponte en manos de los estilistas de Luis y Tachi; ellos te ofrecerán un asesoramiento personalizado para sacar la mejor versión de ti mismo. Cambia tu look con este servicio que incluye lavado con champú específico, corte para hombre, baño tratamiento con Kerastase Homme y peinado con productos de acabado REDKEN para el hombre. ¡No esperes más y reserva online!", 
+            "price": "17.18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Diseño Y Arreglo De Barba", 
+            "description": "Las barbas están de moda, pero en Luis y Tachi sabemos que estas requieren cuidados para tener una barba perfecta,.Si empiezas a notar tu estupenda barba desarreglada haz tu reserva online en LUIS&TACHI, de nuestro completo servicio de arreglo de barba. Nuestros expertos barberos, conseguiran la imagen deseada para tu barba. No lo pienses más y luce una barba molona y arreglada para un look perfecto.", 
+            "price": "11.48 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Alisado De Keratina", 
+            "description": "Si quieres despedirte del cabello fosco, sin vida e indomable, tu solución es reservar online un tratamiento de Alisado de Keratina. Ahora podrás decir adiós al pelo encrespado y lucir esa melena lisa que tanto has deseado con el alisado de keratina 100% libre de formol de Luis Y Tachi. En caso de tener una melena extralarga o con mucha densidad consulta por posible suplemento en el salón ¡Amarás tu pelo de una vez por todas!", 
+            "price": "160.80 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color Inoa, Tto Kerastase Y Peinado", 
+            "description": "En Luis y Tachi trabajamos con marcas de primera calidad para aportar lo mejor a tu cabello. Unifica el color de tu melena con este servicio de color Absoluto by Inoa sin amoniaco, una de las mejores marcas del mercado. El servicio incluye el lavado con champú específico e hidratación Kerastase para aportar fuerza a tu cabello y la coloración INOA. Incluye peinado a tu gusto. Reserva online en tan dolo 2 clics.", 
+            "price": "45.60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Natural Bb Color", 
+            "description": "Si estás pensando en aportar a tu cabello un color natural y sin dañar apenas tu cabello, reserva online este color Bb. Se trata de un Baño de color super brillante, ideal para disimular tus primeras canas y conseguir una hidratación de terciopelo. El servicio incluye el lavado de la melena con champú e hidratación y la coloración. No incluye el peinado. Conseguiremos el look que deseas.", 
+            "price": "20.48 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Natural Bb, Peinado Y Tto Kerastase", 
+            "description": "Este pack es perfecto si deseas aportar color a tu cabello y además deseas lucirlo con más brillo y sedosidad. El tratamiento consiste en un Baño de color super brillante, ideal para disimular tus primeras canas y un tratamiento de hidratación Kerastase, para conseguir una hidratación de terciopelo. El servicio incluye el lavado de la melena con champú e hidratación y la coloración. El servicio Incluye el peinado.", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Profesionales Smartbond", 
+            "description": "Las Mechas Profesionales Smartbond harán que tengas un look perfecto. Déjate aconsejar por nuestros expertos y dale un toque de luz a tu melena con este servicio de mechas con el que se verá más luminosa. El servicio incluye la iluminación de la melena y el lavado con champú, aplicación de smartbond para proteger tu cabello y secado natural para quitar la humidad. Reserva online al mejor precio en tan solo 3 clics.", 
+            "price": "50.32 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peinado Y Baño Tratamiento Kerastase", 
+            "description": "¿Tienes un evento especial y no consigues domar tu pelo? Reserva este servicio de peinado y saldrás estupenda. Además trataremos tu cabello con un Baño Kerastase adaptado a tus necesidades. Los profesionales de Luis y Tachi sabrán cuidar y mimar tu cabello como se merece para conseguir el look que deseas. El servicio incluye lavado con champú específico, un baño de hidratación y el peinado a tu gusto. ¡Reserva cita online!", 
+            "price": "15.44 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer Y Baño Tratamiento Kerastase", 
+            "description": "Los estilistas cualificados de Luis y Tachi están a tu disposición para conseguir un estilo que se ajuste a lo que tu buscas. Además, te ofrecen un asesoramiento personalizado para dejarte perfecta. Dale un nuevo look a tu melena con este servicio de corte para mujer, incluye lavado con baño personalizado Kerastase para nutrir y reparar tu cabello dañado. No te arrepentirás del resultado.", 
+            "price": "23.12 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Raíz Absoluto Inoa", 
+            "description": "Unifica el color de tu melena con este servicio de color Absoluto by Inoa sin amoniaco, una de las mejores marcas del mercado, para que tu cabello esté cuidado desde el inicio del tratamiento y no se dañe. El servicio incluye el lavado con champú específico e hidratación y la coloración INOA en la zona de raíz. Si deseas un cambio de color se abonará en el salón un suplemento de 8,30€. El servicio no incluye peinado del cabello.", 
+            "price": "30.32 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia De Limpieza Facial La Biosthetique", 
+            "description": "Cuida de tu rostro, lucha contra el envejecimiento prematuro e imperfecciones como manchas, arrugas, líneas de expresión o acné y todo en manos de los mejores esteticistas y profesionales de Luis y Tachi. Tratamiento para eliminar las impurezas cutáneas de forma intensiva y al mismo tiempoespecialmente suave con las tecnicas de la exclusiva marca LA BIOSTHETIQUE. Te encantará el resultado lleno de luz.", 
+            "price": "54.24 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas 3D Eyes", 
+            "description": "Las extensiones de pestañas son el método profesional, fácil y sencillo que alargará y moldeará tus pestañas hasta el infinito. Se integran entre las pestañas naturales para mejorar su grosor, longitud y volumen, logrando un encanto especial y destacar el atractivo de los ojos. Tendrás la mirada que siempre has soñado y te olvidarás de la marcara de pestañas. Sacaremos la mejor versión de ti misma con este efecto 3D.", 
+            "price": "14.08 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Completa Masglo", 
+            "description": "Las manos son una parte fundamental del cuerpo y dicen mucho de ti, por eso queremos que las lleves cuidadas, perfectas y a todo color. Disfruta de una manicura completa con la marca Masglo. Te realizamos un diagnóstico de la uña y te aplicaremos la rutina de tratamiento que necesites, aplicamos guante de tratamiento ,damos forma a la uña, retiramos cutícula y esmaltamos del tono que más te guste ¿Sabrás de color escoger?", 
+            "price": "25.52 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente Masglo", 
+            "description": "Tus uñas perfectas durante 3 semanas, con el esmaltado semipermanente de Masglo Gel. El servicio es completo, incluye el esmaltado en el color que elijas, limado de la uña, hidratación de la piel y el cuidado de las cutículas. Para los profesionales de Luis y Tachi es fundamental que tengas un resultado perfecto y por tanto, unas manos y uñas impecables. Tendrás el color intacto durante más de 2 semanas sin dañar tu uña.", 
+            "price": "30.32 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura By Masglo", 
+            "description": "Muchas veces olvidamos que los pies soportan la carga del día a día y que están sometidos a agresiones continuas, como los cambios de temperaturas o el calzado que muchas veces no es el más adecuado. Disfruta de un momento de placer y relax. Después de un diagnóstico personalizado, aplicaremos un tratamiento según el tipo de uña, aplicamos tratamiento hidratante, masaje y finalizamos con esmaltado de la prestigiosa marca Masglo", 
+            "price": "41.84 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente Masglo Gel", 
+            "description": "Es necesario dar un respiro a tus pies y proporcionarles un descanso de vez en cuando. Luis y Tachi quiere que te dejes cuidar y mantener tus pies perfectos para afrontar el día a día. Disfruta de una pedicura relajante realizada con las mejores especialistas en mani-pedi y embellece tus uñas con un esmaltado semipermanente realizado con los productos de la prestigiosa marca Masglo ¡Dispones de un montón de tonos ideales!", 
+            "price": "66.80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Hot Oil Relajante", 
+            "description": "Es momento de relajarte y evadirse la rutina gracias a este super masaje corporal Hoy Oil. El masaje intensivo relaja de forma especialmente agradable las tensiones corporales y alivia del estrés diario. La cera líquida caliente con aroma frutal a albaricoque proporciona una piel suave como la seda, aparte de aportarle un cuidado intenso. Disfruta de 90 minutos de placer total ¡Es tu momento!", 
+            "price": "37.52 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Relajante Antiestrés", 
+            "description": "Nuestro cuerpo sufre con nuestras fatigas diarias, y a veces una contractura, un dolor de espalda o de cuello o una pequeña lesión deportiva pueden frenar nuestra actividad. ¡No permitas que eso ocurra! El servicio tiene una duración aproximada de 45 minutos de masaje corporal relajante realizado con aceite esenciales. Desconecta y date un respiro gracias a nuestros expertos terapeutas de Luis y Tachi.", 
+            "price": "5.76 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación De Cejas", 
+            "description": "Las cejas son parte fundamental del rostro y por ello es necesario llevarlas cuidadas. Realizada por nuestras profesionales con pinzas y cera, si fuera necesario en zona superior y entrecejo. ¡Y olvídate del vello por un par de semanas gracias a Luis y Tachi! No incluye diseño de cejas. Reserva online en tan solo 3 clics al mejor precio a través de Bucmi. ¡Te gustará el resultado!", 
+            "price": "19.44 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Piernas Completas Cera Caliente", 
+            "description": "Si quieres conseguir unas piernas bonitas, suaves y de escándalo, opta por la depilación con cera caliente, que es muy duradera. Disfruta de un servicio de depilación en nuestras cómodas cabinas y realizado por las mejores profesionales. Luce unas piernas increíbles gracias a nuestros expertos esteticistas de Luis y Tachi ¡Y olvídate del vello por un par de semanas gracias a Luis y Tachi! Reserva online en tan solo 3 clics.", 
+            "price": "18.3 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

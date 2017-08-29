@@ -1,0 +1,74 @@
+{
+    "name": "Bucmi-Avagar", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=54", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4586660999", 
+    "longitude": "-3.7007621000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/avagar", 
+    "office_number": "915797282", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Avagar encontrarás paz y tranquilidad en el caos de la ciudad. Desde el 97 es el lugar donde se han podido expandir las impresionantes enseñanzas de Yogui Bhajan, en medio de Bravo Murillo, disfruta del silencio, la armonía y sana tu cuerpo y mente.", 
+    "services": [
+        {
+            "service": "Naturopatía 1º Visita", 
+            "description": "Son terapias naturales muy beneficiosas para restablecer la salud. Costa de diferentes técnicas según las necesidades de cada paciente como la iridología, kinesiología, homeopatía, Dietoterapia, Hidroterapia de colon, Sat Nam Rasayan, etc. Ven a tu Centro de Terapias Naturales Avagar y ponte en manos de nuestros profesionales. Tómate en serio tu salud y benefíciate de las numerosas ventajas de estos tratamientos. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Hidroterapia De Colon 1ª Visita", 
+            "description": "La hidroterapia de colon consiste en un lavado del intestino y perfecto para desintoxicarse y los efectos son inminentes con un bienestar para el paciente y ayuda al sistema inmune. Ven a tu Centro de Terapias Naturales Avagar y ponte en manos de nuestros mejores profesionales. Tómate un descanso en tu rutina diaria y beneficiate de las numerosas ventajas de estos tratamientos. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Hidroterapia De Colon Revisión", 
+            "description": "La hidroterapia de colon consiste en un lavado del intestino y perfecto para desintoxicarse y los efectos son inminentes con un bienestar para el paciente y ayuda al sistema inmune. La revisión es apta para aquellos pacientes que se han echo la primera. Ven a tu Centro de Terapias Naturales Avagar y ponte en manos de nuestros mejores profesionales. Tómate un descanso en tu rutina diaria y beneficiate de las numerosas ventajas de estos tratamientos. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Naturopatía 1º Visita", 
+            "description": "Son terapias naturales muy beneficiosas para restablecer la salud. Costa de diferentes técnicas según las necesidades de cada paciente como la iridología, kinesiología, homeopatía, Dietoterapia, Hidroterapia de colon, Sat Nam Rasayan, etc. Ven a tu Centro de Terapias Naturales Avagar y ponte en manos de nuestros profesionales. Tómate en serio tu salud y benefíciate de las numerosas ventajas de estos tratamientos. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Revisión Naturopatía", 
+            "description": "Tras la primera visita, selecciona esta opción. Al igual que en la primera visita, consta de diferentes técnicas según las necesidades de cada paciente. Ven a tu Centro de Terapias Naturales Avagar y ponte en manos de nuestros profesionales. Tómate en serio tu salud y benefíciate de las numerosas ventajas de estos tratamientos. Reserva tu cita cómodamente online a través de Bucmi.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Hidroterapia De Colon 1ª Visita", 
+            "description": "La hidroterapia de colon consiste en un lavado del intestino y perfecto para desintoxicarse y los efectos son inminentes con un bienestar para el paciente y ayuda al sistema inmune. Ven a tu Centro de Terapias Naturales Avagar y ponte en manos de nuestros mejores profesionales. Tómate un descanso en tu rutina diaria y beneficiate de las numerosas ventajas de estos tratamientos. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Hidroterapia De Colon Revisión", 
+            "description": "La hidroterapia de colon consiste en un lavado del intestino y perfecto para desintoxicarse y los efectos son inminentes con un bienestar para el paciente y ayuda al sistema inmune. La revisión es apta para aquellos pacientes que se han echo la primera. Ven a tu Centro de Terapias Naturales Avagar y ponte en manos de nuestros mejores profesionales. Tómate un descanso en tu rutina diaria y beneficiate de las numerosas ventajas de estos tratamientos. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

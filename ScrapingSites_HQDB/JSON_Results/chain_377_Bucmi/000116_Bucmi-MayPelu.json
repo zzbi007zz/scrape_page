@@ -1,0 +1,172 @@
+{
+    "name": "Bucmi-MayPelu", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=18", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3986107000", 
+    "longitude": "2.1477019000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/maypelu", 
+    "office_number": "932096939", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Salón de belleza en el barrio Sant Gervasi MayPelu es un espacio de relax y de calidad. Ofrecemos una amplia gama de servicios tanto de peluquería como de estética, igualmente tenemos una muy buena relación calidad-precio. Te esperamos en nuestro salón.", 
+    "services": [
+        {
+            "service": "Corte, Color Completo Y Peinado", 
+            "description": "¿Estás pensando en un cambio de look? No te lo pienses y da el paso: con nuestro servicio de corte y color, podrás renovar tu imagen. Llévate un corte a la moda y compleméntalo con un color que vaya con tu estilo. El servicio incluye el lavado con productos específicos para tu cabello, color, corte y peinado.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Bótox Capilar", 
+            "description": "Si tienes el cabello fino y quieres proporcionarle mayor volumen y densidad, este tratamiento de bótox capilar es para ti. Simulando el efecto volumen y rellenador del bótox en cirugía, con este tratamiento podremos reestructurar la fibra capilar de tu melena, reparándola en profundidad y aportándole mayor volumen. El servicio incluye el tratamiento y secado express para retirar el exceso de humedad de tu cabello.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Anticaída", 
+            "description": "Con el paso del tiempo, podemos observar cómo poco a poco perdemos nuestra densidad capilar. La caída del cabello es un problema que afecta a muchas personas, pero en Maypelu te traemos un tratamiento que permitirá frenarlo y prevenir la caída del cabello. Este servicio incluye el tratamiento y secado express para retirar el exceso de humedad del cabello.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina", 
+            "description": "Con este tratamiento capilar de keratina conseguiremos eliminar el encrespamiento de tu melena. Además, te daremos una hidratación intensa que permitirá nutrir en profundidad tu melena. Es un tratamiento, no se trata de un alisado definitivo. Consigue reducir el volumen de tu melena. El servicio incluye el tratamiento y secado express para retirar el exceso de humedad de tu cabello.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Color En Raíz Y Peinado", 
+            "description": "Te gusta disfrutar de un color impecable en tu cabello, quieres estar perfecta pero... el cabello crece y con ello, llega el efecto raíz. ¡No te preocupes! Ponte en nuestras manos y consigue este servicio de tinte en raíz; incluimos el color, lavado con productos específicos para tu tipo de cabello y peinado.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Y Peinado", 
+            "description": "¿Buscas renovar tu imagen? ¿Quizá sanear tu melena? En Maypelu te asesoramos para que te lleves un corte lleno de estilo que vaya contigo y tu personalidad. El servicio incluye lavado con productos específicos según tu tipo de cabello, corte y peinado.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Cortar Y Mechas Hombre", 
+            "description": "Disimula las canas con mechas del mismo color de tu cabello, lucirás un efecto difuminado muy natural. El servicio incluye color, corte y lavado. Además, incluimos todos los productos de acabado necesarios para fijar el look.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Express", 
+            "description": "Con este servicio podrás disfrutar de unas manos bonitas en tan solo 15 minutos. ¡No te lo pierdas! Incluimos el limado y esmaltado con laca de uñas básica, elige entre nuestra amplia gama de colores, ¡te encantará!", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Corte, Color Completo Y Peinado", 
+            "description": "¿Estás pensando en un cambio de look? No te lo pienses y da el paso: con nuestro servicio de corte y color, podrás renovar tu imagen. Llévate un corte a la moda y compleméntalo con un color que vaya con tu estilo. El servicio incluye el lavado con productos específicos para tu cabello, color, corte y peinado.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Bótox Capilar", 
+            "description": "Si tienes el cabello fino y quieres proporcionarle mayor volumen y densidad, este tratamiento de bótox capilar es para ti. Simulando el efecto volumen y rellenador del bótox en cirugía, con este tratamiento podremos reestructurar la fibra capilar de tu melena, reparándola en profundidad y aportándole mayor volumen. El servicio incluye el tratamiento y secado express para retirar el exceso de humedad de tu cabello.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Anticaída", 
+            "description": "Con el paso del tiempo, podemos observar cómo poco a poco perdemos nuestra densidad capilar. La caída del cabello es un problema que afecta a muchas personas, pero en Maypelu te traemos un tratamiento que permitirá frenarlo y prevenir la caída del cabello. Este servicio incluye el tratamiento y secado express para retirar el exceso de humedad del cabello.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina", 
+            "description": "Con este tratamiento capilar de keratina conseguiremos eliminar el encrespamiento de tu melena. Además, te daremos una hidratación intensa que permitirá nutrir en profundidad tu melena. Es un tratamiento, no se trata de un alisado definitivo. Consigue reducir el volumen de tu melena. El servicio incluye el tratamiento y secado express para retirar el exceso de humedad de tu cabello.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Color En Raíz Y Peinado", 
+            "description": "Te gusta disfrutar de un color impecable en tu cabello, quieres estar perfecta pero... el cabello crece y con ello, llega el efecto raíz. ¡No te preocupes! Ponte en nuestras manos y consigue este servicio de tinte en raíz; incluimos el color, lavado con productos específicos para tu tipo de cabello y peinado.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Y Peinado", 
+            "description": "¿Buscas renovar tu imagen? ¿Quizá sanear tu melena? En Maypelu te asesoramos para que te lleves un corte lleno de estilo que vaya contigo y tu personalidad. El servicio incluye lavado con productos específicos según tu tipo de cabello, corte y peinado.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Cortar Y Mechas Hombre", 
+            "description": "Disimula las canas con mechas del mismo color de tu cabello, lucirás un efecto difuminado muy natural. El servicio incluye color, corte y lavado. Además, incluimos todos los productos de acabado necesarios para fijar el look.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Caballero A Máquina", 
+            "description": "Con nuestro servicio de corte a máquina podrás disfrutar de un look de lo más apurado y preciso. El servicio incluye lavado, masaje craneal, corte a máquina y producto de acabado.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Caballero A Tijera", 
+            "description": "¡Para lo más clásicos! Si te gusta que cuiden tu melena y disfrutar de un buen corte con tijera, este servicio es para ti. El servicio incluye lavado, masaje craneal, corte a tijera y producto de acabado.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Express", 
+            "description": "Con este servicio podrás disfrutar de unas manos bonitas en tan solo 15 minutos. ¡No te lo pierdas! Incluimos el limado y esmaltado con laca de uñas básica, elige entre nuestra amplia gama de colores, ¡te encantará!", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Uñas De Gel", 
+            "description": "Las uñas artificiales son la solución perfecta para uñas mordidas, quebradizas o que se rompen con facilidad. Te proporcionaremos un resultado muy natural que encajará perfectamente con tus uñas naturales. El servicio incluye manicura completa y primera puesta de las uñas de gel.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Uñas Gel - Mantenimiento", 
+            "description": "Para poder mantener tus uñas de gel tan perfectas como el primer día, con este servicio de mantenimiento corregiremos el crecimiento de tu uña natural para conseguir unas uñas perfectas, ¡como el primer día!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Keratina", 
+            "description": "Con este tratamiento capilar de keratina conseguiremos eliminar el encrespamiento de tu melena. Además, te daremos una hidratación intensa que permitirá nutrir en profundidad tu melena. Es un tratamiento, no se trata de un alisado definitivo. Consigue reducir el volumen de tu melena. El servicio incluye el tratamiento y secado express para retirar el exceso de humedad de tu cabello.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

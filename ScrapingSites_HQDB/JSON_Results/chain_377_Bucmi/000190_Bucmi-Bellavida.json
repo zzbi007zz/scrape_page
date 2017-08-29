@@ -1,0 +1,501 @@
+{
+    "name": "Bucmi-Bellavida", 
+    "scrape_page": "https://www.bucmi.com/Zaragoza.html?page=1", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.6427714000", 
+    "longitude": "-0.8924858000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/bellavida", 
+    "office_number": "876017353", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Peluquería y Centro de Estética Bellavida nace con un nuevo concepto del cuidado, la belleza facial y corporal en Zaragoza. En nuestras instalaciones podrás disfrutar de una amplia gama de tratamientos destinados a tu bienestar. Somos especializados en depilación con cera para los hombres. ¡Ven ahora a conocernos!", 
+    "services": [
+        {
+            "service": "Corte Pelo Mujer", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "8.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "¡Los hombres también se preocupan por su aspecto y en Bellavida lo sabemos! Podrás escoger entre un corte más clásico o atreverte con las últimas tendencias, ahora al mejor precio. El servicio incluye solo el corte del cabello, siempre en manos de nuestro cualificado equipo de profesionales. ¡Sorprende con un nuevo aspecto! No lo dudes y reserva ya tu cita cómodamente online.", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Japonés Definitivo", 
+            "description": "Con una intensidad mayor que el alisado de keratina, con el alisado japonés conseguirás alisar por completo el pelo. Se recomienda consultar con el profesional el tipo de cabello que se tiene antes de disfrutar de esta técnica de alisado permanente. ¡No lo dudes, luce una melena siempre perfecta y reserva ya tu cita cómodamente online! El resultado será verdaderamente eficaz. ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "79.00 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de piernas entras. Se realiza con cera de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "10.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Espalda Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de la espalda. Se realiza con cera de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "8.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavado Y Peinado", 
+            "description": "El servicio incluye el peinado que más vaya contigo, con tu estilo y personalidad. ¡Estarás siempre perfecta gracias a nuestro equipo de profesionales! Incluye también un agradable lavado. ¡Si quieres sentirte ideal cualquier día, este es tu momento! Reserva ya tu cita online en nuestro centro de peluquería y estética. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Para pelo extralargo consulte posible suplemento en el centro.", 
+            "price": "79.99 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Pelo Mujer", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Alisado Brasileño Pelo Largo", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales del sector gracias a este alisado de keratina. Eliminamos el encrespamiento, reforzamos el cabello debilitado y alisamos tu melena de forma permanente. No esperes más y reserva ahora tu cita online.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "¡Los hombres también se preocupan por su aspecto y en Bellavida lo sabemos! Podrás escoger entre un corte más clásico o atreverte con las últimas tendencias, ahora al mejor precio. El servicio incluye solo el corte del cabello, siempre en manos de nuestro cualificado equipo de profesionales. ¡Sorprende con un nuevo aspecto! No lo dudes y reserva ya tu cita cómodamente online.", 
+            "price": "21.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tto Hidratación Bótox Capilar", 
+            "description": "El servicio incluye una hidratación profunda de bótox capilar en nuestro centro de peluquería y estética Bella Vida. De esta forma, podrás nutrir tu melena tras los estragos del verano o de muchas coloraciones. Reserva ya tu cita online, podrás ahorrar tiempo y disfrutar de descuentos exclusivos. ¡Confía en nuestro equipo de profesionales, que trabajarán para conseguir el mejor resultado! Una melena perfecta por un precio super asequible.", 
+            "price": "23.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinado Pelo Corto", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo corto.", 
+            "price": "31.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Y Peinado Media Melena", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para media melena.", 
+            "price": "45.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Peinado", 
+            "description": "Consigue un look de moda con las mechas californianas. Las mechas californianas son el último grito en tendencias. Ponte guapa en manos de nuestros profesionales. El servicio incluye el lavado con champú y acondicionador, la aplicación de las mechas en degradado y el peinado, con el que comprobarás los increíbles resultados. El resultado será muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Te encantará!", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Reparador", 
+            "description": "Elimina el encrespamiento de tu cabello con el tratamiento de rejuvenecimiento capilar. Repara tu melena siempre en manos de nuestro equipo de profesionales. Utilizamos productos de primera calidad para que los resultados sean efectivos. ¡No lo dudes y reserva ya tu cita cómodamente online! Un tratamiento ideal para nutrir tu pelo. ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "54.97 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinado Pelo Largo", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo largo.", 
+            "price": "79.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado Keratina", 
+            "description": "Si deseas un cabello más liso y más manejable, la mejor opción es un alisado de keratina. El servicio consta de un tratamiento intenso que suaviza, alisa y fortalece el cabello. ¡Podrás lucir así una melena perfecta, eliminando los signos de encrespamiento! Nuestros profesionales trabajan con productos de primera calidad. ¡No esperes más y reserva ya tu cita cómodamente online! ¡Quedarás super satisfecha con el resultado!", 
+            "price": "37.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Alisado Japonés Definitivo", 
+            "description": "Con una intensidad mayor que el alisado de keratina, con el alisado japonés conseguirás alisar por completo el pelo. Se recomienda consultar con el profesional el tipo de cabello que se tiene antes de disfrutar de esta técnica de alisado permanente. ¡No lo dudes, luce una melena siempre perfecta y reserva ya tu cita cómodamente online! El resultado será verdaderamente eficaz. ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "44.80 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Color, Mechas, Corte Y Peinado Pelo Corto", 
+            "description": "¡Dale un toque de color y de vida a tu melena! Además, sorprenderás con un look totalmente renovado. El servicio incluye un agradable lavado, el tinte, las mechas, el corte asesorado y el peinado con definición. Además, de regalo, podrás disfrutar de un tratamiento de hidratación y masaje capilar. Confía en nuestro equipo de profesionales que te aconsejarán con el corte y color que más te favorece. ¡Reserva ya online este pack exclusivo para tu melena! El precio es indicado para pelo corto.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color, Mechas, Corte Y Peinado Pelo Largo", 
+            "description": "¡Dale un toque de color y de vida a tu melena! Además, sorprenderás con un look totalmente renovado. El servicio incluye un agradable lavado, el tinte, las mechas, el corte asesorado y el peinado con definición. Además, de regalo, podrás disfrutar de un tratamiento de hidratación y masaje capilar. Confía en nuestro equipo de profesionales que te aconsejarán con el corte y color que más te favorece. El precio es indicado para pelo largo. En caso de pelo extralargo, consulta posible suplemento en el centro.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Mechas Fantasía Y Peinado", 
+            "description": "Consigue un look de moda con las mechas fantasía. Ponte guapa en manos de nuestros profesionales. El servicio incluye el lavado con champú y acondicionador, la aplicación de las mechas fantasía y el peinado, con el que comprobarás los increíbles resultados. El resultado será muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Te encantará!", 
+            "price": "26.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tinte De Cejas Con Henna", 
+            "description": "¡Da a tus cejas mucho más uniformidad y resistencia gracias a este tinte con henna de color marrón o negro! No lo dudes, luce unas cejas mucho más definidas gracias a nuestro equipo de profesionales. La tinta durará unas 3 semanas. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "18.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar De Ácido Hialurónico", 
+            "description": "¿Quieres lucir una melena libre de encrespamiento? Ven a tu Centro de Peluquería y Estética Bellavida y ponte en manos de nuestros mejores profesionales. Luce un cabello libre de encrespamiento y con mucho más volumen. Disfruta de una melena sedosa y con mucho brillo. Alisa tu pelo e hidrata en profundidad. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar De Keratina Pura", 
+            "description": "¿Quieres lucir una melena mucho más lisa e hidratada? Ven a tu Centro de Peluquería y Estética Bellavida y ponte en manos de nuestros mejores profesionales. Luce una melena mucho más lisa y sedosa. Olvídate del encrespamiento. Este tratamiento hidratada en profundidad tu cabello sin químicos. Disfruta de un pelo mucho más hidratado, nutrido y luminoso. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "8.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas", 
+            "description": "Disfruta de una mirada de cine gracias a nuestros expertos esteticistas de Bellavida, que te colocarán pelo a pelo extensiones sobre tus pestañas para que luzcan más largas y tu mirada gane profundidad. Aprovecha ahora y haz tu reserva gracias a Bucmi.com. No te arrepentirás del resultado.", 
+            "price": "16.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Micropigmentación Microblading De Cejas", 
+            "description": "Tratamiento de belleza para tener unas cejas perfectas mediante la técnica del maquillaje semipermanente realizado pelo a pelo, permitiendo modificar la forma y el color de la ceja. Está recomendado para personas que por alguna razón quieren aumentar la densidad de sus cejas de la manera más natural posible o para personas que por problemas de salud, estrés o problemas hormonales hayan tenido pérdida de vello en las cejas. Luce unas cejas perfectas y naturales. ¡No te arrepentirás!", 
+            "price": "23.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte De Pestañas", 
+            "description": "Consigue la curva perfecta para tus pestañas gracias al servicio de permanente. Por otro lado, el tinte te permitirá lucir el color deseado. Presume de una mirada bonita, con estilo y mucho más intensa de forma rápida y en manos de nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Permanente De Pestañas Sin Rulos", 
+            "description": "Si quieres conseguir un rizo perfecto en tu pestaña sin la necesidad de tener que utilizar rulos en tus pestañas, reserva en Bellavida nuestro completo servicio de permanente sin rulos. Tu mirada ganará intensidad, imitando a las celebrities de Hollywood. No lo dudes más y haz tu reserva con nosotros.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas", 
+            "description": "Si quieres que tu mirada luzca más cautivadora y tus pestañas resulten más largas, y con un rizo perfecto, reserva en nuestro centro de Bella Vida este completo de extensiones de pestañas, que tienen una duración aproximada de 60 días. No lo dudes más y ponte en las manos de nuestros expertos profesionales para que consigas un look perfecto y una mirada más bonita sin tener que recurrir a la máscara de pestañas de forma diaria.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tinte De Cejas Con Henna", 
+            "description": "¡Da a tus cejas mucho más uniformidad y resistencia gracias a este tinte con henna de color marrón o negro! No lo dudes, luce unas cejas mucho más definidas gracias a nuestro equipo de profesionales. La tinta durará unas 3 semanas. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "18.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Con Masaje Completo", 
+            "description": "Cuida tus pies con un tratamiento de pedicura que incluye retirado de cutículas, limado y masaje con hidratación. ¡Con este servicio no sólo pondrás tus pies a punto sino que te relajarás siempre en manos de nuestro equipo de profesionales! ¡Porque unos pies bonitos y cuidados dirán mucho de tí! No lo dudes y reserva ya tu cita cómodamente online. ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Francesa", 
+            "description": "Luce unas manos naturales y elegantes con la manicura francesa. Para que siempre tengas unas manos bonitas y cuidadas en la peluquería y centro de estética Bellavida te ofrecemos esta maravillosa manicura. El servicio incluye limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado de manicura francesa. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Si lo que deseas es presumir de unas uñas bonitas durante más tiempo y unas manos cuidadas, ahora es posible gracias al servicio de manicura permanente en la peluquería y centro de estética Bellavida. Una manicura de larga duración que incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas y el esmaltado permanente del color que más te guste, que más vaya contigo y con tu personalidad. No incluye ni Francesa ni retirada de esmalte permanente.", 
+            "price": "8.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura", 
+            "description": "Hemos preparado este pack de manicura y pedicura para que tus manos y pies estén siempre perfectos y cuidados. Elige el esmalte que más te guste y nosotros nos encargamos de un resultado perfecto. El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, el tratamiento de durezas en el caso de los pies y el esmaltado que prefieras. ¡Pon tus pies y manos a punto gracias a nuestro equipo de profesionales! Reserva ya tu cita cómodamente online.", 
+            "price": "7.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Para que siempre tengas unas manos bonitas y cuidadas en la peluquería y centro de estética Bellavida te ofrecemos esta maravillosa manicura. El servicio incluye limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado del color que prefieras. Escoge el color que más te guste, que más vaya con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "4.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Uñas Gel Unisex", 
+            "description": "Muestra unas uñas cuidadas y unas manos más bonitas con las uñas de gel. Si eres de los que se muerden las uñas o las tienes muy debilitadas, este es tu servicio. Podrás lucir unas uñas con la forma y la largura que estabas buscando. Además, con un resultado muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "15.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Uñas De Porcelana", 
+            "description": "Muestra unas uñas cuidadas y unas manos más bonitas con las uñas de porcelana. Si eres de las que se muerden las uñas o las tienes muy debilitadas, este es tu servicio. Podrás lucir unas uñas con la forma y la largura que estabas buscando. Además, con un resultado muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "54.97 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Esmaltado Semipermanente", 
+            "description": "En el servicio, limamos, esmaltamos con laca de uñas semipermanente, y finalizamos con hidratación. Elige el color que más te guste, para los más clásicos o los más atrevidos. Durante un par de semanas no te preocuparás por tus uñas. No pierdas esta oportunidad y reserva ya cómodamente online con nosotros. Utilizamos productos de primeras marcas. ¡Te encantará!", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Fantasía Y Peinado", 
+            "description": "Consigue un look de moda con las mechas fantasía. Ponte guapa en manos de nuestros profesionales. El servicio incluye el lavado con champú y acondicionador, la aplicación de las mechas fantasía y el peinado, con el que comprobarás los increíbles resultados. El resultado será muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Te encantará!", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Para que siempre tengas unos pies bonitos y cuidados en la peluquería y centro de estética Bellavida te ofrecemos esta maravillosa pedicura. El servicio incluye limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado del color que prefieras. Escoge el color que más te guste, que más vaya con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "Si lo que deseas es presumir de unas uñas bonitas durante más tiempo y unos pies cuidados, ahora es posible gracias al servicio de pedicura permanente en la peluquería y centro de estética Bellavida. Una pedicura de larga duración que incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas y el esmaltado permanente del color que más te guste, que más vaya contigo y con tu personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Uñas Esculpidas", 
+            "description": "Uno de los mejores métodos para tener unas uñas súper perfectas. Te colocamos las uñas y les damos la forma que quieras con el esmaltado que elijas. Tienen una duración de tres semanas aproximadamente. No lo dudes y reserva cómodamente tu cita online en Bucmi.com ¡No te arrepentirás!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante 30M", 
+            "description": "Relájate durante 30 minutos con nuestros masajes descontracturantes. Desconecta mente y cuerpo en manos de nuestro equipo de profesionales. Además, te ayudamos a mejorar tu calidad de vida, eliminando pequeñas dolencias. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! En Bellavida nos preocupamos por tu salud y bienestar.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante 60M", 
+            "description": "Relájate durante 60 minutos con nuestros masajes descontracturantes. Desconecta mente y cuerpo en manos de nuestro equipo de profesionales. Además, te ayudamos a mejorar tu calidad de vida, eliminando pequeñas dolencias. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! En Bellavida nos preocupamos por tu salud y bienestar.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Con Cera En Axilas", 
+            "description": "¡Deshazte del vello durante semanas gracias a este servicio de depilación con cera tibia o caliente en axilas! Podrás disfrutar de una piel suave y sedosa, siempre en manos de nuestro equipo de profesionales. ¡Olvídate de la cuchilla y estate siempre perfecta para cualquier ocasión! No lo dudes y reserva ya tu cita cómodamente online. ¿A qué estás esperando? ¡No dejes que te lo cuenten1", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Cera En Medias Piernas", 
+            "description": "¡Deshazte del vello durante semanas gracias a este servicio de depilación con cera tibia o caliente en medias piernas! Podrás disfrutar de una piel suave y sedosa, siempre en manos de nuestro equipo de profesionales. ¡Olvídate de la cuchilla y estate siempre perfecta para cualquier ocasión! No lo dudes y reserva ya tu cita cómodamente online. ¿A qué estás esperando? ¡No dejes que te lo cuenten1", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Cera En Ingles", 
+            "description": "¡Deshazte del vello durante semanas gracias a este servicio de depilación con cera tibia o caliente en ingles! Podrás disfrutar de una piel suave y sedosa, siempre en manos de nuestro equipo de profesionales. ¡Olvídate de la cuchilla y estate siempre perfecta para cualquier ocasión! No lo dudes y reserva ya tu cita cómodamente online. ¿A qué estás esperando? ¡No dejes que te lo cuenten1", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cejas", 
+            "description": "Elimina el exceso de vello no deseados en la zona de tus cejas y consigue una forma bonita. Las cejas son un punto clave en las expresión y personalidad de cualquier rostro. Nos adaptaremos a tu look y a tu estilo, gracias a nuestros expertos esteticistas de Bellavida. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! Conseguirás un rostro mucho más embellecido.", 
+            "price": "37 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Cera En Piernas Enteras", 
+            "description": "¡Deshazte del vello durante semanas gracias a este servicio de depilación con cera tibia o caliente en piernas enteras! Podrás disfrutar de una piel suave y sedosa, siempre en manos de nuestro equipo de profesionales. ¡Olvídate de la cuchilla y estate siempre perfecta para cualquier ocasión! No lo dudes y reserva ya tu cita cómodamente online. ¿A qué estás esperando? ¡No dejes que te lo cuenten1", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Abdomen Hombre", 
+            "description": "La depilación con cera es la solución más rápida para lucir una piel bonita y suave durante semanas. Este servicio es exclusivo para los hombres y es realizado solo con productos de calidad que respetan la piel. El servicio es específico para el abdomen y se realiza con cera caliente.", 
+            "price": "48 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Hilo Barbilla", 
+            "description": "La depilación con hilo es una técnica milenaria de gran precisión y mucho más indolora. Podrás deshacerte durante semanas del molesto vello facial. Además este técnica debilita el vello, retarda su crecimiento y evita la aparición de arrugas y machas propias de otros métodos. Disfruta de la depilación en barbilla. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Hilo Cuello", 
+            "description": "La depilación con hilo es una técnica milenaria de gran precisión y mucho más indolora. Podrás deshacerte durante semanas del molesto vello facial. Además este técnica debilita el vello, retarda su crecimiento y evita la aparición de arrugas y machas propias de otros métodos. Disfruta de la depilación en cuello. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Hilo Frente", 
+            "description": "La depilación con hilo es una técnica milenaria de gran precisión y mucho más indolora. Podrás deshacerte durante semanas del molesto vello facial. Además este técnica debilita el vello, retarda su crecimiento y evita la aparición de arrugas y machas propias de otros métodos. Disfruta de la depilación en frente. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Hilo Labio Superior", 
+            "description": "La depilación con hilo es una técnica milenaria de gran precisión y mucho más indolora. Podrás deshacerte durante semanas del molesto vello facial. Además este técnica debilita el vello, retarda su crecimiento y evita la aparición de arrugas y machas propias de otros métodos. Disfruta de la depilación en labio superior. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Hilo Mejillas", 
+            "description": "La depilación con hilo es una técnica milenaria de gran precisión y mucho más indolora. Podrás deshacerte durante semanas del molesto vello facial. Además este técnica debilita el vello, retarda su crecimiento y evita la aparición de arrugas y machas propias de otros métodos. Disfruta de la depilación en mejillas. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "46.25 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Con Hilo Patillas", 
+            "description": "La depilación con hilo es una técnica milenaria de gran precisión y mucho más indolora. Podrás deshacerte durante semanas del molesto vello facial. Además este técnica debilita el vello, retarda su crecimiento y evita la aparición de arrugas y machas propias de otros métodos. Disfruta de la depilación en patillas. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!", 
+            "price": "56 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Diseño De Cejas", 
+            "description": "Las cejas son un punto importante en la personalidad de cualquier rostro. En nuestro centro estudiamos tu rostro y diseñamos una forma de la ceja que más te favorezca, que más te embellezca. Confía en nuestro equipo de profesionales y lucirás unas cejas perfectas. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡Presumirás de un aspecto ideal!", 
+            "price": "48 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Keratina", 
+            "description": "Si deseas un cabello más liso y más manejable, la mejor opción es un alisado de keratina. El servicio consta de un tratamiento intenso que suaviza, alisa y fortalece el cabello. ¡Podrás lucir así una melena perfecta, eliminando los signos de encrespamiento! Nuestros profesionales trabajan con productos de primera calidad. ¡No esperes más y reserva ya tu cita cómodamente online! ¡Quedarás super satisfecha con el resultado!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar De Keratina Pura", 
+            "description": "¿Quieres lucir una melena mucho más lisa e hidratada? Ven a tu Centro de Peluquería y Estética Bellavida y ponte en manos de nuestros mejores profesionales. Luce una melena mucho más lisa y sedosa. Olvídate del encrespamiento. Este tratamiento hidratada en profundidad tu cabello sin químicos. Disfruta de un pelo mucho más hidratado, nutrido y luminoso. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Depilación Cera Brazos Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de los brazos. Se realiza con cera de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Cuerpo Entero Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para todo el cuerpo. Se realiza con cera de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Depilación Cera Glúteos Hombre", 
+            "description": "Para lucir una piel bonita y sin ese vello tan molesto, la solución es la depilación a cera de Bellavida. Este tipo de tratamiento es eficaz contra el pelo que crece en la zona de los glúteos y que se puede eliminar hasta la raíz. La depilación se realiza de la mano de los mejores profesionales que utilizan solo la mejor cera para dejar una piel sedosa.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera O Pinzas Nariz Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera o pinzas para la zona de la nariz. Se realiza con productos de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Orejas Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de las orejas. Se realiza con productos de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Pecho Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de pecho. Se realiza con cera de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de piernas entras. Se realiza con cera de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Pubis Completo Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de pubis completo. Se realiza con cera de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Pubis Hombre", 
+            "description": "La depilación con cera caliente de Bellavida es el tratamiento perfecto para lucir una piel bonita y sedosa cada vez que lo necesites. El equipo de profesionales eliminará el pelo para dejarte un acabado perfecto durante semanas y además hidrataremos la piel al finalizar el servicio.", 
+            "price": "14 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Espalda Hombre", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de la espalda. Se realiza con cera de calidad por las manos de las expertas en depilación del centro.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

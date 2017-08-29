@@ -1,0 +1,235 @@
+{
+    "name": "Bucmi-Diana Guill", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=9", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3809131999", 
+    "longitude": "2.1321771000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/dianaguill", 
+    "office_number": "934110100", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "DG en nuestro centro cuidaremos de tu piel con la ayuda de productos 100% orgánicos y expertas manos profesionales, desde la cabeza (masaje cráneo-facial, higienes faciales, tratamientos personalizados) y tratamientos corporales (maderoterapia, drenajes)", 
+    "services": [
+        {
+            "service": "Tto Facial Despigmentante", 
+            "description": "¿Quieres lucir un cutis perfecto y liso? Pues este es tu tratamiento ideal. Reserva online este completo tratamiento facial despigmentante de Diana Guill, donde gracias a cosmética de alta gama conseguiremos que elimines esas manchas y pigmentos que aparecen en tu rostro debido al sol, la contaminación, los pasos de los años... No lo dudes más y haz clic.", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Completa Con Hidratación", 
+            "description": "En el servicio cortamos/limamos, cuidamos cutículas, exfoliamos con sales naturales, tratamiento durezas y esmaltamos tus uñas con colores a elegir. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Completa Orgánica", 
+            "description": "Elimina las impurezas de tu piel, de la forma más natural. Utilizando productos 100% naturales incluye extracción, alta frecuencia, exfoliación, masaje relajante, mascarillas adecuadas a cada tipo de piel y terminamos con crema revitalizadora para devolver la luminosidad a tu rostro. ¿A qué estás esperando para hacer tu reserva online con nosotros?", 
+            "price": "35.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte De Pestañas", 
+            "description": "¡Disfruta de unas pestañas perfectas y un rizo espectacular en tus pestañas, siempre adecuado a tu tipo de ojos. Realza tu mirada sin necesidad de utilizar rizadores o máscaras. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Con Maderoterapia", 
+            "description": "Tratamiento facial con maderoterapia indicado para eliminar la flacidez y las bolsas de ojos producidas por el cansancio y el estrés diario. Aplicamos velos de colágeno antioxidantes para tensar la piel y devolver su luminosidad con la aplicación de vitamina C y colágeno. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "112.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Uñas De Gel O Porcelana", 
+            "description": "Manicura, construcción de la uña y esmaltado normal. Para Francesa consulte con su profesional por posible suplemento. Tus uñas estarán más largas y perfectas gracias a nuestros esteticistas de Diana Guill. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "28.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto Facial Despigmentante", 
+            "description": "¿Quieres lucir un cutis perfecto y liso? Pues este es tu tratamiento ideal. Reserva online este completo tratamiento facial despigmentante de Diana Guill, donde gracias a cosmética de alta gama conseguiremos que elimines esas manchas y pigmentos que aparecen en tu rostro debido al sol, la contaminación, los pasos de los años... No lo dudes más y haz clic.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto Facial Células Madre", 
+            "description": "Si quieres lucir una piel hidratada, luminosa y rejuvenecida, reserva en Diana Guill este completo tratamiento a base de células madre, con el que saldrás con un cutis perfecto. Además, incluye un masaje facial shiatsu para que el efecto sea completo. No lo dudes más y haz tu reserva online con Bucmi.com. ¿A qué esperas para hacer clic?", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas", 
+            "description": "Extensiones de pestañas 100% naturales con aplicación de pelo a pelo según el largo y el color de tu pestaña. Intensifica tu mirada con un resultado espectacular. El precio es para la primera puesta. Disfruta de una mirada increíble gracias a nuestras extensiones de alta calidad y a nuestros expertos profesionales de Diana Guill.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Automaquillaje", 
+            "description": "¿No te apañas bien maquillándote y te gustaría saber que truquitos son los que mejor te vendría? Pues no lo dudes más y reserva online este completo servicio de automaquillaje donde durante una hora te enseñaremos y asesoramos para que luzcas el maquillaje acorde a tu estilo y facciones. incluye el material. ¿A qué esperas para reservar?", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Completa Orgánica", 
+            "description": "Elimina las impurezas de tu piel, de la forma más natural. Utilizando productos 100% naturales incluye extracción, alta frecuencia, exfoliación, masaje relajante, mascarillas adecuadas a cada tipo de piel y terminamos con crema revitalizadora para devolver la luminosidad a tu rostro. ¿A qué estás esperando para hacer tu reserva online con nosotros?", 
+            "price": "41 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Micropigmentación", 
+            "description": "La micropigmentación consiste en un maquillaje permanente en la zona, para que luzcas perfecta en todo momento sin necesidad de recurrir de forma diaria al maquillaje. El precio del servicio cubre una zona: labios, ojos, cejas.... Ponte en las manos de nuestros expertos esteticistas de Diana Guill y disfruta de unos resultados increíbles desde la primera sesión.", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte De Pestañas", 
+            "description": "¡Disfruta de unas pestañas perfectas y un rizo espectacular en tus pestañas, siempre adecuado a tu tipo de ojos. Realza tu mirada sin necesidad de utilizar rizadores o máscaras. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Relleno Extensiones Pestañas", 
+            "description": "Se aconseja que a las dos o tres semanas vengas a nuestro centro de Diana Guill para rellenar las pestañas que se van cayendo con tu actividad diaria y así poder volver a lucir una mirada increíble y cautivadora. Ponte en las manos de nuestros expertos profesionales de Diana Guill y disfruta de unos resultados únicos desde el primer momento.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Con Maderoterapia", 
+            "description": "Tratamiento facial con maderoterapia indicado para eliminar la flacidez y las bolsas de ojos producidas por el cansancio y el estrés diario. Aplicamos velos de colágeno antioxidantes para tensar la piel y devolver su luminosidad con la aplicación de vitamina C y colágeno. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Regenerador Completo Corporal", 
+            "description": "El tratamiento regenerador incluye masaje corporal con velas y tratamiento de exfoliación corporal con Azúcar y Sales Naturales. ¡Disfruta de este magnífico pack y relájate de la mejor manera! Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "140 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial De Colágeno Intensivo", 
+            "description": "Podrás prevenir los efectos negativos de la piel por el paso del tiempo. Elimina la profundidad de arrugas, ayuda a la regeneración celular y crea una mejora de nuestro aspecto general del cutis. Especial también para Novias y Madrinas! Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Completa Con Hidratación", 
+            "description": "En el servicio cortamos/limamos, cuidamos cutículas, exfoliamos con sales naturales, tratamiento durezas y esmaltamos tus uñas con colores a elegir. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente Everglaze", 
+            "description": "Empezamos limando las uñas, se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas, siempre utilizando bases reparadoras para uñas antes del esmaltado y finalizamos con el esmaltado semipermanente Everglaze que prefieras. No incluye francesa. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "260 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack Manicura Y Pedicura Con Hidratación", 
+            "description": "Este pack incluye: Manicura (tratamiento de uñas y cutículas, esmaltado a elegir entre nuestros colores), Pedicura con hidratación (tratamiento de uñas y cutículas, tratamiento hidratante y esmaltado de color a elegir entre nuestros colores) Solo tienes que escoger tu color favorito de nuestra gama de esmaltes y nosotros nos encargamos de lo demás.", 
+            "price": "41 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente Everglaze", 
+            "description": "Empezamos limando las uñas, se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de pies suaves y nutridos, siempre utilizando bases reparadoras para uñas antes del esmaltado y finalizamos con el esmaltado semipermanente Everglaze que prefieras. También incluye cuidado podológico completo. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "88 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Relleno Uñas De Gel", 
+            "description": "Se recomienda que a las tres o cuatro semanas regreses a nuestro centro de Diana Guill para que podamos rellenar de nuevo el crecimiento de tu uña, para que vuelvas a presumir de unas manos increíbles. Ponte en las manos de nuestros expertos profesionales de Diana Guill y no te arrepentirás de los resultados. Haz tu reserva online con Bucmi.com.", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Uñas De Gel O Porcelana", 
+            "description": "Manicura, construcción de la uña y esmaltado normal. Para Francesa consulte con su profesional por posible suplemento. Tus uñas estarán más largas y perfectas gracias a nuestros esteticistas de Diana Guill. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto Facial Células Madre", 
+            "description": "Si quieres lucir una piel hidratada, luminosa y rejuvenecida, reserva en Diana Guill este completo tratamiento a base de células madre, con el que saldrás con un cutis perfecto. Además, incluye un masaje facial shiatsu para que el efecto sea completo. No lo dudes más y haz tu reserva online con Bucmi.com. ¿A qué esperas para hacer clic?", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Maderoterapia Corporal", 
+            "description": "Tratamiento corporal 100% natural donde se utilizan rodillos de madera de Teka donde se moldea tu figura y reduces volumen a la vez que reafirmamos la piel. No lo dudes más y haz tu reserva online en nuestro salón de Diana Guill y consigue eliminar esos centímetros de más que no consigues quitarte de encima ni con dietas ni ejercicio.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Corporal", 
+            "description": "Elimina tus tensiones después de un duro día de trabajo. Disfruta de este completo masaje corporal de una hora de duración a escoger entre nuestra gama de masajes y saldrás con las pilas totalmente cargadas.Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante Corporal Con Aceites Esenciales", 
+            "description": "Elimina tus tensiones después de un duro día de trabajo. Utilizamos aceites naturales de argán , menta , tomillo, lavanda etc ¡Masaje de media hora a un precio inmejorable! Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "53 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "Con la reflexología podal podrás relajarte, aliviar el estrés, afloja las contracturas y mejorar la calidad del sueño entre otros beneficios que genera esta técnica terapéutica. ¡No te la pierdas! Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Con Maderoterapia", 
+            "description": "Tratamiento facial con maderoterapia indicado para eliminar la flacidez y las bolsas de ojos producidas por el cansancio y el estrés diario. Aplicamos velos de colágeno antioxidantes para tensar la piel y devolver su luminosidad con la aplicación de vitamina C y colágeno. Confía en nuestros expertos profesionales de Diana Guill y disfruta de unos resultados increíbles desde el primer minuto. No esperes más y haz tu reserva online.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras E Ingles", 
+            "description": "Con este pack podrás disfrutar de una depilación con cera de piernas enteras e ingles normales. Utilizamos ceras 100% naturales 3 abejas y de miel. ¡Olvídate del vello y disfruta! Confía en nuestros expertos profesionales de Diana Guill y disfruta de una piel sedosa por un par de semanas sin necesidad de recurrir de forma diaria a las cuchillas.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

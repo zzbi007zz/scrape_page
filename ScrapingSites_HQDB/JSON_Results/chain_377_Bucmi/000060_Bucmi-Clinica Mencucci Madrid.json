@@ -1,0 +1,88 @@
+{
+    "name": "Bucmi-Clinica Mencucci Madrid", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=61", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4372687000", 
+    "longitude": "-3.6867984000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/mencuccimadrid", 
+    "office_number": "645853028", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de belleza en la zona de la castellana muy cerca de José Abascal. Disfrutarás de servicios de calidad de Salud y Belleza. Reserva Online con nosotros, encontrarás el servicio ideal porque lo personalizamos todo. Lo natural es la armonía.", 
+    "services": [
+        {
+            "service": "Tratamiento Facial Ácido Hialurónico 2 Viales", 
+            "description": "Tratamiento de relleno con Acido Hialurónico que incluye dos viales, tipo PRINCESS de una mayor densidad, resultado más duradero. Usamos Volume o Filler, según zona a tratar. Las zonas a rellenar o borrar arrugas son del segundo y tercer tercio facial, opta por rellenar tus labios, borrar el temido código de barras, rellenar arrugas nasogenianas... El procedimiento se realiza mediante infiltración, previamente ponemos crema anestesica, para disminuir las molestias. Dos viales para usar en el tiempo.", 
+            "price": "400.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bótox Facial 3 Zonas", 
+            "description": "Si quieres un rostro como los que ves el la tele, jovén y sin arruguitas, te presentamos a tu gran aliado, el Bótox. El tratamiento incluye sesión de toxina botulínica de tipo A, inyectada en el tercio superior, incluyendo las zonas: Entrecejo, patas de gallo y frente. Los resultados son temporales pero fantásticos.", 
+            "price": "300.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peeling Facial Medico Especial Iluminación", 
+            "description": "Si necesitas que tu piel recobre la luminosidad, notas que tu rostro está más apagado, te traemos este peeling medico facial, trabajamos con FERULAC PEEL, de Laboratorios Sesderma, son Peelings especiales luminosidad. ¡Ven a vernos y recobra tu luz!", 
+            "price": "400.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Ácido Hialurónico 2 Viales", 
+            "description": "Tratamiento de relleno con Acido Hialurónico que incluye dos viales, tipo PRINCESS de una mayor densidad, resultado más duradero. Usamos Volume o Filler, según zona a tratar. Las zonas a rellenar o borrar arrugas son del segundo y tercer tercio facial, opta por rellenar tus labios, borrar el temido código de barras, rellenar arrugas nasogenianas... El procedimiento se realiza mediante infiltración, previamente ponemos crema anestesica, para disminuir las molestias. Dos viales para usar en el tiempo.", 
+            "price": "300.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bótox Facial 3 Zonas", 
+            "description": "Si quieres un rostro como los que ves el la tele, jovén y sin arruguitas, te presentamos a tu gran aliado, el Bótox. El tratamiento incluye sesión de toxina botulínica de tipo A, inyectada en el tercio superior, incluyendo las zonas: Entrecejo, patas de gallo y frente. Los resultados son temporales pero fantásticos.", 
+            "price": "580 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Ácido Hialurónico Un Vial", 
+            "description": "Tratamiento de relleno con Acido Hialurónico PRINCESS de una mayor densidad. Por lo que el resultado durará más tiempo. Utilizamos varios tipos: Volume o Filler, según zona a tratar. Las zonas a rellenar o borrar arrugas son del segundo y tercer tercio facial, opta por rellenar tus labios, borrar el temido código de barras, rellenar arrugas nasogenianas... Incluye un vial. El procedimiento es mediante infiltración, previamente ponemos crema anestesica.", 
+            "price": "375 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Ácido Hialurónico Una Sesión", 
+            "description": "Si quieres conseguir mayor volumen en tus labios te proponemos esta sesión de relleno de ácido Hialurónico (libre al 1%). El resultado será una boca más sensual. Ponemos anestesia en forma de crema, para que las infiltraciones no sean molestas.", 
+            "price": "129 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamietno Facial Antiedad Plasma Enriquecido", 
+            "description": "Tratamiento facial rejuvenecedor que consiste en la aplicación de plasma autólogo enriquecido Dra. Mencucci y combinación de Plasma Autólogo con Acido Hialurónico* (libre al 1%) más factores homeopáticos. El tratamiento es realizado de forma inyectada, en todos los procesos, conseguimos un rostro más jovén e iluminado.", 
+            "price": "580 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peeling Facial Medico Especial Iluminación", 
+            "description": "Si necesitas que tu piel recobre la luminosidad, notas que tu rostro está más apagado, te traemos este peeling medico facial, trabajamos con FERULAC PEEL, de Laboratorios Sesderma, son Peelings especiales luminosidad. ¡Ven a vernos y recobra tu luz!", 
+            "price": "375 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

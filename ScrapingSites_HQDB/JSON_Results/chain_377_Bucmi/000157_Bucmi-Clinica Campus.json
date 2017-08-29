@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-Clínica Campus", 
+    "scrape_page": "https://www.bucmi.com/Granada.html?page=3", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "37.1524123000", 
+    "longitude": "-3.5933583999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/campus", 
+    "office_number": "958818555", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El Centro de Estética Clínica Campus situado en el barrio de Zaidín, Granada, ofrece todo tipo de servicios y tratamientos para sentirte bien tanto por dentro como por fuera. Luce un cutis renovado gracias a la microdermoabrasión con punta de diamante.", 
+    "services": [
+        {
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "description": "Elimina las células muertas y la suciedad de los poros de tu cutis con nuestra higiene facial profunda con punta de diamante. Te desmaquillamos, te realizamos una microdermoabrasión con punta de diamante y aplicamos un serum tensor.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack Cavitación Y Drenaje Linfático", 
+            "description": "Esculpe tu silueta con este fantástico pack de cavitación y drenaje linfático. Por un lado la cavitación consigue disolver la grasa concentrada de una zona mediante la aplicación de ultrasonidos de baja frecuencia, que posteriormente se elimina con la orina. Y por otro lado, el drenaje nos ayuda a eliminar los líquidos y residuos expulsados a través de los nodos linfáticos. Un tratamiento reductor de lo más completo.", 
+            "price": "56.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Líbrate de la sensación de piernas cargadas provocada por la mala circulación con nuestro drenaje linfático. Mediante este masaje conseguimos activar la circulación linfática, mejorando la eliminación de líquidos y la linfa, evacuando correctamente para que no se acumulen y obstruyan la circulación.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "description": "Elimina las células muertas y la suciedad de los poros de tu cutis con nuestra higiene facial profunda con punta de diamante. Te desmaquillamos, te realizamos una microdermoabrasión con punta de diamante y aplicamos un serum tensor.", 
+            "price": "56.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pack Cavitación Y Drenaje Linfático", 
+            "description": "Esculpe tu silueta con este fantástico pack de cavitación y drenaje linfático. Por un lado la cavitación consigue disolver la grasa concentrada de una zona mediante la aplicación de ultrasonidos de baja frecuencia, que posteriormente se elimina con la orina. Y por otro lado, el drenaje nos ayuda a eliminar los líquidos y residuos expulsados a través de los nodos linfáticos. Un tratamiento reductor de lo más completo.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia", 
+            "description": "Reduce la flacidez y las líneas de expresión de tu rostro, consiguiendo un efecto rejuvenecedor, gracias a este tratamiento basado en la energía de la radiofrecuencia, que consigue calentar la piel hasta las capas más profundas haciendo que el colágeno y la elastina se contraigan y estimulando su producción natural.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bótox Facial", 
+            "description": "Combate las líneas de expresión sin tener que someterte a cirugía, gracias al bótox. La técnica más sencilla y más utilizada a nivel mundial para disminuir los signos de la edad. Su leve efecto paralizante sobre los músculos te proporcionará una piel más lisa y con menos arrugas, especialmente en la mitad superior.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Líbrate de la sensación de piernas cargadas provocada por la mala circulación con nuestro drenaje linfático. Mediante este masaje conseguimos activar la circulación linfática, mejorando la eliminación de líquidos y la linfa, evacuando correctamente para que no se acumulen y obstruyan la circulación.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "Realizamos un diagnóstico de tus dolencias y necesidades para después establecer el tratamiento más adecuado para tratarlo. Dependiendo de cada paciente se aplicará osteopatía estructural, osteopatía visceral, osteopatía craneal u osteopatía pediátrica.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Fisioterapia", 
+            "description": "Si buscas tratar tus dolencias enfocando el tratamiento en la musculatura y la estructura ósea, ponte en manos de nuestros fisioterapeutas. Te realizamos un diagnóstico previo y después te realizamos el tratamiento más adecuado, combinando distintas técnicas de terapia manual de fisioterapia.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Acupuntura", 
+            "description": "Descubre la efectividad de la acupuntura a la hora de tratar distintas dolencias. Se trata de una metodología perteneciente a la Cultura Tradicional China que mejora la salud del paciente aplicando finas agujas en puntos concretos del cuerpo humano, consiguiendo desbloquear los flujos de energía y eliminar las molestias.", 
+            "price": "450 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

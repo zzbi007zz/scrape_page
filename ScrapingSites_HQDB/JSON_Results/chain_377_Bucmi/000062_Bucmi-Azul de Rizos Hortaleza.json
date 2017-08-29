@@ -1,0 +1,109 @@
+{
+    "name": "Bucmi-Azul de Rizos Hortaleza", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=63", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4690755000", 
+    "longitude": "-3.6452807000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/azulderizoshortaleza", 
+    "office_number": "913810551", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La peluquería Azul de Rizos situada en Hortaleza, Madrid, ofrece gran variedad de cortes de pelo asesorados para sacar el mayor partido de tus rasgos, alisados de keratina para eliminar el encrespamiento y tratamientos de color. Reserva ahora online.", 
+    "services": [
+        {
+            "service": "Pack Lavar, Peinar, Semirecogido Y Manicura", 
+            "description": "Siéntete como una estrella con nuestro pack de peluquería y manicura. Durante tu visita te lavamos el pelo con champú específico, te peinamos y realizamos un semirecogido y te hacemos la manicura (limar y cortar uñas, cutículas y esmaltado normal en color).", 
+            "price": "34.96 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado Keratina Media Melena", 
+            "description": "Consigue una melena lisa y sin rizos rebeldes con un alisado de keratina. Te sorprenderá la comodidad de no tener que estar todos los días alisando tu pelo y volverás a enamorarte de tu look. Incluye el lavado con champú específico y el secado al aire. No incluye peinado. Válido para melenas hasta encima de los hombros.", 
+            "price": "34.96 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Tratamiento Hidratación Capilar Pro Fiber", 
+            "description": "¿Tu pelo ha perdido suavidad y fuerza? Dale un plus de hidratación con nuestro tratamiento capilar Pro Fiber de L´Oreal Professionnel. Incluye un diagnóstico previo del pelo, el tratamiento Pro Fiber aplicado según el nivel de daño de tu cabello, lavado con champú, pulido y secado al aire para retirar humedad. No incluye peinado.", 
+            "price": "43.7 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pack Lavar, Peinar, Semirecogido Y Manicura", 
+            "description": "Siéntete como una estrella con nuestro pack de peluquería y manicura. Durante tu visita te lavamos el pelo con champú específico, te peinamos y realizamos un semirecogido y te hacemos la manicura (limar y cortar uñas, cutículas y esmaltado normal en color).", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color, Reflejos o Velos y Secar", 
+            "description": "Consigue un look diferente con un color con ruptura. Con este tratamiento aplicamos tinte en todo el pelo para después aplicar reflejos o velos en ciertas zonas para crear contrastes y darle vida a tu color. Incluye el lavado con champú y el secado al aire. No incluye peinado.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Lavar, Peinar y Recogido", 
+            "description": "Apuesta por un recogido favorecedor para hacer tu look perfecto para esa ocasión tan especial. Nuestros estilistas te lavarán el pelo con champú específico y te peinarán realizándote un recogido acorde con tus gustos y tu estilo.", 
+            "price": "43.7 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar Regenerador Chronologiste", 
+            "description": "Para melenas muy castigadas, contamos con el tratamiento Chronologiste de Kérastase. Se trata de un ritual realizado en 5 pasos en los que se aplica Crema de Regeneración y el Concentrado de Perlas de Caviar Mimético en emulsión, entre otros. Notarás como se regenera de forma notable tu cuero cabelludo y tu pelo.", 
+            "price": "56.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Alisado Keratina Media Melena", 
+            "description": "Consigue una melena lisa y sin rizos rebeldes con un alisado de keratina. Te sorprenderá la comodidad de no tener que estar todos los días alisando tu pelo y volverás a enamorarte de tu look. Incluye el lavado con champú específico y el secado al aire. No incluye peinado. Válido para melenas hasta encima de los hombros.", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Corte De Pelo Y Peinado", 
+            "description": "Luce un corte de pelo a la moda totalmente asesorado de la mano de los mejores profesionales para sacar el mayor partido de tu melena. El servicio incluye lavado con champú específico y peinado para lucir perfecta en cualquier ocasión.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Secar", 
+            "description": "Conserva los reflejos del sol propios del verano en tu pelo en cualquier época del año, con las mechas de moda: las californianas. Incluye las mechas, lavado con champú específico y el secado al aire. No incluye peinado. Válido para medias melenas o pelo largo. No válido para pelo corto.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Hidratación Capilar Pro Fiber", 
+            "description": "¿Tu pelo ha perdido suavidad y fuerza? Dale un plus de hidratación con nuestro tratamiento capilar Pro Fiber de L´Oreal Professionnel. Incluye un diagnóstico previo del pelo, el tratamiento Pro Fiber aplicado según el nivel de daño de tu cabello, lavado con champú, pulido y secado al aire para retirar humedad. No incluye peinado.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Alisado Keratina Media Melena", 
+            "description": "Consigue una melena lisa y sin rizos rebeldes con un alisado de keratina. Te sorprenderá la comodidad de no tener que estar todos los días alisando tu pelo y volverás a enamorarte de tu look. Incluye el lavado con champú específico y el secado al aire. No incluye peinado. Válido para melenas hasta encima de los hombros.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }
+    ]
+}

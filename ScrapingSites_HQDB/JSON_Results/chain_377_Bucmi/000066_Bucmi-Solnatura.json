@@ -1,0 +1,144 @@
+{
+    "name": "Bucmi-Solnatura", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=67", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4218282000", 
+    "longitude": "-3.6864037000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/solnatura", 
+    "office_number": "913131409", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Solnatura es un centro de referencia dedicado a la salud natural y a la nutrición avanzada, ubicado en el Barrio de Salamanca en Madrid. Contamos con especialistas cualificados en naturopatía y nutrición, además de una amplia experiencia en el sector.", 
+    "services": [
+        {
+            "service": "Bono 6 Masajes 50 Min", 
+            "description": "Para la obtención de mejores resultados de la tecnica del quiromasaje no dudes en reservar este bono de 6 masajes de 50 minutos con los que aliviarás todas tus molestias y sentirás como tu cuerpo recobra toda su energía. Valido para cualquier tipo de masaje", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Metamórfico", 
+            "description": "Es el servicio ideal para obtener relax y eliminar bloqueos energéticos. Se trata de una terapia indicada para todas las edades,especialmente indicada para niños y bebes,durante el embarazo, en casos de estrés,depresión o ansiedad entre otros sintomas. El masaje metamórfico ayuda a liberar y aliviar la tensión mental y emocional que conduce a la relajación fisica y ayuda a la autocuración del organismo. El masaje se aplica en pies,manos y cabeza.Reserva tu cita ya.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "Para personas que busquen encontrar el relax y activar la energía.Resultados magníficos frente a cargas musculares, molestias digestivas,trastornos linfáticos o problemas de movilidad articular.Se trata de la estimulación de puntos sobre los pies,cuya presión produce efectos específicos en otras partes del cuerpo.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Indicado para personas con problemas de retención de líquidos.Se trata de un protocolo completo de maniobras destindas a drenar o desplazar la linfa que por el cualquier motivo patológico se encuentre estancada para su evacución normal. Se aplica en piernas, espalda o manos.", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Deportivo", 
+            "description": "Se trata del servicio ideal si tienes lesiones o contracturas localizadas. En Solnatura ponemos a tu disposición la mejor manera de mejorar el rendimiento y el cuidado del deportista, diseñado para prevenir y evitar lesiones así como la pronta recuperación de las mismas.", 
+            "price": "300 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Quiromasaje", 
+            "description": "Conoce los beneficios del quiromasaje y reserva tu cita para disfrutar de ellos. El quiromasaje trata y previene malestar, dolencias musculare, mejores el funcionamiento de las articulaciones, aumentando el riego sanguíneo y favoreciendo la eliminación de toxinas.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Quiromasaje", 
+            "description": "Conoce los beneficios del quiromasaje y reserva tu cita para disfrutar de ellos. El quiromasaje trata y previene malestar, dolencias musculare, mejores el funcionamiento de las articulaciones, aumentando el riego sanguíneo y favoreciendo la eliminación de toxinas.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Metamórfico", 
+            "description": "Es el servicio ideal para obtener relax y eliminar bloqueos energéticos. Se trata de una terapia indicada para todas las edades,especialmente indicada para niños y bebes,durante el embarazo, en casos de estrés,depresión o ansiedad entre otros sintomas. El masaje metamórfico ayuda a liberar y aliviar la tensión mental y emocional que conduce a la relajación fisica y ayuda a la autocuración del organismo. El masaje se aplica en pies,manos y cabeza.Reserva tu cita ya.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "Para personas que busquen encontrar el relax y activar la energía.Resultados magníficos frente a cargas musculares, molestias digestivas,trastornos linfáticos o problemas de movilidad articular.Se trata de la estimulación de puntos sobre los pies,cuya presión produce efectos específicos en otras partes del cuerpo.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Test De Bio-Resonancia Y Asesoramiento Nutricional", 
+            "description": "Con este test, realizado por un especialista en salud natural y nutrición avanzada, se analizan los órganos del cuerpo que más te preocupan. Tales como el sistema circulatorio, el sistema linfático, intestino delgado, colon, hígado, pulmones, páncreas, bazo, columna vertebral, corazón, riñones, aparato urinario, reproductor, glándulas mamarias, cerebro, sistema nervioso e inmunológico, cromosomas, huesos y articulaciones, glándula tiroides, suprarrenales, hipófisis, pineal, hipotálamo...", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Consulta Bioresonancia - Nutrición", 
+            "description": "¿Te gustaría tener una consulta con nuestro especialista Miguel Ángel Ruiz? Incluye un estudio completo y tratamiento con BioResonancia. También te formamos en salud natural y nutrición, diseñamos pautas de alimentación personalizadas y hacemos un seguimiento telefónico. Incluye refrigerio y aperitivos ecológicos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Consulta Integral - Nutrición", 
+            "description": "¡Reserva nuestra consulta integral de nutrición con nuestro profesional Miguel Ángel Ruiz! Incluye un estudio del iris profesional visionado en pantalla grande, estudio sanguíneo en microscopio de campo oscuro, formación personalizada en salud natural y nutrición, diseño de pautas de alimentación y seguimiento personalizado por teléfono. Además, te ofrecemos un refrigerio y aperitivos ecológicos.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Consulta General - Nutrición", 
+            "description": "La consulta general incluye la consulta con un especialista en nutrición en nuestra sala vip, donde te ofreceremos un refrigerio y aperitivos ecológicos. Realizamos un estudio iridológico profesional visionado en pantalla grande, diseñamos una pautas de alimentación personalizado y un seguimiento telefónico para guiarte.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Consulta Orientación - Nutrición", 
+            "description": "Este servicio incluye la consulta con un especialista, el acceso a nuestra sala vip, refrigerios y aperitivos ecológicos. Además, te diseñaremos las pautas de alimentación y un programa de mejoramiento personalizado. También se realiza un seguimiento telefónico para guiarte mientras dura el programa.", 
+            "price": "280 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Test De Bio-Resonancia", 
+            "description": "Con este test, realizado por un especialista en salud natural y nutrición avanzada, se analizan los órganos del cuerpo que más te preocupan.Tales como el sistema circulatorio, el sistema linfático, intestino delgado, colon, hígado, pulmones, páncreas, bazo, columna vertebral, corazón, riñones, aparato urinario, reproductor, glándulas mamarias, cerebro, sistema nervioso e inmunológico, cromosomas, huesos y articulaciones, glándula tiroides, suprarrenales, hipófisis, pineal, hipotálamo, timo….", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 6 Masajes 30 Min", 
+            "description": "Para la obtención de mejores resultados de la tecnica del quiromasaje no dudes en reservar este bono de 6 masajes de 30 minutos con los que aliviarás todas tus molestias y sentirás como tu cuerpo recobra toda su energía.Valido para cualquier tipo de masaje", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 6 Masajes 50 Min", 
+            "description": "Para la obtención de mejores resultados de la tecnica del quiromasaje no dudes en reservar este bono de 6 masajes de 50 minutos con los que aliviarás todas tus molestias y sentirás como tu cuerpo recobra toda su energía. Valido para cualquier tipo de masaje", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

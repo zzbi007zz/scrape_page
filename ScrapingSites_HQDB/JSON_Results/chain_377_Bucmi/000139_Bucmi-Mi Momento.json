@@ -1,0 +1,200 @@
+{
+    "name": "Bucmi-Mi Momento", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=41", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4034832000", 
+    "longitude": "2.1540018000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/mimomentobarcelona", 
+    "office_number": "935182908", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Situado en pleno corazón del barrio de Gracia de Barcelona a escasos metros del metro de Fontana.Ofrecemos tratamientos y productos 100% naturales.Cuidamos la belleza y buscamos siempre la excelencia en la imagen personal de nuestros clientes.¡Conócenos!", 
+    "services": [
+        {
+            "service": "Manicura Y Pedicura", 
+            "description": "Dáte un capricho. Ven a Mi Momento y disfruta de 60 minutos aproximadamente de relajación y desconexión mientras ponemos a punto tus manos y pies. Potencia su belleza gracias a nuestro servicio 'manipedi' que incluye limado, cortar, retirada de cutículas y esmaltado a gusto del cliente. ¡Presume de manos y pies perfectos!", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Mima tus manos y dales la importancia que se merecen. Disfruta de unas manos bonitas y cuidadas con nuestro servicio de manicura completa. Elige el tono de esmalte que más va contigo entre la amplia gama de colores que te ofrecemos y ¡Presume de manos! El servicio incluye limado, retirada de cutículas, esmaltado a gusto del cliente y masaje hidratante final.", 
+            "price": "49.60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Mima tus pies y dales la importancia que se merecen. Disfruta de unos pies bonitos y cuidados con nuestro servicio de pedicura completa. Elige el tono de esmalte que más va contigo entre la amplia gama de colores que te ofrecemos y ¡Presume de unos pies perfectos! El servicio incluye limado, retirada de cutículas, esmaltado a gusto del cliente y masaje hidratante final.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Keratina", 
+            "description": "Si eres de esas personas que tienen un cabello electrizado, encrespado e indomable, te recomendamos nuestro alisado de Keratina 100% efectivo. Notarás los efectos desde el primer momento. Disfruta de una melena lisa, suave e hidratada gracias a los efectos y nutrientes de la Keratina. ¡Olvídate durante meses de ese encrespamiento no deseado!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Higiene Facial Completa", 
+            "description": "Déjate mimar en nuestro centro. Disfruta de 30 minutos para ti, rélajate, desconecta y deja que cuidemos tu piel como se merece. Presume de un cutis envidiable libre de impurezas, aportando luminosidad e hidratación. ¡Notarás los resultados!El servicio incluye extracción, peeling, mascarilla, hidratación y masaje relajante final.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Color,Cortar Y Peinar", 
+            "description": "Renueva tu imagen en Mi Momento. Consigue el acabado perfecto y disfruta de una imagen más fresca y renovada. Ven a nuestro centro y lograremos unos resultados perfectos, con asesoramiento previo para resaltar aún más tu imagen. El servicio incluye color, lavar, corte asesorado por nuestros profesionales, peinar y productos de acabado.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color y Peinar", 
+            "description": "Dale un toque de color a tu pelo. Elige entre la amplia gama de tonos que te ofrecemos, el que más va contigo y presume de una imagen fresca y renovada. Atrévete con los colores más de moda, los más atrevidos y disfruta de un look de lo más actual. El servicio incluye color, lavado, peinar y productos de acabado. No te lo pienses más, ¡este es tu momento!", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar,Cortar y Peinar", 
+            "description": "Renueva tu imagen de la mano de los mejores profesionales. En nuestro centro somos expertos en hacer que te sientas bien, por eso te ofrecemos este servicio que incluye lavar, corte de pelo totalmente asesorado por nuestros estilistas donde potenciaremos tu imagen al máximo y peinado. Dáte un capricho, ven y...¡Siéntete guapa!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas y Peinar", 
+            "description": "Si sientes que tu melena ha perdido la luminosidad que le caracteriza, éste es tu servicio idóneo. Devuélve a tu cabello el brillo y luminosidad que necesita, haciendo que luzca natural y con un toque de color que le aportará un brillo inigualable. Disfruta de una imagen más fresca y renovada y ¡presume de melena bonita!", 
+            "price": "62 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Alisado Keratina", 
+            "description": "Si eres de esas personas que tienen un cabello electrizado, encrespado e indomable, te recomendamos nuestro alisado de Keratina 100% efectivo. Notarás los efectos desde el primer momento. Disfruta de una melena lisa, suave e hidratada gracias a los efectos y nutrientes de la Keratina. ¡Olvídate durante meses de ese encrespamiento no deseado!", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte Para Él", 
+            "description": "Ven a Mi Momento y déjate mimar por nuestros profesionales. Disfruta de un corte para caballero 100% asesorado, donde potenciaremos tu imagen para que luzcas un acabado perfecto, sacando el mayor partido a tu look. Atrévete con los cortes más a la moda y ¡presume de unos resultados envidiables!", 
+            "price": "27.6 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Para Ella", 
+            "description": "Ven a Mi Momento y déjate mimar por nuestros profesionales. Disfruta de un corte 100% asesorado, donde potenciaremos tu imagen para que luzcas un acabado perfecto, sacando el mayor partido a tu look. Atrévete con los cortes más a la moda y ¡presume de unos resultados envidiables!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Peinado", 
+            "description": "¿Quieres lucir una melena cuidada y sin encrespamiento? Reserva ya este servicio de peinado por un precio increíble, en el que se incluye lavado y los productos de acabado. Ponte en manos de nuestros mejor equipo de profesionales y siéntete guapa en tu día a día o en cualquier evento especial. ¡No lo dudes y reserva en Bucmi!", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Higiene Facial Completa", 
+            "description": "Déjate mimar en nuestro centro. Disfruta de 30 minutos para ti, rélajate, desconecta y deja que cuidemos tu piel como se merece. Presume de un cutis envidiable libre de impurezas, aportando luminosidad e hidratación. ¡Notarás los resultados!El servicio incluye extracción, peeling, mascarilla, hidratación y masaje relajante final.", 
+            "price": "14.4 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura", 
+            "description": "Dáte un capricho. Ven a Mi Momento y disfruta de 60 minutos aproximadamente de relajación y desconexión mientras ponemos a punto tus manos y pies. Potencia su belleza gracias a nuestro servicio 'manipedi' que incluye limado, cortar, retirada de cutículas y esmaltado a gusto del cliente. ¡Presume de manos y pies perfectos!", 
+            "price": "17.6 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Mima tus manos y dales la importancia que se merecen. Disfruta de unas manos bonitas y cuidadas con nuestro servicio de manicura completa. Elige el tono de esmalte que más va contigo entre la amplia gama de colores que te ofrecemos y ¡Presume de manos! El servicio incluye limado, retirada de cutículas, esmaltado a gusto del cliente y masaje hidratante final.", 
+            "price": "15.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Mima tus pies y dales la importancia que se merecen. Disfruta de unos pies bonitos y cuidados con nuestro servicio de pedicura completa. Elige el tono de esmalte que más va contigo entre la amplia gama de colores que te ofrecemos y ¡Presume de unos pies perfectos! El servicio incluye limado, retirada de cutículas, esmaltado a gusto del cliente y masaje hidratante final.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "En el centro Mi Momento te ofrecemos este servicio de depilación con cera de axilas para que luzcas así una piel suave y sedosa. ¡No lo dudes y reserva ya con nosotros! Nuestros profesionales se preocupan por tu belleza y además, a un precio muy asequible.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Cejas", 
+            "description": "Las cejas son un punto muy importante en la expresión de cualquier rostro. En el centro Mi Momento lo sabemos y por ello te ofrecemos este servicio de depilación con cera de cejas para que luzcas así un rostro perfecto. ¡No lo dudes y reserva ya con nosotros! Nuestros profesionales se preocupan por tu belleza.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Brasileñas", 
+            "description": "En el centro Mi Momento te ofrecemos este servicio de depilación con cera de ingles brasileñas para que luzcas así una piel suave y sedosa. ¡No lo dudes y reserva ya con nosotros! Nuestros profesionales se preocupan por tu belleza y además, a un precio muy asequible.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Normales", 
+            "description": "En el centro Mi Momento te ofrecemos este servicio de depilación con cera de ingles normales para que luzcas así una piel suave y sedosa. ¡No lo dudes y reserva ya con nosotros! Nuestros profesionales se preocupan por tu belleza y además, a un precio muy asequible.", 
+            "price": "5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Labio Superior", 
+            "description": "En el centro Mi Momento te ofrecemos este servicio de depilación con cera de labio superior para que luzcas así un rostro perfecto. ¡No lo dudes y reserva ya con nosotros! Nuestros profesionales se preocupan por tu belleza y además, a un precio muy asequible.", 
+            "price": "5 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "En el centro Mi Momento te ofrecemos este servicio de depilación con cera de medias piernas para que luzcas así una piel suave y sedosa. ¡No lo dudes y reserva ya con nosotros! Nuestros profesionales se preocupan por tu belleza y además, a un precio muy asequible.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "En el centro Mi Momento te ofrecemos este servicio de depilación con cera de piernas enteras para que luzcas así una piel suave y sedosa. ¡No lo dudes y reserva ya con nosotros! Nuestros profesionales se preocupan por tu belleza y además, a un precio muy asequible.", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Keratina", 
+            "description": "Si eres de esas personas que tienen un cabello electrizado, encrespado e indomable, te recomendamos nuestro alisado de Keratina 100% efectivo. Notarás los efectos desde el primer momento. Disfruta de una melena lisa, suave e hidratada gracias a los efectos y nutrientes de la Keratina. ¡Olvídate durante meses de ese encrespamiento no deseado!", 
+            "price": "5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }
+    ]
+}

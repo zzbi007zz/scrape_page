@@ -1,0 +1,109 @@
+{
+    "name": "Bucmi-Dra. Ovalles", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=79", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4792000000", 
+    "longitude": "-3.6680000000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/ovalles", 
+    "office_number": "665243066", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Doctora Ovalles es una clínica de medicina estética ubicada en la zona de Pinar de Chamartín, en Madrid. Concretamente nos encontramos dentro del Instituto de Estética Integral Lola Guerrero. Disponemos de los mejores tratamientos antiedad para tu piel.", 
+    "services": [
+        {
+            "service": "Tratamiento Facial Antiedad Hilos Tensores", 
+            "description": "Incluye una sesión de 10 hilos tensores JBP VLift, los mejores del mercado. Mejora el aspecto del cutis manteniéndolo mas firme, con menos flacidez, perfilando el contorno facial y rejuveneciendo la piel. Efecto lifting suave. Se pueden aplicar en rostro, cuello, brazos, abdomen.", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mesoterapia Facial", 
+            "description": "¡Mejora el aspecto de la piel de tu rostro reservando este servicio! Incluye una sesión de mesoterapia facial con ácido hialurónico y cóctel de vitaminas para regenerar tu piel, prevenir la flacidez y las arrugas del rostro.", 
+            "price": "95.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Botox Facial", 
+            "description": "¡Elimina las arruguitas de tu rostro reservando nuestro tratamiento facial de botox! EL servicio incluye sólo una zona. Es el tratamiento más eficaz y seguro para tratar las arrugas de expresión del rostro.", 
+            "price": "100.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Hilos Tensores Espiculados 3D", 
+            "description": "Aplicación de 2 hilos espiculados para combartir la flacidez del rostro. Elevación inmediata de zonas del rostro que han descendido por el envejecimiento de la piel en el rostro, gracias al efecto mecánico de los hilos que ademas ayudan a formar colágeno y prevenir mayor flacidez.", 
+            "price": "150.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Relleno De Ácido Hialurónico", 
+            "description": "¿Te gustaría tener un rostro con un aspecto más joven? ¡Reserva nuestro servicio de relleno! Incluye un vial de ácido hialurónico reticulado para definir pómulos, para el rictus , linea de marioneta, arrugas profundas o depresiones en el rostro. Resultados visibles al momento.", 
+            "price": "250.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mesoterapia Corporal", 
+            "description": "¿A qué esperas para reservar nuestro tratamiento remodelador para tu cuerpo? Incluye una sesión de mesoterapia corporal anticelulitica y antiflacidez para ayudar a eliminar la grasa acumulada, líquidos y toxinas. Zona a escoger entre abdomen con fllancos, muslos o brazos", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad Hilos Tensores", 
+            "description": "Incluye una sesión de 10 hilos tensores JBP VLift, los mejores del mercado. Mejora el aspecto del cutis manteniéndolo mas firme, con menos flacidez, perfilando el contorno facial y rejuveneciendo la piel. Efecto lifting suave. Se pueden aplicar en rostro, cuello, brazos, abdomen.", 
+            "price": "95.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mesoterapia Facial", 
+            "description": "¡Mejora el aspecto de la piel de tu rostro reservando este servicio! Incluye una sesión de mesoterapia facial con ácido hialurónico y cóctel de vitaminas para regenerar tu piel, prevenir la flacidez y las arrugas del rostro.", 
+            "price": "100.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Botox Facial", 
+            "description": "¡Elimina las arruguitas de tu rostro reservando nuestro tratamiento facial de botox! EL servicio incluye sólo una zona. Es el tratamiento más eficaz y seguro para tratar las arrugas de expresión del rostro.", 
+            "price": "150.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Hilos Tensores Espiculados 3D", 
+            "description": "Aplicación de 2 hilos espiculados para combartir la flacidez del rostro. Elevación inmediata de zonas del rostro que han descendido por el envejecimiento de la piel en el rostro, gracias al efecto mecánico de los hilos que ademas ayudan a formar colágeno y prevenir mayor flacidez.", 
+            "price": "250.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Relleno De Ácido Hialurónico", 
+            "description": "¿Te gustaría tener un rostro con un aspecto más joven? ¡Reserva nuestro servicio de relleno! Incluye un vial de ácido hialurónico reticulado para definir pómulos, para el rictus , linea de marioneta, arrugas profundas o depresiones en el rostro. Resultados visibles al momento.", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mesoterapia Corporal", 
+            "description": "¿A qué esperas para reservar nuestro tratamiento remodelador para tu cuerpo? Incluye una sesión de mesoterapia corporal anticelulitica y antiflacidez para ayudar a eliminar la grasa acumulada, líquidos y toxinas. Zona a escoger entre abdomen con fllancos, muslos o brazos", 
+            "price": "190 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

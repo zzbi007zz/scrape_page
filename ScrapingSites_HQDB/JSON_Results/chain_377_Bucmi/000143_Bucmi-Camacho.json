@@ -1,0 +1,151 @@
+{
+    "name": "Bucmi-Camacho", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=45", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3804937000", 
+    "longitude": "2.1339397000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/camacho", 
+    "office_number": "933396184", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Peluquería Unisex en Barcelona en el barrio de Sants, déjate asesorar por los mejores profesionales, siguiendo las últimas tendencias. Ven a conocernos.", 
+    "services": [
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Hazte un cambio de look, que los cambios no son sólo cosas de chicas. El servicio incluye corte asesorado, lavado, peinado y productos de acabado. Repetirás seguro.", 
+            "price": "16.2 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer", 
+            "description": "Si necesitas sanear tu cabello, y cortar por lo sano, recurre a este servicio. Corte asesorado por nuestros profesionales. El servicio no incluye lavado ni peinado. Secado al aire. Para cualquier servicio adicional consultar con el profesional del centro. Lista en 30 minutos.", 
+            "price": "24.6 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Corto", 
+            "description": "Si tienes un evento especial y necesitas lucir una melena espectacular, déjate asesorar por nuestros profesionales que se adaptarán perfectamente a lo que deseas. El servicio incluye lavado y peinado básico. Consultar con el profesional para cualquier duda.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Color Completo Media Melena", 
+            "description": "Unifica el color de tu cabello con nuestro servicio de color. Trabajamos con la gama más alta de productos Kerastase y Morocannoil. Te asesoraremos para decidirte por el tono que mejor se adapte a tu tono de piel, estilo y facciones. El servicio no incluye lavado. Consulte con su profesional.", 
+            "price": "19.36 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Completo Pelo Corto", 
+            "description": "Unifica el color de tu cabello con nuestro servicio de color. Trabajamos con la gama más alta de productos Kerastase y Morocannoil. Te asesoraremos para decidirte por el tono que mejor se adapte a tu tono de piel, estilo y facciones. El servicio no incluye lavado. Consulte con su profesional.", 
+            "price": "19.36 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Completo Pelo Largo", 
+            "description": "Unifica el color de tu cabello con nuestro servicio de color. Trabajamos con la gama más alta de productos Kerastase y Morocannoil. Te asesoraremos para decidirte por el tono que mejor se adapte a tu tono de piel, estilo y facciones. El servicio no incluye lavado. Consulte con su profesional.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Hazte un cambio de look, que los cambios no son sólo cosas de chicas. El servicio incluye corte asesorado, lavado, peinado y productos de acabado. Repetirás seguro.", 
+            "price": "16.2 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer", 
+            "description": "Si necesitas sanear tu cabello, y cortar por lo sano, recurre a este servicio. Corte asesorado por nuestros profesionales. El servicio no incluye lavado ni peinado. Secado al aire. Para cualquier servicio adicional consultar con el profesional del centro. Lista en 30 minutos.", 
+            "price": "24.6 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte, Lavado Y Peinado Media Melena", 
+            "description": "Si necesitas un cambio ya sabes por dónde empezar, este servicio de corte , lavado y peinado hará que salgas estupenda y con un nuevo aire. El servicio incluye corte asesorado por nuestros profesionales para que se adapte a tus facciones o estilo, lavado, hidratación y secado. Te encantará.", 
+            "price": "31.55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte, Lavado Y Peinado Pelo Corto", 
+            "description": "Si necesitas un cambio ya sabes por dónde empezar, este servicio de corte , lavado y peinado hará que salgas estupenda y con un nuevo aire. El servicio incluye corte asesorado por nuestros profesionales para que se adapte a tus facciones o estilo, lavado, hidratación y secado. Te encantará.", 
+            "price": "31.35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte, Lavado Y Peinado Pelo Largo", 
+            "description": "Si necesitas un cambio ya sabes por dónde empezar, este servicio de corte , lavado y peinado hará que salgas estupenda y con un nuevo aire. El servicio incluye corte asesorado por nuestros profesionales para que se adapte a tus facciones o estilo, lavado, hidratación y secado. Te encantará.", 
+            "price": "33 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Media Melena", 
+            "description": "Si tienes un evento especial y necesitas lucir una melena espectacular, déjate asesorar por nuestros profesionales que se adaptarán perfectamente a lo que deseas. El servicio incluye lavado y peinado básico, con difusor. Consultar con el profesional para cualquier duda.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "description": "Si tienes un evento especial y necesitas lucir una melena espectacular, déjate asesorar por nuestros profesionales que se adaptarán perfectamente a lo que deseas. El servicio incluye lavado y peinado básico con difusor. Para un peinado más trabajado, estirando el pelo, consultar con el profesional.", 
+            "price": "19.22 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Básicas Media Melena", 
+            "description": "Realza la luz de tu melena, aportándole brillo y luminosidad. Recomendado para cabellos oscuros y apagados, podrás crear efectos naturales aclarando zonas de tu melena. El servicio no incluye lavado, ni peinado. Consulte con su profesional", 
+            "price": "24.2 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Básicas Pelo Corto", 
+            "description": "Realza la luz de tu melena, aportándole brillo y luminosidad. Recomendado para cabellos oscuros y apagados, podrás crear efectos naturales aclarando zonas de tu melena. El servicio no incluye lavado, ni peinado. Consulte con su profesional", 
+            "price": "24.2 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Básicas Pelo Largo", 
+            "description": "Realza la luz de tu melena, aportándole brillo y luminosidad. Recomendado para cabellos oscuros y apagados, podrás crear efectos naturales aclarando zonas de tu melena. El servicio no incluye lavado, ni peinado. Consulte con su profesional", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Hidratación Y Masaje Capilar", 
+            "description": "Tratamiento de hidratación, combinable con el resto de servicios, para un mejor resultado y tratamiento del cabello. Incluye mascarilla de profunda hidratación con productos de máxima calidad marca Kerastase, y un masaje capilar relajante. Te encantará.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Corto", 
+            "description": "Si tienes un evento especial y necesitas lucir una melena espectacular, déjate asesorar por nuestros profesionales que se adaptarán perfectamente a lo que deseas. El servicio incluye lavado y peinado básico. Consultar con el profesional para cualquier duda.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

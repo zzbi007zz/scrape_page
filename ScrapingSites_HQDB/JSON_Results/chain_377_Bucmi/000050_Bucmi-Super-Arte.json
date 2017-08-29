@@ -1,0 +1,81 @@
+{
+    "name": "Bucmi-Super-Arte", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=51", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4065605000", 
+    "longitude": "-3.6855874000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/superarte", 
+    "office_number": "644111444", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El Centro de Terapias Naturales Super-Arte, situado en atocha, ofrecemos tratamientos de relajación, acupuntura y tratamientos para que consigas dejar de fumar. ¡Te ayudaremos a superarte con arte! Profesionales formados en España, China y Argentina.", 
+    "services": [
+        {
+            "service": "Tratamiento Para Dejar De Fumar", 
+            "description": "Realizamos un estudio previo, sesión preparatoria y de psicología, una sesión de acupuntura, una sesión de auriculoterapia y flores de Bach. Ahorra tiempo y dinero ganando en salud. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "110.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Salud Integral Holística", 
+            "description": "Este es un servicio en el que se incluye una sesión de salud integral (holística). Es una consulta en la cual revisamos hábitos de salud física y emocional, de una forma holística. Solo válida 1a consulta. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Terapia Natural: Primera Sesión De Psicoterapia", 
+            "description": "¡Prueba nuestra primera sesión de psicoterapia! Este servicio incluye una primera sesión de 90 minutos. Durante la consulta se hace un repaso de las necesidades del paciente y se plantean los caminos posibles para encontrar la solución. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "110.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Para Dejar De Fumar", 
+            "description": "Realizamos un estudio previo, sesión preparatoria y de psicología, una sesión de acupuntura, una sesión de auriculoterapia y flores de Bach. Ahorra tiempo y dinero ganando en salud. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "80.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "2 Sesiones Acupuntura", 
+            "description": "Consiste en insertar una serie de agujas muy finas en la piel del paciente, a distintas profundidades, para estimular puntos específicos del cuerpo, con el fin de restaurar el flujo y equilibrio de energía en el interior del organismo. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Acupuntura", 
+            "description": "10 Sesiones. Consiste en insertar una serie de agujas muy finas en la piel del paciente, a distintas profundidades, para estimular puntos específicos del cuerpo, con el fin de restaurar el flujo y equilibrio de energía en el interior del organismo. No esperes más y reserva ahora tu cita online con Bucmi.com.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Salud Integral Holística", 
+            "description": "Este es un servicio en el que se incluye una sesión de salud integral (holística). Es una consulta en la cual revisamos hábitos de salud física y emocional, de una forma holística. Solo válida 1a consulta. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Terapia Natural Meditación Y Relajación Individual", 
+            "description": "Ponte en las mejores manos para conseguir una relajación total. Con este servicio podrás disfrutar de una sesión de meditación para conseguir paz interior, y una relajación totalmente individualizada. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

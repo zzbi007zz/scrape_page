@@ -1,0 +1,193 @@
+{
+    "name": "Bucmi-Ma Petite Vanité", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=80", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4357602000", 
+    "longitude": "-3.7025433000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/mapetitevanite", 
+    "office_number": "917233232", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de estética Ma Petite Vanité, situado en Trafalgar, Madrid, está especializado en manicuras, pedicuras y tratamientos reductores con vendas, con una atención exquisita y personalizada. ¡Pásate a conocernos! No esperes más y reserva ahora online.", 
+    "services": [
+        {
+            "service": "Manicura Y Pedicura Permanente", 
+            "description": "El servicio incluye pack ideal para lucir unas uñas perfectas en las manos y en los pies con acabado permanente. Ahora podrás lucir uñas maquilladas durante más tiempo, tanto en manos como en pies. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado permanente de las marcas OPI, Masglo o Peggy Sage, según gama de colores ¡Para cualquier temporada del año, presume de uñas envidiables! Reserva ya cómodamente online y te encantará el resultado. Además, por un precio increíble.", 
+            "price": "23.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "La manicura más duradera, ahora a tu alcance de las manos de los mejores profesionales. No te tendrás que preocupar más por el estado de tus uñas durante casi 3 semanas. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado de las marcas OPI, Masglo o Peggy Sage, según gama de colores. ¡Para cualquier temporada del año, presume de manos envidiables! Reserva ya cómodamente online y te encantará el resultado. DF", 
+            "price": "14.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "El servicio incluye el desmaquillado de la piel, limpieza con extracción si es necesario, mascarilla apropiada al tipo de piel del ciente y por último hidratación con masaje. No lo dudes y ponte en las mejores manos, para lucir un cutis envidiable. Podrás eliminar así las impurezas de tu rostro y sentirte más a gusto contigo mism@. ¡Reserva ya cómodamente online y te encantará el resultado! ¿A qué estás esperando? Que no te lo cuenten. DF", 
+            "price": "135.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones Tto Facial Apitoxina", 
+            "description": "Este completo tratamiento facial incluye cosmética natural, a base de la toxina que segrega la abeja, para así conseguir un efecto antiedad, antimanchas y ganar una mayor luminosidad en tu rostro.Confía en nuestros expertos esteticistas de Ma Petite Vanite y disfruta de unos resultados únicos desde la primera sesión. No te arrepentirás de los resultadosF", 
+            "price": "23.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "El servicio incluye el desmaquillado de la piel, limpieza con extracción si es necesario, mascarilla apropiada al tipo de piel del ciente y por último hidratación con masaje. No lo dudes y ponte en las mejores manos, para lucir un cutis envidiable. Podrás eliminar así las impurezas de tu rostro y sentirte más a gusto contigo mism@. ¡Reserva ya cómodamente online y te encantará el resultado! ¿A qué estás esperando? Que no te lo cuenten. DF", 
+            "price": "14.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Higiene Facial Profunda", 
+            "description": "Una limpieza profunda de los poros te ayudará a mantener el cutis libre de impurezas y hará que tu piel se vea más fina y lisa. Nuestros profesionales trabajarán para que luzcas un cutis absolutamente perfecto. Además, utilizamos productos de primeras marcas para que quedes satisfech@ con el resultado ¡Reserva ya online en tu centro de estética favorito! Nuestro prioridad es tu cuidado. ¡Te encantará!DF", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial Apitoxina", 
+            "description": "Este completo tratamiento facial incluye cosmética natural, a base de la toxina que segrega la abeja, para así conseguir un efecto antiedad, antimanchas y ganar una mayor luminosidad en tu rostro.Confía en nuestros expertos esteticistas de Ma Petite Vanite y disfruta de unos resultados únicos desde la primera sesión. No te arrepentirás de los resultadosF", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Permanente", 
+            "description": "El servicio incluye pack ideal para lucir unas uñas perfectas en las manos y en los pies con acabado permanente. Ahora podrás lucir uñas maquilladas durante más tiempo, tanto en manos como en pies. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado permanente de las marcas OPI, Masglo o Peggy Sage, según gama de colores ¡Para cualquier temporada del año, presume de uñas envidiables! Reserva ya cómodamente online y te encantará el resultado. Además, por un precio increíble.", 
+            "price": "24.9 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "La manicura más duradera, ahora a tu alcance de las manos de los mejores profesionales. No te tendrás que preocupar más por el estado de tus uñas durante casi 3 semanas. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado de las marcas OPI, Masglo o Peggy Sage, según gama de colores. ¡Para cualquier temporada del año, presume de manos envidiables! Reserva ya cómodamente online y te encantará el resultado. DF", 
+            "price": "195 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Empezamos limando las uñas (a elegir para conseguir la forma deseada) y se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras. Puedes elegir entre un color más clásico o arriesgarte y lucir los tonos más atrevidos. ¡Porque unas manos bonitas y cuidadas dirán mucho de tí, reserva ya cómodamente online con nosotros!DF", 
+            "price": "24.9 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Empezamos limando las uñas (a elegir para conseguir la forma deseada) y se retiran las cutículas. Seguimos con un masaje, la exfoliación, tratamos las durezas y finalizamos con el esmaltado de marcas como OPI, Masglo o Peggy Sage, según gama de colores. Puedes elegir entre un color más clásico o arriesgarte y lucir los tonos más atrevidos. ¡Porque unos pies bonitos y cuidados dirán mucho de tí, reserva ya cómodamente online con nosotros!", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "La pedicura más duradera, ahora a tu alcance de los pies de los mejores profesionales. No te tendrás que preocupar más por el estado de tus uñas durante casi 3 semanas. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado de marcas como OPI, Masglo o Peggy Sage, según gama de colores. ¡Para cualquier temporada del año, presume de pies envidiables! Reserva ya cómodamente online y te encantará el resultado.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Relajante Corporal", 
+            "description": "Si quieres un momento de relax, reserva 60 minutos para ti y vive una experiencia relajante gracias a nuestros expertos terapeutas de Ma Petite Vanite. Podrás recargar tus pilas al 100% a la vez que armonizas tu cuerpo y tu mente con este completo servicio. No lo dudes más y haz tu reserva online con Bucmi.com. No te arrepentirás los resultadosF", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante Espalda", 
+            "description": "Si quieres un momento de relax, reserva 30 minutos para ti y vive una experiencia relajante gracias a nuestros expertos terapeutas de Ma Petite Vanite. Podrás recargar tus pilas al 100% a la vez que armonizas tu cuerpo y tu mente con este completo servicio. No lo dudes más y haz tu reserva online con Bucmi.com. No te arrepentirás los resultadosF", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Hombre Axilas", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "10.9 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Hombre Espalda", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Hombre Pecho", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Hombre Piernas Completas", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Axilas", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Ingles Brasileñas", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Ingles Integrales", 
+            "description": "Elimina el vello de tu zona íntima por mucho más tiempo gracias a este servicio de depilación con cera para ingles integrales. Ponte en manos de nuestros profesionales. ¿A qué estás esperando? Reserva ya tu cita a través de Bucmi.com. Ahora con la facilidad de la reserva online no tienes excusa. ¡Repetirás seguro!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Ingles Normales", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Medias Piernas", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Mujer Piernas Completas", 
+            "description": "Disfruta de una piel suave y sedosa gracias a nuestro servicio de cera, donde gracias a nuestros expertos esteticistas de Ma Petite Vanité. Haz tu reserva online y disfruta de una piel libre de vello por un par de semanas. ¿A qué estás esperando? Solo tienes que hacer con Bucmi.comF", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-Drakefor Internacional", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=37", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4266196000", 
+    "longitude": "-3.6812198000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/drakefor", 
+    "office_number": "914319144", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Drakefor Internacional es un Instituto de Belleza ubicado en el Barrio de Salamanca. Nuestra leyenda se inicia en la época de oro de la monarquía francesa, concretamente en 1767. Nuestra dedicación nos acerca a tus deseos, creando el exclusivo y selecto.", 
+    "services": [
+        {
+            "service": "Alisado Queratina Brasileño", 
+            "description": "Tratamiento alisador de queratina destinado a personas con todo tipo de cabello, incluidos los teñidos, con mechas o decolorados, con melena o con pelo corto. Alisado brasileño fotónico con queratina sin formol para un pelo perfecto. Cuidaremos tu cabello desde el principio y conseguiremos que luzcas la melena que siempre has soñado: brillante, bonita, sedosa y libre de encespamiento. Reserva online tu cita al mejor precio.", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Babylights", 
+            "description": "Iluminan, dan movimiento y son el último 'hit' en cabello. Lleva las mechas del momento.Aboga por la naturalidad y da todo el protagonismo a los puntos de luz con las mechas babylight: unas finísimas mechas que parten de la raíz con hasta dos tonalidades más claras que la base y que buscan conseguir ese efecto suave y delicado que tienen los niños pequeños en el cabello, como si hubiésemos pasado una larga temporada bajo el sol y unos suaves reflejos sublimaran la melena. Incluye: lavado/masaje/brushing", 
+            "price": "120.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Criolipólisis Y Termolipólisis Facial", 
+            "description": "Rejuvenece extraeordinariamente tu rostro mediante Criolipólisis y Termolipólisis facial con aplicación de cremas a base de celulas madres y ácido Hialurónico. Nuestros profesionales de Drakefor ajustarán el tratamiento según las necesidades de tu piel, siempre utilizando productos con la máxima calidad. Cuida tu piel y deja que te mimen como te mereces. El mejor precio lo encontrarás aquí.", 
+            "price": "44.70 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Alisado Queratina Brasileño", 
+            "description": "Tratamiento alisador de queratina destinado a personas con todo tipo de cabello, incluidos los teñidos, con mechas o decolorados, con melena o con pelo corto. Alisado brasileño fotónico con queratina sin formol para un pelo perfecto. Cuidaremos tu cabello desde el principio y conseguiremos que luzcas la melena que siempre has soñado: brillante, bonita, sedosa y libre de encespamiento. Reserva online tu cita al mejor precio.", 
+            "price": "240 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Babylights", 
+            "description": "Iluminan, dan movimiento y son el último 'hit' en cabello. Lleva las mechas del momento.Aboga por la naturalidad y da todo el protagonismo a los puntos de luz con las mechas babylight: unas finísimas mechas que parten de la raíz con hasta dos tonalidades más claras que la base y que buscan conseguir ese efecto suave y delicado que tienen los niños pequeños en el cabello, como si hubiésemos pasado una larga temporada bajo el sol y unos suaves reflejos sublimaran la melena. Incluye: lavado/masaje/brushing", 
+            "price": "63 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Goodbye Celulitis, Adios!", 
+            "description": "Aprovecha nuestro programa de 4 sesiones de 1 hora que incluye: CAVITACIÓN - RADIOFRECUENCIA - VACUMTERAPIA. La unión de estos 3 tratamientos sumado a una vida sana y mucho líquido da unos resultados IMPRESIONANTES. No sólo reduces y eliminas grasas sino que también: Reactivas la circulación, remodelas el contorno del cuerpo, mejoras la textura de tu piel aumentando la producción de tu propio colágeno.", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 S Anticelulítico Biotecnológico Reductor", 
+            "description": "Este super pack de 5 sesiones hará que tengas el cuerpo que siempre has soñado. Nuestros profesionales te atenderán según tus necesidades y te mimarán como te mereces. Servicio que incluye 5 sesiones de criolipolisis, cavitación, vacumterapia, radiofrecuencia, photonterapia y masaje anticelulítico con crema hecha de Celúlas Madre. ¡Reserva ya tu cita online!", 
+            "price": "240 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Peeling Corporal, Cavitación Y Masaje", 
+            "description": "Peeling corporal con sales del Mar Muerto y Aceite de Argán además de la Cavitación, la aplicación de crema liporeductora frío-calor y por último el masaje anticelulítico. ¡Reserva onlineF", 
+            "price": "63 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peeling Corporal, Fototerapia Y Radiofrecuencia", 
+            "description": "El servicio incluye un Peeling Corporal, el Tratamiento Liporeductor Frío- Calor aplicado mediante cavitación, la Fototerapia y por último la Radio Frecuencia. Ahorra tiempo y reserva onlineF", 
+            "price": "149 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peeling Facial Lujo", 
+            "description": "Peeling Facial de Lujo con regeneración celular Extrema por crema de células madre aplicada con ultrasonidos, Fototerapia, Iones (Iontoforesis) para una perfecta, extrema y delicada penetración de los principios activos de tu pielF", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Criolipólisis Y Termolipólisis Facial", 
+            "description": "Rejuvenece extraeordinariamente tu rostro mediante Criolipólisis y Termolipólisis facial con aplicación de cremas a base de celulas madres y ácido Hialurónico. Nuestros profesionales de Drakefor ajustarán el tratamiento según las necesidades de tu piel, siempre utilizando productos con la máxima calidad. Cuida tu piel y deja que te mimen como te mereces. El mejor precio lo encontrarás aquí.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

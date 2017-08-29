@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-Terapias Naturales Casamayor", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=51", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3993545000", 
+    "longitude": "-3.7753597999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/casamayor", 
+    "office_number": "649191552", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro dedicado a la salud, al cuerpo y, en general, a tu bienestar. Amplia variedad en masajes en un espacio exclusivo donde evadirte de todos los problemas del día a día.", 
+    "services": [
+        {
+            "service": "Masaje Relajante", 
+            "description": "Elimina tus tensiones después de un duro día de trabajo. Masaje profundo que ayuda a descargar tensiones acumuladas. Actúa sobre los puntos de tensión: cuello, cabeza, espalda, etc.", 
+            "price": "160.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Servicio de sesión suelta de drenaje linfático manual que favorece el funcionamiento del sistema linfático, ayuda a eliminar toxinas. Es un masaje indoloro ya que su aplicación se aplica de forma suave y con efectos relajantes.", 
+            "price": "160.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "Tratamiento Integral a través de los puntos que representan todos nuestros órganos y sistemas ( digestivo, nervioso, hormonal, etc) en la planta y dorso del pie.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones De Drenaje Linfático", 
+            "description": "Bono de 5 sesiones de drenaje linfático por el precio de cuatro. Favorece el funcionamiento del sistema linfático, ayuda a eliminar toxinas. Es un masaje indoloro ya que su aplicación se aplica de forma suave y con efectos relajantes.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Masaje Anticelulitico", 
+            "description": "Bono de cinco sesiones de masaje anticelulítico. Elimina la celulitis con este tratamiento. Rompe la grasa, elimina toxinas actuando sobre la circulación. Masaje de una hora con efecto reductor.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Anticelulítico", 
+            "description": "Elimina la celulitis con este tratamiento. Rompe la grasa, elimina toxinas actuando sobre la circulación. Masaje de una hora con efecto reductor.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático", 
+            "description": "Servicio de sesión suelta de drenaje linfático manual que favorece el funcionamiento del sistema linfático, ayuda a eliminar toxinas. Es un masaje indoloro ya que su aplicación se aplica de forma suave y con efectos relajantes.", 
+            "price": "200 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Descontracturante", 
+            "description": "Tratamiento lesiones musculares y aplicación vendaje neuromular.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Elimina tus tensiones después de un duro día de trabajo. Masaje profundo que ayuda a descargar tensiones acumuladas. Actúa sobre los puntos de tensión: cuello, cabeza, espalda, etc.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Shiatsu", 
+            "description": "Técnica japonesa que mediante presión elimina tensiones. Su traducción literal al castellano es presión con los dedos : se aplica presión en diferentes puntos energéticos. Reequilibra el sistema nervioso y tiene un efecto relajante.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "Tratamiento Integral a través de los puntos que representan todos nuestros órganos y sistemas ( digestivo, nervioso, hormonal, etc) en la planta y dorso del pie.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "name": "Bucmi-Tucumán 14", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=56", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4615708000", 
+    "longitude": "-3.6727201999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/tucuman", 
+    "office_number": "913599639", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Tucumán 14 es una peluquería situada en pleno barrio de Chamartín. Nos encanta el color, y por ello te traemos los mejores y más innovadores tratamientos, como los barros. Solo trabajamos marcas respetuosas con tu cabello (Secretos del Agua, ICON...)", 
+    "services": [
+        {
+            "service": "Corte Él", 
+            "description": "En Tucumán sabemos que existen infinidad de cortes de pelo... ¡incluso para caballero! Por eso, te asesoramos con el estilo que más te va para que vuelvas a casa con el pelo lavado y secado tras nuestro económico corte.", 
+            "price": "11.95 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Color - Tratamiento Con Óleo", 
+            "description": "El tratamiento con óleos de Secretos del Agua asegura un color intenso y tu cabello libre de daños. Esta técnica de coloración está formulada a base de aceites, y en Tucumán 14 somos expertos en ella. ¿Nos dejas demostrártelo? El servicio incluye el lavado con champú normal y el color. En caso de querer utilizar champú específico, consulte con el centro el suplemento.", 
+            "price": "11.95 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peinado Y Coloración Con Barros Naturales", 
+            "description": "¿Te apuntas a la última moda en coloración? Los barros contienen extractos botánicos que garantizan la salud de tu cabello, mientras que te proporcionan un color intenso y duradero. El servicio incluye lavado con champú normal, color y peinado. En caso de querer utilizar champú específico, consulte con el centro el suplemento.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte Él", 
+            "description": "En Tucumán sabemos que existen infinidad de cortes de pelo... ¡incluso para caballero! Por eso, te asesoramos con el estilo que más te va para que vuelvas a casa con el pelo lavado y secado tras nuestro económico corte.", 
+            "price": "64.8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Con Keratina", 
+            "description": "Si siempre has querido un pelo completamente liso y libre 100% de encrespamiento, nuestro alisado de keratina de la marca Keratin Cure es para ti. Está libre de formaldehído y garantiza un alisado durante meses. Su composición de oro y miel garantiza la nutrición de tu fibra capilar. El servicio incluye el lavado para la retirada del producto.", 
+            "price": "52.5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color - Tratamiento Con Óleo", 
+            "description": "El tratamiento con óleos de Secretos del Agua asegura un color intenso y tu cabello libre de daños. Esta técnica de coloración está formulada a base de aceites, y en Tucumán 14 somos expertos en ella. ¿Nos dejas demostrártelo? El servicio incluye el lavado con champú normal y el color. En caso de querer utilizar champú específico, consulte con el centro el suplemento.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Y Peinado Cabello Medio", 
+            "description": "Tucumán 14 te trae un servicio de color, completo que te permitirá lucir una melena con un brillo intenso. Utilizamos la marca ICON para garantizar la ausencia de daños en tu cabello. Además, te peinamos para que el resultado sea perfecto. El servicio incluye lavado con champú normal, color y peinado. En caso de querer utilizar champú específico o de cabello largo, consulte con el centro el suplemento.", 
+            "price": "135 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Para Ella", 
+            "description": "Ponte en nuestras manos y llévate el corte de moda que siempre has querido tener. Nuestro equipo profesional te aconsejará para escoger el look que más se adapte a tus gustos y a tus necesidades. El servicio incluye el lavado con champú normal y corte. En caso de querer utilizar champú específico, consulte con el centro el suplemento.", 
+            "price": "64.8 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Peinado", 
+            "description": "En Peluquerías Tucumán sabemos que hay un estilo para cada persona. Por eso, no solo te ofrecemos nuestro servicio de corte, sino que también te peinamos para que el resultado final sea exactamente lo que esperabas. ¡No pararás de mirarte al espejo después de que te cortemos el pelo y te peinemos! El servicio incluye lavado con champú normal, corte y peinado. En caso de querer utilizar champú específico, consulte con el centro el suplemento.", 
+            "price": "40.3 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Y Peinado Con Acondicionador", 
+            "description": "Si te gusta que la suavidad de tu cabello te acompañe tras salir de la peluquería y disfrutar más tiempo de un cabello libre de enredos, aprovecha y llévate este corte a la moda. Además, te peinamos para que te veas estupenda. El servicio también incluye el lavado con champú específico y el acondicionador.", 
+            "price": "15.5 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Peinado Y Coloración Con Barros Naturales", 
+            "description": "¿Te apuntas a la última moda en coloración? Los barros contienen extractos botánicos que garantizan la salud de tu cabello, mientras que te proporcionan un color intenso y duradero. El servicio incluye lavado con champú normal, color y peinado. En caso de querer utilizar champú específico, consulte con el centro el suplemento.", 
+            "price": "28.8 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "¿Quieres disfrutar de tu manicura por más tiempo? Con este servicio de manicura permanente, disfrutarás de todo el color de tu esmalte durante varias semanas. ¡Y solo en 60 minutos! El servicio incluye limado, tratamiento de cutículas y esmaltado con esmalte permanente.", 
+            "price": "31.8 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Alisado Con Keratina", 
+            "description": "Si siempre has querido un pelo completamente liso y libre 100% de encrespamiento, nuestro alisado de keratina de la marca Keratin Cure es para ti. Está libre de formaldehído y garantiza un alisado durante meses. Su composición de oro y miel garantiza la nutrición de tu fibra capilar. El servicio incluye el lavado para la retirada del producto.", 
+            "price": "52.5 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }
+    ]
+}

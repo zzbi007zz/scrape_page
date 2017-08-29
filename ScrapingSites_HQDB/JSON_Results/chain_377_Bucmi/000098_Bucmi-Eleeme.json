@@ -1,0 +1,256 @@
+{
+    "name": "Bucmi-Eleeme", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=99", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4319631000", 
+    "longitude": "-3.7135326999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/eleeme", 
+    "office_number": "915225468", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Estética y Peluquería de Madrid en el Barrio de Argüelles donde encontrarás una gran variedad de servicios con una atención exclusiva por parte de nuestros profesionales de belleza para nuestros clientes. Ofrecemos servicios únicamente para mujeres.", 
+    "services": [
+        {
+            "service": "Bono 10 Sesiones Presoterapia Médico Estética", 
+            "description": "Disfruta de este Bono de 10 sesiones de presoterapia para obtener el cuerpo deseado. La Medicina más remota se han aplicado en terapéutica que consigue un intenso estímulo circulatorlo local. La presoterapia, además de favorecer la eliminación de los nódulos de grasa, estimula la circulación y reduce la acumulación de líquidos.", 
+            "price": "165.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Presoterapia Médico Estética", 
+            "description": "Disfruta de este Bono de 5 sesiones de presoterapia para obtener el cuerpo deseado. La Medicina más remota se han aplicado en terapéutica que consigue un intenso estímulo circulatorlo local. La presoterapia, además de favorecer la eliminación de los nódulos de grasa, estimula la circulación y reduce la acumulación de líquidos.", 
+            "price": "95.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Con Fangos", 
+            "description": "Tratamiento corporal entero que consta de una exfoliación profunda realizada con fangos marinos remineralizantes. Se deja en reposo 20 minutos y a continuación se pasa a la ducha caliente para retirar el producto. Y por último se realiza un masaje con crema de 20 minutos.", 
+            "price": "42.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Células Madre Y Productos", 
+            "description": "Elixir de vida y rejeneración celular. Un tratamiento exclusivo que nutre, revitaliza las células madre, mejorando todos los aspectos relacionados con el envejecimiento. Corrige arrugas, reduce la flacidez, cicatrices, marcas de acné y faltas de luz. El servicio incluye una sesión en cabina y un producto para casa que consta de: crema de día, serum de noche y contorno de ojos.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Californianas Sin Decoloración", 
+            "description": "Reserva online nuestras especiales mechas californianas y dale un toque de luz a tu melena sin castigar el pelo, ya que no utilizamos decoloración. Hacemos un barrido progresivo sobre tu melena, para aclararla poco a poco y sin dañar tu pelo. No incluye peinado.", 
+            "price": "56.32 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Californianas Sin Decoloración Y Peinado", 
+            "description": "Reserva online nuestras especiales mechas californianas y dale un toque de luz a tu melena sin castigar el pelo, ya que no utilizamos decoloración. Hacemos un barrido progresivo sobre tu melena, para aclararla poco a poco y sin dañar tu pelo. Incluye peinado.", 
+            "price": "64.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color Completo, Canas Rebeldes Revlon", 
+            "description": "Este servicio incluye coloración para toda la melena o la raíz de la marca Revlon, especial para esas canas rebeldes que no te gustan y no consigues cubrir con otras coloraciones. Incluye lavado con champú. No incluye peinado.", 
+            "price": "165.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Completo, Canas Rebeldes Revlon Y Peinar", 
+            "description": "Este servicio incluye coloración para toda la melena o la raíz de la marca Revlon, especial para esas canas rebeldes que no te gustan y no consigues cubrir con otras coloraciones. Incluye lavado con champú y peinado de la melena.", 
+            "price": "95.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Oro Fluído Revlon", 
+            "description": "Disfruta de nuestra coloración libre de amoniaco con productos 100% vegetales graciasa nuestro color de Oro Fluído de Revlon que además incluye champú y mascarilla de orofluido y elixir para completar el tratamiento. No incluye peinado de la melena.", 
+            "price": "42.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Oro Fluido Revlon Y Peinado", 
+            "description": "Disfruta de nuestra coloración libre de amoniaco con productos 100% vegetales graciasa nuestro color de Oro Fluído de Revlon que además incluye champú y mascarilla de orofluido y elixir para completar el tratamiento. Incluye peinado de la melena.", 
+            "price": "200.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "Disfruta de un corte de tendencia gracias a nuestros expertos estilistas de Eleeme y lucirás un look a la moda pero que te pegue con tu estilo. El servicio incluye corte de pelo, lavado con champú y acondicionador pero no incluye peinado de la melena.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Peinado", 
+            "description": "Disfruta de un corte de tendencia gracias a nuestros expertos estilistas de Eleeme y lucirás un look a la moda pero que te pegue con tu estilo. El servicio incluye corte de pelo, lavado con champú y acondicionador y el peinado de la melena. Válido para todos los largos.", 
+            "price": "125 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar", 
+            "description": "Si tienes un evento importante, una cita o simplemente te apetece verte más guapa, reserva online nuestro completo servicio de lavado y peinado de la melena. Saldrás realmente guapa del salón.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Queratina Hidronutritivo", 
+            "description": "Disfruta de una melena lisa y brillante gracias a nuestro tratamiento de queratina que aplicaremos durante el lavado con un champú y mascarilla de tratamiento nutritivo también, para devolverle la vida a tu pelo dañado. No es alisador, es un tratamiento nutritivo y reparador de la melena. No incluye peinado.", 
+            "price": "255 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Queratina Hidronutritivo Y Peinado", 
+            "description": "Disfruta de una melena lisa y brillante gracias a nuestro tratamiento de queratina que aplicaremos durante el lavado con un champú y mascarilla de tratamiento nutritivo también, para devolverle la vida a tu pelo dañado. No es alisador, es un tratamiento nutritivo y reparador de la melena. Incluye peinado.", 
+            "price": "70.4 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Capilar Hidronutritivo Revlon", 
+            "description": "Disfruta este completo tratamiento capilar hidronutritivo de la marca Revlon, para recuperar la salud perdida de tu melena. Aplicamos el tratamiento y lo dejamos actuar, y además lavamos tu melena con champú y mascarilla específico. El servicio no incluye peinado.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tto Capilar Hidronutritivo Revlon Y Peinado", 
+            "description": "Disfruta este completo tratamiento capilar hidronutritivo de la marca Revlon, para recuperar la salud perdida de tu melena. Aplicamos el tratamiento y lo dejamos actuar, y además lavamos tu melena con champú y mascarilla específico. El servicio incluye peinado.", 
+            "price": "19.3 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Presoterapia Médico Estética", 
+            "description": "Disfruta de este Bono de 10 sesiones de presoterapia para obtener el cuerpo deseado. La Medicina más remota se han aplicado en terapéutica que consigue un intenso estímulo circulatorlo local. La presoterapia, además de favorecer la eliminación de los nódulos de grasa, estimula la circulación y reduce la acumulación de líquidos.", 
+            "price": "28.9 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Presoterapia Médico Estética", 
+            "description": "Disfruta de este Bono de 5 sesiones de presoterapia para obtener el cuerpo deseado. La Medicina más remota se han aplicado en terapéutica que consigue un intenso estímulo circulatorlo local. La presoterapia, además de favorecer la eliminación de los nódulos de grasa, estimula la circulación y reduce la acumulación de líquidos.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Con Fangos", 
+            "description": "Tratamiento corporal entero que consta de una exfoliación profunda realizada con fangos marinos remineralizantes. Se deja en reposo 20 minutos y a continuación se pasa a la ducha caliente para retirar el producto. Y por último se realiza un masaje con crema de 20 minutos.", 
+            "price": "34.6 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Células Madre Y Productos", 
+            "description": "Elixir de vida y rejeneración celular. Un tratamiento exclusivo que nutre, revitaliza las células madre, mejorando todos los aspectos relacionados con el envejecimiento. Corrige arrugas, reduce la flacidez, cicatrices, marcas de acné y faltas de luz. El servicio incluye una sesión en cabina y un producto para casa que consta de: crema de día, serum de noche y contorno de ojos.", 
+            "price": "11.2 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Presoterapia Médico Estética", 
+            "description": "Reserva online una sesión de Presoterapia, que te ayudará a conseguir un cuerpo más estilizado, además frenar la retención de líquidos. Ahorra tiempo y reserva cómoda y rápidamente.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Drenante Manual Y Produto", 
+            "description": "Déjate asesorar por los mejores profesionales con este tratamiento que incluye apertura de los ganglios, peeling corporal, presoterapia medica y masaje manual de 20 minutos mas producto especifico para lucir una piel fantástica .", 
+            "price": "9.6 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto. Corporal Reductor Lipoescultura Manual", 
+            "description": "El tratamiento comienza con un masaje para abrir los ganglios seguido de presoterapia, después peeling con guante de crin para activar la grasa localizada . quemagrasa potente, tratamiento biológico que actúa como radiofrecuencia y envoltura de café de té verde de la marca SKEYNDOR.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Luce una pedicura como nunca antes. El tratamiento consiste en unos guantes de balcore impregnados con aceites esenciales, eliminar cutículas, durezas, masaje de media pierna, crema y una gran gama de colores de la marca Revlon.", 
+            "price": "59.6 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones Exfoliación Y Masaje Relajante", 
+            "description": "Realizamos una exfoliación profunda realizada con fangos marinos remineralizantes, dejamos en reposo 20 minutos y a continuación se pasa a la ducha caliente para retirar el producto, por último realizamos un masaje corporal de 20 minutos.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "En el servicio está incluido una sesión de depilación con cera en las axilas. Ponte en manos de esteticistas profesionales cualificados para librarte del vello que más te molesta.", 
+            "price": "34.2 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Integrales Con Zona Anal", 
+            "description": "En el servicio está incluido una sesión de depilación con cera en las ingles de manera integral con zona perianal incluida. Así podrás liberarte de esos vellos tan molestos y a la vista.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "Dile adiós al vello con nuestra depilación de cera fría para medias piernas, que además no deja rojeces y así podrás lucir unas piernas de infarto. Ahorra tiempo y reserva tu cita online con nosotros.", 
+            "price": "125 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "Dile adiós al vello con nuestra depilación de cera fría para piernas completas, que además no deja rojeces y así podrás lucir unas piernas de infarto. Ahorra tiempo y reserva tu cita online con nosotros.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Diseño Y Depilación De Cejas Con Pinza", 
+            "description": "El servicio incluye la depilación con pinza para cejas con diseño incluido, para así poder lucir una mirada espectacular. Ahorra tiempo y reserva ya tu cita online con nosotros en nuestro centro.", 
+            "price": "255 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tratamiento Queratina Hidronutritivo", 
+            "description": "Disfruta de una melena lisa y brillante gracias a nuestro tratamiento de queratina que aplicaremos durante el lavado con un champú y mascarilla de tratamiento nutritivo también, para devolverle la vida a tu pelo dañado. No es alisador, es un tratamiento nutritivo y reparador de la melena. No incluye peinado.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Queratina Hidronutritivo Y Peinado", 
+            "description": "Disfruta de una melena lisa y brillante gracias a nuestro tratamiento de queratina que aplicaremos durante el lavado con un champú y mascarilla de tratamiento nutritivo también, para devolverle la vida a tu pelo dañado. No es alisador, es un tratamiento nutritivo y reparador de la melena. Incluye peinado.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

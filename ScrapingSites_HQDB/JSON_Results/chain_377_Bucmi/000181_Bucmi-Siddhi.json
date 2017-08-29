@@ -1,0 +1,109 @@
+{
+    "name": "Bucmi-Siddhi", 
+    "scrape_page": "https://www.bucmi.com/Valencia.html?page=10", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "39.4691886000", 
+    "longitude": "-0.3366140000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/siddhi", 
+    "office_number": "963728330", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Situado en el barrio de Ayora, Siddhi, es un centro de estética especializado en tratamientos faciales y corporales. Además de manicuras y pedicuras realizadas por nuestros expertos estilistas. ¡Ven a conocernos!", 
+    "services": [
+        {
+            "service": "Higiene Facial", 
+            "description": "Luce una piel suave y libre de imperfecciones gracias a nuestro higiene facial. El servicio incluye, desmaquillado peeling, extracción, ampolla, masaje facial, mascarilla y para finalizar un relajante masaje de pies y manos. Reserva ya tu cita, no te arrepentirás. ¡Ahora con la facilidad de la reserva online!", 
+            "price": "99.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Disfruta de esta pedicura básica en la que cortamos o limamos tus uñas, cuidamos las cutículas, tratamos las durezas y callosidades, hidratamos y esmaltamos del color que más te guste. Elige de nuestra amplia gama de colores y ponte en manos de nuestros expertos estilistas. ¡Ven a conocernos! ¡Repetirás seguro!", 
+            "price": "29.60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "description": "Aprovecha éste bono de 10 sesiones de presoterapia al mejor precio. El mejor tratamiento para deshacerse de la celulitis, eliminar toxinas, y moldear el cuerpo. Disfruta de unos resultados alucinantes gracias a la tecnología más avanzada. ¡No esperes más! Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "192.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte Pestañas", 
+            "description": "Presume de una mirada embaucadora gracias a éste tratamiento. El tinte te ayudará a realzar tus pestañas sin necesidad de usar máscara de pestañas y gracias a la permanente daremos una forma curvada a la pestaña. ¡Olvídate de maquillarte y sobretodo de la máscara de pestañas!. Reserva tu cita online a través de Bucmi. ¡Te encantará!", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Radiofrecuencia Facial", 
+            "description": "Disfruta de éste bono de 6 sesiones de radiofrecuencia facial en manos de los mejores profesionales. Con la radiofrecuencia facial ayudarás a reducir las arrugas y líneas de expresión. También redefinirás el óvalo facial. Ven a nuestro salón a probarlo. ¡Te encantarán los resultados!", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Higiene Facial", 
+            "description": "Luce una piel suave y libre de imperfecciones gracias a nuestro higiene facial. El servicio incluye, desmaquillado peeling, extracción, ampolla, masaje facial, mascarilla y para finalizar un relajante masaje de pies y manos. Reserva ya tu cita, no te arrepentirás. ¡Ahora con la facilidad de la reserva online!", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial 1 Sesión", 
+            "description": "Con la radiofrecuencia facial ayudarás a reducir las arrugas y líneas de expresión. También redefinirás el óvalo facial. Ven a nuestro salón a probarlo. ¡no te arrepentirás!", 
+            "price": "37 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura con Esmaltado Semipermanente", 
+            "description": "Servicio de pedicura con esmaltado semipermanente en la que cortamos/limamos tus uñas, cuidamos cutículas, tratamos durezas y callosidades, hidratamos y esmaltamos del color que más te guste.", 
+            "price": "240 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Básica", 
+            "description": "Disfruta de éste servicio de manicura básica al mejor precio. En el servicio cortamos limamos tus uñas, tratamos cutículas, hidratamos y esmaltamos del color que prefieras. Elige de nuestra amplia gama de colores y ponte en manos de nuestros expertos estilistas. ¡No te arrepentirás! Reserva ya tu cita, ahora con la facilidad de la reserva online.", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "Disfruta de éste servicio de manicura con esmaltado semipermanante para que puedas lucir unas uñas perfectas durante mucho más tiempo. Ponte en manos de nuestros expertos estilistas y déjate asesorar. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Repetirás seguro!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Y Pedicura Semipermanente", 
+            "description": "¿Quieres lucir unas uñas perfectas? Disfruta de éste servicio de manicura y pedicura con esmaltado semipermanante para que puedas lucir unas uñas preciosas durante mucho más tiempo. Ponte en manos de nuestros expertos estilistas y déjate asesorar. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Repetirás seguro!", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Básica", 
+            "description": "Disfruta de esta pedicura básica en la que cortamos o limamos tus uñas, cuidamos las cutículas, tratamos las durezas y callosidades, hidratamos y esmaltamos del color que más te guste. Elige de nuestra amplia gama de colores y ponte en manos de nuestros expertos estilistas. ¡Ven a conocernos! ¡Repetirás seguro!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

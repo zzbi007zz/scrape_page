@@ -1,0 +1,151 @@
+{
+    "name": "Bucmi-Salones Milano", 
+    "scrape_page": "https://www.bucmi.com/Sevilla.html?page=3", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "37.3721101000", 
+    "longitude": "-5.9574496000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/milano", 
+    "office_number": "954707071", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Salones Milano están especializados en el buen trato al público. Nuestro mayor interés: tu satisfacción. Nuestros servicios: peluquería unisex últimas tendencias, estética integral, masajes relajantes y descontracturantes, uñas esculpidas y tatuajes.", 
+    "services": [
+        {
+            "service": "Color, Cortar, Keratina Y Peinar Media Melena", 
+            "description": "En el servicio está incluido el color de pelo que prefieras, el corte de pelo para melena, una ampolla de keratina para cuidar de tu cabello y por último el peinado que elijas. Para pelo corto o media melena.", 
+            "price": "21.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tatuaje Sencillo", 
+            "description": "Si quieres decorar tu piel este es tu servicio. Se valorará en el centro la dificultad del diseño y en caso de ser necesario se abonará la diferencia en el salón. Reserva ahora online.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Ampolla Keratina Y Peinado", 
+            "description": "Conseguirás un pelo más suave y sedoso listo para lucirlo por completo. Aprovecha este precio para sanear e hidratar tu pelo al máximo en nuestra peluquería. Al finalizar el tratamiento se realiza el peinado.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color, Cortar, Keratina Y Peinar Media Melena", 
+            "description": "En el servicio está incluido el color de pelo que prefieras, el corte de pelo para melena, una ampolla de keratina para cuidar de tu cabello y por último el peinado que elijas. Para pelo corto o media melena.", 
+            "price": "21.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color, Cortar, Ampolla Keratina Y Peinar Largo", 
+            "description": "En el servicio está incluido el color de pelo, el corte que prefieras, la ampolla de keratina para hidratar tu cabello y por último el peinado que elijas para pelo largo.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color, Mechas, Cortar Y Peinar", 
+            "description": "Disfruta de esta sesión completa de peluquería. ¡Cambia de look! El servicio incluye coloración del cabello, las mechas, el corte que elijas y por último el peinado que elijas.", 
+            "price": "45.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Tratamiento Ampolla Keratina Y Peinado", 
+            "description": "Conseguirás un pelo más suave y sedoso listo para lucirlo por completo. Aprovecha este precio para sanear e hidratar tu pelo al máximo en nuestra peluquería. Al finalizar el tratamiento se realiza el peinado.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinar Media Melena O Largo", 
+            "description": "Descubre qué color y peinado se adapta más a tu rostro. El servicio incluye la coloración del cabello, y por último el peinado de tu melena con longitud media o larga.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Y Peinar Pelo Corto", 
+            "description": "Revoluciona tu melena y tu estética con este servicio que incluye una coloración de pelo con un peinado final, para que quedes lo más bella posible. Reserva ahora online.", 
+            "price": "20.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "El precio del servicio incluye corte de última tendencia, con previo lavado con champú específico, secado y por último peinado y cuidado de tu pelo.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer Y Peinado", 
+            "description": "En el servicio está incluido el lavado con champú específico, el corte de pelo que más te guste, y por último el peinado que más vaya contigo. Para melenas extra largos posible suplemento.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Normales, Corte Y Peinado Pelo Largo", 
+            "description": "En el servicio está incluido la aplicación de las mechas del color que más vaya contigo y que más te gusten, el corte de pelo a tu gusto, y por último el peinado para pelo largo. ¡Reserva tu cita online!", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tatuaje Sencillo", 
+            "description": "Si quieres decorar tu piel este es tu servicio. Se valorará en el centro la dificultad del diseño y en caso de ser necesario se abonará la diferencia en el salón. Reserva ahora online.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Facial", 
+            "description": "Cuida tu cutis con una higiene facial. El servicio incluye una limpieza general facial, una extracción de puntos negros e impurezas y por último la hidratación. Si lo deseas, disponemos de una mascarilla de oro con suplemento de 10€ a pagar en el centro.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Esmaltado Permanente", 
+            "description": "Disfruta y presume de unas uñas bonitas durante más tiempo. Ahora tu manicura lucirá perfecta al menos tres semanas con el color que prefieras a elegir entre una amplia gama.", 
+            "price": "60.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "Disfruta de una manicura básica en la que incluimos: cortado y limado de uñas, retirada de cutículas si es necesario, crema hidratante y por último el esmaltado.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Relaja tus pies y tus uñas con una pedicura básica en la que trataremos de mejorar el aspecto de tus pies con el limado, retirada de cutículas y el esmalte que prefieras.", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Ampolla Keratina Y Peinado", 
+            "description": "Conseguirás un pelo más suave y sedoso listo para lucirlo por completo. Aprovecha este precio para sanear e hidratar tu pelo al máximo en nuestra peluquería. Al finalizar el tratamiento se realiza el peinado.", 
+            "price": "19 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

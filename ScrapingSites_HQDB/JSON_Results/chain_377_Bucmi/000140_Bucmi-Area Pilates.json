@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Area Pilates", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=42", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3954549000", 
+    "longitude": "2.1437745000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/areapilates", 
+    "office_number": "932091063", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Área Pilates ofrecemos un servicio de alta calidad, con profesores altamente cualificados y con más de 10 años de experiencia en impartir el método. El centro está equipado con vestuarios, duchas y ofrece servicios de cortesía adicionales. ¡Visítanos!", 
+    "services": [
+        {
+            "service": "Clase Iniciación Pilates", 
+            "description": "Clase Iniciación Pilates para conocer la actividad,en la que conoceremos las posibilidades y limitaciones de cada persona. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Prevención y rehabilitación de lesiones musculares. Reserva ya.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pilates Bono 5 Sesiones Individuales", 
+            "description": "Pilates Bono de 5 sesiones individuales. Caducidad a los 4 meses. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Prevención y rehabilitación de lesiones musculares. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "148.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pilates Grupo 2 Días A La Semana", 
+            "description": "Pilates Grupo 2 Días a la semana , Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases. Precio para 1 Mes. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Reserva ahora.", 
+            "price": "99.75 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pilates Grupo 1 Día A La Semana", 
+            "description": "Pilates Grupo 1 día a la semana, La gimnasia pilates ayuda a estirar y devolver el tono muscular a tu cuerpo. Precio para 1 Mes. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Prevención y rehabilitación de lesiones musculares.", 
+            "price": "32.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Clase Iniciación Pilates", 
+            "description": "Clase Iniciación Pilates para conocer la actividad,en la que conoceremos las posibilidades y limitaciones de cada persona. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Prevención y rehabilitación de lesiones musculares. Reserva ya.", 
+            "price": "148.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pilates Grupo 2 Días A La Semana", 
+            "description": "Pilates Grupo 2 Días a la semana , Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases. Precio para 1 Mes. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Reserva ahora.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pilates Bono 10 Sesiones Individuales", 
+            "description": "Pilates Bono de 10 sesiones individuales, Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Prevención y rehabilitación de lesiones musculares. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Entrena tu cuerpo y mente!", 
+            "price": "255 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pilates Bono 5 Sesiones Individuales", 
+            "description": "Pilates Bono de 5 sesiones individuales. Caducidad a los 4 meses. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Prevención y rehabilitación de lesiones musculares. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "185 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pilates Combo", 
+            "description": "Se incluye 2 sesiones individuales y 4 de grupo, precio para cuota de 1 mes. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Prevención y rehabilitación de lesiones musculares. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "133 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pilates Combo", 
+            "description": "Se incluye 4 sesiones individuales y 2 de grupo, precio para cuota de 1 mes. Ven a tu Centro Área Pilates y ponte en manos de nuestros mejores profesionales. Aporta vitalidad y fuerza. Mayor flexibilidad, destreza, agilidad y coordinación de los movimientos. Figura más estilizada. Corrección de hábitos posturales perjudiciales y reducción de los dolores de espalda. Mejor autoconocimiento del cuerpo. Prevención y rehabilitación de lesiones musculares. Reserva tu cita cómodamente online a través de Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

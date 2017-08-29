@@ -1,0 +1,235 @@
+{
+    "name": "Bucmi-Cache", 
+    "scrape_page": "https://www.bucmi.com/Valladolid.html?page=6", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.6438587000", 
+    "longitude": "-4.7362390000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/cache", 
+    "office_number": "983231123", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Un salón de belleza de referencia en Valladolid donde podrás encontrar todo tipo de tratamientos: peluquería, spa, manicura, hidromasaje y servicios de presoterapia.", 
+    "services": [
+        {
+            "service": "Pedicura Spa E Infusión Depurativa", 
+            "description": "BUCMI EXPERIENCE by CACHE: El tratamiento SPA consiste en una inmersión marina, limado de uñas, limpieza de durezas, exfoliación, masaje podal hidratante y esmaltado del color de tu elección. Además, incluye una infusión depurativa. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "59.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Personalizado", 
+            "description": "Tratamiento facial de Oxígeno, Colágeno, Hialurónico, Silicio, Iluminador ...Previo diagnóstico facial te recomendaremos el que más se ajuste a las necesidades de tu piel. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial, Masaje Antiedad, Maquillaje Y Cava", 
+            "description": "BUCMI EXPERIENCE by CACHE: Un tratamiento facial iluminador, antimanchas y reafirmante. Consigue una piel más firme, reduce los excesos de pigmentación del rostro y otorga mayor luminosidad al rostro proporcionando un rostro con un aspecto más joven. Este tratamiento va acompañado de un masaje facial antiedad y de un maquillaje flash, todo esto mientras disfrutas de un benjamín de cava.", 
+            "price": "140.00 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Pack Color A Elegir, Hidrat Icon Y Peinado", 
+            "description": "Puedes escoger entre coloración de la melena, mechas tradicionales, balayage, californianas, o degradado de color. Además, el servicio incluye el lavado con un tratamiento de hidratación de ICON de regalo y secado natural de le melena (que no peinado) para que salgas estupenda de nuestro centro. No lo dudes más y haz tu reserva online con nosotros.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Coloración Sin Amoniaco", 
+            "description": "Consigue un color cuidado y un acabado natural, sin amoniaco ni sustancias químicas. Otorga reflejos brillantes y visibles, con una máxima cobertura. No incluye el peinado. Disfruta de una melena brillante y suave gracias a nuestra gama de coloraciones sin amoniaco de alta gama, que no dañan tu cabello y que le dan color y vida a tu melena. Te encantará.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "Un corte asesorado por grandes profesionales que incluye lavado con productos de tratamiento. Consigue el look que deseas en este increíble salón de belleza. Ponte en las manos de nuestros estilistas y consigue un look renovado ya que siempre estamos al tanto de las últimas tendencias. Reserva online este servicio y no te arrepentirás del resultado.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Y Manicura Y Tto Hidratación Facial", 
+            "description": "Disfruta de este completo paquete de belleza y ponte a punto gracias a nuestros expertos esteticistas de Cache Peluqueros. El servicio incluye manicura y pedicura completa (limado, retirada de cutículas, hidratación y esmaltado), y un tratamiento de hidratación facial de regalo, con el que conseguirás una piel más nutrida y luminosa. Te encantará el resultado.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Higiene Facial, Tto Regenerador Y Tto Iluminador", 
+            "description": "Aprovecha este fantástico paquete de belleza para poner a punto tu piel con este completo servicio que incluye la higiene facial completa, tratamiento facial regenerador para recuperar tu piel y un tratamiento facial iluminador para devolverle la vida a tu piel apagada. Haz tu reserva online en nuestro centro y no te arrepentirás del resultado.", 
+            "price": "84 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas", 
+            "description": "Si quieres una mirada de cine, ven a ponerte nuestras extensiones de pestañas pelo a pelo. Técnica 100% natural que hará que tengas unas pestañas espectaculares sin necesidad de estar maquillada. El servicio es para la primera puesta. Consigue unas pestañas con volumen sin necesidad de recurrir de forma diaria a la máscara de pestañas.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Limpieza Facial", 
+            "description": "Higiene en profundidad para mantener en perfecto estado el equilibrio natural de tu piel y preparación de ésta para posteriores tratamientos faciales. El servicio incluye el desmaquillado de la piel, tonificación con exfoliación, eliminación de impurezas y mascarilla final refrescante e hidratante para que el tratamiento sea completo. No te arrepentirás del resultado.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Microdermoabrasión Facial Punta De Diamante", 
+            "description": "Con la microdermoabrasión facial conseguiras una piel totalmente renovada gracias a la renovación celular de una forma natural. Reduce las arrugas, y las imperfecciones del rostro. Además, también suaviza las cicatrices. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Peeling Corporal Completo Y Masaje Relajante", 
+            "description": "Un completo ritual de belleza que incluye un peeling corporal, envoltura corporal, ducha, sauna, bañera de hidromasaje con cromoterapia y un masaje final relajante. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "175 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Permanente Y Tinte De Pestañas", 
+            "description": "Conseguir una mirada perfecta es posible; una mayor cobertura y una mayor intensidad en tus pestañas. Consigue unas pestañas con un rizo perfecto y un color penetrante sin necesidad de recurrir de forma diaria a la máscara de pestañas. Tu mirada quedará perfecta enmarcada gracias a la amplia experiencia de nuestros esteticistas. Te encantará.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Presoterapia", 
+            "description": "Un tratamiento corporal drenante para mejorar y reactivar la circulación del sistema circulatorio. Además, estimula la tonificación de los músculos, otorgando una piel más tersa. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Presoterapia: 12 Sesiones", 
+            "description": "Un tratamiento corporal drenante para mejorar y reactivar la circulación del sistema circulatorio. Consigue un precio especial por adquirir un bono de 12 sesiones. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tratamiento Anticelulítico Reductor", 
+            "description": "Tratamiento anticelulítico reductor en el que se combinan exfoliación corporal, envoltura de oxígeno activo, masaje reductor y presoterapia. Ideal para reducir la grasa corporal y proporcionar una piel más tersa.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Personalizado", 
+            "description": "Tratamiento facial de Oxígeno, Colágeno, Hialurónico, Silicio, Iluminador ...Previo diagnóstico facial te recomendaremos el que más se ajuste a las necesidades de tu piel. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Corporal Anticelulitico", 
+            "description": "Tratamiento anticelulítico reductor en el que se combinan exfoliación corporal, envoltura de oxígeno activo, masaje reductor y presoterapia. Ideal para reducir la grasa corporal y proporcionar una piel más tersa. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tto Facial, Masaje Antiedad, Maquillaje Y Cava", 
+            "description": "BUCMI EXPERIENCE by CACHE: Un tratamiento facial iluminador, antimanchas y reafirmante. Consigue una piel más firme, reduce los excesos de pigmentación del rostro y otorga mayor luminosidad al rostro proporcionando un rostro con un aspecto más joven. Este tratamiento va acompañado de un masaje facial antiedad y de un maquillaje flash, todo esto mientras disfrutas de un benjamín de cava.", 
+            "price": "170 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Pedicura Y Manicura Y Tto Hidratación Facial", 
+            "description": "Disfruta de este completo paquete de belleza y ponte a punto gracias a nuestros expertos esteticistas de Cache Peluqueros. El servicio incluye manicura y pedicura completa (limado, retirada de cutículas, hidratación y esmaltado), y un tratamiento de hidratación facial de regalo, con el que conseguirás una piel más nutrida y luminosa. Te encantará el resultado.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "El servicio incluye cuidado y tratamiento de las cutículas, limado y esmaltado del color de tu elección. ¡Consigue unas manos perfectas! Solo tienes que escoger tu color favorito de nuestra gama de coloraciones y nosotros nos encargamos de todo lo demás. Confía en nuestros expertos esteticistas de Caché y consigue unas uñas perfectas. Haz ya tu reserva con Bucmi.com.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Manicura Semipermante", 
+            "description": "Un servicio de manicura que incluye tratamiento de las cutículas, limado y esmaltado OPI del color de tu elección. Gracias al esmaltado semipermanente, consigue unas uñas perfectas durante más tiempo. Solo tienes que escoger tu color favorito de nuestra gama de coloraciones y nosotros nos encargamos de todo lo demás. Confía en nuestros expertos esteticistas de Caché y consigue unas uñas perfectas. Haz ya tu reserva con Bucmi.com.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Spa E Infusión Depurativa", 
+            "description": "BUCMI EXPERIENCE by CACHE: El tratamiento SPA consiste en una inmersión marina, limado de uñas, limpieza de durezas, exfoliación, masaje podal hidratante y esmaltado del color de tu elección. Además, incluye una infusión depurativa. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Reduce la tensión generada en la zona de la espalda y de las piernas, gracias a este masaje relajante. En 30 minutos elimina el estrés acumulado y consigue una plena relajación. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Masaje Relajante Completo", 
+            "description": "Un masaje completo que se enfoca en reducir la tensión de la espalda y de la zona de las piernas. Disfruta de una hora de masaje y otorga a tu cuerpo una máxima relajación. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante Piedras Calientes", 
+            "description": "Disfruta de un masaje corporal completo con piedras semipreciosas calientes y aceites esenciales. Consigue una plena armonía con tu cuerpo y las energías de la naturaleza. Descubre una experiencia única y una máxima relajación. ¿A qué estás esperando para hacer tu reserva online en nuestro salón de Cache Peluqueros y disfruta de unos resultados únicos? Solo tienes que hacer clic con Bucmi.com.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "Elimina el vello de la zona de las axilas. Depilación con cera tibia o caliente según las necesidades o preferencias del cliente. En Cache Peluqueros utilizamos cera de un solo uso y una crema hidratante al final para evitar rojeces. Y Podrás olvidarte de pasarte las cuchillas todos los días para tener una piel suave y sedosa, al menos por un par de semanas.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Normales", 
+            "description": "Elimina el vello de la zona de las ingles normales. Depilación con cera tibia o caliente según las necesidades o preferencias del cliente. En Cache Peluqueros utilizamos cera de un solo uso y una crema hidratante al final para evitar rojeces. Y Podrás olvidarte de pasarte las cuchillas todos los días para tener una piel suave y sedosa, al menos por un par de semanas.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "Elimina el vello de la zona de las piernas enteras. Depilación con cera tibia o caliente según las necesidades o preferencias del cliente. En Cache Peluqueros utilizamos cera de un solo uso y una crema hidratante al final para evitar rojeces. Y Podrás olvidarte de pasarte las cuchillas todos los días para tener una piel suave y sedosa, al menos por un par de semanas.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas, Ingles Y Axilas", 
+            "description": "Elimina el vello de la zona de las piernas, ingles y axilas. Depilación con cera tibia o caliente según las necesidades o preferencias del cliente. En Cache Peluqueros utilizamos cera de un solo uso y una crema hidratante al final para evitar rojeces. Y Podrás olvidarte de pasarte las cuchillas todos los días para tener una piel suave y sedosa, al menos por un par de semanas.", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

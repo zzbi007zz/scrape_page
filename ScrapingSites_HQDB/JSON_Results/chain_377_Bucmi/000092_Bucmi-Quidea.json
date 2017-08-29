@@ -1,0 +1,123 @@
+{
+    "name": "Bucmi-Quidea", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=93", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4362710000", 
+    "longitude": "-3.6729582000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/quidea", 
+    "office_number": "913564043", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Quídea es un centro de terapias ubicado en el barrio de la Gindalera, muy cerca del metro de Diego de León. En Quídea te ofrecemos sumergirte en un mundo de relax y salud, con una variedad de servicios desde masajes hasta sesiones de acupuntura. ¡Ven ya!", 
+    "services": [
+        {
+            "service": "Kinesología", 
+            "description": "La Kinesiología está basada en la neurología estructural con el que podemos diagnosticar y tratar los desequilibrios en el sistema locomotor, emocional, energético y bioquímico, que son la raíz del dolor y de las enfermedades. La finalidad es encontrar el desequilibrio y corregirlo, incluso antes de que aparezcan los síntomas. Para ello se utiliza un método de diagnóstico primario, mediante un test muscular y/o un reflejo corporal con el fin de valorar la reacción del organismo ante diversos estímulos.", 
+            "price": "-9.950.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático Manual Corporal", 
+            "description": "Es un tipo de masaje en el que no se desliza sobre la piel sino que se mueve con una fuerza prácticamente tangencial, así que no se enrojece ni provoca dolor en ningún momento. Con la estimulación del sistema linfático ayudamos a la movilización del líquido intersticial y por lo tanto la eliminación de las sustancias de desecho. Su acción recoge desde mejoría del estado nervioso a importantes linfedemas. ¡Reserva ya en Bucmi y no te arrepentirás!", 
+            "price": "50.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "Es un tratamiento de tipo holístico, que se basa en que los trastornos de un sistema afectan al funcionamiento de otras estructuras. Por ello pretende devolver la armonía y el equilibrio que causan la enfermedad e impiden la recuperación. ¡Reserva en Bucmi y confía en nuestro equipo de profesionales!", 
+            "price": "49.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Drenaje Linfático Manual Corporal", 
+            "description": "Es un tipo de masaje en el que no se desliza sobre la piel sino que se mueve con una fuerza prácticamente tangencial, así que no se enrojece ni provoca dolor en ningún momento. Con la estimulación del sistema linfático ayudamos a la movilización del líquido intersticial y por lo tanto la eliminación de las sustancias de desecho. Su acción recoge desde mejoría del estado nervioso a importantes linfedemas. ¡Reserva ya en Bucmi y no te arrepentirás!", 
+            "price": "-9.950.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 2 Sesiones De Shiatsu", 
+            "description": "El Shiatsu es una terapia que basa sus beneficios en conseguir la correcta canalización de la energía vital mediante la presión, en ciertos puntos clave del cuerpo. Precio de bono por dos sesiones. Ya dicen que cuerpo sano, mente sana y en nuestro centro Quídea lo llevamos al pie de la letra. ¡Reserva ya con nosotros este bono de 2 sesiones de Shiatsu!", 
+            "price": "49.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Taller Abdominales Hipopresivos", 
+            "description": "Invierte 1 sola sesión y aprenderás el método RSF para hacerlo en casa y beneficiarte de la amplia gama de beneficios respecto a la espalda, suelo pélvico, sistema digestivo, respiratorio y la mejora del rendimiento deportivo. ¡Déjate aconsejar por nuestros profesionales expertos y notarás cómo tu calidad de vida mejora! Reserva ya este servicio en Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Masaje Corporal Método Kimochi", 
+            "description": "Kimochi es un método basado en la relajación que busca desarrollar el potencial regenerador de los tejidos. Tratando de compararla con otras terapias manuales se parecería a una técnica cráneo-sacral aplicada a músculos, vísceras y huesos. Se produce un baile-diálogo entre los tejidos y el facilitador. ¡Confía en nuestros profesionales y notarás los resultados!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Deportivo", 
+            "description": "Se trabaja sobre los grupos musculares afectados en cada disciplina deportiva, las compensaciones que supone para el resto del cuerpo, las articulaciones que quedan comprometidas. Después hacemos estiramientos y ejercicios respiratorios. ¿Quieres mejorar tu calidad de vida? Ven a nuestro centro y notarás increíbles mejorías. ¡Te encantará!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "En un masaje se puede tratar un problema localizado o trabajar todo el cuerpo. Aumentar la capacidad que tenemos de percibir nuestro cuerpo a través del contacto con la piel, relajar la musculatura que está contracturada, activar la circulación sanguínea. ¿Quieres relajarte tras una dura jornada laboral? Reserva ya este masaje en Bucmi y déjate mimar por nuestros profesionales.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Osteopatía", 
+            "description": "Es un tratamiento de tipo holístico, que se basa en que los trastornos de un sistema afectan al funcionamiento de otras estructuras. Por ello pretende devolver la armonía y el equilibrio que causan la enfermedad e impiden la recuperación. ¡Reserva en Bucmi y confía en nuestro equipo de profesionales!", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Reflexología Podal", 
+            "description": "Con la reflexología podal se trabaja de manera preventiva si no hay ningún problema de base y para enfermedades crónica con muy buenos resultados. Está comprobado que el pie es un punto neurálgico de todo el cuerpo. Es por ello que con este tratamiento presionamos en distintos puntos para mejorar todo tipo de dolencias. ¡Confía en nuestros profesionales y notarás la mejoría!", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Kinesología", 
+            "description": "La Kinesiología está basada en la neurología estructural con el que podemos diagnosticar y tratar los desequilibrios en el sistema locomotor, emocional, energético y bioquímico, que son la raíz del dolor y de las enfermedades. La finalidad es encontrar el desequilibrio y corregirlo, incluso antes de que aparezcan los síntomas. Para ello se utiliza un método de diagnóstico primario, mediante un test muscular y/o un reflejo corporal con el fin de valorar la reacción del organismo ante diversos estímulos.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Taller Abdominales Hipopresivos", 
+            "description": "Invierte 1 sola sesión y aprenderás el método RSF para hacerlo en casa y beneficiarte de la amplia gama de beneficios respecto a la espalda, suelo pélvico, sistema digestivo, respiratorio y la mejora del rendimiento deportivo. ¡Déjate aconsejar por nuestros profesionales expertos y notarás cómo tu calidad de vida mejora! Reserva ya este servicio en Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Sesión De Acupuntura", 
+            "description": "Los elementos fundamentales en los que se expresa nuestra forma de concebir la acupuntura y la moxibustión, parten de la definición del ser como una unidad de luz; luz expresada en los canales, por la actividad del soplo -'Qi'-, que se concentra en los diferentes resonadores (puntos de acupuntura). ¡Reserva en Bucmi y mejora tu calidad de vida!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

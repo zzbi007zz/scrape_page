@@ -1,0 +1,186 @@
+{
+    "name": "Bucmi-AureaDent", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=20", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.4012608000", 
+    "longitude": "2.1344716999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/aureadent", 
+    "office_number": "934340737", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Aureadent es una clínica dental en Sant Gervasi, Barcelona. Ven a conocer nuestros servicios: todas las especialidades odontológicas y psicología. Presupuestos odontológicos sin compromiso. Luce una sonrisa perfecta gracias a nuestros profesionales.", 
+    "services": [
+        {
+            "service": "Blanqueamiento Dental", 
+            "description": "Luce una sonrisa de cine con este tratamiento. El blanqueamiento dental no desgasta el esmalte. Son muchos los motivos que llevan a que tus dientes pierdan su blanco natural pero en AureaDent te proporcionamos soluciones para que lo recuperes. Conseguirás un resultado natural y nada artificial. ¿Te apuntas a volver a sonreír?", 
+            "price": "126.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Dental: Carillas De Cerámica (Precio Por Carilla)", 
+            "description": "Láminas de cerámica que cambiarán por completo el aspecto de tus dientes, tanto de forma como de color. Después de algunas sesiones, depende del caso, podrás disfrutar de la sonrisa de cine que siempre quisiste. ¿A qué esperas para visitarnos? . El precio es por diente, pero incluye las diferentes visitas y tratamiento a realizar por diente.", 
+            "price": "300.00 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Dental: Férula Miorrelajante", 
+            "description": "El servicio consta de 3 sesiones de una hora. En la primera se realiza el diagnóstico. Una segunda sesión de prueba. Sesión de revisión y primera sesión de control. Podrás poner fin a todas las molestias localizadas en la zona de la mandíbula y solucionar los trastornos ocasionados.", 
+            "price": "187.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Dental", 
+            "description": "Perfecta para el mantenimiento de la salud de tus dientes y encías. Es recomendable realizar una limpieza con cierta periodicidad, dado que permite eliminar las bacterias y placa que se va acumulando en tus dientes y encías. Gracias a este tratamiento, no solo mejorarás la limpieza de tu boca sino que prevendrás posteriores problemas.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Dental: Empaste Superficial", 
+            "description": "¡Despídete de tus caries! Pon fin a esas molestia y evita posteriores problemas de salud con nuestro servicio de empaste superficial. El precio puede variar si el empaste no es superficial y es necesario otro tipo de tratamiento.", 
+            "price": "37.50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Alternativa Consulta De Psicología", 
+            "description": "Counselling: Realiza una consulta con una psicóloga especializada en asesoramiento y terapia, para plantear tus dudas o los problemas que te abruman. Expresa tus sentimientos y pensamientos con libertad y absoluta confidencialidad, en un entorno profesional a la vez que tranquilizador. Expón tus preocupaciones para acercarte a la solución. No te paralices por el miedo o los prejuicios. Déjate llevar.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Sesión De Mindfulness", 
+            "description": "Prueba una sesión de entrenamiento en Mindfulness (conciencia plena). Descubre este potente recurso para calmar la mente, focalizar la atención, reducir el estrés, mejorar el estado de ánimo... O en caso de ya conocerlo, mejora tus aptitudes para hacer de la práctica del mindfulness tu mejor aliada para vivir más intensamente y con menos sobrecarga, aprendiendo a relajarte y a vivir en el presente", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Blanqueamiento Dental En Casa", 
+            "description": "El blanqueamiento en casa, es un tipo de blanqueamiento que destaca sobre el que se realiza en clínica, tiene una duración media de 3 años si se siguen indicaciones del doctor, se toman unos moldes en la primera visita y en la segunda visita se dispensan unas jeringas para que el paciente lo aplique en casa. Dura de 2 semanas a tres y tiene resultados sorprendentes. En caso de tener dientes sensibles habría limitaciones en su prescripción.", 
+            "price": "126.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Dental: Carillas De Composite (Precio Por Carilla)", 
+            "description": "Las carillas de composite, son láminas de un material que permite una transformación, desde la primera visita y a un precio que alucinarás. Con las carillas de composite se pueden corregir problemas de color, leve-moderado, de malposición dentaria, pequeños giros en los dientes, altura (se recomienda el uso de protector bucal para dormir, no es la férula típica). Con el precio vienen incluidas las siguientes visitas.", 
+            "price": "300.00 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "2 Sesiones De Blanqueamiento Dental Interno", 
+            "description": "El BDI, es un blanqueamiento ideal para ese diente que ves diferente a los demás, porque alguna vez te mataron el nervio y se oscureció. A veces es porque nos dimos un golpe, hace mucho tiempo, o nuestra mordida es muy fuerte y provoca la muerte del nervio que hay por dentro (en estos casos, si no está matado el nervio, se debe hacer endodoncia, lo que conlleva un suplemento).", 
+            "price": "187.50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Limpieza Dental Con Bicarbonato", 
+            "description": "La limpieza dental con bicarbonato es una limpieza diferente a la habitual, la diferencia está en que se pueden eliminar esas manchas de tabaco, vino, comida... Lucirás unos dientes más blancos. (Se recomienda combinar con blanqueamiento en casa)", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Blanqueamiento Dental", 
+            "description": "Luce una sonrisa de cine con este tratamiento. El blanqueamiento dental no desgasta el esmalte. Son muchos los motivos que llevan a que tus dientes pierdan su blanco natural pero en AureaDent te proporcionamos soluciones para que lo recuperes. Conseguirás un resultado natural y nada artificial. ¿Te apuntas a volver a sonreír?", 
+            "price": "37.50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Dental: Carillas De Cerámica (Precio Por Carilla)", 
+            "description": "Láminas de cerámica que cambiarán por completo el aspecto de tus dientes, tanto de forma como de color. Después de algunas sesiones, depende del caso, podrás disfrutar de la sonrisa de cine que siempre quisiste. ¿A qué esperas para visitarnos? . El precio es por diente, pero incluye las diferentes visitas y tratamiento a realizar por diente.", 
+            "price": "40.00 €", 
+            "service_category": null, 
+            "duration": "240 min"
+        }, 
+        {
+            "service": "Dental: Férula Miorrelajante", 
+            "description": "El servicio consta de 3 sesiones de una hora. En la primera se realiza el diagnóstico. Una segunda sesión de prueba. Sesión de revisión y primera sesión de control. Podrás poner fin a todas las molestias localizadas en la zona de la mandíbula y solucionar los trastornos ocasionados.", 
+            "price": "36.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Dental", 
+            "description": "Perfecta para el mantenimiento de la salud de tus dientes y encías. Es recomendable realizar una limpieza con cierta periodicidad, dado que permite eliminar las bacterias y placa que se va acumulando en tus dientes y encías. Gracias a este tratamiento, no solo mejorarás la limpieza de tu boca sino que prevendrás posteriores problemas.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Dental: Empaste Superficial", 
+            "description": "¡Despídete de tus caries! Pon fin a esas molestia y evita posteriores problemas de salud con nuestro servicio de empaste superficial. El precio puede variar si el empaste no es superficial y es necesario otro tipo de tratamiento.", 
+            "price": "400 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Blanqueamiento Dental En Casa", 
+            "description": "El blanqueamiento en casa, es un tipo de blanqueamiento que destaca sobre el que se realiza en clínica, tiene una duración media de 3 años si se siguen indicaciones del doctor, se toman unos moldes en la primera visita y en la segunda visita se dispensan unas jeringas para que el paciente lo aplique en casa. Dura de 2 semanas a tres y tiene resultados sorprendentes. En caso de tener dientes sensibles habría limitaciones en su prescripción.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Dental: Carillas De Composite (Precio Por Carilla)", 
+            "description": "Las carillas de composite, son láminas de un material que permite una transformación, desde la primera visita y a un precio que alucinarás. Con las carillas de composite se pueden corregir problemas de color, leve-moderado, de malposición dentaria, pequeños giros en los dientes, altura (se recomienda el uso de protector bucal para dormir, no es la férula típica). Con el precio vienen incluidas las siguientes visitas.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Dental: Urgencia Odontológica", 
+            "description": "Cuando todas las clínicas dentales están cerradas y tienes algo super importante ese día y no tienes a quién acudir para arreglar el problema. Aureadent estará ahí. Solo la consulta, no incluye tratamiento", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "2 Sesiones De Blanqueamiento Dental Interno", 
+            "description": "El BDI, es un blanqueamiento ideal para ese diente que ves diferente a los demás, porque alguna vez te mataron el nervio y se oscureció. A veces es porque nos dimos un golpe, hace mucho tiempo, o nuestra mordida es muy fuerte y provoca la muerte del nervio que hay por dentro (en estos casos, si no está matado el nervio, se debe hacer endodoncia, lo que conlleva un suplemento).", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Limpieza Dental Con Bicarbonato", 
+            "description": "La limpieza dental con bicarbonato es una limpieza diferente a la habitual, la diferencia está en que se pueden eliminar esas manchas de tabaco, vino, comida... Lucirás unos dientes más blancos. (Se recomienda combinar con blanqueamiento en casa)", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Alternativa Consulta De Psicología", 
+            "description": "Counselling: Realiza una consulta con una psicóloga especializada en asesoramiento y terapia, para plantear tus dudas o los problemas que te abruman. Expresa tus sentimientos y pensamientos con libertad y absoluta confidencialidad, en un entorno profesional a la vez que tranquilizador. Expón tus preocupaciones para acercarte a la solución. No te paralices por el miedo o los prejuicios. Déjate llevar.", 
+            "price": "350 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Alternativa: Sesión De Mindfulness", 
+            "description": "Prueba una sesión de entrenamiento en Mindfulness (conciencia plena). Descubre este potente recurso para calmar la mente, focalizar la atención, reducir el estrés, mejorar el estado de ánimo... O en caso de ya conocerlo, mejora tus aptitudes para hacer de la práctica del mindfulness tu mejor aliada para vivir más intensamente y con menos sobrecarga, aprendiendo a relajarte y a vivir en el presente", 
+            "price": "240 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

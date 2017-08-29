@@ -1,0 +1,249 @@
+{
+    "name": "Bucmi-Gloria", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=31", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4095013000", 
+    "longitude": "-3.6423789000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/gloria", 
+    "office_number": "914302204", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Somos un Centro de peluquería y estética ubicado en Moratalaz, Madrid. Disfruta de los mejores cortes de pelo, tratamiento capilares, peinados, manicuras y pedicuras. En Gloria Peluqueros disfrutarás de un trato cercano y de un servicio de calidad.", 
+    "services": [
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "Te cortamos el pelo y, además, nuestros peluqueros te asesorarán en las últimas tendencias de cortes de pelo para hombre. El servicio incluye lavado, corte de pelo y peinado. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "Te cortamos en el pelo en Gloria Peluqueros. El servicio incluye lavado con champú, corte de pelo pero no incluye ni secado ni peinado definido de la melena. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "45.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Si reservas ahora con nosotras disfrutarás de las uñas más duraderas con el color que más te guste o francesa. Limamos, retiramos las cutículas, hidratamos y esmaltamos. ¡No te puedes quedar sin probar la manicura de moda! Ponte en las manos de nuestros expertos esteticistas de Gloria y presume de unas uñas estupendas y perfectamente maquilladas gracias a los años de experiencia que nos avalan. Reserva de un clic con Bucmi.com.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Californianas Pelo Corto", 
+            "description": "¿Te apetece lucir unas mechas californianas en tu pelo? ¡Reserva ya! En nuestro centro te realizaremos esta técnica de mechas de moda, siempre contando con tu opinión y gusto. El servicio incluye las mechas de tendencia y el lavado de la melena con champú pero no el peinado ni el secado del cabello. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas, Matiz Y Peinado Para Pelo Corto", 
+            "description": "¡Aprovecha nuestra oferta! Disfruta de un pack completo de mechas, matiz y peinado para pelo corto. Nuestras expertas peluqueras te dejarán preciosa. El servicio incluye unas mechas de tendencia, el matiz para perfeccionar el tono, lavado con champú y por último el peinado del pelo. ¡Saldrás perfecta de nuestro salón!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas, Matiz Y Peinado Para Pelo Largo O Medio", 
+            "description": "¡Aprovecha este pack que te ofrecemos! Te hacemos mechas, matiz y peinado con esta maravillosa oferta. Saldrás con un pelo perfecto de nuestra peluquería. El servicio incluye unas mechas de tendencia, el matiz para perfeccionar el tono, lavado con champú y por último el peinado del pelo. ¡Saldrás perfecta de nuestro salón!", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "Si quieres lucir unos pies arreglados, necesitas reservar este servicio. Disfrutarás de una pedicura completa con esmaltado permanente para que te dure mucho más tiempo. Ponte en las manos de nuestros expertos esteticistas de Gloria y presume de unas uñas estupendas y perfectamente maquilladas gracias a los años de experiencia que nos avalan. Reserva de un clic con Bucmi.com.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo, Peinado Pelo Corto Y Bótox Capilar", 
+            "description": "Servicio para pelo corto (mujer). Cortamos el pelo, te peinamos como más te guste y te realizamos un tratamiento de bótox capilar para aumentar el brillo de tu melena, además conseguirás un pelo, nutrido, hidratado y cuidado. Confía en nuestros expertos estilistas de Gloria y consigue un look estupendo gracias a este completo pack de belleza para tu melena. Haz tu reserva con Bucmi.com y no te arrepentirás del resultado.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo, Peinado Pelo Largo Y Bótox Capilar", 
+            "description": "Servicio para pelo corto (mujer). Cortamos el pelo, te peinamos como más te guste y te realizamos un tratamiento de bótox capilar para aumentar el brillo de tu melena, además conseguirás un pelo, nutrido, hidratado y cuidado. Confía en nuestros expertos estilistas de Gloria y consigue un look estupendo gracias a este completo pack de belleza para tu melena. Haz tu reserva con Bucmi.com y no te arrepentirás del resultado.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Raíz", 
+            "description": "Consigue el color que quieres para la raíz y desde Gloria Peluqueros te ayudaremos y asesoraremos con lo que necesites. El servicio incluye color en raíz, lavado con champú y crema pero no incluye el secado ni el peinado de la melena. Unifica el color de tu melena para que vuelva a lucir brillante y llena de brillo, cubriendo las raíces que empiezan a asomar en tu melena.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinado Pelo Corto", 
+            "description": "¡Cambia de look o encuentra el color que siempre quisiste con nosotros! Te asesoraremos en todo lo que necesites, atiendo siempre a tus gustos. El servicio incluye color, lavado con champú y peinado. Servicio para pelo corto. Consigue un color uniforme, asesorado por nuestros estilistas de Gloria, y no te arrepentirás del resultado. No lo dudes más y haz tu reserva gracias a Bucmi.com.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinado Pelo Largo", 
+            "description": "¡Cambia de look o encuentra el color que siempre quisiste con nosotros! Te asesoraremos en todo lo que necesites, atiendo siempre a tus gustos. El servicio incluye color, lavado con champú y peinado. Servicio para pelo corto. Consigue un color uniforme, asesorado por nuestros estilistas de Gloria, y no te arrepentirás del resultado. No lo dudes más y haz tu reserva gracias a Bucmi.com.", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Hombre", 
+            "description": "Te cortamos el pelo y, además, nuestros peluqueros te asesorarán en las últimas tendencias de cortes de pelo para hombre. El servicio incluye lavado, corte de pelo y peinado. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Para Mujer", 
+            "description": "Te cortamos en el pelo en Gloria Peluqueros. El servicio incluye lavado con champú, corte de pelo pero no incluye ni secado ni peinado definido de la melena. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "37 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer Y Peinado Pelo Corto", 
+            "description": "Te cortamos en el pelo en Gloria Peluqueros. El servicio incluye lavado con champú, corte de pelo de tendencia y el peinado definido del cabello. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte Mujer Y Peinado Pelo Largo", 
+            "description": "Te cortamos en el pelo en Gloria Peluqueros. El servicio incluye lavado con champú, corte de pelo de tendencia y el peinado definido del cabello. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Lavar Y Peinado Pelo Corto", 
+            "description": "Si tienes un evento especial al que te apetece ir guapa, o simplemente darte un capricho y verte con un look diferente por un día, reserva en nuestro centro de Gloria este servicio de siempre que incluye el lavado con champú y el peinado definido de la melena. Consulta posible suplementos para peinados muy elaborados. No incluye recogidos ni semirecogidos.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Peinado Pelo Largo", 
+            "description": "Si tienes un evento especial al que te apetece ir guapa, o simplemente darte un capricho y verte con un look diferente por un día, reserva en nuestro centro de Gloria este servicio de siempre que incluye el lavado con champú y el peinado definido de la melena. Consulta posible suplementos para peinados muy elaborados. No incluye recogidos ni semirecogidos.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Californianas Pelo Corto", 
+            "description": "¿Te apetece lucir unas mechas californianas en tu pelo? ¡Reserva ya! En nuestro centro te realizaremos esta técnica de mechas de moda, siempre contando con tu opinión y gusto. El servicio incluye las mechas de tendencia y el lavado de la melena con champú pero no el peinado ni el secado del cabello. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Californianas Pelo Largo", 
+            "description": "¿Te apetece lucir unas mechas californianas en tu pelo? ¡Reserva ya! En nuestro centro te realizaremos esta técnica de mechas de moda, siempre contando con tu opinión y gusto. El servicio incluye las mechas de tendencia y el lavado de la melena con champú pero no el peinado ni el secado del cabello. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Peinado Pelo Corto", 
+            "description": "¿Te apetece lucir unas mechas californianas en tu pelo? ¡Reserva ya! En nuestro centro te realizaremos esta técnica de mechas de moda, siempre contando con tu opinión y gusto. El servicio incluye las mechas de tendencia y el lavado de la melena con champú y el peinado y del cabello. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Californianas Y Peinado Pelo Largo", 
+            "description": "¿Te apetece lucir unas mechas californianas en tu pelo? ¡Reserva ya! En nuestro centro te realizaremos esta técnica de mechas de moda, siempre contando con tu opinión y gusto. El servicio incluye las mechas de tendencia y el lavado de la melena con champú y el peinado y del cabello. Confía en nuestros expertos estilistas de Gloria y luce un look moderno, adecuado a tus facciones y a tu estilo. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Y Matiz Pelo Corto", 
+            "description": "Ven a nuestra peluquería y nuestros profesionales te realizarán las mechas que siempre has deseado tener en tu pelo.¡Reserva ya! Te encantará. El servicio incluye las mechas tradicionales, matiz para que el color quede definido, lavado con champú. No incluye el peinado definido de la melena ni el secado. Haz ya tu reserva online y no te arrepentirás de haber reservado. Haz clic con Bucmi.com.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Y Matiz Pelo Largo", 
+            "description": "Ven a nuestra peluquería y nuestros profesionales te realizarán las mechas que siempre has deseado tener en tu pelo.¡Reserva ya! Te encantará. El servicio incluye las mechas tradicionales, matiz para que el color quede definido, lavado con champú. No incluye el peinado definido de la melena ni el secado. Haz ya tu reserva online y no te arrepentirás de haber reservado. Haz clic con Bucmi.com.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas, Matiz Y Peinado Para Pelo Corto", 
+            "description": "¡Aprovecha nuestra oferta! Disfruta de un pack completo de mechas, matiz y peinado para pelo corto. Nuestras expertas peluqueras te dejarán preciosa. El servicio incluye unas mechas de tendencia, el matiz para perfeccionar el tono, lavado con champú y por último el peinado del pelo. ¡Saldrás perfecta de nuestro salón!", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas, Matiz Y Peinado Para Pelo Largo O Medio", 
+            "description": "¡Aprovecha este pack que te ofrecemos! Te hacemos mechas, matiz y peinado con esta maravillosa oferta. Saldrás con un pelo perfecto de nuestra peluquería. El servicio incluye unas mechas de tendencia, el matiz para perfeccionar el tono, lavado con champú y por último el peinado del pelo. ¡Saldrás perfecta de nuestro salón!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas, Matiz Y Peinado Pelo Corto", 
+            "description": "Ven a nuestra peluquería y nuestros profesionales te realizarán las mechas que siempre has deseado tener en tu pelo.¡Reserva ya! Te encantará. El servicio incluye las mechas tradicionales, matiz para que el color quede definido, lavado con champú. Además, incluye el peinado definido de la melena ni el secado. Haz ya tu reserva online y no te arrepentirás de haber reservado. Haz clic con Bucmi.com.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas, Matiz Y Peinado Pelo Largo", 
+            "description": "Ven a nuestra peluquería y nuestros profesionales te realizarán las mechas que siempre has deseado tener en tu pelo.¡Reserva ya! Te encantará. El servicio incluye las mechas tradicionales, matiz para que el color quede definido, lavado con champú. Además, incluye el peinado definido de la melena ni el secado. Haz ya tu reserva online y no te arrepentirás de haber reservado. Haz clic con Bucmi.com.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura Completa", 
+            "description": "Si reservas este servicio podrás disfrutar de una manicura completa que incluye: limado, retirada de cutículas, hidratación y esmaltado con el color que más te guste o manicura francesa. Te dejaremos unas manos perfectas. No esperes más y haz tu reserva online en nuestro salón de Gloria y presume de unas manos bonitas y de aspecto cuidado.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Si reservas ahora con nosotras disfrutarás de las uñas más duraderas con el color que más te guste o francesa. Limamos, retiramos las cutículas, hidratamos y esmaltamos. ¡No te puedes quedar sin probar la manicura de moda! Ponte en las manos de nuestros expertos esteticistas de Gloria y presume de unas uñas estupendas y perfectamente maquilladas gracias a los años de experiencia que nos avalan. Reserva de un clic con Bucmi.com.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Completa", 
+            "description": "Si no eres fan del esmaltado permanente, puedes reservar este servicio para que nuestras profesionales te dejen unos pies bonitos y cuidados. Incluye esmaltado NO permanente. ¡Reserva ya y lucirás unos pies perfectos! Ponte en las manos de nuestros expertos esteticistas de Gloria y presume de unas uñas estupendas y perfectamente maquilladas gracias a los años de experiencia que nos avalan. Reserva de un clic con Bucmi.com.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "Si quieres lucir unos pies arreglados, necesitas reservar este servicio. Disfrutarás de una pedicura completa con esmaltado permanente para que te dure mucho más tiempo. Ponte en las manos de nuestros expertos esteticistas de Gloria y presume de unas uñas estupendas y perfectamente maquilladas gracias a los años de experiencia que nos avalan. Reserva de un clic con Bucmi.com.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

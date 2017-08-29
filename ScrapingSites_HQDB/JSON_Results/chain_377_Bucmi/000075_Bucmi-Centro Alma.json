@@ -1,0 +1,116 @@
+{
+    "name": "Bucmi-Centro Alma", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=76", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4163019000", 
+    "longitude": "-3.6913097000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/centroalma", 
+    "office_number": "915328086", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Clínica médico estético en la zona del Retiro, en Madrid. Con Centro Alma nace un nuevo concepto de centro médico, ponemos el alma el cada paciente. Creemos en la profesionalidad y la tecnología con cariño. Ven a conocernos y te sorprenderás.", 
+    "services": [
+        {
+            "service": "Mesoterapia Corporal", 
+            "description": "Elimina la celulítis y la grasa localizada mediante infiltraciónes de productos realizadas en la capa más supercial de la dermis. Sesión única.", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mesoterapia Facial (Cara, Cuello Y Escote)", 
+            "description": "Aporta brillo y vitalidad a tu rostro y consigue rejuvenecer e hidratar tu piel. Elimina las arrugas y los signos de la edad. Aumenta el efecto de la mesoterapia facial que podrás realizar también en cuello y escote. Para más información, consulta con el centro.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad Antiojeras (1 Sesión)", 
+            "description": "Podrás eliminar las ojeras tan molestas y dar brillo a tu rostro. Con el tratamiento que te proponemos en el Centro Médico Alma lucirás un rostro sano y saludable. Podrás corregir el color oscuro de la ojera y la fina arruga del párpado.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 10 Mesoterapia Corporal Con Aparatología", 
+            "description": "Bono de 10 sesiones de mesoterapia con aparatología. Además de la eliminación de grasas en zonas localizadas mejora el estado de la piel, llegando incluso a mejorar la flacidez. El masaje linfático y la presoterapia acompañan al tratamiento y ayudarán a que los efectos aumenten y perduren en el tiempo.", 
+            "price": "720 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 3 Mesoterapia Facial (Cara, Cuello Y Escote)", 
+            "description": "Aporta brillo y vitalidad a tu rostro y consigue rejuvenecer e hidratar tu piel. Elimina las arrugas y los signos de la edad. Aumenta el efecto de la mesoterapia facial y con este bono que podrás realizar también en cuello y escote. Para más información, consulta con el centro.", 
+            "price": "320 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones Mesoterapia Facial (Solo Cara)", 
+            "description": "Con este bono lucirás un rostro ideal en cualquier ocasión. Realizamos una combinación de sustancias dependiendo de la piel para conseguir la mejor mesoterapia para ti. Aporta brillo y vitalidad a tu rostro y consigue rejuvenecer e hidratar tu piel. Confía en nuestra experiencia y luce el rostro que te mereces.", 
+            "price": "245 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Mesoterapia Con Aparatología", 
+            "description": "Bono de 5 sesiones de mesoterapia con aparatología. Además de la eliminación de grasas en zonas localizadas mejora el estado de la piel, llegando incluso a mejorar la flacidez. El masaje linfático y la presoterapia acompañan al tratamiento y ayudarán a que los efectos aumenten y perduren en el tiempo.", 
+            "price": "380 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Mesoterapia Corporal", 
+            "description": "Bono de 5 sesiones de mesoterapia corporal. Elimina la celulítis y la grasa localizada mediante infiltraciónes de productos realizadas en la capa más superficial de la dermis.", 
+            "price": "235 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mesoterapia Corporal", 
+            "description": "Elimina la celulítis y la grasa localizada mediante infiltraciónes de productos realizadas en la capa más supercial de la dermis. Sesión única.", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mesoterapia Corporal Con Aparatología", 
+            "description": "Además de la eliminación de grasas en zonas localizadas mejora el estado de la piel, llegando incluso a mejorar la flacidez. El masaje linfático y la presoterapia acompañan al tratamiento y ayudarán a que los efectos aumenten y perduren en el tiempo.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Mesoterapia Facial (Cara, Cuello Y Escote)", 
+            "description": "Aporta brillo y vitalidad a tu rostro y consigue rejuvenecer e hidratar tu piel. Elimina las arrugas y los signos de la edad. Aumenta el efecto de la mesoterapia facial que podrás realizar también en cuello y escote. Para más información, consulta con el centro.", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mesoterapia Facial (Solo Cara)", 
+            "description": "Aporta brillo y vitalidad a tu rostro y consigue rejuvenecer e hidratar tu piel. Realizamos una combinación de sustancias dependiendo de la piel para conseguir la mejor mesoterapia para ti. Confía en nuestra experiencia y luce el rostro que te mereces.", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad Antiojeras (1 Sesión)", 
+            "description": "Podrás eliminar las ojeras tan molestas y dar brillo a tu rostro. Con el tratamiento que te proponemos en el Centro Médico Alma lucirás un rostro sano y saludable. Podrás corregir el color oscuro de la ojera y la fina arruga del párpado.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }
+    ]
+}

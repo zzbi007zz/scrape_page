@@ -1,0 +1,459 @@
+{
+    "name": "Bucmi-Exclusiva B y A", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=40", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3818092000", 
+    "longitude": "2.1569279999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/exclusivabya", 
+    "office_number": "610106306", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de belleza dedicado al cuidado personal. Nos encontramos en la zona de Sant Antoni de Barcelona y encontrarás dos áreas a disposición de las clientas con los servicios más novedosos de belleza. Encontrarás un buen trato y personalizado. ¡Reserva!", 
+    "services": [
+        {
+            "service": "5 Sesiones Fotodepilación Zona Pequeña", 
+            "description": "Este completo Bono de 5 sesiones de fotodepilación en zona pequeña, te hará la vida más cómoda. Elimina el vello de tus zonas pequeñas en nuestro centro.", 
+            "price": "12.17 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones De Fotodepilación Zona Grande", 
+            "description": "Si te cansa estar siempre con la cuchilla, o con otros sistemas para eliminar tu vello y quieres terminar de forma definitiva. No lo dudes y reserva este tratamiento de fotodepilación.", 
+            "price": "62.70 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones De Fotodepilación Zona Media", 
+            "description": "Si quieres eliminar el vello de tu zona media, te proponemos este Bono, con el que te olvidarás de tu vello en medias piernas o zonas similares, consulta a nuestros profesionales.", 
+            "price": "31.21 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "5 Sesiones De Presoterapia", 
+            "description": "Tratamiento médico y estético que se suministra a través de botas (especiales para la preso-terapia) que recubren las piernas, pies, abdomen y glúteos, a través de las cuales se utiliza la presión de aire para realizar un drenaje linfático sobre el cuerpo.Las principales causas para recomendar la preso-terapia son: el tratamiento de edemas, la corrección de alteraciones en el sistema circulatorio, la mejora de la celulitis y la prevención de la formación de nueva celulitis.", 
+            "price": "4.18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Taninoplastia Pelo Corto Sobre Hombro", 
+            "description": "Tratamiento de alisado capilar realizado con Taninos, procedente de la uva. Este sistema no dañará tu cabello. Consigue alisarlo, pero manteniendo cierto volumen, elimina el encrespamiento. ( pelo corto sobre el hombro)", 
+            "price": "37.50 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Baño De Color Sólo Raíces + Peinado", 
+            "description": "Una coloración brillante y natural que no daña tu pelo gracias a nuestros baños de color. El servicio incluye el lavado con champú mas peinado.", 
+            "price": "12.17 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Envoltura Drenate + Presoterapia", 
+            "description": "Presoterapia (20 minutos)Trata la celulitis y reduce volumen de muslos, glúteos y abdomen.Disminuye el exceso de sangre en las venas, mejorando el estado de las varices.Elimina el exceso de líquidos.Relaja las piernas cansadas y doloridas.Elimina el exceso de agua del cuerpo.Mejora el aspecto de la piel.Tonifica la musculatura.Las envolturas corporales ayudan a sanar problemas de la piel, tonificar y ajustar la piel, mejoran la circulación, alivian los dolores musculares y de coyunturas, tratan el ac", 
+            "price": "62.70 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Media Melena", 
+            "description": "¿Cambio de look? Pues no lo dudes y ven a vernos. El servicio incluye lavado de pelo, corte asesorado por nuestros profesionales y peinado para terminar perfecta en tu media melena.", 
+            "price": "31.21 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte", 
+            "description": "Respetar tu estilo, estar al día de las nuevas tendencias y cuidar de que disfrutes al máximo este momento son nuestras prioridades. Por eso contamos con un equipo de excelentes especialistas que se adaptarán en todo momento a tus necesidades y te facilitarán las mejores soluciones y tratamientos que precises en cada caso para sacarle el máximo partido a tu melena.", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "Una piel libre de vello gracias a nuestro servicio de depilación con cera de un solo uso. Suave y sedosa por un par de semanas.", 
+            "price": "190 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas 3 D", 
+            "description": "Extensiones de pestañas 3D aportan espesor en tan sólo 1 sesión es una técnica que va 3 palitos encima de cada pelo.", 
+            "price": "79 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Limpieza Facial Express", 
+            "description": "RENUEVA TU IMAGEN CON UNA HIGIENE FACIAL COMPLETA:Contamos con profesionales de categoría para eliminar todas las impurezas de la piel y dejarte un rostro como el de una geisha japonesa. Tenemos un amplio abanico de servicios de tratamientos faciales disponibles para ti. Puedes consultarlos todos y ver cuál es el que mejor te encaja!", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte De Pestañas", 
+            "description": "Podrás olivdarte de la máscara de pestañas por una temporada gracias a que teñiremos tus pestañas. Además, ganarás profundidad en la mirada volviendola más cautivadora.", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Nuskin Efecto Lifting", 
+            "description": "Nuestros sistemas y productos de cuidado facial están diseñados para satisfacer las necesidades propias de su piel y aportar beneficios y resultados antienvejecimiento que puede sentir y tocar.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Hidratante Restructurante Moroccanoil", 
+            "description": "Los resultados son realmente buenos. Cuando el cabello se seca está más suave y sedoso gracias al efecto acondicionador de Moroccanoil. Además, el pelo gana en brillo e hidratación, mostrando un aspecto ideal.Con el aceite de Moroccanoil podrás decir adiós a los enredones o nudos. Y es que este producto os ayudará a domar los cabellos más rebeldes. Este producto no deja una sensación de grasa y suciedad. Todo lo contrario, deja un aspecto natural.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Mask Taninoplastia Restriccion", 
+            "description": "Tratamiento mascarilla taninoplastia hidratante restrucurante más peinado aporta suavidad brillo a tu pelo", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado Taninoplastia Pelo Corto Sobre Hombro", 
+            "description": "Tratamiento de alisado capilar realizado con Taninos, procedente de la uva. Este sistema no dañará tu cabello. Consigue alisarlo, pero manteniendo cierto volumen, elimina el encrespamiento. ( pelo corto sobre el hombro)", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "180 min"
+        }, 
+        {
+            "service": "Baño De Color Sólo Raíces + Peinado", 
+            "description": "Una coloración brillante y natural que no daña tu pelo gracias a nuestros baños de color. El servicio incluye el lavado con champú mas peinado.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Color Completo Media Melena", 
+            "description": "Si quieres darle una vuelta a tu estilo, ven a nuestro salón y prueba nuestra gama de coloraciones de calidad. El servicio incluye el lavado del pelo pero no incluye el peinado.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Completo Melena Corta", 
+            "description": "Si quieres darle una vuelta a tu estilo, ven a nuestro salón y prueba nuestra gama de coloraciones de calidad. El servicio incluye el lavado del pelo pero no incluye el peinado.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Completo Melena Larga", 
+            "description": "Si quieres darle una vuelta a tu estilo, ven a nuestro salón y prueba nuestra gama de coloraciones de calidad. El servicio incluye el lavado del pelo pero no incluye el peinado.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Media Melena", 
+            "description": "¿Cambio de look? Pues no lo dudes y ven a vernos. El servicio incluye lavado de pelo, corte asesorado por nuestros profesionales y peinado para terminar perfecta en tu media melena.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte", 
+            "description": "Respetar tu estilo, estar al día de las nuevas tendencias y cuidar de que disfrutes al máximo este momento son nuestras prioridades. Por eso contamos con un equipo de excelentes especialistas que se adaptarán en todo momento a tus necesidades y te facilitarán las mejores soluciones y tratamientos que precises en cada caso para sacarle el máximo partido a tu melena.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Corto", 
+            "description": "En el centro Expertos en Belleza y Bienestar saben cómo hacer que tu look se vea perfecto y por ello te ofrecen estas sesiones de peluquería con lavado, masaje craneal, mascarilla hidratante, peinado.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "description": "En el centro Expertos en Belleza y Bienestar saben cómo hacer que tu look se vea perfecto y por ello te ofrecen estas sesiones de peluquería con lavado, masaje craneal, mascarilla hidratante, peinado.", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas A Peine", 
+            "description": "Ilumina tu melena con nuestro servicio de mechas a peine para darle un toque de vida a tu cabello. El servicio incluye el lavado del pelo con champú y acondicionador pero no el peinado de la melena.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas A Plata", 
+            "description": "Ilumina tu melena con nuestro servicio de mechas a plata para darle un toque de vida a tu cabello. El servicio incluye el lavado del pelo con champú y acondicionador pero no el peinado de la melena.", 
+            "price": "28 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Mechas Californianas O Balayage", 
+            "description": "Si nos permites un consejo, una de las cosas que puedes hacer con tu cabello es darle luz. Porque sí, a todas nos pasa, que entramos en el verano con el pelo fosco, apagado. Pero el pelo debe brillar con luz propia, resplandecer y ser el centro de todas las miradas, ¿verdad?Para iluminar tu cabello te proponemos dos técnicas: las mechas californianas y el balayage. De las primeras has oído hablar, seguro. Hay quién las llama también “mechas americanas”, pero sobre todo son conocidas por su nombre de orige", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Media Cabeza", 
+            "description": "Ilumina tu melena con nuestro servicio de mechas para la media cabeza para darle un toque de vida a tu cabello. El servicio incluye el lavado del pelo con champú y acondicionador pero no el peinado de la melena.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas Y Peinado", 
+            "description": "Las mechas californianas clásicas, tanto para rubias como para morenas. Si tienes el cabello rubio, se deja tu raíz natural y se va difuminando el color hacia las puntas. De esta forma conseguimos un degradado de color desde la raíz (oscura) hasta las puntas (Claras)", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tratamiento Hidratante Restructurante Moroccanoil", 
+            "description": "Los resultados son realmente buenos. Cuando el cabello se seca está más suave y sedoso gracias al efecto acondicionador de Moroccanoil. Además, el pelo gana en brillo e hidratación, mostrando un aspecto ideal.Con el aceite de Moroccanoil podrás decir adiós a los enredones o nudos. Y es que este producto os ayudará a domar los cabellos más rebeldes. Este producto no deja una sensación de grasa y suciedad. Todo lo contrario, deja un aspecto natural.", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Mask Taninoplastia Restriccion", 
+            "description": "Tratamiento mascarilla taninoplastia hidratante restrucurante más peinado aporta suavidad brillo a tu pelo", 
+            "price": "18 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Presoterapia", 
+            "description": "Las principales causas para recomendar la preso-terapia son: el tratamiento de edemas, la corrección de alteraciones en el sistema circulatorio, la mejora de la celulitis y la prevención de la formación de nueva celulitis.", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "description": "Extensiones de pestañas con la técnica pelo a pelo. Si consigues este servicio, te aseguramos que repetirás... Colocamos una a una las extensiones. Tú decides si quieres efecto más natural o pestañas más tupidas.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "5 Sesiones De Presoterapia", 
+            "description": "Tratamiento médico y estético que se suministra a través de botas (especiales para la preso-terapia) que recubren las piernas, pies, abdomen y glúteos, a través de las cuales se utiliza la presión de aire para realizar un drenaje linfático sobre el cuerpo.Las principales causas para recomendar la preso-terapia son: el tratamiento de edemas, la corrección de alteraciones en el sistema circulatorio, la mejora de la celulitis y la prevención de la formación de nueva celulitis.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Envoltura Drenate + Presoterapia", 
+            "description": "Presoterapia (20 minutos)Trata la celulitis y reduce volumen de muslos, glúteos y abdomen.Disminuye el exceso de sangre en las venas, mejorando el estado de las varices.Elimina el exceso de líquidos.Relaja las piernas cansadas y doloridas.Elimina el exceso de agua del cuerpo.Mejora el aspecto de la piel.Tonifica la musculatura.Las envolturas corporales ayudan a sanar problemas de la piel, tonificar y ajustar la piel, mejoran la circulación, alivian los dolores musculares y de coyunturas, tratan el ac", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Reductor Manual Tegoder", 
+            "description": "Es un tratamiento remodelador corporal multi-nivel que combate las adiposidades, retención de líquidos y estimula la circulación venolinfática gracias al poderoso isomix de cafeína, teobromina, xantinas y extracto de té verde (activos lipolíticos y drenantes) combinado con ceramidas y polímeros superabsorbentes, que reafirman, mejoran la cohesión celular y textura de la piel y combaten el envejecimiento cutáneo. Unido a la presoterapia, multiplica sus efectos y disminuye la duración del tratamiento, reduce", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bronceado Dha Corporal", 
+            "description": "El bronceado con caña de azúcar se aplica mediante una micropulverización de una loción a base de caña de azúcar que reacciona sobre la piel generando de forma casi inmediata el mejor bronceado.El peeling corporal te ayuda a eliminar las impurezas de la piel y a prepararla para que asimile mejor el producto.", 
+            "price": "68 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Exfoliación Corporal, Envoltura De Algas Y Ducha", 
+            "description": "Es un tratamiento muy relajante para hidratar y suavizar la piel. Se aplica un producto de algas cosmético específico altamente hidratante por todo el cuerpo, permitiendo que actúe por unos minutos. Posteriormente se retira el producto y se hace un extenso masaje que proporciona una increíble sensación de bienestar y potencia los beneficios de la hidratación.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Extensiones De Pestañas 3 D", 
+            "description": "Extensiones de pestañas 3D aportan espesor en tan sólo 1 sesión es una técnica que va 3 palitos encima de cada pelo.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "150 min"
+        }, 
+        {
+            "service": "Limpieza Facial Con Punta De Diamante", 
+            "description": "Cada sesión incluye:Limpieza facial para preparar y limpiar la piel.Microdermoabrasión con punta de diamante es un tratamiento no invasivo y una de las soluciones de belleza más actuales. Mediante un micropeeling, se va exfoliando la piel con distintas intensidades, extrayendo las células muertas y puliendo de forma gradual. Beneficiosa en la eliminación de manchas producidas por el sol, para atenuar arrugas de expresión y cicatrices de acné, tratar el foto envejecimiento, acabar con las pieles seborreica", 
+            "price": "11 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza Facial Express", 
+            "description": "RENUEVA TU IMAGEN CON UNA HIGIENE FACIAL COMPLETA:Contamos con profesionales de categoría para eliminar todas las impurezas de la piel y dejarte un rostro como el de una geisha japonesa. Tenemos un amplio abanico de servicios de tratamientos faciales disponibles para ti. Puedes consultarlos todos y ver cuál es el que mejor te encaja!", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Permanente De Pestañas", 
+            "description": "Es una nueva técnica de para rizar las pestañas. La ventaja en relación a la técnica tradicional de permanente de pestañas es que la permanente de pestañas express no requiere rulos ni pegamento lo que hace esta técnica más rápida y eficaz. El secreto está en el diseño innovador del rizador de pestañas que hace que riza las pestañas de manera uniforme en forma de abanico sin que el producto de permanente entre en contacto con los ojos. Se puede combinar esta permanente con el tinte de pestañas o con la másc", 
+            "price": "49 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte De Cejas", 
+            "description": "Este servicio implica tintar tus cejas para que estén siempre perfectas y evites maquillarlas de forma diaria. Así tendrán la mejor forma para potenciar tu belleza.", 
+            "price": "150 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Tinte De Pestañas", 
+            "description": "Podrás olivdarte de la máscara de pestañas por una temporada gracias a que teñiremos tus pestañas. Además, ganarás profundidad en la mirada volviendola más cautivadora.", 
+            "price": "165 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Exfoliación E Hidratación", 
+            "description": "La exfoliación sirve para eliminar las células muertas que se acumulan en la superficie de la piel impidiéndole respirar. Las células de nuestra piel se multiplican, mueren y se renuevan. La exfoliación acelera este fenómeno natural estimulando la regeneración celular y la microcirculación sanguínea de superficie. La piel retoma su suavidad y flexibilidad.", 
+            "price": "29 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Nuskin Reduce Y Reafirma", 
+            "description": "El pack ageLOC Galvanic Body Trio contiene el nuevo ageLOC Galvanic Body Spa y dos avanzados productos corporales antiedad: el ageLOC Body Shaping Gel y el ageLOC Dermatic Effects, para obtener como resultado un cuerpo de aspecto más contorneado, más terso y más firme.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Nuskin Efecto Lifting", 
+            "description": "Nuestros sistemas y productos de cuidado facial están diseñados para satisfacer las necesidades propias de su piel y aportar beneficios y resultados antienvejecimiento que puede sentir y tocar.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Esmaltado Permanente", 
+            "description": "Variedad colores con nuestra línea especial de productos B&A wonderblack Aprovecha nuestra super oferta de verano", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "Elige el color que más te guste dentro de nuestra gama de colores. Nosotros nos encargaremos de limar tu uñas, cuidar tus cutículas e hidratar tu piel.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Uñas Acrílicas", 
+            "description": "Realizamos diseños personalizados o déjate aconsojar por nuestros expertos estiticistas de Exclusiva B y A. Tendrás unas uñas perfectas por más tiempo.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Chocolaterapia Relax", 
+            "description": "Este maravilloso tratamiento de chocolaterapia consiste en un masaje personalizado y una envoltura de cacao de 45 minutos de duración. Todo basado en el chocolate para que su aroma active tus endorfinas y salgas flotanto y totalmente feliz.El masaje dura 25 mintuos y se realiza con aceite caliente de chocolate. Podrás elegir qué tipo de masaje prefieres: uno terapéutico, para descontracturar y aliviar tensiones, o uno más suave anti estrés.Seguidamente te aplicarán una envoltura de chocolate", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Alcanza una sensación de bienestar total con este masaje relajante antiestrés. La mezcla de aceites esenciales evocará una sensación de relajación que, junto a las expertas manos de los masajistas de Exclusiva B&A, irán destensando tu musculatura, armonizando así cuerpo y mente y convirtiendo la expresión 'salir como nuevo' en una realidad.", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "5 Sesiones Fotodepilación Zona Pequeña", 
+            "description": "Este completo Bono de 5 sesiones de fotodepilación en zona pequeña, te hará la vida más cómoda. Elimina el vello de tus zonas pequeñas en nuestro centro.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones De Fotodepilación Zona Grande", 
+            "description": "Si te cansa estar siempre con la cuchilla, o con otros sistemas para eliminar tu vello y quieres terminar de forma definitiva. No lo dudes y reserva este tratamiento de fotodepilación.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones De Fotodepilación Zona Media", 
+            "description": "Si quieres eliminar el vello de tu zona media, te proponemos este Bono, con el que te olvidarás de tu vello en medias piernas o zonas similares, consulta a nuestros profesionales.", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Axilas", 
+            "description": "Una piel libre de vello gracias a nuestro servicio de depilación con cera de un solo uso. Suave y sedosa por un par de semanas.", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles", 
+            "description": "Una piel libre de vello gracias a nuestro servicio de depilación con cera de un solo uso. Suave y sedosa por un par de semanas.", 
+            "price": "31 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Brasileñas", 
+            "description": "Una piel libre de vello gracias a nuestro servicio de depilación con cera de un solo uso. Suave y sedosa por un par de semanas.", 
+            "price": "70 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "Una piel libre de vello gracias a nuestro servicio de depilación con cera de un solo uso. Suave y sedosa por un par de semanas.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "Una piel libre de vello gracias a nuestro servicio de depilación con cera de un solo uso. Suave y sedosa por un par de semanas.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento De Células Madre Nutricell", 
+            "description": "Las Células Madre promueven la formación de células nuevas que sustituyen a las ya envejecidas o enfermas; las de nuestra piel se hallan en la capa más profunda de la epidermis. Las Células Madre de NutriCell son vegetales y cuentan con una mezcla de activos anti-envejecimiento que recuperan la juventud del cabello. Se obtienen mediante un cultivo único, a través de Nanotecnología, para extraer de las plantas moléculas nativas que originan el proceso vital.NutriCell es un tratamiento que elimina el frizz", 
+            "price": "39 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

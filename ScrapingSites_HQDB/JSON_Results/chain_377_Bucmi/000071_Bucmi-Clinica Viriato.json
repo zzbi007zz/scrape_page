@@ -1,0 +1,102 @@
+{
+    "name": "Bucmi-Clinica Viriato", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=72", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4359592000", 
+    "longitude": "-3.7011586999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/clinicaviriato", 
+    "office_number": "914445000", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Clínica Viriato está formado únicamente por personal sanitario colegiado en los diferentes colegios profesionales de Madrid desde 2009. Aseguramos gran profesionalidad en nuestros servicios.", 
+    "services": [
+        {
+            "service": "Depilación Laser De Zona Pequeña", 
+            "description": "Elimina de manera permanente el vello con este tratamiento especialmente diseñado para tratar todo tipo de pieles de forma segura. Valido para zonas pequeñas: axilas, ingles, labio superior, linea de alba, mentón, nuca, patillas, cuello, dedos...", 
+            "price": "49.00 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Laser De Zona Mediana", 
+            "description": "Elimina para siempre el vello. Tratamiento seguro para todo tipo de pieles. Valido para medias piernas, medios brazos u hombros, Ingles brasileñas, gluteos, lumbares, facial (mujer) o perfil de la barba (hombre).", 
+            "price": "85.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Fisioterapia", 
+            "description": "Tratamiento personalizado especialmente diseñado para tratar diferentes patologías tales como: Cervicalgias, Lumbalgias, Ciáticas, Problemas discales, Tendinitis, Contracturas…", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones De Fisioterapia", 
+            "description": "Bono de 5 sesiones de Fisioterapia. Tratamiento personalizado especialmente diseñado para tratar diferentes patologías tales como: Cervicalgias, Lumbalgias, Ciáticas, Problemas discales, Tendinitis, Contracturas…", 
+            "price": "157.50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Fisioterapia", 
+            "description": "Tratamiento personalizado especialmente diseñado para tratar diferentes patologías tales como: Cervicalgias, Lumbalgias, Ciáticas, Problemas discales, Tendinitis, Contracturas…", 
+            "price": "33.60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Depilación Laser Zona Media", 
+            "description": "Bono de 5 sesiones. Elimina para siempre el vello. Tratamiento seguro para todo tipo de pieles. Valido para medias piernas, medios brazos, hombros, Ingles brasileñas, gluteos, lumbares, facial (mujer) o perfil de la barba (hombre). Para más información consulte con el centro.", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Depilacion Láser Zona Pequeña", 
+            "description": "Elimina de manera permanente el vello con este tratamiento especialmente diseñado para tratar todo tipo de pieles de forma segura. Valido para zonas pequeñas: axilas, ingles, labio superior, linea de alba, mentón, nuca, patillas, cuello, dedos... Para más información consulte con el centro.", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Depilacion Laser Zona Grande", 
+            "description": "Bono de 5 sesiones. Olvídate para siempre del vello. Válido para piernas completas o brazos completos, pubis hombre, pecho y abdomen o espalda. Para más información consulte con el centro.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Laser De Zona Grande", 
+            "description": "Olvídate para siempre del vello. Válido para piernas completas o brazos completos, pubis hombre, pecho y abdomen o espalda. Para más información consulte con el centro.", 
+            "price": "100 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Laser De Zona Pequeña", 
+            "description": "Elimina de manera permanente el vello con este tratamiento especialmente diseñado para tratar todo tipo de pieles de forma segura. Valido para zonas pequeñas: axilas, ingles, labio superior, linea de alba, mentón, nuca, patillas, cuello, dedos...", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Laser De Zona Mediana", 
+            "description": "Elimina para siempre el vello. Tratamiento seguro para todo tipo de pieles. Valido para medias piernas, medios brazos u hombros, Ingles brasileñas, gluteos, lumbares, facial (mujer) o perfil de la barba (hombre).", 
+            "price": "135 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

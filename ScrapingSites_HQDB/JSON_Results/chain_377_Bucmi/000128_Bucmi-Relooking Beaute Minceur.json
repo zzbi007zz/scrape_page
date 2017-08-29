@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Relooking Beaute Minceur", 
+    "scrape_page": "https://www.bucmi.com/Barcelona.html?page=30", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "41.3859828000", 
+    "longitude": "2.1311153000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/relooking-beaute-minceur", 
+    "office_number": "601448009", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro de estética Relooking Beaute Minceur situado en Les Corts, Barcelona, ofrece gran variedad de tratamientos faciales de rejuvenecimiento, remodelante corporal, presoterapia, criolipólisis y fotodepilación entre otros. Reserva ahora online.", 
+    "services": [
+        {
+            "service": "Bono 3 Sesiones Tratamiento Corporal Remodelante", 
+            "description": "Para obtener los mejores resultados de nuestros tratamientos remodelantes siempre realizamos un estudio previo para después aconsejar cual es el mejor método para cada caso. Si reservas este bono te realizaremos el estudio y después podrás disfrutar de 3 sesiones en las que se te aplicará un tratamiento personalizado (electrolipólisis, electroestimulación, drenaje o ultrasonido), una sesión de presoterapia con infrarrojos y una sesión de thermosudación.", 
+            "price": "69.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Presoterapia Einfrarojos", 
+            "description": "La retención de líquidos y la mala circulación pueden afectar a nuestro bienestar diario provocando malestares y molestias importantes. Para hacer frente a estos problemas y que no afecten a tu bienestar, puedes contar con nuestro pack de 6 sesiones de presoterapia (drenaje mediante un mono de presión controlada) e infrarrojos. Además, ayudan a reducir grasa, toxinas, la flacidez y estimula el colágeno y la consistencia de los tejidos. ¡Te encantará!", 
+            "price": "150.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Fotorejuvenecimiento Facial", 
+            "description": "El sol y el paso del tiempo suelen producir en nuestra piel arrugas, laxitud, rugosidad, poros grandes, venitas rojas y pigmentaciones irregulares. Si quieres reducir estos signos y quieres reducirlos para mantener un aspecto saludable en tu cutis, prueba nuestro bono de 5 sesión de fotorejuvenecimiento facial con el que trabajamos rostro, cuello y escote para generar colágeno mejorando la elasticidad de la piel y su aspecto.", 
+            "price": "240.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 3 Sesiones Tratamiento Corporal Remodelante", 
+            "description": "Para obtener los mejores resultados de nuestros tratamientos remodelantes siempre realizamos un estudio previo para después aconsejar cual es el mejor método para cada caso. Si reservas este bono te realizaremos el estudio y después podrás disfrutar de 3 sesiones en las que se te aplicará un tratamiento personalizado (electrolipólisis, electroestimulación, drenaje o ultrasonido), una sesión de presoterapia con infrarrojos y una sesión de thermosudación.", 
+            "price": "69.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Presoterapia Einfrarojos", 
+            "description": "La retención de líquidos y la mala circulación pueden afectar a nuestro bienestar diario provocando malestares y molestias importantes. Para hacer frente a estos problemas y que no afecten a tu bienestar, puedes contar con nuestro pack de 6 sesiones de presoterapia (drenaje mediante un mono de presión controlada) e infrarrojos. Además, ayudan a reducir grasa, toxinas, la flacidez y estimula el colágeno y la consistencia de los tejidos. ¡Te encantará!", 
+            "price": "150.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Fotorejuvenecimiento Facial", 
+            "description": "El sol y el paso del tiempo suelen producir en nuestra piel arrugas, laxitud, rugosidad, poros grandes, venitas rojas y pigmentaciones irregulares. Si quieres reducir estos signos y quieres reducirlos para mantener un aspecto saludable en tu cutis, prueba nuestro bono de 5 sesión de fotorejuvenecimiento facial con el que trabajamos rostro, cuello y escote para generar colágeno mejorando la elasticidad de la piel y su aspecto.", 
+            "price": "240.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pack Criolipólisis y Presoterapia", 
+            "description": "Este completo pack nos permite actuar sobre la grasa localizada para disolverla y drenarla para facilitar su eliminación natural. Por un lado, con la criolipólisis aplicamos frío sobre la piel (entre 5Co y -10Co) actuando sobre la grasa localizada para destruir las células grasas, y por otro, aplicamos presoterapia con infrarrojos para drenar grasa y líquidos retenidos, desobstruir el sistema linfático y reducir la flacidez. ¡Resérvalo ya y consigue una silueta 10!", 
+            "price": "130.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 6 Sesiones Criolipólisis", 
+            "description": "Para conseguir resultados eficaces en lo que a eliminación de grasa localizada se refiere, la clave es elegir el tratamiento adecuado y ser constante en el tiempo. Ahora te lo ponemos fácil con nuetsro bono de 6 sesiones de Criolipólisis. Esta tecnología consiste en aplicar frío (entre 5Co y -10Co) penetra a través de la piel para actuar sobre las células grasas para disolverlas y evitar su reproducción. ¡Resérvalo ya y líbrate de la grasa localizada!", 
+            "price": "574.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Corporal Reductor 4 en 1", 
+            "description": "Si lo que quieres es remodelar por completo tu figura, reducir volumen y grasa, este Pack de Estudio Morfológico Corporal y 4 Tratamientos en 1 es perfecto para ti. Esté método proveniente de la innovación francesa incluye una sesión de ultrasonidos no focalizados, eslectrolipólisis, electrestimulación y drenaje linfático. Resérvalo y combínalo con dieta saludable y ejercicio y consigue el cuerpo que estás buscando.", 
+            "price": "169 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bono 10 Sesiones Fotodepilación", 
+            "description": "Debilita el vello hasta casi hacerlo desaparecer por completo con nuestro sistema de fotodepilación. Uno de los sistemas más modernos, que utiliza una luz IPL de baja intensidad que actúa sobre cualquier tipo de color d epiel y vello, resultando menos dolorosa y con menos efectos como quemaduras, rojeces, etc. Este servicio incluye 10 sesiones de fotodepilación para cualquier zona del cuerpo excepto piernas enteras.", 
+            "price": "250 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "name": "Bucmi-Estacion 7", 
+    "scrape_page": "https://www.bucmi.com/Alicante.html?page=5", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "38.3465859999", 
+    "longitude": "-0.4895473000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/estacion", 
+    "office_number": "965228823", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Centro de Estética & Ayurveda, somos algo más que un centro de belleza convencional. Ubicados en Ensanche Diputación, reserva nuestras terapias y conseguirás armonizar tu cuerpo y tu mente y liberarte de las energías negativas. No te arrepentirás.", 
+    "services": [
+        {
+            "service": "Fotodepilación Medias Piernas E Ingles", 
+            "description": "Con la fotodepilación podrás decir adiós al vello, ¡para siempre! Tras varias sesiones conseguirás una reducción muy significativa del mismo, gracias a que la luz ataca al nacimiento del vello. Este servicio comprende una sesión de fotodepilación en medias piernas e ingles.", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Piernas, Ingles, Axilas, Brazos, Labio", 
+            "description": "El pack de depilación más completo y a precio low cost. Despídete del vello durante semanas y consigue una piel lisa y sedosa. El servicio incluye depilación en piernas completas, ingles, axilas, brazos y labio.", 
+            "price": "450.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "En cuestión de 60 minutos conseguirás una manicura que durará ¡semanas! No te lo pieras y apuntate a la manicura semipermanente.El esmaltado semipermanente no se agriteta y mantiene tus uñas brillantes y estupendas durante mucho más tiempo.", 
+            "price": "360.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manipedi Basica", 
+            "description": "Servicio especial LowCost en Estación 7. Luce unas manos y pies perfectos en cualquier ocasión. El servicio incluye una manicura y pedicura básica con esmaltado. Limamos, tratamos tus cutículas y esmaltamos para que disfrutes de un color que estarás observando todo el día.", 
+            "price": "60.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Drenante Y Circulatorio", 
+            "description": "Tratamiento corporal para piernas y abdomen que ayudan a reducir y tratar problemas de celulitis y flacidez. Verás una sifnificativa reducción de la retención de líquidos, la piel más tersa y elástica. El resultado te sorprenderá.", 
+            "price": "85 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Completa", 
+            "description": "Si quieres ver tu cutis libre de impurezas, esta higiene facial es perfecta para ti. Comenzamos por desmaquillar el rostro, renovación celular, extracción e hidratación. Conseguirás una piel tersa y luminosa, ¡pruébalo!", 
+            "price": "27.8 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 10 Masajes Reductor Y Reafirmante", 
+            "description": "Bono de 10 masajes y 5 gratis reductor y reafirmante. Tratamiento para todo el cuerpo que ayuda a tonificar además de ayudar a perder tallas y evitar la flacidez. Te verás y te verán estupenda, ¡anímate!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono 10 Masajes Drenante Y Circulatorio", 
+            "description": "Bono de 10 masajes drenantes y circulatorios. Tratamiento corporal para piernas y abdomen que ayudan a reducir y tratar problemas de celulitis y flacidez. Masaje Drenaje Y CirculatorioTratamiento corporal para piernas y abdomen que ayudan a reducir y tratar problemas de celulitis y flacidez. Verás una sifnificativa reducción de la retención de líquidos, la piel más tersa y elástica. El resultado te sorprenderá.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Limpieza De Cutis Juvenil", 
+            "description": "Esta limpieza está pensada para las pieles de los más jóvenes. Debido a los cambios hormonales experimentados es necesario realizar una limpieza de cutis que permita eliminar las impurezas y suciedad del rostro. El servicio comprende una exfoliación y limpieza profunda de comedones", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje Drenante Y Circulatorio", 
+            "description": "Tratamiento corporal para piernas y abdomen que ayudan a reducir y tratar problemas de celulitis y flacidez. Verás una sifnificativa reducción de la retención de líquidos, la piel más tersa y elástica. El resultado te sorprenderá.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Mukha Ayurveda", 
+            "description": "Tratamiento natural rejuvenecedor (Rasayana). El tratamiento se realiza con productos 100% naturales, entre ellos se encuentran especias, plantas y flores. El efecto que conseguimos con esta combinación es limpieza de la piel depura las impurezas y equilibra el ph de la piel.", 
+            "price": "675 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Saho Japonés", 
+            "description": "Realízate este tratamiento facial con el que conseguirás una exfoliación profunda y alta luminosidad en tu rostro, gracias a la técnica Kobido. Consiste en un peeling de dermoabrasión manual y cóctel de ácidos, y productos calmantes, regenerantes y renovadores.", 
+            "price": "450 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tratamiento Reductor Y Reafirmante", 
+            "description": "Tratamiento de todo el cuerpo, destinado a perder volumen y tonificar la piel a la vez que perdemos tallas, evitando una flacidez mas importante. Te verás y te verán estupenda, ¡anímate!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Higiene Facial Completa", 
+            "description": "Si quieres ver tu cutis libre de impurezas, esta higiene facial es perfecta para ti. Comenzamos por desmaquillar el rostro, renovación celular, extracción e hidratación. Conseguirás una piel tersa y luminosa, ¡pruébalo!", 
+            "price": "45 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "En cuestión de 60 minutos conseguirás una manicura que durará ¡semanas! No te lo pieras y apuntate a la manicura semipermanente.El esmaltado semipermanente no se agriteta y mantiene tus uñas brillantes y estupendas durante mucho más tiempo.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manipedi Basica", 
+            "description": "Servicio especial LowCost en Estación 7. Luce unas manos y pies perfectos en cualquier ocasión. El servicio incluye una manicura y pedicura básica con esmaltado. Limamos, tratamos tus cutículas y esmaltamos para que disfrutes de un color que estarás observando todo el día.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje a 4 manos", 
+            "description": "Este tipo de masaje lo realizan dos expertos y consiste en combinar movimientos simultáneos. Al actuar de manera sincronizada sobre ambos lados del cuerpo, se logra alcanzar una profunda relajación.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Terapia Ayurveda Panchakarma I", 
+            "description": "Este masaje tiene cuatro objetivos específicos: mejorar la circulación sanguínea, estimular y fortalecer el sistema linfático, movilizar las articulaciones y abrir el flujo del “Prana” o fuerza vital.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Espalda Piedras Volcánicas", 
+            "description": "Tratamiento que combina masaje manual con aceites esenciales y masaje con piedras volcánicas calientes a lo largo de la columna vertebral para conseguir un mayor efecto relajante.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Terapia Ayurveda Mhuka Abhyanga", 
+            "description": "Este masaje se aplica sobre el rostro para potenciar la nutrición de los tejidos, retrasar la aparición de arrugas y eliminar las tensiones faciales. El terapeuta también trabaja cuello, escote y brazos.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Mukha Ayurveda", 
+            "description": "Tratamiento natural rejuvenecedor (Rasayana). El tratamiento se realiza con productos 100% naturales, entre ellos se encuentran especias, plantas y flores. El efecto que conseguimos con esta combinación es limpieza de la piel depura las impurezas y equilibra el ph de la piel.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Fotodepilación Medias Piernas E Ingles", 
+            "description": "Con la fotodepilación podrás decir adiós al vello, ¡para siempre! Tras varias sesiones conseguirás una reducción muy significativa del mismo, gracias a que la luz ataca al nacimiento del vello. Este servicio comprende una sesión de fotodepilación en medias piernas e ingles.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Piernas, Ingles, Axilas, Brazos, Labio", 
+            "description": "El pack de depilación más completo y a precio low cost. Despídete del vello durante semanas y consigue una piel lisa y sedosa. El servicio incluye depilación en piernas completas, ingles, axilas, brazos y labio.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

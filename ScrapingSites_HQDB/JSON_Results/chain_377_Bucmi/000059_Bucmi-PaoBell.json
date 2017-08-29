@@ -1,0 +1,123 @@
+{
+    "name": "Bucmi-PaoBell", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=60", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3474047000", 
+    "longitude": "-3.7033641000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/paobell", 
+    "office_number": "912635151", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "El centro de estética PaoBell, situado en Villaverde Alto, Madrid, ofrece masajes relajante para conseguir eliminar el estrés que vamos acumulando sía a día, depilación con láser y tratamientos faciales entre otros. No esperes más y reserva ahora online.", 
+    "services": [
+        {
+            "service": "Masaje Relajante", 
+            "description": "Elimina el estrés del día a día y ven a nuestro centro a disfrutar de 60 minutos de un agradable masaje relajante con manteca de Karité templado y terminación de piedras calientes. Sensación de placer absoluto gracias al friccionamiento de las piedras contra tu cuerpo con una agradable temperatura. No lo pienses, ven, relájate y sobretodo.. ¡disfruta!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "En Paobell queremos que te sientas guapa. Nuestros estilistas conseguirán que luzcas una mirada cautivadora gracias al tratamiento de tinte y permanente de pestañas. Luce 24h como si estuvieses recién maquillada, efecto máscara de pestañas. Lograrás una mirada más intensa y unas pestañas curvadas que harán que tu mirada no pase desapercibida.", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad", 
+            "description": "Si sientes que tu piel va notando el paso del tiempo, acude a nuestro centro y disfruta de un tratamiento facial antiarrugas con velo de colágeno y elastina. Elimina las arrugas, mejora las líneas de expresión y devuelve a tu piel la juventud que necesita. De la mano de nuestros profesionales más cualificados podrás presumir de un rostro más vivo y con una firmeza inigualable.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono Rayos Uva", 
+            "description": "Consigue un cuerpo perfectamente bronceado con este bono de 10 sesiones de rayos UVA y presume de moreno todo el año!!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "En Paobell queremos que te sientas guapa. Nuestros estilistas conseguirán que luzcas una mirada cautivadora gracias al tratamiento de tinte y permanente de pestañas. Luce 24h como si estuvieses recién maquillada, efecto máscara de pestañas. Lograrás una mirada más intensa y unas pestañas curvadas que harán que tu mirada no pase desapercibida.", 
+            "price": "23 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamiento Facial Antiedad", 
+            "description": "Si sientes que tu piel va notando el paso del tiempo, acude a nuestro centro y disfruta de un tratamiento facial antiarrugas con velo de colágeno y elastina. Elimina las arrugas, mejora las líneas de expresión y devuelve a tu piel la juventud que necesita. De la mano de nuestros profesionales más cualificados podrás presumir de un rostro más vivo y con una firmeza inigualable.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Elimina el estrés del día a día y ven a nuestro centro a disfrutar de 60 minutos de un agradable masaje relajante con manteca de Karité templado y terminación de piedras calientes. Sensación de placer absoluto gracias al friccionamiento de las piedras contra tu cuerpo con una agradable temperatura. No lo pienses, ven, relájate y sobretodo.. ¡disfruta!", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono depilación láser ingles y axilas", 
+            "description": "Estupendo pack de una sesión de 30 minutos de depilación con láser de diodo en ingles y axilas. Elimina el vello de tus zonas más íntimas de manera permanente y olvídate de otros métodos depilatorios.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bono depilación láser labio, mentón y patillas", 
+            "description": "¿Quieres eliminar de forma permanente el vello facial de tu rostro? en nuestro centro podrás disfrutar de un estupendo bono de una sesión de 15 minutos con láser de diodo donde nuestros profesionales tratarán labio, mentón y patillas para que puedas olvidarte para siempre de otros métodos depilatorios.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo zona mediana", 
+            "description": "Disfruta de 25 minutos de sesión de láser de diodo y elige la zona en la que quieres eliminar el vello de forma progresiva y permanente. Con este servicio puedes escoger entre medias piernas, ingles brasileñas, brazos, espalda o pecho y podrás olvidarte para siempre de otros métodos depilatorios. El servicio incluye una sesión de 25 minutos a elegir la zona a tratar.", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo zona mini", 
+            "description": "Disfruta de 5 minutos de sesión de láser de diodo y elige la zona en la que quieres eliminar el vello de forma permanente. Con este servicio puedes escoger entre línea alba, mentón, labio, entrecejo o patillas y ¡olvídate de otros métodos depilatorios para siempre! El servicio incluye una sesión de 5 minutos a elegir la zona a tratar.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo zona Pequeña", 
+            "description": "Disfruta de 15 minutos de sesión de láser de diodo y elige la zona en la que quieres eliminar el vello de forma progresiva y permanente. Con este servicio puedes escoger entre ingles, axilas, abdomen, cuello, facial, glúteos, hombros o lumbar y olvidarte para siempre de otros métodos depilatorios para siempre. El servicio incluye una sesión a elegir la zona a tratar.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono Depilación Láser 1 Sesión", 
+            "description": "Estupendo pack de una sesión de 30 minutos de depilación con láser de diodo en pecho o espalda y abdomen o lumbar. Combina dos zonas de tu cuerpo donde quieres eliminar ese vello molesto de forma permanente y olvídate para siempre de otros métodos depilatorios.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Diodo Zona Grande", 
+            "description": "Disfruta de una hora de sesión de láser de diodo y elige la zona en la que quieres eliminar el vello de forma progresiva y permanente. Con este servicio puedes escoger entre piernas completas o pubis y olvidarte para siempre de otros métodos depilatorios. El servicio incluye una sesión de 60 minutos a elegir la zona a tratar.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

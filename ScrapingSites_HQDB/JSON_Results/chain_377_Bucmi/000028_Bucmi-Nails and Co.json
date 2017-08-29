@@ -1,0 +1,200 @@
+{
+    "name": "Bucmi-Nails and Co", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=29", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4297275000", 
+    "longitude": "-3.6857846999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/nailsandco", 
+    "office_number": "915768698", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Somos un centro de estética y belleza especializado en el cuidados de pies y manos. Estamos en el Barrio Salamanca, en Madrid. Conocemos las últimas tendencias en pedicura o manicura, así como extensiones de gel ,acrílico y porcelana. Venga y disefrútelo", 
+    "services": [
+        {
+            "service": "Bronceado Caña De Azucar Y Peeling", 
+            "description": "Bronceate en solo unos minutos en Nails And Co gracias al bronceado de caña de azúcar. es un tratamiento natural, inocuo y sin efectos secundarios que bronceará tu piel en solo unos minutos. El servicio consta de un peeling corporal y facial, ducha y aplicación de bronceador. Reserva tu cita presume de bronceado durante días.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "Luce una manicura bonita y cuidada de Nails And Co. El servicio consta de limado de la uña natural con la forma deseada, retirada de cuticulas, hidratación y esmaltado del color que más te guste. Te encantará.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "Si quieres una manicura perfecta durante mas tiempo, reserva tu cita ya en Nails And Co, y disfruta por más tiempo de tu manicura completa con esmaltado semipermanente. El servicio consta de limado de la forma deseada de la uña natural, retirada de cutículas, hidratación y esmaltado semipermante del color que tu elijas de nuestra gama.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Destapa tus pies y luce una pedicura perfecta de manos de nuestro equipo en Nails And Co. El servicio consta de limado de la uña natural de la forma deseada, tratamiento de durezas, hidratación y esmaltado a elegir de nuestra gama. Querrás repetir sin dudarlo.", 
+            "price": "48 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente", 
+            "description": "Estrena tus sandalias y dale la bienvenida al verano luciendo tu pedicura perfecta durante mas tiempo. En Nails And Co te realizamos tu pedicura completa junto con el esmaltado semipernanente para que disfrutes de unos pies como más te gustan durante semanas. Reserva tu cita ya.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Bronceado Caña De Azucar Y Peeling", 
+            "description": "Bronceate en solo unos minutos en Nails And Co gracias al bronceado de caña de azúcar. es un tratamiento natural, inocuo y sin efectos secundarios que bronceará tu piel en solo unos minutos. El servicio consta de un peeling corporal y facial, ducha y aplicación de bronceador. Reserva tu cita presume de bronceado durante días.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Anticelulítico Reductor", 
+            "description": "Con este masaje anticelulítico lograrás eliminar la odiosa celulitis y todos sus consecuencias como la piel de naranja, la piel flácida etc. No dudes más en reservar este masaje en el que te sentirás relajada consiguiendo mejorar la tersura y el aspecto de tu piel. Pruébalo ya.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "Luce unas pestañas de infarto con este tinte y permanente de pestañas. Conseguiremos aportar color a tus pestañas para que se vean naturales pero a la vez como si te hubieses aplicado máscara de pestañas, además le daremos forma y curvatura para que luzcan más bonitas. Te encantarán.", 
+            "price": "54 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tratamientos Faciales", 
+            "description": "Si sientes tu piel apagada y sin vida, estas en el centro adecuado. Reserva tu cita ya y disfruta de todo un ritual de limpieza de manos de cualquiera de nuestros profesionales. Sentirás como tu rostro se recupera y tu piel recobra toda su firmeza y luz natural. Te encantará. Utilizamos los prestigiosos productos de Dermalogica o Natura Bisse.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Tto Corporal Y Facial Combinado Natura Bissé", 
+            "description": "Este servicio combina un tratamiento facial y corporal con vitamina C y oxígeno. Un tratamiento que te ayudará a estar perfecta de arriba a abajo, no te lo pienses y ahorra tiempo reservando ambos tratamientos de una sola vez. Mejora el aspecto de tu piel, estamos seguros de que saldrás encantado.", 
+            "price": "140 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Extensión De Uñas", 
+            "description": "Si eres de las que no consigue dejarse las uñas largas pero quiere lucir unas manos perfectas en esa ocasión especial que se avecina, sólo tienes que reservar esta extensión de uñas de gel. Unas manos perfectas, de revista. ¿A qué estás esperando para reservar online?", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "Luce una manicura bonita y cuidada de Nails And Co. El servicio consta de limado de la uña natural con la forma deseada, retirada de cuticulas, hidratación y esmaltado del color que más te guste. Te encantará.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Con Tratamiento", 
+            "description": "Dale a tus manos lo que más necesiten.En nuestro centro puedes eligir de nuestra carta de tratamientos lo que mas te apetezca, rejuvenecedor, hidratante con parafina, despigmentate o refrescante entre otros. Mima tus manos, ellas te lo agradecerán. No lo dudes más y reserva tu cita ya.", 
+            "price": "46 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente", 
+            "description": "Si quieres una manicura perfecta durante mas tiempo, reserva tu cita ya en Nails And Co, y disfruta por más tiempo de tu manicura completa con esmaltado semipermanente. El servicio consta de limado de la forma deseada de la uña natural, retirada de cutículas, hidratación y esmaltado semipermante del color que tu elijas de nuestra gama.", 
+            "price": "55 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura", 
+            "description": "Destapa tus pies y luce una pedicura perfecta de manos de nuestro equipo en Nails And Co. El servicio consta de limado de la uña natural de la forma deseada, tratamiento de durezas, hidratación y esmaltado a elegir de nuestra gama. Querrás repetir sin dudarlo.", 
+            "price": "48 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Pedicura Con Tratamiento", 
+            "description": "Descubre ya esta pedicura con tratamiento para lucir unos pies perfectos. Este refrescante y relajante tratamiento ayudará a hidratar tus pies y nutrirlos con el tratamiento de parafina, además incluye una aromaterapia del árbol del té y piedra pómez. Reserva ya con Bucmi.com", 
+            "price": "68 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente", 
+            "description": "Estrena tus sandalias y dale la bienvenida al verano luciendo tu pedicura perfecta durante mas tiempo. En Nails And Co te realizamos tu pedicura completa junto con el esmaltado semipernanente para que disfrutes de unos pies como más te gustan durante semanas. Reserva tu cita ya.", 
+            "price": "69 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Masaje Anticelulítico Reductor", 
+            "description": "Con este masaje anticelulítico lograrás eliminar la odiosa celulitis y todos sus consecuencias como la piel de naranja, la piel flácida etc. No dudes más en reservar este masaje en el que te sentirás relajada consiguiendo mejorar la tersura y el aspecto de tu piel. Pruébalo ya.", 
+            "price": "75 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Masaje Relajante", 
+            "description": "Si necesitas relajarte, aliviar tensiones y disfrutar de unos minutos para ti, apúntate este servicio en la agenda. Ponte en manos de nuestros profesionales y relájate de lo lindo. Un servicio pensado solo para ti. No esperes más y reserva en tan solo un clic. Te encantará.", 
+            "price": "65 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Cera Abdomen Y Pecho Hombres", 
+            "description": "Elimina el vello corporal tan molesto con esta depilación de cera, el método más tradicional pero igual de efectivo. Olvídate de la cuchilla por una temporada y confía tu piel a la cera. No te compliques más reserva a tan solo un clic, una piel suave y perfecta por más tiempo. Te encantará.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Brasileñas", 
+            "description": "Elimina el vello corporal tan molesto con esta depilación de cera, el método más tradicional pero igual de efectivo. Olvídate de la cuchilla por una temporada y confía tu piel a la cera. No te compliques más reserva a tan solo un clic, una piel suave y perfecta por más tiempo. Te encantará.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles Normales", 
+            "description": "Elimina el vello corporal tan molesto con esta depilación de cera, el método más tradicional pero igual de efectivo. Olvídate de la cuchilla por una temporada y confía tu piel a la cera. No te compliques más reserva a tan solo un clic, una piel suave y perfecta por más tiempo. Te encantará.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cera Ingles, Intergluteal Y Pubis", 
+            "description": "Elimina el vello corporal tan molesto con esta depilación de cera, el método más tradicional pero igual de efectivo. Olvídate de la cuchilla por una temporada y confía tu piel a la cera. No te compliques más reserva a tan solo un clic, una piel suave y perfecta por más tiempo. Te encantará.", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Cera Medias Piernas", 
+            "description": "Elimina el vello corporal tan molesto con esta depilación de cera, el método más tradicional pero igual de efectivo. Olvídate de la cuchilla por una temporada y confía tu piel a la cera. No te compliques más reserva a tan solo un clic, una piel suave y perfecta por más tiempo. Te encantará.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Cera Piernas Enteras", 
+            "description": "Elimina el vello corporal tan molesto con esta depilación de cera, el método más tradicional pero igual de efectivo. Olvídate de la cuchilla por una temporada y confía tu piel a la cera. No te compliques más reserva a tan solo un clic, una piel suave y perfecta por más tiempo. Te encantará.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Azul de Rizos Téllez", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=76", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4019011000", 
+    "longitude": "-3.6811575000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/rizostellez", 
+    "office_number": "914333613", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Azul de Rizos es una cadena de salones de belleza, pertenecientes a la popular firma de Rizos, donde se dedican en exclusiva a la belleza de sus clientes, con el mejor trato y en unas instalaciones agradables. ¡Ven a conocer nuestro salón de Pacífico!", 
+    "services": [
+        {
+            "service": "Corte Hombre", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les preocupa su belleza. Disfruta de nuestros cortes de tendencia y déjate llevar por nuestros expertos estilistas. El servicio incluye el corte asesorado, lavado y productos de acabado para el peinado.", 
+            "price": "10.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Peinar", 
+            "description": "¿Quieres sanear tus puntas? ¿O darle un nuevo toque a tu melena? Ven a Azul de Rizos y nuestros estilistas adaptarán tu corte a tu estilo y personalidad para que luzcas un look a la moda. Incluye el corte, el lavado con champú y el peinado", 
+            "price": "46.50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte, Color Y Peinar", 
+            "description": "El pack perfecto para renovar tu cabello con las ultimas tendencias en color y corte. ¡Ven a darte un cambio! Incluye el lavado con champú y acondicionador y el peinado del pelo. Disfruta de este pack gracias a Bucmi.com.", 
+            "price": "33.50 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Peinado", 
+            "description": "Si tienes una cita importante, que te ha surgido de repente, y quieres ir perfecta; o simplemente, te cuesta apañarte con el secador y la plancha, y te apetece verte guapa, ven a Azul de Rizos y disfruta de nuestro tradicional servicio de lavar y peinar. ¡Te encantará el resultado!", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Y Peinado", 
+            "description": "¿Sientes tu pelo apagado? ¿Echas de menos como te lo deja el sol en verano? Ven a Azul de Rizos y disfruta de nuestro servicio de mechas para poder iluminar tu melena. El servicio incluye lavado con champú y acondicionador, pero no incluye el peinado.", 
+            "price": "34 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Color Y Peinar", 
+            "description": "¿Aburrida de tu melena? ¿Te apetece darle un toque divertido a tu estilo? Reserva nuestro completo servicio de coloración y escoge entre nuestra gama de colores o déjate asesorar por nuestros estilistas de Azul de Rizos. Incluye lavado y peinado.", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les preocupa su belleza. Disfruta de nuestros cortes de tendencia y déjate llevar por nuestros expertos estilistas. El servicio incluye el corte asesorado, lavado y productos de acabado para el peinado.", 
+            "price": "15.5 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Y Peinar", 
+            "description": "¿Quieres sanear tus puntas? ¿O darle un nuevo toque a tu melena? Ven a Azul de Rizos y nuestros estilistas adaptarán tu corte a tu estilo y personalidad para que luzcas un look a la moda. Incluye el corte, el lavado con champú y el peinado", 
+            "price": "58.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte, Color Y Peinar", 
+            "description": "El pack perfecto para renovar tu cabello con las ultimas tendencias en color y corte. ¡Ven a darte un cambio! Incluye el lavado con champú y acondicionador y el peinado del pelo. Disfruta de este pack gracias a Bucmi.com.", 
+            "price": "42 €", 
+            "service_category": null, 
+            "duration": "120 min"
+        }, 
+        {
+            "service": "Corte, Mechas Y Peinado", 
+            "description": "Reserva este pack completo de belleza para tu pelo y consigue lucir un pelo suave, luminoso y lleno de vida. ¡Ya es hora de que le des un toque de luz a tu melena para aportarle movimiento! El servicio incluye el lavado con champú y acondicionador, y el peinado definido del pelo.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

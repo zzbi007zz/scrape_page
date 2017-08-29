@@ -1,0 +1,277 @@
+{
+    "name": "Bucmi-STILPLA Estilistas", 
+    "scrape_page": "https://www.bucmi.com/Valencia.html?page=13", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "39.4640934000", 
+    "longitude": "-0.3672902000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/stilpla", 
+    "office_number": "963952576", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Desde 1991 no hemos parado de seguir formándonos para así crear nuestros propios conceptos, ideas y estilos. Reservamos un lugar muy acogedor para los más pequeños de la casa, somos especialistas en cortes de niños. Ven a conocernos al barrio de Ensanche", 
+    "services": [
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Disfruta de un estilo a la moda y depurado gracias a nuestros estilosos cortes de pelo para el hombre según las tendencias del mercado. El servicio incluye lavado y peinado con productos de styling. ¡Porque a los hombres también les preocupa su cuidado! Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "12.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "Disfruta de un corte de tendencia gracias a nuestros expertos peluqueros y sanea tu melena. El servicio incluye lavado con champú y masaje capilar pero no incluye el peinado de la melena. Reserva online con Bucmi.com. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "11.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas Y Peinar Corto", 
+            "description": "Ilumina tu cabello aportandole un toque de claridad con nuestro servicio de mechas tradicionales. Aclararemos un par de tonos tu melena para que luzca brillante. Incluye lavado con champú y mascarilla y peinado para que salgas perfecta. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte De Niña", 
+            "description": "Hay un espacio específico para los niños en donde cortarse el pelo es súper divertido. Tráete a la princesa de la casa y le haremos un corte estiloso con el que saldrá encantada. Te encantará como la dejamos. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Niño", 
+            "description": "Hay un espacio específico para los niños en donde cortarse el pelo es súper divertido. Tráete al peque de la casa para que sea el más molón del colegio. Te encantará como le dejamos. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Media Melena", 
+            "description": "¿Quieres olvidarte de la molesta humedad por un tiempo? No dudes en reservar nuestro alisado de keratina 100% libre de formol y otros sulfatos para que no dañen tu melena, y consigue domar de una vez tus rizos y peinar tu melena. No te arrepentirás del resultado. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Corto", 
+            "description": "¿Quieres olvidarte de la molesta humedad por un tiempo? No dudes en reservar nuestro alisado de keratina 100% libre de formol y otros sulfatos para que no dañen tu melena, y consigue domar de una vez tus rizos y peinar tu melena. No te arrepentirás del resultado. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Largo", 
+            "description": "¿Quieres olvidarte de la molesta humedad por un tiempo? No dudes en reservar nuestro alisado de keratina 100% libre de formol y otros sulfatos para que no dañen tu melena, y consigue domar de una vez tus rizos y peinar tu melena. No te arrepentirás del resultado. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color", 
+            "description": "Si buscas un cabello intenso, con personalidad y lleno de color y brillo, ¡éste es tu servicio! Nuestros profesionales aplican el tinte con maestría para crear un resultado repleto de matices. Lavamos el pelo y secamos al natural. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "60 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Color Y Peinado Corto", 
+            "description": "Luce melena gracias a este servicio que te permite disfrutar de un cabello lleno de color. Incluye el lavado con productos específicos, la aplicación del color y finalmente, te peinamos para que salgas ¡estupenda! Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "120 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Color Y Peinado Largo", 
+            "description": "Luce melena gracias a este servicio que te permite disfrutar de un cabello lleno de color. Incluye el lavado con productos específicos, la aplicación del color y finalmente, te peinamos para que salgas ¡estupenda! Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Color Y Peinado Media Melena", 
+            "description": "Luce melena gracias a este servicio que te permite disfrutar de un cabello lleno de color. Incluye el lavado con productos específicos, la aplicación del color y finalmente, te peinamos para que salgas ¡estupenda! Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Corto", 
+            "description": "Disfruta de un corte de tendencia gracias a nuestros expertos peluqueros y sanea tu melena. El servicio incluye lavado con champú y masaje capilar y peinado de la melena con definición. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Largo", 
+            "description": "Disfruta de un corte de tendencia gracias a nuestros expertos peluqueros y sanea tu melena. El servicio incluye lavado con champú y masaje capilar y peinado de la melena con definición. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Cortar Y Peinar Media Melena", 
+            "description": "Disfruta de un corte de tendencia gracias a nuestros expertos peluqueros y sanea tu melena. El servicio incluye lavado con champú y masaje capilar y peinado de la melena con definición. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "32 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Corte De Pelo Hombre", 
+            "description": "Disfruta de un estilo a la moda y depurado gracias a nuestros estilosos cortes de pelo para el hombre según las tendencias del mercado. El servicio incluye lavado y peinado con productos de styling. ¡Porque a los hombres también les preocupa su cuidado! Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "38 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte De Pelo Mujer", 
+            "description": "Disfruta de un corte de tendencia gracias a nuestros expertos peluqueros y sanea tu melena. El servicio incluye lavado con champú y masaje capilar pero no incluye el peinado de la melena. Reserva online con Bucmi.com. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Hombre Con Máquina Y Tijera", 
+            "description": "Para que ellos también se vean guapos con un estilo favorecedor, en Stilpla te ofrecemos este servicio que incluye corte a máquina y perfilado con tijera. También incluimos el lavado y secado natural. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Mechas", 
+            "description": "Ilumina tu cabello aportandole un toque de claridad con nuestro servicio de mechas tradicionales. Aclararemos un par de tonos tu melena para que luzca brillante. Incluye lavado con champú y mascarilla pero no peinado. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "22 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Y Peinar Corto", 
+            "description": "Ilumina tu cabello aportandole un toque de claridad con nuestro servicio de mechas tradicionales. Aclararemos un par de tonos tu melena para que luzca brillante. Incluye lavado con champú y mascarilla y peinado para que salgas perfecta. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Mechas Y Peinar Media Melena", 
+            "description": "Ilumina tu cabello aportandole un toque de claridad con nuestro servicio de mechas tradicionales. Aclararemos un par de tonos tu melena para que luzca brillante. Incluye lavado con champú y mascarilla y peinado para que salgas perfecta.Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "30 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas Y Peinar Pelo Largo", 
+            "description": "Ilumina tu cabello aportandole un toque de claridad con nuestro servicio de mechas tradicionales. Aclararemos un par de tonos tu melena para que luzca brillante. Incluye lavado con champú y mascarilla y peinado para que salgas perfecta. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Maquillaje De Día", 
+            "description": "Si tienes un evento especial o una cita importante a la que quieres acudir guapa pero con un look muy natural, confía en nuestros expertos maquilladores de Stilpla y consigue unos resultados increíbles. Utilizaremos colores nude, para potenciar tu belleza natural. No lo dudes más y haz tu reserva online con Bucmi.com. No te arrepentirás de los resultadosF", 
+            "price": "44 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje De Fiesta", 
+            "description": "Si tienes un evento especial o una cita importante a la que quieres acudir realmente increíble, reserva nuestro completo servicio de maquillaje de noche, donde nos adaptaremos a tu look y a tu estilo. Confía en nuestros expertos maquilladores de Stilpla y consigue unos resultados increíbles. Utilizaremos colores fuertes pero que potencien tu belleza natural. No lo dudes más y haz tu reserva online con Bucmi.com. No te arrepentirás de los resultadosF", 
+            "price": "46 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Maquillaje: Belly Painting", 
+            "description": "El belly painting consiste en realizar dibujos sobre la tripita de nuestras futuras mamás. Si quieres tener un bonito recuerdo, confía en los expertos profesionales de Stilpla y no te arrepentirás del resultado. Utilizamos material profesional, bases de agua no tóxicas, antialérgicas, sin olores molestos y muy fáciles de retirarF", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Manicura", 
+            "description": "Completo servicio de Stilpla con el que podrás presumir de uñas que incluye limado, eliminación de las cutículas y esmaltado del color de tu elección. ¡Disfruta de unas uñas perfectas y se la envidia de tus amigas! Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Permanente", 
+            "description": "Completo servicio de Stilpla con el que podrás presumir de uñas que incluye limado, eliminación de las cutículas y esmaltado del color de tu elección. ¡Disfruta de unas uñas perfectas por más tiempo gracias al esmaltado permanente! Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "50 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Spa", 
+            "description": "El servicio consta de un masaje exfoliante y un estupendo esmaltado con el color que tú elijas. Déjate mimar y luce unas bonitas manos: limamos y retiramos las cutículas. ¿A qué estás esperando para darte un capricho? Haz ya tu reserva con Bucmi.comF", 
+            "price": "12 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Expres", 
+            "description": "Consigue unos pies en muy poco tiempo. Incluye limado, cuidado de las impurezas y esmaltado de tu elección. Este servicio es perfecto para aquellas clientes que les gusta ir guapas pero no tienen mucho tiempo para ponerse a punto. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Permanente", 
+            "description": "Consigue unos pies perfectos y cuidados por más tiempo gracias al esmaltado permanente de Stilpla. Incluye limado, cuidado de las impurezas y esmaltado de tu elección. Este servicio es perfecto para aquellas clientes que les gusta ir guapas pero no tienen mucho tiempo para ponerse a punto. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "17 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Spa", 
+            "description": "Relájate en nuestro sillón Spa y déjate mimar por esta estupenda pedicura que incluye un masaje exfoliante y un esmaltado que te dejará como nueva. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "19 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Relleno Gel", 
+            "description": "Retoque de gel. Cuando ha crecido la uña deberás seguir luciendo tus uñas impecables,por eso te aconsejamos que vuelvas a nuestro salón a rellenar el crecimiento de la uña a las dos o tres semanas de haber realizado la puesta. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "27 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Uñas Gel 1ª Puesta", 
+            "description": "Consigue unas uñas perfectas con esta manicura de gel. El resultado es natural y te permitirá disfrutar de unas manos arregladas por más tiempo. Tendrás las uñas perfectas durante dos o tres semanas. No te arrepentirás del resultado. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "24 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Media Melena", 
+            "description": "¿Quieres olvidarte de la molesta humedad por un tiempo? No dudes en reservar nuestro alisado de keratina 100% libre de formol y otros sulfatos para que no dañen tu melena, y consigue domar de una vez tus rizos y peinar tu melena. No te arrepentirás del resultado. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Corto", 
+            "description": "¿Quieres olvidarte de la molesta humedad por un tiempo? No dudes en reservar nuestro alisado de keratina 100% libre de formol y otros sulfatos para que no dañen tu melena, y consigue domar de una vez tus rizos y peinar tu melena. No te arrepentirás del resultado. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Alisado De Keratina Pelo Largo", 
+            "description": "¿Quieres olvidarte de la molesta humedad por un tiempo? No dudes en reservar nuestro alisado de keratina 100% libre de formol y otros sulfatos para que no dañen tu melena, y consigue domar de una vez tus rizos y peinar tu melena. No te arrepentirás del resultado. Confía en nuestros expertos profesionales de Stilpla y disfruta de unos resultados únicos. ¿A qué estás esperando para hacer tu reserva online? Solo tienes que hacer clic con Bucmi.comF", 
+            "price": "90 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }
+    ]
+}

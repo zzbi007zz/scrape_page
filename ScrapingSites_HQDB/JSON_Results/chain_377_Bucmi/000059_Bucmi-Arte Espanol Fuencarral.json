@@ -1,0 +1,95 @@
+{
+    "name": "Bucmi-Arte Español Fuencarral", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=60", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4958902000", 
+    "longitude": "-3.6876631000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": null, 
+    "office_number": "910826899", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Cadena de peluquerías donde te asesorarán sobre tu imagen. Realizamos gran variedad de servicios con una buena relación en la calidad y en los precios. Reserva con nosotros en Fuencarral, y descubre la gran variedad de ventajas que te ofrecemos.", 
+    "services": [
+        {
+            "service": "Corte Hombre", 
+            "description": "El servicio incluye corte en seco, asesorado por nuestros profesionales conseguiremos ese look que tanto deseas. No incluye lavado.", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar", 
+            "description": "El servicio incluye lavado con champú y peinado con secador. Prepárate para ese día tan especial de la mano de los mejores profesionales.", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer", 
+            "description": "El servicio incluye lavado con champú y corte. Ven a visitarnos si quieres cambiar tu look. ¡No te lo pienses más y reserva tu cita online!", 
+            "price": "7.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mechas", 
+            "description": "En nuestro servicio de Mechas se incluye lavado con champú y mechas, el servicio ideal si quieres devolver la luminosidad a tu cabello.", 
+            "price": "15.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Tinte Cambio de Color", 
+            "description": "El servicio incluye lavado con champú y tinte cambio color. No incluye peinado, para finalizar el servicio realizamos secado natural.", 
+            "price": "10.00 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Corte Hombre", 
+            "description": "El servicio incluye corte en seco, asesorado por nuestros profesionales conseguiremos ese look que tanto deseas. No incluye lavado.", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte, Corte y Peinado", 
+            "description": "El servicio incluye, Lavado, tinte, corte y peinado, el pack perfecto para que estés aún más guapa.", 
+            "price": "25.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Mechas, Corte y Peinado", 
+            "description": "El servicio incluye, lavado, mechas, corte y peinado, dale un nuevo aire a tu pelo con este servicio.", 
+            "price": "30.00 €", 
+            "service_category": null, 
+            "duration": "90 min"
+        }, 
+        {
+            "service": "Lavar Y Peinar", 
+            "description": "El servicio incluye lavado con champú y peinado con secador. Prepárate para ese día tan especial de la mano de los mejores profesionales.", 
+            "price": "6.00 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Corte Mujer", 
+            "description": "El servicio incluye lavado con champú y corte. Ven a visitarnos si quieres cambiar tu look. ¡No te lo pienses más y reserva tu cita online!", 
+            "price": "7.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }
+    ]
+}

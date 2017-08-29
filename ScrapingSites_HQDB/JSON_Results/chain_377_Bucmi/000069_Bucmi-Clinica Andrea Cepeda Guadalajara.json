@@ -1,0 +1,137 @@
+{
+    "name": "Bucmi-Clínica Andrea Cepeda Guadalajara", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=70", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4194383000", 
+    "longitude": "-3.6198358000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/clinica-andrea-cepeda-guadalajara", 
+    "office_number": "913133392", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "La clínica médico estética Andrea Cepeda Guadalaja situada San Blas en Madrid, ofrece gran variedad de tratamientos faciales tales como peeling, microdermoabrasión, mesoterapia facial, bótox y control nutricional entre otros. Reserva ahora tu cita online", 
+    "services": [
+        {
+            "service": "Peeling Facial", 
+            "description": "El peeling facial es un tratamiento indicado para rejuvenecer tu piel, actúa directamente en la epidermis,la capa superficial de la piel. Ayuda a limpiar la piel en profundidad, aportándole densidad y devolviéndole la elasticidad natural.Indicado también para tratar cicatrices, acné y manchas de la piel. Ven a nuestra clínica y comprueba los resultados por tí misma. ¡Te encantará!", 
+            "price": "59.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Microdermoabrasión", 
+            "description": "la microdermoabrasión es un micropeeling que que va exfoliando la piel con diversas intensidades. Limpia y pule la piel del rostro de forma gradual y ayuda a la regeneración celular y la estimulación del colágeno para devolver a tu piel un aspecto joven y suave. Además te ayudará a eliminar las manchas del sol, reducir arrugas,aporta elasticidad, elimina puntos negros y poros dulatados etc. Reserva ya en Bucmi.com y pruébalo.", 
+            "price": "59.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mesoterapia Facial", 
+            "description": "La Mesoterapia facial es uno de los tratamientos más revolucionarios del mercado de la estética para conseguir unos resultados óptimos para tu piel, ya que introducimos una aguja dentro de la piel con las sustancias como la vitamina A, la C o el ácido hialurónico aplicados tópicamente son eficaces en la lucha contra el envejecimiento de la piel. Sus efectos son inmediatos y obtendrás unos resultados increíbles. Ponte guap@ en nuestra clínica, no te arrepentirás.", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Peeling Facial", 
+            "description": "El peeling facial es un tratamiento indicado para rejuvenecer tu piel, actúa directamente en la epidermis,la capa superficial de la piel. Ayuda a limpiar la piel en profundidad, aportándole densidad y devolviéndole la elasticidad natural.Indicado también para tratar cicatrices, acné y manchas de la piel. Ven a nuestra clínica y comprueba los resultados por tí misma. ¡Te encantará!", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Corporal", 
+            "description": "Estimula tu piel y regenera las células de la dermis desde las capas más profundas estimulando la producción de colágeno y regenerando la piel para devolverle la elasticidad y la suavidad natural de la piel en tu cuerpo. Ponte en manos de los mejores profesionales y cuida de tu piel al máximo con los tratamientos más avanzados.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Radiofrecuencia Facial", 
+            "description": "La radiofrecuencia facial consiste en aplicar, de forma selectiva, energía en las capas más profundas de la piel. Esto nos permite luchar contra la flacidez y la sequedad mediante la estimulación de los fibroblastos consiguiendo que éstos generen nuevo colágeno de forma automática. Ven a Clinica Andrea Cepena y comprueba los resultados por tí misma.", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Toxina Botulínica Por Zona", 
+            "description": "Es uno de los mejores tratamientos para conseguir eliminar y disimular las arrugas cutáneas moderadas y graves, de forma fácil y sin complicaciones, además también ayuda a prevenir su aparición. El tratamiento es muy eficaz, seguro y cómodo para los pacientes que desean eliminar los surcos y arrugas que han aparecido en determinadas zonas de su rostro debido a gestos habituales de la frente, el entrecejo, el contorno ocular etc.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Microdermoabrasión", 
+            "description": "la microdermoabrasión es un micropeeling que que va exfoliando la piel con diversas intensidades. Limpia y pule la piel del rostro de forma gradual y ayuda a la regeneración celular y la estimulación del colágeno para devolver a tu piel un aspecto joven y suave. Además te ayudará a eliminar las manchas del sol, reducir arrugas,aporta elasticidad, elimina puntos negros y poros dulatados etc. Reserva ya en Bucmi.com y pruébalo.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Mesoterapia Facial", 
+            "description": "La Mesoterapia facial es uno de los tratamientos más revolucionarios del mercado de la estética para conseguir unos resultados óptimos para tu piel, ya que introducimos una aguja dentro de la piel con las sustancias como la vitamina A, la C o el ácido hialurónico aplicados tópicamente son eficaces en la lucha contra el envejecimiento de la piel. Sus efectos son inmediatos y obtendrás unos resultados increíbles. Ponte guap@ en nuestra clínica, no te arrepentirás.", 
+            "price": "99 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Axilas", 
+            "description": "Elimina el vello de tus axilas para siempre de la mano de los mejores profesionales gracias a este bono de 5 sesiones de depilación láser de diodo. Notarás como el vello se va debilitando sesión tras sesión. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Bono 5 Sesiones Ingles", 
+            "description": "Elimina el vello de tu zona íntima de forma definitiva gracias a este bono de 5 sesiones de depilación láser de diodo para la zona de tus ingles. Tu vello se irá debilitando sesión tras sesión. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Axilas", 
+            "description": "Consigue unas axilas suaves y sedosas de la mano de los mejores profesionales gracias a la depilación láser de diodo. Eliminarás el vello de forma definitiva de tus axilas de la mano de los mejores profesionales. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Ingles", 
+            "description": "Elimina el vello de tu zona íntima de forma definitiva gracias a la depilación láser de diodo. Notarás la diferencia desde la primera sesión ya que la raíz del vello se irá debilitando. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Láser Medias Piernas", 
+            "description": "Olvídate del vello en tus piernas gracias a esta sesión de depilación con láser de diodo en medias piernas. Sesión tras sesión la raíz se irá debilitando. Conseguirás una piel suave y sedosa. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Depilación Láser Piernas Completas", 
+            "description": "Luce unas piernas libres de vello de la mano de los mejores profesionales gracias a esta sesión de depilación láser de diodo. Notarás la diferencia desde la primera sesión, la raíz se irá debilitando poco a poco hasta que el vello desaparece. No esperes más y reserva ahora tu cita online a través de Bucmi.com.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Control Nutricional", 
+            "description": "En nuestra clínica queremos revolucionar la forma de actuar y pensar de todos nuestros pacientes, buscando una completa re-educación alimenticia y hábitos alimenticios. Queremos que aprendas a perder peso de una manera efectiva y saludable. Ponte en nuestras manos y no te arrepentirás. Reserva ya en Bucmi.com.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}

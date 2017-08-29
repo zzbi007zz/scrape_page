@@ -1,0 +1,207 @@
+{
+    "name": "Bucmi-Tiphany's Beauty", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=81", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.3958800000", 
+    "longitude": "-3.7009699999", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/tiphanys-beauty", 
+    "office_number": "910230172", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "Tiphany's Beauty abrió sus puertas en enero de 2017 en Paseo de la Chopera número 23 de Madrid, en la zona de Arganzuela. Fundado por dos especialistas de la estética con muchos años de experiencia, que se embarcan en un proyecto común para ofrecer los mejores resultados. Su filosofía dice que un servicio excelente conlleva: que lo realice una persona profesional, que se utilicen productos de calidad y que se acompañe de un ambiente relajado. Realizan tratamientos estéticos faciales, corporales, manicuras, pedicuras y masajes, en un espacio moderno y acogedor, utilizando marcas como GHD, Masglo y Sweet Professional.", 
+    "services": [
+        {
+            "service": "Manicura Esmaltado Permanente Opi O Shellac", 
+            "description": "Las profesionales de Tiphany´s Beauty son expertas en el cuidado de manos y pies, y realizan sus manicuras permanentes con esmaltes de gran calidad de firmas como Shellac u OPI. El tratamiento completo de manos incluye el limado de uñas, retirada de cutículas, preparación de las uñas y maquillado de uñas en el color que más te apetezca de los esmaltes permanentes disponibles ne el salón.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente Vinilux", 
+            "description": "La manicura semipermanante de Tiphany's Beauty se realiza con esmaltes de la firma Vinilux, que mantiene las uñas perfectas y con un acabado tipo gel durante 10 días aproximadamente. Antes de esmaltar las uñas, se realiza una manicura completa con limado de uñas, retirada de cutículas, aceite para cutículas e hidratación de manos. La sesión dura aproximadamente 30 minutos.", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Permanente Opi O Shellac", 
+            "description": "Para conseguir una pedicura de mayor duración manteniendo su calidad intacta, varias semanas, los esmaltes permanentes de OPI y Shellac son la mejor opción. Esta pedicura normal se realiza con limado de uñas, retirada de cutículas, aceite para cutículas, hidratación y maquillado de uñas en un color a elegir entre los esmaltes permanentes de OPI y Shellac disponibles en el salón.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente Vinilux", 
+            "description": "Una pedicura de larga duración sin llegar a a ser permanente. El esmaltado Vinilux permite dar color a las uñas con un efecto brillo extra, que además mantiene las pedicura perfecta hasta 10 días. Además, la retirada se realiza con quitaesmalte convencional. Se realiza completa con limado de uñas, retirada de cutículas, aceite para cutículas e hidratación, además del esmaltado en un color a elegir.", 
+            "price": "21 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "Tratamiento para pestañas pensado para realzar el look natural dándoles forma e intensidad. Con el tinte aportamos color, oscureciéndolas para darles más protagonismo. La permanente de pestañas consigue darle a las pestañas la forma deseada para que se vean más bonitas y delicadas. El resultado es un efecto máscara de pestañas perfecto las 24 horas durante varias semanas.", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tratamiento Capilar De Hidrataciòn Profunda", 
+            "description": "Un ritual de peluquería de alto impacto en cuanto a regeneración del cabello se refiere. Además de conseguir la máxima regeneración posible del pelo, ayuda a reponer la masa capilar, nutre intensamente y devuelve fuerza al cabello. Los resultados son visibles desde la primera sesión. Para realizar este tratamiento las expertas en imagen de Tiphany's Beauty utilizan productos de Sweet Hair Professional, la mejor marca brasileña de cosméticos para tratamientos capilares.", 
+            "price": "20 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Bronceado Dha Caña De Azúcar", 
+            "description": "En Tiphany's Beauty cuentan con un servicio de broceado DHA de caña de azúcar, especialmente pensado para conseguir un bronceado natural puntual para un evento o acontecimiento especial. Este tratamiento se basa en un principio activo 100% natural y totalmente inocuo para la piel. El bronceado dura entre 5 y 10 días de media. Es necesario realizar una exfoliación o peeling 24 horas antes del bronceado para lograr el mejor resultado.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Tinte Y Permanente De Pestañas", 
+            "description": "Tratamiento para pestañas pensado para realzar el look natural dándoles forma e intensidad. Con el tinte aportamos color, oscureciéndolas para darles más protagonismo. La permanente de pestañas consigue darle a las pestañas la forma deseada para que se vean más bonitas y delicadas. El resultado es un efecto máscara de pestañas perfecto las 24 horas durante varias semanas.", 
+            "price": "36 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Esmaltado Para Pies", 
+            "description": "Un servicio extra-rápido para dar color a las uñas en menos de 15 minutos. Se trata de un esmaltado flash para pies que se deja las uñas perfectamente maquilladas en pocos minutos. Este servicio está especialmente pensado para planes improvisados o para conseguir un acabado perfecto en muy poco tiempo. Resérvalo en 3 clics con Bucmi.", 
+            "price": "6 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Esmaltado Permanente", 
+            "description": "Este servicio sólo incluye el maquillado de uñas exprés con laca de uñas permanente. No incluye manicura ni pedicura. Se realiza en 15 minutos aproximadamente, pero las uñas se mantienen perfectamente maquilladas hasta 3 semanas. Reserva tu cita en 1 minuto con Bucmi.", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Esmaltdo Permanente Opi O Shellac", 
+            "description": "Un servicio exprés para conseguir la forma deseada en las uñas y darles un color duradero. La sesión se realiza en 15minutos aproximadamente e incluye limado de uñas y esmaltado permanente en un color a elegir entre la variedad disponible de esmaltes de OPI y Shellac disponibles en el salón. Perfecto para conseguir un resultado duradero en pocos minutos.", 
+            "price": "16 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Manicura Completa Masglo", 
+            "description": "Manicura completa pensada para cuidar las manos y dar color a las uñas en uno de los mejores salones especializados en manicuras y pedicuras en el centro de Madrid. La sesión completa incluye limado de uñas, retirada de cutículas, aceite para cutículas, hidratación y maquillado de uñas en un color a elegir de la amplia gama de esmaltes Masglo disponible en el salón.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Manicura Esmaltado Permanente Opi O Shellac", 
+            "description": "Las profesionales de Tiphany´s Beauty son expertas en el cuidado de manos y pies, y realizan sus manicuras permanentes con esmaltes de gran calidad de firmas como Shellac u OPI. El tratamiento completo de manos incluye el limado de uñas, retirada de cutículas, preparación de las uñas y maquillado de uñas en el color que más te apetezca de los esmaltes permanentes disponibles ne el salón.", 
+            "price": "26 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Express", 
+            "description": "En tan sólo 15 minutos las manicuristas profesionales de Tiphany's Beauty realizan un cuidado exprés de las manos y les dan un toque de color. El servicio incluye limado de uñas, aceite de cutículas y maquillado de uñas con esmalte normal a elegir de su variedad de esmaltes disponibles. Reserva tu cita cómodamente online con Bucmi.", 
+            "price": "7 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Manicura Permanente Normal", 
+            "description": "Manicura normal combinada con maquillado de uñas con esmalte permanente. En 45 minutos las expertas en el cuidado de manos de Tiphany's Beauty realizan una manicura básica limando las uñas, retirando las cutículas e hidratándolas con aceite específico, hidratando las manos y maquillando las uñas con esmalte permanente en un color. Reserva tu sesión en 3 clics con Bucmi.", 
+            "price": "17.5 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Manicura Semipermanente Vinilux", 
+            "description": "La manicura semipermanante de Tiphany's Beauty se realiza con esmaltes de la firma Vinilux, que mantiene las uñas perfectas y con un acabado tipo gel durante 10 días aproximadamente. Antes de esmaltar las uñas, se realiza una manicura completa con limado de uñas, retirada de cutículas, aceite para cutículas e hidratación de manos. La sesión dura aproximadamente 30 minutos.", 
+            "price": "13 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Express", 
+            "description": "En sólo 15 minutos las expertas en cuidado de manos y pies de Tiphany's Beauty realizan un cuidado exprés para pies y dan color a las uñas. Un servicio de embellecimiento de pies rápido que incluye limado de uñas, aplicación de aceite de cutículas y maquillado de uñas con esmalte normal en un color a elegir entre la variedad disponible en el salón. Reserva tu cita en un minuto cómodamente online.", 
+            "price": "7 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Pedicura Permanente Normal", 
+            "description": "Un tratamiento completo de pies pensado para devolverles suavidad y confort. Durante la sesión, las expertas en manos y pies de Tiphany's Beauty realizan limado de uñas, retirada de cutículas, aplicación de aceite para cutículas e hidratación. Además de maquillar las uñas en un color a elegir entre la variedad de esmaltes permanentes disponibles en el salón. Reserva tu pedicura permanente online con Bucmi.", 
+            "price": "25 €", 
+            "service_category": null, 
+            "duration": "30 min"
+        }, 
+        {
+            "service": "Pedicura Permanente Opi O Shellac", 
+            "description": "Para conseguir una pedicura de mayor duración manteniendo su calidad intacta, varias semanas, los esmaltes permanentes de OPI y Shellac son la mejor opción. Esta pedicura normal se realiza con limado de uñas, retirada de cutículas, aceite para cutículas, hidratación y maquillado de uñas en un color a elegir entre los esmaltes permanentes de OPI y Shellac disponibles en el salón.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Pedicura Semipermanente Vinilux", 
+            "description": "Una pedicura de larga duración sin llegar a a ser permanente. El esmaltado Vinilux permite dar color a las uñas con un efecto brillo extra, que además mantiene las pedicura perfecta hasta 10 días. Además, la retirada se realiza con quitaesmalte convencional. Se realiza completa con limado de uñas, retirada de cutículas, aceite para cutículas e hidratación, además del esmaltado en un color a elegir.", 
+            "price": "21 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Masaje En Pareja 2X1", 
+            "description": "Este servicio de masaje en pareja es ideal para regalar. Por la compra de un masaje relajante Tiphany's Beauty regala otro para ser disfrutados en pareja. Incluye una sesión de terapia manual relajante de 60 minutos aproximadamente. Además, se realiza con chocolaterapia una copa de cava para cada uno y bombones. El servicio debe utilizarse en los siguientes 3 meses desde la fecha de compra.", 
+            "price": "80 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Depilación Axilas", 
+            "description": "Para una depilación efectiva y respetuosa con la piel, especialmente en zonas sensibles, las esteticistas de Tiphanys Beauty emplean cera caliente de coco. Se trata de un tipo de cera que agarra el vello pero no tira de la piel. Este servicio incluye una sesión de depilación con cera para la zona de las axilas. Reserva tu cita cómodamente online con Bucmi.", 
+            "price": "7 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Cejas Con Hilo", 
+            "description": "La depilación con hilo es una técnica hindú menos dolorosa que otros métodos de depilación y más respetuosa con la piel. Se trata de una técnica que elimina pelo a pelo utilizando un hilo de algodón. Este servicio incluye una sesión de diseño y depilación de cejas con hilo. El resultado es un look limpio y perfecto. Reserva tu sesión de depilación en 3 clics con Bucmi.", 
+            "price": "9 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Ingles Brasileñas", 
+            "description": "Este servicio incluye una sesión de depilación con cera para la zona de las ingles estilo bikini. Para una depilación efectiva y respetuosa con la piel, especialmente en zonas sensibles, las esteticistas de Tiphanys Beauty emplean cera caliente de gran calidad. Se trata de un tipo de cera que agarra el vello pero no tira de la piel. Reserva tu cita cómodamente online con Bucmi.", 
+            "price": "10 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Ingles Normales", 
+            "description": "Como expertas en el cuidado de la piel las esteticistas de Tiphanys Beauty realizan los servicios de depilación con cera de calidad en tono rosa. Con ella se consigue una depilación efectiva y respetuosa con la piel, especialmente en zonas sensibles. Se trata de un tipo de cera que agarra el vello pero no tira de la piel. Este servicio incluye una sesión de depilación con cera para la zona de ingles normales.", 
+            "price": "8 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }, 
+        {
+            "service": "Depilación Piernas Enteras", 
+            "description": "Sesión de depilación con cera caliente de gran calidad en tono rosa, que arranca el vello de raíz para conseguir un resultado perfecto. Las esteticistas de Tiphanys Beauty emplean este tipo de cera respetuosa con la piel. Este servicio incluye una sesión de depilación con cera para la zona de piernas enteras. Reserva tu cita cómodamente online con Bucmi.", 
+            "price": "15 €", 
+            "service_category": null, 
+            "duration": "15 min"
+        }
+    ]
+}

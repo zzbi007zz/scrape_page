@@ -1,0 +1,116 @@
+{
+    "name": "Bucmi-Pilatesgo", 
+    "scrape_page": "https://www.bucmi.com/Madrid.html?page=77", 
+    "street": null, 
+    "city": null, 
+    "zipcode": null, 
+    "country": "es", 
+    "latitude": "40.4645404000", 
+    "longitude": "-3.6936412000", 
+    "formatted_address": null, 
+    "business_email": null, 
+    "business_website": "https://www.bucmi.com/pilatesgo", 
+    "office_number": "687393636", 
+    "mobile_number": null, 
+    "office_number2": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "opening_hours_raw": null, 
+    "facebook_page": null, 
+    "yelp_page": null, 
+    "pricelist_link": null, 
+    "description": "En Pilatesgo situado en Tetuán, Madrid, te ayudamos a encontrar el punto de equilibrio exacto entre tu condición física y tu mente. Nuestro objetivo es mejorar tu calidad de vida y el rendimiento diario. Avalados como osteópatas oficiales de Radio Marca.", 
+    "services": [
+        {
+            "service": "Bono Bimensual Pilates (2 Clases/Semana)", 
+            "description": "Para que cualquier terapia o entrenamiento de resultados eficientes, su continuidad en el tiempo es clave. Por eso te ofrecemos nuestro bono bimensual en promoción. Incluye 2 clases semanales durante el mes en el que se reserva y el siguiente. Podrás asistir lunes y miércoles a la misma hora (14:15, 15:15, 18:30, 17:30) o martes y jueves a la misma hora (10:30, 11:30, 14:30, 19:00, 19:30, 20:30). Cada clase dura 50 minutos. Matrícula de regalo. Consulta aforo disponible con el centro.", 
+            "price": "108.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono Trimestral Pilates (2 Clases/Semana)", 
+            "description": "Y si quieres continuar asistiendo a nuestras clases de pilates ahorrándote bastante dinero, elige nuestro bono en oferta. Incluye 2 clases semanales durante el mes en el que se reserva y los dos siguientes. Podrás asistir lunes y miércoles a la misma hora (14:15, 15:15, 18:30, 17:30) o martes y jueves a la misma hora (10:30, 11:30, 14:30, 19:00, 19:30, 20:30). Cada clase dura 50 minutos. Matrícula de regalo. Consulta aforo disponible con el centro.", 
+            "price": "156.80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Sesión De Fisioterapia U Osteopatía", 
+            "description": "Si necesitas una revisión muscular o tratamiento de alguna dolencia o lesión, acude a nuestro gabinete de terapias para que te realicen el tratamiento más adecuado según tu caso. Al reservar este servicio podrás elegir entre una sesión de fisioterapia o una de osteopatía, o bien dejarte aconsejar por nuestros especialistas.", 
+            "price": "108.00 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono de 3 Sesiones de Fisioterapia u Osteopatía", 
+            "description": "Si prevés que vas a necesitar más de una sesión de rehabilitación, de fisioterapia u osteopatía, puede interesarte nuestro bono de 3 sesiones. Incluye 3 sesiones de 45 minutos de fisioterapia u osteopatía, a disfrutar en diferentes días.", 
+            "price": "156.80 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono de 6 Sesiones de Fisioterapia u Osteopatía", 
+            "description": "Si sueles padecer dolencias como contracturas, lesiones deportivas o problemas crónicos que requieren tratamiento con fisioterapia u osteopatía, nuestro bono de 6 sesiones en promoción es perfecto para ti. Incluye 6 sesiones de fisioterapia u osteopatía de 45 minutos cada una. ¡No dejes pasar esta oferta!", 
+            "price": "135 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Sesión De Fisioterapia U Osteopatía", 
+            "description": "Si necesitas una revisión muscular o tratamiento de alguna dolencia o lesión, acude a nuestro gabinete de terapias para que te realicen el tratamiento más adecuado según tu caso. Al reservar este servicio podrás elegir entre una sesión de fisioterapia o una de osteopatía, o bien dejarte aconsejar por nuestros especialistas.", 
+            "price": "196 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono Bimensual Pilates (2 Clases/Semana)", 
+            "description": "Para que cualquier terapia o entrenamiento de resultados eficientes, su continuidad en el tiempo es clave. Por eso te ofrecemos nuestro bono bimensual en promoción. Incluye 2 clases semanales durante el mes en el que se reserva y el siguiente. Podrás asistir lunes y miércoles a la misma hora (14:15, 15:15, 18:30, 17:30) o martes y jueves a la misma hora (10:30, 11:30, 14:30, 19:00, 19:30, 20:30). Cada clase dura 50 minutos. Matrícula de regalo. Consulta aforo disponible con el centro.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono Trimestral Pilates (2 Clases/Semana)", 
+            "description": "Y si quieres continuar asistiendo a nuestras clases de pilates ahorrándote bastante dinero, elige nuestro bono en oferta. Incluye 2 clases semanales durante el mes en el que se reserva y los dos siguientes. Podrás asistir lunes y miércoles a la misma hora (14:15, 15:15, 18:30, 17:30) o martes y jueves a la misma hora (10:30, 11:30, 14:30, 19:00, 19:30, 20:30). Cada clase dura 50 minutos. Matrícula de regalo. Consulta aforo disponible con el centro.", 
+            "price": "105 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono Mensual de Yoga (1 Sesión/Semana)", 
+            "description": "¿Aún no has probado el yoga? Con el yoga se trabaja la concentración, la fuerza, la flexibilidad y la relajación, con el propósito de encontrar el equilibrio interior y exterior. Apúntate a nuestras clases de yoga y empieza a ver el mundo desde una nueva perspectiva. Este bono incluye 1 sesión semanal para el mes en el que se compra el bono. Las clases son colectivas y se imparten únicamente los viernes a las 18:30. Consulta aforo disponible con el centro.", 
+            "price": "180 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Bono Mensual Pilates (2 Clases/Semana)", 
+            "description": "¿Has probado nuestras clases de pilates y quieres repetir? Puedes continuarlas reservando nuestro bono mensual. Incluye 2 clases por semana durante el mes en el que se compra el bono. Podrás asistir lunes y miércoles a la misma hora (14:15, 15:15, 18:30, 17:30) o martes y jueves a la misma hora (10:30, 11:30, 14:30, 19:00, 19:30, 20:30). Cada clase dura 50 minutos. Servicio no válido para compra de primer bono, ya que no incluye matrícula. Consulta aforo disponible con el centro.", 
+            "price": "35 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Bono Mensual Pilates (2 Clases/Semana) Primer Mes", 
+            "description": "Si eres fan del pilates, apúntate a nuestras clases colectivas reservando este bono. Incluye 2 clases por semana durante el mes en el que se compra el bono. Podrás asistir lunes y miércoles a la misma hora (14:15, 15:15, 18:30, 17:30) o martes y jueves a la misma hora (10:30, 11:30, 14:30, 19:00, 19:30, 20:30). Cada clase dura 50 minutos. Servicio válido para el primer bono mensual comprado. Incluye matrícula. Consulta aforo disponible con el centro.", 
+            "price": "135 €", 
+            "service_category": null, 
+            "duration": "45 min"
+        }, 
+        {
+            "service": "Fitness: Samll Group Hasta 5 Personas", 
+            "description": "Este servicio consiste en unos entrenamientos funcionales especializados para rendimiento deportivo, no lesivo y preventivo. El grupo es como máximo de 5 personas. El precio es válido para una persona. No lo dudes más y prueba para ponerte en forma gracias a nuestros expertos profesionales de Pilates Go.", 
+            "price": "196 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }, 
+        {
+            "service": "Sesión Entrenamiento Personal", 
+            "description": "Ponte en forma de manera personalizada y con el seguimiento de un entrenador personal. Nuestros entrenadores te realizarán una tabla de ejercicio acorde con tus objetivos y necesidades, además de vigilar su correcto desarrollo.", 
+            "price": "40 €", 
+            "service_category": null, 
+            "duration": "60 min"
+        }
+    ]
+}
