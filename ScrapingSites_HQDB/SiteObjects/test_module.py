@@ -101,9 +101,12 @@ def getRequestsXML(url,xpath,spec=False,encoding=True):
 def _ServiceParser():
     print "Getting service" 
     url = "https://www.bucmi.com/rosaserrafashion"
-    xpath_addr = ""
+    xpath_addr = "//header/p"
     xmlAddr = getRequestsXML(url,xpath_addr)
-    
+    idx = 0
+    for i in range(idx,len(xmlAddr)):
+        _addr = xmlAddr.findall("a").attrib("title")
+        print _addr
     
 
 

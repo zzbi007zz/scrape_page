@@ -11,7 +11,7 @@ import urlparse
 import urllib3
 from Common import Util,Validation
 from BaseSite import BaseSite
-from SiteObjects.Objects import Venue, Service
+from SiteObjects.Objects_HQDB import Venue, Service
 import requests.packages.urllib3
 from dbfread import __url__
 from StringIO import StringIO
@@ -31,7 +31,7 @@ class Bucmi_es(BaseSite):
     _xpath_LstVenues = '//ul[@class="bcmPagination""]/li[last()-1]'        
     _url_lstServices = ''
     _xpath_lstServices = '//div[@id="divVenueServiceList"]'
-    _xpath_addr = "//div[@class='DireccionWrap']"
+    _xpath_addr = "//header/p"
     _xpath_lat = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLatitude"]'
     _xpath_long = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLongitude"]'
     services = []
@@ -171,6 +171,7 @@ class Bucmi_es(BaseSite):
         xmlFeatured = xmlVen.findall('.//div[@class="noved-list recommendedPremium"]') + xmlVen.findall(".//div[@class='noved-list recommended']")
         xmlRatio = xmlVen.findall(".//div[@class='bcmComentRatio']")
         xmlScore = xmlVen.findall('.//div[@class="bcmComentRatio"]/div/p/span')
+        xmlAddr = xmlVen.findall(".//header/p/a")
         
         xmlNrscore = xmlVen.findall(".//div[@class='bcmComentRatio']/div/a")
         for i in range(idx,len(xmlRatio)):
@@ -182,7 +183,11 @@ class Bucmi_es(BaseSite):
                 vens.hqdb_review_score = _score
                 nrscore = "".join(xmlNrscore[i].itertext()).strip()
                 vens.hqdb_nr_reviews = nrscore
-            
+#         get Address
+        for item in xmlAddr:
+            if item.get("title") != None :
+               vens.formatted_address = item.get('title')
+    
         xpath_detail = '//div[@id="liFoot"]/a'
         _xmldetail = xmlVen.xpath(xpath_detail)
         if len(_xmldetail) > 0:
@@ -202,12 +207,7 @@ class Bucmi_es(BaseSite):
                 if tel != None and tel.text != None:
                     vens.office_number = tel.text.strip()
                
-#                 xmlAddr = xmlVenueDetail.xpath(self._xpath_addr)
-#                 for item in xmlAddr:
-#                     for line in item.xpath("text()"):
-#                         _addr = self.removeSpecialChar(str(line))
-#                         print _addr
-#                         vens.formatted_address = addr
+
                 xmlLat = xmlVenueDetail.xpath(self._xpath_lat)
                 for item in xmlLat:
                     for lat in item.xpath("@value"):
@@ -242,15 +242,13 @@ class Bucmi_es(BaseSite):
         for i in range (idx, len(_service)):
             sv = Service()
             sv.service = "".join(_service[i].itertext()).strip()
-            
+            sv.scrape_page = url
             sv.price = "".join(_price[i].itertext()).strip()
             sv.description ="".join(_desc[i].itertext()).strip()
             sv.duration = "".join(_dura[i].itertext()).strip()
 
             services.append(sv)
-            
- 
-                           
+         
         print 'Scrape service done'
     
         return services
