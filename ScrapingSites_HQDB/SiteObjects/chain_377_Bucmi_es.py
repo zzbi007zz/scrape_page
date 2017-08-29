@@ -209,10 +209,12 @@ class Bucmi_es(BaseSite):
                     vens.office_number = tel.text.strip()
                
                 venueImg = xmlVenueDetail.xpath(self._xpath_img)
+                images = []
                 for item in venueImg:
-                    for img in item.xpath("@src"):
-                      vens.img_link=img
-                     
+                    for img in item.xpath("@src"): 
+                        _imgLst = images.append(img)
+                
+                vens.img_link = images
 
                 xmlLat = xmlVenueDetail.xpath(self._xpath_lat)
                 for item in xmlLat:
