@@ -106,6 +106,8 @@ class Bucmi_es(BaseSite):
  
     def __getListVenues(self):
         print "Getting list of Venues"
+        print "Number of venues is : " + str(len(self._lstVenues))
+
         xmlRegions = Util.GetHTMLResponse(self.__url__,self._xpath_Venues)
         idx = 0
         opt = []
@@ -216,7 +218,16 @@ class Bucmi_es(BaseSite):
                 tel = xmlVenueDetail.find(".//div[@class='DireccionWrap']/a")
                 addr = xmlVenueDetail.xpath("//div[@class='DireccionWrap']/node()[3]")
                 if tel != None and tel.text != None:
-                    vens.office_number = tel.text.strip()
+#                     vens.office_number = tel.text.strip()
+                    phoneNum = tel.text.strip()
+                    telNum = re.search("re(6*|7*)\d+", phoneNum)
+                    if telNum:
+                        print "----"+ telNum.group()
+                        vens.mobile_number = telNum.group()
+                    elif phoneNum:
+                       vens.office_number = phoneNum
+                    
+                     
                 if addr != None and len(addr) != None:
                     baseAdr= addr[0]
 #                     _addr = re.sub('', repl, string)
@@ -224,8 +235,7 @@ class Bucmi_es(BaseSite):
 #                     print baseAdr.split(",")[0].strip()
                 
                     vens.street = baseAdr.split(",")[0].strip()
-                    print baseAdr.split(",")[0].strip()
-                  
+                
                     vens.zipcode = baseAdr.split(",")[3].strip()
         
                      
@@ -287,7 +297,7 @@ class Bucmi_es(BaseSite):
                 sv.description ="".join(_desc[i].itertext()).strip()
                 duration = "".join(_dura[i].itertext()).strip()
                 duration = re.search(r'\d+', duration).group()
-                intDur= int(duration)
+                intDur= int(duration) * 60
                 sv.duration = intDur
 
                 services.append(sv)
