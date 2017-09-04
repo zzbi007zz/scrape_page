@@ -71,13 +71,13 @@ class Bucmi_es(BaseSite):
                      print "File ",str(index), ":", ex
                      Util.log.error("File " + str(i) + ": " + ex.message)
                      index+=1
-                ven.writeToFile(self.folder,index)
+                ven.writeToFile(self.folder,index,self.__name__)
                 
                     
             if len(self.venues_csv) > 0:
-                 self.writelist2File(self.venues_csv,self.outFileVN)
+                 self.writelist2File(self.__name__,self.venues_csv,self.outFileVN)
             if len(self.services_csv) > 0:
-                 self.writelist2File(self.services_csv,self.outFileSV)
+                 self.writelist2File(self.__name__,self.services_csv,self.outFileSV)
 
     def Write2File(self):
         if self._lstVenues != None and len(self._lstVenues) > 0:                                    
@@ -106,7 +106,7 @@ class Bucmi_es(BaseSite):
  
     def __getListVenues(self):
         print "Getting list of Venues"
-        print "Number of venues is : " + str(len(self._lstVenues))
+       
 
         xmlRegions = Util.GetHTMLResponse(self.__url__,self._xpath_Venues)
         idx = 0
@@ -159,6 +159,7 @@ class Bucmi_es(BaseSite):
         xmlVen = Util.getRequestsXML(url, "//section/article")
 
         print "Scraping page "  + url
+       
         vens.country = 'es'
 #   Featured 
         xmlFeatured = xmlVen.xpath('.//div[@class="noved-list recommendedPremium" or @class="noved-list recommended"]')  
@@ -183,7 +184,8 @@ class Bucmi_es(BaseSite):
                 
                 vens.services = self.__ServicesParser(urlDetail)
 
-      
+                _xmlMCate = Util.getRequestsXML(urlDetail,"//nav[@class='bcmMenu']")
+                _xpathCate = '//a[re:test(@id,"^Cat_[0-9]")]'  
                 _xpathRate = ".//div/span[@class='RatingCount']"
                 _xpathSCore = ".//span[@class='Score']"
                 xmlInfo = Util.getRequestsXML(urlDetail,".//div[@class='VenueInfo']")
@@ -197,6 +199,15 @@ class Bucmi_es(BaseSite):
                     for img in i.xpath("@src"):
                         vens.venue_images = img
                   
+                idx = 0
+                for i in range(idx,len(_xmlMCate)):  
+                        venueCate = []
+                        for cate in _xmlMCate.xpath(_xpathCate,namespaces={'re': "http://exslt.org/regular-expressions"}):
+ 
+                                _cate = cate.text.strip()
+                                venueCate.append(_cate)
+                           
+                        vens.category = ",".join(venueCate)     
                         
                 xmlVenueDetail = Util.getRequestsXML(urlDetail,'//div[@class="contentCenter"]/div')
                 xmlBussinessname = Util.getRequestsXML(urlDetail,'//div[@class="OtherVenueData"]')
@@ -220,12 +231,16 @@ class Bucmi_es(BaseSite):
                 if tel != None and tel.text != None:
 #                     vens.office_number = tel.text.strip()
                     phoneNum = tel.text.strip()
-                    telNum = re.search("re(6*|7*)\d+", phoneNum)
-                    if telNum:
-                        print "----"+ telNum.group()
-                        vens.mobile_number = telNum.group()
-                    elif phoneNum:
-                       vens.office_number = phoneNum
+                    telNum = re.findall(r"\A[6|7]\d+", phoneNum)
+                    vens.office_number = phoneNum
+                    for numb in telNum:
+                        if len(numb) > 0 : 
+                            print "mobile ",telNum[0]
+                            if len(vens.office_number) > 0:
+                                break 
+                            else:
+                                vens.mobile_number = telNum[0]
+
                     
                      
                 if addr != None and len(addr) != None:
@@ -250,26 +265,28 @@ class Bucmi_es(BaseSite):
                 xmlLat = xmlVenueDetail.xpath(self._xpath_lat)
                 for item in xmlLat:
                     for lat in item.xpath("@value"):
-                        vens.latitude = lat.strip()
+                        vens.latitude = str(lat)
+                        print str(lat)
                 xmlLong = xmlVenueDetail.xpath(self._xpath_long)
                 for item in xmlLong:
                     for long in item.xpath("@value"):
-                        vens.longitude = long.strip()
-                 
-                    
+                        vens.longitude = str(long)
+                        print long
+ 
                 if self._lstVenues != None and len(self._lstVenues) > 0:
             
                     self._lstVenues.append(vens)
                     print str(self.page) + ") Scrapping chain 377 page " + vens.scrape_page
-                
+                    print len(self._lstVenues)
                 vens.writeToFile(self.folder,self.page,vens.name_of_contact)
                 self.venues_csv.append(vens)
+                
                 self.page+=1    
         return vens
    
     def __ServicesParser(self,url):
         services = []
-        sv = Service()
+        
         print 'Getting service page ', url
         xpath_service = "//form[@id='Form']/main"
         _xmlService = Util.getRequestsXML(url,xpath_service)
@@ -278,19 +295,9 @@ class Bucmi_es(BaseSite):
         _price = _xmlService.findall(".//span[@class='listPromotionPriceCenter']") + _xmlService.findall(".//span[@id='lblNormalPrice']")
         _dura = _xmlService.findall(".//span[@id='lblTime']")
         _desc = _xmlService.findall(".//p[@id='lblDescriptionService']")
-        
-        _xpathCate = '//a[re:test(@id,"^Cat_[0-9]")]'  
-        _xmlMCate = Util.getRequestsXML(url,"//nav[@class='bcmMenu']")
-        
         idx = 0
-        for i in range(idx,len(_xmlMCate)):  
-                venueCate = []
-                for cate in _xmlMCate.xpath(_xpathCate,namespaces={'re': "http://exslt.org/regular-expressions"}):
-                        _cate = "".join(cate.itertext()).strip()
-                        venueCate.append(_cate)
-                        sv.category = venueCate
-                              
         for i in range (idx, len(_service)):
+                sv = Service()
                 sv.service = "".join(_service[i].itertext()).strip()
                 sv.scrape_page = url
                 sv.price = "".join(_price[i].itertext()).strip()
@@ -304,7 +311,7 @@ class Bucmi_es(BaseSite):
         
          
         print 'Scrape service done'
-    
+      
         return services
         
     def removeSpecialChar(s, exceptchar=''):
