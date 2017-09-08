@@ -1,0 +1,416 @@
+{
+    "adid": null, 
+    "name": "Belssana", 
+    "name_of_contact": "Belssana", 
+    "scrape_page": "https://www.bucmi.com/belssana", 
+    "business_website": "https://www.bucmi.com/belssana", 
+    "areas_covered": null, 
+    "description": "Salud y belleza. Poseerlas y disfrutarlas es tan importante como saber mantenerlas. Belssana nació con esa premisa, tan clara como sencilla. Y, en Belssana, donde ya acumulamos años como profesionales de la estética, seguimos siendo fieles a esa idea.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017546751114444.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017548708900623.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017548920177121.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017549520571643.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017549729235676.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017551151746922.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017551267538511.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017551446171133.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636025944692741236.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636025944950818440.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636170801608542042.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636170801680416978.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636171056217743643.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "101", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Hermosilla, 90", 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "C/ Hermosilla, 90, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "911396868", 
+    "office_number2": null, 
+    "mobile_number": "615492158", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4238456000", 
+    "longitude": "-3.6972637000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636027066208662295.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Este masaje facilita la activación del sistema linfático y circulatorio. Romper los nódulos grasos es el objetivo. Y que tú te sientas cada vez mejor, que te veas bien, el principal."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Terapéutico", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con técnicas manuales, tienes a tu disposición masajes descontracturantes y sacro-craneales. Para aliviarte del estrés diario, de esa mala postura en el trabajo o de esas molestias derivadas del ejercicio deportivo. Ven, consúltanos y te recomendaremos aquel que mejor se adapta a tu dolencia o malestar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal Con Masaje De Argán", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Este tratamiento te lo recomendamos para la eliminación de células muertas o, también, por ejemplo, para evitar la descamación superficial que a veces tanto molesta. Aporta frescura y, por supuesto, mucha limpieza a la piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Básica y profunda. Limpieza y técnicas de desmaquillaje, con peeling, mascarillas y masaje.Utilizamos punta de diamante.Te aconsejamos este servicio para que no dejes de cuidarte. Nadie se arrepiente!! Además relajas tensiones. Te enganchará por su efectividad y por la luminosidad que te aporta al rostro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Te ofrecemos todo lo que quieras y necesites. La básica incluye limado, retirada de cutículas, hidratación de manos y esmaltado de uñas del color que más te guste. Repetirás, pruébalo con nosotros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño De Cejas", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Consigue unas cejas perfectas con nuestra técnica personalizada. El primer paso: medir. Y, según la morfología de la ceja, tendrás un diseño específico que responda a lo que buscas. Aquí, tú eres el/la expert@."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Porque el sentirse bien y la estética.. empieza en y por los pies. La pedicura básica incluye limado y retirada de cutículas, hidratación y esmaltado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Este masaje facilita la activación del sistema linfático y circulatorio. Romper los nódulos grasos es el objetivo. Y que tú te sientas cada vez mejor, que te veas bien, el principal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Higiene Facial Y Masaje Relajante", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Consigue un cutis perfecto de la mano de los mejores profesionales gracias a esta higiene facial que incluye desmaquillado, extracción, mascarilla y nutrición. Además de un masaje relajante de media hora. No esperes más y reserva ahora tu cita online de la forma más facil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Bono de 10 sesiones de un tratamiento que activa el sistema circulatorio y linfático. Indicado para combatir la celulitis, las piernas cansadas o los trastornos tróficos provocados por las alteraciones circulatorias."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Tto Corporal Reductor Bodyter", 
+            "duration": 3600, 
+            "price": "660 € ", 
+            "description": "Bono 10 sesiones de Bodyter Efecto TriActif, un '3 en 1' combinado con geles activos que multiplican los resultados. Electroestimulación (corrientes baja/media frecuencia para tonificar la musculatura y actuar directamente sobre la grasa), Electroporación o Mesoterapia Virtual (corrientes de media frecuencia que sirve para abrir los poros y favorecer la penetración de los principios activos) y Termoterapia (calor que favorece la degradación de los depósitos de grasa)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Facial Profunda", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Un rostro lleno de luminosidad con un protocolo muy completo: limpiar o desmaquillar, Punta de Diamante, Crioterapia (frío) y masaje con aceite de Argán. Pruébalo, repetirás. El precio señalado es por sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Con Masaje De Argán", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Este tratamiento te lo recomendamos para la eliminación de células muertas o, también, por ejemplo, para evitar la descamación superficial que a veces tanto molesta. Aporta frescura y, por supuesto, mucha limpieza a la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Este tratamiento activa el sistema circulatorio y linfático. Fíjate bien: está indicado para combatir la celulitis, las piernas cansadas o los trastornos tróficos provocados por las alteraciones circulatorias. El precio es por sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Anti-Acne", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "¡Basta ya! Acaba con las impurezas en la piel. Elimina esos granitos que te molestan cada vez que te miras en el espejo. Utilizamos peeling y, según cada caso, la mascarilla que más se adapta a tu rostro, incluida la LED. Para acabar y calmar la piel, el masaje facial final. Cómodo y resultón. Te complacerá. El precio es por sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Anti-Aging", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Un tratamiento con el que combates esas pequeñas arrugas, esas manchas incómodas... No tienes por qué aguantarlas más. Un trabajo en profundidad con peeling físico y punta de diamante, Mesoterapia e IPL. También, con Crioterapia (frío). A tu gusto y para tu mayor comodidad. Tenemos muchas opciones y los mejores resultados. ¡A que esperas a coger cita!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial De Hidratación", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Uno de nuestros servicios más solicitados. Muchos de nuestros clientes siempre repiten. Limpieza y desmaquillaje con mesoterapia, mascarillas y también LED, acabado con masaje facial. Otro imprescindible con el que te cuidas y, por supuesto, te relajas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Remodelación Corporal Con Bodyter.", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Te proponemos Bodyter Efecto TriActif, un '3 en 1' combinado con geles activos que multiplican los resultados. Consiste en Electroestimulación (corrientes baja/media frecuencia para tonificar la musculatura y actuar directamente sobre la grasa), Electroporación o Mesoterapia Virtual (corrientes de media frecuencia que sirve para abrir los poros y favorecer la penetración de los principios activos) y Termoterapia (calor que favorece la degradación de los depósitos grasos). El precio indicado es por sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Básica y profunda. Limpieza y técnicas de desmaquillaje, con peeling, mascarillas y masaje.Utilizamos punta de diamante.Te aconsejamos este servicio para que no dejes de cuidarte. Nadie se arrepiente!! Además relajas tensiones. Te enganchará por su efectividad y por la luminosidad que te aporta al rostro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "380 € ", 
+            "description": "Porque es importante cuidarse, con poco esfuerzo y mucha paciencia con este servicio te ayudaremos a luchar contra esos kilos demás, luchar contra la grasa acumulada y eliminar adiposidades para combatir fácilmente la retención de líquidos. Con nuestros consejos y nuestras técnicas, apenas te enterarás. Combinamos 40 minutos de Cavitación con 20 de Presoterapia: una hora de satisfacción."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Este masaje facilita la activación del sistema linfático y circulatorio. Romper los nódulos grasos es el objetivo. Y que tú te sientas cada vez mejor, que te veas bien, el principal."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Higiene Facial Y Masaje Relajante", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Consigue un cutis perfecto de la mano de los mejores profesionales gracias a esta higiene facial que incluye desmaquillado, extracción, mascarilla y nutrición. Además de un masaje relajante de media hora. No esperes más y reserva ahora tu cita online de la forma más facil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Bono de 10 sesiones de un tratamiento que activa el sistema circulatorio y linfático. Indicado para combatir la celulitis, las piernas cansadas o los trastornos tróficos provocados por las alteraciones circulatorias."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Tto Corporal Reductor Bodyter", 
+            "duration": 3600, 
+            "price": "660 € ", 
+            "description": "Bono 10 sesiones de Bodyter Efecto TriActif, un '3 en 1' combinado con geles activos que multiplican los resultados. Electroestimulación (corrientes baja/media frecuencia para tonificar la musculatura y actuar directamente sobre la grasa), Electroporación o Mesoterapia Virtual (corrientes de media frecuencia que sirve para abrir los poros y favorecer la penetración de los principios activos) y Termoterapia (calor que favorece la degradación de los depósitos de grasa)."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Facial Profunda", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Un rostro lleno de luminosidad con un protocolo muy completo: limpiar o desmaquillar, Punta de Diamante, Crioterapia (frío) y masaje con aceite de Argán. Pruébalo, repetirás. El precio señalado es por sesión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Este masaje facilita la activación del sistema linfático y circulatorio. Romper los nódulos grasos es el objetivo. Y que tú te sientas cada vez mejor, que te veas bien, el principal."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Higiene Facial Y Masaje Relajante", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Consigue un cutis perfecto de la mano de los mejores profesionales gracias a esta higiene facial que incluye desmaquillado, extracción, mascarilla y nutrición. Además de un masaje relajante de media hora. No esperes más y reserva ahora tu cita online de la forma más facil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Este masaje facilita la activación del sistema linfático y circulatorio. Romper los nódulos grasos es el objetivo. Y que tú te sientas cada vez mejor, que te veas bien, el principal."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Higiene Facial Y Masaje Relajante", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Consigue un cutis perfecto de la mano de los mejores profesionales gracias a esta higiene facial que incluye desmaquillado, extracción, mascarilla y nutrición. Además de un masaje relajante de media hora. No esperes más y reserva ahora tu cita online de la forma más facil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Bono de 10 sesiones de un tratamiento que activa el sistema circulatorio y linfático. Indicado para combatir la celulitis, las piernas cansadas o los trastornos tróficos provocados por las alteraciones circulatorias."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Tto Corporal Reductor Bodyter", 
+            "duration": 3600, 
+            "price": "660 € ", 
+            "description": "Bono 10 sesiones de Bodyter Efecto TriActif, un '3 en 1' combinado con geles activos que multiplican los resultados. Electroestimulación (corrientes baja/media frecuencia para tonificar la musculatura y actuar directamente sobre la grasa), Electroporación o Mesoterapia Virtual (corrientes de media frecuencia que sirve para abrir los poros y favorecer la penetración de los principios activos) y Termoterapia (calor que favorece la degradación de los depósitos de grasa)."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Facial Profunda", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Un rostro lleno de luminosidad con un protocolo muy completo: limpiar o desmaquillar, Punta de Diamante, Crioterapia (frío) y masaje con aceite de Argán. Pruébalo, repetirás. El precio señalado es por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Con Masaje De Argán", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Este tratamiento te lo recomendamos para la eliminación de células muertas o, también, por ejemplo, para evitar la descamación superficial que a veces tanto molesta. Aporta frescura y, por supuesto, mucha limpieza a la piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Este tratamiento activa el sistema circulatorio y linfático. Fíjate bien: está indicado para combatir la celulitis, las piernas cansadas o los trastornos tróficos provocados por las alteraciones circulatorias. El precio es por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Anti-Acne", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "¡Basta ya! Acaba con las impurezas en la piel. Elimina esos granitos que te molestan cada vez que te miras en el espejo. Utilizamos peeling y, según cada caso, la mascarilla que más se adapta a tu rostro, incluida la LED. Para acabar y calmar la piel, el masaje facial final. Cómodo y resultón. Te complacerá. El precio es por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Anti-Aging", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Un tratamiento con el que combates esas pequeñas arrugas, esas manchas incómodas... No tienes por qué aguantarlas más. Un trabajo en profundidad con peeling físico y punta de diamante, Mesoterapia e IPL. También, con Crioterapia (frío). A tu gusto y para tu mayor comodidad. Tenemos muchas opciones y los mejores resultados. ¡A que esperas a coger cita!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial De Hidratación", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Uno de nuestros servicios más solicitados. Muchos de nuestros clientes siempre repiten. Limpieza y desmaquillaje con mesoterapia, mascarillas y también LED, acabado con masaje facial. Otro imprescindible con el que te cuidas y, por supuesto, te relajas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Remodelación Corporal Con Bodyter.", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Te proponemos Bodyter Efecto TriActif, un '3 en 1' combinado con geles activos que multiplican los resultados. Consiste en Electroestimulación (corrientes baja/media frecuencia para tonificar la musculatura y actuar directamente sobre la grasa), Electroporación o Mesoterapia Virtual (corrientes de media frecuencia que sirve para abrir los poros y favorecer la penetración de los principios activos) y Termoterapia (calor que favorece la degradación de los depósitos grasos). El precio indicado es por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Básica y profunda. Limpieza y técnicas de desmaquillaje, con peeling, mascarillas y masaje.Utilizamos punta de diamante.Te aconsejamos este servicio para que no dejes de cuidarte. Nadie se arrepiente!! Además relajas tensiones. Te enganchará por su efectividad y por la luminosidad que te aporta al rostro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5 Sesiones Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "380 € ", 
+            "description": "Porque es importante cuidarse, con poco esfuerzo y mucha paciencia con este servicio te ayudaremos a luchar contra esos kilos demás, luchar contra la grasa acumulada y eliminar adiposidades para combatir fácilmente la retención de líquidos. Con nuestros consejos y nuestras técnicas, apenas te enterarás. Combinamos 40 minutos de Cavitación con 20 de Presoterapia: una hora de satisfacción."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Con Esmalte Permanente", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Por un poco más de tu tiempo, añade un plus a tu manicura habitual aplicando el esmalte permanente que más se adapte a tu gusto, a la temporada, a las tendencias."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack De Manicura Y Pedicura", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Consigue manos y pies perfectos gracias a este pack de manicura y pedicura. El servicio incluye limado de las uñas, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras a elegir entre una amplia gama. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Con Esmalte Permanente", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "A un precio competitivo y por un poco más de tu tiempo, añade un plus a tu pedicura habitual con los esmaltes permanentes de la temporada. Y a tu gusto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Te ofrecemos todo lo que quieras y necesites. La básica incluye limado, retirada de cutículas, hidratación de manos y esmaltado de uñas del color que más te guste. Repetirás, pruébalo con nosotros."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Porque el sentirse bien y la estética.. empieza en y por los pies. La pedicura básica incluye limado y retirada de cutículas, hidratación y esmaltado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Relajante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Para acabar el día y dejar el estrés de la jornada o para empezarla con la relajación que el cuerpo te pide."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Terapéutico", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con técnicas manuales, tienes a tu disposición masajes descontracturantes y sacro-craneales. Para aliviarte del estrés diario, de esa mala postura en el trabajo o de esas molestias derivadas del ejercicio deportivo. Ven, consúltanos y te recomendaremos aquel que mejor se adapta a tu dolencia o malestar."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Cera Abdomen", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "Tenemos a tu disposición servicios que se adaptan a tus necesidades. En depilación con cera, según zonas, consúltanos precios."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Cera Axilas", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Tenemos a tu disposición servicios que se adaptan a tus necesidades. En depilación con cera, según zonas, consúltanos precios."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Cera Brazos", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Tenemos a tu disposición servicios que se adaptan a tus necesidades. En depilación con cera, según zonas, consúltanos precios."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Cera Cejas", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Tenemos a tu disposición servicios que se adaptan a tus necesidades. En depilación con cera, según zonas, consúltanos precios."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Cera Dorsal", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "Tenemos a tu disposición servicios que se adaptan a tus necesidades. En depilación con cera, según zonas, consúltanos precios."
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "adid": null, 
+    "name": "Clinic Beauté", 
+    "name_of_contact": "Clinic Beauté", 
+    "scrape_page": "https://www.bucmi.com/clinic-beaute", 
+    "business_website": "https://www.bucmi.com/clinic-beaute", 
+    "areas_covered": null, 
+    "description": "Centro de estética especialistas en aparatología médico estética de depilación láser. Estamos situados en pleno centro de Madrid, en el barrio de Chamberí. Ponte en manos de nuestros mejores profesionales. Notarás los resultados desde la primera sesión.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295912405822375.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295912462696826.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295912493946657.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295912525040149.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295912582383434.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "49", 
+    "hqdb_review_score": "9,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Montesa, 26", 
+    "city": "Madrid", 
+    "zipcode": "28003", 
+    "formatted_address": "C/ Montesa, 26, Madrid, 28003", 
+    "country": "es", 
+    "office_number": "910529217", 
+    "office_number2": null, 
+    "mobile_number": "633019912", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4419714000", 
+    "longitude": "-3.6979304000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636295912120511972.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "La limpieza de cutis es un tratamiento cuyo objetivo es eliminar impurezas del rostro, células muertas y puntos negros o comedones. Utilizamos aceites esenciales altamente equilibrantes que nos ayuda a relajar y recuperar el bienestar del cuerpo. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "3 Sesiones Tratamiento Facial Personalizado", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "La radiofrecuencia facial consiste en una técnica que incrementa la temperatura de las capas profundas de la piel, a un máximo de 40oC. Produciendo de esta manera la estimulación de la circulación sanguínea, lo que aumenta la formación de nuevo colágeno y elastina favoreciendo a la penetración cosmética. Es una técnica indolora y efectiva para el rejuvenecimiento facial y signos de envejecimiento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Sesiones Cuerpo Entero", 
+            "duration": 1800, 
+            "price": "239 € ", 
+            "description": "Bono 3 Sesiones Cuerpo Entero 30 minLa depilación láser diodo Leaseir es un procedimiento efectivo que consiste en la eliminación permanente o definitiva del vello que se encuentre en fase de crecimiento. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alivio Piernas Cansadas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "La presoterapia consiste en un tratamiento cuyo objetivo es estimular el drenaje linfático en nuestro organismo, de manera que nuestro sistema linfático pueda trasportar con éxito las grasas y toxinas hasta los canales naturales de desecho. Consiste en aplicar determinadas presiones de aire sobre diferentes partes del cuerpo donde se produce acumulación de líquidos como son piernas, tronco y abdomen. Está indicado para piernas cansadas, hinchadas, retención de líquidos, varices y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "La limpieza de cutis es un tratamiento cuyo objetivo es eliminar impurezas del rostro, células muertas y puntos negros o comedones. Utilizamos aceites esenciales altamente equilibrantes que nos ayuda a relajar y recuperar el bienestar del cuerpo. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "3 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "119 € ", 
+            "description": "La cavitación es un tratamiento de remodelación que consiste en aplicar ultrasonidos en determinadas zonas del cuerpo para eliminar la grasa localizada. El objetivo principal es romper las estructuras de los depósitos grasos localizados, ayudando a transformar la grasa en un elemento líquido. La grasa será eliminada por el cuerpo a través del sistema linfático y vía urinaria sin dolor y sin efectos secundarios, llegando a eliminar de nódulos celulíticos, teniendo resultados visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "3 Sesiones Tratamiento Facial Personalizado", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "La radiofrecuencia facial consiste en una técnica que incrementa la temperatura de las capas profundas de la piel, a un máximo de 40oC. Produciendo de esta manera la estimulación de la circulación sanguínea, lo que aumenta la formación de nuevo colágeno y elastina favoreciendo a la penetración cosmética. Es una técnica indolora y efectiva para el rejuvenecimiento facial y signos de envejecimiento."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alivio Piernas Cansadas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "La presoterapia consiste en un tratamiento cuyo objetivo es estimular el drenaje linfático en nuestro organismo, de manera que nuestro sistema linfático pueda trasportar con éxito las grasas y toxinas hasta los canales naturales de desecho. Consiste en aplicar determinadas presiones de aire sobre diferentes partes del cuerpo donde se produce acumulación de líquidos como son piernas, tronco y abdomen. Está indicado para piernas cansadas, hinchadas, retención de líquidos, varices y celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alivio Piernas Cansadas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "La presoterapia consiste en un tratamiento cuyo objetivo es estimular el drenaje linfático en nuestro organismo, de manera que nuestro sistema linfático pueda trasportar con éxito las grasas y toxinas hasta los canales naturales de desecho. Consiste en aplicar determinadas presiones de aire sobre diferentes partes del cuerpo donde se produce acumulación de líquidos como son piernas, tronco y abdomen. Está indicado para piernas cansadas, hinchadas, retención de líquidos, varices y celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "La limpieza de cutis es un tratamiento cuyo objetivo es eliminar impurezas del rostro, células muertas y puntos negros o comedones. Utilizamos aceites esenciales altamente equilibrantes que nos ayuda a relajar y recuperar el bienestar del cuerpo. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "3 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "119 € ", 
+            "description": "La cavitación es un tratamiento de remodelación que consiste en aplicar ultrasonidos en determinadas zonas del cuerpo para eliminar la grasa localizada. El objetivo principal es romper las estructuras de los depósitos grasos localizados, ayudando a transformar la grasa en un elemento líquido. La grasa será eliminada por el cuerpo a través del sistema linfático y vía urinaria sin dolor y sin efectos secundarios, llegando a eliminar de nódulos celulíticos, teniendo resultados visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "3 Sesiones Tratamiento Facial Personalizado", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "La radiofrecuencia facial consiste en una técnica que incrementa la temperatura de las capas profundas de la piel, a un máximo de 40oC. Produciendo de esta manera la estimulación de la circulación sanguínea, lo que aumenta la formación de nuevo colágeno y elastina favoreciendo a la penetración cosmética. Es una técnica indolora y efectiva para el rejuvenecimiento facial y signos de envejecimiento."
+        }
+    ]
+}

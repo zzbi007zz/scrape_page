@@ -1,0 +1,282 @@
+{
+    "adid": null, 
+    "name": "Mayte Esteban Estilistas", 
+    "name_of_contact": "Mayte Esteban Estilistas", 
+    "scrape_page": "https://www.bucmi.com/mayteestebanestilistas", 
+    "business_website": "https://www.bucmi.com/mayteestebanestilistas", 
+    "areas_covered": null, 
+    "description": "Salón de belleza formado en Madrid y Londres de la mano de los mejores profesionales. Mayte Esteban desarrolla una peluquería vanguardista, creativa y moderna. Define la peluquería como una expresión artística y busca en cada trabajo la perfección.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635697999255275352.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635697999264963408.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635701544131460318.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635701544193183691.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635701587377633464.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "142", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "Madrid, 28004", 
+    "country": "es", 
+    "office_number": "911288787", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4238456000", 
+    "longitude": "-3.6972637000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810740549981156.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Corte Y Peinado", 
+            "duration": 5400, 
+            "price": "69 € ", 
+            "description": "Incluye lavado (champú de color más acondicionador de color + espuma selladora), y productos de styling para el peinado. El pack perfecto para ti y lucir una melena bonita, cuidada y a todo color. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Arreglo De Barba", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Te ofrecemos una imagen actual y el estilo que mejor refleja su personalidad con un corte y un arreglo de barba, de la mano de los mejores profesionales. Un pack perfecto para un hombre con estilo, que incluye: lavado, corte y arreglo de barba. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer Y Peinado Corto", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Sea cual sea el estilo que quieras conseguir, en Mayten Esteban Estilistas obtendrás un asesoramiento personalizado, que hará que te sientas más guapa que nunca. El servicio Incluye: lavado con champú especifico para su cabello y acondicionador, terminado con un peinado a elegir con sus productos de styling. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "Incluye el matiz. Disfruta del look de última tendencia y aportale un toque de luz y de vida a tu melena para ir tú también a la moda. Trabajamos con champús y productos de acabado de la marca Redken. No incluye peinado"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Permanente Corto", 
+            "duration": 9000, 
+            "price": "85 € ", 
+            "description": "Libérate del encrespamiento, disfruta de un cabello suave y con fuerza, y mantén tus rizos bajo control con el alisado permanente de la marca Wella. Precio para cabellos cortos. Si el largo real del pelo no concuerda con el del servicio contratado, se deberá pagar un suplemento en el salón. Consulte con el profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Permanente Extralargo", 
+            "duration": 10800, 
+            "price": "300 € ", 
+            "description": "Libérate del encrespamiento, disfruta de un cabello suave y con fuerza, y mantén tus rizos bajo control con el alisado permanente de la marca Wella. Precio para cabellos extra-largos (por debajo del pecho)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Permanente Largo", 
+            "duration": 10800, 
+            "price": "200 € ", 
+            "description": "Libérate del encrespamiento y mantén tus rizos bajo control con el alisado permanente de la marca Wella. Precio para cabellos largos (por debajo del hombro). Si el largo real del pelo no concuerda con el del servicio contratado, se deberá pagar un suplemento en el salón. Consulte con el profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Permanente Melena Media", 
+            "duration": 10800, 
+            "price": "150 € ", 
+            "description": "Libérate del encrespamiento y mantén tus rizos bajo control con el alisado permanente de la marca Wella. Precio para medias melenas (por encima del hombro). Si el largo real del pelo no concuerda con el del servicio contratado, se deberá pagar un suplemento en el salón. Consulte con el profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "¿Buscas el arreglo de barba perfecto? En Mayte Esteban sabemos que es un complemento indispensable para tu look del día a día. Te ofrecemos una imagen actual y el estilo que mejor refleja su personalidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Color aplicado solo en la raíz, incluye lavado y peinado con champú de color y productos de styling. En Mayte Esteban Estilistas mimaremos tu cabello en todo momento. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Total Mujer", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "Incluido el lavado con champú y aondicionador de color más espuma selladora, más peinado a elegir con productos de styling. En Mayte Esteban Estilistas mimaremos tu cabello en todo momento. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado", 
+            "duration": 5400, 
+            "price": "69 € ", 
+            "description": "Incluye lavado (champú de color más acondicionador de color + espuma selladora), y productos de styling para el peinado. El pack perfecto para ti y lucir una melena bonita, cuidada y a todo color. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Mechas Y Peinado Pelo Corto", 
+            "duration": 7200, 
+            "price": "65 € ", 
+            "description": "Color de raíz, mechas (media cabeza), El servicio de pack incluye lavado y peinado en cabellos cortos. ¿A qué estás esperando para hacer tu reserva? Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Mechas Y Peinar Pelo Largo", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Color de raíz, mechas clásicas o Balayage, degradado natural despegado de la raíz ¡Tu eliges! El servicio de pack incluye lavado y peinado en cabellos largos. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "Incluye lavado con champús específicos para el cabello y secado al aire. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Mujer Largo", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Incluye champús específicos y peinado a elegir, disfruta de un corte clasico, vanguardista o un simple retoque. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Tratamiento De Proteínas", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "¡Disfruta de un pelo mucho más sano y bonito reservando este servicio! Nuestros profesionales se encargarán de cortar tu cabello para dejarte movimiento y unas puntas sanas. Además, también incluye un tratamiento de proteínas para fortalecer y embellecer tu melena. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Y Corte", 
+            "duration": 7200, 
+            "price": "77 € ", 
+            "description": "Incluye el matiz, lavado, corte, secado y peinado. Disfruta del look de última tendencia y aportale un toque de luz y de vida a tu melena para ir tú también a la moda. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage, Matiz, Hidrat, Corte Y Peinado", 
+            "duration": 9000, 
+            "price": "94 € ", 
+            "description": "Disfruta del pack más completo de belleza para tu cabello, reserva con nuestros expertos estilistas de Mayte Esteban este servicio que incluye nuestras mechas balayage, siguiendo las últimas tendencias, matiz para perfeccionar el color, lavado con champú e hidratación, corte asesorado y peinado final. Saldrás simplemente estupenda. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Bi-Color Y Peinado", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Puedes hacer un cambio radical en tu imagen combinando unas mechas bicolor. Los mejores estilistas te asesorarán en todo momento. Incluido el lavado con champú y acondicionador de color más peinado con productos de styling. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Completas Y Peinado", 
+            "duration": 9000, 
+            "price": "62 € ", 
+            "description": "Incluye matiz, lavado y peinado con productos especificos. Reserva online este servicio de mechas para toda la cabeza y dale un toque de luz a tu coloración. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Cabeza", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Este servicio no incluye el matiz, ni el lavado ni peinado, suplemento incluye el servicio de mechas para la media cabeza. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Paneles De Color", 
+            "duration": 900, 
+            "price": "12,5 € ", 
+            "description": "Dale un toque de luz especial a tu cabello con unos paneles de colores. Incluido el lavado con champú y acondicionador especial color, más peinado con productos de styling. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Incluido el lavado con champú especial color y acondicionador, más espuma selladora. Cabello perfecto con ese pack que te ofrecemos, al mejor precio. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Corto", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Reserva online nuestro servicio para que salgas perfecta de la peluquería. Previamente lavaremos tu melena con champú y acondicionador y posteriormente te peinaremos con estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Largo", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Reserva online nuestro servicio para que salgas perfecta de la peluquería. Previamente lavaremos tu melena con champú y acondicionador y posteriormente te peinaremos con estilo. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Permanente Corto", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Moldeador permanente o semipermanente, una técnica suave que hará que tengas un rizo abierto y muy natural. Incluye producto moldeador más lavado y peinado a elegir. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Permanente Largo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Moldeador permanente o semipermanente, una técnica suave que hará que tengas un rizo abierto y muy natural. Incluye producto moldeador más lavado y peinado a elegir."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "¿Tienes un evento o una ocasión especial? Los recogidos son tendencia... Por eso te animamos a que traigas tus ideas y te dejes asesorar por los mejores profesionales. Incluye lavado y moldeado a elegir dependiendo del recogido elegido. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Hidratación Y Peinado", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Incluido el lavado y el peinado. un tratamiento de nutrición que repara el 100% de tu cabello en 5 sesiones. Disfruta de un pelo más saludable, más fuerte y lleno de fuerza."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante Nioxin", 
+            "duration": 900, 
+            "price": "38,95 € ", 
+            "description": "Tratamiento fortalecedor del cabello, incluye exfoliación del cuero cabelludo incluyendo champú especifico y tratamiento en seco. Disfruta de un pelo más suave, más fuerte y lleno de brillo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Arreglo De Barba", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Te ofrecemos una imagen actual y el estilo que mejor refleja su personalidad con un corte y un arreglo de barba, de la mano de los mejores profesionales. Un pack perfecto para un hombre con estilo, que incluye: lavado, corte y arreglo de barba. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Y Peinado Corto", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Sea cual sea el estilo que quieras conseguir, en Mayten Esteban Estilistas obtendrás un asesoramiento personalizado, que hará que te sientas más guapa que nunca. El servicio Incluye: lavado con champú especifico para su cabello y acondicionador, terminado con un peinado a elegir con sus productos de styling. Trabajamos con champús y productos de acabado de la marca Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Un buen estilista puede hacer que luzcas elegante, hipster, atractivo, chic, o simplemente tu mismo. Incluido lavado con champú especifico para su cabello y acondicionador, terminado con un peinado a elegir con sus productos de styling. Trabajamos con champús y productos de acabado de la marca Redken."
+        }
+    ]
+}

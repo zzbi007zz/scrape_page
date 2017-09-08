@@ -36,6 +36,15 @@ class Bucmi_es(BaseSite):
     _xpath_lat = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLatitude"]'
     _xpath_long = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLongitude"]'
     _xpath_img = './/ul[@class="grid"]/li[@class="grid-item"]/a/img'
+
+    xpath_normal_price = "//li[not(@category='Preferente')]/ul/li/span[@id='lblNormalPrice']"
+    xpath_sv_name = "//li[not(@category='Preferente')]/ul/li/div/span[@id='lblServiceName']"
+    xpath_sv_desc = "//li[not(@category='Preferente')]/ul/li/div/p[@id='lblDescriptionService']"
+    xpath_sv_dur = "//li[not(@category='Preferente')]/ul/li/div/span[@id='lblTime']"
+    xpath_lst = "//ul[@class='bcmContentServiceListFront ClassAccordion']/li[@class='bcmContentServiceListFront']/h3/text()"
+    xpath_service = "//ul[@class='bcmContentServiceListFront ClassAccordion']"
+
+
     services = []
     venues = []
     _lstVenues = []
@@ -194,20 +203,24 @@ class Bucmi_es(BaseSite):
                     for score in xmlInfo.xpath(_xpathSCore):
                         vens.hqdb_review_score = score.text
                     for rate in xmlInfo.xpath(_xpathRate):
-                        vens.hqdb_nr_reviews = rate.text
+                        rate = rate.text
+                        # vens.hqdb_nr_reviews = rate.text
+                        rate = [int(s) for s in rate.split() if s.isdigit()]
+                        rate = rate[0]
+                        vens.hqdb_nr_reviews = str(rate)
                 for i in xmlLogo:
                     for img in i.xpath("@src"):
                         vens.venue_images = img
                   
-                idx = 0
-                for i in range(idx,len(_xmlMCate)):  
-                        venueCate = []
-                        for cate in _xmlMCate.xpath(_xpathCate,namespaces={'re': "http://exslt.org/regular-expressions"}):
- 
-                                _cate = cate.text.strip()
-                                venueCate.append(_cate)
-                           
-                        vens.category = ",".join(venueCate)     
+                # idx = 0
+                # for i in range(idx,len(_xmlMCate)):
+                #         venueCate = []
+                #         for cate in _xmlMCate.xpath(_xpathCate,namespaces={'re': "http://exslt.org/regular-expressions"}):
+                #
+                #                 _cate = cate.text.strip()
+                #                 venueCate.append(_cate)
+                #
+                #         vens.category = ",".join(venueCate)
                         
                 xmlVenueDetail = Util.getRequestsXML(urlDetail,'//div[@class="contentCenter"]/div')
                 xmlBussinessname = Util.getRequestsXML(urlDetail,'//div[@class="OtherVenueData"]')
@@ -226,30 +239,33 @@ class Bucmi_es(BaseSite):
                 desc = xmlVenueDetail.find(".//div[@class='DescriptionWrap']/p")
                 if desc != None and desc.text != None:
                     vens.description=desc.text.strip()
-                tel = xmlVenueDetail.find(".//div[@class='DireccionWrap']/a")
-                addr = xmlVenueDetail.xpath("//div[@class='DireccionWrap']/node()[3]")
-                if tel != None and tel.text != None:
-#                     vens.office_number = tel.text.strip()
-                    phoneNum = tel.text.strip()
-                    telNum = re.findall(r"\A[6|7]\d+", phoneNum)
-                    vens.office_number = phoneNum
-                    for numb in telNum:
-                        if len(numb) > 0 : 
-                            print "mobile ",telNum[0]
-                            if len(vens.office_number) > 0:
-                                break 
-                            else:
-                                vens.mobile_number = telNum[0]
 
-                    
-                     
+                tel = xmlVenueDetail.find(".//div[@class='DireccionWrap']/a")
+                for t in tel.xpath("@href"):
+                        phoneNum = t
+                        phoneNum = phoneNum[4:]
+                        # vens.office_number = phoneNum
+                        phoneRegex = re.compile(r'^6\d+|^7\d+')
+                        telNum = phoneRegex.search(phoneNum)
+                        if telNum:
+                            print telNum.group()
+                            telNum = telNum.group()
+                            vens.mobile_number = telNum
+                        else:
+                            vens.office_number = phoneNum
+
+                addr = xmlVenueDetail.xpath("//div[@class='DireccionWrap']/node()[3]")
                 if addr != None and len(addr) != None:
                     baseAdr= addr[0]
-#                     _addr = re.sub('', repl, string)
-#                     vens.formatted_address = baseAdr.split(",")[0].strip()
-#                     print baseAdr.split(",")[0].strip()
-                
-                    vens.street = baseAdr.split(",")[0].strip()
+
+                    baseAdr = addr[0]
+                    addRegEx = re.compile(r'\w+/\s\w+,\s\d+\s')
+                    street = addRegEx.search(baseAdr)
+                    if street:
+                        street = street.group()
+                        vens.street = street
+
+                        # vens.street = baseAdr.split(",")[0].strip()
                 
                     vens.zipcode = baseAdr.split(",")[3].strip()
         
@@ -288,31 +304,114 @@ class Bucmi_es(BaseSite):
         services = []
         
         print 'Getting service page ', url
-        xpath_service = "//form[@id='Form']/main"
-        _xmlService = Util.getRequestsXML(url,xpath_service)
-        
-        _service = _xmlService.findall(".//span[@id='lblServiceName']")
-        _price = _xmlService.findall(".//span[@class='listPromotionPriceCenter']") + _xmlService.findall(".//span[@id='lblNormalPrice']")
-        _dura = _xmlService.findall(".//span[@id='lblTime']")
-        _desc = _xmlService.findall(".//p[@id='lblDescriptionService']")
-        idx = 0
-        for i in range (idx, len(_service)):
-                sv = Service()
-                sv.service = "".join(_service[i].itertext()).strip()
-                sv.scrape_page = url
-                sv.price = "".join(_price[i].itertext()).strip()
-                sv.description ="".join(_desc[i].itertext()).strip()
-                duration = "".join(_dura[i].itertext()).strip()
-                duration = re.search(r'\d+', duration).group()
-                intDur= int(duration) * 60
-                sv.duration = intDur
-
-                services.append(sv)
-        
+        sv1 = self._serviceParser1(url)
+        services += sv1[:]
+        sv2 = self._serviceParser2(url)
+        services += sv2[:]
+        # xpath_service = "//form[@id='Form']/main"
+        # _xmlService = Util.getRequestsXML(url,xpath_service)
+        #
+        # _service = _xmlService.findall(".//span[@id='lblServiceName']")
+        # _price = _xmlService.findall(".//span[@class='listPromotionPriceCenter']") + _xmlService.findall(".//span[@id='lblNormalPrice']")
+        # _dura = _xmlService.findall(".//span[@id='lblTime']")
+        # _desc = _xmlService.findall(".//p[@id='lblDescriptionService']")
+        #
+        # idx = 0
+        # for i in range (idx, len(_service)):
+        #         sv = Service()
+        #         sv.service = "".join(_service[i].itertext()).strip()
+        #         sv.scrape_page = url
+        #         sv.price = "".join(_price[i].itertext()).strip()
+        #         sv.description ="".join(_desc[i].itertext()).strip()
+        #         duration = "".join(_dura[i].itertext()).strip()
+        #         duration = re.search(r'\d+', duration).group()
+        #         intDur= int(duration) * 60
+        #         sv.duration = intDur
+        #
+        #         services.append(sv)
+        #
          
         print 'Scrape service done'
       
         return services
+
+    def _serviceParser1(self, url):
+        services = []
+
+        xpath_service = "//form[@id='Form']/main"
+        xmlService = Util.getRequestsXML(url, xpath_service)
+        cates = xmlService.xpath("//li[contains(@class,'Preferente')]")
+        lblServiceName = xmlService.findall(".//li[@category='Preferente']/ul/li/div/span[@id='lblServiceName']")
+        lblTime = xmlService.findall(".//li[@category='Preferente']/ul/li/div/span[@id='lblTime']")
+
+        lblDescriptionService = xmlService.findall(
+            ".//li[@category='Preferente']/ul/li/div/p[@id='lblDescriptionService']")
+        lblNormalPrice = xmlService.findall(".//li[@category='Preferente']/ul/li/span[@id='lblNormalPrice']")
+
+        print "Getting service section 1 " + url
+
+        for cate in cates:
+            for i in range(len(cates)):
+                sv = Service()
+                ct = cate.attrib['category']
+                sv.service_category = ct
+
+                sName = "".join((lblServiceName[i]).itertext())
+                sv.service = sName
+
+                sTime = "".join(lblTime[i].itertext())
+                sTime = re.search(r'\d+', sTime).group()
+                dbTime = int(sTime) * 60
+                sv.duration = dbTime
+
+                sPrice = "".join(lblNormalPrice[i].itertext())
+                sv.price = sPrice
+
+                sDesc = "".join(lblDescriptionService[i].itertext())
+                sv.description = sDesc
+
+                services.append(sv)
+
+            return services
+
+
+
+    def _serviceParser2(self, url):
+        print 'Getting service section 2 ', url
+        services = []
+
+        xmlService = Util.getRequestsXML(url, self.xpath_service)
+
+        svLst = xmlService.xpath(self.xpath_lst)
+        svPrice = xmlService.xpath(self.xpath_normal_price)
+        svName = xmlService.xpath(self.xpath_sv_name)
+        svDesc = xmlService.xpath(self.xpath_sv_desc)
+        svDur = xmlService.xpath(self.xpath_sv_dur)
+
+        for item in range(len(svLst)):
+            print svLst[item]
+            cates = svLst[item]
+            xpath_count = "count(//li[@category='" + svLst[item] + "'])"
+            numbSv = xmlService.xpath(xpath_count)
+            countNum = int(numbSv)
+            item += 1
+
+            for i in range(countNum):
+                 sv = Service()
+                 sv.service_category = cates
+                 sv.service = "".join(svName[i].itertext())
+                 sv.price = "".join(svPrice[i].itertext())
+                 svTime = "".join(svDur[i].itertext())
+                 svTime = re.search(r'\d+', svTime).group()
+                 intTime = int(svTime) * 60
+                 sv.duration = intTime
+                 sv.description = "".join(svDesc[i].itertext())
+                 services.append(sv)
+
+        return services
+
+
+
         
     def removeSpecialChar(s, exceptchar=''):
         if s != None:

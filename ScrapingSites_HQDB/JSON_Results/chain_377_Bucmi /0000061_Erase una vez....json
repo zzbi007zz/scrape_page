@@ -1,0 +1,506 @@
+{
+    "adid": null, 
+    "name": "Érase una vez...", 
+    "name_of_contact": "Érase una vez...", 
+    "scrape_page": "https://www.bucmi.com/eraseunavez", 
+    "business_website": "https://www.bucmi.com/eraseunavez", 
+    "areas_covered": null, 
+    "description": "El centro de estética Érase una vez… Situado en pleno barrio de Salamanca, ofrece tratamientos faciales y corporales tales como depilación, masajes relajantes, reductores y anticelulíticos. Manicuras y pedicuras. Érase una vez una reunión entre amigas.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858848657268104.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858848678830552.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858848727580884.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858848749248271.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858848808779344.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "19", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28006", 
+    "formatted_address": "Madrid, 28020, Madrid, 28006", 
+    "country": "es", 
+    "office_number": "915641206", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4329734000", 
+    "longitude": "-3.6807357000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908667039358659.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación De Cejas Con Hilo", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Técnica procedente de Oriente Medio. La precisión, rapidez y lo indoloro y duradero que resulta hace que sea una de los métodos de depilación facial más utilizados. No irrita ni daña la piel, tiene efecto peeling y previene la aparición de arrugas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Facial Antimanchas", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Se basa en técnicas energizantes y reequilibrantes para iluminar y unificar el tono de la piel. Constituye un tratamiento completo para personas con problemas de pigmentación y de falta de uniformidad en el tono de la piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Vinylux", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Para conseguir unas manos impecables, eliminamos cutículas, limamos las uñas, aplicamos un esmaltado con el color elegido de la gama Vinylux, y finalizamos con un masaje relajante. Haz tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente Shellac", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Para quienes quieren un esmaltado más duradero, realizamos una manicura completa y aplicamos un esmaltado permanente Shellac utilizando una lámpara de luz UV. Una manicura perfecta que dura 2 ó incluso 3 semanas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Express", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Para las que no tienen mucho tiempo pero quieren unas manos cuidadas les ayudamos con un limado y esmaltado básico, finalizando con un rápido masaje hidratante como regalo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Express", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Para quienes tienen poco tiempo limamos, realizamos un esmaltado, e hidratamos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Especial Novias", 
+            "duration": 12600, 
+            "price": "175 € ", 
+            "description": "3 horas y media consistentes en: peeling corporal, masaje relajante e hidratante, limpieza de cutis por dermoabrasión, mesoterapia virtual, mascarilla de ácido hialurónico, manicura y pedicura completa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Especial Novias De Luxe", 
+            "duration": 14400, 
+            "price": "275 € ", 
+            "description": "5 horas para preparar a la novia en el día más importante de su vida: limpieza de cutis por dermoabrasión, 3 sesiones de radiofrecuencia facial, manicura y pedicura permanente, peeling corporal y masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Especial Novias", 
+            "duration": 12600, 
+            "price": "175 € ", 
+            "description": "3 horas y media consistentes en: peeling corporal, masaje relajante e hidratante, limpieza de cutis por dermoabrasión, mesoterapia virtual, mascarilla de ácido hialurónico, manicura y pedicura completa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Especial Novias De Luxe", 
+            "duration": 14400, 
+            "price": "275 € ", 
+            "description": "5 horas para preparar a la novia en el día más importante de su vida: limpieza de cutis por dermoabrasión, 3 sesiones de radiofrecuencia facial, manicura y pedicura permanente, peeling corporal y masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Beauty Face", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Es un peeling facial con dermoabrasión con punta de diamante para eliminar células muertas y unificar el tono de la piel + ultrasonidos para regenerar los tejidos y aportar luminosidad y firmeza."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "265 € ", 
+            "description": "Bono de 10 sesiones de presoterapia. Drenaje linfático a través de un masaje que estimula la circulación, aumenta la oxigenación del cuerpo y fortalece el sistema inmunológico. Ayuda a eliminar la celulitis y previene su acumulación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Circuito Caliente", 
+            "duration": 3600, 
+            "price": "265 € ", 
+            "description": "6 sesiones de 1 hora en las que combinamos la manta sauna y la presoterapia. Se consigue acelerar el metabolismo basal para quemar más calorías, mejorar la circulación sanguínea y linfática, se eliminan toxinas, se reduce volumen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Circuito Frio", 
+            "duration": 3600, 
+            "price": "245 € ", 
+            "description": "6 sesiones de 1 hora en las que se combinan las vendas frias (envolturas crioterápicas localizadas) y la presoterapia (masaje que estimula la circulación); se consigue mejorar la circulación sanguíne y linfática, reafirmar combatir la flacidez y ayudar a quemar grasa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Corporal Intensivo De", 
+            "duration": 5400, 
+            "price": "489 € ", 
+            "description": "Consta de 4 sesiones de 90 minutos. Tras una valoración inicial, realizamos un peeling de ozono para eliminar las células muertas y dejar la piel preparada para el tratamiento con envoltura de lodos termales reductores, fotoelectroporación y presoterapia. Reduce y reafirma en tiempo récord."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Corporal Reafirmante", 
+            "duration": 3600, 
+            "price": "289 € ", 
+            "description": "Consta de 5 sesiones de 1 hora en la que se combinan diferentes técnicas manuales y con aparatología para activar el colágeno y la eslastina de la piel, consiguiendo reafirmar los tejidos y tonificar la musculatura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Facial Antiedad", 
+            "duration": 3600, 
+            "price": "325 € ", 
+            "description": "6 sesiones de 1 hora de tratamiento con mesoterapia virtual para conseguir que las vitaminas regeneradoras lleguen a las capas más profundas de la piel, y una mascarilla de placton. El resultado es una piel más joven y llena de vida."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Facial Antiedad Reafirmante", 
+            "duration": 3600, 
+            "price": "379 € ", 
+            "description": "6 sesiones de 1 hora combinando diferentes técnicas de tratamiento para aportar luminosidad a la piel, activar el colágeno y la elastina y conseguir una piel más joven: limpieza de cutis con dermoabrasión por punta de diamante, radiofrecuencia, ácido hialurónico, mesoterapia virtual y tratamiento antioxidante con la firma Skinceuticals ."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Facial Antimanchas", 
+            "duration": 2700, 
+            "price": "369 € ", 
+            "description": "6 sesiones de 45 minutos de tratamiento combinando la dermoabrasión con punta de diamante y la mesoterapia virtual con principios activos depigmentantes para iluminar y unificar el tono de la piel. Un tratamiento completo para personas con problemas de pigmentación y de falta de uniformidad en el tono de la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Facial Combinado", 
+            "duration": 2700, 
+            "price": "249 € ", 
+            "description": "6 sesiones de 45 minutos de tratamiento con la aplicación de un cóctel de vitaminas o de ácido hialurónico, dependiendo de las necesidadesde la piel. Un choque de hidratación y nutrición para la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Facial De Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "195 € ", 
+            "description": "Reafirma y renueva el colágeno y la elastina desde la dermis hasta la hipodermis a través de ondas de radio que generan calor. Mejora el aspecto de la piel activando el proceso de remodelación y de rejuvenecimiento de la misma reafirmando los tejidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Facial Reafirmante", 
+            "duration": 2700, 
+            "price": "289 € ", 
+            "description": "6 sesiones de 45 minutos de tratamiento combiando radiofrecuencia, fotoporación, tratamiento con jade para activar la producción de colágeno y elastina de la piel y reafirmar los tejidos definiendo el óvalo facial y recuperando su aspecto terso y joven."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Facial Regenerador", 
+            "duration": 3600, 
+            "price": "485 € ", 
+            "description": "6 sesiones de 1 hora de tratamiento con la firma SkinCeuticals (líder en tratamientos médico-estéticos antioxidantes) + radiofrecuencia facial para regenerar el cólageno de la piel consiguiendo una piel más firme, luminosa y sin arrugas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Combinado Facial Bambuterapia + Radiofrecuencia", 
+            "duration": 2700, 
+            "price": "59 € ", 
+            "description": "Combinando los beneficios de la bambuterapia con la radiofrecuencia potenciamos doblemente la regeneración del colágeno y la elastina de la piel consiguiendo desde dentro un aspecto totalmente renovado y joven."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Especial Novias", 
+            "duration": 12600, 
+            "price": "175 € ", 
+            "description": "3 horas y media consistentes en: peeling corporal, masaje relajante e hidratante, limpieza de cutis por dermoabrasión, mesoterapia virtual, mascarilla de ácido hialurónico, manicura y pedicura completa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Especial Novias De Luxe", 
+            "duration": 14400, 
+            "price": "275 € ", 
+            "description": "5 horas para preparar a la novia en el día más importante de su vida: limpieza de cutis por dermoabrasión, 3 sesiones de radiofrecuencia facial, manicura y pedicura permanente, peeling corporal y masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Facial Antiedad", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Durante 60 minutos disfruta de dos tratamientos: mesoterapia virtual, mascarilla de placton consiguiendo una piel más joven y llena de vida."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Facial Antimanchas", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Se basa en técnicas energizantes y reequilibrantes para iluminar y unificar el tono de la piel. Constituye un tratamiento completo para personas con problemas de pigmentación y de falta de uniformidad en el tono de la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Facial De Placnton", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "La aplicación de una mascarilla de bioplacton mediante un profundo masaje manual conseguimos de forma natural oxigenar la piel y aportar los nutrientes necesarios consiguiendo una piel nutrida e hidratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Fotorejuvenecimiento Facial Y Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "Tratamiento para eliminar manchas, reducir arrugas, regenerar la piel y unificar el tono redefiniendo el óvalo facial a la vez que aportamos luminosidad a la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "A través del polvo de diamante se consigue una exfoliación y una abrasión controlada de la piel induciendo a una renovación celular. Seguimos con un protocolo específico al tipo de piel finalizando con un masaje facial consiguiendo una piel limpia y oxigenada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Kobido Contorno De Ojos", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Conocido como 'el masaje de las emperatrices' por su piel tersa y aterciopelada. Es una técnica manual aplicada al contorno de ojos consigue elevar el párpado, reducir bolsas y ojeras y patas de gallo. Una mirada renovada y joven."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masajes Anticelulíticos 30 Minutos", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Mediante técnicas específicas y aceites esenciales mejoramos la apariencia de piel de naranja, impedimos la evolución de la celulitis y la formación de cúmulos de grasa activando el sistema circulatorio e impidiendo la retención de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masajes Anticelulíticos 60 Minutos", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Mediante técnicas específicas y aceites esenciales mejoramos la apariencia de piel de naranja, impedimos la evolución de la celulitis y la formación de cúmulos de grasa activando el sistema circulatorio e impidiendo la retención de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Ozonizado", 
+            "duration": 1800, 
+            "price": "49 € ", 
+            "description": "Este peeling ozonizado con sales del Mar Muerto renovará tus células y junto con una mezcla de aceites te dejarán la piel suave como la seda."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Plataforma Vibratoria", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Entrenamiento de 10 minutos que provoca una contracción muscular involuntaria, aumenta el flujo de la circulación sanguínea y linfática, la disolución de grasa y la eliminación de celulitis ayudando a endurecer los músculos y a remodelar el cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Drenaje linfático consistente en un masajeo continuo o alterno para estimular la circulación, aumentar la oxigenación del cuerpo, fortalecer el sistema inmunológico, y estimula los músculos. Ayuda a eliminar la celulitis y previene su acumulación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Antiedad Reafirmante", 
+            "duration": 3600, 
+            "price": "79 € ", 
+            "description": "Tratamiento antiedad mediante radiofrecuencia y mascarilla de ácido hialurónico consiguinedo una piel más joven, regenerada y sin arrugas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Exfoliante De Ozono", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Peeling corporal ozonizado para eliminar las células muertas, lodos termales reductores, masaje corporal hidratante. En una sola sesión reduce hasta 4 centímetros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Con Luz De Led", 
+            "duration": 3600, 
+            "price": "89 € ", 
+            "description": "Tratamiento facial con piedras de jade para oxigenar la piel, mascarilla de ácido hialurónico para rejuvenecer, reducir arrugas y revitalizar la piel y máscara personalizada al tipo de piel con luz de LED."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vital Face", 
+            "duration": 3600, 
+            "price": "89 € ", 
+            "description": "Iniciamos el tratamiento con una limpieza profunda con dermoabrasión, mascarilla con luz de LED y coctel de vitaminas consiguiendo una piel fantástica en una sola sesión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Especial Novias", 
+            "duration": 12600, 
+            "price": "175 € ", 
+            "description": "3 horas y media consistentes en: peeling corporal, masaje relajante e hidratante, limpieza de cutis por dermoabrasión, mesoterapia virtual, mascarilla de ácido hialurónico, manicura y pedicura completa."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Especial Novias De Luxe", 
+            "duration": 14400, 
+            "price": "275 € ", 
+            "description": "5 horas para preparar a la novia en el día más importante de su vida: limpieza de cutis por dermoabrasión, 3 sesiones de radiofrecuencia facial, manicura y pedicura permanente, peeling corporal y masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Beauty Face", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Es un peeling facial con dermoabrasión con punta de diamante para eliminar células muertas y unificar el tono de la piel + ultrasonidos para regenerar los tejidos y aportar luminosidad y firmeza."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "265 € ", 
+            "description": "Bono de 10 sesiones de presoterapia. Drenaje linfático a través de un masaje que estimula la circulación, aumenta la oxigenación del cuerpo y fortalece el sistema inmunológico. Ayuda a eliminar la celulitis y previene su acumulación."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Circuito Caliente", 
+            "duration": 3600, 
+            "price": "265 € ", 
+            "description": "6 sesiones de 1 hora en las que combinamos la manta sauna y la presoterapia. Se consigue acelerar el metabolismo basal para quemar más calorías, mejorar la circulación sanguínea y linfática, se eliminan toxinas, se reduce volumen."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Circuito Frio", 
+            "duration": 3600, 
+            "price": "245 € ", 
+            "description": "6 sesiones de 1 hora en las que se combinan las vendas frias (envolturas crioterápicas localizadas) y la presoterapia (masaje que estimula la circulación); se consigue mejorar la circulación sanguíne y linfática, reafirmar combatir la flacidez y ayudar a quemar grasa."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Especial Novias", 
+            "duration": 12600, 
+            "price": "175 € ", 
+            "description": "3 horas y media consistentes en: peeling corporal, masaje relajante e hidratante, limpieza de cutis por dermoabrasión, mesoterapia virtual, mascarilla de ácido hialurónico, manicura y pedicura completa."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Especial Novias De Luxe", 
+            "duration": 14400, 
+            "price": "275 € ", 
+            "description": "5 horas para preparar a la novia en el día más importante de su vida: limpieza de cutis por dermoabrasión, 3 sesiones de radiofrecuencia facial, manicura y pedicura permanente, peeling corporal y masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Beauty Face", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Es un peeling facial con dermoabrasión con punta de diamante para eliminar células muertas y unificar el tono de la piel + ultrasonidos para regenerar los tejidos y aportar luminosidad y firmeza."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "265 € ", 
+            "description": "Bono de 10 sesiones de presoterapia. Drenaje linfático a través de un masaje que estimula la circulación, aumenta la oxigenación del cuerpo y fortalece el sistema inmunológico. Ayuda a eliminar la celulitis y previene su acumulación."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Circuito Caliente", 
+            "duration": 3600, 
+            "price": "265 € ", 
+            "description": "6 sesiones de 1 hora en las que combinamos la manta sauna y la presoterapia. Se consigue acelerar el metabolismo basal para quemar más calorías, mejorar la circulación sanguínea y linfática, se eliminan toxinas, se reduce volumen."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Circuito Frio", 
+            "duration": 3600, 
+            "price": "245 € ", 
+            "description": "6 sesiones de 1 hora en las que se combinan las vendas frias (envolturas crioterápicas localizadas) y la presoterapia (masaje que estimula la circulación); se consigue mejorar la circulación sanguíne y linfática, reafirmar combatir la flacidez y ayudar a quemar grasa."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Corporal Intensivo De", 
+            "duration": 5400, 
+            "price": "489 € ", 
+            "description": "Consta de 4 sesiones de 90 minutos. Tras una valoración inicial, realizamos un peeling de ozono para eliminar las células muertas y dejar la piel preparada para el tratamiento con envoltura de lodos termales reductores, fotoelectroporación y presoterapia. Reduce y reafirma en tiempo récord."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Especial Novias", 
+            "duration": 12600, 
+            "price": "175 € ", 
+            "description": "3 horas y media consistentes en: peeling corporal, masaje relajante e hidratante, limpieza de cutis por dermoabrasión, mesoterapia virtual, mascarilla de ácido hialurónico, manicura y pedicura completa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Especial Novias De Luxe", 
+            "duration": 14400, 
+            "price": "275 € ", 
+            "description": "5 horas para preparar a la novia en el día más importante de su vida: limpieza de cutis por dermoabrasión, 3 sesiones de radiofrecuencia facial, manicura y pedicura permanente, peeling corporal y masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Beauty Face", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Es un peeling facial con dermoabrasión con punta de diamante para eliminar células muertas y unificar el tono de la piel + ultrasonidos para regenerar los tejidos y aportar luminosidad y firmeza."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "265 € ", 
+            "description": "Bono de 10 sesiones de presoterapia. Drenaje linfático a través de un masaje que estimula la circulación, aumenta la oxigenación del cuerpo y fortalece el sistema inmunológico. Ayuda a eliminar la celulitis y previene su acumulación."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Circuito Caliente", 
+            "duration": 3600, 
+            "price": "265 € ", 
+            "description": "6 sesiones de 1 hora en las que combinamos la manta sauna y la presoterapia. Se consigue acelerar el metabolismo basal para quemar más calorías, mejorar la circulación sanguínea y linfática, se eliminan toxinas, se reduce volumen."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Circuito Frio", 
+            "duration": 3600, 
+            "price": "245 € ", 
+            "description": "6 sesiones de 1 hora en las que se combinan las vendas frias (envolturas crioterápicas localizadas) y la presoterapia (masaje que estimula la circulación); se consigue mejorar la circulación sanguíne y linfática, reafirmar combatir la flacidez y ayudar a quemar grasa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Corporal Intensivo De", 
+            "duration": 5400, 
+            "price": "489 € ", 
+            "description": "Consta de 4 sesiones de 90 minutos. Tras una valoración inicial, realizamos un peeling de ozono para eliminar las células muertas y dejar la piel preparada para el tratamiento con envoltura de lodos termales reductores, fotoelectroporación y presoterapia. Reduce y reafirma en tiempo récord."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Especial Novias", 
+            "duration": 12600, 
+            "price": "175 € ", 
+            "description": "3 horas y media consistentes en: peeling corporal, masaje relajante e hidratante, limpieza de cutis por dermoabrasión, mesoterapia virtual, mascarilla de ácido hialurónico, manicura y pedicura completa."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Especial Novias De Luxe", 
+            "duration": 14400, 
+            "price": "275 € ", 
+            "description": "5 horas para preparar a la novia en el día más importante de su vida: limpieza de cutis por dermoabrasión, 3 sesiones de radiofrecuencia facial, manicura y pedicura permanente, peeling corporal y masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Especial Novias", 
+            "duration": 12600, 
+            "price": "175 € ", 
+            "description": "3 horas y media consistentes en: peeling corporal, masaje relajante e hidratante, limpieza de cutis por dermoabrasión, mesoterapia virtual, mascarilla de ácido hialurónico, manicura y pedicura completa."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Especial Novias De Luxe", 
+            "duration": 14400, 
+            "price": "275 € ", 
+            "description": "5 horas para preparar a la novia en el día más importante de su vida: limpieza de cutis por dermoabrasión, 3 sesiones de radiofrecuencia facial, manicura y pedicura permanente, peeling corporal y masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Beauty Face", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Es un peeling facial con dermoabrasión con punta de diamante para eliminar células muertas y unificar el tono de la piel + ultrasonidos para regenerar los tejidos y aportar luminosidad y firmeza."
+        }
+    ]
+}

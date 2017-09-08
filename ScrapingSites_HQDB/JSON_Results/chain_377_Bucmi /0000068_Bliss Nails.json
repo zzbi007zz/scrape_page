@@ -1,0 +1,297 @@
+{
+    "adid": null, 
+    "name": "Bliss Nails", 
+    "name_of_contact": "Bliss Nails", 
+    "scrape_page": "https://www.bucmi.com/blissnails", 
+    "business_website": "https://www.bucmi.com/blissnails", 
+    "areas_covered": null, 
+    "description": "Ven al centro de estética Bliss Nails, situado en pleno barrio de Salamanca donde podrás encontrar sercvicios de uñas, depilaciones e incluso tratamientos de pestañas como permanente o el novedoso lifting. No esperes más y reserva ahora online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636332126560240866.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636332126576803380.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636332126591178187.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636332126601021820.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636332126614771817.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636332126623990505.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "61", 
+    "hqdb_review_score": "8,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cartagena, 1", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Cartagena, 1, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "910852205", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4322376000", 
+    "longitude": "-3.6818929999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636332128013349794.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño De Cejas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Depilación y tinte de cejas, para una mirada perfecta. Dale una apariencia poblada y definida a tus cejas para conseguir una mayor personalidad en tu rostro. No lo dudes, confía en nuestro equipo de profesionales que trabajarán para conseguir el mejor resultado. Reserva ya cómodamente online y no te arrepentirás. ¿A qué estás esperando? ¡Que no te lo cuenten, con un solo clic!D"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Manicura de larga duración, en las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado permanente con el color o francesa de la marca Opi o Shellac. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación! Podrás olvidarte durante más de 3 semanas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "La manicura más completa de la mano de las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado con el color o francesa con marcas como Opi y Vinylux. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Realizamos extensión de pestañas pelo a pelo, para conseguir unas pestañas más pobladas y voluminosas de la manera más natural. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si notas que tu piel necesita una buena limpieza, para que vuelva a conseguir la luminosidad perdida con el paso de los meses. El servicio es completo, desmaquillamos la piel, eliminamos impurezas, tonificamos el rostro y aplicamos una mascarilla hidratante al final para que el tratamiento sea completo. Trabajamos con productos de Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Nueva técnica innovadora, para conseguir unas pestañas más largas durante al menos 1 mes. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Y Tinte De Pestañas", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Tinte y lifting de pestañas en el mismo momento, para embellecer tu mirada. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microblanding Cejas 1 Hora Y 15 Minutos", 
+            "duration": 5400, 
+            "price": "250 € ", 
+            "description": "Técnica novedosa para rellenar el vello de tus cejas, dibujamos pelo a pelo para un efecto más natural de ceja poblada. Este tratamiento tiene una duración en tu piel de más de un año. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Cejas", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Tinte de cejas adecuado a tu color de piel y cabello, para dar la apariencia de cejas pobladas. Utilizamos productos de calidad para que el resultado sea espectacular. De esta forma, podrás lucir unas cejas que darán personalidad a tu rostro. ¡No lo dudes y reserva ya cómodamente online! Confía en nuestros profesionales que trabajarán para conseguir el mejor resultado. ¿A qué estas esperando? ¡No te arrepentirás!D"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Tinte de pestañas en el mismo momento, para embellecer tu mirada. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Realizamos extensión de pestañas pelo a pelo, para conseguir unas pestañas más pobladas y voluminosas de la manera más natural. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si notas que tu piel necesita una buena limpieza, para que vuelva a conseguir la luminosidad perdida con el paso de los meses. El servicio es completo, desmaquillamos la piel, eliminamos impurezas, tonificamos el rostro y aplicamos una mascarilla hidratante al final para que el tratamiento sea completo. Trabajamos con productos de Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lifting De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Nueva técnica innovadora, para conseguir unas pestañas más largas durante al menos 1 mes. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lifting Y Tinte De Pestañas", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Tinte y lifting de pestañas en el mismo momento, para embellecer tu mirada. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Microblanding Cejas 1 Hora Y 15 Minutos", 
+            "duration": 5400, 
+            "price": "250 € ", 
+            "description": "Técnica novedosa para rellenar el vello de tus cejas, dibujamos pelo a pelo para un efecto más natural de ceja poblada. Este tratamiento tiene una duración en tu piel de más de un año. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte De Cejas", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Tinte de cejas adecuado a tu color de piel y cabello, para dar la apariencia de cejas pobladas. Utilizamos productos de calidad para que el resultado sea espectacular. De esta forma, podrás lucir unas cejas que darán personalidad a tu rostro. ¡No lo dudes y reserva ya cómodamente online! Confía en nuestros profesionales que trabajarán para conseguir el mejor resultado. ¿A qué estas esperando? ¡No te arrepentirás!D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Tinte de pestañas en el mismo momento, para embellecer tu mirada. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Express", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "La manicura más express, en manos de las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada y esmaltado con el color o francesa de marcas como Opi y Vinylux. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Manicura de larga duración, en las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado permanente con el color o francesa de la marca Opi o Shellac. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación! Podrás olvidarte durante más de 3 semanas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Manicura Y Pedicura", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Luce unas manos y pies perfectos de la mano de los mejores profesionales. El servicio incluye limado, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras o francesa de la marca Opi o Vinylux. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación!D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Completa", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "La pedicura más completa de la mano de las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado con el color o francesa con marcas como Opi y Vinylux. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unos pies bonitos y cuidados serán una buena carta de presentación!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Express", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "La pedicura más express, en pies de las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada y esmaltado con el color o francesa. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unos pies bonitos y cuidados! Trabajamos con Opi y Vinylux."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensión De Pestañas", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Realizamos extensión de pestañas pelo a pelo, para conseguir unas pestañas más pobladas y voluminosas de la manera más natural. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si notas que tu piel necesita una buena limpieza, para que vuelva a conseguir la luminosidad perdida con el paso de los meses. El servicio es completo, desmaquillamos la piel, eliminamos impurezas, tonificamos el rostro y aplicamos una mascarilla hidratante al final para que el tratamiento sea completo. Trabajamos con productos de Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Nueva técnica innovadora, para conseguir unas pestañas más largas durante al menos 1 mes. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting Y Tinte De Pestañas", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Tinte y lifting de pestañas en el mismo momento, para embellecer tu mirada. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Microblanding Cejas 1 Hora Y 15 Minutos", 
+            "duration": 5400, 
+            "price": "250 € ", 
+            "description": "Técnica novedosa para rellenar el vello de tus cejas, dibujamos pelo a pelo para un efecto más natural de ceja poblada. Este tratamiento tiene una duración en tu piel de más de un año. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Cejas", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Tinte de cejas adecuado a tu color de piel y cabello, para dar la apariencia de cejas pobladas. Utilizamos productos de calidad para que el resultado sea espectacular. De esta forma, podrás lucir unas cejas que darán personalidad a tu rostro. ¡No lo dudes y reserva ya cómodamente online! Confía en nuestros profesionales que trabajarán para conseguir el mejor resultado. ¿A qué estas esperando? ¡No te arrepentirás!D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Tinte de pestañas en el mismo momento, para embellecer tu mirada. Consigue así una mirada mucho más profunda, siempre en las mejores manos. Olvídate de la máscara de pestañas. ¡Reserva ya cómodamente online y te encantará el resultado! En Bliss Nails nos preocupamos por tu belleza, con la mejor técnica. ¡Estarás muy satisfecha!D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Express", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "La manicura más express, en manos de las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada y esmaltado con el color o francesa de marcas como Opi y Vinylux. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Manicura de larga duración, en las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado permanente con el color o francesa de la marca Opi o Shellac. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación! Podrás olvidarte durante más de 3 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Manicura Y Pedicura", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Luce unas manos y pies perfectos de la mano de los mejores profesionales. El servicio incluye limado, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras o francesa de la marca Opi o Vinylux. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación!D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Completa", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "La pedicura más completa de la mano de las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado con el color o francesa con marcas como Opi y Vinylux. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unos pies bonitos y cuidados serán una buena carta de presentación!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Express", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "La pedicura más express, en pies de las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada y esmaltado con el color o francesa. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unos pies bonitos y cuidados! Trabajamos con Opi y Vinylux."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Permanente", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Pedicura de larga duración, en las mejores profesionales. El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, masaje y esmaltado permanente con el color o francesa. Elige el tono que más te guste, que más vaya contigo; entre los más clásicos o más atrevidos. ¡No lo dudes y reserva ya este servicio con nosotros! ¡Porque unos pies bonitos y cuidados serán una buena carta de presentación! Podrás olvidarte durante más de 3 semanas con Opi y Shellac."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Relleno De Uñas De Gel", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Reserva online a través de Bucmi el servicio de relleno de uñas de gel para mantener unas manos perfectas por mucho más tiempo. El servicio incluye el esmaltado normal a escoger entre nuestra gama de colores. Déjate asesorar por nuestras manicuristas, ellas conseguirán un resultado perfecto."
+        }
+    ]
+}

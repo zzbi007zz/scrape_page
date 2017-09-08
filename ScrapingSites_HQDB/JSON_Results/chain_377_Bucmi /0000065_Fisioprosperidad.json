@@ -1,0 +1,85 @@
+{
+    "adid": null, 
+    "name": "Fisioprosperidad", 
+    "name_of_contact": "Fisioprosperidad", 
+    "scrape_page": "https://www.bucmi.com/fisioprosperidad", 
+    "business_website": "https://www.bucmi.com/fisioprosperidad", 
+    "areas_covered": null, 
+    "description": "Centro de fisioterapia en Madrid, compuesto por fisioterapeutas Colegiados. Disponemos de tratamientos personalizados acorde a las necesidades de cada cliente. Estamos en Prosperidad, ven a vernos y podremos eliminar tus dolencias. Reserva con Bucmi.com.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858860692449371.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858860711513542.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858860728700991.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858860736982199.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "14", 
+    "hqdb_review_score": "9,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cartagena, 1", 
+    "city": "Madrid", 
+    "zipcode": "28002", 
+    "formatted_address": "C/ Cartagena, 1, Madrid, 28002", 
+    "country": "es", 
+    "office_number": "915151598", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4421195000", 
+    "longitude": "-3.6720721000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908672061768894.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Activación del funcionamiento del sistema linfático superficial para mejorar la eliminación del líquido intersticial y optimizar su evacuación. Tratamiento totalmente manual sobre la zona problemática realizado por fisioterapeutas colegiados."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fisioterapia Aceites Esenciales", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Masaje Terapéutico relajante con aceites esenciales. La sesión tiene una duración de 45 minutos y lo realizan fisioterapeutas colegiados. Notarás los resultados desde el principio y saldrás como nuevo de nuestra clínica."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión Fisioterapia", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Sesión completa de fisioterapia para recuperar tus lesiones: esguinces, fracturas, dolor de espalda. Tratamiento aplicado por fisioterapeutas colegiados. Incluye valoración previa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Activación del funcionamiento del sistema linfático superficial para mejorar la eliminación del líquido intersticial y optimizar su evacuación. Tratamiento totalmente manual sobre la zona problemática realizado por fisioterapeutas colegiados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Activación del funcionamiento del sistema linfático superficial para mejorar la eliminación del líquido intersticial y optimizar su evacuación. Tratamiento totalmente manual sobre la zona problemática realizado por fisioterapeutas colegiados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia Aceites Esenciales", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Masaje Terapéutico relajante con aceites esenciales. La sesión tiene una duración de 45 minutos y lo realizan fisioterapeutas colegiados. Notarás los resultados desde el principio y saldrás como nuevo de nuestra clínica."
+        }
+    ]
+}

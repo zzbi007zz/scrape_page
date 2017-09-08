@@ -1,0 +1,963 @@
+{
+    "adid": null, 
+    "name": "Val Souza Estilistas", 
+    "name_of_contact": "Val Souza Estilistas", 
+    "scrape_page": "https://www.bucmi.com/valsouzaestilistas", 
+    "business_website": "https://www.bucmi.com/valsouzaestilistas", 
+    "areas_covered": null, 
+    "description": "Descubre la pelu más innovadora en el corazón del barrio de lavapiés. Trabajamos con las mejores marcas para cuidar de tu pelo y te asesoraremos para que puedas lucir un corte y peinado a la última moda.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017559148190039.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017559149596397.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017559150221456.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017559146783763.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017559281346683.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017559282284364.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017559283221594.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "32", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cartagena, 1", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Cartagena, 1, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "910189869", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4089728999", 
+    "longitude": "-3.7051979000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636017560364435346.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Labio Perfilado", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "¿Te gustaría dar más vida a tu cara? Consigue unas cejas más definidas, labio y ojos destacados, y un rostro más equilibrado con las técnicas de microblading y micropigmentación.MICROPIGMENTACIÓN se considera una técnica de maquillaje permanente muy versátil, dando forma y volumen, tapando imperfecciones o dando una pequeña mejorada en las cejas, labio y ojos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Labio Perfilado & Relleno", 
+            "duration": 14400, 
+            "price": "250 € ", 
+            "description": "¿Te gustaría dar más vida a tu cara? Consigue unas cejas más definidas, labio y ojos destacados, y un rostro más equilibrado con las técnicas de microblading y micropigmentación.MICROPIGMENTACIÓN se considera una técnica de maquillaje permanente muy versátil, dando forma y volumen, tapando imperfecciones o dando una pequeña mejorada en las cejas, labio y ojos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Microblading Cejas Pelo A Pelo", 
+            "duration": 14400, 
+            "price": "180 € ", 
+            "description": "¿Te gustaría dar más vida a tu cara? Consigue unas cejas más definidas, labio y ojos destacados, y un rostro más equilibrado con las técnicas de microblading y micropigmentación.MICROBLADING tiene sus origines en tebori, el tatuaje tradicional japonés. Se dibuje la ceja pelo por pelo a mano, al nivel superficial, adaptándose a tu cara, y consiguiendo un aspecto más real debido a su precisión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Micropigmentación Eyeliner Inferior", 
+            "duration": 7200, 
+            "price": "144 € ", 
+            "description": "¿Te gustaría dar más vida a tu cara? Consigue unas cejas más definidas, labio y ojos destacados, y un rostro más equilibrado con las técnicas de microblading y micropigmentación.MICROPIGMENTACIÓN se considera una técnica de maquillaje permanente muy versátil, dando forma y volumen, tapando imperfecciones o dando una pequeña mejorada en las cejas, labio y ojos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Micropigmentación Eyeliner Superior", 
+            "duration": 7200, 
+            "price": "228 € ", 
+            "description": "¿Te gustaría dar más vida a tu cara? Consigue unas cejas más definidas, labio y ojos destacados, y un rostro más equilibrado con las técnicas de microblading y micropigmentación.MICROPIGMENTACIÓN se considera una técnica de maquillaje permanente muy versátil, dando forma y volumen, tapando imperfecciones o dando una pequeña mejorada en las cejas, labio y ojos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Rellenar Cejas", 
+            "duration": 9000, 
+            "price": "108 € ", 
+            "description": "¿Te gustaría dar más vida a tu cara? Consigue unas cejas más definidas, labio y ojos destacados, y un rostro más equilibrado con las técnicas de microblading y micropigmentación.MICROPIGMENTACIÓN se considera una técnica de maquillaje permanente muy versátil, dando forma y volumen, tapando imperfecciones o dando una pequeña mejorada en las cejas, labio y ojos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Brasileño Salvatore (Pelo Medio)", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Redken (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre Pelo Corto Y Medio", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les gusta cuidar de su imagen. El servicio incluye un corte asesorado de la mano de nuestros estilistas de Val Souza, lavado con champú y acabado con productos de styling. No lo dudes y haz tu reserva de un solo clic. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Ingles Brasileñas Mujer", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "¿Quieres olvidarte de la depilación por un par de semanas y no tener que recurrir a las cuchillas de manera diaria? Confía en nuestros expertos esteticistas de Val Souza y podrás lucir una piel suave y sedosa gracias a nuestro servicio de cera de un solo uso. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Depilación Cera Femenina", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¡Olvídate del vello por un tiempo con este pack completo de depilación femenina con cera! Las zonas que incluyen son piernas enteras,ingles, axilas, cejas y labio superior. Ponte en manos de nuestros mejores profesionales y estate siempre a punto con este servicio. ¡Calidad al mejor precio en nuestro centro! ¿A qué estás esperando para lucir una piel suave y sedosa! ¡Reserva ya en Bucmi!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Depilación Cera Masculina", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¡Olvídate del vello por un tiempo con este pack completo de depilación masculina con cera! Las zonas que incluyen son piernas enteras, espalda o pecho, cejas y axilas. Ponte en manos de nuestros mejores profesionales y estate siempre a punto con este servicio. ¡Calidad al mejor precio en nuestro centro! ¿A qué estás esperando para lucir una piel suave y sedosa! ¡Reserva ya en Bucmi!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Depilación Completa Cera Masculina", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "¡Olvídate del vello por un tiempo con este pack completo de depilación masculina con cera! Las zonas que incluyen son piernas enteras,ingles, espalda, pecho, axilas, brazos y glúteos. Ponte en manos de nuestros mejores profesionales y estate siempre a punto con este servicio. ¡Calidad al mejor precio en nuestro centro! ¿A qué estás esperando para lucir una piel suave y sedosa! ¡Reserva ya en Bucmi!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Quiromasaje", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Sergio ofrece un tratamiento personalizado de disfunciones en la columna vertebral, las articulaciones, el sistema nervioso, el sistema muscular, las vísceras y el cráneo. *Por favor, pedir cita con mínima DOS DÍAS de antelación.*"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer Y Secado Media Melena", 
+            "duration": 2700, 
+            "price": "14,5 € ", 
+            "description": "¿Te atreves con un cambio de look? Ven a conocernos y ponte en manos de los mejores profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento, secado y productos de acabado en tocador. Si quieres un look de tendencia, reserva este servicio de Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "¿Quieres unas manos perfectas durante al menos 3 semanas? Limamos, retiramos cutículas, hidratamos y esmaltamos con el color que más te guste. Solo tendrás escoger tu color favorito dentro de nuestra gama de coloraciones de esmaltes permanentes y presume de manos gracias a nuestros esteticistas de Val Souza."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Secado Natural Media Melena", 
+            "duration": 7200, 
+            "price": "40,5 € ", 
+            "description": "¡Aprovecha ahora! Somos especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Secado Natural Pelo Corto", 
+            "duration": 7200, 
+            "price": "33,5 € ", 
+            "description": "Especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Secado Natural Pelo Largo", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "Pack ideal para servicio de color y corte. Aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Caribe Class Media Melena", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Caribe Class Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Caribe Class Pelo Largo", 
+            "duration": 12600, 
+            "price": "140 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Escoba Perolada Media Melena", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Escoba Perolada Pelo Corto", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Escoba Perolada Pelo Largo", 
+            "duration": 12600, 
+            "price": "120 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Salvatore (Pelo Corto)", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Salvatore (Pelo Largo)", 
+            "duration": 9000, 
+            "price": "250 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Salvatore (Pelo Medio)", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "22 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color (Pelo Largo)", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Redken (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Redken (Pelo Largo)", 
+            "duration": 7200, 
+            "price": "33 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Redken (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte, Peinado Y Tratamiento De Keratina", 
+            "duration": 9000, 
+            "price": "61 € ", 
+            "description": "Con este fantástico pack de belleza conseguirás lucir un pelo perfecto e hidratado. Realizamos color con asesoramiento personalizado, lavado con champú especifico, tratamiento de keratina para aportar brillo e hidratación a tu cabello, corte de pelo y peinado. No lo dudes y haz tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Pelo Corto Y Medio", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les gusta cuidar de su imagen. El servicio incluye un corte asesorado de la mano de nuestros estilistas de Val Souza, lavado con champú y acabado con productos de styling. No lo dudes y haz tu reserva de un solo clic. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Pelo Largo", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les gusta cuidar de su imagen. El servicio incluye un corte asesorado de la mano de nuestros estilistas de Val Souza, lavado con champú y acabado con productos de styling. No lo dudes y haz tu reserva de un solo clic. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Secado Pelo Corto", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "¿Te atreves con un cambio de look? Ven a conocernos y ponte en manos de los mejores profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento, secado y productos de acabado en tocador. Si quieres un look de tendencia, reserva este servicio de Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Secado Pelo Largo", 
+            "duration": 2700, 
+            "price": "16 € ", 
+            "description": "¿Te atreves con un cambio de look? Ven a conocernos y ponte en manos de los mejores profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento, secado y productos de acabado en tocador. Si quieres un look de tendencia, reserva este servicio de Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Pelo Corto - Largo Hasta La Nuca)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "Si quieres aclarar tu pelo pero no te atreves con los cambios drásticos, las mechas son la solución ideal para conseguir un efecto súper luminoso… además de muchísimas otras ventajas: tu melena parece más brillante, rica en matices y, sobre todo, armonizas y suavizas tus rasgos de inmediato. Son tan versátiles que te quedarán bien no importa el color de pelo que tengas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Pelo Largo - Largo De Hombros Por Abajo)", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "Si quieres aclarar tu pelo pero no te atreves con los cambios drásticos, las mechas son la solución ideal para conseguir un efecto súper luminoso… además de muchísimas otras ventajas: tu melena parece más brillante, rica en matices y, sobre todo, armonizas y suavizas tus rasgos de inmediato. Son tan versátiles que te quedarán bien no importa el color de pelo que tengas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Pelo Medio - Largo Hasta Los Hombros)", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Si quieres aclarar tu pelo pero no te atreves con los cambios drásticos, las mechas son la solución ideal para conseguir un efecto súper luminoso… además de muchísimas otras ventajas: tu melena parece más brillante, rica en matices y, sobre todo, armonizas y suavizas tus rasgos de inmediato. Son tan versátiles que te quedarán bien no importa el color de pelo que tengas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "El balayage es una técnica francesa que se puso de moda en los años 90, con la que se consigue una distribución uniforme de luminosidad en tu cabellera. La palabra “balayage” significa barrer y es precisamente así, barriendo el color desde la raíz hasta las puntas, como se consigue un look natural y luminoso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage (Pelo Largo)", 
+            "duration": 7200, 
+            "price": "35 € ", 
+            "description": "Precio variable, a partir de...El balayage es una técnica francesa que se puso de moda en los años 90, con la que se consigue una distribución uniforme de luminosidad en tu cabellera. La palabra “balayage” significa barrer y es precisamente así, barriendo el color desde la raíz hasta las puntas, como se consigue un look natural y luminoso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "El balayage es una técnica francesa que se puso de moda en los años 90, con la que se consigue una distribución uniforme de luminosidad en tu cabellera. La palabra “balayage” significa barrer y es precisamente así, barriendo el color desde la raíz hasta las puntas, como se consigue un look natural y luminoso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "¡Ilumina tu cabello y luce unas estupendas mechas californianas! Incluye mechas californianas, al más puro estilo de las celebridades; lavado con champú, secado de la melena y productos de acabado en tocador. ¿A qué esperas para reservar este servicio en nuestro exclusivo centro de Val Souza? No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas (Pelo Largo)", 
+            "duration": 7200, 
+            "price": "35 € ", 
+            "description": "Precio variable, a partir de... ¡Ilumina tu cabello y luce unas estupendas mechas californianas! Incluye mechas californianas, al más puro estilo de las celebridades; lavado con champú, secado de la melena y productos de acabado en tocador. ¿A qué esperas para reservar este servicio en nuestro exclusivo centro de Val Souza? No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas (Pelo Medio)", 
+            "duration": 7200, 
+            "price": "30 € ", 
+            "description": "¡Ilumina tu cabello y luce unas estupendas mechas californianas! Incluye mechas californianas, al más puro estilo de las celebridades; lavado con champú, secado de la melena y productos de acabado en tocador. ¿A qué esperas para reservar este servicio en nuestro exclusivo centro de Val Souza? No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte, Peinado Y Tratamiento De Keratina", 
+            "duration": 9000, 
+            "price": "67 € ", 
+            "description": "Reserva ya este pack para mantener tu cabello siempre perfecto. El servicio incluye mechas con asesoramiento personalizado, lavado con champú especifico, tratamiento de keratina para conseguir un cabello hidratado durante más tiempo, corte y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado (Pelo Corto)", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si tienes un pelo fino, débil y sin volumen, este servicio es ideal para ti. Estarás perfecta desde primera hora de la mañana, parecerá que acabas de salir de tu Salón de Belleza Val Souza Estilistas. Consigue un efecto natural con unas ondas a la última. Ponte en manos de nuestro mejor equipo de profesionales, te asesorarán en todo momento y trabajan con productos de primeras marcas para el cuidado de tu melena. Consigue dominar tu melena y dale forma con unos rizos de escándalo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado (Pelo Largo)", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si tienes un pelo fino, débil y sin volumen, este servicio es ideal para ti. Dependiendo de la cantidad de pelo y la longitud es a partir de 35€. Consigue un efecto natural con unas ondas a la última. Ponte en manos de nuestro mejor equipo de profesionales, te asesorarán en todo momento y trabajan con productos de primeras marcas para el cuidado de tu melena. Consigue dominar tu melena y dale forma con unos rizos de escándalo. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado (Pelo Medio)", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si tienes un pelo fino, débil y sin volumen, este servicio es ideal para ti. Estarás perfecta desde primera hora de la mañana, parecerá que acabas de salir de tu Salón de Belleza Val Souza Estilistas. Consigue un efecto natural con unas ondas a la última. Ponte en manos de nuestro mejor equipo de profesionales, te asesorarán en todo momento y trabajan con productos de primeras marcas para el cuidado de tu melena. Consigue dominar tu melena y dale forma con unos rizos de escándalo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado (Pelo Corto Hasta La Nuca)", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "¿Tienes una ocasión especial y no sabes cómo peinarte? Ven a tu Salón de Belleza Val Souza Estilistas y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y realizarán un peinado que te favorezca y realce las facciones más bonitas de tu rostro. Trabajan con productos de primeras marcas para conseguir un resultado duradero y óptimo. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado (Pelo Largo De Los Hombros Y Abajo)", 
+            "duration": 1800, 
+            "price": "16,5 € ", 
+            "description": "¿Tienes una ocasión especial, un evento o una cita y no sabes que hacer con tu larga melena? Ven a tu Salón de Belleza Val Souza Estilistas y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y realizarán un peinado que te favorezca y realce las facciones más bonitas de tu rostro. Trabajan con productos de primeras marcas para conseguir un resultado duradero y óptimo. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado (Pelo Medio Hasta Los Hombros)", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "¿Tienes una ocasión especial o un evento inesperado y no sabes que hacer con tu melena? Ven a tu Salón de Belleza Val Souza Estilistas y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y realizarán un peinado que te favorezca y realce las facciones más bonitas de tu rostro. Trabajan con productos de primeras marcas para conseguir un resultado duradero y óptimo. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado (Pelo Muy Corto)", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "¿Tienes una ocasión especial y no sabes cómo peinarte? Ven a tu Salón de Belleza Val Souza Estilistas y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y realizarán un peinado que te favorezca y realce las facciones más bonitas de tu rostro. Trabajan con productos de primeras marcas para conseguir un resultado duradero y óptimo. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Secado Media Melena", 
+            "duration": 2700, 
+            "price": "14,5 € ", 
+            "description": "¿Te atreves con un cambio de look? Ven a conocernos y ponte en manos de los mejores profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento, secado y productos de acabado en tocador. Si quieres un look de tendencia, reserva este servicio de Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Corte Y Secado Natural Media Melena", 
+            "duration": 7200, 
+            "price": "40,5 € ", 
+            "description": "¡Aprovecha ahora! Somos especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Corte Y Secado Natural Pelo Corto", 
+            "duration": 7200, 
+            "price": "33,5 € ", 
+            "description": "Especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Corte Y Secado Natural Pelo Largo", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "Pack ideal para servicio de color y corte. Aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Caribe Class Media Melena", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Caribe Class Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Caribe Class Pelo Largo", 
+            "duration": 12600, 
+            "price": "140 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Escoba Perolada Media Melena", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Escoba Perolada Pelo Corto", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Escoba Perolada Pelo Largo", 
+            "duration": 12600, 
+            "price": "120 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Salvatore (Pelo Corto)", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Salvatore (Pelo Largo)", 
+            "duration": 9000, 
+            "price": "250 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Salvatore (Pelo Medio)", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "22 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color (Pelo Largo)", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Redken (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Redken (Pelo Largo)", 
+            "duration": 7200, 
+            "price": "33 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Redken (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Corte, Peinado Y Tratamiento De Keratina", 
+            "duration": 9000, 
+            "price": "61 € ", 
+            "description": "Con este fantástico pack de belleza conseguirás lucir un pelo perfecto e hidratado. Realizamos color con asesoramiento personalizado, lavado con champú especifico, tratamiento de keratina para aportar brillo e hidratación a tu cabello, corte de pelo y peinado. No lo dudes y haz tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Secado Natural Media Melena", 
+            "duration": 7200, 
+            "price": "40,5 € ", 
+            "description": "¡Aprovecha ahora! Somos especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Secado Natural Pelo Corto", 
+            "duration": 7200, 
+            "price": "33,5 € ", 
+            "description": "Especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Secado Natural Pelo Largo", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "Pack ideal para servicio de color y corte. Aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño Caribe Class Media Melena", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño Caribe Class Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño Caribe Class Pelo Largo", 
+            "duration": 12600, 
+            "price": "140 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño Escoba Perolada Media Melena", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño Escoba Perolada Pelo Corto", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño Escoba Perolada Pelo Largo", 
+            "duration": 12600, 
+            "price": "120 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color, Corte Y Secado Natural Media Melena", 
+            "duration": 7200, 
+            "price": "40,5 € ", 
+            "description": "¡Aprovecha ahora! Somos especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color, Corte Y Secado Natural Pelo Corto", 
+            "duration": 7200, 
+            "price": "33,5 € ", 
+            "description": "Especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color, Corte Y Secado Natural Pelo Largo", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "Pack ideal para servicio de color y corte. Aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Brasileño Caribe Class Media Melena", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Brasileño Caribe Class Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Brasileño Caribe Class Pelo Largo", 
+            "duration": 12600, 
+            "price": "140 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte Y Secado Natural Media Melena", 
+            "duration": 7200, 
+            "price": "40,5 € ", 
+            "description": "¡Aprovecha ahora! Somos especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte Y Secado Natural Pelo Corto", 
+            "duration": 7200, 
+            "price": "33,5 € ", 
+            "description": "Especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte Y Secado Natural Pelo Largo", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "Pack ideal para servicio de color y corte. Aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Caribe Class Media Melena", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Caribe Class Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Caribe Class Pelo Largo", 
+            "duration": 12600, 
+            "price": "140 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Escoba Perolada Media Melena", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Escoba Perolada Pelo Corto", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Escoba Perolada Pelo Largo", 
+            "duration": 12600, 
+            "price": "120 € ", 
+            "description": "¿Dispones de un pelo muy seco y encrespado? ¡Tenemos la solución! Si aún no has probado el aslidado brasileño este es el momento. Consiste en tratamiento de hidratación extrema que te quita el encrespado y te añade volumen al cabello. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Salvatore (Pelo Corto)", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Salvatore (Pelo Largo)", 
+            "duration": 9000, 
+            "price": "250 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Salvatore (Pelo Medio)", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "El desrizado con Salvatore Blue Gold actua directamente en el interior de la fibra capilar, reponiendo aminoácidos esenciales para la reestructuración del cabello, recuperándose mientras promueve el alisamiento perfecto.Su formula queda sin formol o otros químicas perjudicales para el cabello. Sus beneficios incluyen:·Alisa hasta 100% de forma natural·Compatible con cualquier química·0% de formol o derivadosEl tratamiento Blue Gold de Salvatore está indicado todo tipo de cabello rizado o dañado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "22 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color (Pelo Largo)", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "Hazte un cambio de look con un nuevo color en tu cabello. El precio incluye un champú simple y un secado simple."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Redken (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Redken (Pelo Largo)", 
+            "duration": 7200, 
+            "price": "33 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Redken (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Dale un toque distinto a tu cabello, siempre bajo nuestro asesoramiento personalizado. El servicio incluye el color, lavado con champú simple, secado y productos de acabado en tocador. Disfruta de una de las mejores coloraciones del mercado gracias a nuestra gama de coloraciones Redken. Ponte en las mejores manos de nuestros estilistas y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte, Peinado Y Tratamiento De Keratina", 
+            "duration": 9000, 
+            "price": "61 € ", 
+            "description": "Con este fantástico pack de belleza conseguirás lucir un pelo perfecto e hidratado. Realizamos color con asesoramiento personalizado, lavado con champú especifico, tratamiento de keratina para aportar brillo e hidratación a tu cabello, corte de pelo y peinado. No lo dudes y haz tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre Pelo Corto Y Medio", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les gusta cuidar de su imagen. El servicio incluye un corte asesorado de la mano de nuestros estilistas de Val Souza, lavado con champú y acabado con productos de styling. No lo dudes y haz tu reserva de un solo clic. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre Pelo Largo", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les gusta cuidar de su imagen. El servicio incluye un corte asesorado de la mano de nuestros estilistas de Val Souza, lavado con champú y acabado con productos de styling. No lo dudes y haz tu reserva de un solo clic. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Mujer Y Secado Pelo Corto", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "¿Te atreves con un cambio de look? Ven a conocernos y ponte en manos de los mejores profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento, secado y productos de acabado en tocador. Si quieres un look de tendencia, reserva este servicio de Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Mujer Y Secado Pelo Largo", 
+            "duration": 2700, 
+            "price": "16 € ", 
+            "description": "¿Te atreves con un cambio de look? Ven a conocernos y ponte en manos de los mejores profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento, secado y productos de acabado en tocador. Si quieres un look de tendencia, reserva este servicio de Val Souza y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas (Pelo Corto - Largo Hasta La Nuca)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "Si quieres aclarar tu pelo pero no te atreves con los cambios drásticos, las mechas son la solución ideal para conseguir un efecto súper luminoso… además de muchísimas otras ventajas: tu melena parece más brillante, rica en matices y, sobre todo, armonizas y suavizas tus rasgos de inmediato. Son tan versátiles que te quedarán bien no importa el color de pelo que tengas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas (Pelo Largo - Largo De Hombros Por Abajo)", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "Si quieres aclarar tu pelo pero no te atreves con los cambios drásticos, las mechas son la solución ideal para conseguir un efecto súper luminoso… además de muchísimas otras ventajas: tu melena parece más brillante, rica en matices y, sobre todo, armonizas y suavizas tus rasgos de inmediato. Son tan versátiles que te quedarán bien no importa el color de pelo que tengas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas (Pelo Medio - Largo Hasta Los Hombros)", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Si quieres aclarar tu pelo pero no te atreves con los cambios drásticos, las mechas son la solución ideal para conseguir un efecto súper luminoso… además de muchísimas otras ventajas: tu melena parece más brillante, rica en matices y, sobre todo, armonizas y suavizas tus rasgos de inmediato. Son tan versátiles que te quedarán bien no importa el color de pelo que tengas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Balayage (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "El balayage es una técnica francesa que se puso de moda en los años 90, con la que se consigue una distribución uniforme de luminosidad en tu cabellera. La palabra “balayage” significa barrer y es precisamente así, barriendo el color desde la raíz hasta las puntas, como se consigue un look natural y luminoso."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Balayage (Pelo Largo)", 
+            "duration": 7200, 
+            "price": "35 € ", 
+            "description": "Precio variable, a partir de...El balayage es una técnica francesa que se puso de moda en los años 90, con la que se consigue una distribución uniforme de luminosidad en tu cabellera. La palabra “balayage” significa barrer y es precisamente así, barriendo el color desde la raíz hasta las puntas, como se consigue un look natural y luminoso."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Balayage (Pelo Medio)", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "El balayage es una técnica francesa que se puso de moda en los años 90, con la que se consigue una distribución uniforme de luminosidad en tu cabellera. La palabra “balayage” significa barrer y es precisamente así, barriendo el color desde la raíz hasta las puntas, como se consigue un look natural y luminoso."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas (Pelo Corto)", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "¡Ilumina tu cabello y luce unas estupendas mechas californianas! Incluye mechas californianas, al más puro estilo de las celebridades; lavado con champú, secado de la melena y productos de acabado en tocador. ¿A qué esperas para reservar este servicio en nuestro exclusivo centro de Val Souza? No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas (Pelo Largo)", 
+            "duration": 7200, 
+            "price": "35 € ", 
+            "description": "Precio variable, a partir de... ¡Ilumina tu cabello y luce unas estupendas mechas californianas! Incluye mechas californianas, al más puro estilo de las celebridades; lavado con champú, secado de la melena y productos de acabado en tocador. ¿A qué esperas para reservar este servicio en nuestro exclusivo centro de Val Souza? No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas (Pelo Medio)", 
+            "duration": 7200, 
+            "price": "30 € ", 
+            "description": "¡Ilumina tu cabello y luce unas estupendas mechas californianas! Incluye mechas californianas, al más puro estilo de las celebridades; lavado con champú, secado de la melena y productos de acabado en tocador. ¿A qué esperas para reservar este servicio en nuestro exclusivo centro de Val Souza? No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas, Corte, Peinado Y Tratamiento De Keratina", 
+            "duration": 9000, 
+            "price": "67 € ", 
+            "description": "Reserva ya este pack para mantener tu cabello siempre perfecto. El servicio incluye mechas con asesoramiento personalizado, lavado con champú especifico, tratamiento de keratina para conseguir un cabello hidratado durante más tiempo, corte y peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Moldeado (Pelo Corto)", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si tienes un pelo fino, débil y sin volumen, este servicio es ideal para ti. Estarás perfecta desde primera hora de la mañana, parecerá que acabas de salir de tu Salón de Belleza Val Souza Estilistas. Consigue un efecto natural con unas ondas a la última. Ponte en manos de nuestro mejor equipo de profesionales, te asesorarán en todo momento y trabajan con productos de primeras marcas para el cuidado de tu melena. Consigue dominar tu melena y dale forma con unos rizos de escándalo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Moldeado (Pelo Largo)", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si tienes un pelo fino, débil y sin volumen, este servicio es ideal para ti. Dependiendo de la cantidad de pelo y la longitud es a partir de 35€. Consigue un efecto natural con unas ondas a la última. Ponte en manos de nuestro mejor equipo de profesionales, te asesorarán en todo momento y trabajan con productos de primeras marcas para el cuidado de tu melena. Consigue dominar tu melena y dale forma con unos rizos de escándalo. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Color, Corte Y Secado Natural Media Melena", 
+            "duration": 7200, 
+            "price": "40,5 € ", 
+            "description": "¡Aprovecha ahora! Somos especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Color, Corte Y Secado Natural Pelo Corto", 
+            "duration": 7200, 
+            "price": "33,5 € ", 
+            "description": "Especialistas en servicios como en color, según el estilo marcado de casa persona aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Color, Corte Y Secado Natural Pelo Largo", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "Pack ideal para servicio de color y corte. Aconsejaremos la coloración que mejor se adapte a ti. Incluye un lavado previo con champú, color y un corte de moda con un secado natural para que salgas perfecta. Haz ya tu reserva en nuestro exclusivo salón de Val Souza y disfruta de un nuevo look."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Alisado Brasileño Caribe Class Media Melena", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "A base de aceite de Ojon, el desrizado con Caribe Class hidrata y da brillo al cabello, además de prolongar el efecto de las escobas progresivas. Gracias a este novedoso alisado, conseguirás un pelo libre de encrespamiento y unos rizos domados, a la vez que tu pelo quedará lleno de brillo. Haz ya tu reserva en Val Souza y no te arrepentirás del resultado."
+        }
+    ]
+}

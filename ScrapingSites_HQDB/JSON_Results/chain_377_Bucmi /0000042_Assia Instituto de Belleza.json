@@ -1,0 +1,172 @@
+{
+    "adid": null, 
+    "name": "Assia Instituto de Belleza", 
+    "name_of_contact": "Assia Instituto de Belleza", 
+    "scrape_page": "https://www.bucmi.com/assia-instituto-de-belleza", 
+    "business_website": "https://www.bucmi.com/assia-instituto-de-belleza", 
+    "areas_covered": null, 
+    "description": "El centro de estética Assia Instituto de Belleza sitiado en el Barrio de Salamanca, Madrid, ofrece gran variedad de tratamientos faciales tales como higiene facial con radiofrecuencia INDIBA, lifting y tinte de pestañas, masajes y depilación. ¡Reserva!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636232986067977032.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636232986095357519.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636232986123617195.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636235387361213564.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636235387504181237.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636235387545743419.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636235387579961825.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "28", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Galileo, 20", 
+    "city": "Madrid", 
+    "zipcode": "28006", 
+    "formatted_address": "C/ Galileo, 20, Madrid, 28006", 
+    "country": "es", 
+    "office_number": "913080453", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4352524000", 
+    "longitude": "-3.6795382000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636233603814829226.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Higiene Facial, Lifting Y Tinte De Pestañas", 
+            "duration": 7200, 
+            "price": "92 € ", 
+            "description": "¿Te apetece darte un capricho de belleza? tenemos el pack perfecto para ti: una higiene facial completa y un tratamiento de pestañas (lifting y tinte). Por un lado, te realizamos una limpieza completa (desmaquillado, peeling, extracción, mascarilla e hidratación) con radiofrecuencia. Y por otro, te realizamos un lifting y tinte de pestañas para alargarlas, curvarlas y darles intensidad. ¡Te verás más guapa que nunca!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Pubis O Brasileña Con Perianal", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "En Assia Instituto de Belleza somos expertos en el cuidado y belleza del cuerpo y el rostro. La depilación de pubis integral con cera de baja fusion una de nuestras especialidades ya que es mas suave y menos dolorosa y no podrás encontrar mejores manos para quitar el vello corporal. Para librarte del vello de la zona de pubis o una depilación de ingles brasileñas, reserva este servicio. ¡Te esperamos!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Higiene Facial, Lifting Y Tinte De Pestañas", 
+            "duration": 7200, 
+            "price": "92 € ", 
+            "description": "¿Te apetece darte un capricho de belleza? tenemos el pack perfecto para ti: una higiene facial completa y un tratamiento de pestañas (lifting y tinte). Por un lado, te realizamos una limpieza completa (desmaquillado, peeling, extracción, mascarilla e hidratación) con radiofrecuencia. Y por otro, te realizamos un lifting y tinte de pestañas para alargarlas, curvarlas y darles intensidad. ¡Te verás más guapa que nunca!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "El cuidado de nuestro cutis es muy importante, ya que nuestro rostro es nuestra carta de presentación. Mantén su imagen y salud en óptimas condiciones realizándote una higiene facial como esta. Incluye desmaquillado, peeling, extracción, radiofrecuencia, mascarilla e hidratación. Tendrás un cutis más luminoso, suave y cuidado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting De Pestañas La Nueva Permanente", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "El lifting de pestañas es mucho más que una permanente de pestañas, ya que no sólo les da la curvatura perfecta, sino que las alarga y las estiliza . Reserva online y ven a conocernos. ¡Querrás repetir!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El lifting de pestañas es mucho más que una permanente de pestañas, ya que no sólo les da la curvatura perfecta, sino que las alarga y las estiliza. Además, incluimos el tinte para darle más intensidad a su color. Reserva este pack online y ven a conocernos. ¡Querrás repetir!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Los productos que se utilizan para tu pelo son mucho más agresivos que los de las pestañas.El color más utilizado en tintes es el negro. Con ello evitas aplicarte la mascarilla diariamente, pero si eres más atrevida y te gustan otros colores, también existen otros tonos como los marrones y los azules."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Higiene Facial, Lifting Y Tinte De Pestañas", 
+            "duration": 7200, 
+            "price": "92 € ", 
+            "description": "¿Te apetece darte un capricho de belleza? tenemos el pack perfecto para ti: una higiene facial completa y un tratamiento de pestañas (lifting y tinte). Por un lado, te realizamos una limpieza completa (desmaquillado, peeling, extracción, mascarilla e hidratación) con radiofrecuencia. Y por otro, te realizamos un lifting y tinte de pestañas para alargarlas, curvarlas y darles intensidad. ¡Te verás más guapa que nunca!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "El cuidado de nuestro cutis es muy importante, ya que nuestro rostro es nuestra carta de presentación. Mantén su imagen y salud en óptimas condiciones realizándote una higiene facial como esta. Incluye desmaquillado, peeling, extracción, radiofrecuencia, mascarilla e hidratación. Tendrás un cutis más luminoso, suave y cuidado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting De Pestañas La Nueva Permanente", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "El lifting de pestañas es mucho más que una permanente de pestañas, ya que no sólo les da la curvatura perfecta, sino que las alarga y las estiliza . Reserva online y ven a conocernos. ¡Querrás repetir!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El lifting de pestañas es mucho más que una permanente de pestañas, ya que no sólo les da la curvatura perfecta, sino que las alarga y las estiliza. Además, incluimos el tinte para darle más intensidad a su color. Reserva este pack online y ven a conocernos. ¡Querrás repetir!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Los productos que se utilizan para tu pelo son mucho más agresivos que los de las pestañas.El color más utilizado en tintes es el negro. Con ello evitas aplicarte la mascarilla diariamente, pero si eres más atrevida y te gustan otros colores, también existen otros tonos como los marrones y los azules."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion Enteras+ Pubis + Axilas", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "En Assia Instituto de Belleza somos expertos en el cuidado y belleza del cuerpo y el rostro. La depilación de pubis integral con cera de baja fusiones una de nuestras especialidades y no podrás encontrar mejores manos para quitar el vello corporal. Para librarte del vello de la zona de pubis o una depilación de ingles brasileñas, reserva este servicio. ¡Te esperamos!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Pubis O Brasileña Con Perianal", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "En Assia Instituto de Belleza somos expertos en el cuidado y belleza del cuerpo y el rostro. La depilación de pubis integral con cera de baja fusion una de nuestras especialidades ya que es mas suave y menos dolorosa y no podrás encontrar mejores manos para quitar el vello corporal. Para librarte del vello de la zona de pubis o una depilación de ingles brasileñas, reserva este servicio. ¡Te esperamos!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion Brazos Completos", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "En Assia Instituto de Belleza somos expertos en el cuidado y belleza del cuerpo y el rostro. La depilación de pubis integral con cera de baja fusiones una de nuestras especialidades y no podrás encontrar mejores manos para quitar el vello corporal. Para librarte del vello de la zona de pubis o una depilación de ingles brasileñas, reserva este servicio. ¡Te esperamos!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion De Axilas", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "En Assia Instituto de Belleza somos expertos en el cuidado y belleza del cuerpo y el rostro. La depilación de pubis integral con cera de baja fusion mas suave y no duele, una de nuestras especialidades y no podrás encontrar mejores manos para quitar el vello corporal. Para librarte del vello de la zona de pubis o una depilación de ingles brasileñas, reserva este servicio. ¡Te esperamos!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion De Piernas Completas + Pubis", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "En Assia Instituto de Belleza somos expertos en el cuidado y belleza del cuerpo y el rostro. La depilación de pubis integral con cera de baja fusiones una de nuestras especialidades y no podrás encontrar mejores manos para quitar el vello corporal. Para librarte del vello de la zona de pubis o una depilación de ingles brasileñas, reserva este servicio. ¡Te esperamos!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion Ingles", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "En Assia Instituto de Belleza somos expertos en el cuidado y belleza del cuerpo y el rostro. La depilación de pubis integral con cera de baja fusiones una de nuestras especialidades y no podrás encontrar mejores manos para quitar el vello corporal. Para librarte del vello de la zona de pubis o una depilación de ingles brasileñas, reserva este servicio. ¡Te esperamos!"
+        }
+    ]
+}

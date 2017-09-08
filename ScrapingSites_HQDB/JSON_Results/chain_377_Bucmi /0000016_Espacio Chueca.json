@@ -1,0 +1,747 @@
+{
+    "adid": null, 
+    "name": "Espacio Chueca", 
+    "name_of_contact": "Espacio Chueca", 
+    "scrape_page": "https://www.bucmi.com/espaciochuecasalon", 
+    "business_website": "https://www.bucmi.com/espaciochuecasalon", 
+    "areas_covered": null, 
+    "description": "Espacio Chueca es tu Salón de Belleza situado en el barrio Justicia de Madrid. Encontrarás un espacio único en el que podrás relajarte y disfrutar de nuestros masajes. Realizamos tratamientos corporales y vivirás una experiencia inolvidable. ¡Visítanos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285768885985.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285770760911.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285770448395.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285772638005.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285767948420.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285770604658.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285773263003.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285774513063.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "126", 
+    "hqdb_review_score": "8,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pelayo, 7", 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "C/ Pelayo, 7, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "915324634", 
+    "office_number2": null, 
+    "mobile_number": "615492158", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4221320000", 
+    "longitude": "-3.6990207000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963286425515777.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Corte de Pelo para Hombre con lavado y peinado. ¿Quieres cambiar de look? ¿O dar un nuevo aire a tu imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales.. Disfruta de tu nuevo corte de pelo y de la experiencia en nuestro centro.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a conocernos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte para mujer: ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminosidad. Devuelve a tu pelo su naturalidad.Incluye lavado y secado.El tiempo de 45 minutos es una estimación. Reserva tu cita cómodame mediante Bucmi."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer Y Tratamiento Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Este servicio incluye: corte de pelo y un tratamiento de hidratación. ¿Tienes una melena castigada y apagada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Luce una melena mucho más fuerte, suave y cuidada. Además con nuestro tratamiento de hidratación tu cabello recobrará su brillo y luminosidad natural. Todo con productos L'oréal Profesional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Reductor Y Anticelulítico", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "¿Quieres lucir una figura tonificada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis. Reduce y remodela. Gracias a este masaje corporal conseguimos reducir el volumen. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Balayage Para Pelo Corto", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. ¡Nunca pasan de moda y el resultado es de lo más natural! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Facial Bio De Rejuvenecimiento", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Un tratamiento concentrado con Brote de Haya que borra el paso del tiempo…Modelaje Divino con el Aceite Bluffante con té Verde... estimulación de los puntos anti-edad del rostro. La mascarilla Suprema « Moelleux au Rosier Muscat » nutre y reafirma. Este tratamiento tonifica, alisa las líneas de expresión, reestructura la piel… El óvalo mejora y las arrugas disminuyen.Cada tratamiento se personaliza con los cosméticos Bio Oxalia ¡Su esteticista se adapta a las necesidades de su piel!, reserva tu cita online"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Basica", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Manicura clásica: Si buscas cuidar tus manos, darle color y tienes poco tiempo, no lo dudes este servicio te encantara, incluye: limado, retirada cutículas, esmaltado (ESSIE CND, VINYLUX CND o MASGLO) Toma en cuenta que estos servicios no incluyen retirada de esmaltado permanente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Basica Semipermanente", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "¿Quieres lucir unas uñas cuidadas y bonitas? Ponte en nuestras manos Y luce unas uñas coloridas durante mas tiempo, incluye: limado, retirada de cutículas, esmaltado con tu color preferido de la marca CND Vinylux y cremita en las manos. No se levantan ni se agrietan. Te durarán perfectas mínimo 3 semanas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manipedi Basica", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Luce perfecta este verano, con este pack completo para manos y pies, incluye retirada de cutículas y durezas, limado, y esmaltado con el color que mas te guste de la marca CND Vinylux. Luce unas manos y pies suaves e hidratados. Tus manos son muy importantes y dicen mucho de ti. Prepara tus pies para lucirlos perfectos durante todo el año. Presume de unas uñas bonitas, cuidadas y coloridas. Reserva tu cita online en Bucmi.com. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manipedi Basica Semipermanente", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce pies y manos llenos de color durante más tiempo, con el esmaltado permanente de la marca CND Vinylux podrás presumir de uñas llenas de color durante más de 3 semanas, prepárate para el verano y reserva con nosotros. Luce unas manos y pies suaves e hidratados. Tus manos son muy importantes y dicen mucho de ti. Presume de unas uñas bonitas, cuidadas y coloridas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Clasica", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "¡Disfruta de la pedicura de siempre! Luce unos pies radiantes y presume de uñas bonitas Incluye: limado, retirada de cutículas, quitar durezas y esmaltado del color que mas te guste con la marca CND Vinylux. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional. . Prepara tus pies para lucirlos perfectos durante todo el año. Reserva tu cita online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Clasica Semipermanente", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Tus pies listos en un minuto y tus uñas siempre apunto,mantén los pies preparados en cualquier época del año. Incluye: limado, retirada de cutículas, quitar durezas y esmaltado del color que mas te guste de la marca CND Vinylux. No se levantan ni se agrietan. Te durarán perfectas mínimo 3 semanas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Spa", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Regálate un momento de mimo y cuidado para tus pies,no lo dudes y ponte en manos de nuestros profesionales, incluye: limado,tratamiento de cutículas con torno , exfoliación, eliminación de durezas, masaje y esmaltado de la marca CND Vinylux. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional. Prepara tus pies para lucirlos perfectos durante todo el año. Reserva tu cita online en Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "¿Necesitas aliviar la tensión y el estrés acumulado? Disfruta de este masaje descontracturante energético de cuerpo entero o zona concreta a tratar. Reduce los niveles de estrés y tensión acumulada provocada por el ajetreo de la vida diaria. Indicado para tratar dolencias de zonas concretas, malas posturas, etc."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Completo L´Oreal", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El baño de color está elaborado con ingredientes vegetales, por lo que el pelo no sufre ningún tipo de daño ni se ve sometido a agentes agresivos. Además, aporta una fuerza y brillo espectacular. Si estás buscando una solución temporal, que consiga devolver la intensidad e hidratación a tu cabello, incluso si no tienes canas. Puedes usar tu baño de color simplemente para intensificar tu tono natural, sin cambiar de imagen de modo sustancial. En caso de melena larga se aplicara suplemento"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar Y Peinado Melena Corta", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar Y Peinado Melena Media", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Inoa", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Coloración de oxidación sin amoniaco. Sin olor. Cobertura hasta el 100% en cabellos blancos. Confort óptimo del cuero cabelludo. Hasta 6 semanas de hidratación y nutrición intensas. Incluye además asesoramiento de nuestro estilista, lavado y quitar humedad. En caso de tener una melena larga se aplicara un suplemento en el salón. Luce una melena uniforme, suave e hidratada. Disfruta de un pelo con mucho brillo y luminosidad. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Corte de Pelo para Hombre con lavado y peinado. ¿Quieres cambiar de look? ¿O dar un nuevo aire a tu imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales.. Disfruta de tu nuevo corte de pelo y de la experiencia en nuestro centro.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a conocernos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Este servicio incluye: corte de pelo y arreglo de barba. ¿Quieres lucir un nuevo cambio de imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Además, nuestro esteticista realizará un arreglo de barba perfecto y adaptado a tus gustos y a las facciones de tu rostro. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte para mujer: ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminosidad. Devuelve a tu pelo su naturalidad.Incluye lavado y secado.El tiempo de 45 minutos es una estimación. Reserva tu cita cómodame mediante Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Tratamiento Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Este servicio incluye: corte de pelo y un tratamiento de hidratación. ¿Tienes una melena castigada y apagada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Luce una melena mucho más fuerte, suave y cuidada. Además con nuestro tratamiento de hidratación tu cabello recobrará su brillo y luminosidad natural. Todo con productos L'oréal Profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado", 
+            "duration": 5400, 
+            "price": "53 € ", 
+            "description": "Servicio de Corte y Peinado, asesorado por nuestros profesionales conseguiremos que te sientas más guapa que nunca. ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminoso. Todo con productos L'oréal Profesional. Reserva tu cita cómodamente online a través de Bucmi.com. La melena larga tendra suplemento"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Tto. Anticaida Chico", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Este tratamiento esta indicado para cuero cabelludo y/o cabello frágil y fino o con tendencia a la caída. incluye : tratamiento, corte,peinado y un par de ampollas para seguir el tratamiento en casa"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Para Pelo Corto", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. ¡Nunca pasan de moda y el resultado es de lo más natural! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Y Tratamiento De Hidratación", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "Luce una melena mas sedosa y brillante gracias al tratamiento de hidratación que se realiza con productos L`Oreal y peinado de la forma que más te guste sea liso o con ondas, siéntete mas guapa que nunca. ¿Tienes una cita especial o un evento y no sabes que hacer con tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. ¡Tu pelo mucho más hidratado y nutrido!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Hidratación L´Oreal", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Recupera el brillo de tu melena, disfruta del tratamiento de hidratacion L´oreal expréss a base de aceite de coco . ¿Notas tu melena apagada y sin brillo? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce un cabello suave, súper hidratado y nutrido. Devuelve a tu melena su vitalidad natural.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar Y Peinado Melena Larga", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Chico", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Atrévete con los colores de esta temporada para cambiar tu look, incluye : asesoramiento, lavado, tinte y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Servicio de cobertura total del pelo, incluye lavado con productos especiales de color y un secado natural. ¿Quieres lucir un nuevo cambio de look? Te asesorarán en todo momento. Luce una melena uniforme, suave e hidratada. Disfruta de un pelo con mucho brillo y luminosidad. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! En caso de tener melena larga se aplicara un suplemeto"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raíz", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Servicio de tinte con amoniaco que cubre totalmente las canas, incluye lavado con productos especiales de color y un secado natural. ¿Ya es hora de retocar el color de tu cabello? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raíz Inoa", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Coloración de oxidación sin amoniaco. Sin olor. Cobertura hasta el 100% en cabellos blancos. Confort óptimo del cuero cabelludo. Hasta 6 semanas de hidratación y nutrición intensas. incluye ademas asesoramiento de nuestro estilista, lavado y secado. Luce una melena uniforme, suave e hidratada. . Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Matiz", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "El complemento ideal e indispensable para tus mechas. Reserva ambos servicios y consigue una melena mas brillante. ¿Quieres lucir una melena uniforme y con mucha luminosidad? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Presume de una melena con mucho brillo y luminosidad, gracias a la combinación de tus mechas con el matiz para dejar tu melena mucho más uniforme. Reserva tu cita online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Melena Extralarga", 
+            "duration": 7200, 
+            "price": "94 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Para Media Melena", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte,incluye el PH bonder de REDKEN para proteger tu pelo de la decoloración, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Presume de una melena con mucho brillo y luminosidad. ¡Nunca pasan de moda y el resultado es de lo más natural!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Para Pelo Largo", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, incluimos el PH bonder de REDKEN para proteger tu pelo de la decoloración no incluye matiz ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Presume de una melena con mucho brillo y luminosidad. ¡Nunca pasan de moda y el resultado es de lo más natural!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Para Pelo Corto", 
+            "duration": 2700, 
+            "price": "14 € ", 
+            "description": "Reserva online y siéntete diferente con el peinado que prefieras: melena lisa o con ondas, luce estupenda en todo momento, el peinado incluye lavado y crema. Pregunta por el servicio de FLASH CARE de L´Oreal que mas se ajuste a tu pelo.. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Para Pelo Largo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Reserva online y siéntete diferente con el peinado que prefieras: melena lisa o con ondas, luce estupenda en todo momento, el peinado incluye lavado y crema. Pregunta por el servicio de FLASH CARE de L´Oreal que mas se ajuste a tu pelo.. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Extralargo", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Reserva online y siéntete diferente con el peinado que prefieras: melena lisa o con ondas, luce estupenda en todo momento, el peinado incluye lavado y crema. Pregunta por el servicio de FLASH CARE de L´Oreal que mas se ajuste a tu pelo.. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Medio", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Reserva online y siéntete diferente con el peinado que prefieras: melena lisa o con ondas, luce estupenda en todo momento, el peinado incluye lavado y crema. Pregunta por el servicio de FLASH CARE de L´Oreal que mas se ajuste a tu pelo.. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "¿Tienes una fiesta especial? ¿Una boda a la que quieres ir increíble? Pues no lo dudes más y reserva en nuestro centro.Nuestro completo recogido, donde previamente lavaremos tu melena para preparar el pelo, y posteriormente nos encargaremos de hacerte un estiloso recogido acorde al look que vayas a llevar y a tus gustos.El servicio incluye lavado y productos de styling L´oreal"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¿Tienes un evento especial?¿Quieres lucir un look diferente e impresionar a todos? Decídete por un semirecogido realizado por nuestros profesionales quienes te asesorarán para que el semirecogido se adapte totalmente a tus gustos y estilo. El servicio incluye lavado y productos de styling L´oreal"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Baño De Color Completo L´Oreal", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El baño de color está elaborado con ingredientes vegetales, por lo que el pelo no sufre ningún tipo de daño ni se ve sometido a agentes agresivos. Además, aporta una fuerza y brillo espectacular. Si estás buscando una solución temporal, que consiga devolver la intensidad e hidratación a tu cabello, incluso si no tienes canas. Puedes usar tu baño de color simplemente para intensificar tu tono natural, sin cambiar de imagen de modo sustancial. En caso de melena larga se aplicara suplemento"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bótox Capilar Y Peinado Melena Corta", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bótox Capilar Y Peinado Melena Media", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Completo Inoa", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Coloración de oxidación sin amoniaco. Sin olor. Cobertura hasta el 100% en cabellos blancos. Confort óptimo del cuero cabelludo. Hasta 6 semanas de hidratación y nutrición intensas. Incluye además asesoramiento de nuestro estilista, lavado y quitar humedad. En caso de tener una melena larga se aplicara un suplemento en el salón. Luce una melena uniforme, suave e hidratada. Disfruta de un pelo con mucho brillo y luminosidad. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Corte de Pelo para Hombre con lavado y peinado. ¿Quieres cambiar de look? ¿O dar un nuevo aire a tu imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales.. Disfruta de tu nuevo corte de pelo y de la experiencia en nuestro centro.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a conocernos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Este servicio incluye: corte de pelo y arreglo de barba. ¿Quieres lucir un nuevo cambio de imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Además, nuestro esteticista realizará un arreglo de barba perfecto y adaptado a tus gustos y a las facciones de tu rostro. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte para mujer: ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminosidad. Devuelve a tu pelo su naturalidad.Incluye lavado y secado.El tiempo de 45 minutos es una estimación. Reserva tu cita cómodame mediante Bucmi."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Mujer Y Tratamiento Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Este servicio incluye: corte de pelo y un tratamiento de hidratación. ¿Tienes una melena castigada y apagada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Luce una melena mucho más fuerte, suave y cuidada. Además con nuestro tratamiento de hidratación tu cabello recobrará su brillo y luminosidad natural. Todo con productos L'oréal Profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Y Peinado", 
+            "duration": 5400, 
+            "price": "53 € ", 
+            "description": "Servicio de Corte y Peinado, asesorado por nuestros profesionales conseguiremos que te sientas más guapa que nunca. ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminoso. Todo con productos L'oréal Profesional. Reserva tu cita cómodamente online a través de Bucmi.com. La melena larga tendra suplemento"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Y Tto. Anticaida Chico", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Este tratamiento esta indicado para cuero cabelludo y/o cabello frágil y fino o con tendencia a la caída. incluye : tratamiento, corte,peinado y un par de ampollas para seguir el tratamiento en casa"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Balayage Para Pelo Corto", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. ¡Nunca pasan de moda y el resultado es de lo más natural! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinar Y Tratamiento De Hidratación", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "Luce una melena mas sedosa y brillante gracias al tratamiento de hidratación que se realiza con productos L`Oreal y peinado de la forma que más te guste sea liso o con ondas, siéntete mas guapa que nunca. ¿Tienes una cita especial o un evento y no sabes que hacer con tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. ¡Tu pelo mucho más hidratado y nutrido!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento De Hidratación L´Oreal", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Recupera el brillo de tu melena, disfruta del tratamiento de hidratacion L´oreal expréss a base de aceite de coco . ¿Notas tu melena apagada y sin brillo? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce un cabello suave, súper hidratado y nutrido. Devuelve a tu melena su vitalidad natural.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño De Color Completo L´Oreal", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El baño de color está elaborado con ingredientes vegetales, por lo que el pelo no sufre ningún tipo de daño ni se ve sometido a agentes agresivos. Además, aporta una fuerza y brillo espectacular. Si estás buscando una solución temporal, que consiga devolver la intensidad e hidratación a tu cabello, incluso si no tienes canas. Puedes usar tu baño de color simplemente para intensificar tu tono natural, sin cambiar de imagen de modo sustancial. En caso de melena larga se aplicara suplemento"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bótox Capilar Y Peinado Melena Corta", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bótox Capilar Y Peinado Melena Media", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Completo Inoa", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Coloración de oxidación sin amoniaco. Sin olor. Cobertura hasta el 100% en cabellos blancos. Confort óptimo del cuero cabelludo. Hasta 6 semanas de hidratación y nutrición intensas. Incluye además asesoramiento de nuestro estilista, lavado y quitar humedad. En caso de tener una melena larga se aplicara un suplemento en el salón. Luce una melena uniforme, suave e hidratada. Disfruta de un pelo con mucho brillo y luminosidad. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Corte de Pelo para Hombre con lavado y peinado. ¿Quieres cambiar de look? ¿O dar un nuevo aire a tu imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales.. Disfruta de tu nuevo corte de pelo y de la experiencia en nuestro centro.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a conocernos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Este servicio incluye: corte de pelo y arreglo de barba. ¿Quieres lucir un nuevo cambio de imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Además, nuestro esteticista realizará un arreglo de barba perfecto y adaptado a tus gustos y a las facciones de tu rostro. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte para mujer: ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminosidad. Devuelve a tu pelo su naturalidad.Incluye lavado y secado.El tiempo de 45 minutos es una estimación. Reserva tu cita cómodame mediante Bucmi."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Mujer Y Tratamiento Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Este servicio incluye: corte de pelo y un tratamiento de hidratación. ¿Tienes una melena castigada y apagada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Luce una melena mucho más fuerte, suave y cuidada. Además con nuestro tratamiento de hidratación tu cabello recobrará su brillo y luminosidad natural. Todo con productos L'oréal Profesional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Y Peinado", 
+            "duration": 5400, 
+            "price": "53 € ", 
+            "description": "Servicio de Corte y Peinado, asesorado por nuestros profesionales conseguiremos que te sientas más guapa que nunca. ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminoso. Todo con productos L'oréal Profesional. Reserva tu cita cómodamente online a través de Bucmi.com. La melena larga tendra suplemento"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Y Tto. Anticaida Chico", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Este tratamiento esta indicado para cuero cabelludo y/o cabello frágil y fino o con tendencia a la caída. incluye : tratamiento, corte,peinado y un par de ampollas para seguir el tratamiento en casa"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Balayage Para Pelo Corto", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. ¡Nunca pasan de moda y el resultado es de lo más natural! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peinar Y Tratamiento De Hidratación", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "Luce una melena mas sedosa y brillante gracias al tratamiento de hidratación que se realiza con productos L`Oreal y peinado de la forma que más te guste sea liso o con ondas, siéntete mas guapa que nunca. ¿Tienes una cita especial o un evento y no sabes que hacer con tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. ¡Tu pelo mucho más hidratado y nutrido!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento De Hidratación L´Oreal", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Recupera el brillo de tu melena, disfruta del tratamiento de hidratacion L´oreal expréss a base de aceite de coco . ¿Notas tu melena apagada y sin brillo? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce un cabello suave, súper hidratado y nutrido. Devuelve a tu melena su vitalidad natural.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bótox Capilar Y Peinado Melena Larga", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Chico", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Atrévete con los colores de esta temporada para cambiar tu look, incluye : asesoramiento, lavado, tinte y peinado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado De Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Baño De Color Completo L´Oreal", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El baño de color está elaborado con ingredientes vegetales, por lo que el pelo no sufre ningún tipo de daño ni se ve sometido a agentes agresivos. Además, aporta una fuerza y brillo espectacular. Si estás buscando una solución temporal, que consiga devolver la intensidad e hidratación a tu cabello, incluso si no tienes canas. Puedes usar tu baño de color simplemente para intensificar tu tono natural, sin cambiar de imagen de modo sustancial. En caso de melena larga se aplicara suplemento"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bótox Capilar Y Peinado Melena Corta", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bótox Capilar Y Peinado Melena Media", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color Completo Inoa", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Coloración de oxidación sin amoniaco. Sin olor. Cobertura hasta el 100% en cabellos blancos. Confort óptimo del cuero cabelludo. Hasta 6 semanas de hidratación y nutrición intensas. Incluye además asesoramiento de nuestro estilista, lavado y quitar humedad. En caso de tener una melena larga se aplicara un suplemento en el salón. Luce una melena uniforme, suave e hidratada. Disfruta de un pelo con mucho brillo y luminosidad. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Corte de Pelo para Hombre con lavado y peinado. ¿Quieres cambiar de look? ¿O dar un nuevo aire a tu imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales.. Disfruta de tu nuevo corte de pelo y de la experiencia en nuestro centro.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a conocernos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Este servicio incluye: corte de pelo y arreglo de barba. ¿Quieres lucir un nuevo cambio de imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Además, nuestro esteticista realizará un arreglo de barba perfecto y adaptado a tus gustos y a las facciones de tu rostro. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado De Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Baño De Color Completo L´Oreal", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El baño de color está elaborado con ingredientes vegetales, por lo que el pelo no sufre ningún tipo de daño ni se ve sometido a agentes agresivos. Además, aporta una fuerza y brillo espectacular. Si estás buscando una solución temporal, que consiga devolver la intensidad e hidratación a tu cabello, incluso si no tienes canas. Puedes usar tu baño de color simplemente para intensificar tu tono natural, sin cambiar de imagen de modo sustancial. En caso de melena larga se aplicara suplemento"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bótox Capilar Y Peinado Melena Corta", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bótox Capilar Y Peinado Melena Media", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Completo Inoa", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Coloración de oxidación sin amoniaco. Sin olor. Cobertura hasta el 100% en cabellos blancos. Confort óptimo del cuero cabelludo. Hasta 6 semanas de hidratación y nutrición intensas. Incluye además asesoramiento de nuestro estilista, lavado y quitar humedad. En caso de tener una melena larga se aplicara un suplemento en el salón. Luce una melena uniforme, suave e hidratada. Disfruta de un pelo con mucho brillo y luminosidad. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Corte de Pelo para Hombre con lavado y peinado. ¿Quieres cambiar de look? ¿O dar un nuevo aire a tu imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales.. Disfruta de tu nuevo corte de pelo y de la experiencia en nuestro centro.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a conocernos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Este servicio incluye: corte de pelo y arreglo de barba. ¿Quieres lucir un nuevo cambio de imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Además, nuestro esteticista realizará un arreglo de barba perfecto y adaptado a tus gustos y a las facciones de tu rostro. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte para mujer: ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminosidad. Devuelve a tu pelo su naturalidad.Incluye lavado y secado.El tiempo de 45 minutos es una estimación. Reserva tu cita cómodame mediante Bucmi."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Mujer Y Tratamiento Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Este servicio incluye: corte de pelo y un tratamiento de hidratación. ¿Tienes una melena castigada y apagada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Luce una melena mucho más fuerte, suave y cuidada. Además con nuestro tratamiento de hidratación tu cabello recobrará su brillo y luminosidad natural. Todo con productos L'oréal Profesional."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Y Peinado", 
+            "duration": 5400, 
+            "price": "53 € ", 
+            "description": "Servicio de Corte y Peinado, asesorado por nuestros profesionales conseguiremos que te sientas más guapa que nunca. ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminoso. Todo con productos L'oréal Profesional. Reserva tu cita cómodamente online a través de Bucmi.com. La melena larga tendra suplemento"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Y Tto. Anticaida Chico", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Este tratamiento esta indicado para cuero cabelludo y/o cabello frágil y fino o con tendencia a la caída. incluye : tratamiento, corte,peinado y un par de ampollas para seguir el tratamiento en casa"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Balayage Para Pelo Corto", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. ¡Nunca pasan de moda y el resultado es de lo más natural! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Alisado De Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }
+    ]
+}
