@@ -1,0 +1,99 @@
+{
+    "adid": null, 
+    "name": "Fitness Lleure", 
+    "name_of_contact": "Fitness Lleure", 
+    "scrape_page": "https://www.bucmi.com/fitnesslleure", 
+    "business_website": "https://www.bucmi.com/fitnesslleure", 
+    "areas_covered": null, 
+    "description": "En Fitness Lleure tenenemos como finalidad combinar el Fitness con el Wellness para alcanzar no sólo un buen estado físico sino también mental. Disfruta de una agradable experiencia cuidándote, con el asesoramiento de nuestros profesionales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635785336097904684.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635785336099154748.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635785336099935918.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635785336100092168.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Hurtado, 5", 
+    "city": "Barcelona", 
+    "zipcode": "08023", 
+    "formatted_address": "C/ Hurtado, 5, Barcelona, 08023", 
+    "country": "es", 
+    "office_number": "932123580", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4101546000", 
+    "longitude": "2.1411723999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970657475798.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "12,25 € ", 
+            "description": "Cuida tus manos con esta manicura completa en la que limamos tus uñas, retiramos cutículas, hidratamos tus manos con un suave masaje y esmaltamos con el color que elijas. El esmaltado no incluye francesa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Si buscas desconectar, descargar tensiones y pasar un momento muy relajante lo conseguirás con este masaje realizado con técnicas manuales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Tener unos pies cuidados es imprescindible para sentirte cómoda. Limamos tus uñas, retiramos cutículas, eliminamos las durezas, exfoliamos tus pies, los hidratamos y esmaltamos del color que más te guste."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "245 € ", 
+            "description": "En este bono de tratamiento reductor inicialmente se realiza una valoración para asesorar sobre el tratamiento adecuado para conseguir resultados con la máxima facilidad y eficacia, incluye criolipólisis, radiofrecuencia o cavitación o un combinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "245 € ", 
+            "description": "En este bono de tratamiento reductor inicialmente se realiza una valoración para asesorar sobre el tratamiento adecuado para conseguir resultados con la máxima facilidad y eficacia, incluye criolipólisis, radiofrecuencia o cavitación o un combinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "12,25 € ", 
+            "description": "Cuida tus manos con esta manicura completa en la que limamos tus uñas, retiramos cutículas, hidratamos tus manos con un suave masaje y esmaltamos con el color que elijas. El esmaltado no incluye francesa."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "245 € ", 
+            "description": "En este bono de tratamiento reductor inicialmente se realiza una valoración para asesorar sobre el tratamiento adecuado para conseguir resultados con la máxima facilidad y eficacia, incluye criolipólisis, radiofrecuencia o cavitación o un combinado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "12,25 € ", 
+            "description": "Cuida tus manos con esta manicura completa en la que limamos tus uñas, retiramos cutículas, hidratamos tus manos con un suave masaje y esmaltamos con el color que elijas. El esmaltado no incluye francesa."
+        }
+    ]
+}

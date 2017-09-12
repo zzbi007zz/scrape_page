@@ -1,0 +1,356 @@
+{
+    "adid": null, 
+    "name": "Hair & Beauty", 
+    "name_of_contact": "Hair & Beauty", 
+    "scrape_page": "https://www.bucmi.com/hair-and-beauty", 
+    "business_website": "https://www.bucmi.com/hair-and-beauty", 
+    "areas_covered": null, 
+    "description": "Hair & Beauty está ubicado en la calle Alicante 3, en el barrio de Arganzuela de Madrid. Es un salón de peluquería y estética fundado por Erika Cañizares en junio de 2017, con la idea de ofrecer tratamientos capilares y estéticos profesionales, personalizados y con un trato cercano al cliente. Todo su equipo cuenta con más de 10 años de experiencia en el mundo de la estética y siempre realizan un diagnóstico previo para poder realizar un servicio a medida. Realizan cortes de pelo asesorados en cualquier estilo, coloraciones tradicionales y sin amoniaco, mechas de de tendencia, tratamientos capilares, recogidos y semirecogidos, depilaciones, tratamientos faciales y corporales, masajes, manicuras y pedicuras. Para lograr los mejores resultados utilizan cosméticos de firmas de prestigio como Davines, Jean Paul Mynè, OPI, Alqvimia, Mary Cohr Paris y Comfort Zone de Skin Science Soul.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380412988655424.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380413078029758.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380413268340825.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380413296621724.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380413338965198.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380413444120527.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380413502088791.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380413520682574.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636380413557244310.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Alicante, 3", 
+    "city": "Madrid", 
+    "zipcode": "28045", 
+    "formatted_address": "C/ Alicante, 3, Madrid, 28045", 
+    "country": "es", 
+    "office_number": "910286617", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3943205000", 
+    "longitude": "-3.6937287000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636380411743821229.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para hombre, realizado por los estilistas de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada cliente y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento que se desee o deberá abonarse en el centro. Se realiza en 20-40 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para mujer, realizado por los estilistas expertos en imagen de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada clienta y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración varía entre los 20 y los 50 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanante", 
+            "duration": 3600, 
+            "price": "23,5 € ", 
+            "description": "Tratamiento de manos que incluye una manicura completa con esmaltado de larga duración. Los expertos en cuidado de manos y uñas de Hair & Beauty dan forma a las uñas y les dan el cuidado necesario, además de maquillar las uñas con esmaltado normal en un color de marcas de calidad de firmas como OPI. Algunos productos y tratamientos extra pueden conllevar un suplemento. La duración puede variar entre 50 y 65 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento capilar pensado para realzar la salud del pelo, realizado con ácido hialurónico. Con el se rellenan las fibras capilares consiguiendo un pelo más sano, hidratado, con cuerpo y más volumen. No incluye lavado ni peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para hombre, realizado por los estilistas de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada cliente y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento que se desee o deberá abonarse en el centro. Se realiza en 20-40 minutos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para mujer, realizado por los estilistas expertos en imagen de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada clienta y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración varía entre los 20 y los 50 minutos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento capilar pensado para realzar la salud del pelo, realizado con ácido hialurónico. Con el se rellenan las fibras capilares consiguiendo un pelo más sano, hidratado, con cuerpo y más volumen. No incluye lavado ni peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "24,5 € ", 
+            "description": "Coloración tradicional específica para la zona de la raíz, para cubrir el tono natural que aparece semanas después de la última coloración. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración puede variar. Si se desea aplicar color completo debe reservarse este servicio junto al Suplemento Color."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Sin Amoniaco", 
+            "duration": 5400, 
+            "price": "28,5 € ", 
+            "description": "Coloración libre de amoniaco específica para aplicarse en la zona de la raíz, sin dañar el pelo. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración es variable. Si se desea aplicar color completo debe reservarse este servicio junto al Suplemento Color."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Flequillo", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Servicio de corte de pelo exclusivo para la zona del flequillo. Este servicio se realiza como un retoque del largo del flequillo teniendo en cuenta las preferencias del cliente. No incluye lavado ni peinado. En caso de desear lavado, peinado u otros suplementos se deberán reservar por separado o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Niño O Niña Hasta 12 Años", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "Servicio de corte de pelo exclusivo para niños y niñas hasta los 12 años, realizado por los estilistas profesionales de Hair and Beauty teniendo en cuenta las preferencias del niño y sus padres. El servicio incluye asesoramiento pero no el lavado ni el peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Loción Peinado", 
+            "duration": 900, 
+            "price": "3,5 € ", 
+            "description": "Este servicio incluye la aplicación de loción de acabado después del peinado, para fijar el resultado el mayor tiempo posible y mantener un look perfecto. No se puede reservar individualmente, debe ir combinado con otro tratamiento capilar y/o el servicio de peinado. Si se reserva individualmente se deberá pagar los servicios extra necesarios en el salón. No incluye lavado ni secado. Es un suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 7200, 
+            "price": "39,5 € ", 
+            "description": "Este servicio abarca la realización de todo tipo de mechas: tradicionales en un color o dos colores, Californianas, Balayage, Baby Light, etc. Los expertos en coloración de Hair & Beauty relizan un asesoramiento previo. Según el tipo de mechas puede haber suplementos a pagar en el centro. No incluye lavado, ni peinado. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento o pagarlo en el salón. La duración puede variar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador", 
+            "duration": 7200, 
+            "price": "40 € ", 
+            "description": "Tratamiento de rizado permanente para el pelo, realizado mediante la técnica del moldeado. Se realiza con un asesoramiento y los resultados duran varios meses. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración es de 120 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "14,5 € ", 
+            "description": "Peinado básico para pelo corto, ideal para combinar con otros tratamientos capilares o para conseguir un look de pelo corto perfecto. Se realiza en base a los gustos de la clienta, pero no incluye recogidos, semirecogidos, ni peinados elaborados. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración de la sesión puede variar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Extralargo", 
+            "duration": 2700, 
+            "price": "21,5 € ", 
+            "description": "Peinado o secado para pelo extralargo, ideal para conseguir un look de pelo corto perfecto o combinar con otros tratamientos capilares. Se realiza en base a los gustos de la clienta, pero no incluye recogidos, semirecogidos, ni peinados elaborados. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración de la sesión puede variar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Largo", 
+            "duration": 2700, 
+            "price": "18,5 € ", 
+            "description": "Peinado básico para conseguir un acabado profesional de peluquería en pelo largo. Ideal para combinar con otros tratamientos capilares. Se realiza en base a los gustos de la clienta, pero no incluye recogidos, semirecogidos, ni peinados elaborados. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración de la sesión puede variar"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Retoque Mechas", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Retoque de mechas pensado para recuperar o potenciar el look creado tras una primera aplicación de mechas después de varias semanas. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración puede variar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Suplemento Color", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "Servicio de suplemento de color pensado para combinar con otras coloraciones (tinte y mechas) en los casos en los que se desea aplicar color completo en todo el pelo (reservando también el servicio de Color Raíz o Color Raíz Sin Amoniaco) o si se desea aplicar matiz a cualquier coloración. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservarlo con el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración puede variar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Nourishing", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento capilar especialmente para cabello fino. Gracias a este ritual de peluquería se engrosa la fibra capilardando más cuerpo y volumen al pelo. Se realiza con cosméticos de gran calidad como la firma Davines. No incluye lavado ni peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para hombre, realizado por los estilistas de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada cliente y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento que se desee o deberá abonarse en el centro. Se realiza en 20-40 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para mujer, realizado por los estilistas expertos en imagen de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada clienta y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración varía entre los 20 y los 50 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento capilar pensado para realzar la salud del pelo, realizado con ácido hialurónico. Con el se rellenan las fibras capilares consiguiendo un pelo más sano, hidratado, con cuerpo y más volumen. No incluye lavado ni peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "24,5 € ", 
+            "description": "Coloración tradicional específica para la zona de la raíz, para cubrir el tono natural que aparece semanas después de la última coloración. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración puede variar. Si se desea aplicar color completo debe reservarse este servicio junto al Suplemento Color."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz Sin Amoniaco", 
+            "duration": 5400, 
+            "price": "28,5 € ", 
+            "description": "Coloración libre de amoniaco específica para aplicarse en la zona de la raíz, sin dañar el pelo. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración es variable. Si se desea aplicar color completo debe reservarse este servicio junto al Suplemento Color."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Flequillo", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Servicio de corte de pelo exclusivo para la zona del flequillo. Este servicio se realiza como un retoque del largo del flequillo teniendo en cuenta las preferencias del cliente. No incluye lavado ni peinado. En caso de desear lavado, peinado u otros suplementos se deberán reservar por separado o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Niño O Niña Hasta 12 Años", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "Servicio de corte de pelo exclusivo para niños y niñas hasta los 12 años, realizado por los estilistas profesionales de Hair and Beauty teniendo en cuenta las preferencias del niño y sus padres. El servicio incluye asesoramiento pero no el lavado ni el peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Loción Peinado", 
+            "duration": 900, 
+            "price": "3,5 € ", 
+            "description": "Este servicio incluye la aplicación de loción de acabado después del peinado, para fijar el resultado el mayor tiempo posible y mantener un look perfecto. No se puede reservar individualmente, debe ir combinado con otro tratamiento capilar y/o el servicio de peinado. Si se reserva individualmente se deberá pagar los servicios extra necesarios en el salón. No incluye lavado ni secado. Es un suplemento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas", 
+            "duration": 7200, 
+            "price": "39,5 € ", 
+            "description": "Este servicio abarca la realización de todo tipo de mechas: tradicionales en un color o dos colores, Californianas, Balayage, Baby Light, etc. Los expertos en coloración de Hair & Beauty relizan un asesoramiento previo. Según el tipo de mechas puede haber suplementos a pagar en el centro. No incluye lavado, ni peinado. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento o pagarlo en el salón. La duración puede variar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Moldeador", 
+            "duration": 7200, 
+            "price": "40 € ", 
+            "description": "Tratamiento de rizado permanente para el pelo, realizado mediante la técnica del moldeado. Se realiza con un asesoramiento y los resultados duran varios meses. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración es de 120 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para hombre, realizado por los estilistas de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada cliente y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento que se desee o deberá abonarse en el centro. Se realiza en 20-40 minutos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para mujer, realizado por los estilistas expertos en imagen de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada clienta y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración varía entre los 20 y los 50 minutos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Capilar Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento capilar pensado para realzar la salud del pelo, realizado con ácido hialurónico. Con el se rellenan las fibras capilares consiguiendo un pelo más sano, hidratado, con cuerpo y más volumen. No incluye lavado ni peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "24,5 € ", 
+            "description": "Coloración tradicional específica para la zona de la raíz, para cubrir el tono natural que aparece semanas después de la última coloración. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración puede variar. Si se desea aplicar color completo debe reservarse este servicio junto al Suplemento Color."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para hombre, realizado por los estilistas de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada cliente y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento que se desee o deberá abonarse en el centro. Se realiza en 20-40 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para mujer, realizado por los estilistas expertos en imagen de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada clienta y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración varía entre los 20 y los 50 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para hombre, realizado por los estilistas de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada cliente y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento que se desee o deberá abonarse en el centro. Se realiza en 20-40 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para mujer, realizado por los estilistas expertos en imagen de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada clienta y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración varía entre los 20 y los 50 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento capilar pensado para realzar la salud del pelo, realizado con ácido hialurónico. Con el se rellenan las fibras capilares consiguiendo un pelo más sano, hidratado, con cuerpo y más volumen. No incluye lavado ni peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "24,5 € ", 
+            "description": "Coloración tradicional específica para la zona de la raíz, para cubrir el tono natural que aparece semanas después de la última coloración. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración puede variar. Si se desea aplicar color completo debe reservarse este servicio junto al Suplemento Color."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz Sin Amoniaco", 
+            "duration": 5400, 
+            "price": "28,5 € ", 
+            "description": "Coloración libre de amoniaco específica para aplicarse en la zona de la raíz, sin dañar el pelo. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración es variable. Si se desea aplicar color completo debe reservarse este servicio junto al Suplemento Color."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para hombre, realizado por los estilistas de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada cliente y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento que se desee o deberá abonarse en el centro. Se realiza en 20-40 minutos."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Servicio de corte de pelo asesorado para mujer, realizado por los estilistas expertos en imagen de Hair & Beauty. Se realiza teniendo en cuenta las preferencias de cada clienta y es válido para todo tipo de texturas (liso, rizado...) y de largos. Sólo incluye el corte. No incluye el lavado, ni el peinado, ni ningún otro suplemento. Es necesario reservar también el servicio de Lavar Sólo Champú y cualquier otro suplemento deseado o abonarlo en el centro. La duración varía entre los 20 y los 50 minutos."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Tratamiento Capilar Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento capilar pensado para realzar la salud del pelo, realizado con ácido hialurónico. Con el se rellenan las fibras capilares consiguiendo un pelo más sano, hidratado, con cuerpo y más volumen. No incluye lavado ni peinado. Se debe reservar también el lavado y los suplementos que se desee o se abonarán aparte en el salón el día de la cita. La duración del tratamiento es de 25 minutos aproximadamente."
+        }
+    ]
+}

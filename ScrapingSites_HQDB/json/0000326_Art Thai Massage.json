@@ -1,0 +1,106 @@
+{
+    "adid": null, 
+    "name": "Art Thai Massage", 
+    "name_of_contact": "Art Thai Massage", 
+    "scrape_page": "https://www.bucmi.com/artthaimassaje", 
+    "business_website": "https://www.bucmi.com/artthaimassaje", 
+    "areas_covered": null, 
+    "description": "Situado en el número 6 de la Plaza de Chueca, el Centro y Escuela de Arte y Ciencia del Masaje Tailandés (ATM) tiene por objetivo difundir el arte milenario del masaje tailandés, respetando sus técnicas tradicionales y, al mismo tiempo, introduciendo los avances de las nuevas terapias occidentales. Con 2 plantas y terraza y con un horario de lunes a domingo, te permitirá disfrutar de los beneficios de esta técnica antiquísima por medio de su equipo de masajistas, liderado por Samuel Fernández, que se ha adjudicado el Certificado de Excelencia de Tripadvisor en 2016.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821433189466352.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821433322227507.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821433323946235.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295773387436136.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "46", 
+    "hqdb_review_score": "9,1", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Hermosilla, 133", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Hermosilla, 133, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "915212565", 
+    "office_number2": null, 
+    "mobile_number": "674612848", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4227260000", 
+    "longitude": "-3.6976102999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635954794626462067.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Tailandes Tradicional", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Cuando hablamos de Masaje Tradicional Tailandés nos referimos a un ancestral método manual que en Art Thai Massage han convertido en un modo de vida. Es un masaje adaptativo en su raíz, por lo que el terapeuta experto adapta la terapia manual a los requerimientos particulares, poniendo el foco sobre las áreas de mayor necesidad y modulando la intensidad deseada. Aparte de relajar, mitiga las tensiones, alivia las contracturas, recupera la amplitud articular y reconstituye el flujo energético."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflexología Podal", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La reflexología podal se basa en la estimulación de los puntos reflejos del pie que están conectados a nuestros sistemas internos. No solo es una terapia relajante, sino que también mejora el funcionamiento interno reequilibrando los sistemas fisiológicos. Para conseguir los mejores resultados es imprescindible que el masaje sea realizado por especialista en reflexología, como lo son los masajistas de Art Thai Massage."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante En Pareja", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Este servicio está pensado para disfrutarse en pareja, en el mismo momento y en la misma sala. Dos terapeutas realizan a cada persona un masaje con el que eliminan las tensiones generadas por el ritmo diario. Todo ello en el oasis creado por Art Thai Massage, donde el ambiente y el trato inspiran confianza, tranquilidad y comodidad. El masaje dura una hora y el importe total incluye el precio para las 2 personas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Facial Kobido", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "El Masaje Facial Kobido, usado en el Japón antiguo como tratamiento de belleza de las doncellas de palacio, es conocido también como Lifting Natural Japonés. Durante una hora de tratamiento, los expertos sus expertos en terapias manuales realizan un efectivo masaje facial con el que tonifican la musculatura subcutánea, reducen las líneas de expresión y mejoran el riego facial para favorecer una regeneración celular que aportará mayor luminosidad al rostro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Facial Kobido", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "El Masaje Facial Kobido, usado en el Japón antiguo como tratamiento de belleza de las doncellas de palacio, es conocido también como Lifting Natural Japonés. Durante una hora de tratamiento, los expertos sus expertos en terapias manuales realizan un efectivo masaje facial con el que tonifican la musculatura subcutánea, reducen las líneas de expresión y mejoran el riego facial para favorecer una regeneración celular que aportará mayor luminosidad al rostro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Tailandes Tradicional", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Cuando hablamos de Masaje Tradicional Tailandés nos referimos a un ancestral método manual que en Art Thai Massage han convertido en un modo de vida. Es un masaje adaptativo en su raíz, por lo que el terapeuta experto adapta la terapia manual a los requerimientos particulares, poniendo el foco sobre las áreas de mayor necesidad y modulando la intensidad deseada. Aparte de relajar, mitiga las tensiones, alivia las contracturas, recupera la amplitud articular y reconstituye el flujo energético."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexología Podal", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La reflexología podal se basa en la estimulación de los puntos reflejos del pie que están conectados a nuestros sistemas internos. No solo es una terapia relajante, sino que también mejora el funcionamiento interno reequilibrando los sistemas fisiológicos. Para conseguir los mejores resultados es imprescindible que el masaje sea realizado por especialista en reflexología, como lo son los masajistas de Art Thai Massage."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Facial Kobido", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "El Masaje Facial Kobido, usado en el Japón antiguo como tratamiento de belleza de las doncellas de palacio, es conocido también como Lifting Natural Japonés. Durante una hora de tratamiento, los expertos sus expertos en terapias manuales realizan un efectivo masaje facial con el que tonifican la musculatura subcutánea, reducen las líneas de expresión y mejoran el riego facial para favorecer una regeneración celular que aportará mayor luminosidad al rostro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante En Pareja", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Este servicio está pensado para disfrutarse en pareja, en el mismo momento y en la misma sala. Dos terapeutas realizan a cada persona un masaje con el que eliminan las tensiones generadas por el ritmo diario. Todo ello en el oasis creado por Art Thai Massage, donde el ambiente y el trato inspiran confianza, tranquilidad y comodidad. El masaje dura una hora y el importe total incluye el precio para las 2 personas."
+        }
+    ]
+}

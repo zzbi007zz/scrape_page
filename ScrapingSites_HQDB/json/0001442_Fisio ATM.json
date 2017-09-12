@@ -1,0 +1,134 @@
+{
+    "adid": null, 
+    "name": "Fisio ATM", 
+    "name_of_contact": "Fisio ATM", 
+    "scrape_page": "https://www.bucmi.com/fisioatm", 
+    "business_website": "https://www.bucmi.com/fisioatm", 
+    "areas_covered": null, 
+    "description": "Especialistas desde el año 2000 en problemas de disfunción cráneo-mandibular y dolor cráneo-facial.Nos basamos en la colaboración entre profesionales de la salud para el buen desarrollo de los tratamientos conservadores de nuestros pacientes.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635611580310314785.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635611580358755999.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635621948049743596.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635621948062088386.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Alicante", 
+    "zipcode": "03003", 
+    "formatted_address": "Alicante, 03007, Alicante, 03008, Alicante, 03003, Alicante, 03004, Alicante, 03003", 
+    "country": "es", 
+    "office_number": "966233522", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "38.3425283000", 
+    "longitude": "-0.4923393000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636072025740985012.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Elimina tus tensiones en las partes del cuerpo más castigadas de la vida diaria. Tratamiento de 50 minutos de duración. Conseguirás salir como nueva gracias a nuestros expertos terapeutas de Fisio ATM. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Masaje indicado para eliminar los dolores localizados de tu espalda. Tratamiento de 50 minutos de duración. Conseguirás salir como nueva gracias a nuestros expertos terapeutas de Fisio ATM. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Disfunción Craneomandibular", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Tratamiento específico para solucionar y evitar la pérdida de piezas dentales por destrucción del esmalte y la dentina así como otras terribles consecuencias, como dolor de cabeza y de los músculos de la mandíbula, cuello e, incluso, de oído. Tratamiento de 50 min"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones De Disfunción Craneomandibular", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Cada vez hay más personas que sufren el llamado bruxismo, el hábito inconsciente de apretar los dientes por un factor emocional, aunque también puede asociarse a un mal encaje dentario. Varios tratamientos actuales pueden solucionarlo y evitar la pérdida de piezas dentales por destrucción del esmalte y la dentina así como otras terribles consecuencias, como dolor de cabeza y de los músculos de la mandíbula, cuello e incluso, de oído."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Bruxismo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El bruxismo es una parafunción mandibular persistente que consiste en el frotamiento y rechinamiento dentario. Tratamiento indicado para eliminar las consecuencias de esta patología, dolores de cabeza, cefaleas, tensiones agudas etc. Tratamiento de 50 min"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Dolor Orofacial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Esta disfunción está considerada como una variedad de trastorno músculo-esquelético que constituye la causa más frecuente de dolor orofacial. Tratamiento indicado para eliminar la sintomatología de cefaleas y migrañas, dolor facial, tension muscular etc. Tratamiento de 50 min"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Disfunción Craneomandibular", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Tratamiento específico para solucionar y evitar la pérdida de piezas dentales por destrucción del esmalte y la dentina así como otras terribles consecuencias, como dolor de cabeza y de los músculos de la mandíbula, cuello e, incluso, de oído. Tratamiento de 50 min"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones De Disfunción Craneomandibular", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Cada vez hay más personas que sufren el llamado bruxismo, el hábito inconsciente de apretar los dientes por un factor emocional, aunque también puede asociarse a un mal encaje dentario. Varios tratamientos actuales pueden solucionarlo y evitar la pérdida de piezas dentales por destrucción del esmalte y la dentina así como otras terribles consecuencias, como dolor de cabeza y de los músculos de la mandíbula, cuello e incluso, de oído."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Bruxismo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El bruxismo es una parafunción mandibular persistente que consiste en el frotamiento y rechinamiento dentario. Tratamiento indicado para eliminar las consecuencias de esta patología, dolores de cabeza, cefaleas, tensiones agudas etc. Tratamiento de 50 min"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Dolor Orofacial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Esta disfunción está considerada como una variedad de trastorno músculo-esquelético que constituye la causa más frecuente de dolor orofacial. Tratamiento indicado para eliminar la sintomatología de cefaleas y migrañas, dolor facial, tension muscular etc. Tratamiento de 50 min"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Disfunción Craneomandibular", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Tratamiento específico para solucionar y evitar la pérdida de piezas dentales por destrucción del esmalte y la dentina así como otras terribles consecuencias, como dolor de cabeza y de los músculos de la mandíbula, cuello e, incluso, de oído. Tratamiento de 50 min"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Elimina tus tensiones en las partes del cuerpo más castigadas de la vida diaria. Tratamiento de 50 minutos de duración. Conseguirás salir como nueva gracias a nuestros expertos terapeutas de Fisio ATM. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Masaje indicado para eliminar los dolores localizados de tu espalda. Tratamiento de 50 minutos de duración. Conseguirás salir como nueva gracias a nuestros expertos terapeutas de Fisio ATM. Te encantará el resultado."
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "adid": null, 
+    "name": "Moments Zen", 
+    "name_of_contact": "Moments Zen", 
+    "scrape_page": "https://www.bucmi.com/momentszen", 
+    "business_website": "https://www.bucmi.com/momentszen", 
+    "areas_covered": null, 
+    "description": "Centro de belleza y spa Moments Zen. Descubre nuestra gran variedad de Tratamientos, masajes, reductores y reafirmantes, etc. Ven a conocer nuestro centro ubicado en Sants y disfruta de nuestras completas terapias de bienestar y sal con las pilas cargada", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635658420004035890.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635658420019036857.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635658420038882041.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "Barcelona, 08008, Barcelona, Barcelona, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "933632994", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3856482000", 
+    "longitude": "2.1333833999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968332330417723.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal A Elegir", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Relájate y descarga tensiones con este masaje de 30 minutos a elegir entre masaje relajante, descontracturante o deportivo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal A Elegir", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Relájate, descarga tensiones y olvídate del estrés con este masaje de minutos a elegir entre masaje relajante, descontracturante o deportivo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Citrus 50Min", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "Tratamiento facial antioxidante y reparador de la piel dañada por el sol y los agentes externos, basado en altas concentraciones de vitamina C. Revitaliza el cutis y estimula la producción de colágeno, aumentando la firmeza y elasticidad a la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exotic Peeling Corporal Y Masaje", 
+            "duration": 5400, 
+            "price": "108 € ", 
+            "description": "Servicio realizado por nuestros profesionales que incluye exotic peeling frangipani o ginger de 30min y masaje aromaterapia de 60min."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Con Vitamina C", 
+            "duration": 5400, 
+            "price": "108 € ", 
+            "description": "Este tratamiento incluye limpieza de cutis y una sesión de vitamina C de la prestigiosa marca Natura Bissé. Servicio realizado por nuestros profesionales calificados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Citrus Experience: Masaje Y Peeling Corporal 50 Mi", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Tratamiento a base de vitamina C, que incluye peeling, envoltura y masaje aromático corporal. Masaje incluye mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Citrus 50Min", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "Tratamiento facial antioxidante y reparador de la piel dañada por el sol y los agentes externos, basado en altas concentraciones de vitamina C. Revitaliza el cutis y estimula la producción de colágeno, aumentando la firmeza y elasticidad a la piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Exotic Peeling Corporal Y Masaje", 
+            "duration": 5400, 
+            "price": "108 € ", 
+            "description": "Servicio realizado por nuestros profesionales que incluye exotic peeling frangipani o ginger de 30min y masaje aromaterapia de 60min."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza De Cutis Con Vitamina C", 
+            "duration": 5400, 
+            "price": "108 € ", 
+            "description": "Este tratamiento incluye limpieza de cutis y una sesión de vitamina C de la prestigiosa marca Natura Bissé. Servicio realizado por nuestros profesionales calificados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Citrus Experience: Masaje Y Peeling Corporal 50 Mi", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Tratamiento a base de vitamina C, que incluye peeling, envoltura y masaje aromático corporal. Masaje incluye mascarilla."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Citrus 50Min", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "Tratamiento facial antioxidante y reparador de la piel dañada por el sol y los agentes externos, basado en altas concentraciones de vitamina C. Revitaliza el cutis y estimula la producción de colágeno, aumentando la firmeza y elasticidad a la piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "5 + 1 Quiromasaje", 
+            "duration": 3600, 
+            "price": "245 € ", 
+            "description": "Masaje a elegir para reducir tensiones, contracturas, para relax facial o de cuerpo. Servicio realizado por nuestros profesionales de manera a que pueda olvidar el stress diario."
+        }
+    ]
+}

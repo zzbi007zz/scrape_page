@@ -1,0 +1,262 @@
+{
+    "adid": null, 
+    "name": "Centro Virgina", 
+    "name_of_contact": "Centro Virgina", 
+    "scrape_page": "https://www.bucmi.com/centrovirginia", 
+    "business_website": "https://www.bucmi.com/centrovirginia", 
+    "areas_covered": null, 
+    "description": "Centro Virginia es un salón de peluquería y estética, ubicado en la zona de Pueblo Nuevo en Madrid. Aquí podrás encontrar todo lo necesario para verte aún más guapa y cuidar tu bienestar. Nos preocupa todo lo que te interese sobre tu imagen. ¡Reserva ya!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963161703146289.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963161703938843.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963161707220100.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963161708470097.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963161709720080.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963161708938845.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Suecia, 84", 
+    "city": "Madrid", 
+    "zipcode": "28017", 
+    "formatted_address": "C/ Suecia, 84, Madrid, 28017", 
+    "country": "es", 
+    "office_number": "913774082", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4327872000", 
+    "longitude": "-3.6404302999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963259794224475.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Axilas", 
+            "duration": 1800, 
+            "price": "7,5 € ", 
+            "description": "¿Necesitas ya una depilación en tus axilas? ¡No lo dudes más y reserva en nuestro centro! Utilizamos cera de la mejor calidad. Podrás eliminar el vello antiestético en tan solo 15 min."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Medio", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Ponte en manos de nuestros peluqueros y te realizarán el peinado que deseas. Incluye el lavado con champú, masaje craneal, acondicionador. El servicio es exclusivo para media melena, desde la oreja hasta el hombro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Largo", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "¿Tienes un evento especial y quieres lucir perfecta? ¡Reserva nuestro peinado para pelo largo! Nuestro profesionales se encargarán de realizarte el peinado que más te guste. Incluye el lavado con champú especifico, masaje craneal, acondicionador."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Corto", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Si tienes el pelo corto y necesitas realizarte un peinado para alguna ocasión especial, este es tu servicio. Incluye el lavado con champú especifico, masaje craneal y peinado. ¡Ponte en manos de nuestros peluqueros!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Argán Con Peinado", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "Champú de argán con mascarilla de argán, con semillas de lino y proteínas de seda. Nutre e hidrata el cabello en profundidad dejándolo vital y brillante. También incluye un fluído de argán que protegerá tu cabello de agresiones externas. También incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratación Keratina Y Peinado", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "champu queratina+loccion activa restructurante molecualar+mascarilla de queratina y acido hialurionico que penetra en la zona desgarrada del cabello reforzandole y devolvendole elastica la cuticula+peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Medio", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Ponte en manos de nuestros peluqueros y te realizarán el peinado que deseas. Incluye el lavado con champú, masaje craneal, acondicionador. El servicio es exclusivo para media melena, desde la oreja hasta el hombro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Largo", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "¿Tienes un evento especial y quieres lucir perfecta? ¡Reserva nuestro peinado para pelo largo! Nuestro profesionales se encargarán de realizarte el peinado que más te guste. Incluye el lavado con champú especifico, masaje craneal, acondicionador."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinado Corto", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Si tienes el pelo corto y necesitas realizarte un peinado para alguna ocasión especial, este es tu servicio. Incluye el lavado con champú especifico, masaje craneal y peinado. ¡Ponte en manos de nuestros peluqueros!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar Argán Con Peinado", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "Champú de argán con mascarilla de argán, con semillas de lino y proteínas de seda. Nutre e hidrata el cabello en profundidad dejándolo vital y brillante. También incluye un fluído de argán que protegerá tu cabello de agresiones externas. También incluye el peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar Hidratación Keratina Y Peinado", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "champu queratina+loccion activa restructurante molecualar+mascarilla de queratina y acido hialurionico que penetra en la zona desgarrada del cabello reforzandole y devolvendole elastica la cuticula+peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinado Medio", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Ponte en manos de nuestros peluqueros y te realizarán el peinado que deseas. Incluye el lavado con champú, masaje craneal, acondicionador. El servicio es exclusivo para media melena, desde la oreja hasta el hombro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinado Largo", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "¿Tienes un evento especial y quieres lucir perfecta? ¡Reserva nuestro peinado para pelo largo! Nuestro profesionales se encargarán de realizarte el peinado que más te guste. Incluye el lavado con champú especifico, masaje craneal, acondicionador."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Y Termoterapia", 
+            "duration": 1800, 
+            "price": "28,5 € ", 
+            "description": "En tan solo 20 min de presoterpia y termoterapia combatirás la celulitis, piel de naranja, retención de líquidos, activa la circulación y tiene efecto relajante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "¡Reserva nuestro drenaje linfático para eliminar toxinas! Consiste en una técnica de masoterapia que dirigirá la acción del funcionamiento del sistema linfático superficial para mejorar la eliminación de la grasa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si tu cutis necesita una limpieza en profundidad, no lo dudes más reserva nuestra limpieza facial. Notarás como la piel de tu rostro se ve más limpia, libre de imperfecciones y puntos negros. Tú piel te lo agradecerá."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal Reductor", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Si quieres reducir el volumen de tus piernas, solo tienes que reservar nuestro masaje reductor. Consiste en un masaje en las piernas para mejorar la circulación, la retención de líquidos y las piernas cansadas. ¡Notaras tus piernas muchos más ligeras!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peinado Corto", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Si tienes el pelo corto y necesitas realizarte un peinado para alguna ocasión especial, este es tu servicio. Incluye el lavado con champú especifico, masaje craneal y peinado. ¡Ponte en manos de nuestros peluqueros!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Capilar Argán Con Peinado", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "Champú de argán con mascarilla de argán, con semillas de lino y proteínas de seda. Nutre e hidrata el cabello en profundidad dejándolo vital y brillante. También incluye un fluído de argán que protegerá tu cabello de agresiones externas. También incluye el peinado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Capilar Hidratación Keratina Y Peinado", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "champu queratina+loccion activa restructurante molecualar+mascarilla de queratina y acido hialurionico que penetra en la zona desgarrada del cabello reforzandole y devolvendole elastica la cuticula+peinado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peinado Medio", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Ponte en manos de nuestros peluqueros y te realizarán el peinado que deseas. Incluye el lavado con champú, masaje craneal, acondicionador. El servicio es exclusivo para media melena, desde la oreja hasta el hombro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peinado Largo", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "¿Tienes un evento especial y quieres lucir perfecta? ¡Reserva nuestro peinado para pelo largo! Nuestro profesionales se encargarán de realizarte el peinado que más te guste. Incluye el lavado con champú especifico, masaje craneal, acondicionador."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia Y Termoterapia", 
+            "duration": 1800, 
+            "price": "28,5 € ", 
+            "description": "En tan solo 20 min de presoterpia y termoterapia combatirás la celulitis, piel de naranja, retención de líquidos, activa la circulación y tiene efecto relajante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "¡Reserva nuestro drenaje linfático para eliminar toxinas! Consiste en una técnica de masoterapia que dirigirá la acción del funcionamiento del sistema linfático superficial para mejorar la eliminación de la grasa."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza De Cutis", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si tu cutis necesita una limpieza en profundidad, no lo dudes más reserva nuestra limpieza facial. Notarás como la piel de tu rostro se ve más limpia, libre de imperfecciones y puntos negros. Tú piel te lo agradecerá."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado Corto", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Si tienes el pelo corto y necesitas realizarte un peinado para alguna ocasión especial, este es tu servicio. Incluye el lavado con champú especifico, masaje craneal y peinado. ¡Ponte en manos de nuestros peluqueros!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Argán Con Peinado", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "Champú de argán con mascarilla de argán, con semillas de lino y proteínas de seda. Nutre e hidrata el cabello en profundidad dejándolo vital y brillante. También incluye un fluído de argán que protegerá tu cabello de agresiones externas. También incluye el peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Hidratación Keratina Y Peinado", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "champu queratina+loccion activa restructurante molecualar+mascarilla de queratina y acido hialurionico que penetra en la zona desgarrada del cabello reforzandole y devolvendole elastica la cuticula+peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado Medio", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Ponte en manos de nuestros peluqueros y te realizarán el peinado que deseas. Incluye el lavado con champú, masaje craneal, acondicionador. El servicio es exclusivo para media melena, desde la oreja hasta el hombro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado Largo", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "¿Tienes un evento especial y quieres lucir perfecta? ¡Reserva nuestro peinado para pelo largo! Nuestro profesionales se encargarán de realizarte el peinado que más te guste. Incluye el lavado con champú especifico, masaje craneal, acondicionador."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia Y Termoterapia", 
+            "duration": 1800, 
+            "price": "28,5 € ", 
+            "description": "En tan solo 20 min de presoterpia y termoterapia combatirás la celulitis, piel de naranja, retención de líquidos, activa la circulación y tiene efecto relajante."
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "adid": null, 
+    "name": "Clinica Massana Maria de Molina", 
+    "name_of_contact": "Clinica Massana Maria de Molina", 
+    "scrape_page": "https://www.bucmi.com/massanamolina", 
+    "business_website": "https://www.bucmi.com/massanamolina", 
+    "areas_covered": null, 
+    "description": "Clínicas Massana son unas clínicas médico estéticas especializadas de Valladolid, donde encontrarás múltiples tratamientos faciales y corporales para que te sientes estupenda. Ven a conocer nuestra clínica de Maria de Molina y te encantará el resultado.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635600406693227922.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635600406721511577.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635600407227972159.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924273389027799.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924273562933449.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Carbonero, 7", 
+    "city": "Valladolid", 
+    "zipcode": "47001", 
+    "formatted_address": "C/ Carbonero, 7, Valladolid, 47001", 
+    "country": "es", 
+    "office_number": "983354000", 
+    "office_number2": null, 
+    "mobile_number": "647681387", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6498891000", 
+    "longitude": "-4.7306936999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961515366854552.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Rejuvenicimiento Facial", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Consigue una piel más joven gracias a nuestro completo tratamiento de rejuvenicimiento facial sin cirugía. Consiste en un completo cóctel de vitaminas que atenúa las arrugas, elimina las manchas, quita las marcas de acné y mejora la elasticidad. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial De Lujo", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "El elixir de juventud en forma de un tratamiento facial iluminante. Incluye: Diagnóstico facial, Pulverizado purificante con microcristales de corindón , Radiofrecuencia (ideal para personas con flacidez) y ampolla flash colágeno."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Antimanchas", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Di adiós a las manchas con el mejor tratamiento médico. Descubre los efectos despigmentantes del laser fraccionado resurfacing.Incluye: Diagnóstico de la piel + Higiene + Sesión láser fraccionado Resurfacing + Mascarilla de colágeno + elastina."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Rejuvenicimiento Facial", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Consigue una piel más joven gracias a nuestro completo tratamiento de rejuvenicimiento facial sin cirugía. Consiste en un completo cóctel de vitaminas que atenúa las arrugas, elimina las manchas, quita las marcas de acné y mejora la elasticidad. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "49 € ", 
+            "description": "Combate la celulitis y la grasa localizada tratando el edema intersticial y el estrangulamiento de los adipocitos mediante la reestructuración de las fibras de colágeno del tejido conjuntivo. Es un método inyectable por vía subcutánea poco invasivo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial De Lujo", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "El elixir de juventud en forma de un tratamiento facial iluminante. Incluye: Diagnóstico facial, Pulverizado purificante con microcristales de corindón , Radiofrecuencia (ideal para personas con flacidez) y ampolla flash colágeno."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Antimanchas", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Di adiós a las manchas con el mejor tratamiento médico. Descubre los efectos despigmentantes del laser fraccionado resurfacing.Incluye: Diagnóstico de la piel + Higiene + Sesión láser fraccionado Resurfacing + Mascarilla de colágeno + elastina."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Rejuvenicimiento Facial", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Consigue una piel más joven gracias a nuestro completo tratamiento de rejuvenicimiento facial sin cirugía. Consiste en un completo cóctel de vitaminas que atenúa las arrugas, elimina las manchas, quita las marcas de acné y mejora la elasticidad. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "49 € ", 
+            "description": "Combate la celulitis y la grasa localizada tratando el edema intersticial y el estrangulamiento de los adipocitos mediante la reestructuración de las fibras de colágeno del tejido conjuntivo. Es un método inyectable por vía subcutánea poco invasivo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial De Lujo", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "El elixir de juventud en forma de un tratamiento facial iluminante. Incluye: Diagnóstico facial, Pulverizado purificante con microcristales de corindón , Radiofrecuencia (ideal para personas con flacidez) y ampolla flash colágeno."
+        }
+    ]
+}

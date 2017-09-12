@@ -1,0 +1,100 @@
+{
+    "adid": null, 
+    "name": "Clínica Dental Exceldental", 
+    "name_of_contact": "Clínica Dental Exceldental", 
+    "scrape_page": "https://www.bucmi.com/clinicaexceldental", 
+    "business_website": "https://www.bucmi.com/clinicaexceldental", 
+    "areas_covered": null, 
+    "description": "Ponte en manos de los mejores profesionales para cuidar tu boca. En nuestra clinica podrás encontrar los últimos avances en el mundo de la odontología, trabajando desde hace años con Invisaling. Nuestro centro es sinónimo de calidad y trato personalizado", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817088566617396.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817088671929731.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817088854429036.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817088921929163.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817088971461396.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Picones, 3", 
+    "city": "Valladolid", 
+    "zipcode": "47001", 
+    "formatted_address": "C/ Picones, 3, Valladolid, 47001", 
+    "country": "es", 
+    "office_number": "983200272", 
+    "office_number2": null, 
+    "mobile_number": "660649019", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6486529000", 
+    "longitude": "-4.7252711999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961572338303827.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Blanqueamiento Dental Con Luz Led", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "En un primer día se te realizara un limpieza previa con ultrasonido y pulido dental. En un segundo cita se realizará el blanqueamiento con Luz de Led y se le dará para que consiga el mejor resultado un refuerzo con ferulas para usar unos días en casa. Consigue el mejor resultado en blanqueamiento dental"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Blanqueamiento Dental En Casa", 
+            "duration": 2700, 
+            "price": "200 € ", 
+            "description": "Consigue unos dientes blancos con un tratamiento para casa. Te realizaremos un limpieza previa con ultrasonido y pulido dental y crearemos unas férulas personalizadas para que te las pongas en casa durante unos días para conseguir el deseado blanquemiento de dientes"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Dental Con Revisión", 
+            "duration": 2700, 
+            "price": "75 € ", 
+            "description": "Ten una boca sana y cuidad con una limpieza con ultrasonido y pulido, además este servicio incluye una radiografia ortopantográfica para conocer con detalle como está tu dentadura y topificación"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Dental con Ferula de Descarga", 
+            "duration": 3600, 
+            "price": "295 € ", 
+            "description": "¿Problemas para dormir por tu mandíbula? Consigue unas férulas de descarga para poder descansar como te mereces. Además recibe una limpieza dental con ultrasonido y pulido para tener una boca sana"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Estudio de Ortodoncia con Limpieza Dental", 
+            "duration": 3600, 
+            "price": "100 € ", 
+            "description": "¿Quieres conseguir una sonrisa perfecta? Te asesoraremos con un estudio completo de ortodoncia que incluye fotografias, ortopantografía, modelos y planificación para conseguir esa sonrisa perfecta. Además se incluye una limpieza con ultrasonido y púlido"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Blanqueamiento Dental Con Luz Led", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "En un primer día se te realizara un limpieza previa con ultrasonido y pulido dental. En un segundo cita se realizará el blanqueamiento con Luz de Led y se le dará para que consiga el mejor resultado un refuerzo con ferulas para usar unos días en casa. Consigue el mejor resultado en blanqueamiento dental"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Blanqueamiento Dental En Casa", 
+            "duration": 2700, 
+            "price": "200 € ", 
+            "description": "Consigue unos dientes blancos con un tratamiento para casa. Te realizaremos un limpieza previa con ultrasonido y pulido dental y crearemos unas férulas personalizadas para que te las pongas en casa durante unos días para conseguir el deseado blanquemiento de dientes"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Dental Con Revisión", 
+            "duration": 2700, 
+            "price": "75 € ", 
+            "description": "Ten una boca sana y cuidad con una limpieza con ultrasonido y pulido, además este servicio incluye una radiografia ortopantográfica para conocer con detalle como está tu dentadura y topificación"
+        }
+    ]
+}

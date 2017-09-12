@@ -1,0 +1,190 @@
+{
+    "adid": null, 
+    "name": "Estética Aplicada", 
+    "name_of_contact": "Estética Aplicada", 
+    "scrape_page": "https://www.bucmi.com/esteticaaplicada", 
+    "business_website": "https://www.bucmi.com/esteticaaplicada", 
+    "areas_covered": null, 
+    "description": "El Centro de Estética Aplicada, situado en Vallecas, ofrece tratamientos tales como limpiezas faciales, maquillajes, láser, masajes, manicuras y pedicura. Ven y siéntete bien tanto por dentro como por fuera.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636323614504547238.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636323614531111695.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636323614561738668.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636323614589552388.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28038", 
+    "formatted_address": "Madrid, 28038", 
+    "country": "es", 
+    "office_number": "914770142", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3899662000", 
+    "longitude": "-3.6632455999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636323614241874892.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial E Hidratación", 
+            "duration": 7200, 
+            "price": "65 € ", 
+            "description": "Tratamiento personalizado en función al tipo de piel, para corregir los poros y eliminar las células muertas y puntos negros, combate esa sensación de piel seca con una hidratación para conseguir una piel suave, hidratada y luminosa. Aplicación de Indiba."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Empezamos limando las uñas (a elegir), se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Toda novia quiere lucir hermosa y radiante en su día y es por eso que el maquillaje para novias es importantísimo y debe ser perfecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Toda novia quiere lucir hermosa y radiante en su día y es por eso que el maquillaje para novias es importantísimo y debe ser perfecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "La Extensión de Pestañas es la última técnica para lograr unas pestañas largas, curvadas y flexibles, mediante la colocación de pestañas sintéticas semipermanentes adheridas a la pestaña natural. Evita el efecto tosco de las pestañas postizas y sus resultados tienen una gran durabilidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Básica", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "La higiene facial es un hábito imprescindible para el cuidado de nuestra piel no solo desde el punto de vista estético, sino porque ayuda a limpiar e hidratar nuestro rostro para que tenga una apariencia más saludable. La piel de la cara está expuesta constantemente a los cambios de clima, el sol o la polución requiriendo de la debida atención para que se mantenga siempre radiante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial E Hidratación", 
+            "duration": 7200, 
+            "price": "65 € ", 
+            "description": "Tratamiento personalizado en función al tipo de piel, para corregir los poros y eliminar las células muertas y puntos negros, combate esa sensación de piel seca con una hidratación para conseguir una piel suave, hidratada y luminosa. Aplicación de Indiba."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Fiesta", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El maquillaje de noche se caracteriza por ser más cargado que el de día, sin embargo buscamos que aunque sea muy cargado luzca natural y elegante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Toda novia quiere lucir hermosa y radiante en su día y es por eso que el maquillaje para novias es importantísimo y debe ser perfecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Social", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "El maquillaje social es todo maquillaje utilizado para lucir cara a cara, de ir por la calle, como por ejemplo el maquillaje de día."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reafirmante", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "El masaje reafirmante está indicado para conseguir un efecto de reafirmación del tejido. Oxigena y nutre a través del riego sanguíneo los tejidos afectados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reductor", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "El masaje reductor se utiliza como método para combatir y eliminar la acumulación de grasa de una zona localizada del cuerpo, como glúteos o abdomen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reductor Anticelutico", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "El masaje anticelulítico rompe la grasa, moviliza líquidos acumulados y facilita la penetración de las cremas anticelulíticas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "tratamiento indicado para la eliminación de las células muertas de la piel o descamación superficial, aportando frescura y limpieza a la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente+Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Servicio que permite otorgar ondulación a las pestañas y color para una mirada con mayor expresividad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas Y Cejas", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "Consigue que el color del tinte de pestañas y cejas sea mucho más brillante además de reparar e hidrata el pelo de los daños causados por agentes externos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Litho Essentials", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "aporta beneficios cosméticos al cuerpo, a la vez que paz y tranquilidad a la mente. La litocosmética aporta al corazón de las células de la piel todas las virtudes de estos elixires minerales"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad: Vitamina C", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Tratamiento multi-corrector anti-edad: firmeza y densidad, uniformidad y luminosidad inmediata, elasticidad, hidratación y frescura. Consigue un rostro más joven y gánale la batalla a los años y consigue una piel libre de imperfecciones gracias a nuestros expertos esteticistas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reafirmante Facial", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Su exclusivo método de aplicación profesional intensifica la acción lifting. Un original masaje cuidadosamente diseñado para “esculpir” rostro y cuello con maniobras muy precisas que trabajan el óvalo facial desde todos los ángulos. En él confluyen la influencia de técnicas milenarias orientales, como el sistema de meridianos, y más vanguardistas, inspiradas en intervenciones de medicina estética."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Toda novia quiere lucir hermosa y radiante en su día y es por eso que el maquillaje para novias es importantísimo y debe ser perfecto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "La Extensión de Pestañas es la última técnica para lograr unas pestañas largas, curvadas y flexibles, mediante la colocación de pestañas sintéticas semipermanentes adheridas a la pestaña natural. Evita el efecto tosco de las pestañas postizas y sus resultados tienen una gran durabilidad."
+        }
+    ]
+}

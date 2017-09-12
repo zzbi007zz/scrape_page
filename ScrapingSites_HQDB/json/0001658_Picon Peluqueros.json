@@ -1,0 +1,128 @@
+{
+    "adid": null, 
+    "name": "Picón Peluqueros", 
+    "name_of_contact": "Picón Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/piconpeluqueros", 
+    "business_website": "https://www.bucmi.com/piconpeluqueros", 
+    "areas_covered": null, 
+    "description": "En Picón peluqueros tendrás un servicio de peluquería totalmente personalizado. Nos ajustamos a las exigencias de nuestros clientes para ofrecerles los mejores servicios de corte de pelo y afeitado. Seguro que no te arrepentirás de conocernos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635397380597749707.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635397380619937445.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635397380659405696.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635397380659718292.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635397380659874465.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "4,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Sevilla", 
+    "zipcode": "41005", 
+    "formatted_address": "Sevilla, 41005", 
+    "country": "es", 
+    "office_number": null, 
+    "office_number2": null, 
+    "mobile_number": "659934762", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.3726721000", 
+    "longitude": "-5.9695282999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810740894902728.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre Y Afeitado Con Navaja", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "En este servicio se incluye nuestro afeitado clásico con navaja en nuestra peluquería y por último déjate asesorar con un corte de pelo que más vaya contigo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Nos ajustamos a tus exigencias para ofrecerte el mejor corte de pelo. En el corte de pelo está incluido el lavado con champú específico. ¡Reserva ya online con nosotros!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte A Navaja", 
+            "duration": 900, 
+            "price": "13 € ", 
+            "description": "Servicio típico en nuestro local. Podríamos decir que es la joya de la Corona. Servicio esmerado usando las tendencias y productos actuales pero con la sabiduría y el buen hacer de siempre."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Para Estudiantes", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Cortes de pelo actuales y vanguardistas para los mas jóvenes; desde degradados a cortes old school o nuevas tendencias. Necesario presentar carnet de estudiante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre Y Afeitado Con Navaja", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "En este servicio se incluye nuestro afeitado clásico con navaja en nuestra peluquería y por último déjate asesorar con un corte de pelo que más vaya contigo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Niño", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Corte de pelo de niños desde meses hasta 12 años. Somos especialistas en este tipo de corte que tantos quebraderos de cabeza dan a los padres."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre Y Corte Niño", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Disfrute de este pack familiar. Los cortes incluyen lavado, corte y producto de acabado. El corte de niño sólo incluye hasta los 12 años de edad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Clásico Relajante", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Consta de un masaje previo al afeitado, con loción de extractos de hierbas aromáticas (romero, lavanda y espliego), toalla con vapor, y por último el afeitado. Concluye con masaje after shave."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo Barba", 
+            "duration": 900, 
+            "price": "7,5 € ", 
+            "description": "Servicio indicado para gente que le gusta llevar barba,pero arreglada. Consta de una parte que se realiza o a tijeras o a maquina y otra en la cual se realiza un afeitado de las zonas a rasurar usando after shave o bálsamo sin alcohol."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Nos ajustamos a tus exigencias para ofrecerte el mejor corte de pelo. En el corte de pelo está incluido el lavado con champú específico. ¡Reserva ya online con nosotros!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Corte Hombre", 
+            "duration": 5400, 
+            "price": "18 € ", 
+            "description": "El servicio incluye el lavado del pelo con champú específico, el tinte de pelo, el peinador de un sólo uso, papel cuello y cuchilla nueva. Luego para terminar, a elegir: gomina cera o laca."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte A Navaja", 
+            "duration": 900, 
+            "price": "13 € ", 
+            "description": "Servicio típico en nuestro local. Podríamos decir que es la joya de la Corona. Servicio esmerado usando las tendencias y productos actuales pero con la sabiduría y el buen hacer de siempre."
+        }
+    ]
+}

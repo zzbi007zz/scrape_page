@@ -1,0 +1,201 @@
+{
+    "adid": null, 
+    "name": "Amon Thai", 
+    "name_of_contact": "Amon Thai", 
+    "scrape_page": "https://www.bucmi.com/amonthai", 
+    "business_website": "https://www.bucmi.com/amonthai", 
+    "areas_covered": null, 
+    "description": "Terapias naturales y masajes tailandeses tradicionales. Nuestros profesionales han sido formados en Tailandia y trabajamos con todo tipo de técnicas orientales. Descubre el lujo oriental terapéutico en el barrio Salamanca de Madrid.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005534654871024.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005534660808421.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005534665964672.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005534673777132.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005534679245866.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005534683313367.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005534690344694.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005534747078596.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "12", 
+    "hqdb_review_score": "9,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Berruguete, 27", 
+    "city": "Madrid", 
+    "zipcode": "28006", 
+    "formatted_address": "C/ Berruguete, 27, Madrid, 28006", 
+    "country": "es", 
+    "office_number": "910102536", 
+    "office_number2": null, 
+    "mobile_number": "603604836", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4293819000", 
+    "longitude": "-3.6811612000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636005526415312479.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Nuad Thai", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Auténtico Masaje Tailandés Tracional. Rítmicas presiones, manipulaciones articulares y desbloqueos en los canales energéticos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Thai Luxe", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Combinación de diferentes técnicas de Masaje Tailandés Tradicional y Masaje Lanna Tok Sen. 90 minutos para el mayor relax."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje En Pareja Thai Tradicional", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "Auténtico Masaje Tailandés Tradicional en Pareja. Descúbrelo a través de presiones, manipulaciones articulares y adaptados estiramientos que te transportarán al Reino de Siam."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Thai Herbal En Pareja", 
+            "duration": 3600, 
+            "price": "105 € ", 
+            "description": "Completa tu tratamiento tradicional con el Masaje Luk Pra Kob. Calientes pindas ayurvédicas rellenas de plantas medicinales que relajarán tu musculatura al máximo junto a tu pareja."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Thai Luxe En Pareja", 
+            "duration": 5400, 
+            "price": "130 € ", 
+            "description": "Increíble experiencia para disfrutar en pareja. 90 minutos de masaje que combinarán Masaje Tailandés Tradicional, Reflexología Podal, Masaje Lanna Tok Sen y Masaje Luk Pra Kob."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Thai De Aceites Masaje En Pareja", 
+            "duration": 3600, 
+            "price": "88 € ", 
+            "description": "Masaje relajante en pareja realizado con aceites esenciales. Combinación de técnicas de masaje tailandés tradicional con el masaje thai de aceites."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Nuad Thai", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Auténtico Masaje Tailandés Tracional. Rítmicas presiones, manipulaciones articulares y desbloqueos en los canales energéticos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thai Luxe", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Combinación de diferentes técnicas de Masaje Tailandés Tradicional y Masaje Lanna Tok Sen. 90 minutos para el mayor relax."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thai Siam", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "El mayor lujo que puedes regalarle a tu cuerpo. Dos horas de Masaje Tailandés Tradicional en combinación con las mejores técnicas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Shiatsu", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "El Shiatsu es una antigua terapia que basa sus beneficios en conseguir la correcta canalización de la energía vital (Chi) mediante la presión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje En Pareja Thai Tradicional", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "Auténtico Masaje Tailandés Tradicional en Pareja. Descúbrelo a través de presiones, manipulaciones articulares y adaptados estiramientos que te transportarán al Reino de Siam."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Lomi Lomi", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Este masaje hawaiano de aceites tiene como principal técnica el uso de los antebrazos. Combinado con suaves estiramientos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thai Beauty", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Especial Masaje Tailandés de Aceites pensado para devolver la belleza natural de la piel de la mujer. Con Aceite de Rosa Mosqueta."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thai Craneal", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "En el servicio está incluido la sesión de media hora de masaje relajante en la zona de cuello, cabeza y cara. Siéntete como nuevo gracias a nuestro masaje estilo Tailandés."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thai De Aceites", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Masaje Tailandés con Aceites Esenciales Anti-Estrés. Elaborados a base de mejorana y lavandín, relajarán tu cuerpo y mente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thai Exprés", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "El servicio incluye una sesión de masaje Thai. El masaje tailandés exprés para zona localizada es ideal para personas que disponen de poco tiempo. Ya sabes, ¡reserva online y sigue ahorrando tiempo!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thai Herbal En Pareja", 
+            "duration": 3600, 
+            "price": "105 € ", 
+            "description": "Completa tu tratamiento tradicional con el Masaje Luk Pra Kob. Calientes pindas ayurvédicas rellenas de plantas medicinales que relajarán tu musculatura al máximo junto a tu pareja."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thai Luxe En Pareja", 
+            "duration": 5400, 
+            "price": "130 € ", 
+            "description": "Increíble experiencia para disfrutar en pareja. 90 minutos de masaje que combinarán Masaje Tailandés Tradicional, Reflexología Podal, Masaje Lanna Tok Sen y Masaje Luk Pra Kob."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexología Podal Thai", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Masaje realizado con aceites esenciales mediante presiones, fricciones y masaje en los pies y y piernas, Ideal para personas que pasan muchas horas de pie o con sobrecargas musculares."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Shiatsu Y Reflexología Podal Thai", 
+            "duration": 5400, 
+            "price": "92 € ", 
+            "description": "Comenzaremos con el Shiatsu que es una antigua terapia que basa sus beneficios en conseguir la correcta canalización de la energía vital (Chi) mediante la presión. Después, se realizará la reflexología con Masaje realizado con aceites esenciales mediante presiones, fricciones y masaje en los pies y y piernas, Ideal para personas que pasan muchas horas de pie o con sobrecargas musculares."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Thai De Aceites Masaje En Pareja", 
+            "duration": 3600, 
+            "price": "88 € ", 
+            "description": "Masaje relajante en pareja realizado con aceites esenciales. Combinación de técnicas de masaje tailandés tradicional con el masaje thai de aceites."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Nuad Thai", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Auténtico Masaje Tailandés Tracional. Rítmicas presiones, manipulaciones articulares y desbloqueos en los canales energéticos."
+        }
+    ]
+}

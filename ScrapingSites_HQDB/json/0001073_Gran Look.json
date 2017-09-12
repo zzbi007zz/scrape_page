@@ -1,0 +1,128 @@
+{
+    "adid": null, 
+    "name": "Gran Look", 
+    "name_of_contact": "Gran Look", 
+    "scrape_page": "https://www.bucmi.com/granlook", 
+    "business_website": "https://www.bucmi.com/granlook", 
+    "areas_covered": null, 
+    "description": "Centro de peluqueria del popular barrio de Barcelona de Sants, cuenta con servicios de peluquería y de estética. Déjate asesorar por los mejores profesionales sobre nuestros cortes de pelo, tintes, mechas.... No te arrepentirás de los resultados. ¡Ven ya", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636107673790673718.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636107673840828925.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636107673859578546.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636107673916296044.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636107673938639367.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "7,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Valencia, 539", 
+    "city": "Barcelona", 
+    "zipcode": "08014", 
+    "formatted_address": "C/ Valencia, 539, Barcelona, 08014", 
+    "country": "es", 
+    "office_number": "933396762", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3805121000", 
+    "longitude": "2.1367855999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636107690667087398.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Cortar Y Peinar", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Servicio de color en raíz, corte y peinado a un precio espectacular. Para color completo o cambios de color, consultar por posibles suplementos en el precio final."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 900, 
+            "price": "9 € ", 
+            "description": "Cambia tu look o arregla el corte para hombre. El servicio incluye lavado y productos de fijación."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Cambia tu look con este corte para mujer. El servicio incluye lavado, pero no el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "Pack de corte y peinado mujer a un precio increíble para que estés estupenda cualquier día de la semana. Incluye el lavado, corte y peinado con forma."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinar", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Servicio de color en raíz, corte y peinado a un precio espectacular. Para color completo o cambios de color, consultar por posibles suplementos en el precio final."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Unifica el color de tu cabello para lucir una melena perfecta. El servicio incluye lavado.No incluye el peinado, se aplicará un suplemento en el salón si se desea el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 900, 
+            "price": "9 € ", 
+            "description": "Cambia tu look o arregla el corte para hombre. El servicio incluye lavado y productos de fijación."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Cambia tu look con este corte para mujer. El servicio incluye lavado, pero no el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas De Peine", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Mechas trabajadas con la técnica de peina que otorga unos ligeros reflejos a tu cabello imitando el efecto de los rayos de sol. El servicio incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas De Plata", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Dale un toque de color a tu cabello con este servicios de mechas con la técnica de plata para darle vida a tu melena. El servicio incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Mechas de peine, corte y peinado. Las mechas de peine quedan mucho más naturales, similar a los reflejos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Peinado con lavado de cabello, productos de lavado y fijadores incluidos. No incluye productos de vitaminas."
+        }
+    ]
+}

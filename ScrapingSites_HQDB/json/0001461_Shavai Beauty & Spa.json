@@ -1,0 +1,176 @@
+{
+    "adid": null, 
+    "name": "Shavai Beauty & Spa", 
+    "name_of_contact": "Shavai Beauty & Spa", 
+    "scrape_page": "https://www.bucmi.com/shavai-beauty-spa", 
+    "business_website": "https://www.bucmi.com/shavai-beauty-spa", 
+    "areas_covered": null, 
+    "description": "Shavai Beauty & Spa es un Centro de Estética diferente, en el que encontrarás un espacio dedicado a la belleza y el bienestar. Disponemos de un gran equipo de profesionales cualificados y trabajamos con productos de primeras marcas. ¡Ven a visitarnos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220760353665778.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220760384446821.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220760421477711.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220781122879539.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Alicante", 
+    "zipcode": "03005", 
+    "formatted_address": "Alicante, 03540, Alicante, 03004, Alicante, 03004, Alicante, 03005", 
+    "country": "es", 
+    "office_number": "965082577", 
+    "office_number2": null, 
+    "mobile_number": "600460911", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "38.3474009000", 
+    "longitude": "-0.4932287999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636220782342401537.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 6 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "Este tratamiento estimula la circulación linfática y sanguínea,activa la circulación favoreciendo la eliminación de líquidos y toxinas,mejorando el aspecto de la celulitis, reduce volumen y deja tus piernas relajadas y sin dolor. Mejora la circulación del sistema linfático. Presume de un cuerpo tonificado y realza tu figura. Ayuda a tu cuerpo a eliminar todo lo que no necesita reservando tu cita cómodamente online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Cavitación", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Plántale cara a la grasa localizada, con esta técnica no dolorosa que consigue romper las células grasas de las zonas más difíciles y que ni las dietas, ni el ejercicio consiguen acabar con ella. Presume de una figura remodelada de manos de los profesionales de Shavai. Reserva tu cita cómodamente online a través de Bucmi.com, los resultados te encantarán."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal E Hidratación", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Se trata de la eliminación de las células muertas a través de un masaje con exfoliación seguido de un masaje de hidratación. Proporcionará a tu piel una agradable sensación de hidratación inigualable. No dudes, este tratamiento es perfecto para ti. Presume de una piel limpia, fresca y libre de impurezas. Tu piel recuperará su brillo y luz natural. Luce una piel mucho más sedosa e hidratada. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Ritual Spa", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Este tratamiento comienza con un relajante baño para eliminar tensiones y energías negativas, seguido de un peeling corporal salino para acabar con una envoltura remineralizante de fangos. Después de liberar tensiones iniciamos el masaje relajante que te permitirá experimentar nuevas y maravillosas sensaciones de bienestar. Sumérgete en un universo de relax y bienestar. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje De Novias", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "En tu gran día tienes que estar perfecta. Y para ello ponemos a tu disposición este servicio de maquillaje que incluye la prueba previa. Lucirás un acabado profesional, duradero y favorecedor con el asesoramiento que necesitas en le que te presentamos las últimas tendencias para que elijas aquella con la que más cómoda te sientas y mejor se adapte a ti. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Estarás perfecta para un día tan especial!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Novias", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "En tu gran día tienes que estar perfecta. Y para ello ponemos a tu disposición este servicio de maquillaje que incluye la prueba previa. Lucirás un acabado profesional, duradero y favorecedor con el asesoramiento que necesitas en le que te presentamos las últimas tendencias para que elijas aquella con la que más cómoda te sientas y mejor se adapte a ti. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Estarás perfecta para un día tan especial!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones De Cavitación", 
+            "duration": 1800, 
+            "price": "216 € ", 
+            "description": "Plántale cara a la grasa localizada, con esta técnica no dolorosa que consigue romper las células grasas de las zonas más difíciles y que ni las dietas, ni el ejercicio consiguen acabar con ella. Presume de una figura remodelada de manos de los profesionales de Shavai. Reserva tu cita cómodamente online a través de Bucmi.com, los resultados te encantarán. ¡No dejes que te lo cuenten! ¡Visítanos!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "Este tratamiento estimula la circulación linfática y sanguínea,activa la circulación favoreciendo la eliminación de líquidos y toxinas,mejorando el aspecto de la celulitis, reduce volumen y deja tus piernas relajadas y sin dolor. Mejora la circulación del sistema linfático. Presume de un cuerpo tonificado y realza tu figura. Ayuda a tu cuerpo a eliminar todo lo que no necesita reservando tu cita cómodamente online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Plántale cara a la grasa localizada, con esta técnica no dolorosa que consigue romper las células grasas de las zonas más difíciles y que ni las dietas, ni el ejercicio consiguen acabar con ella. Presume de una figura remodelada de manos de los profesionales de Shavai. Reserva tu cita cómodamente online a través de Bucmi.com, los resultados te encantarán."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Duración exacta: 75 minutos. Si sientes tu piel apagada y sin vida, es el momento de reservar tu cita para disfrutar de un ritual completo de higiene facial con productos de primera calidad y personalizados atendiendo las necesidades de cada tipo de piel. Luce una piel limpia, fresca y oxigenada. Presume de una piel mucho más sedosa e hidratada. Sentirás como tu piel recobra toda su luz y brillo natural. Ponte guapa en Shavai reservando tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Novias", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "En tu gran día tienes que estar perfecta. Y para ello ponemos a tu disposición este servicio de maquillaje que incluye la prueba previa. Lucirás un acabado profesional, duradero y favorecedor con el asesoramiento que necesitas en le que te presentamos las últimas tendencias para que elijas aquella con la que más cómoda te sientas y mejor se adapte a ti. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Estarás perfecta para un día tan especial!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal E Hidratación", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Se trata de la eliminación de las células muertas a través de un masaje con exfoliación seguido de un masaje de hidratación. Proporcionará a tu piel una agradable sensación de hidratación inigualable. No dudes, este tratamiento es perfecto para ti. Presume de una piel limpia, fresca y libre de impurezas. Tu piel recuperará su brillo y luz natural. Luce una piel mucho más sedosa e hidratada. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Y Mascarilla", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Duración exacta: 20 minutos. Para presumir de una piel luminosa, hidratada y visiblemente relajada, reserva tu cita en Shavai para este servicio. Es un servicio unisex, en el que usamos productos de primera calidad. Presume de una piel limpia, fresca y oxigenada. Luce una piel sedosa y mucho más hidratada y nutrida. No dejes que te lo cuenten y reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir un cuerpo tonificado? Ven a tu Centro de Estética Shavai Beauty y ponte en manos de nuestros mejores profesionales. Ayuda a eliminar la grasa localizada y la celulitis. Remodela, reduce y realza la figura. Mejora la circulación del sistema linfático. Favorece la eliminación de líquidos y toxinas. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje De Novias", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "En tu gran día tienes que estar perfecta. Y para ello ponemos a tu disposición este servicio de maquillaje que incluye la prueba previa. Lucirás un acabado profesional, duradero y favorecedor con el asesoramiento que necesitas en le que te presentamos las últimas tendencias para que elijas aquella con la que más cómoda te sientas y mejor se adapte a ti. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Estarás perfecta para un día tan especial!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Maquillaje De Novias", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "En tu gran día tienes que estar perfecta. Y para ello ponemos a tu disposición este servicio de maquillaje que incluye la prueba previa. Lucirás un acabado profesional, duradero y favorecedor con el asesoramiento que necesitas en le que te presentamos las últimas tendencias para que elijas aquella con la que más cómoda te sientas y mejor se adapte a ti. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Estarás perfecta para un día tan especial!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 6 Sesiones De Cavitación", 
+            "duration": 1800, 
+            "price": "216 € ", 
+            "description": "Plántale cara a la grasa localizada, con esta técnica no dolorosa que consigue romper las células grasas de las zonas más difíciles y que ni las dietas, ni el ejercicio consiguen acabar con ella. Presume de una figura remodelada de manos de los profesionales de Shavai. Reserva tu cita cómodamente online a través de Bucmi.com, los resultados te encantarán. ¡No dejes que te lo cuenten! ¡Visítanos!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Maquillaje De Novias", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "En tu gran día tienes que estar perfecta. Y para ello ponemos a tu disposición este servicio de maquillaje que incluye la prueba previa. Lucirás un acabado profesional, duradero y favorecedor con el asesoramiento que necesitas en le que te presentamos las últimas tendencias para que elijas aquella con la que más cómoda te sientas y mejor se adapte a ti. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Estarás perfecta para un día tan especial!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 6 Sesiones De Cavitación", 
+            "duration": 1800, 
+            "price": "216 € ", 
+            "description": "Plántale cara a la grasa localizada, con esta técnica no dolorosa que consigue romper las células grasas de las zonas más difíciles y que ni las dietas, ni el ejercicio consiguen acabar con ella. Presume de una figura remodelada de manos de los profesionales de Shavai. Reserva tu cita cómodamente online a través de Bucmi.com, los resultados te encantarán. ¡No dejes que te lo cuenten! ¡Visítanos!"
+        }
+    ]
+}

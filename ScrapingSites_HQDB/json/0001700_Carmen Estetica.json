@@ -1,0 +1,190 @@
+{
+    "adid": null, 
+    "name": "Carmen Estética", 
+    "name_of_contact": "Carmen Estética", 
+    "scrape_page": "https://www.bucmi.com/esteticacarmen", 
+    "business_website": "https://www.bucmi.com/esteticacarmen", 
+    "areas_covered": null, 
+    "description": "Centro de belleza personal con más de 10 años de experiencia. No te pierdas los servicios de calidad que realizamos: higienes faciales, manicuras o hasta depilaciones. Dispondrás de un servicio de belleza super personalizado. ¡Aprovecha ahora y reserva!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839604419676238.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839604458126961.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839604582079497.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839604624326271.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "11", 
+    "hqdb_review_score": "9,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46008", 
+    "formatted_address": "Valencia, Valencia, Valencia, 46005, Valencia, 46008", 
+    "country": "es", 
+    "office_number": "960067424", 
+    "office_number2": null, 
+    "mobile_number": "619436614", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4707984000", 
+    "longitude": "-0.3849917999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635965912277305597.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Tratamiento de higiene facial completo para obtener una piel rejuvenecida, sana y saludable. El servicio consta: desmaquillado del rostro, depilación labio superior y cejas, peeling, extracción de comedones y desinfección y acabamos con un masaje facial. ¿A qué estás esperando? Reserva tu cita ya en nuestro salón y luce una piel suave y luminosa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal Y Baño De Hidratación", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Rejuvenece tu cuerpo con nuestro Peeling Corporal en el que se exfoliará tu piel de forma profunda y posteriormente recibirás un masaje hidratante. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cejas (Pinzas)", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Disfruta de este servicio de depilación en la zona de las cejas realizado con pinzas de la mano de los mejores profesionales. Potenciaremos tu mirada y tus facciones gracias a nuestros expertos estilistas. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera En Las Axilas", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "Disfruta de unas axilas suaves y libres de vello por mucho más tiempo gracias a nuestra depilación con con cera en las axilas. ¡Es la forma más tradicional y eficaz! Reserva ya tu cita online y ponte en manos de nuestros expertos estilistas. ¡Repetirás seguro!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Tratamiento de higiene facial completo para obtener una piel rejuvenecida, sana y saludable. El servicio consta: desmaquillado del rostro, depilación labio superior y cejas, peeling, extracción de comedones y desinfección y acabamos con un masaje facial. ¿A qué estás esperando? Reserva tu cita ya en nuestro salón y luce una piel suave y luminosa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Baño De Hidratación", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Rejuvenece tu cuerpo con nuestro Peeling Corporal en el que se exfoliará tu piel de forma profunda y posteriormente recibirás un masaje hidratante. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual Facial. Hidratación", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El tratamiento de mesoterapia virtual facial de hidratación con ácido hialurónico es la mejor solución para hidratar la piel y prevenir la flacidez del rostro. No requiere pinchazos ni agujas. Proporciona hidratación profunda de la piel, luminosidad, y regeneración celular. Reserva ya tu cita cómodamente online a través de Bucmi."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual Facial. Retinol (Anti-Edad)", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La mesoterapia virtual es una técnica no invasiva para rejuvenecer tu rostro ya que aplicamos aparatología que no utiliza inyecciones sobre tu tez. Proporciona hidratación profunda de la piel, luminosidad, y regeneración celular. Pruebala y nota los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Tratamiento de higiene facial completo para obtener una piel rejuvenecida, sana y saludable. El servicio consta: desmaquillado del rostro, depilación labio superior y cejas, peeling, extracción de comedones y desinfección y acabamos con un masaje facial. ¿A qué estás esperando? Reserva tu cita ya en nuestro salón y luce una piel suave y luminosa."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Y Baño De Hidratación", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Rejuvenece tu cuerpo con nuestro Peeling Corporal en el que se exfoliará tu piel de forma profunda y posteriormente recibirás un masaje hidratante. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mesoterapia Virtual Facial. Hidratación", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El tratamiento de mesoterapia virtual facial de hidratación con ácido hialurónico es la mejor solución para hidratar la piel y prevenir la flacidez del rostro. No requiere pinchazos ni agujas. Proporciona hidratación profunda de la piel, luminosidad, y regeneración celular. Reserva ya tu cita cómodamente online a través de Bucmi."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Tratamiento de higiene facial completo para obtener una piel rejuvenecida, sana y saludable. El servicio consta: desmaquillado del rostro, depilación labio superior y cejas, peeling, extracción de comedones y desinfección y acabamos con un masaje facial. ¿A qué estás esperando? Reserva tu cita ya en nuestro salón y luce una piel suave y luminosa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Y Baño De Hidratación", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Rejuvenece tu cuerpo con nuestro Peeling Corporal en el que se exfoliará tu piel de forma profunda y posteriormente recibirás un masaje hidratante. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual Facial. Hidratación", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El tratamiento de mesoterapia virtual facial de hidratación con ácido hialurónico es la mejor solución para hidratar la piel y prevenir la flacidez del rostro. No requiere pinchazos ni agujas. Proporciona hidratación profunda de la piel, luminosidad, y regeneración celular. Reserva ya tu cita cómodamente online a través de Bucmi."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual Facial. Retinol (Anti-Edad)", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La mesoterapia virtual es una técnica no invasiva para rejuvenecer tu rostro ya que aplicamos aparatología que no utiliza inyecciones sobre tu tez. Proporciona hidratación profunda de la piel, luminosidad, y regeneración celular. Pruebala y nota los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Esmaltado Permanente En Manos O Pies", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¿Quieres presumir de unas manos perfectas? Disfruta de un bonito esmalte en tus manos o pies con una duración más larga. Elige de nuestra amplia gama de colores y ponte en manos de los mejores estilistas. Conseguirás unas uñas relucientes por mucho más tiempo. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Completa Esmaltado Permanente", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Disfruta de este servicio de manicura completa con esmaltado permanente de la mano de nuestros mejores estilistas. El servicio incluye el limado, la retirada de cutículas, peeling, masaje y esmaltado a elegir de nuestra amplia gama de colores. ¡Ahora con la facilidad de la reserva online!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Completa Esmaltado Permanente", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "¿Quieres lucir una pedicura con resultados estupendos durante mucho más tiempo? Reserva ya en nuestro salón y ponte en manos de los mejores profesionales. El servicio incluye el limado, la retirada de cutículas, peeling, retirada de durezas, masaje y esmaltado a elegir de nuestra amplia gama de colores. ¡Repetirás seguro!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Piernas Completas", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "¿Quieres lucir unas piernas suaves y libres de vello? Disfruta de este servicio de depilación con cera de piernas completas, la forma más tradicional, práctica y segura para la eliminación del vello. Reserva ya tu cita cómodamente online a través de Bucmi.com y ponte en manos de nuestros mejores profesionales. ¡Repetirás seguro!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cejas (Pinzas)", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Disfruta de este servicio de depilación en la zona de las cejas realizado con pinzas de la mano de los mejores profesionales. Potenciaremos tu mirada y tus facciones gracias a nuestros expertos estilistas. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera En Las Axilas", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "Disfruta de unas axilas suaves y libres de vello por mucho más tiempo gracias a nuestra depilación con con cera en las axilas. ¡Es la forma más tradicional y eficaz! Reserva ya tu cita online y ponte en manos de nuestros expertos estilistas. ¡Repetirás seguro!"
+        }
+    ]
+}

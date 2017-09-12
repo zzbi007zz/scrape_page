@@ -1,0 +1,108 @@
+{
+    "adid": null, 
+    "name": "Metropolitano", 
+    "name_of_contact": "Metropolitano", 
+    "scrape_page": "https://www.bucmi.com/metropolitano", 
+    "business_website": "https://www.bucmi.com/metropolitano", 
+    "areas_covered": null, 
+    "description": "¡En Metropolitano queremos tenerte lo más espectacular posible!, prueba nuestros servicios de estética y consigue la mejor relación calidad-precio. Además te ofrecemos la posibilidad de comprar los productos de belleza que utilices. ¡Ven a visitarnos!", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "915331980", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4464350000", 
+    "longitude": "-3.7194253999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810741100181885.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Extensiones Pestañas", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Luce una mirada natural de cine con pestañas de seda que se colocan una a una. Resalta tu mirada con estas nuevas pestañas. Reserva ya tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Disfruta de una limpieza facial que incluye extracción e hidratación para un rostro lleno de vida. Luce un cutis bonito, suave y libre de impurezas. Reserva ya tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Extensiones Pestañas", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Luce una mirada natural de cine con pestañas de seda que se colocan una a una. Resalta tu mirada con estas nuevas pestañas. Reserva ya tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Disfruta de una limpieza facial que incluye extracción e hidratación para un rostro lleno de vida. Luce un cutis bonito, suave y libre de impurezas. Reserva ya tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Peeling Corporal Y Masaje Hidratante", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Es un tratamiento que elimina las células muertas de la piel, aportando frescura y limpieza a la piel. Además incluye un masaje hidratante para dejarte una piel suave y bonita. Reserva ya tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Luce una mirada bonita y llena de color. Resalta tus ojos con nuestro tratamiento. La mirada es la expresión del cuerpo que más dice sobre nosotros.¡Lúcela! Reserva ya tu cita online a través de Bucmi.com. La duración estimada son 75 minutos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Extensiones Pestañas", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Luce una mirada natural de cine con pestañas de seda que se colocan una a una. Resalta tu mirada con estas nuevas pestañas. Reserva ya tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Disfruta de una limpieza facial que incluye extracción e hidratación para un rostro lleno de vida. Luce un cutis bonito, suave y libre de impurezas. Reserva ya tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Peeling Corporal Y Masaje Hidratante", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Es un tratamiento que elimina las células muertas de la piel, aportando frescura y limpieza a la piel. Además incluye un masaje hidratante para dejarte una piel suave y bonita. Reserva ya tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Luce una mirada bonita y llena de color. Resalta tus ojos con nuestro tratamiento. La mirada es la expresión del cuerpo que más dice sobre nosotros.¡Lúcela! Reserva ya tu cita online a través de Bucmi.com. La duración estimada son 75 minutos."
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "adid": null, 
+    "name": "Nails Rus Centro de Estética", 
+    "name_of_contact": "Nails Rus Centro de Estética", 
+    "scrape_page": "https://www.bucmi.com/nailsrus", 
+    "business_website": "https://www.bucmi.com/nailsrus", 
+    "areas_covered": null, 
+    "description": "Tus manos hablan por ti por eso en Nails Rus nos preocupamos por ellas para que puedas marcar así la diferencia.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635596972983027027.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635596972984277112.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635597073242388082.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635597073333408070.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635597074343946544.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Comedias, 8", 
+    "city": "Valencia", 
+    "zipcode": "46003", 
+    "formatted_address": "C/ Comedias, 8, Valencia, 46003", 
+    "country": "es", 
+    "office_number": "963919431", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4740053000", 
+    "longitude": "-0.3741374999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635943265992762341.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Shellac", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Con este pack de manicura y pedicura podras lucir unas uñas perfectas durante mas tiempo. El servicio incluye el limar, retirada de cutícula para el cuidado de tu uña, tratamiento de durezas, masaje e hidratacion."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Shellac", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce unas uñas bonitas durante mucho más tiempo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Shellac", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Limamos las uñas, retiramos la cutícula y durezas y esmaltamos. No se agrieta y se mantiene perfecta durante mínimo tres semanas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Un tratamiento facial profundo que reduce de manera visible las impurezas y puntos negros del rostro. Gracias al tratamiento, activa la circulación de la piel, mejora la luminosidad de la piel y alisa el rostro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Antiedad", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Un tratamiento facial profundo que reduce de manera visible las impurezas y puntos negros del rostro. Gracias al tratamiento, activa la circulación de la piel, mejora la luminosidad de la piel y alisa el rostro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Shellac", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Con este pack de manicura y pedicura podras lucir unas uñas perfectas durante mas tiempo. El servicio incluye el limar, retirada de cutícula para el cuidado de tu uña, tratamiento de durezas, masaje e hidratacion."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Caballero", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Un servicio de manicura y pedicura para él. Incluye limado, cuidado de las cutículas, tratamiento de placa de la uñas, cuidado de los talones y todo ello con un masaje hidratante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Shellac", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce unas uñas bonitas durante mucho más tiempo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Shellac", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Limamos las uñas, retiramos la cutícula y durezas y esmaltamos. No se agrieta y se mantiene perfecta durante mínimo tres semanas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Puesta De Uñas", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Una manicura perfecta durante más tiempo. Un servicio de aplicación de uñas de gel que incluye el maquillaje del esmalte de tu elección."
+        }
+    ]
+}

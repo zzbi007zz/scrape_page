@@ -1,0 +1,595 @@
+{
+    "adid": null, 
+    "name": "Mandala Bcn", 
+    "name_of_contact": "Mandala Bcn", 
+    "scrape_page": "https://www.bucmi.com/mandalabcn", 
+    "business_website": "https://www.bucmi.com/mandalabcn", 
+    "areas_covered": null, 
+    "description": "Situado en Carrer de la Diputació 153 a cinco minutos de la parada de metro Urgell en Barcelona, en el Barrio de la Esquerra de l´Eixample, se encuentra Mandala BCN, un oasis de belleza y relajación. Nace en 2015 cuando Montse, una empresaria cosmopolita, decide crear un espacio de salud integral dirigido tanto a hombres como a mujeres, donde encontrar tratamientos de belleza integrales que van desde depilaciones (con cera o al caramelo), tratamientos faciales y corporales o manicuras y pedicuras con las más exclusivas marcas de belleza, entre otras Orly o CND Shellac. En la atmósfera relajante y original de Mandala, podrás además disfrutar de unos rituales con piedras calientes, envoltura de vinoterapia y limpieza de cutis termal.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041341342313.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041371967163.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041392123187.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041408529230.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041420872949.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041435560423.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041451653963.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041465872480.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041482591246.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283041494466197.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "50", 
+    "hqdb_review_score": "9,1", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bonavista, 25", 
+    "city": "Barcelona", 
+    "zipcode": "08011", 
+    "formatted_address": "C/ Bonavista, 25, Barcelona, 08011", 
+    "country": "es", 
+    "office_number": "932229044", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3837672000", 
+    "longitude": "2.1580578000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636283045554278422.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Kobido Lifting Facial Japonés 30M", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 30 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis Completa Y Masaje De Bienvenida", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "¡Déjate cuidar siempre en manos de nuestro exclusivo equipo de profesionales! Podrás disfrutar así de una limpieza facial completa termal que incluye un masaje de bienvenida, limpieza con exfoliación, peeling aromaterapia y, para finalizar, la mascarilla. Disfruta de una piel hidratada y limpia a la vez que te relajas gracias a nuestro ritual de masaje de Mandala BCN. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Tinte de pestañas. Para intensificar el color y que tu mirada gane profundidad y resulte más cautivadora. Además, conseguirás olvidarte de la máscara de pestañas durante un mes o más. ¡Se el centro de atención y luce una mirada de cine! Nuestro equipo de profesionales trabajan con productos de primera calidad, para resultados 10. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Anticelulitíco", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal, masaje ayurveda con aceite de oliva y albahaca que energiza, tonifica, reafirma y mejora la celulitis. ¡Elimina así esos focos localizados de grasa que tanto te acomplejan, siempre en manos de un cualificado equipo de profesionales! Desde la primera sesión notarás increíbles resultados. Ideal para cualquier temporada del año. ¡No lo dudes y reserva ya tu cita cómodamente online! Te encantará."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Corporal Envolturas Algas Marinas", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal de algas marinas que consiste en un intensivo tratamiento de thalasoterapia, anticelulítico y reductor. Di adiós a esa grasa localizada que tanto te molesta y acompleja. Además, de una forma muy natural. ¡Luce así una figura mucho más tonificada, siempre en manos de un cualificado equipo de profesionales! Utilizamos productos naturales de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Kobido Lifting Facial Japonés 30M", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 30 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Kobido Lifting Facial Japonés 45M", 
+            "duration": 2700, 
+            "price": "38 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 45 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Kobido Lifting Facial Japonés 60M", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 60 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Cutis Completa", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Prueba nuestra higiene facial completa con productos naturales para la extracción de poros y evitar las rojeces en la piel. Terminamos con un masaje facial relajante para reactivar tu circulación y aplicamos tónico refrescante. ¡Lucirás así un rostro y piel perfectos, siempre en manos de nuestro equipo de profesionales! Utilizamos productos de primera calidad, para un resultado 10. ¡Déjate cuidar y acude a nuestro exclusivo salón Mandala! ¿A qué estás esperando para reservar?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Completa Y Masaje De Bienvenida", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "¡Déjate cuidar siempre en manos de nuestro exclusivo equipo de profesionales! Podrás disfrutar así de una limpieza facial completa termal que incluye un masaje de bienvenida, limpieza con exfoliación, peeling aromaterapia y, para finalizar, la mascarilla. Disfruta de una piel hidratada y limpia a la vez que te relajas gracias a nuestro ritual de masaje de Mandala BCN. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Express", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Consiste en una limpieza de cutis orientada al mantenimiento de la piel ya cuidada, sin extracción de células muertas ni vapor. Tu piel quedará limpia e hidratada gracias a nuestros esteticistas de Mandala Bcn. ¡Lucir un rostro cuidado es esencial! Confía en nuestro equipo de profesionales que trabajan para conseguir el mejor resultado. Siempre con productos de primera calidad. ¡No lo pienses más y reserva ya tu cita cómodamente online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico Con Cañas De Bambu", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Realizamos masaje anticelulítico con productos frío y calor reafirmantes y drenantes con cañas de bambú. ¡Podrás así una figura mucho más esbelta y tonificada, siempre en manos de nuestro equipo de profesionales! Utilizamos la mejor técnico para que los resultados sean verdaderamente visibles desde la primera sesión. ¡60 minutos en los que también te relajarás! No lo dudes y ¡reserva ya tu cita cómodamente online! Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal Hombros Y Espalda +Curso Maquillaj", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje relajante sobre los hombros y espalda(30mins) que además incluye una limpieza de cutis express(30mins) Saldrás totalmente relajado en un entorno agradable. ¡Déjate mimar por los profesionales de nuestro exclusivo centro! ¡Saldrás como nuevo por fuera y por dentro! ¿A qué estás esperando?Reserva ya tu cita cómodamente online en Bucmi.com ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Manicura / Pedicura Y Limpieza De Cutis", 
+            "duration": 7200, 
+            "price": "71 € ", 
+            "description": "Disfruta de este fantástico paquete de belleza que combina una manicura o una pedicura con una completa limpieza de cutis. Además, podrás saborear una magnífica copa de cava. Podrás lucir una piel suave y sedosa, además de unas uñas cuidadas y con el tono que más te favorezca. ¿A qué estás esperando para realizar tu reserva? ¡Hazlo cómodamente online a través de Bucmi.com! En Mandala nos preocupamos por tu belleza y cuidado. D"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "44 € ", 
+            "description": "Peeling corporal con exfoliante e hidratación con productos biológicos y veganos de la marca SpaRitual. Productos de primera calidad. Aporta regeneración e hidratación a la piel para que esté suave y tersa. ¡Consigue a la suavidad y sedosidad que estabas buscando para tu piel, todo ello en manos de nuestro equipo de profesionales! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal + Hidratacion", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "realizamos peeling corporal con extractos naturales,eliminando celulas muertas,posteriormenrte aplicamos aceite corporal para hidratar y dejar la piel suave."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Vinoterapia + Hidratacion", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "peeling corporal vinoterapia+ hidratacion aceite de vino . Empezamos con un peeling de extractos de vino para terminar con la hidratacion"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Cejas", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Realza tus cejas, intensifica su color, logrando un mirada más profunda e intensa. Las cejas son un punto clave en la expresión y personalidad de cualquier rostro por lo que un buen cuidado y resultado es esencial. Un tinte de pestañas que iguala e intensifica el color, siempre en manos de nuestro cualificado equipo de profesionales. ¡Consigue la expresión que estabas deseando! Utilizamos productos de primera calidad. No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Tinte de pestañas. Para intensificar el color y que tu mirada gane profundidad y resulte más cautivadora. Además, conseguirás olvidarte de la máscara de pestañas durante un mes o más. ¡Se el centro de atención y luce una mirada de cine! Nuestro equipo de profesionales trabajan con productos de primera calidad, para resultados 10. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Anticelulitíco", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal, masaje ayurveda con aceite de oliva y albahaca que energiza, tonifica, reafirma y mejora la celulitis. ¡Elimina así esos focos localizados de grasa que tanto te acomplejan, siempre en manos de un cualificado equipo de profesionales! Desde la primera sesión notarás increíbles resultados. Ideal para cualquier temporada del año. ¡No lo dudes y reserva ya tu cita cómodamente online! Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Envolturas De Fango", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal consistente en envolturas de fango por el cuerpo, con propiedades beneficiosas para el mismo. Ideal para artrosis y dolores reumáticos. Sus propiedades te permitirán eliminar esas dolencias que tanto complican tu día a día. Utilizamos productos naturales. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! En nuestro centro Mandala nos preocupamos por tu salud y bienestar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitaminic Mask", 
+            "duration": 3600, 
+            "price": "44 € ", 
+            "description": "Tratamiento facial potente que consiste en aplicar sobre el rostro un concentrado multifuncional para pieles irritables,sensibles y desvitalizadas. Tu piel lucirá más joven y brillante, siempre con productos de primera calidad. ¡No lo dudes y luce un rostro envidiable en cualquier ocasión! Vuelve a dar el cuidado y la nutrición que necesita tu piel. ¡Reserva ya tu cita cómodamente online y te encantarán los resultados! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Envolturas Algas Marinas", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal de algas marinas que consiste en un intensivo tratamiento de thalasoterapia, anticelulítico y reductor. Di adiós a esa grasa localizada que tanto te molesta y acompleja. Además, de una forma muy natural. ¡Luce así una figura mucho más tonificada, siempre en manos de un cualificado equipo de profesionales! Utilizamos productos naturales de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Envolturas Sales Del Mar Muerto", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal completo que utiliza sales del mar muerto para conseguir sobre tu cuerpo una exfoliación natural que alisa, desintoxica y mejora la circulación. Vive una experiencia única en Mandala BCN, siempre con los mejores profesionales que utilizan productos de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Kobido Lifting Facial Japonés 30M", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 30 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Kobido Lifting Facial Japonés 45M", 
+            "duration": 2700, 
+            "price": "38 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 45 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Kobido Lifting Facial Japonés 60M", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 60 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Cutis Completa", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Prueba nuestra higiene facial completa con productos naturales para la extracción de poros y evitar las rojeces en la piel. Terminamos con un masaje facial relajante para reactivar tu circulación y aplicamos tónico refrescante. ¡Lucirás así un rostro y piel perfectos, siempre en manos de nuestro equipo de profesionales! Utilizamos productos de primera calidad, para un resultado 10. ¡Déjate cuidar y acude a nuestro exclusivo salón Mandala! ¿A qué estás esperando para reservar?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Completa Y Masaje De Bienvenida", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "¡Déjate cuidar siempre en manos de nuestro exclusivo equipo de profesionales! Podrás disfrutar así de una limpieza facial completa termal que incluye un masaje de bienvenida, limpieza con exfoliación, peeling aromaterapia y, para finalizar, la mascarilla. Disfruta de una piel hidratada y limpia a la vez que te relajas gracias a nuestro ritual de masaje de Mandala BCN. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Express", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Consiste en una limpieza de cutis orientada al mantenimiento de la piel ya cuidada, sin extracción de células muertas ni vapor. Tu piel quedará limpia e hidratada gracias a nuestros esteticistas de Mandala Bcn. ¡Lucir un rostro cuidado es esencial! Confía en nuestro equipo de profesionales que trabajan para conseguir el mejor resultado. Siempre con productos de primera calidad. ¡No lo pienses más y reserva ya tu cita cómodamente online!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje Anticelulítico Con Cañas De Bambu", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Realizamos masaje anticelulítico con productos frío y calor reafirmantes y drenantes con cañas de bambú. ¡Podrás así una figura mucho más esbelta y tonificada, siempre en manos de nuestro equipo de profesionales! Utilizamos la mejor técnico para que los resultados sean verdaderamente visibles desde la primera sesión. ¡60 minutos en los que también te relajarás! No lo dudes y ¡reserva ya tu cita cómodamente online! Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje Corporal Hombros Y Espalda +Curso Maquillaj", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje relajante sobre los hombros y espalda(30mins) que además incluye una limpieza de cutis express(30mins) Saldrás totalmente relajado en un entorno agradable. ¡Déjate mimar por los profesionales de nuestro exclusivo centro! ¡Saldrás como nuevo por fuera y por dentro! ¿A qué estás esperando?Reserva ya tu cita cómodamente online en Bucmi.com ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Manicura / Pedicura Y Limpieza De Cutis", 
+            "duration": 7200, 
+            "price": "71 € ", 
+            "description": "Disfruta de este fantástico paquete de belleza que combina una manicura o una pedicura con una completa limpieza de cutis. Además, podrás saborear una magnífica copa de cava. Podrás lucir una piel suave y sedosa, además de unas uñas cuidadas y con el tono que más te favorezca. ¿A qué estás esperando para realizar tu reserva? ¡Hazlo cómodamente online a través de Bucmi.com! En Mandala nos preocupamos por tu belleza y cuidado. D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "44 € ", 
+            "description": "Peeling corporal con exfoliante e hidratación con productos biológicos y veganos de la marca SpaRitual. Productos de primera calidad. Aporta regeneración e hidratación a la piel para que esté suave y tersa. ¡Consigue a la suavidad y sedosidad que estabas buscando para tu piel, todo ello en manos de nuestro equipo de profesionales! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal + Hidratacion", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "realizamos peeling corporal con extractos naturales,eliminando celulas muertas,posteriormenrte aplicamos aceite corporal para hidratar y dejar la piel suave."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Vinoterapia + Hidratacion", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "peeling corporal vinoterapia+ hidratacion aceite de vino . Empezamos con un peeling de extractos de vino para terminar con la hidratacion"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Cejas", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Realza tus cejas, intensifica su color, logrando un mirada más profunda e intensa. Las cejas son un punto clave en la expresión y personalidad de cualquier rostro por lo que un buen cuidado y resultado es esencial. Un tinte de pestañas que iguala e intensifica el color, siempre en manos de nuestro cualificado equipo de profesionales. ¡Consigue la expresión que estabas deseando! Utilizamos productos de primera calidad. No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Tinte de pestañas. Para intensificar el color y que tu mirada gane profundidad y resulte más cautivadora. Además, conseguirás olvidarte de la máscara de pestañas durante un mes o más. ¡Se el centro de atención y luce una mirada de cine! Nuestro equipo de profesionales trabajan con productos de primera calidad, para resultados 10. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Anticelulitíco", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal, masaje ayurveda con aceite de oliva y albahaca que energiza, tonifica, reafirma y mejora la celulitis. ¡Elimina así esos focos localizados de grasa que tanto te acomplejan, siempre en manos de un cualificado equipo de profesionales! Desde la primera sesión notarás increíbles resultados. Ideal para cualquier temporada del año. ¡No lo dudes y reserva ya tu cita cómodamente online! Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Reductor Envolturas De Fango", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal consistente en envolturas de fango por el cuerpo, con propiedades beneficiosas para el mismo. Ideal para artrosis y dolores reumáticos. Sus propiedades te permitirán eliminar esas dolencias que tanto complican tu día a día. Utilizamos productos naturales. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! En nuestro centro Mandala nos preocupamos por tu salud y bienestar."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Vitaminic Mask", 
+            "duration": 3600, 
+            "price": "44 € ", 
+            "description": "Tratamiento facial potente que consiste en aplicar sobre el rostro un concentrado multifuncional para pieles irritables,sensibles y desvitalizadas. Tu piel lucirá más joven y brillante, siempre con productos de primera calidad. ¡No lo dudes y luce un rostro envidiable en cualquier ocasión! Vuelve a dar el cuidado y la nutrición que necesita tu piel. ¡Reserva ya tu cita cómodamente online y te encantarán los resultados! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tto Corporal Envolturas Algas Marinas", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal de algas marinas que consiste en un intensivo tratamiento de thalasoterapia, anticelulítico y reductor. Di adiós a esa grasa localizada que tanto te molesta y acompleja. Además, de una forma muy natural. ¡Luce así una figura mucho más tonificada, siempre en manos de un cualificado equipo de profesionales! Utilizamos productos naturales de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tto Corporal Envolturas Sales Del Mar Muerto", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Tratamiento corporal completo que utiliza sales del mar muerto para conseguir sobre tu cuerpo una exfoliación natural que alisa, desintoxica y mejora la circulación. Vive una experiencia única en Mandala BCN, siempre con los mejores profesionales que utilizan productos de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Manicura Y Pedicura Shellac Cnd", 
+            "duration": 5400, 
+            "price": "59 € ", 
+            "description": "hazte tu manicura y pedicura semipermanente el mismo dia y beneficiate de un dto%"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Masaje Relajante Y Manicura Y Pedicura Comple", 
+            "duration": 7200, 
+            "price": "84 € ", 
+            "description": "El bono incluye un Masaje Mandala Ritual para aliviar tensiones y eliminar el estrés, y una manicura y pedicura completa (limado, tratamiento de cutículas, durezas y esmaltado) para que a parte de relajada, salgas guapa. ¡Un completo pack dedicado a tu cuidado, belleza y bienestar! Ven a nuestro exclusivo salón y ¡volverás a repetir! No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? ¡No dejes que te lo cuenten!D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Bio Larga Duración", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Manicura completa Bio de larga duración, color a prueba de huella. Incluye masaje de manos. Disfruta ya de esta manicura que incluye el limado de la uña, la retirada de cutículas, la hidratación de la piel, y esmaltado de la uña. Podrás escoger el color que más te guste, siempre acorde con tu estilo y personalidad. Productos de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! LOS VIERNES MANICURAS/PEDICURAS COPA DE CAVA"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Con Exfoliación", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir unas manos bonitas y cuidadas? Disfruta ya de esta manicura donde retiramos pieles y cutículas, exfoliamos, y realizamos masaje antes de esmaltar. Escoge el tono que más te guste, el que más vaya con tu estilo y personalidad. Todo ello dentro de nuestra amplia gama de colores. ¡No lo dudes, ponte en las mejores manos y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! VIERNES COPA DE CAVA"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Con Saunita", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "Gracias a la parafina conseguirás fijar el esmaltado de tus uñas a la vez que consigues una piel suave y perfectamente hidratada. Consiste en hundir tus manos en cera tibia. ¡Porque unas manos cuidadas dirán mucho de tí! No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com. Vivirás una experiencia única. ¿A qué estás esperando? ¡No dejes que te lo cuenten! VIERNES COPA DE CAVA"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Essie Gel Couture", 
+            "duration": 3600, 
+            "price": "16 € ", 
+            "description": "Descubre Gel Couture, la nueva manicura de acabado gel de la marca Essie y consigue un esmaltado brillante y de larga duración en dos sencillos pasos. Gracias al exclusivo diseño de su pincel y la tecnología de su fórmula mantendrás tu manicura perfecta hasta 12 días. Una manicura de alta costura de fácil retirado y que no requiere lámpara de secado. Reserva tu cita cómodamente online a través de Bucmi.com. VIERNES COPA DE CAVA"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Mujer", 
+            "duration": 2700, 
+            "price": "16 € ", 
+            "description": "El servicio consiste en una manicura completa en la que maquilaremos tus uñas en el color que elijas dentro de todos nuestros colores. Conseguirás el tono más acorde a tí, a tu estilo y personalidad. Además, daremos forma a tus uñas y quitaremos tus cutículas para que luzcan sanas. Utilizamos productos de primera calidad. Reserva online en Bucmi.com. ¡Lucirás así unas manos ideales para cualquier ocasión! ¿Te lo vas a perder?VIERNES COPA DE CAVA"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Shellac Spa", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Manicura completa Spa. a parte de nuestra manicura completa retirando pieles y empujar cuticulas,añadimos exfoliacion mas mascarilla de arcilla. VIERNES COPA DE CAVA"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Spa", 
+            "duration": 5400, 
+            "price": "24 € ", 
+            "description": "Manicura completa que incluye la retirada pieles y cutículas con productos veganos y biológicos. Se realiza el limado de uñas con hidratación tanto de la piel como de las uñas y posteriormente se realiza exfoliación y mascarilla de arcilla,para luego acabar esmaltado las uñas en el color que prefieras. También puedes elegir la manicura francesa. ¡No lo dudes y reserva ya tu cita cómodamente online en nuestro exclusivo salón de belleza! ¿Te lo vas a perder? VIERNES COPA DE CAVA"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Kobido Lifting Facial Japonés 30M", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 30 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Kobido Lifting Facial Japonés 45M", 
+            "duration": 2700, 
+            "price": "38 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 45 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Kobido Lifting Facial Japonés 60M", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 60 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza Cutis Completa", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Prueba nuestra higiene facial completa con productos naturales para la extracción de poros y evitar las rojeces en la piel. Terminamos con un masaje facial relajante para reactivar tu circulación y aplicamos tónico refrescante. ¡Lucirás así un rostro y piel perfectos, siempre en manos de nuestro equipo de profesionales! Utilizamos productos de primera calidad, para un resultado 10. ¡Déjate cuidar y acude a nuestro exclusivo salón Mandala! ¿A qué estás esperando para reservar?"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza De Cutis Completa Y Masaje De Bienvenida", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "¡Déjate cuidar siempre en manos de nuestro exclusivo equipo de profesionales! Podrás disfrutar así de una limpieza facial completa termal que incluye un masaje de bienvenida, limpieza con exfoliación, peeling aromaterapia y, para finalizar, la mascarilla. Disfruta de una piel hidratada y limpia a la vez que te relajas gracias a nuestro ritual de masaje de Mandala BCN. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza De Cutis Express", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Consiste en una limpieza de cutis orientada al mantenimiento de la piel ya cuidada, sin extracción de células muertas ni vapor. Tu piel quedará limpia e hidratada gracias a nuestros esteticistas de Mandala Bcn. ¡Lucir un rostro cuidado es esencial! Confía en nuestro equipo de profesionales que trabajan para conseguir el mejor resultado. Siempre con productos de primera calidad. ¡No lo pienses más y reserva ya tu cita cómodamente online!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico Con Cañas De Bambu", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Realizamos masaje anticelulítico con productos frío y calor reafirmantes y drenantes con cañas de bambú. ¡Podrás así una figura mucho más esbelta y tonificada, siempre en manos de nuestro equipo de profesionales! Utilizamos la mejor técnico para que los resultados sean verdaderamente visibles desde la primera sesión. ¡60 minutos en los que también te relajarás! No lo dudes y ¡reserva ya tu cita cómodamente online! Te encantará."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Corporal Hombros Y Espalda +Curso Maquillaj", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje relajante sobre los hombros y espalda(30mins) que además incluye una limpieza de cutis express(30mins) Saldrás totalmente relajado en un entorno agradable. ¡Déjate mimar por los profesionales de nuestro exclusivo centro! ¡Saldrás como nuevo por fuera y por dentro! ¿A qué estás esperando?Reserva ya tu cita cómodamente online en Bucmi.com ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Manicura / Pedicura Y Limpieza De Cutis", 
+            "duration": 7200, 
+            "price": "71 € ", 
+            "description": "Disfruta de este fantástico paquete de belleza que combina una manicura o una pedicura con una completa limpieza de cutis. Además, podrás saborear una magnífica copa de cava. Podrás lucir una piel suave y sedosa, además de unas uñas cuidadas y con el tono que más te favorezca. ¿A qué estás esperando para realizar tu reserva? ¡Hazlo cómodamente online a través de Bucmi.com! En Mandala nos preocupamos por tu belleza y cuidado. D"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "44 € ", 
+            "description": "Peeling corporal con exfoliante e hidratación con productos biológicos y veganos de la marca SpaRitual. Productos de primera calidad. Aporta regeneración e hidratación a la piel para que esté suave y tersa. ¡Consigue a la suavidad y sedosidad que estabas buscando para tu piel, todo ello en manos de nuestro equipo de profesionales! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal + Hidratacion", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "realizamos peeling corporal con extractos naturales,eliminando celulas muertas,posteriormenrte aplicamos aceite corporal para hidratar y dejar la piel suave."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal Vinoterapia + Hidratacion", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "peeling corporal vinoterapia+ hidratacion aceite de vino . Empezamos con un peeling de extractos de vino para terminar con la hidratacion"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte Cejas", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Realza tus cejas, intensifica su color, logrando un mirada más profunda e intensa. Las cejas son un punto clave en la expresión y personalidad de cualquier rostro por lo que un buen cuidado y resultado es esencial. Un tinte de pestañas que iguala e intensifica el color, siempre en manos de nuestro cualificado equipo de profesionales. ¡Consigue la expresión que estabas deseando! Utilizamos productos de primera calidad. No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Tinte de pestañas. Para intensificar el color y que tu mirada gane profundidad y resulte más cautivadora. Además, conseguirás olvidarte de la máscara de pestañas durante un mes o más. ¡Se el centro de atención y luce una mirada de cine! Nuestro equipo de profesionales trabajan con productos de primera calidad, para resultados 10. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Kobido Lifting Facial Japonés 30M", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 30 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Kobido Lifting Facial Japonés 45M", 
+            "duration": 2700, 
+            "price": "38 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 45 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Kobido Lifting Facial Japonés 60M", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Consta de un lifting facial natural, con productos biológicos realizados por una masajista. Los efectos son espectaculares y notables desde la primera sesión. Conseguirás así un rostro mucho más joven, tersa, luminosa y libre de pequeñas arrugas. ¡La edad es sólo un número y en nuestro centro exclusivo lo sabemos! Utilizamos productos de primera calidad. ¡Además disfrutarás de 60 minutos de auténtica relajación! Reserva ya tu cita cómodamente online. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Cutis Completa", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Prueba nuestra higiene facial completa con productos naturales para la extracción de poros y evitar las rojeces en la piel. Terminamos con un masaje facial relajante para reactivar tu circulación y aplicamos tónico refrescante. ¡Lucirás así un rostro y piel perfectos, siempre en manos de nuestro equipo de profesionales! Utilizamos productos de primera calidad, para un resultado 10. ¡Déjate cuidar y acude a nuestro exclusivo salón Mandala! ¿A qué estás esperando para reservar?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis Completa Y Masaje De Bienvenida", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "¡Déjate cuidar siempre en manos de nuestro exclusivo equipo de profesionales! Podrás disfrutar así de una limpieza facial completa termal que incluye un masaje de bienvenida, limpieza con exfoliación, peeling aromaterapia y, para finalizar, la mascarilla. Disfruta de una piel hidratada y limpia a la vez que te relajas gracias a nuestro ritual de masaje de Mandala BCN. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis Express", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Consiste en una limpieza de cutis orientada al mantenimiento de la piel ya cuidada, sin extracción de células muertas ni vapor. Tu piel quedará limpia e hidratada gracias a nuestros esteticistas de Mandala Bcn. ¡Lucir un rostro cuidado es esencial! Confía en nuestro equipo de profesionales que trabajan para conseguir el mejor resultado. Siempre con productos de primera calidad. ¡No lo pienses más y reserva ya tu cita cómodamente online!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Anticelulítico Con Cañas De Bambu", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Realizamos masaje anticelulítico con productos frío y calor reafirmantes y drenantes con cañas de bambú. ¡Podrás así una figura mucho más esbelta y tonificada, siempre en manos de nuestro equipo de profesionales! Utilizamos la mejor técnico para que los resultados sean verdaderamente visibles desde la primera sesión. ¡60 minutos en los que también te relajarás! No lo dudes y ¡reserva ya tu cita cómodamente online! Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Corporal Hombros Y Espalda +Curso Maquillaj", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje relajante sobre los hombros y espalda(30mins) que además incluye una limpieza de cutis express(30mins) Saldrás totalmente relajado en un entorno agradable. ¡Déjate mimar por los profesionales de nuestro exclusivo centro! ¡Saldrás como nuevo por fuera y por dentro! ¿A qué estás esperando?Reserva ya tu cita cómodamente online en Bucmi.com ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Manicura / Pedicura Y Limpieza De Cutis", 
+            "duration": 7200, 
+            "price": "71 € ", 
+            "description": "Disfruta de este fantástico paquete de belleza que combina una manicura o una pedicura con una completa limpieza de cutis. Además, podrás saborear una magnífica copa de cava. Podrás lucir una piel suave y sedosa, además de unas uñas cuidadas y con el tono que más te favorezca. ¿A qué estás esperando para realizar tu reserva? ¡Hazlo cómodamente online a través de Bucmi.com! En Mandala nos preocupamos por tu belleza y cuidado. D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "44 € ", 
+            "description": "Peeling corporal con exfoliante e hidratación con productos biológicos y veganos de la marca SpaRitual. Productos de primera calidad. Aporta regeneración e hidratación a la piel para que esté suave y tersa. ¡Consigue a la suavidad y sedosidad que estabas buscando para tu piel, todo ello en manos de nuestro equipo de profesionales! No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal + Hidratacion", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "realizamos peeling corporal con extractos naturales,eliminando celulas muertas,posteriormenrte aplicamos aceite corporal para hidratar y dejar la piel suave."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Vinoterapia + Hidratacion", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "peeling corporal vinoterapia+ hidratacion aceite de vino . Empezamos con un peeling de extractos de vino para terminar con la hidratacion"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "adid": null, 
+    "name": "Skin", 
+    "name_of_contact": "Skin", 
+    "scrape_page": "https://www.bucmi.com/skin", 
+    "business_website": "https://www.bucmi.com/skin", 
+    "areas_covered": null, 
+    "description": "Desde que este proyecto arrancara allá por 1990,el Centro de Belleza y Estética Skin ha sido siempre una referencia para aquellos clientes que buscan profesionalidad e innovación sin dejar de tener por ello, toda la confianza y cercanía de nuestro equipo.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635525186676016351.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635525186702112210.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635525186758054107.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Vallmajor, 38", 
+    "city": "Barcelona", 
+    "zipcode": "08021", 
+    "formatted_address": "C/ Vallmajor, 38, Barcelona, 08021", 
+    "country": "es", 
+    "office_number": "932023816", 
+    "office_number2": null, 
+    "mobile_number": "618523012", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4007572000", 
+    "longitude": "2.1387580000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635967721434972182.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Masaje relajante o descontracturante, según las necesidades del cliente. El masaje es sinónimo de relajación. Una hora para permitir a nuestro cuerpo reconstituirse, para aliviar el dolor y la sobrecarga."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "37,5 € ", 
+            "description": "Disfruta de este magnífico pack, pensado especialmente para el cuidado y mimo de tus manos y pies. Y disfruta de unas uñas estupendas para cualquier momento. Incluye: manicura y pedicura básica, con esmaltado normal de color."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Las manos y los pies son parte esencial de nuestra calidad de vida, además su imagen imagen y cuidado es fundamental. El servicio de manicura incluye limado, retirada de cutículas, hidratación y esmaltado a elegir. Incluye esmaltado manicura francesa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "En la presoterapia se destacan el tratamiento de edemas, la corrección de alteraciones en el sistema circulatorio y la posibilidad de eliminar la celulitis, reducirla y prevenir futuras formaciones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Indiba", 
+            "duration": 3600, 
+            "price": "51,5 € ", 
+            "description": "Confía en la última tecnología en tratamientos rejuvenecedores. La radiofrecuencia facial INDIBA es lo último en tratamientos regeneradores. Notarás los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Reafirmante", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Consigue dos tratamientos e uno. Elimina la flacidez, elimina las grasas más difíciles y reduce la celulitis. Este proceso es progresivo y se tiene que acompañar con una dieta sana y con ejercicio. Para más información, consulte con el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "En la presoterapia se destacan el tratamiento de edemas, la corrección de alteraciones en el sistema circulatorio y la posibilidad de eliminar la celulitis, reducirla y prevenir futuras formaciones."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Indiba", 
+            "duration": 3600, 
+            "price": "51,5 € ", 
+            "description": "Confía en la última tecnología en tratamientos rejuvenecedores. La radiofrecuencia facial INDIBA es lo último en tratamientos regeneradores. Notarás los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Reductor Reafirmante", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Consigue dos tratamientos e uno. Elimina la flacidez, elimina las grasas más difíciles y reduce la celulitis. Este proceso es progresivo y se tiene que acompañar con una dieta sana y con ejercicio. Para más información, consulte con el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Semipermanente", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce unas uñas perfectas y unas manos bonitas durante varias semanas con esta manicura completa y esmaltado semipermanente. Incluye limado, retirada de cutículas, hidratación y esmaltado de color semipermanente a elegir."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "37,5 € ", 
+            "description": "Disfruta de este magnífico pack, pensado especialmente para el cuidado y mimo de tus manos y pies. Y disfruta de unas uñas estupendas para cualquier momento. Incluye: manicura y pedicura básica, con esmaltado normal de color."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "En la presoterapia se destacan el tratamiento de edemas, la corrección de alteraciones en el sistema circulatorio y la posibilidad de eliminar la celulitis, reducirla y prevenir futuras formaciones."
+        }
+    ]
+}

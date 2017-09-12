@@ -1,0 +1,156 @@
+{
+    "adid": null, 
+    "name": "Cmes", 
+    "name_of_contact": "Cmes", 
+    "scrape_page": "https://www.bucmi.com/cmes", 
+    "business_website": "https://www.bucmi.com/cmes", 
+    "areas_covered": null, 
+    "description": "Clínica estética Cmes en la zona de Ibiza en Madrid. Cuenta con servicios de medicina estética, fotodepilación y tratamientos estéticos corporales y faciales. Cuenta con los mejores profesionales del sector.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635647201294695639.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635647201360794289.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635647201557059873.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635647201608356827.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635647201699145059.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Humanitarias, 23", 
+    "city": "Madrid", 
+    "zipcode": "28009", 
+    "formatted_address": "C/ Humanitarias, 23, Madrid, 28009", 
+    "country": "es", 
+    "office_number": "915741003", 
+    "office_number2": null, 
+    "mobile_number": "602099631", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4159855000", 
+    "longitude": "-3.6777319000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635974629563833858.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Servicio que para aumentar el flujo venoso y linfático y eliminar la grasa localizada,"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Oxigenante De Natura Bissé", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Se consigue desde una simple exfoliación hasta una renovación cutánea global, con atenuación y desaparición de defectos cutáneos, y recuperación de textura mejores. Obtendrás como resultado del tratamiento desintoxicante una mejora del tono cutáneo. Restaurarás desintoxicarás e hidratarás la piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Masaje relajanterealizado con cremas de Aloe de Vera para aliviar los dolores musculares y situaciones de estrés."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fotodepilación Axilas", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Elimina el vello en las axilas realizadas con el IPL MÉDICO que se elimina utilizando un rayo luminoso, con una luz intensa pulsada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Reductor Corporal Velashape+Preso", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Elimina la grasa localizada, celulitis y reafirma tu cuerpo con este novedoso método. Con este servicio de Velashape remodela y trata la grasa corporal eliminando la celulitis y reduciendo la circunferencia en tan solo 4 sesiones de tratamiento. Obtendrás unos resultados en poco tiempo. Si aún no lo has probado...¡Este es tu momento!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Servicio que para aumentar el flujo venoso y linfático y eliminar la grasa localizada,"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Oxigenante De Natura Bissé", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Se consigue desde una simple exfoliación hasta una renovación cutánea global, con atenuación y desaparición de defectos cutáneos, y recuperación de textura mejores. Obtendrás como resultado del tratamiento desintoxicante una mejora del tono cutáneo. Restaurarás desintoxicarás e hidratarás la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Aumento De Labio Con Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "240 € ", 
+            "description": "Luce unos labios más gruesos de forma natural con ácido hialurónico. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Botox Facial Tratamiento Toxina Botilímica", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Tratamiento que rellena la arrugas profundas del rostro. Luce una piel más joven. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Corporal", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Técnica de masaje que elimina las toxinas a través del sistema linfático. También son ideales para mejorar la circulación, las piernas cansadas e hinchadas y también se utiliza para adelgazar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Corporal Velashape+Preso", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Elimina la grasa localizada, celulitis y reafirma tu cuerpo con este novedoso método. Con este servicio de Velashape remodela y trata la grasa corporal eliminando la celulitis y reduciendo la circunferencia en tan solo 4 sesiones de tratamiento. Obtendrás unos resultados en poco tiempo. Si aún no lo has probado...¡Este es tu momento!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Servicio que para aumentar el flujo venoso y linfático y eliminar la grasa localizada,"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Servicio que para aumentar el flujo venoso y linfático y eliminar la grasa localizada,"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Oxigenante De Natura Bissé", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Se consigue desde una simple exfoliación hasta una renovación cutánea global, con atenuación y desaparición de defectos cutáneos, y recuperación de textura mejores. Obtendrás como resultado del tratamiento desintoxicante una mejora del tono cutáneo. Restaurarás desintoxicarás e hidratarás la piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Aumento De Labio Con Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "240 € ", 
+            "description": "Luce unos labios más gruesos de forma natural con ácido hialurónico. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Botox Facial Tratamiento Toxina Botilímica", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Tratamiento que rellena la arrugas profundas del rostro. Luce una piel más joven. Para más información, consulta con el centro."
+        }
+    ]
+}

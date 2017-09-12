@@ -1,0 +1,120 @@
+{
+    "adid": null, 
+    "name": "Institut Sole Navarro", 
+    "name_of_contact": "Institut Sole Navarro", 
+    "scrape_page": "https://www.bucmi.com/solenavarro", 
+    "business_website": "https://www.bucmi.com/solenavarro", 
+    "areas_covered": null, 
+    "description": "Centro de fisioterapia y masaje en la zona de Poblenou, cuenta con servicios que harán sentirte bien tanto por dentro como por fuera. Saldrás como nuevo.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635670284237411017.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635670284266163092.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635811031455675386.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635811074032562999.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Industria, 189", 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "C/ Industria, 189, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "932214906", 
+    "office_number2": null, 
+    "mobile_number": "609774413", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4005320000", 
+    "longitude": "2.2052286000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963284009181815.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Lifting Facial Japonés", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Consiste en tonificar la piel facial, el tejido profundo y tratar los músculos tensándolos. Trabajamos también la fascia del rostro e incorporamos un drenaje facial para desintoxicar la zona."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflexología Facial", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Disfruta de los beneficios que aporta la reflexología facial y consigue placer y bienestar a través de tu cara. La reflexología es una terapia que se basa en la presión sobre las zonas reflejas del cuerpo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflexología Podal", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "¡Pon tus pies en buenas manos! Disfruta de los beneficios que aporta la reflexología podal y consigue placer y bienestar a través de tus pies. La reflexología es una terapia que se basa en la presión sobre las zonas reflejas del cuerpo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Quiromasaje Espalda", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "El masaje ayuda a soltar tensión muscular de la zona de la espalda y a mejorar el sistema circulatorio sanguíneo y linfático optimizando el funcionamiento de los órganos. Sin olvidar, el efecto equilibrante que tiene el contacto terapéutico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Facial Japonés", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Consiste en tonificar la piel facial, el tejido profundo y tratar los músculos tensándolos. Trabajamos también la fascia del rostro e incorporamos un drenaje facial para desintoxicar la zona."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Lifting Facial Japonés", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Consiste en tonificar la piel facial, el tejido profundo y tratar los músculos tensándolos. Trabajamos también la fascia del rostro e incorporamos un drenaje facial para desintoxicar la zona."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante - 5 Sesiones", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Este servicio de masaje te permitirá disfrutar de 5 sesiones por el precio de 4, ¡te llevarás una de regalo! Si tu ritmo de vida te impide relajarte y necesitas desconectar por tu trabajo o por otras cuestiones que te impiden descansar, este servicio es para ti. Nuestros profesionales se pondrán a tu disposición para lograr tu completa relajación gracias al masaje realizado con aceites de aromaterapia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexología Facial", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Disfruta de los beneficios que aporta la reflexología facial y consigue placer y bienestar a través de tu cara. La reflexología es una terapia que se basa en la presión sobre las zonas reflejas del cuerpo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexología Podal", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "¡Pon tus pies en buenas manos! Disfruta de los beneficios que aporta la reflexología podal y consigue placer y bienestar a través de tus pies. La reflexología es una terapia que se basa en la presión sobre las zonas reflejas del cuerpo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Quiromasaje Piernas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "El masaje ayuda a soltar tensión muscular de la zona de las piernas y a mejorar el sistema circulatorio sanguíneo y linfático optimizando el funcionamiento de los órganos. Sin olvidar, el efecto equilibrante que tiene el contacto terapéutico."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si las preocupaciones del día a día te impiden descansar, date un capricho y ponte en buenas manos. Con nuestro masaje relajante podrás desconectar durante una hora y despedirte del estrés. No lo pienses más y ven a conocernos. El servicio se realiza con aceites de aromaterapia que favorecen la relajación."
+        }
+    ]
+}

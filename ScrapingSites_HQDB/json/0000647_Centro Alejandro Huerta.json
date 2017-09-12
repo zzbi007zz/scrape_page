@@ -1,0 +1,122 @@
+{
+    "adid": null, 
+    "name": "Centro Alejandro Huerta", 
+    "name_of_contact": "Centro Alejandro Huerta", 
+    "scrape_page": "https://www.bucmi.com/centroalejandrohuertas", 
+    "business_website": "https://www.bucmi.com/centroalejandrohuertas", 
+    "areas_covered": null, 
+    "description": "Alejandro Huerta es un centro de fisioterapia y rehabilitación ubicado en la zona de Ríos Rosas, en la ciudad de Madrid. Disponemos de los mejores profesionales del sector para ofrecerte los mejores resultados. ¡Estamos para ayudarte a mejorar tu vida!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636016743562924276.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636016743732554100.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636016744027838659.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636016744333369345.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636016744592826331.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017027632246268.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Maudes, 51", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Maudes, 51, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "910118585", 
+    "office_number2": null, 
+    "mobile_number": "618631250", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4448943000", 
+    "longitude": "-3.6955072000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636016771984221237.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Sesiones De Magnetoterapia", 
+            "duration": 1800, 
+            "price": "225 € ", 
+            "description": "Este servicio consiste en un bono de 10 sesiones de magnetoterapia de 30 minutos de duración cada una. Es ideal para el tratamiento de dolencias óseas como: fracturas, fisuras osteoporosis, artrosis, artritis.. ¡No lo dudes más y reserva!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Sesiones De Rehabilitación", 
+            "duration": 1800, 
+            "price": "190 € ", 
+            "description": "¡Reserva nuestro bono de 10 sesiones de rehabilitación! Durante la sesión realizamos: movilización, aparatología y ejercicios realizados en un gimnasio. Está indicado para personas que necesiten una rehabilitación pre y postoperatoria, o personas que tengan dolencias en cualquier parte del cuerpo y necesiten un tratamiento diario."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fisioterapia Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Este servicio consiste en una sesión de 50 minutos de fisioterapia y osteopatía que te ayudará a solucionar los problemas como: contracturas, tendinopatías, esguinces, protusiones, hernias discales... ¡Saldrás como nuevo!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones De Rehabilitación", 
+            "duration": 1800, 
+            "price": "190 € ", 
+            "description": "¡Reserva nuestro bono de 10 sesiones de rehabilitación! Durante la sesión realizamos: movilización, aparatología y ejercicios realizados en un gimnasio. Está indicado para personas que necesiten una rehabilitación pre y postoperatoria, o personas que tengan dolencias en cualquier parte del cuerpo y necesiten un tratamiento diario."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 20 Sesiones De Rehabilitación", 
+            "duration": 1800, 
+            "price": "320 € ", 
+            "description": "¡Reserva nuestro bono de 20 sesiones de rehabilitación! Este servicio consiste en: movilización, aparatología y ejercicios realizados en un gimnasio. Está indicado para personas que necesitan una rehabilitación pre y post operatoria, o para personas que tengan dolencias en cualquier parte del cuerpo y que necesiten un tratamiento diario."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Este servicio consiste en una sesión de 50 minutos de fisioterapia y osteopatía que te ayudará a solucionar los problemas como: contracturas, tendinopatías, esguinces, protusiones, hernias discales... ¡Saldrás como nuevo!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia Respiratoria", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Este servicio consiste en 50 minutos de fisioterapia respiratoria manual, mediante movilizaciones y trabajo de la caja torácica. Además, se realizan ejercicios para aumentar la capacidad respiratoria del paciente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Otros Masajes: Cólicos Del Lactante", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Alivia las dolencias de tu bebé reservando este servicio. Durante la sesión nuestros profesionales ayudarán a eliminar los cólicos del lactante mediante una técnica manual, empleando tanto osteopatía como fisioterapia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Rehabilitación", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Si padeces alguna molestia o lesión en tu cuerpo, no lo dudes más y reserva nuestra sesión de rehabilitación que tiene una duración de media hora. Te encantará la profesionalidad de nuestro fisioterapeutas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 10 Sesiones De Rehabilitación", 
+            "duration": 1800, 
+            "price": "190 € ", 
+            "description": "¡Reserva nuestro bono de 10 sesiones de rehabilitación! Durante la sesión realizamos: movilización, aparatología y ejercicios realizados en un gimnasio. Está indicado para personas que necesiten una rehabilitación pre y postoperatoria, o personas que tengan dolencias en cualquier parte del cuerpo y necesiten un tratamiento diario."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 20 Sesiones De Rehabilitación", 
+            "duration": 1800, 
+            "price": "320 € ", 
+            "description": "¡Reserva nuestro bono de 20 sesiones de rehabilitación! Este servicio consiste en: movilización, aparatología y ejercicios realizados en un gimnasio. Está indicado para personas que necesitan una rehabilitación pre y post operatoria, o para personas que tengan dolencias en cualquier parte del cuerpo y que necesiten un tratamiento diario."
+        }
+    ]
+}

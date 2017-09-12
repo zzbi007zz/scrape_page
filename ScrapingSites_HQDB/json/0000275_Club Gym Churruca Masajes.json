@@ -1,0 +1,133 @@
+{
+    "adid": null, 
+    "name": "Club Gym Churruca Masajes", 
+    "name_of_contact": "Club Gym Churruca Masajes", 
+    "scrape_page": "https://www.bucmi.com/churrucamasajes", 
+    "business_website": "https://www.bucmi.com/churrucamasajes", 
+    "areas_covered": null, 
+    "description": "Centro de estética Club Gym Churruca está situado en el barrio de Justicia, Madrid. Te ayudamos para que cuides tu cuerpo y tu mente. Tenemos consulta de homeopatía, naturopatía, osteopatía, crecimiento personal, masaje y todo tipo de terapias manuales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636015856986235281.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636015857011566666.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636015857034233031.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "7", 
+    "hqdb_review_score": "9,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arenal, 8", 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "C/ Arenal, 8, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "917265655", 
+    "office_number2": null, 
+    "mobile_number": "620459427", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4276260000", 
+    "longitude": "-3.7008992999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636015862621692917.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante Con Aceites Esenciales", 
+            "duration": 3600, 
+            "price": "57 € ", 
+            "description": "Masaje Corporal suave realizado con aceites esenciales para llevar al cuerpo y a la mente a una completa relajación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Abdomen Y Piernas", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "El Drenaje Linfático Manual mejora la calidad de tu circulación y aspectos de las zonas tratadas. Sistema Vodder. Incluye Drenaje de Cuello. Duración real del servicio: 75 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Abdomen", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Sistema Vodder. Mejora la calidad de tu circulación y ayuda en la eliminación de deshechos. Incluye DLM de cuello."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático M. Piernas", 
+            "duration": 3600, 
+            "price": "57 € ", 
+            "description": "El Drenaje Linfático Manual mejora la circulación y el aspecto de tus piernas. Sistema Vodder. El DLM de piernas incluye DLM de cuello y dos puntos de abdomen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Circulatorio De Piernas", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Mejora la circulación de retorno y el aspecto de tus piernas. Con aceites esenciales activadores."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico De Piernas", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Masaje fuerte que activa la circulación en aquellas zonas en las que la sangre no consigue llegar y limpiar. Aconsejable combinar con Drenaje Linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulitico De Piernas Y Abdomen", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Masaje fuerte que activa la circulación en aquellas zonas en las que la sangre no consigue llegar y limpiar. Aconsejable combinar con Drenaje Linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Abdomen Y Piernas", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "El Drenaje Linfático Manual mejora la calidad de tu circulación y aspectos de las zonas tratadas. Sistema Vodder. Incluye Drenaje de Cuello. Duración real del servicio: 75 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático Abdomen", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Sistema Vodder. Mejora la calidad de tu circulación y ayuda en la eliminación de deshechos. Incluye DLM de cuello."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático M. Piernas", 
+            "duration": 3600, 
+            "price": "57 € ", 
+            "description": "El Drenaje Linfático Manual mejora la circulación y el aspecto de tus piernas. Sistema Vodder. El DLM de piernas incluye DLM de cuello y dos puntos de abdomen."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Circulatorio De Piernas", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Mejora la circulación de retorno y el aspecto de tus piernas. Con aceites esenciales activadores."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico De Piernas", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Masaje fuerte que activa la circulación en aquellas zonas en las que la sangre no consigue llegar y limpiar. Aconsejable combinar con Drenaje Linfático."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Drenaje Abdomen Y Piernas", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "El Drenaje Linfático Manual mejora la calidad de tu circulación y aspectos de las zonas tratadas. Sistema Vodder. Incluye Drenaje de Cuello. Duración real del servicio: 75 minutos."
+        }
+    ]
+}

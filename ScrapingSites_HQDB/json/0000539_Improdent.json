@@ -1,0 +1,226 @@
+{
+    "adid": null, 
+    "name": "Improdent", 
+    "name_of_contact": "Improdent", 
+    "scrape_page": "https://www.bucmi.com/improdent", 
+    "business_website": "https://www.bucmi.com/improdent", 
+    "areas_covered": null, 
+    "description": "Clínica dental en el barrio de Argüelles especializada en tratamientos de salud bucodental. Nuestros profesionales acuden con periodicidad a numerosos cursos de formación con un único objetivo: cuidar de tu sonrisa.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941578922016215.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941578946235148.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941578991115168.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941579020177909.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941579049871763.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "5,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ferraz, 67", 
+    "city": "Madrid", 
+    "zipcode": "28008", 
+    "formatted_address": "C/ Ferraz, 67, Madrid, 28008", 
+    "country": "es", 
+    "office_number": "915433434", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4314573000", 
+    "longitude": "-3.7226126000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635942374725771058.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Dental: Revisión Bucal Niños Hasta 16 Años.", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Revisión con el ortodoncista, valoración con Radiografía, limpieza, pulido y fluor. En caso de necesitar selladores habrá un suplemento de 15€ cada uno. ¿Quieres que tu pequeño tenga una boca sana, cuidada y bonita? Ven a tu Clínica Dental Improdent y disfrutará de una sonrisa impecable gracias a nuestro tratamiento. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Férula De Descarga Blanda", 
+            "duration": 900, 
+            "price": "250 € ", 
+            "description": "Protege tu sonrisa del bruxismo, con una férula blanda, ideal para personas que empiezan o tienen bruxismo leve. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Férula De Descarga Michigan", 
+            "duration": 1800, 
+            "price": "380 € ", 
+            "description": "Este servicio incluye 3 revisiones para tomar medidas, prueba y revisión. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Ortodoncia Fija", 
+            "duration": 3600, 
+            "price": "1300 € ", 
+            "description": "Corrige los dientes que no están en su sitio gracias a nuestro tratamiento de ortodoncia fija. Incluye: valoración, estudio, radiografía panorámica, colocación de brackets, descuento especial en las cuotas de ortodoncia de un 30% según los meses estipulados por el especialista ( 60 € mes aprox.) Luce una sonrisa bonita y mucho más cuidada. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Dental", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Sanea tus Dientes y Encías con esta limpieza dental. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Disfruta de unos dientes mucho más blancos. Ilumina con tu sonrisa. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Blanqueamiento Dental", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Luce una sonrisa más blanca con esta sesión de Blanqueamiento dental con lámpara de luz Led. Incluye Limpieza Dental. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Disfruta de unos dientes mucho más blancos. Ilumina con tu sonrisa. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Implante Dental Y Corona", 
+            "duration": 3600, 
+            "price": "1200 € ", 
+            "description": "¡Luce una sonrisa perfecta, reservando nuestro Implante dental completo ! Sustituye el diente perdido por un implante dental diseñado para tu total comodidad. incluye: valoración, cirugía, radiografía, y revisiones hasta el final del tratamiento. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Reserva tu cita onine a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Piercing Dental ( Brillante)", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "Ilumina tu sonrisa con toque de brillo, no lastima el esmalte dental. ¿Te apetece un piercing de brillante en tu diente? Decora tu sonrisa y atrévete con lo último en piercings. Este piercing ahora está de moda y muchas celebrities lo llevan para lucir una sonrisa radiante. No daña tus dientes ni es perjudicial para tu salud, simplemente es un brillante para dar un nuevo aire a tu imagen. Ven a Improdent y nuestros profesionales te asesorarán. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Dental: 3 Empastes Simples", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Empastes simples composite, incluye: revisión y radiografía periapical si fuera necesario, si el empaste fuera reconstrucción se abonaría 15 euros mas en el centro. Previa información del odontólogo. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Dental: 2 Empastes Simples", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Empastes simples composite, incluye: revisión y radiografía periapical si fuera necesario, si el empaste fuera reconstrucción se abonaría 15 euros mas en el centro. Previa información del odontólogo.¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Dental: Curetaje Completo", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Tratamiento de Encías y ligamento, raspado y alisado, mantén la salud de tu boca, son dos citas de 45 minutos, incluye radiografía si fuera necesario, valoración periodontal. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Ilumina con tu sonrisa. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Dental: Empaste Superficial Simple", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Empastes simples composite, incluye: revisión y radiografía periapical si fuera necesario, si el empaste fuera reconstrucción se abonaría 15 euros mas en el centro. Previa información del odontólogo. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Ilumina con tu sonrisa. Aprovecha ahora y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Blanqueamiento Dental (En Casa)", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "En la misma sesión te llevas el kit a casa. Incluye limpieza dental, kit de blanqueamiento con férulas y tres jeringas y guía de color. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Disfruta de unos dientes mucho más blancos. Ilumina con tu sonrisa. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Dental: Revisión Bucal Niños Hasta 16 Años.", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Revisión con el ortodoncista, valoración con Radiografía, limpieza, pulido y fluor. En caso de necesitar selladores habrá un suplemento de 15€ cada uno. ¿Quieres que tu pequeño tenga una boca sana, cuidada y bonita? Ven a tu Clínica Dental Improdent y disfrutará de una sonrisa impecable gracias a nuestro tratamiento. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Férula De Descarga Blanda", 
+            "duration": 900, 
+            "price": "250 € ", 
+            "description": "Protege tu sonrisa del bruxismo, con una férula blanda, ideal para personas que empiezan o tienen bruxismo leve. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Férula De Descarga Michigan", 
+            "duration": 1800, 
+            "price": "380 € ", 
+            "description": "Este servicio incluye 3 revisiones para tomar medidas, prueba y revisión. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Ortodoncia Fija", 
+            "duration": 3600, 
+            "price": "1300 € ", 
+            "description": "Corrige los dientes que no están en su sitio gracias a nuestro tratamiento de ortodoncia fija. Incluye: valoración, estudio, radiografía panorámica, colocación de brackets, descuento especial en las cuotas de ortodoncia de un 30% según los meses estipulados por el especialista ( 60 € mes aprox.) Luce una sonrisa bonita y mucho más cuidada. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Dental", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Sanea tus Dientes y Encías con esta limpieza dental. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Disfruta de unos dientes mucho más blancos. Ilumina con tu sonrisa. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Blanqueamiento Dental", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Luce una sonrisa más blanca con esta sesión de Blanqueamiento dental con lámpara de luz Led. Incluye Limpieza Dental. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Disfruta de unos dientes mucho más blancos. Ilumina con tu sonrisa. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Implante Dental Y Corona", 
+            "duration": 3600, 
+            "price": "1200 € ", 
+            "description": "¡Luce una sonrisa perfecta, reservando nuestro Implante dental completo ! Sustituye el diente perdido por un implante dental diseñado para tu total comodidad. incluye: valoración, cirugía, radiografía, y revisiones hasta el final del tratamiento. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Reserva tu cita onine a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Piercing Dental ( Brillante)", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "Ilumina tu sonrisa con toque de brillo, no lastima el esmalte dental. ¿Te apetece un piercing de brillante en tu diente? Decora tu sonrisa y atrévete con lo último en piercings. Este piercing ahora está de moda y muchas celebrities lo llevan para lucir una sonrisa radiante. No daña tus dientes ni es perjudicial para tu salud, simplemente es un brillante para dar un nuevo aire a tu imagen. Ven a Improdent y nuestros profesionales te asesorarán. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Dental: 3 Empastes Simples", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Empastes simples composite, incluye: revisión y radiografía periapical si fuera necesario, si el empaste fuera reconstrucción se abonaría 15 euros mas en el centro. Previa información del odontólogo. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Dental: 2 Empastes Simples", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Empastes simples composite, incluye: revisión y radiografía periapical si fuera necesario, si el empaste fuera reconstrucción se abonaría 15 euros mas en el centro. Previa información del odontólogo.¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Dental: Curetaje Completo", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Tratamiento de Encías y ligamento, raspado y alisado, mantén la salud de tu boca, son dos citas de 45 minutos, incluye radiografía si fuera necesario, valoración periodontal. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Ilumina con tu sonrisa. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Dental: Empaste Superficial Simple", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Empastes simples composite, incluye: revisión y radiografía periapical si fuera necesario, si el empaste fuera reconstrucción se abonaría 15 euros mas en el centro. Previa información del odontólogo. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Ilumina con tu sonrisa. Aprovecha ahora y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Blanqueamiento Dental (En Casa)", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "En la misma sesión te llevas el kit a casa. Incluye limpieza dental, kit de blanqueamiento con férulas y tres jeringas y guía de color. ¿Quieres lucir una bonita sonrisa? Ven a tu Clínica Dental Improdent y ponte en manos de nuestros profesionales. Lucirás una sonrisa, bonita, cuidada y limpia. Tú boca es muy importante tanto para nosotros como para ti. Disfruta de unos dientes mucho más blancos. Ilumina con tu sonrisa. Aprovecha ahora y reserva tu cita cómodamente online a través de Bucmi.com."
+        }
+    ]
+}

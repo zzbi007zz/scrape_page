@@ -20,8 +20,8 @@
     "subcategory": null, 
     "street": "C/ Carranza, 8", 
     "city": "Madrid", 
-    "zipcode": "Madrid", 
-    "formatted_address": "C/ Carranza, 8, Madrid, Madrid", 
+    "zipcode": "28002", 
+    "formatted_address": "C/ Carranza, 8, Madrid, 28002", 
     "country": "es", 
     "office_number": "910025882", 
     "office_number2": null, 
@@ -76,20 +76,6 @@
         }, 
         {
             "service_category": "Manicura y Pedicura", 
-            "service": "Arquitectura Y Diseño De Cejas Tinte Normal /Henna", 
-            "duration": 2700, 
-            "price": "20 € ", 
-            "description": "Con este servicio los profesionales de Sugar Beauty estudian las líneas y el trazo que más gusta al cliente y lo realizan con pinzas e hilo para una mejor precisión. Además aportarán un tono de color al pelo más claro con la tonalidad que más apetezca con tinte o henna, para conseguir un estilo personalizado y una mirada con estilo y muy seductora."
-        }, 
-        {
-            "service_category": "Manicura y Pedicura", 
-            "service": "Arquitectura Y Diseño De Cejas Tinte Normal /Henna", 
-            "duration": 2700, 
-            "price": "20 € ", 
-            "description": "Con este servicio los profesionales de Sugar Beauty estudian las líneas y el trazo que más gusta al cliente y lo realizan con pinzas e hilo para una mejor precisión. Además aportarán un tono de color al pelo más claro con la tonalidad que más apetezca con tinte o henna, para conseguir un estilo personalizado y una mirada con estilo y muy seductora."
-        }, 
-        {
-            "service_category": "Manicura y Pedicura", 
             "service": "Manicura Con Esmaltado Normal", 
             "duration": 2700, 
             "price": "20 € ", 
@@ -124,6 +110,27 @@
             "description": "La manicura y pedicura de Sugar Beauty es el mejor tratamiento para olvidarse de cuidar las uñas todos los días. Los profesionales, de comprobada experiencia, aportarán forma a tus uñas según tu estilo, eliminaran las cutículas e hidrataran la piel con crema. Porque unas manos y pies cuidados son la primera carta de presentación."
         }, 
         {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Esmaltado Permanente", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Servicio de manicura y pedicura de larga duración realizado por los expertos de Sugar Beauty para lucir manos y pies cuidados y a todo color durante varias semanas. El ritual incluye limado de uñas, eliminación de las cutículas, hidratación y esmaltado permanente de la mejor marca con colores de la temporada."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Francesa Permanente", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Las manos y los pies se merecen un cuidado específico y un ritual de belleza personalizado. El tratamiento de manicura y pedicura francesa es perfecto para lucir unas uñas elegantes y de tendencia para cualquier evento. El servicio incluye cortado y limado de las uñas, retirada de cutículas, limado de durezas y callos, hidratación y esmaltado trasparente y blanco de larga duración, realizado solo con productos de la máxima calidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Arquitectura Y Diseño De Cejas Con Pinzas Y Hilo", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Este servicio incluye estudio y diseño de cejas de la mano de las esteticistas especializadas de Sugar Beauty. Las formas son realizadas con pinzas e hilo, para una depilación precisa y sin dolor, garantida durante semanas."
+        }, 
+        {
             "service_category": "Depilación", 
             "service": "Arquitectura Y Diseño De Cejas Tinte Normal /Henna", 
             "duration": 2700, 
@@ -132,31 +139,24 @@
         }, 
         {
             "service_category": "Depilación", 
-            "service": "Arquitectura Y Diseño De Cejas Tinte Normal /Henna", 
-            "duration": 2700, 
+            "service": "Depilación Caramelo Brazos Y Axilas", 
+            "duration": 1800, 
             "price": "20 € ", 
-            "description": "Con este servicio los profesionales de Sugar Beauty estudian las líneas y el trazo que más gusta al cliente y lo realizan con pinzas e hilo para una mejor precisión. Además aportarán un tono de color al pelo más claro con la tonalidad que más apetezca con tinte o henna, para conseguir un estilo personalizado y una mirada con estilo y muy seductora."
+            "description": "La depilación con caramelo es una técnica totalmente natural para eliminar el vello molesto y dejar la piel suave y sedosa durante semanas. Este ritual de belleza es menos doloroso que otras muchas otras técnicas y es ideal para todas las tipologías de pieles porque no es abrasivo. El pack incluye la depilación de los brazos y las axilas."
         }, 
         {
             "service_category": "Depilación", 
-            "service": "Manicura Con Esmaltado Normal", 
+            "service": "Depilación Con Caramelo De Piernas Y Axilas", 
             "duration": 2700, 
-            "price": "20 € ", 
-            "description": "La manicura con esmaltado normal de Sugar Beauty es el tratamiento ideal para lucir manos bonitas y cuidadas. El servicio incluye cortado y limado de uñas para conseguir la forma deseada, retirada de cutículas y esmaltado con el color que más te guste. Todos estos son los elementos del ritual de belleza ideal para conseguir unas manos perfectas."
+            "price": "30 € ", 
+            "description": "El salón ofrece una depilación con caramelo, un tratamiento totalmente natural, que se extiende con las manos y a una temperatura corporal para evitar la irritación de la piel. Esta técnica es menos dolorosa de otras tipologías de depilación y ayuda a eliminar el vello hasta la raíz. Con este pack el servicio es aplicado a las zonas de las piernas enteras y a las axilas."
         }, 
         {
             "service_category": "Depilación", 
-            "service": "Manicura Con Esmaltado Permanente Más Dos Diseños", 
-            "duration": 5400, 
-            "price": "32 € ", 
-            "description": "Este servicio de manicura incluye corte y limado de uñas, retirada de cutículas, exfoliación, hidratación y esmaltado de larga duración del color que prefieras. En este pack están incluidos dos diseños realizados por profesionales especializados en nail art. Todos los productos son de la máxima calidad para respetar el natural crecimiento de tus uñas."
-        }, 
-        {
-            "service_category": "Depilación", 
-            "service": "Manicura Francesa Permanente", 
-            "duration": 5400, 
-            "price": "35 € ", 
-            "description": "Discreta y elegante, la manicura francesa permanente es el tratamiento ideal para cualquier evento y deja las manos cuidadas y bonitas durante días. El servicio proporciona todo lo que comprende una manicura tradicional y la aplicación de un esmaltado permanente trasparente y blanco para conseguir la forma deseada. Los profesionales estudian el estilo de cada cliente para lucir manos perfectas aplicando solo productos de la máxima calidad."
+            "service": "Depilación Con Caramelo Ingles Entero", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "El ritual de belleza más requerido de esta temporada es la depilación con caramelo. Esta técnica es ideal para eliminar el vello molesto desde la raíz para lucir una piel suave y sedosa durante semanas. Utilizamos una pasta de caramelo de alta calidad."
         }
     ]
 }

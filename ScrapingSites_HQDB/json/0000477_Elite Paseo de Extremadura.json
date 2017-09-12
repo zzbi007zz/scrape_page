@@ -1,0 +1,226 @@
+{
+    "adid": null, 
+    "name": "Elite Paseo de Extremadura", 
+    "name_of_contact": "Elite Paseo de Extremadura", 
+    "scrape_page": "https://www.bucmi.com/elite", 
+    "business_website": "https://www.bucmi.com/elite", 
+    "areas_covered": null, 
+    "description": "Centro de Peluquería y belleza situado en el Paseo de Extremadura, donde te ofrecemos una gama de productos exclusivos y de calidad. Trato personalizado con cada cliente, somos un centro como los de toda la vida... De tú a tú.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963220564220801.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963220563282451.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963220564689537.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963220564845816.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963220565939533.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Galileo, 93", 
+    "city": "Madrid", 
+    "zipcode": "28011", 
+    "formatted_address": "C/ Galileo, 93, Madrid, 28011", 
+    "country": "es", 
+    "office_number": "914702327", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4104323000", 
+    "longitude": "-3.7363482000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963245903266502.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer Pelo Largo", 
+            "duration": 3600, 
+            "price": "26,5 € ", 
+            "description": "Ya no se lleva el pelo largo, sigue las nuevas tendencias de moda y ven a nuestro salón. Te aconsejarán los mejores profesionales. El servicio incluye cortar, lavar y peinar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Y Corte Mujer Pelo Largo", 
+            "duration": 7200, 
+            "price": "63 € ", 
+            "description": "Disfruta de este estupendo pack que incluye lavado de pelo, corte de pelo y mechas realizadas con papel de plata. Este servicio es para pelo largo. El acondicionador no va incluido y se abonaría en el salón, 2 euros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Moldeador De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Luce unas pestañas perfectas con un tinte de pestañas y moldeador permanente de pestañas. Tú mirada más intensa y pestañas más negras..."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Limpieza con velo de colágeno. Incluye desmaquillado con extracción, ionización y colágeno natural más masaje con crema de caviar. Una limpieza muy completa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Corto", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "¿Quiéres peinar y cortar tu pelo?¿ No sabes dónde? No dudes más... Incluye: lavado del cabello, coloración completa en cabello corto y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Pelo Medio", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "En nuestra peluquería cuidamos de tu pelo y damos color. Incluye lavado y tinte para tu media melena. El acondicionador no va incluido en el precio y tiene un suplemento de 2 euros que se abonaría en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Pelo Corto", 
+            "duration": 3600, 
+            "price": "23,5 € ", 
+            "description": "Ven a nuestra pelu y confía en nuestros profesionales parav realizarte el corte de pelo, con el que vas a estar ideal sin duda. Incluye lavado y corte en pelo corto y para terminar, peinamos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Pelo Largo", 
+            "duration": 3600, 
+            "price": "26,5 € ", 
+            "description": "Ya no se lleva el pelo largo, sigue las nuevas tendencias de moda y ven a nuestro salón. Te aconsejarán los mejores profesionales. El servicio incluye cortar, lavar y peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Corto Y Peinado", 
+            "duration": 7200, 
+            "price": "45 € ", 
+            "description": "Si quieres dar un efecto a tú pelo tocado por el sol, puedes conseguirlo con estas mechas californianas y peinado. Te irás ideal... El acondicionador no va incluído y tiene un suplemento de dos euros que se abona en el salón. Servicio para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Largo Y Peinado", 
+            "duration": 7200, 
+            "price": "54 € ", 
+            "description": "Si quieres dar un efecto a tú pelo tocado por el sol, puedes conseguirlo con estas mechas californianas y peinado. Te irás ideal... El acondicionador no va incluído y tiene un suplemento de dos euros que se abona en el salón. Servicio para cabello largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas De Plata Y Peinado Largo", 
+            "duration": 7200, 
+            "price": "54 € ", 
+            "description": "En nuestra peluquería puedes confiar... Ven y realízate unas mechas con papel de plata del color que elijas y después nosotras peinamos tu cabello largo. El acondicionador no va incluido, tiene un suplemnto de dos euros que se abona en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas De Plata Y Peinar Corto", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Reserva y realízate unas mechas con papel de plata del color que elijas y después nosotras peinamos tu cabello corto. El acondicionador no va incluido, tiene un suplemnto de dos euros que se abona en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Peine O Gorro Cabello Medio/Largo", 
+            "duration": 5400, 
+            "price": "51 € ", 
+            "description": "El servicio incluye las mechas,lavar y peinar cabello medio o largo. Opta por dar luz a tu cabello con estas mechas realizadas con gorro o peine. El acondicionador tiene un suplemento de dos euros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Peine O Gorro Pelo Corto", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "El servicio incluye las mechas,lavar y peinar cabello medio o largo. Opta por dar luz a tu cabello con estas mechas realizadas con gorro o peine. El acondicionador no va incluido en el precio y tiene un suplemento de dos euros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Corte Mujer Pelo Medio", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Disfruta de este estupendo pack que incluye lavado, corte de pelo y mechas de plata. Este servicio es para pelo corto o medio. El acondicionador no está incluido y tiene un suplemento de dos euros, que se abona en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Corte Mujer Pelo Largo", 
+            "duration": 7200, 
+            "price": "63 € ", 
+            "description": "Disfruta de este estupendo pack que incluye lavado de pelo, corte de pelo y mechas realizadas con papel de plata. Este servicio es para pelo largo. El acondicionador no va incluido y se abonaría en el salón, 2 euros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Pelo Medio", 
+            "duration": 3600, 
+            "price": "25,5 € ", 
+            "description": "Ven a nuestra pelu y confía en nuestros profesionales para realizarte ese corte de pelo, estarás ideal sin duda. Incluye lavado y corte en pelo medio y para terminar, peinamos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Pelo Largo", 
+            "duration": 7200, 
+            "price": "32,5 € ", 
+            "description": "Si ves que el color de tu cabello pierde vida, puedes resolverlo en nuestra Peluquería. Este servicio incluye: lavado del cabello, coloración completa y peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Completo Y Peinado Corto", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "¿Quiéres peinar y cortar tu pelo?¿ No sabes dónde? No dudes más... Incluye: lavado del cabello, coloración completa en cabello corto y peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Pelo Medio", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "En nuestra peluquería cuidamos de tu pelo y damos color. Incluye lavado y tinte para tu media melena. El acondicionador no va incluido en el precio y tiene un suplemento de 2 euros que se abonaría en el salón."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Completo Y Peinado Corto", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "¿Quiéres peinar y cortar tu pelo?¿ No sabes dónde? No dudes más... Incluye: lavado del cabello, coloración completa en cabello corto y peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Completo Y Peinado Corto", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "¿Quiéres peinar y cortar tu pelo?¿ No sabes dónde? No dudes más... Incluye: lavado del cabello, coloración completa en cabello corto y peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Pelo Medio", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "En nuestra peluquería cuidamos de tu pelo y damos color. Incluye lavado y tinte para tu media melena. El acondicionador no va incluido en el precio y tiene un suplemento de 2 euros que se abonaría en el salón."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Mujer Pelo Corto", 
+            "duration": 3600, 
+            "price": "23,5 € ", 
+            "description": "Ven a nuestra pelu y confía en nuestros profesionales parav realizarte el corte de pelo, con el que vas a estar ideal sin duda. Incluye lavado y corte en pelo corto y para terminar, peinamos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Mujer Pelo Largo", 
+            "duration": 3600, 
+            "price": "26,5 € ", 
+            "description": "Ya no se lleva el pelo largo, sigue las nuevas tendencias de moda y ven a nuestro salón. Te aconsejarán los mejores profesionales. El servicio incluye cortar, lavar y peinar."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas Corto Y Peinado", 
+            "duration": 7200, 
+            "price": "45 € ", 
+            "description": "Si quieres dar un efecto a tú pelo tocado por el sol, puedes conseguirlo con estas mechas californianas y peinado. Te irás ideal... El acondicionador no va incluído y tiene un suplemento de dos euros que se abona en el salón. Servicio para cabello corto."
+        }
+    ]
+}

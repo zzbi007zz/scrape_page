@@ -1,0 +1,175 @@
+{
+    "adid": null, 
+    "name": "San Antón", 
+    "name_of_contact": "San Antón", 
+    "scrape_page": "https://www.bucmi.com/sananton", 
+    "business_website": "https://www.bucmi.com/sananton", 
+    "areas_covered": null, 
+    "description": "En San Antón Peluquería Estética y Bienestar tendreis el mejor trato y asesoramiento para los cuidados de vuestra imagen. Nuestro centro está dedicado al cuidado de la imagen personal. Tú eres lo primero para nosotros! ¡Reserva online!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635508045942772680.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635508045957930184.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627865429959823.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627878785962136.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627880083288586.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627880897652775.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627881891376823.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627882424906530.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627883011690380.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627883467513746.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Granada", 
+    "zipcode": "18005", 
+    "formatted_address": "Granada, 18250, Granada, 18005", 
+    "country": "es", 
+    "office_number": "958372727", 
+    "office_number2": null, 
+    "mobile_number": "685390866", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1684043000", 
+    "longitude": "-3.5987073000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962380928721874.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tanto si tienes un evento como si simplemente te apetece arreglarte el pelo éste es tu servicio. Luce una melena perfecta en cualquier ocasión de la mano de los mejores profesionales. Incluye lavado, hidratación y masaje capilar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "Dale un aire diferente a tu look de la mano de los mejores profesionales con este corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales. Incluye lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer Y Peinado", 
+            "duration": 1800, 
+            "price": "16,9 € ", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales para sacar el mayor partido de tus rasgos faciales. Incluye Lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Peinar Y Masaje Capilar", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Tu pelo dice mucho de ti. Aprovecha este pack y cambia de look. El servicio incluye lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas. No esperes más y reserva tu cita online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "Consigue una manicura perfecta de la mano de los mejores profesionales. Cuida tus manos con una manicura que incluye el limado, cortado de la uña, esmaltado normal con el color que prefieras a elegir entre una amplia gama y por último, crema hidratante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tanto si tienes un evento como si simplemente te apetece arreglarte el pelo éste es tu servicio. Luce una melena perfecta en cualquier ocasión de la mano de los mejores profesionales. Incluye lavado, hidratación y masaje capilar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "Dale un aire diferente a tu look de la mano de los mejores profesionales con este corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales. Incluye lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado", 
+            "duration": 1800, 
+            "price": "16,9 € ", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales para sacar el mayor partido de tus rasgos faciales. Incluye Lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Degradado De Color", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Dale un toque de estilo a tu cabello con un degradado de color. Incluye Lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Peinar", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Disfruta de tus mechas californianas con un degradado de color, con lavado, peinado y masaje dermocapilar. Ideal para el verano."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinar", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Revitaliza tu cabello con unas mechas. Incluye matiz y peinado. Pack de peluquería que te ayudará a mantener las mechas, y disponer de un look que te favorezca... ¡déjate asesorar por nuestros profesionales!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogidos", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Descubre nuestros recogidos para distintas ocasiones especiales. Para eventos, fiestas y te apetezca disfrutar de un recogido único. ¡Reserva este servicio con nosotros!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogidos Novia", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Para tu dia especial somos especialistas en Recogidos de Novia. Servicio para lucirte y estar perfecta en el día más especial de tu vida. Ponte en manos de nuestros profesionales de San Antón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Peinar Y Masaje Capilar", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Tu pelo dice mucho de ti. Aprovecha este pack y cambia de look. El servicio incluye lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas. No esperes más y reserva tu cita online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tanto si tienes un evento como si simplemente te apetece arreglarte el pelo éste es tu servicio. Luce una melena perfecta en cualquier ocasión de la mano de los mejores profesionales. Incluye lavado, hidratación y masaje capilar."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "Dale un aire diferente a tu look de la mano de los mejores profesionales con este corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales. Incluye lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Mujer Y Peinado", 
+            "duration": 1800, 
+            "price": "16,9 € ", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales para sacar el mayor partido de tus rasgos faciales. Incluye Lavado, peinado, masaje capilar y masaje corporal en nuestros exclusivos lava cabezas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tanto si tienes un evento como si simplemente te apetece arreglarte el pelo éste es tu servicio. Luce una melena perfecta en cualquier ocasión de la mano de los mejores profesionales. Incluye lavado, hidratación y masaje capilar."
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "adid": null, 
+    "name": "Artesants", 
+    "name_of_contact": "Artesants", 
+    "scrape_page": "https://www.bucmi.com/artesants", 
+    "business_website": "https://www.bucmi.com/artesants", 
+    "areas_covered": null, 
+    "description": "Somos un espacio dedicado a la formación y a las terapias naturales, estamos especializados en yoga, pilates, y masajes relajantes. Concédete unos minutos para ti y relájate. Ven a conocernos, te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526164947978820.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526164999545407.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "931679945", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3818420000", 
+    "longitude": "2.1385600999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635923517903215869.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "4 Clases De Pilates", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Incluye 4 sesiones de pilates una por semana. Duración por sesión de una hora. El horario son los viernes a las 19h. Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases de pilates."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Clase Pilates", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "Incluye una clase de pilates de suelo. Duración por sesión. El horario son los viernes a las 19h de la tarde. Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases de pilates."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Clase Yoga", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "Incluye una clase de yoga. El horario son los jueves a las 19:00 de la tarde. Podrás equilibrar tu cuerpo y tu mente a la vez que te pones en forma y tonificas tu cuerpo con nuestras clases de yoga."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "4 Clases De Pilates", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Incluye 4 sesiones de pilates una por semana. Duración por sesión de una hora. El horario son los viernes a las 19h. Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases de pilates."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Clase Pilates", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "Incluye una clase de pilates de suelo. Duración por sesión. El horario son los viernes a las 19h de la tarde. Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases de pilates."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "4 Clases De Pilates", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Incluye 4 sesiones de pilates una por semana. Duración por sesión de una hora. El horario son los viernes a las 19h. Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases de pilates."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Clase Pilates", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "Incluye una clase de pilates de suelo. Duración por sesión. El horario son los viernes a las 19h de la tarde. Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases de pilates."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "4 Clases De Pilates", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Incluye 4 sesiones de pilates una por semana. Duración por sesión de una hora. El horario son los viernes a las 19h. Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases de pilates."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "4 Clases De Yoga", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Incluye 4 sesiones de yoga una por semana. Duración por sesión de una hora. El horario son los jueves a las 19h. Podrás equilibrar tu cuerpo y tu mente a la vez que te pones en forma y tonificas tu cuerpo con nuestras clases de yoga."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Clase Pilates", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "Incluye una clase de pilates de suelo. Duración por sesión. El horario son los viernes a las 19h de la tarde. Conseguiremos que mejores tu postura a la vez que mejoras y refuerzas el suelo pélvico gracias a nuestras clases de pilates."
+        }
+    ]
+}

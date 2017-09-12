@@ -1,0 +1,168 @@
+{
+    "adid": null, 
+    "name": "Nancy Feeling", 
+    "name_of_contact": "Nancy Feeling", 
+    "scrape_page": "https://www.bucmi.com/nancyfeeling", 
+    "business_website": "https://www.bucmi.com/nancyfeeling", 
+    "areas_covered": null, 
+    "description": "Nancy Feeling es un Salón de Belleza en el que disfrutarás de tratamientos de la mejor calidad a precios asequibles. Estamos situado en la zona de Carabanchel, Madrid. Disponemos de profesionales con años de experiencia en el sector de la belleza.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635652326149724330.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885858848070727.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885858867914482.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cebreros, 96", 
+    "city": "Madrid", 
+    "zipcode": "28019", 
+    "formatted_address": "C/ Cebreros, 96, Madrid, 28019", 
+    "country": "es", 
+    "office_number": "911403618", 
+    "office_number2": null, 
+    "mobile_number": "622259409", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3925597000", 
+    "longitude": "-3.7121700999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811969818883486.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "¿Necesitas limpiar tu piel de impurezas? Reserva nuestra limpieza facial y podrás lucir la piel que siempre has deseado. El servicio incluye: desmaquillado, extracción profunda, mascarilla hidratante y masaje facial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡Arréglate las uñas en nuestro centro reservando nuestra manicura normal a un precio ideal! Incluye el corte de uñas, limado y esmaltado normal en el color que más te guste. Te dejaremos unas manos perfectas, dignas de mostrar al mundo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Mujer", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Aprovecha nuestro pack de manicura y pedicura para mujer y reserva ahora! Te realizaremos un servicio completo para que salgas de nuestro centro con unas manos y pies totalmente cuidados y bonitos. Utilizamos esmaltes normales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Con Cera Piernas Enteras Hombre", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Reserva nuestra depilación con cera para piernas enteras y olvídate del vello durante dos semanas. Utilizamos cera caliente o tibia. Servicio de depilación para hombres."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "¿Necesitas limpiar tu piel de impurezas? Reserva nuestra limpieza facial y podrás lucir la piel que siempre has deseado. El servicio incluye: desmaquillado, extracción profunda, mascarilla hidratante y masaje facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "¿Necesitas limpiar tu piel de impurezas? Reserva nuestra limpieza facial y podrás lucir la piel que siempre has deseado. El servicio incluye: desmaquillado, extracción profunda, mascarilla hidratante y masaje facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡Arréglate las uñas en nuestro centro reservando nuestra manicura normal a un precio ideal! Incluye el corte de uñas, limado y esmaltado normal en el color que más te guste. Te dejaremos unas manos perfectas, dignas de mostrar al mundo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Hombre", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "¿Quién dice que los hombres no se cuidan? Si eres de los que les gusta sentirse bien, necesitas reservar nuestro pack de manicura y pedicura para hombre. Nuestros profesionales te realizarán un servicio completo en tus manos y pies para que salgas perfecto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Mujer", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Aprovecha nuestro pack de manicura y pedicura para mujer y reserva ahora! Te realizaremos un servicio completo para que salgas de nuestro centro con unas manos y pies totalmente cuidados y bonitos. Utilizamos esmaltes normales."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Hombre", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Si eres hombre y te gustaría poder disfrutar de unos pies bonitos y cuidados, este es tu servicio ideal. Durante la pedicura, cortamos y limamos las uñas, tratamos durezas para dejarte unos pies perfectos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "¿Necesitas limpiar tu piel de impurezas? Reserva nuestra limpieza facial y podrás lucir la piel que siempre has deseado. El servicio incluye: desmaquillado, extracción profunda, mascarilla hidratante y masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡Arréglate las uñas en nuestro centro reservando nuestra manicura normal a un precio ideal! Incluye el corte de uñas, limado y esmaltado normal en el color que más te guste. Te dejaremos unas manos perfectas, dignas de mostrar al mundo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Hombre", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "¿Quién dice que los hombres no se cuidan? Si eres de los que les gusta sentirse bien, necesitas reservar nuestro pack de manicura y pedicura para hombre. Nuestros profesionales te realizarán un servicio completo en tus manos y pies para que salgas perfecto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Mujer", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Aprovecha nuestro pack de manicura y pedicura para mujer y reserva ahora! Te realizaremos un servicio completo para que salgas de nuestro centro con unas manos y pies totalmente cuidados y bonitos. Utilizamos esmaltes normales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Hombre", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Si eres hombre y te gustaría poder disfrutar de unos pies bonitos y cuidados, este es tu servicio ideal. Durante la pedicura, cortamos y limamos las uñas, tratamos durezas para dejarte unos pies perfectos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Mujer", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Cuida tus pies reservando nuestra pedicura para mujer en nuestro centro. Durante el servicio cortamos y limamos uñas, tratamos durezas y maquillamos las uñas con el esmalte normal en el color que más te guste. Nuestros profesionales se encargarán de dejarte unos pies perfectos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Cera Axilas Hombre", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "¿Necesitas una depilación urgente? Reserva nuestro servicio de depilación masculina con cera caliente o tibia en tus axilas. ¡Líbrate del incómodo vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion Con Cera Brazos Hombre", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Elimina el incómodo vello de los brazos con nuestra depilación con cera fría o caliente de primera calidad. Ponte en manos de nuestros profesionales en estética."
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "adid": null, 
+    "name": "Anna Cuenca Estética & Bienestar", 
+    "name_of_contact": "Anna Cuenca Estética & Bienestar", 
+    "scrape_page": "https://www.bucmi.com/annacuenca", 
+    "business_website": "https://www.bucmi.com/annacuenca", 
+    "areas_covered": null, 
+    "description": "En Anna Cuenca Estética & Bienestar, situado en la gran vía, nos ponemos a tu servicio para ofrecerte, en pleno centro de Valencia, un espacio dedicado a tu belleza. Te traemos los mejores tratamientos de estética para que te sientas bien contigo misma.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821537500928607.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821537523116023.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821537557959665.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821537570615894.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635997126438080229.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635997127466337458.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635997127727227907.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Burriana, 29", 
+    "city": "Valencia", 
+    "zipcode": "46005", 
+    "formatted_address": "C/ Burriana, 29, Valencia, 46005", 
+    "country": "es", 
+    "office_number": "960641022", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4655951000", 
+    "longitude": "-0.3658074999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635998812739004074.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Masaje Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este Bono de 5 sesiones aparte de beneficiarte de un buen precio, tendrás 5 masajes de 30 minutos cada uno, drenantes y anticelulíticos y cinco sesiones de presoterapia, también de 30 minutos de duración cada una. El estado de tú piel se verá mejor."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Completa", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Si eres de los que optan por el método tradicional de depilación, este es tu Pack, el más completo. Incluye: Depilación de piernas, ingles y axilas, con cera caliente y cera tibia. No esperes más y reserva ahora online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Oxigenante", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Esta no es sólo una higiene facial completa, que incluye peeling, vapor de ozono, extracción, alta frecuencia para cerrar los poros, ampolla según tipo de piel, ionizamos después y masaje facial junto con mascarilla. Incluye depilación de cejas y labio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Masaje Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este Bono de 5 sesiones aparte de beneficiarte de un buen precio, tendrás 5 masajes de 30 minutos cada uno, drenantes y anticelulíticos y cinco sesiones de presoterapia, también de 30 minutos de duración cada una. El estado de tú piel se verá mejor."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Moldea tu silueta y trata adiposidad localizada con caviración en abdomen, muslos, brazos, o la zona que más te preocupe, y depués todo lo tratado con cavitación vamos a drenar con presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono De 5 Masajes Anticelulíticos", 
+            "duration": 1800, 
+            "price": "125 € ", 
+            "description": "MASAJE REDUCTOR, AYUDA REDUCIR LA PIEL DE NARANJA, ACTIVA CIRCULACIÓN Y DRENAJE DE LÍQUIDOS."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Oxigenante", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Esta no es sólo una higiene facial completa, que incluye peeling, vapor de ozono, extracción, alta frecuencia para cerrar los poros, ampolla según tipo de piel, ionizamos después y masaje facial junto con mascarilla. Incluye depilación de cejas y labio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Rejuvenece la piel de tu rostro con este tratamiento de mesoterapia virtual, técnica que no requiere el uso de agujas. Utilizamos aceites esenciales. Incluye también depilación de labio superior y cejas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Este método, es del que todos hablan... El lifting facial sin cirujía. No lo dudes más y ven a probarlo... Incluye depilación de labio y cejas. Para el tratamiento utilizamos aceites esenciales. Rejuvenece la piel de tu rostro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Lifting Reafirmante Germanine De Capuc", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Dirigido para reconstruir la estructurade soporte de la piel, ayudando a reposicionar volúmenes y definir contornos. Todo ello con una de las mejores marcas: Germaine de Capuchini."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si quieres moldear tu cuerpo y evitar esa flacidez, prueba esta sesión doble de una hora que combina Cavitación y Mesoterapia. Notarás los cambios. No esperes más y reserva ahora online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Hidratante Activa", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Destinada para pieles más jóvenes que necesiten regenerar, hidratar y limpiar. Desmaquillado, tonificación y exfoliación, vapor ozono, extracción de comedones, alta frecuencia para desinfectar, cerrar poros y calmar la piel. Masaje facial . Mascarilla adecuada a cada tipo de piel. También incluye depilación de cejas y de labio superios."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 5 Sesiones Masaje Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este Bono de 5 sesiones aparte de beneficiarte de un buen precio, tendrás 5 masajes de 30 minutos cada uno, drenantes y anticelulíticos y cinco sesiones de presoterapia, también de 30 minutos de duración cada una. El estado de tú piel se verá mejor."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 5 Sesiones De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Moldea tu silueta y trata adiposidad localizada con caviración en abdomen, muslos, brazos, o la zona que más te preocupe, y depués todo lo tratado con cavitación vamos a drenar con presoterapia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Masaje Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este Bono de 5 sesiones aparte de beneficiarte de un buen precio, tendrás 5 masajes de 30 minutos cada uno, drenantes y anticelulíticos y cinco sesiones de presoterapia, también de 30 minutos de duración cada una. El estado de tú piel se verá mejor."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Moldea tu silueta y trata adiposidad localizada con caviración en abdomen, muslos, brazos, o la zona que más te preocupe, y depués todo lo tratado con cavitación vamos a drenar con presoterapia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5 Sesiones Masaje Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este Bono de 5 sesiones aparte de beneficiarte de un buen precio, tendrás 5 masajes de 30 minutos cada uno, drenantes y anticelulíticos y cinco sesiones de presoterapia, también de 30 minutos de duración cada una. El estado de tú piel se verá mejor."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5 Sesiones De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Moldea tu silueta y trata adiposidad localizada con caviración en abdomen, muslos, brazos, o la zona que más te preocupe, y depués todo lo tratado con cavitación vamos a drenar con presoterapia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono De 5 Masajes Anticelulíticos", 
+            "duration": 1800, 
+            "price": "125 € ", 
+            "description": "MASAJE REDUCTOR, AYUDA REDUCIR LA PIEL DE NARANJA, ACTIVA CIRCULACIÓN Y DRENAJE DE LÍQUIDOS."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Oxigenante", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Esta no es sólo una higiene facial completa, que incluye peeling, vapor de ozono, extracción, alta frecuencia para cerrar los poros, ampolla según tipo de piel, ionizamos después y masaje facial junto con mascarilla. Incluye depilación de cejas y labio."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Rejuvenece la piel de tu rostro con este tratamiento de mesoterapia virtual, técnica que no requiere el uso de agujas. Utilizamos aceites esenciales. Incluye también depilación de labio superior y cejas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Este método, es del que todos hablan... El lifting facial sin cirujía. No lo dudes más y ven a probarlo... Incluye depilación de labio y cejas. Para el tratamiento utilizamos aceites esenciales. Rejuvenece la piel de tu rostro."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 5 Sesiones Masaje Y Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este Bono de 5 sesiones aparte de beneficiarte de un buen precio, tendrás 5 masajes de 30 minutos cada uno, drenantes y anticelulíticos y cinco sesiones de presoterapia, también de 30 minutos de duración cada una. El estado de tú piel se verá mejor."
+        }
+    ]
+}

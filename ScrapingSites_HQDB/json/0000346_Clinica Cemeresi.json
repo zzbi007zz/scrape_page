@@ -1,0 +1,209 @@
+{
+    "adid": null, 
+    "name": "Clínica Cemeresi", 
+    "name_of_contact": "Clínica Cemeresi", 
+    "scrape_page": "https://www.bucmi.com/clinicacemeresi", 
+    "business_website": "https://www.bucmi.com/clinicacemeresi", 
+    "areas_covered": null, 
+    "description": "En Clínica Cemersi situado en la zona de Argüelles de Madrid encontrarás unas instalaciones equipadas e innovadoras con un equipo profesional y altamente cualificados. Ponte en manos de los mejores, aprovecha y reserva tu cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635717988132481005.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635717988182680617.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "11", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cartagena, 73", 
+    "city": "Madrid", 
+    "zipcode": "28008", 
+    "formatted_address": "C/ Cartagena, 73, Madrid, 28008", 
+    "country": "es", 
+    "office_number": "912940047", 
+    "office_number2": null, 
+    "mobile_number": "689539490", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4291916000", 
+    "longitude": "-3.7178327000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008256817569829.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antiojeras 3 Sesiones", 
+            "duration": 1800, 
+            "price": "210 € ", 
+            "description": "Elimina las ojeras de tu rostro de la mano de los mejores profesionales del sector. Luce una mirada descansada todo el día gracias a este tratamiento. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "549 € ", 
+            "description": "Reduce volumen de tu cuerpo gracias a este tratamiento que combina diferentes técnicas para obtener unos resultados óptimos. El servicio incluye 5 sesiones de mesoterapia, 5 sesiones de cavitación y 5 sesiones de presoterapia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Reductor Con Aqualix.", 
+            "duration": 1800, 
+            "price": "169 € ", 
+            "description": "Reduce centímetros con Aqualix, innovador producto para reducir la adiposidad o grasa localizada aplicado mediante mesoterapia. Segundo vial con 25 % de descuento!!!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 Mesoterapias + 5 Radio Frecuencias", 
+            "duration": 2700, 
+            "price": "426 € ", 
+            "description": "Para eliminar la Flacidez. Oferta especial de 5 sesiones de mesoterapia + 5 sesiones de radiofrecuencia, con la mesoterapia ayudamos a disolver la grasa localizada y con la Radio Frecuencia, ayudamos a producir colágeno y a regenerar la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje A Escoger Con Presoterapia", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Masaje Manual a escoger entre masaje drenante, masaje relajante, masaje deportivo o fisioterapia. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10 Sesiones Cavitación, Plataforma, Presoterapia", 
+            "duration": 3600, 
+            "price": "399 € ", 
+            "description": "El Pack de belleza más completo, estas 10 sesiones de cavitación (20 minutos), 10 sesiones de plataforma vibratoria (10 minutos) y 10 sesiones de presoterapia (30 minutos). Tonifica tu piel. Resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiojeras 3 Sesiones", 
+            "duration": 1800, 
+            "price": "210 € ", 
+            "description": "Elimina las ojeras de tu rostro de la mano de los mejores profesionales del sector. Luce una mirada descansada todo el día gracias a este tratamiento. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "549 € ", 
+            "description": "Reduce volumen de tu cuerpo gracias a este tratamiento que combina diferentes técnicas para obtener unos resultados óptimos. El servicio incluye 5 sesiones de mesoterapia, 5 sesiones de cavitación y 5 sesiones de presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Con Aqualix.", 
+            "duration": 1800, 
+            "price": "169 € ", 
+            "description": "Reduce centímetros con Aqualix, innovador producto para reducir la adiposidad o grasa localizada aplicado mediante mesoterapia. Segundo vial con 25 % de descuento!!!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 Mesoterapias + 5 Radio Frecuencias", 
+            "duration": 2700, 
+            "price": "426 € ", 
+            "description": "Para eliminar la Flacidez. Oferta especial de 5 sesiones de mesoterapia + 5 sesiones de radiofrecuencia, con la mesoterapia ayudamos a disolver la grasa localizada y con la Radio Frecuencia, ayudamos a producir colágeno y a regenerar la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "119 € ", 
+            "description": "Mejora la circulación sanguínea, evita la retención de líquidos, elimina el cansancio y pesadez de las piernas, todo mediante una única técnica rápida, cómoda y sencilla: la presoterapia. 30 minutos empleando la última tecnología en esta terapia médico-estética con resultados desde la primera sesión"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Podología", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Si necesitas eliminar algún callo, dureza o cualquier cosa que te moleste, ven a nuestro centro. Te dejaremos el pie como el de un bebé de suave."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Facial Y Limpieza", 
+            "duration": 2700, 
+            "price": "320 € ", 
+            "description": "El servicio incluye una limpieza facial. Tonifica la piel de tu rostro, aporta elasticidad y luminosidad en profundidad. Aprovecha este bono y te regalamos una limpieza facial. ¡Reserva ya!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Sesiones Masaje + Presoterapia", 
+            "duration": 2700, 
+            "price": "66 € ", 
+            "description": "20 minutos de Masaje Manual a escoger entre masaje drenante, masaje relajante, masaje deportivo o fisioterapia + 25 minutos de Presoterapia. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Mesoterapia Corporal", 
+            "duration": 1800, 
+            "price": "99 € ", 
+            "description": "Si quieres eliminar la grasa localizada que no se va con dietas y ejercicio.. ¡Reserva este servicio! La mesoterapia se encarga de movilizar los cúmulos de grasa para su eliminación natural, a través de la orina."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje A Escoger Con Presoterapia", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Masaje Manual a escoger entre masaje drenante, masaje relajante, masaje deportivo o fisioterapia. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10 Sesiones Cavitación, Plataforma, Presoterapia", 
+            "duration": 3600, 
+            "price": "399 € ", 
+            "description": "El Pack de belleza más completo, estas 10 sesiones de cavitación (20 minutos), 10 sesiones de plataforma vibratoria (10 minutos) y 10 sesiones de presoterapia (30 minutos). Tonifica tu piel. Resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Antiojeras 3 Sesiones", 
+            "duration": 1800, 
+            "price": "210 € ", 
+            "description": "Elimina las ojeras de tu rostro de la mano de los mejores profesionales del sector. Luce una mirada descansada todo el día gracias a este tratamiento. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "549 € ", 
+            "description": "Reduce volumen de tu cuerpo gracias a este tratamiento que combina diferentes técnicas para obtener unos resultados óptimos. El servicio incluye 5 sesiones de mesoterapia, 5 sesiones de cavitación y 5 sesiones de presoterapia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Reductor Con Aqualix.", 
+            "duration": 1800, 
+            "price": "169 € ", 
+            "description": "Reduce centímetros con Aqualix, innovador producto para reducir la adiposidad o grasa localizada aplicado mediante mesoterapia. Segundo vial con 25 % de descuento!!!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "5 Mesoterapias + 5 Radio Frecuencias", 
+            "duration": 2700, 
+            "price": "426 € ", 
+            "description": "Para eliminar la Flacidez. Oferta especial de 5 sesiones de mesoterapia + 5 sesiones de radiofrecuencia, con la mesoterapia ayudamos a disolver la grasa localizada y con la Radio Frecuencia, ayudamos a producir colágeno y a regenerar la piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "119 € ", 
+            "description": "Mejora la circulación sanguínea, evita la retención de líquidos, elimina el cansancio y pesadez de las piernas, todo mediante una única técnica rápida, cómoda y sencilla: la presoterapia. 30 minutos empleando la última tecnología en esta terapia médico-estética con resultados desde la primera sesión"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Podología", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Si necesitas eliminar algún callo, dureza o cualquier cosa que te moleste, ven a nuestro centro. Te dejaremos el pie como el de un bebé de suave."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Facial Y Limpieza", 
+            "duration": 2700, 
+            "price": "320 € ", 
+            "description": "El servicio incluye una limpieza facial. Tonifica la piel de tu rostro, aporta elasticidad y luminosidad en profundidad. Aprovecha este bono y te regalamos una limpieza facial. ¡Reserva ya!"
+        }
+    ]
+}

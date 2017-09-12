@@ -1,0 +1,472 @@
+{
+    "adid": null, 
+    "name": "Alma, Belleza y Medicina", 
+    "name_of_contact": "Alma, Belleza y Medicina", 
+    "scrape_page": "https://www.bucmi.com/almabelleza", 
+    "business_website": "https://www.bucmi.com/almabelleza", 
+    "areas_covered": null, 
+    "description": "Alma, Belleza y Medicina se encuentra en Avenida Reina Victoria 13, en el barrio de Chamberí de Madrid, desde que hace unos años fue creado por Nazareth Sacedo. Muy cerca de Cuatro Caminos, este centro es un espacio dedicado al cuidado del cuerpo y la mente. Años de experiencia han marcado su filosofía, enfocada a cuidar la imagen física como un reflejo del 'yo interior'. Su equipo profesional, se mantiene en constante aprendizaje y formación, para realiza una amplai variedad de servicios: tratamientos faciales y corporales, tratamientos médicos sin cirugía, medicina natural, Reiki, manicuras, pedicuras y masajes. Para realizar sus tratamientos utilizan productos naturales y firmas como Skeyndor, Artesanía Ágave y Lollipop.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165761534467.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165783409435.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165801691168.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165820607427.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165840294890.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165859826077.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165879044774.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165896552888.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165917646575.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165941870816.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165960623939.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165980936088.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635950165999217284.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "156", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28003", 
+    "formatted_address": "Madrid, 28004, Madrid, 28003", 
+    "country": "es", 
+    "office_number": "910221166", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4467903000", 
+    "longitude": "-3.7065334999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636295741559090180.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Facial Power Hyaluronic", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Power Hyaluronic es un tratamiento de Skeyndor que está indicado para pieles deshidratadas en superficie o profundidad con microrelieve cutáneo irregular y pequeñas arrugas, manteniendo una hidratación continuada durante 24 horas. Para un rostro joven y radiante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novias", 
+            "duration": 7200, 
+            "price": "245 € ", 
+            "description": "El servicio incluye limpieza facial profunda, peeling corporal con sales del mar muerto, 2 sesiones de tratamiento facial personalizado, tinte y permanente de pestañas, pedicura spa, manicura spa. Se obsequiará con una sesión de presoterapia y un masaje de bienestar, para ser una novia guapa y relajada en su día más especial."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novios", 
+            "duration": 7200, 
+            "price": "203 € ", 
+            "description": "Este pack exclusivo para novios incluye: limpieza facial profunda, peeling corporal con sales del mar muerto traídas de Jerusalén, y 2 sesiones de tratamiento facial personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Power Hyaluronic", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Power Hyaluronic es un tratamiento de Skeyndor que está indicado para pieles deshidratadas en superficie o profundidad con microrelieve cutáneo irregular y pequeñas arrugas, manteniendo una hidratación continuada durante 24 horas. Para un rostro joven y radiante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tarifa Plana Mensual Presoterapia", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Oferta exclusiva de barra libre de presoterapia, que incluye un máximo de 3 sesiones de presoterapia a la semana (médicamente no se recomienda realizar más sesiones seguidas) durante un mes. Ideal para tonificar el cuerpo, modelar la figura, mejorar la circulación y la retención de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "165 € ", 
+            "description": "Bono de 3 sesiones de 1 hora cada una de tratamiento reductor, para lucir un cuerpo esbelto y tonificado. Consiste en aplicar una ampolla con principio activo de cafeína y té verde mediante un masaje, seguido de presoterapia y envoltura de sudatone (quemagrasa). Para finalizar, se aplicará una crema por medio de un masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Express", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Limpieza de cutis con aplicación de Vitamina C de Skeyndor. Se realizará un diagnóstico previo profesional con la Lámpara de Wood y después una limpieza superficial con desmaquillado, peeling, mascarilla e hidratación. No incluye extracción de comedones y puntos negros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Facial Con Colágeno Y Elastina", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este tratamiento facial se realiza con la aplicación de colágeno y elastina por medio de mesoterapia. De esta manera los activos penetran en mayor profundidad y los resultados son más efectovos. Es un servicio pensado para reafirmar la piel del rostro, dar volumen y brillo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Novias", 
+            "duration": 7200, 
+            "price": "245 € ", 
+            "description": "El servicio incluye limpieza facial profunda, peeling corporal con sales del mar muerto, 2 sesiones de tratamiento facial personalizado, tinte y permanente de pestañas, pedicura spa, manicura spa. Se obsequiará con una sesión de presoterapia y un masaje de bienestar, para ser una novia guapa y relajada en su día más especial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Y Plataforma", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Esta tratamiento incluye 20 minutos de presoterapia y 15 minutos de plataforma vibratoria. La Presoterapia es un tratamiento corporal que reduce, elimina y actúa como agente de prevención de grasas mediante el drenaje linfático. La Plataforma produce movimientos rítmicos vibratorios que se transmiten al cuerpo entero activando y contrayendo los músculos. Para un cuerpo activo y tonificado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "La Presoterapia es un tratamiento corporal que reduce, elimina y actúa como agente de prevención de grasas mediante el drenaje linfático. Ideal para piernas cansadas, con retención de líquidos, mala circulación y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Flacidez De Brazos", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Un pack combinado que incluye tratamiento con la más avanzada tecnología en aparatología reafirmante. Consiste en aplicar un tratamiento de electroestimulación y radiofrecuencia para que la piel de los brazos se tonifique y recupere su estado normal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Exfoliante Corporal Sales Del Mar Muerto", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Masaje exfoliante mineral a base de sales del mar muerto. Se trata de un tratamiento donde se aúnan los beneficios de un peeling y de un masaje. Al dar el masaje con amasamientos y fricciones rotatorias, se activa la circulación, y al realizar estos movimientos con sales marinas, provocamos una eliminación de las células muertas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto.Corporal: 1 Sesión De Láser Lipolítico Y Preso", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Pack que incluye sesión de láser lipolítico y presoterapia. Entre los beneficios más importantes del láser lipolítico: resultados visibles rápidos, tratamiento indoloro y no invasivo. La mejor forma para eliminar y drenar la grasa localizada en las zonas más resistentes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones De Rayos Uva", 
+            "duration": 900, 
+            "price": "80 € ", 
+            "description": "Promoción de 10 sesiones de 12 minutos cada una de rayos uva a un precio reducido. Perfecto para mantener la piel con un bronceado uniforme, natural y bonito en cualquier época del año o para un acontecimiento especial concreto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Despigmentante Con Ipl O Luz Pu", 
+            "duration": 3600, 
+            "price": "79 € ", 
+            "description": "La Luz Pulsada Intensa (IPL) consiste en la aplicación de un haz de luz similar al láser pero más versátil pudiendo modificar su longitud de onda. Sus indicaciones principales son los inestetismos provocados por el sol y el envejecimiento cronológico como las manchas, telangiectasias o rojeces faciales, poros anchos y arrugas finas. Las zonas más indicadas son la cara, manos y escote."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Estupendo tratamiento anti-edad con vitamina C que aporta a la piel los nutrientes y vitaminas necesarias para que brille por si misma. Recomendada como tratamiento preventivo a la aparición de manchas cutáneas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Electroestimulación Y Presoterapia", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Se trata del uso de aparatos que, mediante impulsos eléctricos, provocan contracciones musculares y, como consecuencia, un efecto similar al que se obtendría ejercitando los músculos. De esta forma se consigue combatir la flacidez, aumentar el tono muscular y tonificar diferentes zonas como brazos, abdomen, glúteos y piernas. Este tratamiento incluye 30 minutos de electroestimulación y 40 minutos de presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Sesión De Vitamina C", 
+            "duration": 5400, 
+            "price": "69 € ", 
+            "description": "Pack combinado de tratamientos faciales pensados para revitalizar la piel del cutis, cuidándola y aportándole vitaminas. Tras una limpieza de cutis se aplicará la esencia de Vitamina C de Skeyndor, para aportar a la piel más luminosidad. Además, se realizará un diagnóstico previo profesional con la Lámpara de Wood para conocer el estado de la piel y sus necesidades."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Presoterapia Y Plataforma", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Esta tratamiento incluye 40 minutos de presoterapia y 20 minutos de plataforma vibratoria. La Presoterapia es un tratamiento corporal que reduce, elimina y actúa como agente de prevención de grasas mediante el drenaje linfático. La Plataforma produce movimientos rítmicos vibratorios que se transmiten al cuerpo entero activando y contrayendo los músculos. Para un cuerpo activo y tonificado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Exprés Exfoliante", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Un tratamiento exprés pero efectivo pensado para renovar las piel del cutis y eliminar las células muertas y las imperfecciones superficiales. Tratamiento facial exprés para limpiar, exfoliar e hidratar la piel de la cara. Para una piel más luminosa y fresca."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "35 € ", 
+            "description": "Consigue ese moreno deseado para lucir mucho más guap@, o mantén, en cualquier época del año ese color que tanto te favorece. ¡Reserva ya tu bono de 5 sesiones en el centro Alma, Belleza y Medicina!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 8 Ss Tratamiento Corporal Vendas", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "Pack de 8 Sesiones de 1 hora cada una. Se compone por unas vendas que van impregnadas en varios principios activos para diferentes problemáticas. Se empezará con una exfoliación en la piel, seguida por la aplicación de las vendas, y si es necesario presoterapia. Por último se retirarán las vendas y se masajeará con una crema especifica. Para reafirmar, reducir y remodelar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Pecho Y Espalda Especial Hombre", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Exfoliación para pecho y espalda, exclusivo para hombres, que ayuda a eliminar las células muertas y estimula la regeneración celular. Este tratamiento previene el envejecimiento, devolviendo a la piel un aspecto más uniforme y un tacto más suave."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Vitalidad Para Hombres", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Tratamiento exclusivamente diseñado para hombres y pensado para cuidar la salud de su piel y procurarle el mayor bienestar y juventud. Esta limpieza se realiza de manera profunda paso a paso, con un tratamiento especial revitalizante e hidratacíón. El resultado es una piel libre de imperfecciones, más luminosa y más cuidada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Cutis Especial Hombre", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Limpieza de cutis especifica desarrollada por los profesionales estéticos de Alma, Belleza y Medicina para la piel de los hombres. Con este tratamiento se consigue eliminar impurezas y dar luminosidad a la piel. Incluye diagnóstico previo y realización paso a paso con cosméticos específicos de la mejor calidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "El tratamiento se basa en un masaje profundo para trabajar las capas internas de la piel, llevando a cabo un movimiento interno del tejido y eliminando las adherencias internas. Se utilizarán cremas y aceites especiales drenantes, con uso de técnicas manuales para tratar zonas distales que ayudan a eliminar líquidos y fomentar el aumento de la circulación sanguínea. Duración exacta del servicio: 40 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico Y Presoterapia", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Este tratamiento consiste en un masaje que se realiza con aceites esenciales totalmente naturales. Su aplicación es con una presión fuerte y una velocidad más rápida que de la manera habitual. Incluye sesión de presoterapia, para estimular la circulación sanguínea. Ideal para deshacerse de la grasa no deseada en zonas localizadas como los muslos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reafirmante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "El masaje reafirmante está indicado para conseguir un efecto de reafirmación del tejido. Aunque se puede dar en muchas partes del cuerpo, habitualmente se realiza a niveles de abdomen, glúteos y parte posterior del muslo. Con el masaje reafirmante se devuelve a la zona esa falta de nutrientes y oxígeno necesarios, consiguiendo de esta forma reafirmar el tejido y un aspecto más joven de la piel. La duración del masaje es de 40 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Unisex Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La Microdermoabrasión con Punta de Diamante es una técnica novedosa para mantener la piel joven, ya que elimina las capas exteriores de células muertas en la piel. Es un sistema que usa diminutas partículas de diamante que actúa eficazmente sobre la epidermis y sin dejar restos en la piel. De forma totalmente indolora y con resultados inmediatos, rápidamente mejora y reduce las líneas alrededor de los ojos y boca, difumina las cicatrices de acné y disimula las estrías."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Unisex Facial", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "La radiofrecuencia es una técnica no quirúrgica, nada agresiva y sin efectos secundarios. Desde la primera sesión se ven resultados inmediatos, una piel más hidratada, firme y lisa. La radiofrecuencia facial además mejora ojeras, bolsas y arrugas. El primer día se consigue un efecto flash, mientras que el verdadero resultado se ve a los 28 o 29 días cuando el colágeno ha conseguido una mayor activación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "El tratamiento de Cavitación consiste en aplicar ultrasonidos en determinadas zonas del cuerpo para reducir la grasa localizada, de una forma indolora y no agresiva. Sucesivamente se aplicará la Presoterapia para tonificar la figura y eliminar la celulitis. La duración de la Cavitación es de 20 minutos y la de Presoterapia 25 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Pack de tratamientos para la mirada pensado para dar intensidad a losojos. Tratamiento de tinte para oscurecer el color de las pestañas y rizado para conseguir la forma perfecta. el resultado es un efecto máscara de pestañas las 24 horas que dura varias semanas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Tratamiento a base de masaje con aplicación de una ampolla con principio activo de cafeína y té verde, seguida por presoterapia y envoltura de sudatones (quemagrasas). Para finalizar, se aplicará una crema para completar el efecto reductor."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor De Vendas", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Consiste en vendas impregnadas en varios principios activos para diferentes problemáticas. Se empieza con una exfoliación en la piel, seguida por la aplicación de las vendas y si es necesario una sesión de presoterapia. Se finalizará con la retiración de las vendas y un masaje con crema específica."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Manta De Sudoración", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Primero se aplicará en todo el cuerpo un producto natural o químico según la preferencia de la persona. Posteriormente se envolverá el cuerpo con una manta de un material impermeable que desprende calor subiendo paulatinamente la temperatura. Este aumento de la temperatura provoca un incremento del metabolismo basal, lo cual se traducirá en un mayor consumo de calorías. Ideal para personas con sobrepeso y retención de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Unisex Con Peeling Ultrasónico", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "El Peeling Ultrasónico es un tratamiento que consiste en un aparato que emite ondas de ultrasonido para que produzcan una regeneración de la piel de colágeno y elastina. Tiene una espátula de acero quirúrgico que va eliminando las impurezas de forma totalmente indolora. Además minimiza las pigmentaciones o manchas, arrugas finas o líneas de expresión. Los resultados son inmediatos sintiendo una piel limpia, renovada, más elástica e hidratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Plataforma Vibratoria", 
+            "duration": 900, 
+            "price": "3 € ", 
+            "description": "Este servicio incluye una sesión de 10 minutos en la plataforma vibratoria de Alma, Belleza y Medicina. 10 minutos en Plataforma Vibratoria equivalen a 10 km de caminata o 1 hora de actividad física. Es ideal para adelgazar sin tanto esfuerzo. Para resultados eficaces es combinar el tratamiento continuado con alimentación saludable."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Ultra Reductor De Skeyndor", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Tratamiento que incluye presoterapia para activar la circulación y facilitar la absorción de los diferentes principios activos. Sucesivamente se aplicará un concentrado que produce calor, después un biológico para tratar la celulitis resistente, y por ultimo una envoltura corporal de masaje para moldear la silueta y redefinir volúmenes. Productos científicos de la marca Skeyndor."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Corrective Skeyndor", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Corrective de Skeyndor ofrece una alternativa real a los tratamientos quirúrgicos con su gama de productos inspirada en tratamientos médico estéticos, siendo en la actualidad la revolución de la cosmética para la mujer. Este tratamiento contribuye a eliminar las arrugas, incluso las más profundas, rejuvenece la expresión y devuelve a la piel su aspecto terso y joven."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Eternal Line Skeyndor", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Eternal Line de Skeyndor está científicamente probado como un elixir de vida que ejerce un extraordinario efecto rejuvenecedor que mejora todos los aspectos relacionados con el envejecimiento prematuro de la piel de una manera global y perdurable en el tiempo. Para un rostro radiante y joven."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Power Retinol Skeyndor", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Power Retinol de Skeyndor es considerado como 'El Oro' en el uso de tratamientos de antienvejecimiento, siendo su misión rejuvenecer las pieles envejecidas por causas naturales o por el sol reparando arrugas, manchas, cicatrices, poros dilatados, etc. Para un rostro joven y bello."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante Con Aromaterapia", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Este servicio incluye una sesión de masaje relajante con aromaterapia de 50 minutos. El masaje con aromaterapia combina los beneficios de la aromaterapia con las bondades del masaje terapeutico, entregando en cada masaje relajación y placer, además de excelentes propiedades curativas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Labio", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Depilación con cera caliente de la zona del labio superior. El servicio se realiza por la mano profesional de las esteticistas de Alma, Belleza y Medicina con cera de la mejor calidad para lograr una retirada del vello limpia sin dejar rojeces, que dura hasta 2 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Diseño De Cejas", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Servicio de diseño de cejas con visagismo realizado por los especialistas en imagen de Alma, Belleza y Medicina. Se realiza un estudio para depilar las cejas según la forma del rostro y del gusto de cada clienta. Perfecto para lucir una mirada más atractiva y con estilo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Retoque Y Depilación De Cejas", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Servicio de mantenimiento del diseño de cejas, pensado para mantener el look perfecto con un repaso rápido. Se realiza por los expertos en imagen de Alma, Belleza y Medicina mediante pinzas o cera, según las necesidades de cada clienta."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Fotodepilación Ingles Normales Y Axilas", 
+            "duration": 1800, 
+            "price": "39 € ", 
+            "description": "Este servicio incluye una sesión de fotodepilación para eliminar el vello del ingles y de las axilas. La fotodepilación es un servicio de depilación que se realiza a través de una luz que permite eliminar el vello de manera semipermanente o permanente. Método indoloro y efectivo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Despigmentante Con Ipl O Luz Pu", 
+            "duration": 3600, 
+            "price": "79 € ", 
+            "description": "La Luz Pulsada Intensa (IPL) consiste en la aplicación de un haz de luz similar al láser pero más versátil pudiendo modificar su longitud de onda. Sus indicaciones principales son los inestetismos provocados por el sol y el envejecimiento cronológico como las manchas, telangiectasias o rojeces faciales, poros anchos y arrugas finas. Las zonas más indicadas son la cara, manos y escote."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Brazos Enteros", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Servicio de depialción específico para la zona de los brazos, realizado con cera caliente o tibia de la mejor calidad por la mano experta de las esteticistas profesionales de Alma, Belleza y Medicina. El resultado son unos brazos libres de vello y suaves hasta 2 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Hombre Espalda", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Este servicio incluye una sesión de depilación para la zona de la espalda. Se realiza con cera de la mejor calidad por la mano experta de las esteticistas de Alma, Belleza y Medicina, para lograr el mejor resultado en sólo 15 minutos. La piel se mantiene suave y libre de vello hasta 3 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Hombre Espalda Y Hombros", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Servicio específico para hombres que incluye una sesión de depilación con cera de la mejor calidad y realizada con la profesionalidad de las expertas esteticistas de Alma, Belleza y Medicina. Este pack de depilación incluye la zona de la espalda y los hombros. Los resultados duran hasta 3 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Hombre Hombros", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "Servicio específico de depilación pensado para eliminar de forma rápida y eficaz el vello de la zona de los hombros.Se realiza con cera de la mejor calidad y la mano experta de las esteticistas del centro, para lograr unos resultados que duran hasta 3 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación De Axilas Con Cera", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "Este servicio de depilación se realiza con cera caliente de calidad, específica para tratar zonas sensibles. Este servicio incluye una sesión para la zona de las axilas. Los resultados se mantienen hasta 3 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación De Ingles Con Cera", 
+            "duration": 1800, 
+            "price": "7 € ", 
+            "description": "Este servicio de depilación se realiza con cera caliente de calidad, específica para tratar zonas sensibles. Este servicio incluye una sesión para la zona de las ingles. Los resultados se mantienen hasta 2 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Ingles Brasileñas Con Cera", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Este servicio de depilación se realiza con cera caliente de calidad, específica para tratar zonas sensibles. Este servicio incluye una sesión para la zona de las ingles, estilo brasileñas. Los resultados se mantienen hasta 2 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Medios Brazos Cera", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Servicio de depilación con cera específico para la zona de medios brazos, realizado con cera de calidad y la profesionalidad de las esteticistas de Alma, Belleza y Medicina. Los resultados se mantienen hasta 3 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Piernas Enteras Con Cera", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Este servicio de depilación es específico para realizarse en piernas enteras con cera fría de gran calidad. El tratamiento se realiza en 30 minutos por la mano experta de los expertos esteticistas de Alma, Belleza y Medicina. El resultado es unas piernas suaves y libres de vello durante hasta 3 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Pubis Con Cera", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Servicio específico de depilación para la zona del pubis realizado con cera caliente, realizada con el máximo cuidado para no irritar la zona. Esta zona se mantiene suave y libre de vello durante hasta 3 semanas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Relajante Con Aromaterapia", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Este servicio incluye una sesión de masaje relajante con aromaterapia de 50 minutos. El masaje con aromaterapia combina los beneficios de la aromaterapia con las bondades del masaje terapeutico, entregando en cada masaje relajación y placer, además de excelentes propiedades curativas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Electroestimulación Y Presoterapia", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Se trata del uso de aparatos que, mediante impulsos eléctricos, provocan contracciones musculares y, como consecuencia, un efecto similar al que se obtendría ejercitando los músculos. De esta forma se consigue combatir la flacidez, aumentar el tono muscular y tonificar diferentes zonas como brazos, abdomen, glúteos y piernas. Este tratamiento incluye 30 minutos de electroestimulación y 40 minutos de presoterapia."
+        }
+    ]
+}

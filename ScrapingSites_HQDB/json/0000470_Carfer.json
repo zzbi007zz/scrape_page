@@ -1,0 +1,135 @@
+{
+    "adid": null, 
+    "name": "Carfer", 
+    "name_of_contact": "Carfer", 
+    "scrape_page": "https://www.bucmi.com/carfer", 
+    "business_website": "https://www.bucmi.com/carfer", 
+    "areas_covered": null, 
+    "description": "Disfrutarás de los mejores tratamiento desde 1989, dando estilo en Villaverde Alto, Madrid. Carfer Peluqueros se encuentra a tu disposición. Ven a conocernos, no te arrepentirás. Reserva nuestros completos cortes de pelo, mechas, coloraciones....", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635659038409074787.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635659038446890252.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635659038465172916.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635659038486737100.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635659038546116736.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "Madrid, Madrid, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "917953207", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3468408000", 
+    "longitude": "-3.7109239000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971830989031683.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Corte de pelo para hombre o mujer asesorado por nuestros profesionales. El servicio no incluye el lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Media Melena", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "Tinte color a elegir. El servicio incluye el lavado con champú específico para tu tipo de cabello. El servicio no incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "12,15 € ", 
+            "description": "Luce un peinado perfecto a elegir. El servicio incluye el lavado con champú específico para tu tipo de cabello y productos de acabado. No incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Corte de pelo para hombre o mujer asesorado por nuestros profesionales. El servicio no incluye el lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Melena", 
+            "duration": 7200, 
+            "price": "33 € ", 
+            "description": "Consigue unas mechas perfectas. El servicio incluye el lavado con champú específico para tu tipo de cabello y productos de acabado. No incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Corto", 
+            "duration": 7200, 
+            "price": "30 € ", 
+            "description": "Luce unas mechas espectaculares. El servicio incluye el lavado con champú específico para tu tipo de cabello y productos de acabado. No incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Largo", 
+            "duration": 7200, 
+            "price": "36 € ", 
+            "description": "Consigue unas mechas perfectas. El servicio incluye el lavado con champú específico para tu tipo de cabello y productos de acabado. El servicio no incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "11,15 € ", 
+            "description": "Peinado a elegir. El servicio incluye el lavado con champú específico para tu tipo de cabello y productos de acabado. No incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "13,15 € ", 
+            "description": "El servicio incluye el lavado con champú específico para tu tipo de cabello y productos de acabado. No incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Pelo Corto", 
+            "duration": 3600, 
+            "price": "21 € ", 
+            "description": "Luce un color espectacular. El servicio incluye el lavado con champú específico para tu tipo de cabello. El servicio no incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Pelo Largo", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Tinte color a elegir. Incluye el lavado con champú específico para tu tipo de cabello. No incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Media Melena", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "Tinte color a elegir. El servicio incluye el lavado con champú específico para tu tipo de cabello. El servicio no incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "12,15 € ", 
+            "description": "Luce un peinado perfecto a elegir. El servicio incluye el lavado con champú específico para tu tipo de cabello y productos de acabado. No incluye crema o mascarilla."
+        }
+    ]
+}

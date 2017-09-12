@@ -1,0 +1,126 @@
+{
+    "adid": null, 
+    "name": "Mary Centro de Uñas", 
+    "name_of_contact": "Mary Centro de Uñas", 
+    "scrape_page": "https://www.bucmi.com/marycentrounas", 
+    "business_website": "https://www.bucmi.com/marycentrounas", 
+    "areas_covered": null, 
+    "description": "Centro especializado en el cuidado y embellecimiento de las uñas, en Patraix. Disponemos de uñas de gel y porcelana con decoraciones adaptadas a tu estilo de vida y preferencia.Obtendrás un trato amable, calidad y buen servicio con precios económicos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635780252463272055.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635780252469229844.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635780252640795389.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46018", 
+    "formatted_address": "Valencia, 46004, Valencia, 46006, Valencia, 46005, Valencia, 46005, Valencia, 46003, Valencia, 46007, Valencia, 46023, Valencia, 46002, Valencia, 46007, Valencia, 46018", 
+    "country": "es", 
+    "office_number": "963813704", 
+    "office_number2": null, 
+    "mobile_number": "646653510", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4618912000", 
+    "longitude": "-0.3902752000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635948431558695780.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 2700, 
+            "price": "13 € ", 
+            "description": "Disfruta de una manicura completa y déjate mimar por nuestros especialistas. Incluye limado, tratamiento e hidratación de cutículas y esmaltado a tu gusto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Manicura completa y esmaltado de hasta dos semanas de duración ¡Sin tener que esperar a que tus uñas sequen!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Completa", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Esta pedicura hará que tengas tus pies perfectos, con limado de uñas, tratamiento de durezas, hidratación y el esmalte que tú elijas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Higiene facial para eliminar sustancias acumuladas de tu día a día. Lucirás una piel perfecta. Despejarás todas las impurezas de tu rostro. Incluye desmaquillado, tónico, limpiamos los poros, crema final. Aporta una sensación de suavidad y limpia tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Con este tratamiento de extensiones de pestañas, lucirás unas pestañas espectaculares y naturales a la vez. Disfruta de una mirada infinita."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 5400, 
+            "price": "27 € ", 
+            "description": "Riza tus pestañas y consigue ese negro deseado, gracias a este permanente y tinte de pestañas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Higiene facial para eliminar sustancias acumuladas de tu día a día. Lucirás una piel perfecta. Despejarás todas las impurezas de tu rostro. Incluye desmaquillado, tónico, limpiamos los poros, crema final. Aporta una sensación de suavidad y limpia tu piel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Con este tratamiento de extensiones de pestañas, lucirás unas pestañas espectaculares y naturales a la vez. Disfruta de una mirada infinita."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 5400, 
+            "price": "27 € ", 
+            "description": "Riza tus pestañas y consigue ese negro deseado, gracias a este permanente y tinte de pestañas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa", 
+            "duration": 2700, 
+            "price": "13 € ", 
+            "description": "Disfruta de una manicura completa y déjate mimar por nuestros especialistas. Incluye limado, tratamiento e hidratación de cutículas y esmaltado a tu gusto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Semipermanente", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Manicura completa y esmaltado de hasta dos semanas de duración ¡Sin tener que esperar a que tus uñas sequen!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Completa", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Esta pedicura hará que tengas tus pies perfectos, con limado de uñas, tratamiento de durezas, hidratación y el esmalte que tú elijas."
+        }
+    ]
+}

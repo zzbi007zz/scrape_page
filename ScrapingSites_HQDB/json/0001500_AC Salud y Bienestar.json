@@ -1,0 +1,202 @@
+{
+    "adid": null, 
+    "name": "AC Salud y Bienestar", 
+    "name_of_contact": "AC Salud y Bienestar", 
+    "scrape_page": "https://www.bucmi.com/acsaludybienestar", 
+    "business_website": "https://www.bucmi.com/acsaludybienestar", 
+    "areas_covered": null, 
+    "description": "AC es una clínica de estética integral ubicada en Bilbao. Nuestro centro cuenta con tratamientos faciales y corporales de última generación para que puedas sentirte guapa en todo momento. ¡Ahora ya puedes pedir cita online a través de Bucmi!!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719521185012.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719546184884.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719572747618.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719595091211.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719622434872.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719645567332.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719672598170.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719700799588.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635732719762124433.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Bilbao", 
+    "zipcode": "Vizcaya", 
+    "formatted_address": "Bilbao, Vizcaya, Bilbao, 48004, Bilbao, Vizcaya", 
+    "country": "es", 
+    "office_number": "944135399", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.2678793000", 
+    "longitude": "-2.9260454000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970695600701.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser Piernas Enteras", 
+            "duration": 2700, 
+            "price": "165 € ", 
+            "description": "Olvídate de la depilación gracias a esta sesión de depilación láser Neodymio Yang en la zona de las piernas enteras."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Con Aromaterapia", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "El servicio incluye limpieza y desmaquillado de la piel, extracción de impurezas, hidratación de la piel y mascarilla con aromaterapia y masaje relajante facial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "¿Te gustaría lucir una mirada de cine? ¡Ahora puedes tener la mirada que siempre has soñado sin necesidad del rimmel! Gracias a nuestro servicio de tinte y permanente de pestañas, verás como tus pestañas destacan mucho más."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Aromaterapia", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "El servicio incluye limpieza y desmaquillado de la piel, extracción de impurezas, hidratación de la piel y mascarilla con aromaterapia y masaje relajante facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "¿Te gustaría lucir una mirada de cine? ¡Ahora puedes tener la mirada que siempre has soñado sin necesidad del rimmel! Gracias a nuestro servicio de tinte y permanente de pestañas, verás como tus pestañas destacan mucho más."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Ipl", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "¡Rejuvenece tu rostro gracias a esta sesión de nuestro tratamiento facial antiedad! Utilizamos fotorrejuvenicimiento IPL con luz pulsada intensa. Gracias a este servicio podrás sentir tu piel mucho más joven."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Aromaterapia", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "El servicio incluye limpieza y desmaquillado de la piel, extracción de impurezas, hidratación de la piel y mascarilla con aromaterapia y masaje relajante facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "¿Te gustaría lucir una mirada de cine? ¡Ahora puedes tener la mirada que siempre has soñado sin necesidad del rimmel! Gracias a nuestro servicio de tinte y permanente de pestañas, verás como tus pestañas destacan mucho más."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Antiedad Ipl", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "¡Rejuvenece tu rostro gracias a esta sesión de nuestro tratamiento facial antiedad! Utilizamos fotorrejuvenicimiento IPL con luz pulsada intensa. Gracias a este servicio podrás sentir tu piel mucho más joven."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Piernas Enteras", 
+            "duration": 2700, 
+            "price": "165 € ", 
+            "description": "Olvídate de la depilación gracias a esta sesión de depilación láser Neodymio Yang en la zona de las piernas enteras."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Axilas - 3 Sesiones", 
+            "duration": 900, 
+            "price": "135 € ", 
+            "description": "Depilación Láser Axilas - 3 SesionesEn AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. El servicio incluye 3 sesiones de la zona de las axilas. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Ingles Brasileñas - 3 Sesiones", 
+            "duration": 900, 
+            "price": "195 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. El servicio incluye 3 sesiones de la zona de ingles brasileñas. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Ingles Normales - 3 Sesiones", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. El servicio incluye 3 sesiones de la zona de ingles normales ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Interglúteo - 3 Sesiones", 
+            "duration": 900, 
+            "price": "135 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. El servicio incluye 3 sesiones de la zona del interglúteo. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Labio Superior - 3 Sesiones", 
+            "duration": 900, 
+            "price": "105 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. El servicio incluye 3 sesiones de la zona del labio superior. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Mentón - 3 Sesiones", 
+            "duration": 900, 
+            "price": "120 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. El servicio incluye 3 sesiones de la zona del mentón. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Pubis Completo - 3 Sesiones", 
+            "duration": 1800, 
+            "price": "225 € ", 
+            "description": "En AC Salud utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. El servicio incluye 3 sesiones de la zona del pubis completo. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Axilas", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. La sesión incluye la zona de las axilas. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Ingles Brasileñas", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. La sesión incluye la zona de ingles brasileñas. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Ingles Normales", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. La sesión incluye la zona de ingles normales. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Interglúteo", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "En AC Salud y Bienestar utilizamos láser de neodimio yag. Este revolucionario sistema permite tratar grandes superficies y garantiza la eliminación del vello con resultados duraderos. La sesión incluye la zona del interglúteo. ¡Y olvídate del vello!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Higiene Facial Con Aromaterapia", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "El servicio incluye limpieza y desmaquillado de la piel, extracción de impurezas, hidratación de la piel y mascarilla con aromaterapia y masaje relajante facial."
+        }
+    ]
+}

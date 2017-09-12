@@ -1,0 +1,101 @@
+{
+    "adid": null, 
+    "name": "Baños Árabes Palacio de Comares", 
+    "name_of_contact": "Baños Árabes Palacio de Comares", 
+    "scrape_page": "https://www.bucmi.com/palaciodecomares", 
+    "business_website": "https://www.bucmi.com/palaciodecomares", 
+    "areas_covered": null, 
+    "description": "Vivirás una experiencia única que te servirá para renovar energías. Los Baños Árabes Real de la Alhambra, en Granada, son una réplica fiel de baños del Palacio de Comares. Sumégete en sus aguas y relájate disfrutando a través de su circuito spa.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615161451651759.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615161458839820.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615161459464882.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615161466184122.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615161468996859.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615161473059659.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Granada", 
+    "zipcode": "18008", 
+    "formatted_address": "Granada, 18008", 
+    "country": "es", 
+    "office_number": "958222889", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1634500000", 
+    "longitude": "-3.5705900000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962346753192878.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Circuito Árabe 2 Personas", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Reserva ahora tu servicio y ven con la persona que prefieras. El servicio incluye 3 piscinas de diferentes temperaturas: Templada de relajación, Caliente con Jacuzzi, Chorro de Lumbar y Cervicales, Fría, Baño Turco y Crioterapia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Circuito Real 2X1", 
+            "duration": 5400, 
+            "price": "72 € ", 
+            "description": "Servicio 2x1 para ir con acompañante. El servicio incluye 3 piscinas de diferentes temperaturas: Templada de relajación, Caliente con Jacuzzi, Chorro de Lumbar y Cervicales, Fría, Baño Turco y Crioterapia y masaje de 15 minutos en piernas o espalda."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Circuito Árabe", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "El servicio incluye 3 piscinas de diferentes temperaturas: Templada de relajación, Caliente con Jacuzzi, Chorro de Lumbar y Cervicales, Fría, Baño Turco y Crioterapia."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Circuito Árabe 2 Personas", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Reserva ahora tu servicio y ven con la persona que prefieras. El servicio incluye 3 piscinas de diferentes temperaturas: Templada de relajación, Caliente con Jacuzzi, Chorro de Lumbar y Cervicales, Fría, Baño Turco y Crioterapia."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Circuito Real 2X1", 
+            "duration": 5400, 
+            "price": "72 € ", 
+            "description": "Servicio 2x1 para ir con acompañante. El servicio incluye 3 piscinas de diferentes temperaturas: Templada de relajación, Caliente con Jacuzzi, Chorro de Lumbar y Cervicales, Fría, Baño Turco y Crioterapia y masaje de 15 minutos en piernas o espalda."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Circuito Califa", 
+            "duration": 7200, 
+            "price": "46 € ", 
+            "description": "El servicio incluye 3 piscinas de diferentes temperaturas: Templada de relajación, Caliente con Jacuzzi, Chorro de Lumbar y Cervicales, Fría, Baño Turco y Crioterapia y masaje de 15 minutos en piernas o espalda y Ducha Jet."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Circuito Real Romántico 2X1", 
+            "duration": 5400, 
+            "price": "95 € ", 
+            "description": "Disfruta de un momento de relajación con tu pareja. El circuito incluye piscina de agua caliente, piscina de agua fría, piscina dinámica, baño turco, cryterapia, zona relax con degustación, masaje de 15 minutos, cena, cava y kit romántico."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Circuito Árabe", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "El servicio incluye 3 piscinas de diferentes temperaturas: Templada de relajación, Caliente con Jacuzzi, Chorro de Lumbar y Cervicales, Fría, Baño Turco y Crioterapia."
+        }
+    ]
+}

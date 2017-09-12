@@ -1,0 +1,100 @@
+{
+    "adid": null, 
+    "name": "Fuente de Salud Caleruega", 
+    "name_of_contact": "Fuente de Salud Caleruega", 
+    "scrape_page": "https://www.bucmi.com/saludcaleruega", 
+    "business_website": "https://www.bucmi.com/saludcaleruega", 
+    "areas_covered": null, 
+    "description": "El centro de fisioterapia y fitness, situado en Pinar del Rey, cuenta con tratamientos de osteopatía y entrenamientos totalmente personalizados para ayudarte a estar en forma. Nuestro único objetivo es que tu rendimiento físico mejore mientras disfrutas.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818025241934935.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818025253653650.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818025265841194.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818025281153546.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818025293653603.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Caleruega, 54", 
+    "city": "Madrid", 
+    "zipcode": "28033", 
+    "formatted_address": "C/ Caleruega, 54, Madrid, 28033", 
+    "country": "es", 
+    "office_number": "917671547", 
+    "office_number2": null, 
+    "mobile_number": "691344533", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4811758000", 
+    "longitude": "-3.6727244999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970155288752.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Entrenamiento Personal. Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "420 € ", 
+            "description": "Entrenamiento para personas acostumbradas a hacer ejercicio. El servicio se adapta y se controla individualmente. Incluye tabla de ejercicios, que se irá cambiando según el progreso, medición del indice de grasa corporal y dieta personalizada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones De Osteopatía", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Bono de 5 Sesiones de una hora cada una de esta terapia manual que ayuda a aliviar, corregir y recuperar lesiones musculo-esqueléticas y patologías orgánicas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones De Osteopatía", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Bono de 5 Sesiones de una hora cada una de esta terapia manual que ayuda a aliviar, corregir y recuperar lesiones musculo-esqueléticas y patologías orgánicas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Disciplina terapéutica basada en la anatomía y fisiología del cuerpo humano. Terapia manual que ayuda a aliviar, corregir y recuperar lesiones musculo-esqueléticas y patologías orgánicas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 5 Sesiones De Osteopatía", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Bono de 5 Sesiones de una hora cada una de esta terapia manual que ayuda a aliviar, corregir y recuperar lesiones musculo-esqueléticas y patologías orgánicas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Disciplina terapéutica basada en la anatomía y fisiología del cuerpo humano. Terapia manual que ayuda a aliviar, corregir y recuperar lesiones musculo-esqueléticas y patologías orgánicas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Entrenamiento personal principiantes. 20 sesiones", 
+            "duration": 3600, 
+            "price": "1000 € ", 
+            "description": "Entrenamiento para personas no acostumbradas a hacer ejercicio. El servicio se adapta y se controla individualmente. Incluye tabla de ejercicios, que se irá adaptando al progreso, medición del indice de grasa corporal, dieta personalizada, video y monitor"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Entrenamiento Personal. Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "420 € ", 
+            "description": "Entrenamiento para personas acostumbradas a hacer ejercicio. El servicio se adapta y se controla individualmente. Incluye tabla de ejercicios, que se irá cambiando según el progreso, medición del indice de grasa corporal y dieta personalizada."
+        }
+    ]
+}

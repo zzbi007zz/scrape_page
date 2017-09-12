@@ -1,0 +1,112 @@
+{
+    "adid": null, 
+    "name": "Sunie Yoga", 
+    "name_of_contact": "Sunie Yoga", 
+    "scrape_page": "https://www.bucmi.com/sunnieyoga", 
+    "business_website": "https://www.bucmi.com/sunnieyoga", 
+    "areas_covered": null, 
+    "description": "Espacio acogedor de la zona de Malasaña liderado por Gurmukh Singh y Hansmukh Kaur. Disponemos de servicios como el Kundalini Yoga, Reiki, Shiatsu... Descubre nuestro centro y relájate con nosotros. Reserva tu cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829432313833048.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829432322895521.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829432332895487.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "8,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Madera, 47", 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "C/ Madera, 47, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "916120066", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4245674999", 
+    "longitude": "-3.7034200000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908726445998571.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Quiromasaje", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Técnica manual de masaje, para el tratamiento de contracturas, esquinces, lesiones y también para descargar tensiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reiki", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Terapia alternativa que trata de lograr la sanación o equilibrio, mediante la imposición de las manos, con el fin de canalizar la energía universal, que permite tratar enfermedades ydesequilibrios físicos y mentales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Metamórfico", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Consiste en un toque suave e intuitivo de los pies, las manos y la cabeza. Se utiliza para sanar el cuerpo, las emociones, la mente y el espíritu. Es ideal para mujeres embarazadas y bebés, enfermos y discapacitados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Terapia basada en conseguir la correcta canalización de la energía vital (Chi) mediante la presión, en ciertos puntos clave de nuestro cuerpo, ejercida con los dedos y las palmas de las manos. Este técnica tradicional japonesa te aliviará ciertos dolores y mejorar así tu calidad de vida. Ponte en manos de nuestro equipo de profesionales cualificados. ¡Reserva en Bucmi y notarás los resultados!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Quiromasaje", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Técnica manual de masaje, para el tratamiento de contracturas, esquinces, lesiones y también para descargar tensiones."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Metamórfico", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Consiste en un toque suave e intuitivo de los pies, las manos y la cabeza. Se utiliza para sanar el cuerpo, las emociones, la mente y el espíritu. Es ideal para mujeres embarazadas y bebés, enfermos y discapacitados."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Terapia basada en conseguir la correcta canalización de la energía vital (Chi) mediante la presión, en ciertos puntos clave de nuestro cuerpo, ejercida con los dedos y las palmas de las manos. Este técnica tradicional japonesa te aliviará ciertos dolores y mejorar así tu calidad de vida. Ponte en manos de nuestro equipo de profesionales cualificados. ¡Reserva en Bucmi y notarás los resultados!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Quiromasaje", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Técnica manual de masaje, para el tratamiento de contracturas, esquinces, lesiones y también para descargar tensiones."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Metamórfico", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Consiste en un toque suave e intuitivo de los pies, las manos y la cabeza. Se utiliza para sanar el cuerpo, las emociones, la mente y el espíritu. Es ideal para mujeres embarazadas y bebés, enfermos y discapacitados."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Kundalini Yoga 1 Clase A La Semana Durante Un Mes", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Combina ejercicios de respiración, movimiento, estiramientos y sonido. Mantiene el cuerpo en forma, incrementa la vitalidad, entrena la mente, fortalece el sistema nervioso, mejora el potencial creativo, la calidad del sueño, concentración y memoria."
+        }
+    ]
+}

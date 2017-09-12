@@ -1,0 +1,183 @@
+{
+    "adid": null, 
+    "name": "Li Beauty Lounge", 
+    "name_of_contact": "Li Beauty Lounge", 
+    "scrape_page": "https://www.bucmi.com/li-beauty-lounge", 
+    "business_website": "https://www.bucmi.com/li-beauty-lounge", 
+    "areas_covered": null, 
+    "description": "El centro de estética Li Beauty Lounge situado en El Ensanche, Barcelona, ofrece gran variedad de tratamientos faciales como extensiones de pestañas de diferentes volúmenes y servicios de uñas tales como manicuras y pedicuras. Reserva tu cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636167217624137064.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636167217639293164.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636167217686011992.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636167217703199401.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "7,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Provenca, 183", 
+    "city": "Barcelona", 
+    "zipcode": "08036", 
+    "formatted_address": "C/ Provenca, 183, Barcelona, 08036", 
+    "country": "es", 
+    "office_number": "935306023", 
+    "office_number2": null, 
+    "mobile_number": "615721126", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3911820000", 
+    "longitude": "2.1563644000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636167219263197292.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 7200, 
+            "price": "70 € ", 
+            "description": "En nuestro centro somos expertos en mimarte y que te sientas bien. Por eso, cuidamos cada detalle logrando unos resultados fantásticos. Atrévete con nuestras extensiones de pestañas colocadas pelo a pelo y luce unas pestañas efecto máscara de pestañas, sin necesidad de usar máscaras u otros utensilios para conseguir ¡una mirada asombrosa!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Uñas De Gel", 
+            "duration": 9000, 
+            "price": "59 € ", 
+            "description": "¿No consigues el largo deseado en tus uñas y no sabes como hacer para dejar de mordertelas o que dejen de estar tan débiles? Este es el servicio que estabas buscando. En nuestro centro esculpimos las uñas de gel con la longitud y forma que desees y el esmaltado semipermanente que tu elijas. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño De Cejas Completo Y Tinte", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Realizamos un estudio facial de tu rostro para adaptar el arco de ceja que más se adecue a tus facciones. Posteriormente depilamos tus cejas para que salgas del centro realmente guapa. Las cejas son un punto clave en la expresión y personalidad de cualquier rostro, por lo que un buen cuidado es esencial. Luce una mirada atractiva y seductora. Dí adiós a tu máscara de pestañas. Estarás perfectas desde primera hora de la mañana. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Volumen 2D", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen 2D. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Volumen 3D", 
+            "duration": 10800, 
+            "price": "90 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen 3D. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Volumen Ruso", 
+            "duration": 10800, 
+            "price": "100 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen Ruso. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Con Esmaltado Semipermanente", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "¿Quieres disfrutar de una manicura intacta durante semanas? Prueba nuestra manicura completa con esmaltado semipermanente para una mayor duración. Escoge el tono de esmalte que más va contigo entre la amplia gama de colores que te ofrecemos y ¡presume de unas manos cuidadas y bonitas durante más tiempo!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 7200, 
+            "price": "70 € ", 
+            "description": "En nuestro centro somos expertos en mimarte y que te sientas bien. Por eso, cuidamos cada detalle logrando unos resultados fantásticos. Atrévete con nuestras extensiones de pestañas colocadas pelo a pelo y luce unas pestañas efecto máscara de pestañas, sin necesidad de usar máscaras u otros utensilios para conseguir ¡una mirada asombrosa!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Diseño De Cejas Completo Y Tinte", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Realizamos un estudio facial de tu rostro para adaptar el arco de ceja que más se adecue a tus facciones. Posteriormente depilamos tus cejas para que salgas del centro realmente guapa. Las cejas son un punto clave en la expresión y personalidad de cualquier rostro, por lo que un buen cuidado es esencial. Luce una mirada atractiva y seductora. Dí adiós a tu máscara de pestañas. Estarás perfectas desde primera hora de la mañana. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Volumen 2D", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen 2D. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Volumen 3D", 
+            "duration": 10800, 
+            "price": "90 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen 3D. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Volumen Ruso", 
+            "duration": 10800, 
+            "price": "100 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen Ruso. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Día", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Sabemos que puedes hacerte la raya perfecta, pero, ¿qué maquillaje es más adecuado para esas ocasiones en las que necesitas algo especial? Ideal para las que queremos elevar nuestro maquillaje a otro nivel (¿y quién no?), lucir un maquillaje aplicado por un experto es una manera excelente de sentirte a gusto contigo misma y realzar tus rasgos naturales para conseguir un look deslumbrante. El rímel corrido y las pestañas postizas mal puestas nunca han estado de moda..."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Noche", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Sabemos que puedes hacerte la raya perfecta, pero, ¿qué maquillaje es más adecuado para esas ocasiones en las que necesitas algo especial? Ideal para las que queremos elevar nuestro maquillaje a otro nivel (¿y quién no?), lucir un maquillaje aplicado por un experto es una manera excelente de sentirte a gusto contigo misma y realzar tus rasgos naturales para conseguir un look deslumbrante. El rímel corrido y las pestañas postizas mal puestas nunca han estado de moda..."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 7200, 
+            "price": "70 € ", 
+            "description": "En nuestro centro somos expertos en mimarte y que te sientas bien. Por eso, cuidamos cada detalle logrando unos resultados fantásticos. Atrévete con nuestras extensiones de pestañas colocadas pelo a pelo y luce unas pestañas efecto máscara de pestañas, sin necesidad de usar máscaras u otros utensilios para conseguir ¡una mirada asombrosa!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Diseño De Cejas Completo Y Tinte", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Realizamos un estudio facial de tu rostro para adaptar el arco de ceja que más se adecue a tus facciones. Posteriormente depilamos tus cejas para que salgas del centro realmente guapa. Las cejas son un punto clave en la expresión y personalidad de cualquier rostro, por lo que un buen cuidado es esencial. Luce una mirada atractiva y seductora. Dí adiós a tu máscara de pestañas. Estarás perfectas desde primera hora de la mañana. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Volumen 2D", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen 2D. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Volumen 3D", 
+            "duration": 10800, 
+            "price": "90 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen 3D. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Volumen Ruso", 
+            "duration": 10800, 
+            "price": "100 € ", 
+            "description": "Luce una mirada asombrosa gracias a nuestras extensiones de pestañas volumen Ruso. Efectos naturales a la par que llamativos. Sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios, tus pestañas lucirán increibles y ¡serás el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 7200, 
+            "price": "70 € ", 
+            "description": "En nuestro centro somos expertos en mimarte y que te sientas bien. Por eso, cuidamos cada detalle logrando unos resultados fantásticos. Atrévete con nuestras extensiones de pestañas colocadas pelo a pelo y luce unas pestañas efecto máscara de pestañas, sin necesidad de usar máscaras u otros utensilios para conseguir ¡una mirada asombrosa!"
+        }
+    ]
+}

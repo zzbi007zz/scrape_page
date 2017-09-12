@@ -1,0 +1,203 @@
+{
+    "adid": null, 
+    "name": "Pellbella Zaragoza", 
+    "name_of_contact": "Pellbella Zaragoza", 
+    "scrape_page": "https://www.bucmi.com/pellbella", 
+    "business_website": "https://www.bucmi.com/pellbella", 
+    "areas_covered": null, 
+    "description": "Pellbella es un Centro de estética y belleza, ubicado en pleno centro urbano de Zaragoza, donde encontrarás múltiples tratamientos corporales y masajes, que buscan conseguir tu bienestar y que te sientas bien contigo misma. No te arrepentirás de venir.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636001988067671502.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636001988077527903.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636001988074559136.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bilbao, 13", 
+    "city": "Zaragoza", 
+    "zipcode": "50005", 
+    "formatted_address": "C/ Bilbao, 13, Zaragoza, 50005", 
+    "country": "es", 
+    "office_number": "976211549", 
+    "office_number2": null, 
+    "mobile_number": "644714841", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6460505000", 
+    "longitude": "-0.8901992999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636001989164332819.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Manicura completa con esmaltado permanente para el cuidado de manos y uñas más duradero. Incluye el limado de la uña, la retirada de cutículas, el esmaltado de la piel y una ligera hidratación de la piel. Sólo tendrás que escoger el color que prefieras de nuestra gama de coloresF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Este masaje es aconsejable para deportistas de élite y para personas que hacen deporte habitualmente. Se aconseja tanto antes del ejercicio como para después de hacer deporte. Tiene una duración de una hora. Evita posibles lesiones gracias a PellbellaF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal De Algas", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Tratamiento Corporal. Con sábana de sudación, que elimina los líquidos, reduce volumen y tiene un efecto antioxidante. Consigue eliminar la grasa localizada que no consigues quitarte de encima ni con dietas ni con ejercicio gracias a nuestros expertos profesionalesF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Radiofrecuencia Facial", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Fortalece la elastina y el colágeno de la piel. Trabajamos el orbicular y el párpado con electroestimulación. Gracias a nuestra puntera aparatología, notarás los resultados desde la primera sesión. No pierdas esta oportunidad y prueba nuestro completo tratamiento de PellbellaF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones De Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "325 € ", 
+            "description": "Puedes escoger entre nuestro tratamiento corporal reductor, para eliminar esos kilos de más que no consigues quitarte de encima, o por el tratamiento reafirmante de busto, o por el completo tratamiento de bienestar para el hombreF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones De Tto Corporal Reductor Alqvimia", 
+            "duration": 5400, 
+            "price": "300 € ", 
+            "description": "Servicio con una duración de 75 minutos aproximadamente. Disfruta de este completo tratamiento corporal reductor, que incluye cosmética de la marca Alqvimia. ¿A qué estás esperando para hacer tu reserva en Bucmi.com? No te arrepentirás de los resultadosF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones Cavitación Y Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Consigue esa figura 10 tan deseada gracias a este completa sesión de cavitación y presoterapia de 30 minutos de duración, donde con la aplicación del calor romperemos los nódulos de grasa localizada, que drenaremos de forma natural con la presoterapiaF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Consigue esa figura 10 tan deseada gracias a este completa sesión de cavitación y presoterapia de 30 minutos de duración, donde con la aplicación del calor romperemos los nódulos de grasa localizada, que drenaremos de forma natural con la presoterapiaF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Crioterapia O Criolipólisis Corporal", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "Sesión de aplicación de frío con el que podrás reafirmar la piel y reducir unos centímetros de volumen para modelar tu figura. Notarás los resultados desde la primera sesión. ¿A qué estás esperando para hacer tu reserva con nosotros?DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Crioterapia O Criolipólisis Corporal", 
+            "duration": 3600, 
+            "price": "95 € ", 
+            "description": "Sesión de aplicación de frío con el que podrás reafirmar la piel y reducir unos centímetros de volumen para modelar tu figura. Notarás los resultados desde la primera sesión. ¿A qué estás esperando para hacer tu reserva con nosotros?DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Puedes escoger entre nuestro tratamiento corporal reductor, para eliminar esos kilos de más que no consigues quitarte de encima, o por el tratamiento reafirmante de busto, o por el completo tratamiento de bienestar para el hombreF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Alquimia", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Servicio con una duración de 75 minutos aproximadamente. Disfruta de este completo tratamiento corporal reductor, que incluye cosmética de la marca Alquimia. ¿A qué estás esperando para hacer tu reserva en Bucmi.com? No te arrepentirás de los resultadosF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal De Algas", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Tratamiento Corporal. Con sábana de sudación, que elimina los líquidos, reduce volumen y tiene un efecto antioxidante. Consigue eliminar la grasa localizada que no consigues quitarte de encima ni con dietas ni con ejercicio gracias a nuestros expertos profesionalesF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Radiofrecuencia Facial", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Fortalece la elastina y el colágeno de la piel. Trabajamos el orbicular y el párpado con electroestimulación. Gracias a nuestra puntera aparatología, notarás los resultados desde la primera sesión. No pierdas esta oportunidad y prueba nuestro completo tratamiento de PellbellaF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Radiofrecuencia Facial", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Fortalece la elastina y el colágeno de la piel. Trabajamos el orbicular y el párpado con electroestimulación. Gracias a nuestra puntera aparatología, notarás los resultados desde la primera sesión. No pierdas esta oportunidad y prueba nuestro completo tratamiento de PellbellaF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones De Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "325 € ", 
+            "description": "Puedes escoger entre nuestro tratamiento corporal reductor, para eliminar esos kilos de más que no consigues quitarte de encima, o por el tratamiento reafirmante de busto, o por el completo tratamiento de bienestar para el hombreF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones De Tto Corporal Reductor Alqvimia", 
+            "duration": 5400, 
+            "price": "300 € ", 
+            "description": "Servicio con una duración de 75 minutos aproximadamente. Disfruta de este completo tratamiento corporal reductor, que incluye cosmética de la marca Alqvimia. ¿A qué estás esperando para hacer tu reserva en Bucmi.com? No te arrepentirás de los resultadosF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 6 Sesiones Cavitación Y Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Consigue esa figura 10 tan deseada gracias a este completa sesión de cavitación y presoterapia de 30 minutos de duración, donde con la aplicación del calor romperemos los nódulos de grasa localizada, que drenaremos de forma natural con la presoterapiaF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Consigue esa figura 10 tan deseada gracias a este completa sesión de cavitación y presoterapia de 30 minutos de duración, donde con la aplicación del calor romperemos los nódulos de grasa localizada, que drenaremos de forma natural con la presoterapiaF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Crioterapia O Criolipólisis Corporal", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "Sesión de aplicación de frío con el que podrás reafirmar la piel y reducir unos centímetros de volumen para modelar tu figura. Notarás los resultados desde la primera sesión. ¿A qué estás esperando para hacer tu reserva con nosotros?DF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Crioterapia O Criolipólisis Corporal", 
+            "duration": 3600, 
+            "price": "95 € ", 
+            "description": "Sesión de aplicación de frío con el que podrás reafirmar la piel y reducir unos centímetros de volumen para modelar tu figura. Notarás los resultados desde la primera sesión. ¿A qué estás esperando para hacer tu reserva con nosotros?DF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Puedes escoger entre nuestro tratamiento corporal reductor, para eliminar esos kilos de más que no consigues quitarte de encima, o por el tratamiento reafirmante de busto, o por el completo tratamiento de bienestar para el hombreF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Reductor Alquimia", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Servicio con una duración de 75 minutos aproximadamente. Disfruta de este completo tratamiento corporal reductor, que incluye cosmética de la marca Alquimia. ¿A qué estás esperando para hacer tu reserva en Bucmi.com? No te arrepentirás de los resultadosF"
+        }
+    ]
+}

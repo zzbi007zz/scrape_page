@@ -1,0 +1,142 @@
+{
+    "adid": null, 
+    "name": "Alborada En Buenas Manos", 
+    "name_of_contact": "Alborada En Buenas Manos", 
+    "scrape_page": "https://www.bucmi.com/alborada", 
+    "business_website": "https://www.bucmi.com/alborada", 
+    "areas_covered": null, 
+    "description": "En Madrid, nuestro centro Alborada en Buenas Manos te ofrece un diversidad de tratamientos corporales, masajes o sesiones de osteopatía. ¡Visítanos ya sin ningún tipo de compromiso! No dejes tu cuerpo en las manos de cualquiera: ¡ponte en buenas manos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017562035009759.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017562036572405.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017562039541298.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017562037979023.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017562040955476.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "8,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Suecia, 84", 
+    "city": "Madrid", 
+    "zipcode": "28013", 
+    "formatted_address": "C/ Suecia, 84, Madrid, 28013", 
+    "country": "es", 
+    "office_number": "917023907", 
+    "office_number2": null, 
+    "mobile_number": "639686847", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4193811000", 
+    "longitude": "-3.7060923000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636017562698445109.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo O Descontracturante", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "En los masajes deportivos podemos distinguir dos tipos: El masaje antes del esfuerzo, que prepara el organismo para el ejercicio a realizar, y el masaje después del esfuerzo, que ayuda a eliminar las molestias que un sobreesfuerzo ha podido dejar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reiki", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "El reiki, que en japonés significa ‘energía universal’, consiste en canalizar a través de las manos una poderosa fuente de vibración, que está fuera, hacia uno mismo o hacia otras personas para curar enfermedades físicas o sanar emociones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto. Corporal Anticelulítico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Favorece la disolución de los cristales de grasa acumulados en zonas para después ayudar a su eliminación vía renal.Aumenta la circulación sanguínea para evitar que vuelvan a acumularse residuos grasos en el cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "500 € ", 
+            "description": "Mediante manipulaciones lentas, rítmicas y suaves, se obtiene una destacada acción drenante sobre los tejidos y un efecto beneficioso sobre el sistema nervioso, inmunológico y circulatorio. También recomendado en post operatorio después de una cirugía estética. ¡Reserva ya este bono y notarás increíbles resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Mediante manipulaciones lentas, rítmicas y suaves, se obtiene una destacada acción drenante sobre los tejidos y un efecto beneficioso sobre el sistema nervioso, inmunológico y circulatorio. Tambien recomendado en post operatorio después de una cirugía estética."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Corporal Anticelulítico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Favorece la disolución de los cristales de grasa acumulados en zonas para después ayudar a su eliminación vía renal.Aumenta la circulación sanguínea para evitar que vuelvan a acumularse residuos grasos en el cuerpo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "500 € ", 
+            "description": "Mediante manipulaciones lentas, rítmicas y suaves, se obtiene una destacada acción drenante sobre los tejidos y un efecto beneficioso sobre el sistema nervioso, inmunológico y circulatorio. También recomendado en post operatorio después de una cirugía estética. ¡Reserva ya este bono y notarás increíbles resultados!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Mediante manipulaciones lentas, rítmicas y suaves, se obtiene una destacada acción drenante sobre los tejidos y un efecto beneficioso sobre el sistema nervioso, inmunológico y circulatorio. Tambien recomendado en post operatorio después de una cirugía estética."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto. Corporal Anticelulítico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Favorece la disolución de los cristales de grasa acumulados en zonas para después ayudar a su eliminación vía renal.Aumenta la circulación sanguínea para evitar que vuelvan a acumularse residuos grasos en el cuerpo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Osteopatía", 
+            "duration": 3600, 
+            "price": "500 € ", 
+            "description": "La Osteopatía restablece el equilibrio del organismo, integrando en el tratamiento los diferentes planos que lo componen. Trabajamos desde los planos superficiales hasta los más profundos, para liberar bloqueos y recuperar la elasticidad muscular."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo O Descontracturante", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "En los masajes deportivos podemos distinguir dos tipos: El masaje antes del esfuerzo, que prepara el organismo para el ejercicio a realizar, y el masaje después del esfuerzo, que ayuda a eliminar las molestias que un sobreesfuerzo ha podido dejar."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Disfruta de un masaje para eliminar cualquier síntoma de estrés con aceites esenciales. ¡Permítete un tiempo sólo para ti y reserva ya este servicio por un precio increíble! ¡Porque para nosotros tu bienestar es lo más importante!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "La Osteopatía restablece el equilibrio del organismo, integrando en el tratamiento los diferentes planos que lo componen. Trabajamos desde los planos superficiales hasta los más profundos, para liberar bloqueos y recuperar la elasticidad muscular y articular."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 10 Sesiones Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "500 € ", 
+            "description": "Mediante manipulaciones lentas, rítmicas y suaves, se obtiene una destacada acción drenante sobre los tejidos y un efecto beneficioso sobre el sistema nervioso, inmunológico y circulatorio. También recomendado en post operatorio después de una cirugía estética. ¡Reserva ya este bono y notarás increíbles resultados!"
+        }
+    ]
+}

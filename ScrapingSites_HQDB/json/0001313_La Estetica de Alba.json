@@ -1,0 +1,322 @@
+{
+    "adid": null, 
+    "name": "La Estética de Alba", 
+    "name_of_contact": "La Estética de Alba", 
+    "scrape_page": "https://www.bucmi.com/esteticaalba", 
+    "business_website": "https://www.bucmi.com/esteticaalba", 
+    "areas_covered": null, 
+    "description": "Tu centro de estética del popular barrio de La Bordeta cuenta con tratamientos corporales, faciales y carta de masajes, déjate asesorar por lo mejores profesionales del sector para sentirte bien tanto por dentro como por fuera.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635682386920109393.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885002044123605.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885002072092272.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Leiva, 49", 
+    "city": "Barcelona", 
+    "zipcode": "08014", 
+    "formatted_address": "C/ Leiva, 49, Barcelona, 08014", 
+    "country": "es", 
+    "office_number": "934542342", 
+    "office_number2": null, 
+    "mobile_number": "686893398", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3741700000", 
+    "longitude": "2.1453199999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968327409576983.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Piernas Completas E Ingles", 
+            "duration": 3600, 
+            "price": "17 € ", 
+            "description": "Elimina ese vello tan molesto con este pack de piernas completas e ingles normales y luce perfecta en todo momento. Disfruta de una piel suave y tersa gracias a nuestra cera de un solo uso de La Estética de Alba. Y olvídate de depilarte por un par de semanas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye desmaquillado y exfoliación de la piel, extracción de impurezas, hidratación personalizada a la piel y mascarilla final."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Tradicional", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Servicio de manicura tradicional para conseguir unas uñas perfectas con esmaltado normal. Incluye el limado y el cortado de la uña, retirada de cutículas si se requiere y el esmaltado final con crema hidratante básica."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relax Con Aceites Esenciales", 
+            "duration": 2700, 
+            "price": "33 € ", 
+            "description": "Elimina las tensiones generadas por el ritmo diario con este masaje relajante con aceites esenciales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Tratamiento que está basado en un cóctel de vitamina C para preparar la piel de cara al verano activando la melanina y dando mayor luminosidad a la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 5400, 
+            "price": "99 € ", 
+            "description": "Consigue una mirada cautivadora alargando tus pestañas hasta el infinito."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye desmaquillado y exfoliación de la piel, extracción de impurezas, hidratación personalizada a la piel y mascarilla final."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Higiene con extracción. Arreglo de cejas y labio superior si se requiere."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Exfoliación corporal realizado con frutos plantas o aceites esenciales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Con Ácido Glicólico", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "Exfolia las células muerta de tu piel y consigue luminosidad con este peeling químico de ácido glicólico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Modela tus pestañas con esta permanente con productos naturales y conseguirás una mirada embriagadora gracias a nuestros estilistas de Estética Alba."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Da volumen a tus pestañas a la vez que les das color. Un tratamiento completo para realzar tu mirada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Olvídate del rimmel y luce una mirada de cine gracias al tinte de pestañas. Una mirada al más puro estilo de Hollywood."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmación De Senos", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Tratamiento de senos con el aparato de Radiofrecuencia y producto con activos reafirmantes y Ácido hialurónico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Recuperador Contracturas", 
+            "duration": 900, 
+            "price": "13 € ", 
+            "description": "Reserva nuestro tratamiento corporal para aliviar las contracturas gracias a nuestro recuperador de Alta Frecuencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Lifting Con Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Excelente tratamiento que estimula los músculos faciales para conseguir una elevación de ellos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Shock Velo De Colágeno", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Hidratación con gel de colágeno, máscara hidratante y productos con Coenzima Q10 energizante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Tratamiento que está basado en un cóctel de vitamina C para preparar la piel de cara al verano activando la melanina y dando mayor luminosidad a la piel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 5400, 
+            "price": "99 € ", 
+            "description": "Consigue una mirada cautivadora alargando tus pestañas hasta el infinito."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye desmaquillado y exfoliación de la piel, extracción de impurezas, hidratación personalizada a la piel y mascarilla final."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Higiene con extracción. Arreglo de cejas y labio superior si se requiere."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Exfoliación corporal realizado con frutos plantas o aceites esenciales."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Tratamiento que está basado en un cóctel de vitamina C para preparar la piel de cara al verano activando la melanina y dando mayor luminosidad a la piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 5400, 
+            "price": "99 € ", 
+            "description": "Consigue una mirada cautivadora alargando tus pestañas hasta el infinito."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye desmaquillado y exfoliación de la piel, extracción de impurezas, hidratación personalizada a la piel y mascarilla final."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Higiene con extracción. Arreglo de cejas y labio superior si se requiere."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Tratamiento que está basado en un cóctel de vitamina C para preparar la piel de cara al verano activando la melanina y dando mayor luminosidad a la piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 5400, 
+            "price": "99 € ", 
+            "description": "Consigue una mirada cautivadora alargando tus pestañas hasta el infinito."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye desmaquillado y exfoliación de la piel, extracción de impurezas, hidratación personalizada a la piel y mascarilla final."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Higiene con extracción. Arreglo de cejas y labio superior si se requiere."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Exfoliación corporal realizado con frutos plantas o aceites esenciales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial Con Ácido Glicólico", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "Exfolia las células muerta de tu piel y consigue luminosidad con este peeling químico de ácido glicólico."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Modela tus pestañas con esta permanente con productos naturales y conseguirás una mirada embriagadora gracias a nuestros estilistas de Estética Alba."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Da volumen a tus pestañas a la vez que les das color. Un tratamiento completo para realzar tu mirada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Olvídate del rimmel y luce una mirada de cine gracias al tinte de pestañas. Una mirada al más puro estilo de Hollywood."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Reafirmación De Senos", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Tratamiento de senos con el aparato de Radiofrecuencia y producto con activos reafirmantes y Ácido hialurónico."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Recuperador Contracturas", 
+            "duration": 900, 
+            "price": "13 € ", 
+            "description": "Reserva nuestro tratamiento corporal para aliviar las contracturas gracias a nuestro recuperador de Alta Frecuencia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Lifting Con Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Excelente tratamiento que estimula los músculos faciales para conseguir una elevación de ellos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Shock Velo De Colágeno", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Hidratación con gel de colágeno, máscara hidratante y productos con Coenzima Q10 energizante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Tradicional Y Pedicura Hidromasaje Spa", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "Servicio de manicura tradicional y pedicura para conseguir la belleza en tus manos y pies con esmaltado normal. Incluye en la manicura: el limado y el cortado de la uña, retirada de cutículas si se requiere y el esmaltado final con crema hidratante básica. En la pedicura: se colocan las uñas en remojo se aplica el hidromasaje limado y cortado de la uña, se cuidan las cutículas, se pasa el torno, masaje y esmaltado normal."
+        }
+    ]
+}

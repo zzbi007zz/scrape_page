@@ -1,0 +1,140 @@
+{
+    "adid": null, 
+    "name": "Innove", 
+    "name_of_contact": "Innove", 
+    "scrape_page": "https://www.bucmi.com/innove", 
+    "business_website": "https://www.bucmi.com/innove", 
+    "areas_covered": null, 
+    "description": "Somos un centro de estética avanzada, destacado por nuestros maravillosos servicios. Contamos con más de 17 años de experiencia en el sector belleza. Disponemos de las últimas tendencias para que te sientas guap@. Consúltenos siempre que lo necesite.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635665901871290469.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635665901888323292.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635665901897855393.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Sirio, 52", 
+    "city": "Madrid", 
+    "zipcode": "28007", 
+    "formatted_address": "C/ Sirio, 52, Madrid, 28007", 
+    "country": "es", 
+    "office_number": "915044373", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4102642000", 
+    "longitude": "-3.6650068000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635974635104133050.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "El servicio incluye limado, retirada de cutículas, masaje manual y esmaltado normal. Elige el color que más te guste. No incluye manicura francesa. Ahorra tiempo y reserva ya tu cita online con nosotros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Luce unas pestañas de infarto con este tinte y permanente de pestañas. Tiene una duración de 3 semanas y da la misma sensación que si llevaras rimmel puesto. Totalmente natural. Confía en los mejores profesionales"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Normal", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "El servicio incluye el limado de tus uñas, la retirada de cutículas, el retirado de durezas, un masaje podal y por último el esmaltado de un solo color que más te guste. No incluye francesa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis Y Más", 
+            "duration": 5400, 
+            "price": "41 € ", 
+            "description": "El servicio incluye de regalo diseño de cejas y labio superior. El servicio comienza con el desmaquillado del cutis, exfoliación, extracción, oxigenación, hidratación con masaje y mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono De 6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "342 € ", 
+            "description": "La radiofrecuencia consiste en aplicar energía que penetra a través de la piel para depositarla en zonas profundas de la dermis. Luce una piel más joven con este bono de 6 sesiones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Mesoterapia Virtual Facial", 
+            "duration": 3600, 
+            "price": "228 € ", 
+            "description": "El servicio consta de una sesión de electrodifusión que altera las membranas celulares, de forma que los principios activos penetran directamente en las células. Ahorra tiempo y ¡reserva online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual Facial", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "El servicio consiste en una sesión de electrodifusión, que altera las membranas celulares, haciendo de esta forma que los principios activos penetren directamente en las células. ¡Reserva online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Luce unas pestañas de infarto con este tinte y permanente de pestañas. Tiene una duración de 3 semanas y da la misma sensación que si llevaras rimmel puesto. Totalmente natural. Confía en los mejores profesionales"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "La radiofrecuencia consiste en aplicar energía que penetra a través de la piel para depositarla en zonas profundas de la dermis. Luce una piel más joven. ¡Reserva ya tu cita con nosotros!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Y Más", 
+            "duration": 5400, 
+            "price": "41 € ", 
+            "description": "El servicio incluye de regalo diseño de cejas y labio superior. El servicio comienza con el desmaquillado del cutis, exfoliación, extracción, oxigenación, hidratación con masaje y mascarilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono De 6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "342 € ", 
+            "description": "La radiofrecuencia consiste en aplicar energía que penetra a través de la piel para depositarla en zonas profundas de la dermis. Luce una piel más joven con este bono de 6 sesiones."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 4 Sesiones Mesoterapia Virtual Facial", 
+            "duration": 3600, 
+            "price": "228 € ", 
+            "description": "El servicio consta de una sesión de electrodifusión que altera las membranas celulares, de forma que los principios activos penetran directamente en las células. Ahorra tiempo y ¡reserva online!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mesoterapia Virtual Facial", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "El servicio consiste en una sesión de electrodifusión, que altera las membranas celulares, haciendo de esta forma que los principios activos penetren directamente en las células. ¡Reserva online!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono De 6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "342 € ", 
+            "description": "La radiofrecuencia consiste en aplicar energía que penetra a través de la piel para depositarla en zonas profundas de la dermis. Luce una piel más joven con este bono de 6 sesiones."
+        }
+    ]
+}

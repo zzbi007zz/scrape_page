@@ -1,0 +1,282 @@
+{
+    "adid": null, 
+    "name": "Toranzo", 
+    "name_of_contact": "Toranzo", 
+    "scrape_page": "https://www.bucmi.com/toranzo", 
+    "business_website": "https://www.bucmi.com/toranzo", 
+    "areas_covered": null, 
+    "description": "Nuestro Salón se caracteriza por un trato personalizado y de calidad que ha generado una clientela fiel y diversa. Te estaremos esperando en pleno centro de Granada, para que disfrutes de nuestros cortes de pelo, mechas, coloraciones.... y te encantará.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494842493661815.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494842557885627.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494842628359978.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494842701803298.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494842900569070.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arabial, 40", 
+    "city": "Granada", 
+    "zipcode": "18002", 
+    "formatted_address": "C/ Arabial, 40, Granada, 18002", 
+    "country": "es", 
+    "office_number": "958520959", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1731732000", 
+    "longitude": "-3.6035672000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635925298140413781.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a nosotros también nos gusta cuidarnos y nos preocupa nuestro look. Incluye el corte asesorado por nuestros estilistas, lavado del pelo y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio no incluye el peinado de la melena. Disfruta de un corte a la última gracias a nuestros estilistas de Toranzo y luce una melena con estilo. Incluye el lavado con champú y mascarilla hidratante capilar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Raíz", 
+            "duration": 2700, 
+            "price": "31 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. No incluye el peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Presume de uñas gracias a nuestros estilistas de Toranzo. El servicio es completo, incluye la retirada de cutículas, el limado de la uñas, la hidratación de la piel y el esmaltado en el color que prefieras de nuestra gama de colores."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Axilas", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Por fin podrás lucir una piel suave y libre de vello gracias a nuestros esteticistas de Toranzo y a nuestra cera de un solo uso. Y despídete de la cuchilla por un par de semanas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Y Peinado", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Cambia el color de tu melena de la mano de los mejores profesionales del sector gracias a este baño de color. Además el servicio incluye peinado para que salgas perfecta del salón. No esperes más y reserva tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a nosotros también nos gusta cuidarnos y nos preocupa nuestro look. Incluye el corte asesorado por nuestros estilistas, lavado del pelo y peinado con productos de acabado. Además, incluye el arreglo de la barba."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "47 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. Incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. Incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinar Pelo Corto", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. Incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto Y Media Melena", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "¿Aburrida de tu melena? ¿Quieres cambiar de estilo? Ven a Toranzo y disfruta de unos cortes de tendencia gracias a nuestros expertos estilistas. Incluye el corte, lavado con champú e hidratación y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "¿Aburrida de tu melena? ¿Quieres cambiar de estilo? Ven a Toranzo y disfruta de unos cortes de tendencia gracias a nuestros expertos estilistas. Incluye el corte, lavado con champú e hidratación y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a nosotros también nos gusta cuidarnos y nos preocupa nuestro look. Incluye el corte asesorado por nuestros estilistas, lavado del pelo y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio no incluye el peinado de la melena. Disfruta de un corte a la última gracias a nuestros estilistas de Toranzo y luce una melena con estilo. Incluye el lavado con champú y mascarilla hidratante capilar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Corto", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Tanto si tienes un evento al que quieres ir estupenda, como si tienes una cita especial a la que quieres ir más arreglada, reserva online nuestro servicio de siempre: lavado con champú e hidratación y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Media Melena", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Tanto si tienes un evento al que quieres ir estupenda, como si tienes una cita especial a la que quieres ir más arreglada, reserva online nuestro servicio de siempre: lavado con champú e hidratación y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Tanto si tienes un evento al que quieres ir estupenda, como si tienes una cita especial a la que quieres ir más arreglada, reserva online nuestro servicio de siempre: lavado con champú e hidratación y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Melena", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "¿Notas tu melena apagada y sin vida? ¿Te gustaría darle un toque de luz y color? Qué mejor que reservar nuestro servicio de mechas de plata de siempre. Incluye la iluminación de la melena, lavado con champú y acondicionador pero no peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Corto", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Notas tu melena apagada y sin vida? ¿Te gustaría darle un toque de luz y color? Qué mejor que reservar nuestro servicio de mechas de plata de siempre. Incluye la iluminación de la melena, lavado con champú y acondicionador pero no peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Largo", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "¿Notas tu melena apagada y sin vida? ¿Te gustaría darle un toque de luz y color? Qué mejor que reservar nuestro servicio de mechas de plata de siempre. Incluye la iluminación de la melena, lavado con champú y acondicionador pero no peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Media Melena", 
+            "duration": 7200, 
+            "price": "52 € ", 
+            "description": "¿Notas tu melena apagada y sin vida? ¿Te gustaría darle un toque de luz y color? Qué mejor que reservar nuestro servicio de mechas de plata de siempre. Incluye la iluminación de la melena, lavado con champú y acondicionador y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "¿Notas tu melena apagada y sin vida? ¿Te gustaría darle un toque de luz y color? Qué mejor que reservar nuestro servicio de mechas de plata de siempre. Incluye la iluminación de la melena, lavado con champú y acondicionador y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "58 € ", 
+            "description": "¿Notas tu melena apagada y sin vida? ¿Te gustaría darle un toque de luz y color? Qué mejor que reservar nuestro servicio de mechas de plata de siempre. Incluye la iluminación de la melena, lavado con champú y acondicionador y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Pelo Corto O Media Melena", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "¡Consigue una permanente a un precio espectacular! Disfruta de unas ondas perfectas por más tiempo gracias a nuestro servicio de moldeado. Reserva ya gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Pelo Largo", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "¡Consigue una permanente a un precio espectacular! Disfruta de unas ondas perfectas por más tiempo gracias a nuestro servicio de moldeado. Reserva ya gracias a Bucmi.com. En caso de pelo extralargo consulta posible suplemento con el profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz", 
+            "duration": 2700, 
+            "price": "31 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. No incluye el peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño De Color Y Peinado", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Cambia el color de tu melena de la mano de los mejores profesionales del sector gracias a este baño de color. Además el servicio incluye peinado para que salgas perfecta del salón. No esperes más y reserva tu cita online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a nosotros también nos gusta cuidarnos y nos preocupa nuestro look. Incluye el corte asesorado por nuestros estilistas, lavado del pelo y peinado con productos de acabado. Además, incluye el arreglo de la barba."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "47 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. Incluye el peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Baño De Color Y Peinado", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Cambia el color de tu melena de la mano de los mejores profesionales del sector gracias a este baño de color. Además el servicio incluye peinado para que salgas perfecta del salón. No esperes más y reserva tu cita online."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a nosotros también nos gusta cuidarnos y nos preocupa nuestro look. Incluye el corte asesorado por nuestros estilistas, lavado del pelo y peinado con productos de acabado. Además, incluye el arreglo de la barba."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "47 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. Incluye el peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. Incluye el peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz Y Peinar Pelo Corto", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Disfruta de una coloración uniforme y llena de brillo gracias a nuestro completo servicio de color raíz, que además incluye el lavado de la melena con champú específico y mascarilla hidratante para tu pelo. Incluye el peinado."
+        }
+    ]
+}

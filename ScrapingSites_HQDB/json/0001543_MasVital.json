@@ -1,0 +1,156 @@
+{
+    "adid": null, 
+    "name": "MasVital", 
+    "name_of_contact": "MasVital", 
+    "scrape_page": "https://www.bucmi.com/masvital", 
+    "business_website": "https://www.bucmi.com/masvital", 
+    "areas_covered": null, 
+    "description": "MASVITAL es un acogedor y entrañable centro de masajes de Granada, especialmente preparado para encontrar tranquilidad y sosiego, disminuir el estrés, aliviar dolencias y disfrutar de masajes de calidad. Nuestros servicios van a ayudarte a sentirte mejor", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635812021745948233.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635812022722331369.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635812023003173963.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635812026268336286.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635812027082638300.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "8,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arabial, 40", 
+    "city": "Granada", 
+    "zipcode": "18004", 
+    "formatted_address": "C/ Arabial, 40, Granada, 18004", 
+    "country": "es", 
+    "office_number": "958076384", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1712458000", 
+    "longitude": "-3.6079006999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962374524139612.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Californiano (Sensitivo)", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Indicado para combatir el estrés y conseguir una relajación profunda. Sus objetivos son aliviar las consecuencias del estrés, aumentar la consciencia corporal y liberar las emociones bloqueadas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Basado en maniobras y movimientos de carácter profundo que pretenden devolver poco a poco elasticidad al músculo, intentando disminuir el dolor de la zona afectada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Centra su atención en descargar toda la tensión y el estrés que acumula nuestro cuerpo. Se aplican una combinación de técnicas de quiromasaje con presiones suaves y firmes que generan en el organismo un efecto de bienestar y relax."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante En Pareja 60", 
+            "duration": 3600, 
+            "price": "79 € ", 
+            "description": "Masaje para 2 personas simultaneamente, a elegir entre Masaje Relajante, Descontracturante, Deportivo o Circulatorio."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Indicado para antes de la práctica de una determinada actividad deportiva. Además, está recomendado a personas con piernas cansadas, con problemas circulatorios o retención de líquidos. Activa el organismo con serie de maniobras rápidas e intensas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Su principal objetivo es deshacer los cúmulos de adiposidad con maniobras directas y firmes sobre ellos, ayudando posteriormente a su eliminación. Tiene efectos beneficiosos sobre la circulación sanguínea, ya que permite la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Su principal objetivo es deshacer los cúmulos de adiposidad con maniobras directas y firmes sobre ellos, ayudando posteriormente a su eliminación. Tiene efectos beneficiosos sobre la circulación sanguínea, ya que permite la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Exfoliante Natural, Envoltura Y Masaje", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Un tratamiento perfecto para conseguir tersura y frescura en tu piel. El objetivo principal es limpiar en profundidad la piel purificándola y oxigenándola para darle la densidad y elasticidad apropiada. Finaliza con un masaje corporal que te proporcionará una placentera sensación de relajación y bienestar. Incluye Peeling corporal exfoliante con productos naturales más Envoltura de arcilla blanca más Masaje relajante con aceites esenciales"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante En Pareja 90", 
+            "duration": 5400, 
+            "price": "109 € ", 
+            "description": "Masaje para 2 personas simultaneamente, a elegir entre Masaje Relajante, Descontracturante, Deportivo o Circulatorio."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Californiano (Sensitivo)", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Indicado para combatir el estrés y conseguir una relajación profunda. Sus objetivos son aliviar las consecuencias del estrés, aumentar la consciencia corporal y liberar las emociones bloqueadas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Basado en maniobras y movimientos de carácter profundo que pretenden devolver poco a poco elasticidad al músculo, intentando disminuir el dolor de la zona afectada."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Oriental", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Este masaje, como su nombre indica, se nutre del pensamiento y la cosmovisión del mundo oriental. Se concibe que la energía impregna todo lo que existe. Desde esta concepción, el cuerpo humano es recorrido por diversos meridianos, canales o 'nadis'por los que fluye la bionergia humana. En estos flujos existen puntos o vórtices especiales desde los que se puede armonizar y equilibrar la energía vital, contribuyendo así a la salud y el bienestar de la persona. Inspirado en el Shiatsu, el Thai y el Tuina."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Centra su atención en descargar toda la tensión y el estrés que acumula nuestro cuerpo. Se aplican una combinación de técnicas de quiromasaje con presiones suaves y firmes que generan en el organismo un efecto de bienestar y relax."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante En Pareja 60", 
+            "duration": 3600, 
+            "price": "79 € ", 
+            "description": "Masaje para 2 personas simultaneamente, a elegir entre Masaje Relajante, Descontracturante, Deportivo o Circulatorio."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexologia Podal", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Tratamiento localizado en los pies, indicado para restaurar corrientes energéticas y sanguíneas; y revitalizar el tono de los órganos con acciones reflejas. Esta técnica se ejerce a través de presiones en determinados puntos de los pies, que provocan una respuesta en la funcionalidad de los órganos correspondientes. Se fundamenta en liberar, mediante las presiones y pequeños masajes, las áreas con disfunción, la tensión del desequilibrio y estimular el suministro de sangre y energía a los órganos afectado"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Su principal objetivo es deshacer los cúmulos de adiposidad con maniobras directas y firmes sobre ellos, ayudando posteriormente a su eliminación. Tiene efectos beneficiosos sobre la circulación sanguínea, ya que permite la eliminación de toxinas."
+        }
+    ]
+}

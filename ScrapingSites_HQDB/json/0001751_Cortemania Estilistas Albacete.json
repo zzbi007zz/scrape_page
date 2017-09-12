@@ -1,0 +1,288 @@
+{
+    "adid": null, 
+    "name": "Cortemanía Estilistas Albacete", 
+    "name_of_contact": "Cortemanía Estilistas Albacete", 
+    "scrape_page": "https://www.bucmi.com/cortemaniaestilistasalbacete", 
+    "business_website": "https://www.bucmi.com/cortemaniaestilistasalbacete", 
+    "areas_covered": null, 
+    "description": "Cortemanía estilistas, en la calle Albacete de Valencia, es una peluquería en donde podrás descubrir nuestros trabajos en cortes de pelo, color, mechas... Trabajamos con diversos productos de primera línea como KBlonde, Gloss. ¡Reserva ahora cita!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635796603340054690.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635796603416618964.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635796604206270381.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635796604458983651.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Albacete, 27", 
+    "city": "Valencia", 
+    "zipcode": "46007", 
+    "formatted_address": "C/ Albacete, 27, Valencia, 46007", 
+    "country": "es", 
+    "office_number": "963213001", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4628936000", 
+    "longitude": "-0.3842219000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635947806297751364.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado De Keratina", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "¿Quieres olvidarte de la plancha de una vez por todas? ¿Disfrutar de una melena lisa? Entonces, este tratamiento es para ti: con el tratamiento de keratina conseguirás una melena lisa sin dañar tu cabello. ¡Olvídate del encrespamiento! Se emplean 45gr de producto, equivalente a una media melena. Cada gramo extra cuesta 1€."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer Y Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "25,5 € ", 
+            "description": "¿Quieres cambiar tu estilo? ¿Tal vez sanear tu melena? En ambos casos, te traemos este servicio de corte y peinado para que estés a la última. Córtate el pelo con nuestros estilistas y termina por peinarlo con secador. Es un servicio para cabello largo que incluye lavado, corte y peinado. Si tu melena es extralarga o tiene mucho volumen consulta posible suplemento con el salón."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "El cabello, muy a nuestro pesar, ¡crece! Y con ello llega el temido efecto raíz. Pero no te preocupes: en Cortemanía te ofrecemos este servicio de retoque de raíz. Recupera el color de tu melena y, además, terminamos con un peinado para que estés perfecta. El servicio es para cabello largo; el servicio incluye el tinte, lavado y peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado De Enzimoterapia (5 Horas)", 
+            "duration": 14400, 
+            "price": "110 € ", 
+            "description": "¿Buscas un alisado natural? Este tratamiento elimina el encrespamiento, no contiene químicos, ni formol, es un tratamiento natural que no daña tu cabello y te proporciona un alisado perfecto. Enzimoterapia con 50 gr de producto. Cada gramo extra que se necesite cuesta 1,5€."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "10,5 € ", 
+            "description": "Córtate el cabello con nosotros y déjate asesorar por nuestros profesionales. En Cortemanía realizamos unos cortes de pelo completamente personalizados, ¡cada cliente es único! El servicio incluye el lavado y corte de tendencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Con este esmaltado tendrás tus uñas perfectas durante unas 3 semanas. ¡Y tan solo en una hora! Conseguirás un color duradero sin perder el brillo. Esmaltamos entre nuestra amplia gama de tonalidades de esmaltes permanentes. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "23,5 € ", 
+            "description": "¿No crees que va siendo hora de cambiar tu imagen? Con este servicio te ofrecemos un corte de pelo a la última, adaptado a tus gustos y necesidades. Así que córtate el pelo con nuestros estilistas y termina por peinarlo con secador. Es un servicio para media melena que incluye lavado, corte y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "¿Quieres olvidarte de la plancha de una vez por todas? ¿Disfrutar de una melena lisa? Entonces, este tratamiento es para ti: con el tratamiento de keratina conseguirás una melena lisa sin dañar tu cabello. ¡Olvídate del encrespamiento! Se emplean 45gr de producto, equivalente a una media melena. Cada gramo extra cuesta 1€."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Y Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "25,5 € ", 
+            "description": "¿Quieres cambiar tu estilo? ¿Tal vez sanear tu melena? En ambos casos, te traemos este servicio de corte y peinado para que estés a la última. Córtate el pelo con nuestros estilistas y termina por peinarlo con secador. Es un servicio para cabello largo que incluye lavado, corte y peinado. Si tu melena es extralarga o tiene mucho volumen consulta posible suplemento con el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "El cabello, muy a nuestro pesar, ¡crece! Y con ello llega el temido efecto raíz. Pero no te preocupes: en Cortemanía te ofrecemos este servicio de retoque de raíz. Recupera el color de tu melena y, además, terminamos con un peinado para que estés perfecta. El servicio es para cabello largo; el servicio incluye el tinte, lavado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Enzimoterapia (5 Horas)", 
+            "duration": 14400, 
+            "price": "110 € ", 
+            "description": "¿Buscas un alisado natural? Este tratamiento elimina el encrespamiento, no contiene químicos, ni formol, es un tratamiento natural que no daña tu cabello y te proporciona un alisado perfecto. Enzimoterapia con 50 gr de producto. Cada gramo extra que se necesite cuesta 1,5€."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Media Melena", 
+            "duration": 3600, 
+            "price": "18,5 € ", 
+            "description": "Con nuestro servicio de tinte conseguirás que tu media melena luzca llena de brillo y color. Nuestro equipo profesional te asesorará para que escojas el tono que mejor va contigo y tu personalidad. El servicio consiste en un lavado con champú y coloración."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Pelo Largo", 
+            "duration": 3600, 
+            "price": "20,5 € ", 
+            "description": "Si buscas una melena llena de color y brillo intenso, escoge nuestro servicio de tinte para cabello largo. Nuestro equipo profesional te asesorará para que escojas el tono que mejor va contigo y tu personalidad. El servicio consiste en un lavado con champú y coloración."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz O Color Completo Para Pelo Corto", 
+            "duration": 3600, 
+            "price": "16,5 € ", 
+            "description": "Si quieres retocar tu color para combatir el temido efecto raíz, ¡este servicio es para ti! También te ofrecemos la posibilidad de teñir todo tu cabello si tienes el pelo corto, ¡tú eliges! Con el servicio se incluye el color y el lavado, pero no el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "29,5 € ", 
+            "description": "El cabello, muy a nuestro pesar, ¡crece! Y con ello llega el temido efecto raíz. Pero no te preocupes: en Cortemanía te ofrecemos este servicio de retoque de raíz. Recupera el color de tu melena y, además, terminamos con un peinado para que estés perfecta. El servicio incluye el tinte, lavado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "27,5 € ", 
+            "description": "El cabello, muy a nuestro pesar, ¡crece! Y con ello llega el temido efecto raíz. Pero no te preocupes: en Cortemanía te ofrecemos este servicio de retoque de raíz. Recupera el color de tu melena y, además, terminamos con un peinado para que estés perfecta. El servicio incluye el tinte, lavado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "31,5 € ", 
+            "description": "Con nuestro servicio de tinte conseguirás que tu melena luzca llena de brillo y color. Nuestro equipo profesional te asesorará para que escojas el tono que mejor va contigo y tu personalidad. El servicio consiste en un lavado con champú, la coloración de alta gama y el peinado definido de la melena. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "27,5 € ", 
+            "description": "Con nuestro servicio de tinte conseguirás que tu melena luzca llena de brillo y color. Nuestro equipo profesional te asesorará para que escojas el tono que mejor va contigo y tu personalidad. El servicio consiste en un lavado con champú, la coloración de alta gama y el peinado definido de la melena. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "35,5 € ", 
+            "description": "Con nuestro servicio de tinte conseguirás que tu melena luzca llena de brillo y color. Nuestro equipo profesional te asesorará para que escojas el tono que mejor va contigo y tu personalidad. El servicio consiste en un lavado con champú, la coloración de alta gama y el peinado definido de la melena. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "10,5 € ", 
+            "description": "Córtate el cabello con nosotros y déjate asesorar por nuestros profesionales. En Cortemanía realizamos unos cortes de pelo completamente personalizados, ¡cada cliente es único! El servicio incluye el lavado y corte de tendencia."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "21,5 € ", 
+            "description": "Déjate asesorar por nuestros estilistas y cambia tu imagen con un nuevo corte. Además, completaremos tu look con un peinado que saque el máximo partido a tu nueva imagen. ¿A qué estás esperando? Es un servicio para cabello corto que incluye lavado, corte y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Melena", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si quieres darle luz a tu rostro, puedes optar por nuestro servicio de mechas: conseguirás una imagen dinámica y un toque de color que dará vida a tu melena. Te asesoramos para que el tono elegido encaje con tu look y con tu estilo. El servicio es para media melena e incluye lavado y mechas. El peinado no se incluye."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Corto", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "¿Buscas darle un toque diferente a tu look? Con nuestras mechas conseguirás un aspecto mucho más dinámico, una melena llena de movimiento, vida y color. El servicio es para cabello corto e incluye lavado y mechas. El peinado no se incluye."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Largo", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Con nuestro servicio de mechas podrás darle luminosidad y un toque de luz a tu cabello. Te asesoramos para que el tono elegido encaje con tu look y con tu estilo. El servicio es para cabello largo e incluye lavado y mechas. El peinado no se incluye."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Media Melena", 
+            "duration": 7200, 
+            "price": "38 € ", 
+            "description": "Si quieres darle luz a tu rostro, puedes optar por nuestro servicio de mechas: conseguirás una imagen dinámica y un toque de color que dará vida a tu melena. Te asesoramos para que el tono elegido encaje con tu look y con tu estilo. El servicio incluye lavado con champú, las mechas asesoradas y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 7200, 
+            "price": "33 € ", 
+            "description": "Si quieres darle luz a tu rostro, puedes optar por nuestro servicio de mechas: conseguirás una imagen dinámica y un toque de color que dará vida a tu melena. Te asesoramos para que el tono elegido encaje con tu look y con tu estilo. El servicio incluye lavado con champú, las mechas asesoradas y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "43 € ", 
+            "description": "Si quieres darle luz a tu rostro, puedes optar por nuestro servicio de mechas: conseguirás una imagen dinámica y un toque de color que dará vida a tu melena. Te asesoramos para que el tono elegido encaje con tu look y con tu estilo. El servicio incluye lavado con champú, las mechas asesoradas y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "13 € ", 
+            "description": "El pack básico de belleza de siempre también lo tenemos en nuestro salón de Cortemanía Estilistas. Si quieres verte realmente guapa ponte en las manos de nuestros expertos estilistas que te asesoraran sobre el peinado que mejor te quede. El servicio incluye lavado previo de la melena con champú y posterior peinado. No incluye peinados muy elaborados ni recogidos ni semirecogidos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "El pack básico de belleza de siempre también lo tenemos en nuestro salón de Cortemanía Estilistas. Si quieres verte realmente guapa ponte en las manos de nuestros expertos estilistas que te asesoraran sobre el peinado que mejor te quede. El servicio incluye lavado previo de la melena con champú y posterior peinado. No incluye peinados muy elaborados ni recogidos ni semirecogidos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "El pack básico de belleza de siempre también lo tenemos en nuestro salón de Cortemanía Estilistas. Si quieres verte realmente guapa ponte en las manos de nuestros expertos estilistas que te asesoraran sobre el peinado que mejor te quede. El servicio incluye lavado previo de la melena con champú y posterior peinado. No incluye peinados muy elaborados ni recogidos ni semirecogidos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "23,5 € ", 
+            "description": "¿No crees que va siendo hora de cambiar tu imagen? Con este servicio te ofrecemos un corte de pelo a la última, adaptado a tus gustos y necesidades. Así que córtate el pelo con nuestros estilistas y termina por peinarlo con secador. Es un servicio para media melena que incluye lavado, corte y peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "¿Quieres olvidarte de la plancha de una vez por todas? ¿Disfrutar de una melena lisa? Entonces, este tratamiento es para ti: con el tratamiento de keratina conseguirás una melena lisa sin dañar tu cabello. ¡Olvídate del encrespamiento! Se emplean 45gr de producto, equivalente a una media melena. Cada gramo extra cuesta 1€."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Mujer Y Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "25,5 € ", 
+            "description": "¿Quieres cambiar tu estilo? ¿Tal vez sanear tu melena? En ambos casos, te traemos este servicio de corte y peinado para que estés a la última. Córtate el pelo con nuestros estilistas y termina por peinarlo con secador. Es un servicio para cabello largo que incluye lavado, corte y peinado. Si tu melena es extralarga o tiene mucho volumen consulta posible suplemento con el salón."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "El cabello, muy a nuestro pesar, ¡crece! Y con ello llega el temido efecto raíz. Pero no te preocupes: en Cortemanía te ofrecemos este servicio de retoque de raíz. Recupera el color de tu melena y, además, terminamos con un peinado para que estés perfecta. El servicio es para cabello largo; el servicio incluye el tinte, lavado y peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Enzimoterapia (5 Horas)", 
+            "duration": 14400, 
+            "price": "110 € ", 
+            "description": "¿Buscas un alisado natural? Este tratamiento elimina el encrespamiento, no contiene químicos, ni formol, es un tratamiento natural que no daña tu cabello y te proporciona un alisado perfecto. Enzimoterapia con 50 gr de producto. Cada gramo extra que se necesite cuesta 1,5€."
+        }
+    ]
+}

@@ -1,0 +1,361 @@
+{
+    "adid": null, 
+    "name": "Incanto", 
+    "name_of_contact": "Incanto", 
+    "scrape_page": "https://www.bucmi.com/incanto", 
+    "business_website": "https://www.bucmi.com/incanto", 
+    "areas_covered": null, 
+    "description": "Especialistas en estética, contamos con la carta de servicios más variada del mercado. Nuestros profesionales han sido formados por especialistas anti-edad y cosmetología para realizar un estudio completo de su piel.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779383921887324.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779384825622975.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779384896892495.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779384897204674.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779385079269568.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779385106925724.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779385130519355.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "10", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Tuset, 19", 
+    "city": "Barcelona", 
+    "zipcode": "08021", 
+    "formatted_address": "C/ Tuset, 19, Barcelona, 08021", 
+    "country": "es", 
+    "office_number": "934342795", 
+    "office_number2": null, 
+    "mobile_number": "676428979", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4023350999", 
+    "longitude": "2.1383829000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966026352771087.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "El cuerpo tiende a acumular grasa en zonas específicas del cuerpo, con este tratamiento lo reducirás de manera visible. De manera no evasiva, remodela tu cuerpo de manera bastante eficaz y lo notarás al instante. Con la cavitación conseguiremos dar elasticidad a tu piel y y combatir la tan famosa celulitis."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lifting Facial", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Rejuevence tu tez con este lifting facial sin cirugía con electroestimulación profunda, a través de, microcorrientes. Un lifting facial específico para cada tipo de piel, una piel más tersa y suave. La piel recupera su firmeza, tono y elasticidad."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antimanchas Vitamina C Sothy's", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Suaviza el efecto de las manchas en tu rostro y siéntete más joven con este servicio, que, además, Incluye un tratamiento de higiene facial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Peeling Resurfacing Sothy's", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Incluye higiene facial con 20% ácido glicólico. Con todo esto coseguirás estimular la renovación celular"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "El cuerpo tiende a acumular grasa en zonas específicas del cuerpo, con este tratamiento lo reducirás de manera visible. De manera no evasiva, remodela tu cuerpo de manera bastante eficaz y lo notarás al instante. Con la cavitación conseguiremos dar elasticidad a tu piel y y combatir la tan famosa celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Desmaquillarse a diario no es suficiente, depura y limpia tu piel con este tratamiento para que tenga otra vida y más brillo, sin las toxinas del aire. El servicio incluye desmaquillar, peeling ultrasónico, extracción, masaje y mascarilla. Te encantarán los resultados, inmediatos y completamente visibles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Facial", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Rejuevence tu tez con este lifting facial sin cirugía con electroestimulación profunda, a través de, microcorrientes. Un lifting facial específico para cada tipo de piel, una piel más tersa y suave. La piel recupera su firmeza, tono y elasticidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Facial De Ojos", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "CACI QUANTUM - Lifting facial sin cirugía con electroestimulación profunda (Microcorrientes). Aplicada en la zona de los ojos, devolviendo a la piel firmeza, tono y elasticidad. Una piel más suave y tersa. No esperes más para disfrutar de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Facial No-Quirúrgico E Hidratone", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "CACI QUANTUM - Lifting facial que permitirá recuperar la firmeza sin cirugía con electroestimulación profunda (Microcorrientes). Hidratone es una mascarilla penetrante muy hidratante y que se penetra base a la corriente. Devuelve a la piel firmeza, tono y elasticidad. Una piel más suave y tersa. No esperes más para disfrutar de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Facial No-Quirúrugico", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "CACI QUANTUM - Lifting facial sin cirugía con electroestimulación profunda (Microcorrientes). Permitirá el estiramiento de la piel del rostro de una manera bastante eficaz. Devuelve a la piel firmeza, tono y elasticidad. Una piel más suave y tersa. No esperes más para disfrutar de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Iluminance Tto Facial Antiedad", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este paquete es perfecto para aquellas clientes que quieran rejuvenecer su rostros. Incluye Radiofrecuencia facial, mascarilla illuminance y manicura completa"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal De Flor De Cerezo E Hidratación", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Un peeling corporal destinado a purificar y oxigenar la piel, después del peeling se aplica una tratamiento hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Espalda", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "tratamiento para una espalda aún más bonita y cuidada. Incluye extracción, peeling, masaje y mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte Pestañas", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "El tinte te ayudará a realzar tus pestañas sin necesidad de usar máscara de pestañas y gracias a la permanente daremos una forma curvada a la pestaña."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Con una sesión de radiofrecuencia corporal reducirás la flacidez y aumentarás el colágeno, tan importante para disfrutar de una mayor elasticidad en la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "La radiofrecuencia facial médica es el tratamiento en el cual se utilizan ondas electromagnéticas a través del cuerpo, en este caso, la piel de la cara a fin de originar un aumento de la temperatura gradual sobre la misma para calentar los tejidos actuando principalmente sobre las fibras existentes de colágeno, fortaleciéndolas y produciéndose un efecto llamado colágeno-génesis (formación de nuevo colágeno), creando el efecto de contracción de la piel, y por lo tanto reduciendo la flacidez."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Anticelulítico Con Envolt. Localizado", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Frena la celulitis, realza tus gluteos y presume de vientre plano y bonito. Di adiós a la piel con flacidez y disfruta de un cuerpo suave y cuidado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Desintoxicante Con Envoltura", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento corporal a base de algas o fangos para desintoxicar el cuerpo, mediante envoltura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Drenante Con Envoltura", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento corporal a base de algas o fangos para drenar el cuerpo, mediante envoltura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Algas Térmicas", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Envolturas de algas para reducir volumen , desintoxicar el cuerpo acompañado de un masaje para remodelar tu cuerpo"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Envolturas Térmicas", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Delicia Xocalat-Sculpting Colágeno Activo-Drenante. Es una terapia bastante utilizada para redefinir su silueta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Tratamiento espeñífico para el rostro purificante, hidratante, oxigenante y anti edad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antimanchas Vitamina C Sothy's", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Suaviza el efecto de las manchas en tu rostro y siéntete más joven con este servicio, que, además, Incluye un tratamiento de higiene facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Colágeno Hialurónico Sothy's", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Rejuvenece tu piel con este tratamiento Antiedad intensivo. Además, desfruta de una higiene facial para presumir de tez cuidada y bonita."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Corrector Antiacné Sothy's", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Limpia tu piel y reduce el acné generado en tu rostro con este servicio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Energizante Sothy's", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Ginseng siberiano para devolver a la piel energía y luminosidad. Luce un rostro cuidado y lleno de vitalidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidradvance Sothy's", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Una tez hidratada es un aspecto fundamental para tener una piel bonita y sana. Este tratamiento de alta hidratación incluye, además, una higiene facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Peeling Resurfacing Sothy's", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Incluye higiene facial con 20% ácido glicólico. Con todo esto coseguirás estimular la renovación celular"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Alta Protección De La Mirada Sothy's", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Tratamiento específico para la zona del contorno del ojo, que permite difuminar de forma inmediata los signos de fatiga y envejecimiento. Este es un tratamiento especialmente elaborado por la investigación de Sothy's."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Lifting Corporal Reafirmante De Abdomen", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "CACI QUANTUM - Lifting sin cirugía con electroestimulación profunda (Microcorrientes). Para corregir la forma y el volumen del abdomen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Lifting Corporal Reafirmante De Busto", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "CACI QUANTUM - Lifting sin cirugía con electroestimulación profunda (Microcorrientes). Reafirma una de las partes más delicadas de su cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Lifting Corporal Reafirmante Piernas Y Glúteo", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "CACI QUANTUM - Lifting sin cirugía con electroestimulación profunda (Microcorrientes) para piernas y glúteo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "El cuerpo tiende a acumular grasa en zonas específicas del cuerpo, con este tratamiento lo reducirás de manera visible. De manera no evasiva, remodela tu cuerpo de manera bastante eficaz y lo notarás al instante. Con la cavitación conseguiremos dar elasticidad a tu piel y y combatir la tan famosa celulitis."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "El cuerpo tiende a acumular grasa en zonas específicas del cuerpo, con este tratamiento lo reducirás de manera visible. De manera no evasiva, remodela tu cuerpo de manera bastante eficaz y lo notarás al instante. Con la cavitación conseguiremos dar elasticidad a tu piel y y combatir la tan famosa celulitis."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Desmaquillarse a diario no es suficiente, depura y limpia tu piel con este tratamiento para que tenga otra vida y más brillo, sin las toxinas del aire. El servicio incluye desmaquillar, peeling ultrasónico, extracción, masaje y mascarilla. Te encantarán los resultados, inmediatos y completamente visibles."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Lifting Facial", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Rejuevence tu tez con este lifting facial sin cirugía con electroestimulación profunda, a través de, microcorrientes. Un lifting facial específico para cada tipo de piel, una piel más tersa y suave. La piel recupera su firmeza, tono y elasticidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "El cuerpo tiende a acumular grasa en zonas específicas del cuerpo, con este tratamiento lo reducirás de manera visible. De manera no evasiva, remodela tu cuerpo de manera bastante eficaz y lo notarás al instante. Con la cavitación conseguiremos dar elasticidad a tu piel y y combatir la tan famosa celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Desmaquillarse a diario no es suficiente, depura y limpia tu piel con este tratamiento para que tenga otra vida y más brillo, sin las toxinas del aire. El servicio incluye desmaquillar, peeling ultrasónico, extracción, masaje y mascarilla. Te encantarán los resultados, inmediatos y completamente visibles."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting Facial", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Rejuevence tu tez con este lifting facial sin cirugía con electroestimulación profunda, a través de, microcorrientes. Un lifting facial específico para cada tipo de piel, una piel más tersa y suave. La piel recupera su firmeza, tono y elasticidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting Facial De Ojos", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "CACI QUANTUM - Lifting facial sin cirugía con electroestimulación profunda (Microcorrientes). Aplicada en la zona de los ojos, devolviendo a la piel firmeza, tono y elasticidad. Una piel más suave y tersa. No esperes más para disfrutar de los resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting Facial No-Quirúrgico E Hidratone", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "CACI QUANTUM - Lifting facial que permitirá recuperar la firmeza sin cirugía con electroestimulación profunda (Microcorrientes). Hidratone es una mascarilla penetrante muy hidratante y que se penetra base a la corriente. Devuelve a la piel firmeza, tono y elasticidad. Una piel más suave y tersa. No esperes más para disfrutar de los resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting Facial No-Quirúrugico", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "CACI QUANTUM - Lifting facial sin cirugía con electroestimulación profunda (Microcorrientes). Permitirá el estiramiento de la piel del rostro de una manera bastante eficaz. Devuelve a la piel firmeza, tono y elasticidad. Una piel más suave y tersa. No esperes más para disfrutar de los resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Iluminance Tto Facial Antiedad", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este paquete es perfecto para aquellas clientes que quieran rejuvenecer su rostros. Incluye Radiofrecuencia facial, mascarilla illuminance y manicura completa"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal De Flor De Cerezo E Hidratación", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Un peeling corporal destinado a purificar y oxigenar la piel, después del peeling se aplica una tratamiento hidratante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Espalda", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "tratamiento para una espalda aún más bonita y cuidada. Incluye extracción, peeling, masaje y mascarilla."
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "adid": null, 
+    "name": "Sakura", 
+    "name_of_contact": "Sakura", 
+    "scrape_page": "https://www.bucmi.com/sakura", 
+    "business_website": "https://www.bucmi.com/sakura", 
+    "areas_covered": null, 
+    "description": "Centro de Osteopatía, Fascioterapia y Quiromasaje. En Sakura creemos que el paso del tiempo con una buena calidad de vida es sencillo. Ven a conocernos a Son Flor y te encantará el resultado. Reserva ahora tu cita online cómodamente a través Bucmi.com.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582252345160890.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582252347348557.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582252347661077.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582252348286134.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582252349067445.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Palma de Mallorca", 
+    "zipcode": "07011", 
+    "formatted_address": "Palma de Mallorca, 07011", 
+    "country": "es", 
+    "office_number": null, 
+    "office_number2": null, 
+    "mobile_number": "677433681", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.5883920000", 
+    "longitude": "2.6302591999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635959725005484281.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El drenaje linfático ayuda al sistema linfático de nuestro cuerpo, proporcionándonos mejoras en la retención de líquidos, piernas cansadas...El drenaje linfático es una combinación de técnicas muy suaves que ayudan a estimular el sistema linfático, a través de masajes manuales suaves en nuestro cuerpo. En Sakura realizamos todo tipo de drenajes linfáticos según la necesidad que presente el paciente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Osteopatía Fascioterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Trabajamos tanto los niveles musculares como articulares de tu cuerpo mediante una técnica manual que consiste en tratar la zona con movimientos lentos y progresivos, movimientos suaves que permiten que tu cuerpo elimine las tensiones y alivie los dolores. Precio por sesiones de una hora. ¿A qué estás esperando para disfrutar de tu bienestar?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Quiromasaje", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El quiromasaje es una técnica manual, sin instrumentos eléctricos, a través de movimientos suaves sobre el cuerpo permite que este se relaje y alivie. Trabajamos contracturas, circulación, articulaciones etc. según la necesidad que tenga el paciente. Precio por sesión de una hora de duración. Reserva ya con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El drenaje linfático ayuda al sistema linfático de nuestro cuerpo, proporcionándonos mejoras en la retención de líquidos, piernas cansadas...El drenaje linfático es una combinación de técnicas muy suaves que ayudan a estimular el sistema linfático, a través de masajes manuales suaves en nuestro cuerpo. En Sakura realizamos todo tipo de drenajes linfáticos según la necesidad que presente el paciente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El drenaje linfático ayuda al sistema linfático de nuestro cuerpo, proporcionándonos mejoras en la retención de líquidos, piernas cansadas...El drenaje linfático es una combinación de técnicas muy suaves que ayudan a estimular el sistema linfático, a través de masajes manuales suaves en nuestro cuerpo. En Sakura realizamos todo tipo de drenajes linfáticos según la necesidad que presente el paciente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Gracias a nuestros expertos terapeutas y a un diagnóstico previo veremos cuales son tus dolencias y aplicaremos de forma personalizada el tratamiento que más necesites. Porque cada cuerpo es diferente aplicamos el tratamiento que se ajuste a tu problema, para devolverle la salud a tu cuerpo. ¡Saldrás como nuevo!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía Fascioterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Trabajamos tanto los niveles musculares como articulares de tu cuerpo mediante una técnica manual que consiste en tratar la zona con movimientos lentos y progresivos, movimientos suaves que permiten que tu cuerpo elimine las tensiones y alivie los dolores. Precio por sesiones de una hora. ¿A qué estás esperando para disfrutar de tu bienestar?"
+        }
+    ]
+}

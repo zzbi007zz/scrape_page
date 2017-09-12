@@ -1,0 +1,120 @@
+{
+    "adid": null, 
+    "name": "Zapping Peluqueros", 
+    "name_of_contact": "Zapping Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/zappingpeluqueros", 
+    "business_website": "https://www.bucmi.com/zappingpeluqueros", 
+    "areas_covered": null, 
+    "description": "Si aún no nos conoces, no esperes más. Somos tu peluquería en Las tablas, ven a visitarnos y descubre nuestros servicios de corte, mechas, color y tratamientos como el de Bótox o Keratina. Déjate asesorar por los mejores profesionales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635895087764135991.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635895087792235904.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635895088557916376.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635895089213744307.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28050", 
+    "formatted_address": "Madrid, 28021, Madrid, 28050", 
+    "country": "es", 
+    "office_number": "917507560", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.5023077000", 
+    "longitude": "-3.6762049999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971841660124579.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Botox Capilar", 
+            "duration": 1800, 
+            "price": "58 € ", 
+            "description": "Recupera el cuerpo, el brillo y la vitalidad de tu cabello con nuestro tratamiento de bótox, lucirás una bonita melena más cuidada, hidratada y sana. Además conseguirás un cabello mas voluminoso y con más cuerpo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "¿Un plan imprevisto? En nuestro centro conseguirás un corte perfecto en pocos minutos y muy cerca de ti. De manos de nuestros profesionales te dejaran listo para lo que surja. El servicio incluye lavado y productos de acabado. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Dale un toque nuevo a tu look, ilumina con la perfecta combinación de colores. El asesoramiento de nuestro equipo y el uso de las técnicas mas innovadoras conseguirán que te veas renovada. El servicio incluye aplicación, lavado con hidratación y las mechas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Alisado Keratina", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "¿ Estás cansada de pelo rebelde ? ¿El uso diario del secador y las planchas te están estropeando el cabello? Ven a Zapping, nuestro tratamiento de Keratina dejara tu cabello suave y nutrido. Despídete del secador durante meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Botox Capilar", 
+            "duration": 1800, 
+            "price": "58 € ", 
+            "description": "Recupera el cuerpo, el brillo y la vitalidad de tu cabello con nuestro tratamiento de bótox, lucirás una bonita melena más cuidada, hidratada y sana. Además conseguirás un cabello mas voluminoso y con más cuerpo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Ven a conocernos y renueva tu tono de pelo. Con el asesoramiento de nuestro equipo podrás elegir entre la amplia carta de colores de la que disponemos. El servicio incluye aplicación de color y lavado con hidratación."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "¿Un plan imprevisto? En nuestro centro conseguirás un corte perfecto en pocos minutos y muy cerca de ti. De manos de nuestros profesionales te dejaran listo para lo que surja. El servicio incluye lavado y productos de acabado. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿ Cansada de tu look ? Consigue un cambio que buscas con el mejor asesoramiento y la aplicación de las técnicas mas innovadoras de la mano de nuestro equipo de profesionales. El servicio incluye lavado con hidratación. Lista en un periquete."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Niño", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "Si quieres que tus pequeños luzcan impecables tráelos a Zapping y nuestros profesionales harán que cortarse el pelo sea un juego de niños. Ya no te costará nada traer a tus peques a la pelu."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Dale un toque nuevo a tu look, ilumina con la perfecta combinación de colores. El asesoramiento de nuestro equipo y el uso de las técnicas mas innovadoras conseguirán que te veas renovada. El servicio incluye aplicación, lavado con hidratación y las mechas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Dos Tonos", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "¿Una melena de infarto? Da luz a tu cabello con unas mechas en dos tonos, nosotros te ayudaremos a elegir la combinación de colores que mas se adecue a ti y a tu estilo. El servicio incluye aplicación y lavado con hidratación. Serás la envidia de todas las miradas."
+        }
+    ]
+}

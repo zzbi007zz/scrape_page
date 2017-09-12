@@ -1,0 +1,361 @@
+{
+    "adid": null, 
+    "name": "Bliss Centro de Estética y Uñas", 
+    "name_of_contact": "Bliss Centro de Estética y Uñas", 
+    "scrape_page": "https://www.bucmi.com/bliss-centro-estetica", 
+    "business_website": "https://www.bucmi.com/bliss-centro-estetica", 
+    "areas_covered": null, 
+    "description": "Bliss es un centro de estética especializado en tratamientos de uñas así como en extensiones de pestañas. Ubicado en el número 70 de la céntrica calle madrileña Ortega y Gasset, al lado de la parada lista en el Barrio de Salamanca de Madrid, podrás disfrutar de tratamientos faciales realizados con la exclusiva marca Germaine de Capuccini, y de Shellac o Spress para tus manicuras y pedicuras de larga duración. Además, también podrás encontrar servicios de depilación láser para olvidarte de tu vello, de peeling químico para renovar la piel de tu rostro, y de tratamientos de cavitación, radiofrecuencia y electro-estimulación para un cuerpo firme y esbelto.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282859492962022.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282859510305466.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282859524680393.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282859553429964.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282859577804678.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282859589991848.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282859599835484.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "31", 
+    "hqdb_review_score": "8,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Canarias, 1", 
+    "city": "Madrid", 
+    "zipcode": "28006", 
+    "formatted_address": "C/ Canarias, 1, Madrid, 28006", 
+    "country": "es", 
+    "office_number": "911893853", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4296973000", 
+    "longitude": "-3.6743579999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636282860812005824.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Masaje Reafirmante Y Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Un pack de terapias manuales ideal para remodelar la silueta. Combina un masaje específico reafirmante y un drenaje linfático, que ayudan a movilizar la grasa y los líquidos acumulados para favorecer su eliminación natural, además de activar el colágeno y las células de la piel para recuperar firmeza. De esta manera, la piel se ve más tersa y se suavizan problemas como el efecto piel de naranja o los bultos creados por la celulítis."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Higiene Facial Y Manicura Básica", 
+            "duration": 900, 
+            "price": "57 € ", 
+            "description": "Pack de belleza para el rostro y las manos. Combina una higiene facial normal para limpiar y cuidar el rostro y una sesión de manicura básica para embellecer las manos. La limpieza facial incluye desmaquillado, peeling, extracción, mascarilla e hidratación. Y la manicura incluye limar/cortar las uñas, retirar cutículas, hidratación y esmaltado básico en un color a elegir entre la gama de colores disponibles en el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antiedad Con Vitaminas", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Este tratamiento facial de Bliss Centro de Estética y Uñas está pensado para regenerar la piel del cutis y aportarle las vitaminas necesarias para que recupere un aspecto natural más joven. El tratamiento se realiza completo por la mano experta de las esteticistas profesionales de Bliss con cosméticos de la mejor calidad y un concentrado de vitaminas. Entre otros beneficios, aporta luminosidad, reduce los signos de la edad y cuida la piel en profundidad."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si estas buscando un tratamiento para plantar cara a la grasa localizada y díficil de eliminar, en Bliss Centro de Estética, tenemos lo que necesitas y los mejores profesionales cualificados. Se trata de un tratamiento de lipoescultura no invasiva con el que se rompen las células de grasa y para liberarla de una manera completamente natural. Reserva tu cita cómodamente online a través de Bucmi.com en tan solo 3 clics. Notarás resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Y Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¡Dale un capricho a tu rostro! Luce una piel limpia y tersa gracias a los beneficios de la radiofrecuencia. Se trata de la combinación de dos tratamientos ideales, una higiene facial con productos de primera calidad de Germaine de Capuccini junto con el tratamiento de radiofrecuencia en contorno de ojos.Presume de una piel rejuvenecida y luminosa.Ponte guapa en Bliss Centro de Estética con Bucmi.com. Cuida tu piel de una vez por todas y reserva online en tan solo 3 clics."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "En Bliss Centro de Estética disponemos de la tecnología mas avanzada para presumir de una piel impecable. Consiste en la aplicación de los principios activos que combinados con los diferentes colores de luz LED (rojo, azul y verde), permite personalizar los tratamientos para atender las necesidades del cliente.El servicio se aplica en cara,cuello y escote. Reserva tu cita cómodamente en Bucmi.com. Te encantarán los resultados y repetirás."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Descubre los beneficios de la presoterapia y alivia el malestar de tus piernas desde la primera sesión. Se trata de un sesión de drenaje mecánico con el que mejorar la circulación y los problemas venosos, reduciendo la hinchazón y la inflamación, relajando las piernas cansadas y reduciendo la celulitis. No dejes que te lo cuenten y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Masaje Reafirmante Y Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Un pack de terapias manuales ideal para remodelar la silueta. Combina un masaje específico reafirmante y un drenaje linfático, que ayudan a movilizar la grasa y los líquidos acumulados para favorecer su eliminación natural, además de activar el colágeno y las células de la piel para recuperar firmeza. De esta manera, la piel se ve más tersa y se suavizan problemas como el efecto piel de naranja o los bultos creados por la celulítis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Higiene Facial Y Manicura Básica", 
+            "duration": 900, 
+            "price": "57 € ", 
+            "description": "Pack de belleza para el rostro y las manos. Combina una higiene facial normal para limpiar y cuidar el rostro y una sesión de manicura básica para embellecer las manos. La limpieza facial incluye desmaquillado, peeling, extracción, mascarilla e hidratación. Y la manicura incluye limar/cortar las uñas, retirar cutículas, hidratación y esmaltado básico en un color a elegir entre la gama de colores disponibles en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Con Vitaminas", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Este tratamiento facial de Bliss Centro de Estética y Uñas está pensado para regenerar la piel del cutis y aportarle las vitaminas necesarias para que recupere un aspecto natural más joven. El tratamiento se realiza completo por la mano experta de las esteticistas profesionales de Bliss con cosméticos de la mejor calidad y un concentrado de vitaminas. Entre otros beneficios, aporta luminosidad, reduce los signos de la edad y cuida la piel en profundidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si estas buscando un tratamiento para plantar cara a la grasa localizada y díficil de eliminar, en Bliss Centro de Estética, tenemos lo que necesitas y los mejores profesionales cualificados. Se trata de un tratamiento de lipoescultura no invasiva con el que se rompen las células de grasa y para liberarla de una manera completamente natural. Reserva tu cita cómodamente online a través de Bucmi.com en tan solo 3 clics. Notarás resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¿Quieres lucir una mirada penetrante y cautivadora? Ven a Bliss Centro de Estética y ponte en manos de nuestros mejores profesionales. Presume de una mirada perfecta, alargada e intensificada. Disfruta de una mirada seductora y atractiva. Da volumen a tus ojos. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si sientes tu piel apagada y sin vida, es el momento de reservar tu cita para disfrutar de todo un ritual completo de higiene facial con productos de primera calidad de Germaine de Capuccini con el que sentirás como tu piel recobra su luz y brillo natural. Reserva tu cita ya, te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¡Dale un capricho a tu rostro! Luce una piel limpia y tersa gracias a los beneficios de la radiofrecuencia. Se trata de la combinación de dos tratamientos ideales, una higiene facial con productos de primera calidad de Germaine de Capuccini junto con el tratamiento de radiofrecuencia en contorno de ojos.Presume de una piel rejuvenecida y luminosa.Ponte guapa en Bliss Centro de Estética con Bucmi.com. Cuida tu piel de una vez por todas y reserva online en tan solo 3 clics."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mantenimiento De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Aplicamos nuevas extensiones pelo a pelo para volver a darles la densidad deseada. ¿Quieres lucir una mirada atractiva y seductora? Ven a Bliss Centro de Estética y ponte en manos de nuestros mejores profesionales. Presume de una mirada de cine. Tu mirada con mucho más volumen e intensidad. Disfruta de una mirada penetrante y cautivadora. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "En Bliss Centro de Estética disponemos de la tecnología mas avanzada para presumir de una piel impecable. Consiste en la aplicación de los principios activos que combinados con los diferentes colores de luz LED (rojo, azul y verde), permite personalizar los tratamientos para atender las necesidades del cliente.El servicio se aplica en cara,cuello y escote. Reserva tu cita cómodamente en Bucmi.com. Te encantarán los resultados y repetirás."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Moldea tu figura y reduce los centímetros de más gracias a la tecnología más efectiva para reactivar el colágeno natural,mejorando el metabolismo, disminuyendo la piel de naranja y la flacidez. Remodela, reduce y realza la figura. Luce un cuerpo tonificado y dí adiós a la grasa localizada y la celulitis. No lo pienses más y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas Ó Cejas", 
+            "duration": 2700, 
+            "price": "10 € ", 
+            "description": "Este servicio incluye: tinte de pestañas ó cejas. ¿Quieres lucir una mirada penetrante y seductora? Ven a Bliss Centro de Estética y ponte en manos de nuestros mejores profesionales. Olvídate durante semanas del maquillaje en tus pestañas y disfruta ya de este servicio de tinte, con el que resaltaremos el color de tu mirada. Las cejas son un punto clave en la expresión y personalidad de cualquier rostro. ¡Luce unas cejas perfectas, con un color uniforme gracias a un tinte, con productos de primera calidad!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Diseño De Cejas", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "La forma de nuestras cejas es un elemento esencial en el aspecto de nuestro rostro. ¡Luce unas cejas perfectas, con un color uniforme gracias a un tinte, siempre con productos de primera calidad! Conseguirás así embellecer tu rostro y potenciar tus rasgos, siempre en manos de nuestro equipo de profesionales. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Descubre los beneficios de la presoterapia y alivia el malestar de tus piernas desde la primera sesión. Se trata de un sesión de drenaje mecánico con el que mejorar la circulación y los problemas venosos, reduciendo la hinchazón y la inflamación, relajando las piernas cansadas y reduciendo la celulitis. No dejes que te lo cuenten y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Masaje Reafirmante Y Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Un pack de terapias manuales ideal para remodelar la silueta. Combina un masaje específico reafirmante y un drenaje linfático, que ayudan a movilizar la grasa y los líquidos acumulados para favorecer su eliminación natural, además de activar el colágeno y las células de la piel para recuperar firmeza. De esta manera, la piel se ve más tersa y se suavizan problemas como el efecto piel de naranja o los bultos creados por la celulítis."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Higiene Facial Y Manicura Básica", 
+            "duration": 900, 
+            "price": "57 € ", 
+            "description": "Pack de belleza para el rostro y las manos. Combina una higiene facial normal para limpiar y cuidar el rostro y una sesión de manicura básica para embellecer las manos. La limpieza facial incluye desmaquillado, peeling, extracción, mascarilla e hidratación. Y la manicura incluye limar/cortar las uñas, retirar cutículas, hidratación y esmaltado básico en un color a elegir entre la gama de colores disponibles en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Antiedad Con Vitaminas", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Este tratamiento facial de Bliss Centro de Estética y Uñas está pensado para regenerar la piel del cutis y aportarle las vitaminas necesarias para que recupere un aspecto natural más joven. El tratamiento se realiza completo por la mano experta de las esteticistas profesionales de Bliss con cosméticos de la mejor calidad y un concentrado de vitaminas. Entre otros beneficios, aporta luminosidad, reduce los signos de la edad y cuida la piel en profundidad."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si estas buscando un tratamiento para plantar cara a la grasa localizada y díficil de eliminar, en Bliss Centro de Estética, tenemos lo que necesitas y los mejores profesionales cualificados. Se trata de un tratamiento de lipoescultura no invasiva con el que se rompen las células de grasa y para liberarla de una manera completamente natural. Reserva tu cita cómodamente online a través de Bucmi.com en tan solo 3 clics. Notarás resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¿Quieres lucir una mirada penetrante y cautivadora? Ven a Bliss Centro de Estética y ponte en manos de nuestros mejores profesionales. Presume de una mirada perfecta, alargada e intensificada. Disfruta de una mirada seductora y atractiva. Da volumen a tus ojos. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si sientes tu piel apagada y sin vida, es el momento de reservar tu cita para disfrutar de todo un ritual completo de higiene facial con productos de primera calidad de Germaine de Capuccini con el que sentirás como tu piel recobra su luz y brillo natural. Reserva tu cita ya, te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Y Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¡Dale un capricho a tu rostro! Luce una piel limpia y tersa gracias a los beneficios de la radiofrecuencia. Se trata de la combinación de dos tratamientos ideales, una higiene facial con productos de primera calidad de Germaine de Capuccini junto con el tratamiento de radiofrecuencia en contorno de ojos.Presume de una piel rejuvenecida y luminosa.Ponte guapa en Bliss Centro de Estética con Bucmi.com. Cuida tu piel de una vez por todas y reserva online en tan solo 3 clics."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mantenimiento De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Aplicamos nuevas extensiones pelo a pelo para volver a darles la densidad deseada. ¿Quieres lucir una mirada atractiva y seductora? Ven a Bliss Centro de Estética y ponte en manos de nuestros mejores profesionales. Presume de una mirada de cine. Tu mirada con mucho más volumen e intensidad. Disfruta de una mirada penetrante y cautivadora. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "En Bliss Centro de Estética disponemos de la tecnología mas avanzada para presumir de una piel impecable. Consiste en la aplicación de los principios activos que combinados con los diferentes colores de luz LED (rojo, azul y verde), permite personalizar los tratamientos para atender las necesidades del cliente.El servicio se aplica en cara,cuello y escote. Reserva tu cita cómodamente en Bucmi.com. Te encantarán los resultados y repetirás."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Moldea tu figura y reduce los centímetros de más gracias a la tecnología más efectiva para reactivar el colágeno natural,mejorando el metabolismo, disminuyendo la piel de naranja y la flacidez. Remodela, reduce y realza la figura. Luce un cuerpo tonificado y dí adiós a la grasa localizada y la celulitis. No lo pienses más y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Descubre los beneficios de la presoterapia y alivia el malestar de tus piernas desde la primera sesión. Se trata de un sesión de drenaje mecánico con el que mejorar la circulación y los problemas venosos, reduciendo la hinchazón y la inflamación, relajando las piernas cansadas y reduciendo la celulitis. No dejes que te lo cuenten y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Masaje Reafirmante Y Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Un pack de terapias manuales ideal para remodelar la silueta. Combina un masaje específico reafirmante y un drenaje linfático, que ayudan a movilizar la grasa y los líquidos acumulados para favorecer su eliminación natural, además de activar el colágeno y las células de la piel para recuperar firmeza. De esta manera, la piel se ve más tersa y se suavizan problemas como el efecto piel de naranja o los bultos creados por la celulítis."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Higiene Facial Y Manicura Básica", 
+            "duration": 900, 
+            "price": "57 € ", 
+            "description": "Pack de belleza para el rostro y las manos. Combina una higiene facial normal para limpiar y cuidar el rostro y una sesión de manicura básica para embellecer las manos. La limpieza facial incluye desmaquillado, peeling, extracción, mascarilla e hidratación. Y la manicura incluye limar/cortar las uñas, retirar cutículas, hidratación y esmaltado básico en un color a elegir entre la gama de colores disponibles en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Descubre los beneficios de la presoterapia y alivia el malestar de tus piernas desde la primera sesión. Se trata de un sesión de drenaje mecánico con el que mejorar la circulación y los problemas venosos, reduciendo la hinchazón y la inflamación, relajando las piernas cansadas y reduciendo la celulitis. No dejes que te lo cuenten y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Masaje Reafirmante Y Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Un pack de terapias manuales ideal para remodelar la silueta. Combina un masaje específico reafirmante y un drenaje linfático, que ayudan a movilizar la grasa y los líquidos acumulados para favorecer su eliminación natural, además de activar el colágeno y las células de la piel para recuperar firmeza. De esta manera, la piel se ve más tersa y se suavizan problemas como el efecto piel de naranja o los bultos creados por la celulítis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Higiene Facial Y Manicura Básica", 
+            "duration": 900, 
+            "price": "57 € ", 
+            "description": "Pack de belleza para el rostro y las manos. Combina una higiene facial normal para limpiar y cuidar el rostro y una sesión de manicura básica para embellecer las manos. La limpieza facial incluye desmaquillado, peeling, extracción, mascarilla e hidratación. Y la manicura incluye limar/cortar las uñas, retirar cutículas, hidratación y esmaltado básico en un color a elegir entre la gama de colores disponibles en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Antiedad Con Vitaminas", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Este tratamiento facial de Bliss Centro de Estética y Uñas está pensado para regenerar la piel del cutis y aportarle las vitaminas necesarias para que recupere un aspecto natural más joven. El tratamiento se realiza completo por la mano experta de las esteticistas profesionales de Bliss con cosméticos de la mejor calidad y un concentrado de vitaminas. Entre otros beneficios, aporta luminosidad, reduce los signos de la edad y cuida la piel en profundidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si estas buscando un tratamiento para plantar cara a la grasa localizada y díficil de eliminar, en Bliss Centro de Estética, tenemos lo que necesitas y los mejores profesionales cualificados. Se trata de un tratamiento de lipoescultura no invasiva con el que se rompen las células de grasa y para liberarla de una manera completamente natural. Reserva tu cita cómodamente online a través de Bucmi.com en tan solo 3 clics. Notarás resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¿Quieres lucir una mirada penetrante y cautivadora? Ven a Bliss Centro de Estética y ponte en manos de nuestros mejores profesionales. Presume de una mirada perfecta, alargada e intensificada. Disfruta de una mirada seductora y atractiva. Da volumen a tus ojos. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si sientes tu piel apagada y sin vida, es el momento de reservar tu cita para disfrutar de todo un ritual completo de higiene facial con productos de primera calidad de Germaine de Capuccini con el que sentirás como tu piel recobra su luz y brillo natural. Reserva tu cita ya, te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Y Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¡Dale un capricho a tu rostro! Luce una piel limpia y tersa gracias a los beneficios de la radiofrecuencia. Se trata de la combinación de dos tratamientos ideales, una higiene facial con productos de primera calidad de Germaine de Capuccini junto con el tratamiento de radiofrecuencia en contorno de ojos.Presume de una piel rejuvenecida y luminosa.Ponte guapa en Bliss Centro de Estética con Bucmi.com. Cuida tu piel de una vez por todas y reserva online en tan solo 3 clics."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mantenimiento De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Aplicamos nuevas extensiones pelo a pelo para volver a darles la densidad deseada. ¿Quieres lucir una mirada atractiva y seductora? Ven a Bliss Centro de Estética y ponte en manos de nuestros mejores profesionales. Presume de una mirada de cine. Tu mirada con mucho más volumen e intensidad. Disfruta de una mirada penetrante y cautivadora. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "En Bliss Centro de Estética disponemos de la tecnología mas avanzada para presumir de una piel impecable. Consiste en la aplicación de los principios activos que combinados con los diferentes colores de luz LED (rojo, azul y verde), permite personalizar los tratamientos para atender las necesidades del cliente.El servicio se aplica en cara,cuello y escote. Reserva tu cita cómodamente en Bucmi.com. Te encantarán los resultados y repetirás."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Moldea tu figura y reduce los centímetros de más gracias a la tecnología más efectiva para reactivar el colágeno natural,mejorando el metabolismo, disminuyendo la piel de naranja y la flacidez. Remodela, reduce y realza la figura. Luce un cuerpo tonificado y dí adiós a la grasa localizada y la celulitis. No lo pienses más y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas Ó Cejas", 
+            "duration": 2700, 
+            "price": "10 € ", 
+            "description": "Este servicio incluye: tinte de pestañas ó cejas. ¿Quieres lucir una mirada penetrante y seductora? Ven a Bliss Centro de Estética y ponte en manos de nuestros mejores profesionales. Olvídate durante semanas del maquillaje en tus pestañas y disfruta ya de este servicio de tinte, con el que resaltaremos el color de tu mirada. Las cejas son un punto clave en la expresión y personalidad de cualquier rostro. ¡Luce unas cejas perfectas, con un color uniforme gracias a un tinte, con productos de primera calidad!"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "adid": null, 
+    "name": "Hair Simon", 
+    "name_of_contact": "Hair Simon", 
+    "scrape_page": "https://www.bucmi.com/hairsimon", 
+    "business_website": "https://www.bucmi.com/hairsimon", 
+    "areas_covered": null, 
+    "description": "Centro de peluquería y belleza en la zona de Paseo de Gracia. Ven y encuentra un amplio abanico de servicios dispuestos para ti. Llevamos años ofreciendo los mejores servicios y productos para dejar satisfechos a nuestros clientes. Reserva con Bucmi.com.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379329713973.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379384712386.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379444398319.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379522677380.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379584862953.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379653298856.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379711734771.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379787826580.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636204379856418457.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08012", 
+    "formatted_address": "Barcelona, 08041, Barcelona, 08013, Barcelona, 08019, Barcelona, 08006, Barcelona, Barcelona, Barcelona, 08012", 
+    "country": "es", 
+    "office_number": "932855263", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4034399000", 
+    "longitude": "2.1610230999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636204381302004559.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Bótox Capilar + Plancha", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Hidrata tu cabello y repara tu cabello con uno de los tratamientos más naturales.Se aplica a través de masajes y calor. Este servicio tiene una duración de 20 minutos. Fortalece tu pelo y dale brillo y volumen. Apto para todo tipo de cabello."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas+Matiz + Corte + Peinado + Mascarill", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¿Cansada de llevar el mismo tono de pelo?¿Quieres lucir una melena como la de las famosas? Dale un toque diferencial con las mechas californianas que te aportarán viveza y luz a tu look. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre + Producto De Acabado", 
+            "duration": 1800, 
+            "price": "20,5 € ", 
+            "description": "Cambia de look en tan solo 30 minutos. Corte tradicional o de actualidad a máquina tijera o navaja. Incluye lavado y productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Keratina Brasileño", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "¿ Deseas una melena de infarto ? ¿ Cansada de planchas y secadores a diario ? Con este tratamieto de keratina, conseguirás eliminar el encrespamiento de tu pelo. Indicado para todo tipo de cabellos. Duración de tres a cinco meses."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Incluye corte, lavado y peinado además de los productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Bótox Capilar + Plancha", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Hidrata tu cabello y repara tu cabello con uno de los tratamientos más naturales.Se aplica a través de masajes y calor. Este servicio tiene una duración de 20 minutos. Fortalece tu pelo y dale brillo y volumen. Apto para todo tipo de cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas+Matiz + Corte + Peinado + Mascarill", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¿Cansada de llevar el mismo tono de pelo?¿Quieres lucir una melena como la de las famosas? Dale un toque diferencial con las mechas californianas que te aportarán viveza y luz a tu look. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre + Producto De Acabado", 
+            "duration": 1800, 
+            "price": "20,5 € ", 
+            "description": "Cambia de look en tan solo 30 minutos. Corte tradicional o de actualidad a máquina tijera o navaja. Incluye lavado y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Brasileño", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "¿ Deseas una melena de infarto ? ¿ Cansada de planchas y secadores a diario ? Con este tratamieto de keratina, conseguirás eliminar el encrespamiento de tu pelo. Indicado para todo tipo de cabellos. Duración de tres a cinco meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Incluye corte, lavado y peinado además de los productos de acabado."
+        }
+    ]
+}

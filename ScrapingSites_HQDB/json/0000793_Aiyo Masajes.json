@@ -1,0 +1,178 @@
+{
+    "adid": null, 
+    "name": "Aiyo Masajes", 
+    "name_of_contact": "Aiyo Masajes", 
+    "scrape_page": "https://www.bucmi.com/aiyomasajes", 
+    "business_website": "https://www.bucmi.com/aiyomasajes", 
+    "areas_covered": null, 
+    "description": "En la Rotonda de Bilbao, el salón de Belleza Aiyo Masajes cuenta con todo tipo de tratamientos para el cuidado y bienestar del cuerpo. Técnicas tradicionales mezcladas con las últimas tendencias. ¡Reserva servicios con nosotros y verás los resultados!", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cisneros, 3", 
+    "city": "Madrid", 
+    "zipcode": "28010", 
+    "formatted_address": "C/ Cisneros, 3, Madrid, 28010", 
+    "country": "es", 
+    "office_number": "911297591", 
+    "office_number2": null, 
+    "mobile_number": "665243066", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4296152999", 
+    "longitude": "-3.7016112999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636016124232629254.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 4 Manicuras Y 1 Pedicura", 
+            "duration": 3600, 
+            "price": "96 € ", 
+            "description": "¡Aprovecha nuestro bono de 4 Manicuras y 1 Pedicura! Podrás disfrutar de unas uñas siempre perfectas. Empezamos limando, retiramos cutículas, y finalizamos esmaltando con el color que más te guste entre una amplia gama."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. Con este servicio resultarás con una manicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante O Descontracturante 60M", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Masaje relajante o descontracturante, según las necesidades del cliente. El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 4 Manicuras Y 1 Pedicura", 
+            "duration": 3600, 
+            "price": "96 € ", 
+            "description": "¡Aprovecha nuestro bono de 4 Manicuras y 1 Pedicura! Podrás disfrutar de unas uñas siempre perfectas. Empezamos limando, retiramos cutículas, y finalizamos esmaltando con el color que más te guste entre una amplia gama."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Belleza", 
+            "duration": 2700, 
+            "price": "10 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir y para finalizar un masaje en las manos. Todo ello por el increíble precio de 10 euros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. Con este servicio resultarás con una manicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Spa", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir, peeling, hidratación y por último un masaje en las manos. Todo ello por el increíble precio de 24 euros."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Manicuras Y 1 Pedicura", 
+            "duration": 3600, 
+            "price": "96 € ", 
+            "description": "¡Aprovecha nuestro bono de 4 Manicuras y 1 Pedicura! Podrás disfrutar de unas uñas siempre perfectas. Empezamos limando, retiramos cutículas, y finalizamos esmaltando con el color que más te guste entre una amplia gama."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Belleza", 
+            "duration": 2700, 
+            "price": "10 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir y para finalizar un masaje en las manos. Todo ello por el increíble precio de 10 euros."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. Con este servicio resultarás con una manicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Spa", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir, peeling, hidratación y por último un masaje en las manos. Todo ello por el increíble precio de 24 euros."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Y Pedicura Permanente", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "¿Te gustaría disfrutar de unas uñas siempre perfectas con este pack de manicura y pedicura permanente? Empezamos limando, retiramos cutículas, y finalizamos esmaltando con el color que más te guste entre una amplia gama."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!"
+        }
+    ]
+}

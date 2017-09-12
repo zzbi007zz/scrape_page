@@ -1,0 +1,79 @@
+{
+    "adid": null, 
+    "name": "Clinica Phar", 
+    "name_of_contact": "Clinica Phar", 
+    "scrape_page": "https://www.bucmi.com/clinicaphar", 
+    "business_website": "https://www.bucmi.com/clinicaphar", 
+    "areas_covered": null, 
+    "description": "Somos tu Clínica en el centro de Barcelona. Te ayudamos y asesoramos en todo lo relacionado a nuestros servicios.Prueba ya nuestros blanqueamientos, higienes dentales, o peeling faciales. Además somos especialistas en tratamientos faciales. Visítanos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913242547377884.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913242585971130.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913242634104665.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913242677854517.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913242731760619.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08042", 
+    "formatted_address": "Barcelona, Barcelona, Barcelona, 08036, Barcelona, 08007, Barcelona, 08034, Barcelona, 08029, Barcelona, Barcelona, Barcelona, 08028, Barcelona, 08030, Barcelona, 08009, Barcelona, 08042", 
+    "country": "es", 
+    "office_number": "933542624", 
+    "office_number2": null, 
+    "mobile_number": "633676490", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4387416000", 
+    "longitude": "2.1731155999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635947695431844234.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Dental", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Porque muchas veces tu visita el dentista es únicamente por verte bien. Esta higiene dental de dejará una sonrisa fabulosa y sana. Los dientes son salud y belleza, sin duda alguna, te encantará."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Dental Y Blanqueamiento", 
+            "duration": 5400, 
+            "price": "300 € ", 
+            "description": "En Clínica Phar trabajamos para que nuestros dientes tengan una buena salud y también para que se vean bien. Un blanqueamiento con higiene dental te dejará perfecta por dentro y por fuera .Por eso muchas veces tu visita al dentista es simplemente para verte mejor. Es una de nuestras especialidades."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carillas De Porcelana", 
+            "duration": 1800, 
+            "price": "470 € ", 
+            "description": "Presume de sonrisa perfecta con nuestro servicio 100% asesorado por nuestros especialistas dentales de carillas, que te ofrecemos en Clínica Phar. Consigue una boca sin imperfecciones digna de cualquier estrella de cine. Se realiza en tres visitas semanales ( para estudiar al paciente, realizar los moldes e implantar la pieza ). El precio es por pieza."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Dental", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Porque muchas veces tu visita el dentista es únicamente por verte bien. Esta higiene dental de dejará una sonrisa fabulosa y sana. Los dientes son salud y belleza, sin duda alguna, te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Dental Y Blanqueamiento", 
+            "duration": 5400, 
+            "price": "300 € ", 
+            "description": "En Clínica Phar trabajamos para que nuestros dientes tengan una buena salud y también para que se vean bien. Un blanqueamiento con higiene dental te dejará perfecta por dentro y por fuera .Por eso muchas veces tu visita al dentista es simplemente para verte mejor. Es una de nuestras especialidades."
+        }
+    ]
+}

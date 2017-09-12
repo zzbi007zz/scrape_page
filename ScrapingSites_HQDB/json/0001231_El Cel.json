@@ -1,0 +1,234 @@
+{
+    "adid": null, 
+    "name": "El Cel", 
+    "name_of_contact": "El Cel", 
+    "scrape_page": "https://www.bucmi.com/elcel", 
+    "business_website": "https://www.bucmi.com/elcel", 
+    "areas_covered": null, 
+    "description": "Exclusivo centro de estética en Barcelona. El Cel está formado por un cualificado equipo de profesionales, que utilizan las últimas técnicas en el cuidado del cliente. Variedad de servicios de belleza y bienestar. ¡Ven a visitarnos y saldrás como nuev@!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635984091681718161.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635984091717076851.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635984091748645819.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985719556810867.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985719563500488.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985719562980534.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pallars, 375", 
+    "city": "Barcelona", 
+    "zipcode": "08019", 
+    "formatted_address": "C/ Pallars, 375, Barcelona, 08019", 
+    "country": "es", 
+    "office_number": "931620006", 
+    "office_number2": null, 
+    "mobile_number": "684330474", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4081416000", 
+    "longitude": "2.2117719000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635984102900132201.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Summer Skin Vitality", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Summer Skin Vitality es un tratamiento a base de vitamina C para preparar la piel para el sol del verano o para repararla de los daños causados por la exposición solar. Se divide en dos fases, una para el rostro y la otra para el cuerpo. El tratamiento facial hidrata la piel en profundidad y la repara reafirmándola. El tratamiento corporal tonifica el cuerpo, relajando los músculos gracias a un masaje aromático."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Experiencia El Cel Gold: Tto. Facial Y Masaje", 
+            "duration": 10800, 
+            "price": "370 € ", 
+            "description": "La experiencia más completa para sentirse única y delicada. Relájese con un tratamiento facial y un masaje corporal. Además podrás disfrutar de una degustación de catering selecto y a su gusto. En El Cel sabemos lo importante que es mimarse y por ello te ofrecemos un servicio completo, para que salgas totalmente nuev@ de nuestro centro. ¡No lo dudes, date un capricho de vez en cuando y reserva ya cómodamente en Bucmi!DF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Anti-Edad Bio- Détox By Sacred Nature", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Un tratamiento anti-edad para rostro y cuerpo, Nutre la piel con productos que han sido formulados siguiendo las normas de Ecocert. Desintoxica, nutre y protege la piel a través de un ritual agradable yacogedor. Ofrecemos un tratamiento natural indicado para todo tipo de pieles, incluso la más sensibles."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antiedad Flash Personalizado", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "Flash personalizado LPG Endermolift (40min). La técnica antiedad Endermolift de LPG ofrece resultados inmediatos: efecto luminosidad, efecto lifting natural y efecto anti-fatiga. De esta forma, y a medida que pasen las sesiones, este servicio tendrá un efecto relleno de arrugas, reafirmante de los contornos y aclarado en el tono de la piel. En El Cel utilizamos primeras marcas para que el resultado sea increíble. ¡No lo dudes y reserva ya cómodamente en Bucmi!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Diamond Experience Rose Ritual", 
+            "duration": 5400, 
+            "price": "189 € ", 
+            "description": "Tratamiento con exquisita rosa de Damasco y polvo de diamante. Después de una exfoliación, la piel recupera toda su esplendor, gracias a un rico aceite que incorpora ingredientes nutritivos y a un producto de elegante acabado con efecto satinado. Conseguirás así una piel más elástica y suave que nunca. Sin lugar a dudas, el secreto de belleza más sensual y efectivo. ¡No lo dudes y reserva ya cómodamente online con nosotros!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual Método Vodder", 
+            "duration": 3600, 
+            "price": "95 € ", 
+            "description": "¿Quieres lucir un cuerpo más esbelto con una piel mucho más tersa? No lo dudes y reserva ya este servicio de drenaje linfático manual con el método vodder, aplicado al cuerpo entero. A través de movimiento manuales suaves, se mejora así la circulación. De esta manera,conseguirás también reafirmar el cuerpo. El Cel cuenta con lo último en aparatología. ¡Reserva ya con nosotros y notarás el increíble resultado!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Experiencia El Cel Gold: Tto. Facial Y Masaje", 
+            "duration": 10800, 
+            "price": "370 € ", 
+            "description": "La experiencia más completa para sentirse única y delicada. Relájese con un tratamiento facial y un masaje corporal. Además podrás disfrutar de una degustación de catering selecto y a su gusto. En El Cel sabemos lo importante que es mimarse y por ello te ofrecemos un servicio completo, para que salgas totalmente nuev@ de nuestro centro. ¡No lo dudes, date un capricho de vez en cuando y reserva ya cómodamente en Bucmi!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Experiencia El Cel: Tto. Facial O Corporal", 
+            "duration": 7200, 
+            "price": "290 € ", 
+            "description": "Tratamiento facial y corporal según las necesidades. Esta experiencia es resultado de la combinación de nuestros tratamientos Beauty a la carta y Masaje “Tocant El Cel”. Una experiencia única, personalizada y completa para que salgas como nuev@ de nuestro centro. Confía en nuestro equipo de profesionales que trabajarán para conseguir el resultado que estás esperando. Reserva ya cómodamente online y ¡te encantará! La duración del servicio es de aproximadamente 2 horas. DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Profunda Eva Lom", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "La facial de Eve Lom consiste en una limpieza facial profunda, con aplicación de una mascarilla caliente que relajará sus músculos faciales y suavizará tu piel. Incluye un masaje drenante en la parte superior del cuello y mascarilla descongestiva y revitalizante. Eve Lom compensa las funciones de la piel y calma las pieles más irritadas, congestionadas y con poros dejando una piel radiante. Reserva hoy mismo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Pestañas", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Sí, ha llegado el lifting de pestañas y es una maravilla. En este servicio se alarga la pestaña desde la raíz para que, de esta manera, consigas la longitud deseada, hasta los pelos más pequeños. Durante el proceso se aplican varios geles y, por último, un pequeño tinte en las pestañas para que olvides la máscara. Como aspecto positivo, las pestañas no se irán cayendo, ya que se trabaja sobre las propias. ¡No lo dudes, una mirada dirá mucho de tí!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal “Tocant El Cel”", 
+            "duration": 3600, 
+            "price": "125 € ", 
+            "description": "Reserva ya este increíble masaje, que te ayudará a reducir la tensión y a mejorar la circulación. Nuestros profesionales mezclan técnicas de masaje sueco, quiromasaje, reflexología, drenaje linfático y fisioterapia. Gracias a esta sesión te sumergirás en un universo de relajación en profundidaediante suaves y largas maniobras de presión. ¡No lo dudes y reserva ya online con nosotros! Notarás los resultados. ¿Por qué no cuidarte de vez en cuando? DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Anti-Edad Bio- Détox By Sacred Nature", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Un tratamiento anti-edad para rostro y cuerpo, Nutre la piel con productos que han sido formulados siguiendo las normas de Ecocert. Desintoxica, nutre y protege la piel a través de un ritual agradable yacogedor. Ofrecemos un tratamiento natural indicado para todo tipo de pieles, incluso la más sensibles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal O2 Body Relax", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Un perfecto tratamiento facial y corporal que aporta energía y elimina toxinas almacenadas en los poros. Combinación de pureza y relajación perfecta, para poner a punto su piel, hidratándola en profundidad, combatiendo la falta de firmeza y aportándole un potente détox. Puedes hacer tu reserva online hoy mismo en Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Flash Personalizado", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "Flash personalizado LPG Endermolift (40min). La técnica antiedad Endermolift de LPG ofrece resultados inmediatos: efecto luminosidad, efecto lifting natural y efecto anti-fatiga. De esta forma, y a medida que pasen las sesiones, este servicio tendrá un efecto relleno de arrugas, reafirmante de los contornos y aclarado en el tono de la piel. En El Cel utilizamos primeras marcas para que el resultado sea increíble. ¡No lo dudes y reserva ya cómodamente en Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Y Rejuvenecedor", 
+            "duration": 5400, 
+            "price": "195 € ", 
+            "description": "Diamond & LPG Gold. Revolucionaria experiencia que proporciona una acción rejuvenecedora a través de la regulación de los 4 Biomarcadores clave de la Edad de la Piel. Este tratamiento te permitirá lucir una piel más firme, luminosa y visiblemente más joven. Redefine el contorno facial y disminuye las arrugas en tan solo una sesión. Añadiremos el tratamiento LPG Gold de estimulación celular. En nuestro centro contamos con lo último en aparatología y últimas técnicas. ¡Reserva ya!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Diamond Experience Rose Ritual", 
+            "duration": 5400, 
+            "price": "189 € ", 
+            "description": "Tratamiento con exquisita rosa de Damasco y polvo de diamante. Después de una exfoliación, la piel recupera toda su esplendor, gracias a un rico aceite que incorpora ingredientes nutritivos y a un producto de elegante acabado con efecto satinado. Conseguirás así una piel más elástica y suave que nunca. Sin lugar a dudas, el secreto de belleza más sensual y efectivo. ¡No lo dudes y reserva ya cómodamente online con nosotros!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Personalizado Beauty A La Carta", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "No te preocupes en escoger el tratamiento facial más adecuado para su piel, déjanos decidir por ti. Relájate mientras analizamos las necesidades de tu piel y te diseñamos un tratamiento a medida. Una limpieza doble del rostro, más un peeling que permite lucir una piel libre de impurezas y células muertas. Incorpora una mascarilla según su diagnóstico. En nuestro centro nos preocupamos por tu belleza y por tí. ¡No lo dudes y ven a experimentarlo!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Rejuvenecedor 3Dcollagen Shock", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Poderosos tratamiento rejuvenecedor y regenerador basado en una combinación inteligente de tres tipos de colágeno destinado a incrementar la firmeza de la piel de forma extraordinaria. Con un sorprendente efecto Lifting y redensificante, redibuja el óvalo facial, mejora la densidad cutánea y preserva una óptima hidratación. Incluye la innovadora técnica de masaje Active Contouring Technique, que remodela y esculpe contornos de rostro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Rejuvenecedor Diamond Life", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Exclusivo y lujoso tratamiento facial y corporal formulado con una elevada concentración de 16 ingredientes activos rejuvenecedores. Proporciona una poderosa renovación celular mejorando el tono, y la textura de la piel, aportando una máxima luminosidad. El tratamiento perfecto para transportarte a un estado de relajación mediante respiraciones profundas y cuatro distintas técnicas holísticas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Anti-Celulítico", 
+            "duration": 3600, 
+            "price": "125 € ", 
+            "description": "En El Cel contamos con la mejor aparatología para el cuidado de tu cuerpo. Este servicio ofrece una terapia según patología o necesidades que busque cubrir cada cliente. Podremos utilizar Algas, LPG Endermologie localizado, circulatorio o desintoxicante. ¡No lo dudes y elimina esos centímetros de volumen que tanto te están acomplejando! Nos preocupamos por tu belleza y bienestar. ¿A qué estás esperando para reservar? En Bucmi con toda comodidad, a un solo clic. DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Drenaje Linfático Manual Método Vodder", 
+            "duration": 3600, 
+            "price": "95 € ", 
+            "description": "¿Quieres lucir un cuerpo más esbelto con una piel mucho más tersa? No lo dudes y reserva ya este servicio de drenaje linfático manual con el método vodder, aplicado al cuerpo entero. A través de movimiento manuales suaves, se mejora así la circulación. De esta manera,conseguirás también reafirmar el cuerpo. El Cel cuenta con lo último en aparatología. ¡Reserva ya con nosotros y notarás el increíble resultado!DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Experiencia El Cel Gold: Tto. Facial Y Masaje", 
+            "duration": 10800, 
+            "price": "370 € ", 
+            "description": "La experiencia más completa para sentirse única y delicada. Relájese con un tratamiento facial y un masaje corporal. Además podrás disfrutar de una degustación de catering selecto y a su gusto. En El Cel sabemos lo importante que es mimarse y por ello te ofrecemos un servicio completo, para que salgas totalmente nuev@ de nuestro centro. ¡No lo dudes, date un capricho de vez en cuando y reserva ya cómodamente en Bucmi!DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Experiencia El Cel: Tto. Facial O Corporal", 
+            "duration": 7200, 
+            "price": "290 € ", 
+            "description": "Tratamiento facial y corporal según las necesidades. Esta experiencia es resultado de la combinación de nuestros tratamientos Beauty a la carta y Masaje “Tocant El Cel”. Una experiencia única, personalizada y completa para que salgas como nuev@ de nuestro centro. Confía en nuestro equipo de profesionales que trabajarán para conseguir el resultado que estás esperando. Reserva ya cómodamente online y ¡te encantará! La duración del servicio es de aproximadamente 2 horas. DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Profunda Eva Lom", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "La facial de Eve Lom consiste en una limpieza facial profunda, con aplicación de una mascarilla caliente que relajará sus músculos faciales y suavizará tu piel. Incluye un masaje drenante en la parte superior del cuello y mascarilla descongestiva y revitalizante. Eve Lom compensa las funciones de la piel y calma las pieles más irritadas, congestionadas y con poros dejando una piel radiante. Reserva hoy mismo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático Manual Método Vodder", 
+            "duration": 3600, 
+            "price": "95 € ", 
+            "description": "¿Quieres lucir un cuerpo más esbelto con una piel mucho más tersa? No lo dudes y reserva ya este servicio de drenaje linfático manual con el método vodder, aplicado al cuerpo entero. A través de movimiento manuales suaves, se mejora así la circulación. De esta manera,conseguirás también reafirmar el cuerpo. El Cel cuenta con lo último en aparatología. ¡Reserva ya con nosotros y notarás el increíble resultado!DF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Experiencia El Cel Gold: Tto. Facial Y Masaje", 
+            "duration": 10800, 
+            "price": "370 € ", 
+            "description": "La experiencia más completa para sentirse única y delicada. Relájese con un tratamiento facial y un masaje corporal. Además podrás disfrutar de una degustación de catering selecto y a su gusto. En El Cel sabemos lo importante que es mimarse y por ello te ofrecemos un servicio completo, para que salgas totalmente nuev@ de nuestro centro. ¡No lo dudes, date un capricho de vez en cuando y reserva ya cómodamente en Bucmi!DF"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Drenaje Linfático Manual Método Vodder", 
+            "duration": 3600, 
+            "price": "95 € ", 
+            "description": "¿Quieres lucir un cuerpo más esbelto con una piel mucho más tersa? No lo dudes y reserva ya este servicio de drenaje linfático manual con el método vodder, aplicado al cuerpo entero. A través de movimiento manuales suaves, se mejora así la circulación. De esta manera,conseguirás también reafirmar el cuerpo. El Cel cuenta con lo último en aparatología. ¡Reserva ya con nosotros y notarás el increíble resultado!DF"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "adid": null, 
+    "name": "Centro Galia", 
+    "name_of_contact": "Centro Galia", 
+    "scrape_page": "https://www.bucmi.com/galia", 
+    "business_website": "https://www.bucmi.com/galia", 
+    "areas_covered": null, 
+    "description": "Clínica Médico Estética en Alameda de Osuna , Madrid, es un centro dónde se unen la profesionalidad, bienestar y el mejor de los ambientes.Con nuestra variedad de bonos, masajes o tratamientos conseguirás resultados inmejorables. Conócenos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636015844560363863.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636015844565676782.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636015844571771134.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Valdevarnes, 13", 
+    "city": "Madrid", 
+    "zipcode": "28042", 
+    "formatted_address": "C/ Valdevarnes, 13, Madrid, 28042", 
+    "country": "es", 
+    "office_number": "917425852", 
+    "office_number2": null, 
+    "mobile_number": "661953044", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4569511000", 
+    "longitude": "-3.5881107999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636015845654906896.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Ss Tto. Corporal Lipolítico", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Di adiós a la celulitis de manera cómoda y eficaz.Sin dolor y sin ninguna molestia se trata de una luz láser sobre la zona afectada que te ayudará a lucir una silueta bonita y definida. El tratamiento tiene una duración de 30 min y posteriormente disfrutarás de una sesión de presoterapia que ayudará a tu cuerpo a deshacerse de las toxinas de forma natural. Podrás disfrutar de estás 10 sesiones de la manera que quieras, como mejor se adapte a tus necesidades y horarios."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Ss Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "No dejes que el paso de los años deje rastro en tu piel y disfruta de este bono de 5 sesiones de radiofrecuencia facial que te ayudará a reacitivar tu colágeno, recuperar la elasticidad natural de tu piel y a lucir un aspecto rejuvenecido. Podrás programar las sesiones ajustándolas a tus horarios."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Kobido Lifting Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "No dejes pasar más tiempo sin conocer los beneficios de un masaje Kobido, y los resultados que obtendrás tras disfrutarlo. Se trata de una técnica de masaje manual milenaria japonesa que hará rejuvenecer tu rostro, reafirma la musculatura facial y previene las arrugas y la flacidez y además favorece la eliminación de células muertas. Proporcionale a tu rostro un aspecto saludable y juvenil reservando tu cita ya."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Facial Relleno De Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "200 € ", 
+            "description": "Despídete de las arrugas con nuestro servicio de rellenos de ácido hialurónico, inyectado directamente sobre la arruga, consigue resultados visible con una duración media de entre 9 y 12 meses dependiendo de la edad. El precio corresponde al de un vial, cantidad suficiente para hacer que luzcas una piel radiantes y rejuvenecida."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Ss Tto. Corporal Lipolítico", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Di adiós a la celulitis de manera cómoda y eficaz.Sin dolor y sin ninguna molestia se trata de una luz láser sobre la zona afectada que te ayudará a lucir una silueta bonita y definida. El tratamiento tiene una duración de 30 min y posteriormente disfrutarás de una sesión de presoterapia que ayudará a tu cuerpo a deshacerse de las toxinas de forma natural. Podrás disfrutar de estás 10 sesiones de la manera que quieras, como mejor se adapte a tus necesidades y horarios."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Ss Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "No dejes que el paso de los años deje rastro en tu piel y disfruta de este bono de 5 sesiones de radiofrecuencia facial que te ayudará a reacitivar tu colágeno, recuperar la elasticidad natural de tu piel y a lucir un aspecto rejuvenecido. Podrás programar las sesiones ajustándolas a tus horarios."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bronceado Corporal", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Presume de bronceado durante todo el año con una agradable sesión de bronceado con caña de azucar. El servicio no incluye peeling corporal previo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Si sientes tu piel pagada y triste, no dudes en reservar tu cita ya en Centro Galia y disfrutar de un ritual completo de higiene facial con los mejores cosméticos y técnicas más avanzadas, adaptadas a las necesidades de tu piel. Sentirás como tu piel recobra su luz y brillo natural."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Kobido Lifting Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "No dejes pasar más tiempo sin conocer los beneficios de un masaje Kobido, y los resultados que obtendrás tras disfrutarlo. Se trata de una técnica de masaje manual milenaria japonesa que hará rejuvenecer tu rostro, reafirma la musculatura facial y previene las arrugas y la flacidez y además favorece la eliminación de células muertas. Proporcionale a tu rostro un aspecto saludable y juvenil reservando tu cita ya."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "40 € ", 
+            "description": "Acaba con la grasa localizada de manera cien por cien eficaz. La mesoterapia combate la grasa localizada que ni la dieta ni el ejercicio han podido. Es la manera de ayudar a tu cuerpo a acabar con la zonas más rebeldes con pequeñas infiltraciones con finas agujas que actuarán de manera profunda y eficaz."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Relleno De Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "200 € ", 
+            "description": "Despídete de las arrugas con nuestro servicio de rellenos de ácido hialurónico, inyectado directamente sobre la arruga, consigue resultados visible con una duración media de entre 9 y 12 meses dependiendo de la edad. El precio corresponde al de un vial, cantidad suficiente para hacer que luzcas una piel radiantes y rejuvenecida."
+        }
+    ]
+}

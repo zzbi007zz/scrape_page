@@ -1,0 +1,100 @@
+{
+    "adid": null, 
+    "name": "Ana Laguardia", 
+    "name_of_contact": "Ana Laguardia", 
+    "scrape_page": "https://www.bucmi.com/laguardia", 
+    "business_website": "https://www.bucmi.com/laguardia", 
+    "areas_covered": null, 
+    "description": "Centro de Fisioterapia y Estética en pleno centro de Madrid situado en el barrio de Salamanca, Madrid. Encontrarás un trato personalizado con diversos tratamientos. Porque nuestro cuerpo es nuestra casa y hay que cuidarlo. Reserva tu cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859508519225836.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859508536962601.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859508656034269.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859508708221250.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859508778081329.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ayala, 84", 
+    "city": "Madrid", 
+    "zipcode": "28009", 
+    "formatted_address": "C/ Ayala, 84, Madrid, 28009", 
+    "country": "es", 
+    "office_number": "915776119", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4227985000", 
+    "longitude": "-3.6741842999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635973766037238026.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 2700, 
+            "price": "46 € ", 
+            "description": "Elimina tus tensiones con este masaje descontracturante. Hoy en día llevamos una vida muy ajetreada, nos cargamos y ponemos en tensión. Este masaje libera esos contratiempos..."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Premamá", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Tratamiento drenante de piernas y brazos y relajante en brazos. Porque cuando se esta embarazada, no solo se hincha la barriguita... Nosotros te ayudamos a aliviar esas cargas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Fisioterapia", 
+            "duration": 2700, 
+            "price": "46 € ", 
+            "description": "Terapia que elimina la dolencia en la zona localizada, puede ser para dolores ocasionados por deportes, o simplemente por posturas habituales que nos cargan y crean contracturas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal (Bono De 6 Sesiones)", 
+            "duration": 3600, 
+            "price": "388 € ", 
+            "description": "Tratamiento Corporal reductor y reafirmante que drena y favorece la eliminación de grasa. A partir de la cuarta sesión se nota la diferencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Tratamiento Corporal reductor y reafirmante que drena y favorece la eliminación de grasa. Se hace de manera manual, con un masaje, presionando y estímulando, activando la circulación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Premamá", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Tratamiento drenante de piernas y brazos y relajante en brazos. Porque cuando se esta embarazada, no solo se hincha la barriguita... Nosotros te ayudamos a aliviar esas cargas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal (Bono De 6 Sesiones)", 
+            "duration": 3600, 
+            "price": "388 € ", 
+            "description": "Tratamiento Corporal reductor y reafirmante que drena y favorece la eliminación de grasa. A partir de la cuarta sesión se nota la diferencia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Tratamiento Corporal reductor y reafirmante que drena y favorece la eliminación de grasa. Se hace de manera manual, con un masaje, presionando y estímulando, activando la circulación."
+        }
+    ]
+}

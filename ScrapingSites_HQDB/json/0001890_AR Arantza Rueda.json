@@ -1,0 +1,411 @@
+{
+    "adid": null, 
+    "name": "AR Arantza Rueda", 
+    "name_of_contact": "AR Arantza Rueda", 
+    "scrape_page": "https://www.bucmi.com/arantzarueda", 
+    "business_website": "https://www.bucmi.com/arantzarueda", 
+    "areas_covered": null, 
+    "description": "Situada al sur del parque Miraflores, en AR Arantza Rueda nuestro objetivo es ofrecerte un servicio exclusivo y de calidad. Ven a conocernos y ponte en manos de los mejores profesionales del sector de la peluquería y la estética y ponte guapa.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494948946698094.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494948947010589.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635496736561481953.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635496736698524095.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635793040049198095.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635793040141238618.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635793040271166499.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635793040623730541.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "45", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Illueca, 5", 
+    "city": "Zaragoza", 
+    "zipcode": "50008", 
+    "formatted_address": "C/ Illueca, 5, Zaragoza, 50008", 
+    "country": "es", 
+    "office_number": "976958296", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6397286000", 
+    "longitude": "-0.8751369999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635955416779008894.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "¿Tu estilo es clásico o moderno y actual? Sea cual sea, nos adaptamos a él y te asesoramos para escoger el corte de pelo que más va contigo. El servicio incluye lavado, corte, secado y producto de acabadoF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Si quieres apostar por un corte de pelo moderno y actual, en la peluquería Arantza Rueda estamos seguro que daremos con el estilo que más se adapta a ti. El servicio incluye lavado de cabeza y acondicionador. No incluye peinado, secado al aireF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Tus manos estarán perfectas, nutridas y mimadas gracias a este servicio de manicura. El servicio incluye desmaquillar, cortar, limar, eliminar cutículas, masaje y esmaltado. No incluye esmaltado manicura francesa. DF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Con Peeling", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿Sabías que con la limpieza facial estamos cuidando realmente nuestra piel? Gracias a ella, liberamos a nuestro cutis de impurezas y favorecemos su oxigenación y renovación. Limpia, tonifica, hidrata y elimina todas las impurezas de tu pielF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Para quitarle ese aspecto desaliñado a tu barba y lucirá con estilo y personalidad, no dejes de reservar en Arantza Rueda nuestro arreglo de barba. Déjate asesorar por nuestros estilistas. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "38,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu pelo corto. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu cabello largo. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "40,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu media melena. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "50,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo. Incluye lavado, acondicionador y producto de acabado y un corte de tendencia asesorado por nuestros estilistas y secado brushing para finalizar. No esperes más y reserva ahora online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "54,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo. Incluye lavado, acondicionador y producto de acabado y un corte de tendencia asesorado por nuestros estilistas y secado brushing para finalizar. No esperes más y reserva ahora tu cita onlineF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "52,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo. Incluye lavado, acondicionador y producto de acabado y un corte de tendencia asesorado por nuestros estilistas y secado brushing para finalizar. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Niño (Hasta 7 Años)", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Realizamos el corte en seco y según las últimas tendencias, también para los más peques de la casa. No te arrepentirás del resultado, estará más guapo que nunca. No esperes más y reserva ahora tu cita online cómodamente con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Niño/A (Hasta 7 Años)", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Incluye lavado y secado al aire. Ven ya con el más peque de la casa y le realizaremos un corte de pelo en tendencia para que también estén a la moda. ¿El/la más peque de la casa también quiere estar a la última? Reserva ahora un corte de pelo de la forma más fácil con Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "¿Tu estilo es clásico o moderno y actual? Sea cual sea, nos adaptamos a él y te asesoramos para escoger el corte de pelo que más va contigo. El servicio incluye lavado, corte, secado y producto de acabadoF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "27,5 € ", 
+            "description": "Déjate cuidar por nuestro profesionales. Te asesorarán en los últimos cortes de pelo de moda, mientras disfrutas de un relajante lavado de cabeza. Saldrás de nuestra peluquería más guapa que nunca, luciendo un maravilloso peinadoF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "31,5 € ", 
+            "description": "¡Déjate asesorar por nuestro expertos peluqueros! Ellos te mimarán para que te sientas como en casa, mientras disfrutas de un servicio completo que incluye lavado y peinado. No esperes más y reserva ahora tu cita cómodamente online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Extralargo", 
+            "duration": 3600, 
+            "price": "19,5 € ", 
+            "description": "Si tienes una de esas melenas densas y sin fin, ésta es la tuya, no pierdas horas en casa y acude a nosotras. Incluye champú, acondicionador y producto de acabado. No esperes más y reserva ahora tu cita cómodamente online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Hombre", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "Dale un aire diferente a tu peinado de la mano de los mejores profesionales. Incluye champú, acondicionador y peinado con productos de acabado. Podrás ir directo a tu cita luciendo realmente guapo. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Media Melena", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Disfruta del peinado que desees para tu pelo a manos de nuestros profesionales. ¡Tu cabello estará más bonito que nunca! Incluye champú, acondicionador y producto de acabado. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Si quieres lucir un impecable peinado de peluquería, no lo dudes más y ven a visitarnos. Incluye champú, acondicionador y peinado con productos de acabado. No esperes más y reserva ahora tu cita cómodamente online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto O Medio", 
+            "duration": 5400, 
+            "price": "45,5 € ", 
+            "description": "Si quieres dejar de ver tu cabello corto apagado, dale vida y movimiento con unas mechas. El servicio también incluye lavado de la melena con champú y acondicionador y secado con definición. No incluye matizadoF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "57,5 € ", 
+            "description": "Si quieres dejar de ver tu cabello largo apagado, dale vida y movimiento con unas mechas. El servicio también incluye lavado de la melena con champú y acondicionador y secado con definición. No incluye matizadoF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Nanoplastia Alisado Brasileño", 
+            "duration": 14400, 
+            "price": "240 € ", 
+            "description": "Es un Complejo de Tratamiento Capilar de productos naturales, ácidos orgánicos, ácido láctico, ácido acético, ácido ascórbico, aceite de argan, serina, que devuelve la salud al cabello dañado, reduciendo el volumen y eliminando el rizado, dejándolo liso y fácil. Este tratamiento depende de la correcta aplicación por parte de los profesionales. El tratamiento alisa el cabello, dejándolo con una apariencia sedosa y brillante. También es acondicionado y reestructurado. Duración de 4 a 7 mesesF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Y Peinado", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Luce estupenda para tu evento con los peinados más actuales. Este servicio incluye lavado, acondicionador, peinado y recogido para que estés perfecta en cualquier momento. No esperes más y reserva ahora tu cita online con Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido Y Peinado", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Luce estupenda para tu evento con los peinados más actuales. Incluye lavado, acondicionador, peinado y semirrecogido. Si eres de las que no te apañas en casa y quieres lucir radiante en alguna ocasión especial, este es tu servicio. Podrás disfrutar de la profesionalidad y la técnica de nuestro equipo, para que luzcas así una melena ideal. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Hidratación Capilar", 
+            "duration": 3600, 
+            "price": "28,5 € ", 
+            "description": "Incluye el peinado. Esta línea ofrece unas propiedades espectaculares de longevidad y regeneración del cabello.El tratamiento de hidratación es un factor clave en la regeneración del cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Si quieres apostar por un corte de pelo moderno y actual, en la peluquería Arantza Rueda estamos seguro que daremos con el estilo que más se adapta a ti. El servicio incluye lavado de cabeza y acondicionador. No incluye peinado, secado al aireF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Medio", 
+            "duration": 2700, 
+            "price": "29,5 € ", 
+            "description": "Ponte en manos de nuestros profesionales en peluquería y podrás disfrutar de los mejores consejos en cortes de pelo, con un completo servicio que incluye lavado y peinadoF"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Si estás cansada de peinar tu larga melena, no lo dudes y date un capricho. Ponte en manos de nuestros expertos peluqueros para lucir un pelo perfecto sin esfuerzo. Incluye champú, acondicionador y producto de acabado. Reserva ahora online con BucmiF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Para quitarle ese aspecto desaliñado a tu barba y lucirá con estilo y personalidad, no dejes de reservar en Arantza Rueda nuestro arreglo de barba. Déjate asesorar por nuestros estilistas. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "38,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu pelo corto. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu cabello largo. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Para quitarle ese aspecto desaliñado a tu barba y lucirá con estilo y personalidad, no dejes de reservar en Arantza Rueda nuestro arreglo de barba. Déjate asesorar por nuestros estilistas. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "38,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu pelo corto. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu cabello largo. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "40,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu media melena. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "50,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo. Incluye lavado, acondicionador y producto de acabado y un corte de tendencia asesorado por nuestros estilistas y secado brushing para finalizar. No esperes más y reserva ahora online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "54,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo. Incluye lavado, acondicionador y producto de acabado y un corte de tendencia asesorado por nuestros estilistas y secado brushing para finalizar. No esperes más y reserva ahora tu cita onlineF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Para quitarle ese aspecto desaliñado a tu barba y lucirá con estilo y personalidad, no dejes de reservar en Arantza Rueda nuestro arreglo de barba. Déjate asesorar por nuestros estilistas. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "38,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu pelo corto. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu cabello largo. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "40,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo para tu media melena. El servicio también incluye lavado con champú y con hidratación y peinado con definición de la melena. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "50,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo. Incluye lavado, acondicionador y producto de acabado y un corte de tendencia asesorado por nuestros estilistas y secado brushing para finalizar. No esperes más y reserva ahora online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "54,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo. Incluye lavado, acondicionador y producto de acabado y un corte de tendencia asesorado por nuestros estilistas y secado brushing para finalizar. No esperes más y reserva ahora tu cita onlineF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "52,5 € ", 
+            "description": "Coloración con o sin amoniaco y cobertura 100% con brillo extremo. Incluye lavado, acondicionador y producto de acabado y un corte de tendencia asesorado por nuestros estilistas y secado brushing para finalizar. Reserva ahora tu cita online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Niño (Hasta 7 Años)", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Realizamos el corte en seco y según las últimas tendencias, también para los más peques de la casa. No te arrepentirás del resultado, estará más guapo que nunca. No esperes más y reserva ahora tu cita online cómodamente con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Niño/A (Hasta 7 Años)", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Incluye lavado y secado al aire. Ven ya con el más peque de la casa y le realizaremos un corte de pelo en tendencia para que también estén a la moda. ¿El/la más peque de la casa también quiere estar a la última? Reserva ahora un corte de pelo de la forma más fácil con Bucmi.com"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "¿Tu estilo es clásico o moderno y actual? Sea cual sea, nos adaptamos a él y te asesoramos para escoger el corte de pelo que más va contigo. El servicio incluye lavado, corte, secado y producto de acabadoF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "27,5 € ", 
+            "description": "Déjate cuidar por nuestro profesionales. Te asesorarán en los últimos cortes de pelo de moda, mientras disfrutas de un relajante lavado de cabeza. Saldrás de nuestra peluquería más guapa que nunca, luciendo un maravilloso peinadoF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "31,5 € ", 
+            "description": "¡Déjate asesorar por nuestro expertos peluqueros! Ellos te mimarán para que te sientas como en casa, mientras disfrutas de un servicio completo que incluye lavado y peinado. No esperes más y reserva ahora tu cita cómodamente online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavar Y Peinar Extralargo", 
+            "duration": 3600, 
+            "price": "19,5 € ", 
+            "description": "Si tienes una de esas melenas densas y sin fin, ésta es la tuya, no pierdas horas en casa y acude a nosotras. Incluye champú, acondicionador y producto de acabado. No esperes más y reserva ahora tu cita cómodamente online con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavar Y Peinar Hombre", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "Dale un aire diferente a tu peinado de la mano de los mejores profesionales. Incluye champú, acondicionador y peinado con productos de acabado. Podrás ir directo a tu cita luciendo realmente guapo. No esperes más y reserva ahora tu cita online con Bucmi.comF"
+        }
+    ]
+}

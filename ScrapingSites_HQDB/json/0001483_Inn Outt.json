@@ -1,0 +1,392 @@
+{
+    "adid": null, 
+    "name": "Inn Outt", 
+    "name_of_contact": "Inn Outt", 
+    "scrape_page": "https://www.bucmi.com/innandoutt", 
+    "business_website": "https://www.bucmi.com/innandoutt", 
+    "areas_covered": null, 
+    "description": "En la peluquería Inn & Outt situada en Ametzola, Bilbao nos encanta realizar cortes y estilismos distintos, totalmente personalizados a cada cliente. Porque pensamos que cada persona es única y diferente, y por lo tanto, su estilo también. Ven a vernos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635409327657505978.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635409327672037106.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635409327688912303.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "9", 
+    "hqdb_review_score": "9,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Bilbao", 
+    "zipcode": "48002", 
+    "formatted_address": "Bilbao, 48010, Bilbao, 48001, Bilbao, 48008, Bilbao, 48014, Bilbao, 48014, Bilbao, 48002", 
+    "country": "es", 
+    "office_number": "944102679", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.2543545000", 
+    "longitude": "-2.9447179000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635954665527563472.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "Relájate y mímate con este pack de Manicura básica y Pedicura básica. Estarás perfecta para cualquier ocasión. Ambos servicios incluyen dar forma a la uñas a través del corte y el limado, tratamiento de cutículas y durezas en el caso de los pies y esmaltado normal entre una amplia gama de colores. ¿Quieres lucir unas uñas bonitas y cuidadas? Ven a Inn and Outt y ponte en manos de nuestros mejores profesionales. Luce unas uñas bonitas. cuidadas y coloridas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Retoca tu corte de pelo o anímate con un cambio de look. Sea cual sea tu estilo, en Inn & Outt nos adaptamos a él. El servicio incluye lavado, corte y peinado con productos de acabado. Ponte en manos de nuestros mejores profesionales. Sanea tu cabello. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye cortar y lavar, pero no incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Si quieres conseguir un pelo liso y no preocuparte por tus rizos atrévete con un alisado japonés. Es el mejor sistema para dominar tu cabello y conseguir una melena lisa. El servicio incluye el lavado del cabello, la aplicación del producto, aclarado con agua y secado natural. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Plus", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Tu servicio de coloración de cabello en manos de profesionales que se volcarán por completo por dar con el resultado que buscas. El servicio incluye la coloración y el lavado final. No incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Basic", 
+            "duration": 1800, 
+            "price": "23,5 € ", 
+            "description": "Si el paso del tiempo ha hecho que tu pleo crezca, y las raíces del cabello empiezan a ser visibles este servicio es perfecto para ti. No incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Niños (0-10)", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Un corte de pelo para los más pequeños de la casa! Incluye: Lavado, corte y productos de acabado. Ponte en manos de nuestros mejores profesionales de Inn & Outt. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "31,5 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye: Corte, lavado y peinado para cabellos cortos. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "33,5 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye: Corte, lavado y peinado para cabellos largos. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas De Plata Y Peinado", 
+            "duration": 7200, 
+            "price": "61,5 € ", 
+            "description": "Tu cabello se merece un trato impecable, y más si hablamos de un servicio de mechas o coloración. Este servicio incluye mechas de plata, lavado del cabello y peinado. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Medias Y Peinado", 
+            "duration": 5400, 
+            "price": "43,5 € ", 
+            "description": "Si tienes que darle un retoque a tus mechas o quieres darle un toque diferentes a tu melena, este servicio es perfecto para ti. Incluye medias mechas, lavado y peinado. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia", 
+            "duration": 7200, 
+            "price": "220 € ", 
+            "description": "El servicio consta de prueba peinado y prueba de maquillaje . Peinado el día de la boda y maquillaje con ampolla flash. Además consta de servicio de manicura y pedicura y tratamiento facial especifico para tu piel"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "El estilo de tu cabello en manos de los mejores profesionales. El servicio incluye lavado y peinado en cabello corto. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Largo", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "El estilo de tu cabello en manos de los mejores profesionales. El servicio incluye lavado y peinado en cabello largo. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Y Moldeado", 
+            "duration": 7200, 
+            "price": "61,5 € ", 
+            "description": "Ponte guapa con un peinado con moldeado. Incluye Lavado del cabello. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces? Descúbrenos en tu oportunidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Y Recogido", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Tienes una ocasión especial? Ponte guapa con un peinado con recogido. El servicio incluye lavado del cabello. Saldrás con el cabello saneado y con brillo. Si tienes cualquier fiesta, déjate asesorar por nuestros profesionales de Inn and Outt, dispondrás de un trato muy grato. Si tienes cualquier duda, consulta con nuestros profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Efecto Botox", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Tratamiento ara cabellos finos para conseguir volumen.Se lava con un champu efecto botox+ producto de ampolla, con 30min de calor se aclara. Se aplica un spray para dar cuerpo y volumen. No incluye secar. Disfruta de un pelo con mucho brillo y cuidado. Reserva fácil con tres cliks en Bucmi.com. En Inn and Outt te atenderemos como lo mereces."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Color", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Despues de dar el tinte, se aplica un producto de espuma se deja un tiempo de exposicion (fijador de color), se lava y se acondiciona. Disfruta de un pelo con mucho brillo y cuidado. Reserva fácil con tres cliks en Bucmi.com. En Inn and Outt te atenderemos como lo mereces."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Retoca tu corte de pelo o anímate con un cambio de look. Sea cual sea tu estilo, en Inn & Outt nos adaptamos a él. El servicio incluye lavado, corte y peinado con productos de acabado. Ponte en manos de nuestros mejores profesionales. Sanea tu cabello. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye cortar y lavar, pero no incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Anticaída", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tratamiento anticaída que consiste en un lavado y aplicacion de una ampolla de anticaida con masaje."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratatante", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Se lava con un champú de hidratación y se da un masaje SHIATSU durante 15min. No incluye peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Japonés", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Si quieres conseguir un pelo liso y no preocuparte por tus rizos atrévete con un alisado japonés. Es el mejor sistema para dominar tu cabello y conseguir una melena lisa. El servicio incluye el lavado del cabello, la aplicación del producto, aclarado con agua y secado natural. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Plus", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Tu servicio de coloración de cabello en manos de profesionales que se volcarán por completo por dar con el resultado que buscas. El servicio incluye la coloración y el lavado final. No incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz Basic", 
+            "duration": 1800, 
+            "price": "23,5 € ", 
+            "description": "Si el paso del tiempo ha hecho que tu pleo crezca, y las raíces del cabello empiezan a ser visibles este servicio es perfecto para ti. No incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Niños (0-10)", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Un corte de pelo para los más pequeños de la casa! Incluye: Lavado, corte y productos de acabado. Ponte en manos de nuestros mejores profesionales de Inn & Outt. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "31,5 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye: Corte, lavado y peinado para cabellos cortos. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "33,5 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye: Corte, lavado y peinado para cabellos largos. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Japonés", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Si quieres conseguir un pelo liso y no preocuparte por tus rizos atrévete con un alisado japonés. Es el mejor sistema para dominar tu cabello y conseguir una melena lisa. El servicio incluye el lavado del cabello, la aplicación del producto, aclarado con agua y secado natural. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Plus", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Tu servicio de coloración de cabello en manos de profesionales que se volcarán por completo por dar con el resultado que buscas. El servicio incluye la coloración y el lavado final. No incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Japonés", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Si quieres conseguir un pelo liso y no preocuparte por tus rizos atrévete con un alisado japonés. Es el mejor sistema para dominar tu cabello y conseguir una melena lisa. El servicio incluye el lavado del cabello, la aplicación del producto, aclarado con agua y secado natural. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Plus", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Tu servicio de coloración de cabello en manos de profesionales que se volcarán por completo por dar con el resultado que buscas. El servicio incluye la coloración y el lavado final. No incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz Basic", 
+            "duration": 1800, 
+            "price": "23,5 € ", 
+            "description": "Si el paso del tiempo ha hecho que tu pleo crezca, y las raíces del cabello empiezan a ser visibles este servicio es perfecto para ti. No incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Niños (0-10)", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Un corte de pelo para los más pequeños de la casa! Incluye: Lavado, corte y productos de acabado. Ponte en manos de nuestros mejores profesionales de Inn & Outt. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "31,5 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye: Corte, lavado y peinado para cabellos cortos. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "33,5 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye: Corte, lavado y peinado para cabellos largos. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas De Plata Y Peinado", 
+            "duration": 7200, 
+            "price": "61,5 € ", 
+            "description": "Tu cabello se merece un trato impecable, y más si hablamos de un servicio de mechas o coloración. Este servicio incluye mechas de plata, lavado del cabello y peinado. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Medias Y Peinado", 
+            "duration": 5400, 
+            "price": "43,5 € ", 
+            "description": "Si tienes que darle un retoque a tus mechas o quieres darle un toque diferentes a tu melena, este servicio es perfecto para ti. Incluye medias mechas, lavado y peinado. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Novia", 
+            "duration": 7200, 
+            "price": "220 € ", 
+            "description": "El servicio consta de prueba peinado y prueba de maquillaje . Peinado el día de la boda y maquillaje con ampolla flash. Además consta de servicio de manicura y pedicura y tratamiento facial especifico para tu piel"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "El estilo de tu cabello en manos de los mejores profesionales. El servicio incluye lavado y peinado en cabello corto. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado Largo", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "El estilo de tu cabello en manos de los mejores profesionales. El servicio incluye lavado y peinado en cabello largo. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado Y Moldeado", 
+            "duration": 7200, 
+            "price": "61,5 € ", 
+            "description": "Ponte guapa con un peinado con moldeado. Incluye Lavado del cabello. Disfruta de un pelo con mucho brillo y nuestros profesionales utilizan productos de alta gama para el cuidado de tu cabello. Reserva fácil con tres cliks en Bucmi.com. ¿Todavía no nos conoces? Descúbrenos en tu oportunidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinar Y Recogido", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Tienes una ocasión especial? Ponte guapa con un peinado con recogido. El servicio incluye lavado del cabello. Saldrás con el cabello saneado y con brillo. Si tienes cualquier fiesta, déjate asesorar por nuestros profesionales de Inn and Outt, dispondrás de un trato muy grato. Si tienes cualquier duda, consulta con nuestros profesionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Efecto Botox", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Tratamiento ara cabellos finos para conseguir volumen.Se lava con un champu efecto botox+ producto de ampolla, con 30min de calor se aclara. Se aplica un spray para dar cuerpo y volumen. No incluye secar. Disfruta de un pelo con mucho brillo y cuidado. Reserva fácil con tres cliks en Bucmi.com. En Inn and Outt te atenderemos como lo mereces."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Color", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Despues de dar el tinte, se aplica un producto de espuma se deja un tiempo de exposicion (fijador de color), se lava y se acondiciona. Disfruta de un pelo con mucho brillo y cuidado. Reserva fácil con tres cliks en Bucmi.com. En Inn and Outt te atenderemos como lo mereces."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Retoca tu corte de pelo o anímate con un cambio de look. Sea cual sea tu estilo, en Inn & Outt nos adaptamos a él. El servicio incluye lavado, corte y peinado con productos de acabado. Ponte en manos de nuestros mejores profesionales. Sanea tu cabello. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Con este servicio podrás disfrutar de un pelo más fuerte y con estilo innovador. El servicio incluye cortar y lavar, pero no incluye peinado. En Inn and Out te asesoramos acerca del estilismo que mejor va contigo. El servicio incluye corte, lavado y secado natural. Ponte en manos de nuestros mejores profesionales. Luce un cabello cuidado, fuerte y sano. ¡Reserva tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Anticaída", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tratamiento anticaída que consiste en un lavado y aplicacion de una ampolla de anticaida con masaje."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Hidratatante", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Se lava con un champú de hidratación y se da un masaje SHIATSU durante 15min. No incluye peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene De Espalda", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Limpieza profunda en la espalda con leche limpiadora, a continuación se aplica un exfoliante. De esta manera la piel queda preparada para proceder a la extracción de puntos negro e impurezas. Para finalizar realizamos un masaje con crema hidratante."
+        }
+    ]
+}

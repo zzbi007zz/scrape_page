@@ -1,0 +1,113 @@
+{
+    "adid": null, 
+    "name": "Masaje Valencia", 
+    "name_of_contact": "Masaje Valencia", 
+    "scrape_page": "https://www.bucmi.com/masajevalenciacom", 
+    "business_website": "https://www.bucmi.com/masajevalenciacom", 
+    "areas_covered": null, 
+    "description": "Masaje Valencia es tu centro de confianza de salud y bienestar donde encontrarás una amplia gama de masajes para lograr eliminar dolencias, lesiones... a la vez que te relajas gracias a nuestros expertos terapeutas. Ven a conocernos en Ciutat Vella.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635997689482949879.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635997689506076457.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635997689694585573.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635997689750408316.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46001", 
+    "formatted_address": "Valencia, 46017, Valencia, 46011, Valencia, 46013, Valencia, 46023, Valencia, 46006, Valencia, 46008, Valencia, 46022, Valencia, Valencia, Valencia, 46001", 
+    "country": "es", 
+    "office_number": "963930193", 
+    "office_number2": null, 
+    "mobile_number": "608763932", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4706973000", 
+    "longitude": "-0.3784177999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635997974845593931.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Fitness: Sesión Estiramiento", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Para recobrar la elasticidad completa de tus músculos y decirle adiós a pequeñas molestias o contracciones, tenemos el servicio ideal que consiste en una sesión de 30 minutos de estiramientos. Tu cuerpo te lo agradecerá."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal Muscular Profundo", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si sufres lesiones antiguas o dolores profundos que evitan que lleves a cabo tu vida diaria con normalidad es el momento de reservar tu cita en nuestro centro y ponerte en manos de nuestros profesionales para someterte a un masaje muscular profundo que recupere el estado de tus músculos, su elasticidad y su tersura natural."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si quieres que tus músculos estén al 100%, disfruta de un masaje que consigan que recobren su elasticidad y rendimiento habitual para poder disfrutar de toda tu actividad física sin dolores ni molestias."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Podal", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Por que en nuestro centro sabemos que tus pies son los eternos olvidados y que necesitan también todas nuestras atenciones, por lo que les dedicamos fantásticos 30 minutos para descargar tensiones y recobrar su vitalidad y confort."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Podal", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Por que en nuestro centro sabemos que tus pies son los eternos olvidados y que necesitan también todas nuestras atenciones, por lo que les dedicamos fantásticos 30 minutos para descargar tensiones y recobrar su vitalidad y confort."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Espalda", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Posturas incómodas y permanecer estático muchas horas pueden derivar en dolores de espalda molestos e incómodos que no te permiten desarollar el día a día con total normalidad por lo que no lo piense más y reserva tu cita ya y disfruta de un grato masaje que hará que te recargues de energía."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Facial", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Mima tu rostro con un agradable masaje facial con el que reactivar la circulación, estimular los músculos faciales asi como descargarlos de tensiones acumuladas. Experimenta la sensación de bienestar."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Thailandés", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "En nuestro centro conocemos todos los puntos estratégicos que la medicina china nos ha enseñado para que mediante un ejercicio de presión conseguir el descanso y relax necesario para regresar a la vida diaria con toda nuestra energía en total equilibrio."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Corporal Muscular Profundo", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Si sufres lesiones antiguas o dolores profundos que evitan que lleves a cabo tu vida diaria con normalidad es el momento de reservar tu cita en nuestro centro y ponerte en manos de nuestros profesionales para someterte a un masaje muscular profundo que recupere el estado de tus músculos, su elasticidad y su tersura natural."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Podal", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Por que en nuestro centro sabemos que tus pies son los eternos olvidados y que necesitan también todas nuestras atenciones, por lo que les dedicamos fantásticos 30 minutos para descargar tensiones y recobrar su vitalidad y confort."
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "adid": null, 
+    "name": "El Barbero de Sevilla", 
+    "name_of_contact": "El Barbero de Sevilla", 
+    "scrape_page": "https://www.bucmi.com/elbarberodesevilla", 
+    "business_website": "https://www.bucmi.com/elbarberodesevilla", 
+    "areas_covered": null, 
+    "description": "El centro de estética El Barbero de Sevilla, situado en pleno centro de la ciudad ofrece servicios para el cuidado de la piel como higienes faciales, depilación láser, masajes relajantes y servicios de uñas como manicuras y pedicuras entre otros.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635840744709641514.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635847448942749981.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Relator, 10", 
+    "city": "Sevilla", 
+    "zipcode": "41002", 
+    "formatted_address": "C/ Relator, 10, Sevilla, 41002", 
+    "country": "es", 
+    "office_number": "954000672", 
+    "office_number2": null, 
+    "mobile_number": "654028600", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.4002639000", 
+    "longitude": "-5.9924704000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962329902151133.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "No te pierdas la pedicura más completa de la mano de nuestras profesionales. Realizamos corte de uñas, limado, retirada de cutículas, hidratación, tratamiento de pieles y durezas y esmaltado a elegir el color que mas te guste."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Luce unas manos y uñas perfectas durante mucho más tiempo, al menos 3 semanas intactas. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado con el color que más te guste, a elegir entre nuestra amplia gama."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Limpia y nutre la piel de tu rostro y consigue un resultado inmejorable. El servicio incluye desmaquillado de la piel, extracción, exfoliación, hidratación, mascarilla y masaje facial. Además, aplicamos exfoliante con ultrasonido en todos nuestros tratamientos faciales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Limpia y nutre la piel de tu rostro y consigue un resultado inmejorable. El servicio incluye desmaquillado de la piel, extracción, exfoliación, hidratación, mascarilla y masaje facial. Además, aplicamos exfoliante con ultrasonido en todos nuestros tratamientos faciales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Luce una mirada mucho más intensa con unas pestañas de cine, mucho más largas y con una curvatura infinita, gracias al servicio de extensión de pestañas. En El Barbero de Sevilla no realizamos relleno de pestañas, retiramos las pestañas antiguas y te volvemos a poner las nuevas, por lo que te vale este mismo servicio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Si quieres conseguir una piel en tu rostro perfecta, libre de las imperfecciones que van apareciendo en tu piel debido al paso de los años, no dudes en reservar nuestro tratamiento de mesoterapia virtual, donde ayudaremos a que desaparezcan las manchas en la piel, arrugas de expresión, mejorar la elasticidad.... Además, todos nuestros tratamientos faciales incluye un exfoliante con ultrasonido."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial: Derma Peel Pro", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Prueba la última revolución en peeling facial, nuestro sistema Derma Peel Pro que consiste en cinco peeling en uno, para que tu piel esté exfoliada y libre de imperfecciones. Además, todos nuestros tratamientos faciales incluyen exfoliante con ultrasonido. Notarás los resultados desde el principio. ¿A qué estás esperando para hacer tu reserva con nosotros?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Personalizado", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Previo diagnóstico de tu piel, en el que detectaremos cuales son tus necesidades, te realizaremos un tratamiento facial para mejorar tu piel, ya sea hidratante, antimanchas, antiedad, nutritivo.... Además, todos nuestros tratamientos faciales incluyen exfoliante con ultrasonido. No te vas a arrepentir de los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Limpia y nutre la piel de tu rostro y consigue un resultado inmejorable. El servicio incluye desmaquillado de la piel, extracción, exfoliación, hidratación, mascarilla y masaje facial. Además, aplicamos exfoliante con ultrasonido en todos nuestros tratamientos faciales."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Luce una mirada mucho más intensa con unas pestañas de cine, mucho más largas y con una curvatura infinita, gracias al servicio de extensión de pestañas. En El Barbero de Sevilla no realizamos relleno de pestañas, retiramos las pestañas antiguas y te volvemos a poner las nuevas, por lo que te vale este mismo servicio."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Si quieres conseguir una piel en tu rostro perfecta, libre de las imperfecciones que van apareciendo en tu piel debido al paso de los años, no dudes en reservar nuestro tratamiento de mesoterapia virtual, donde ayudaremos a que desaparezcan las manchas en la piel, arrugas de expresión, mejorar la elasticidad.... Además, todos nuestros tratamientos faciales incluye un exfoliante con ultrasonido."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Facial: Derma Peel Pro", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Prueba la última revolución en peeling facial, nuestro sistema Derma Peel Pro que consiste en cinco peeling en uno, para que tu piel esté exfoliada y libre de imperfecciones. Además, todos nuestros tratamientos faciales incluyen exfoliante con ultrasonido. Notarás los resultados desde el principio. ¿A qué estás esperando para hacer tu reserva con nosotros?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Personalizado", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Previo diagnóstico de tu piel, en el que detectaremos cuales son tus necesidades, te realizaremos un tratamiento facial para mejorar tu piel, ya sea hidratante, antimanchas, antiedad, nutritivo.... Además, todos nuestros tratamientos faciales incluyen exfoliante con ultrasonido. No te vas a arrepentir de los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "No te pierdas la pedicura más completa de la mano de nuestras profesionales. Realizamos corte de uñas, limado, retirada de cutículas, hidratación, tratamiento de pieles y durezas y esmaltado a elegir el color que mas te guste."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Limpia y nutre la piel de tu rostro y consigue un resultado inmejorable. El servicio incluye desmaquillado de la piel, extracción, exfoliación, hidratación, mascarilla y masaje facial. Además, aplicamos exfoliante con ultrasonido en todos nuestros tratamientos faciales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Limpia y nutre la piel de tu rostro y consigue un resultado inmejorable. El servicio incluye desmaquillado de la piel, extracción, exfoliación, hidratación, mascarilla y masaje facial. Además, aplicamos exfoliante con ultrasonido en todos nuestros tratamientos faciales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensión De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Luce una mirada mucho más intensa con unas pestañas de cine, mucho más largas y con una curvatura infinita, gracias al servicio de extensión de pestañas. En El Barbero de Sevilla no realizamos relleno de pestañas, retiramos las pestañas antiguas y te volvemos a poner las nuevas, por lo que te vale este mismo servicio."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Si quieres conseguir una piel en tu rostro perfecta, libre de las imperfecciones que van apareciendo en tu piel debido al paso de los años, no dudes en reservar nuestro tratamiento de mesoterapia virtual, donde ayudaremos a que desaparezcan las manchas en la piel, arrugas de expresión, mejorar la elasticidad.... Además, todos nuestros tratamientos faciales incluye un exfoliante con ultrasonido."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial: Derma Peel Pro", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Prueba la última revolución en peeling facial, nuestro sistema Derma Peel Pro que consiste en cinco peeling en uno, para que tu piel esté exfoliada y libre de imperfecciones. Además, todos nuestros tratamientos faciales incluyen exfoliante con ultrasonido. Notarás los resultados desde el principio. ¿A qué estás esperando para hacer tu reserva con nosotros?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Personalizado", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Previo diagnóstico de tu piel, en el que detectaremos cuales son tus necesidades, te realizaremos un tratamiento facial para mejorar tu piel, ya sea hidratante, antimanchas, antiedad, nutritivo.... Además, todos nuestros tratamientos faciales incluyen exfoliante con ultrasonido. No te vas a arrepentir de los resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "No te pierdas la pedicura más completa de la mano de nuestras profesionales. Realizamos corte de uñas, limado, retirada de cutículas, hidratación, tratamiento de pieles y durezas y esmaltado a elegir el color que mas te guste."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Semipermanente", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Luce unas manos y uñas perfectas durante mucho más tiempo, al menos 3 semanas intactas. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado con el color que más te guste, a elegir entre nuestra amplia gama."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura", 
+            "duration": 2700, 
+            "price": "10 € ", 
+            "description": "Luce unas manos perfectas gracias a esta manicura que incluye limado, retirada de cutículas y esmaltado del color que más te guste a elegir entre una amplia gama."
+        }
+    ]
+}

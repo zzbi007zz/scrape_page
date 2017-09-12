@@ -1,0 +1,163 @@
+{
+    "adid": null, 
+    "name": "Pelostress", 
+    "name_of_contact": "Pelostress", 
+    "scrape_page": "https://www.bucmi.com/pelostress", 
+    "business_website": "https://www.bucmi.com/pelostress", 
+    "areas_covered": null, 
+    "description": "Centro de estética de BARCELONA con numerosos servicios tanto de depilación como en tratamientos faciales y corporales. Estamos situados en el barrio d L' Eixample. Aprende con nosotros a mimar y cuidar tu cuerpo. Te asesoraremos siempre lo mejor para ti", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817350301883002.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817350312606782.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817350328700394.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817350345419107.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635817350355731448.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Galileu, 17", 
+    "city": "Barcelona", 
+    "zipcode": "08009", 
+    "formatted_address": "C/ Galileu, 17, Barcelona, 08009", 
+    "country": "es", 
+    "office_number": "934584689", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3961272000", 
+    "longitude": "2.1689936000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968358748248978.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "125 € ", 
+            "description": "Consigue una piel más hidratada, lisa y juvenil con este pack de 5 sesiones de radiofrecuencia facial, sin ningún efecto secundario, ni cirugía. Cada sesión de radiofrecuencia dura 30 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "Confía en la alta tecnología de la presoterapia. Un tratamiento de estética corporal que ha revolucionado este sector, con su técnica de presión que mejora la circulación y ayuda a reducir centímetros. Precio por 5 sesiones. Servicio de presoterapia de 60 minutos por sesión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Luce una piel más saludable y limpia con esta limpieza de cutis básica. Incluye una higiene facial básica para mejorar el aspecto y devolverle el tono saludable."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Ingles O Axilas", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "Olvídate de la incomodidad de tener que depilarte las axilas o ingles tu misma. Este servicio incluye la depilación con cera, para ingle o axilas (a elegir)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "125 € ", 
+            "description": "Consigue una piel más hidratada, lisa y juvenil con este pack de 5 sesiones de radiofrecuencia facial, sin ningún efecto secundario, ni cirugía. Cada sesión de radiofrecuencia dura 30 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "Confía en la alta tecnología de la presoterapia. Un tratamiento de estética corporal que ha revolucionado este sector, con su técnica de presión que mejora la circulación y ayuda a reducir centímetros. Precio por 5 sesiones. Servicio de presoterapia de 60 minutos por sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial + Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con este servicio conseguirás una piel limpia y reluciente. Incluye peeling, tonificado, extracción, mascarilla adecuada al tipo de piel, hidratacion con masaje y se culmina con la aplicación del oxigeno con aerografos para desentoxicar, oxigenar, renovar y dar a la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Luce una piel más saludable y limpia con esta limpieza de cutis básica. Incluye una higiene facial básica para mejorar el aspecto y devolverle el tono saludable."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "La tecnología de la presoterapia puede ayudarte a reducir centímetros, si la utilizas como complemento de una dieta sana y algo de ejercicio, o para mejorar tu circulación. Este servicio incluye una única sesión de presoterapia de 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Notarás tu piel más lisa e hidratada con esta sesión de radiofreciencia facial. Un tratamiento rejuvenecedor indoloro y sin efectos secundarios."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Pestañas", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Luce unas pestañas oscuras y profundas con este tratamiento de tinte de pestañas. Nadie olvidará esa mirada."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "125 € ", 
+            "description": "Consigue una piel más hidratada, lisa y juvenil con este pack de 5 sesiones de radiofrecuencia facial, sin ningún efecto secundario, ni cirugía. Cada sesión de radiofrecuencia dura 30 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "Confía en la alta tecnología de la presoterapia. Un tratamiento de estética corporal que ha revolucionado este sector, con su técnica de presión que mejora la circulación y ayuda a reducir centímetros. Precio por 5 sesiones. Servicio de presoterapia de 60 minutos por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "125 € ", 
+            "description": "Consigue una piel más hidratada, lisa y juvenil con este pack de 5 sesiones de radiofrecuencia facial, sin ningún efecto secundario, ni cirugía. Cada sesión de radiofrecuencia dura 30 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "Confía en la alta tecnología de la presoterapia. Un tratamiento de estética corporal que ha revolucionado este sector, con su técnica de presión que mejora la circulación y ayuda a reducir centímetros. Precio por 5 sesiones. Servicio de presoterapia de 60 minutos por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial + Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con este servicio conseguirás una piel limpia y reluciente. Incluye peeling, tonificado, extracción, mascarilla adecuada al tipo de piel, hidratacion con masaje y se culmina con la aplicación del oxigeno con aerografos para desentoxicar, oxigenar, renovar y dar a la piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Luce una piel más saludable y limpia con esta limpieza de cutis básica. Incluye una higiene facial básica para mejorar el aspecto y devolverle el tono saludable."
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "adid": null, 
+    "name": "Marmares Salud", 
+    "name_of_contact": "Marmares Salud", 
+    "scrape_page": "https://www.bucmi.com/marmares", 
+    "business_website": "https://www.bucmi.com/marmares", 
+    "areas_covered": null, 
+    "description": "Centro de estética y masajes desde 2007 en la zona de Vicálvaro, muy cerca del polideportivo. Dispondrás una atención personalizada para el bienestar de nuestros clientes. Encontrarás un servicio de calidad que atiende las necesidades demandadas.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635785987609911618.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635785987632411525.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635785998796870076.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28032", 
+    "formatted_address": "Madrid, 28032", 
+    "country": "es", 
+    "office_number": "913065377", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4059873000", 
+    "longitude": "-3.6037099999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635973785095652539.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Ingles Brasileña, Piernas Y Axilas", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "¡Disfruta de un cuerpo sin vello gracias a nuestro completo servicio de depilación con cera! Realizamos la depilación con cera tibia de ingles brasileñas, piernas completas y axilas. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Exfoliante Corporal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El Reiki es un tratamiento para la limpieza energética del paciente gracias a la imposición de manos por parte del terapueta. COnsigue equilibrar tu cuerpo y tu mente y sal con las pilas totalmente cargadas de nuevo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Hidrolinfa", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Se denomina drenaje linfático manual a la técnica que activa la movilización de líquidos de los tejidos, mejorando estados acumulativos, procurando la mejor captación de estos en el intersticio."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "20 € ", 
+            "description": "La limpieza facial básica es un servicio que incluye: el desmaquillado, la extracción si es necesario, una mascarilla especializada, crema especial para el tipo de piel y finalizamos con un masaje. Además, también incluye la depilación de las cejas y del labio superior."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliante Corporal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El Reiki es un tratamiento para la limpieza energética del paciente gracias a la imposición de manos por parte del terapueta. COnsigue equilibrar tu cuerpo y tu mente y sal con las pilas totalmente cargadas de nuevo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Hidrolinfa", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Se denomina drenaje linfático manual a la técnica que activa la movilización de líquidos de los tejidos, mejorando estados acumulativos, procurando la mejor captación de estos en el intersticio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Es una terapia que ayuda a mejorar la circulación en las extremidades. Nosotros contamos con un aparato a través de un drenaje que ayuda a mejorar tu circulación, sobre todo por las piernas cansadas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "20 € ", 
+            "description": "La limpieza facial básica es un servicio que incluye: el desmaquillado, la extracción si es necesario, una mascarilla especializada, crema especial para el tipo de piel y finalizamos con un masaje. Además, también incluye la depilación de las cejas y del labio superior."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Exfoliante Corporal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El Reiki es un tratamiento para la limpieza energética del paciente gracias a la imposición de manos por parte del terapueta. COnsigue equilibrar tu cuerpo y tu mente y sal con las pilas totalmente cargadas de nuevo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Hidrolinfa", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Se denomina drenaje linfático manual a la técnica que activa la movilización de líquidos de los tejidos, mejorando estados acumulativos, procurando la mejor captación de estos en el intersticio."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliante Corporal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El Reiki es un tratamiento para la limpieza energética del paciente gracias a la imposición de manos por parte del terapueta. COnsigue equilibrar tu cuerpo y tu mente y sal con las pilas totalmente cargadas de nuevo."
+        }
+    ]
+}

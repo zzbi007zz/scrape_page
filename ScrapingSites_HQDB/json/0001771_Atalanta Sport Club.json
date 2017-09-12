@@ -1,0 +1,131 @@
+{
+    "adid": null, 
+    "name": "Atalanta Sport Club", 
+    "name_of_contact": "Atalanta Sport Club", 
+    "scrape_page": "https://www.bucmi.com/atalantasportclubspa", 
+    "business_website": "https://www.bucmi.com/atalantasportclubspa", 
+    "areas_covered": null, 
+    "description": "Atalanta Sport Club es un centro deportivo ubicado en Valencia. Dispone de un maravillo spa, en el que poder relajarte y disfrutar de la experiencia. Además, también disponemos de una gran variedad de masajes realizados por expertos cualificados.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041172574814967.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041172575596280.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041172575752529.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041172574162282.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041172574658620.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041172576377596.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041172579659087.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041172579502905.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46020", 
+    "formatted_address": "Valencia, 46007, Valencia, Valencia, Valencia, 46005, Valencia, 46020", 
+    "country": "es", 
+    "office_number": "963601161", 
+    "office_number2": null, 
+    "mobile_number": "606106876", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4829651000", 
+    "longitude": "-0.3578188000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636041177959786413.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 2 Masajes Relajantes Descontraturantes", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Disfruta de este pack, elige dos masajes para disfrutar cuando quieras y cada uno de una hora. Relájate y quítate la tensión acumulada con este masaje completo, realizado con aceites esenciales con aromas a la carta."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Circuito Spa Para 2 Personas Más Masaje", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Disfruta de nuestro circuito de aguas cuenta con proyector de cervicales, cascada mural, toberas a tres alturas, camas de hidromasaje, alfombra de burbujas, bañera con asientos de hidromasaje, camas de masaje envolventes. Acabando con un masaje de 20 minutos que te hará que salgas totalmente relajado y renovado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Kobido Lifting Facial Japonés", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este masaje facial de técnicas japonesas conseguirás mejorar las condiciones de la piel y minimizar el proceso de envejecimiento. El resultado es una piel brillante, luminosa, fresca y un rostro sereno y radiante. Tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Kobido Lifting Facial Japonés", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este masaje facial de técnicas japonesas conseguirás mejorar las condiciones de la piel y minimizar el proceso de envejecimiento. El resultado es una piel brillante, luminosa, fresca y un rostro sereno y radiante. Tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Kobido Lifting Facial Japonés", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este masaje facial de técnicas japonesas conseguirás mejorar las condiciones de la piel y minimizar el proceso de envejecimiento. El resultado es una piel brillante, luminosa, fresca y un rostro sereno y radiante. Tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 2 Masajes Completos", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Disfruta de este pack, elige dos masajes para disfrutar cuando quieras y cada uno de una hora. Siéntete nueva con este masaje completo de espalda, pierna y brazos, puedes elegir entre relajante, descontracturante o reafirmante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 2 Masajes Relajantes Descontraturantes", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Disfruta de este pack, elige dos masajes para disfrutar cuando quieras y cada uno de una hora. Relájate y quítate la tensión acumulada con este masaje completo, realizado con aceites esenciales con aromas a la carta."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Completo", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿Te gustaría sentirte como nueva? ¡Reserva ahora! Este servicio consta de un masaje completo de espalda, piernas y brazos. Además, puedes elegir entre relajante, descontracturante o reafirmante. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Kobido Lifting Facial Japonés", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este masaje facial de técnicas japonesas conseguirás mejorar las condiciones de la piel y minimizar el proceso de envejecimiento. El resultado es una piel brillante, luminosa, fresca y un rostro sereno y radiante. Tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Kobido Lifting Facial Japonés", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este masaje facial de técnicas japonesas conseguirás mejorar las condiciones de la piel y minimizar el proceso de envejecimiento. El resultado es una piel brillante, luminosa, fresca y un rostro sereno y radiante. Tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 2 Masajes Completos", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Disfruta de este pack, elige dos masajes para disfrutar cuando quieras y cada uno de una hora. Siéntete nueva con este masaje completo de espalda, pierna y brazos, puedes elegir entre relajante, descontracturante o reafirmante."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 2 Masajes Relajantes Descontraturantes", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Disfruta de este pack, elige dos masajes para disfrutar cuando quieras y cada uno de una hora. Relájate y quítate la tensión acumulada con este masaje completo, realizado con aceites esenciales con aromas a la carta."
+        }
+    ]
+}

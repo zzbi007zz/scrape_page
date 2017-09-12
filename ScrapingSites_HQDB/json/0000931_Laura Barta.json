@@ -1,0 +1,143 @@
+{
+    "adid": null, 
+    "name": "Laura Barta", 
+    "name_of_contact": "Laura Barta", 
+    "scrape_page": "https://www.bucmi.com/laurabarta", 
+    "business_website": "https://www.bucmi.com/laurabarta", 
+    "areas_covered": null, 
+    "description": "El centro de estética Laura Barta situado en pleno barrio de ciudad lineal en Madrid, ofrece tratamientos faciales y corporales como higienes, cavitación y presoterapia además de servicios de uñas como manicuras y pedicuras. Reserva ahora tu cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981333058299047.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981333060909046.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981333063789063.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981333060518672.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981333060509190.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981333060619061.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28027", 
+    "formatted_address": "Madrid, 28027, Madrid, 28018, Madrid, 28027", 
+    "country": "es", 
+    "office_number": "914054831", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4392000000", 
+    "longitude": "-3.6529399999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635981387328162028.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser Piernas, Ingles Y Axilas", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Aprovecha este pack y elimina el vello de tu cuerpo con la depilación láser, reserva ahora y comprueba la diferencia desde la primera sesión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El servicio incluye el limado de las uñas, tratamiento y retirada de cutículas, masaje hidratante y esmaltado básico del color que prefieras."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "La cavitación es utilizada para eliminar la grasa localizada y en conjunto con la presoterapia conseguiremos mejorar la circulación, conseguiremos así la perdida de peso y modelar la silueta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Intensifica y realza tu mirada con la permanente y el tinte de pestañas. Ahora podrás olvidarte de la máscara de pestañas y lucir una mirada perfecta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "La cavitación es utilizada para eliminar la grasa localizada y en conjunto con la presoterapia conseguiremos mejorar la circulación, conseguiremos así la perdida de peso y modelar la silueta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Peeling Corporal Con Hidratacion", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Elimina las impurezas de tu cuerpo gracias a este Peeling Corporal y además deja tu piel hidratada. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "El servicio incluye desmaquillado de la piel, tónico, exfoliación con punta de diamante, extracción manual de puntos negros, mascarilla y masaje."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Intensifica y realza tu mirada con la permanente y el tinte de pestañas. Ahora podrás olvidarte de la máscara de pestañas y lucir una mirada perfecta."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Sesión De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "La cavitación es utilizada para eliminar la grasa localizada y en conjunto con la presoterapia conseguiremos mejorar la circulación, conseguiremos así la perdida de peso y modelar la silueta."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Intensifica y realza tu mirada con la permanente y el tinte de pestañas. Ahora podrás olvidarte de la máscara de pestañas y lucir una mirada perfecta."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Intensifica y realza tu mirada con la permanente y el tinte de pestañas. Ahora podrás olvidarte de la máscara de pestañas y lucir una mirada perfecta."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Sesión De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "La cavitación es utilizada para eliminar la grasa localizada y en conjunto con la presoterapia conseguiremos mejorar la circulación, conseguiremos así la perdida de peso y modelar la silueta."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tto Peeling Corporal Con Hidratacion", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Elimina las impurezas de tu cuerpo gracias a este Peeling Corporal y además deja tu piel hidratada. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "El servicio incluye desmaquillado de la piel, tónico, exfoliación con punta de diamante, extracción manual de puntos negros, mascarilla y masaje."
+        }
+    ]
+}

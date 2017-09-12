@@ -1,0 +1,509 @@
+{
+    "adid": null, 
+    "name": "Bellavida", 
+    "name_of_contact": "Bellavida", 
+    "scrape_page": "https://www.bucmi.com/bellavida", 
+    "business_website": "https://www.bucmi.com/bellavida", 
+    "areas_covered": null, 
+    "description": "Peluquería y Centro de Estética Bellavida nace con un nuevo concepto del cuidado, la belleza facial y corporal en Zaragoza. En nuestras instalaciones podrás disfrutar de una amplia gama de tratamientos destinados a tu bienestar. Somos especializados en depilación con cera para los hombres. ¡Ven ahora a conocernos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635875145271258813.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635875145588163070.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635875145683270686.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635875145730148110.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636080609638815784.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636306202125115702.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636306202159490284.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636356550295578075.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "41", 
+    "hqdb_review_score": "7,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Illueca, 5", 
+    "city": "Zaragoza", 
+    "zipcode": "50006", 
+    "formatted_address": "C/ Illueca, 5, Zaragoza, 50006", 
+    "country": "es", 
+    "office_number": "876017353", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6427714000", 
+    "longitude": "-0.8924858000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635955421655049079.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "¡Los hombres también se preocupan por su aspecto y en Bellavida lo sabemos! Podrás escoger entre un corte más clásico o atreverte con las últimas tendencias, ahora al mejor precio. El servicio incluye solo el corte del cabello, siempre en manos de nuestro cualificado equipo de profesionales. ¡Sorprende con un nuevo aspecto! No lo dudes y reserva ya tu cita cómodamente online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Japonés Definitivo", 
+            "duration": 14400, 
+            "price": "99 € ", 
+            "description": "Con una intensidad mayor que el alisado de keratina, con el alisado japonés conseguirás alisar por completo el pelo. Se recomienda consultar con el profesional el tipo de cabello que se tiene antes de disfrutar de esta técnica de alisado permanente. ¡No lo dudes, luce una melena siempre perfecta y reserva ya tu cita cómodamente online! El resultado será verdaderamente eficaz. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Piernas Enteras Hombre", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de piernas entras. Se realiza con cera de calidad por las manos de las expertas en depilación del centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Espalda Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "En Bella Vida también se realizan servicios de depilación integral para hombres. Este servicio incluye una sesión de depilación con cera para la zona de la espalda. Se realiza con cera de calidad por las manos de las expertas en depilación del centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el peinado que más vaya contigo, con tu estilo y personalidad. ¡Estarás siempre perfecta gracias a nuestro equipo de profesionales! Incluye también un agradable lavado. ¡Si quieres sentirte ideal cualquier día, este es tu momento! Reserva ya tu cita online en nuestro centro de peluquería y estética. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Para pelo extralargo consulte posible suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Pelo Largo", 
+            "duration": 9000, 
+            "price": "180 € ", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales del sector gracias a este alisado de keratina. Eliminamos el encrespamiento, reforzamos el cabello debilitado y alisamos tu melena de forma permanente. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "¡Los hombres también se preocupan por su aspecto y en Bellavida lo sabemos! Podrás escoger entre un corte más clásico o atreverte con las últimas tendencias, ahora al mejor precio. El servicio incluye solo el corte del cabello, siempre en manos de nuestro cualificado equipo de profesionales. ¡Sorprende con un nuevo aspecto! No lo dudes y reserva ya tu cita cómodamente online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Hidratación Bótox Capilar", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio incluye una hidratación profunda de bótox capilar en nuestro centro de peluquería y estética Bella Vida. De esta forma, podrás nutrir tu melena tras los estragos del verano o de muchas coloraciones. Reserva ya tu cita online, podrás ahorrar tiempo y disfrutar de descuentos exclusivos. ¡Confía en nuestro equipo de profesionales, que trabajarán para conseguir el mejor resultado! Una melena perfecta por un precio super asequible."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Peinado", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Consigue un look de moda con las mechas californianas. Las mechas californianas son el último grito en tendencias. Ponte guapa en manos de nuestros profesionales. El servicio incluye el lavado con champú y acondicionador, la aplicación de las mechas en degradado y el peinado, con el que comprobarás los increíbles resultados. El resultado será muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Reparador", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Elimina el encrespamiento de tu cabello con el tratamiento de rejuvenecimiento capilar. Repara tu melena siempre en manos de nuestro equipo de profesionales. Utilizamos productos de primera calidad para que los resultados sean efectivos. ¡No lo dudes y reserva ya tu cita cómodamente online! Un tratamiento ideal para nutrir tu pelo. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "69 € ", 
+            "description": "Si deseas un cabello más liso y más manejable, la mejor opción es un alisado de keratina. El servicio consta de un tratamiento intenso que suaviza, alisa y fortalece el cabello. ¡Podrás lucir así una melena perfecta, eliminando los signos de encrespamiento! Nuestros profesionales trabajan con productos de primera calidad. ¡No esperes más y reserva ya tu cita cómodamente online! ¡Quedarás super satisfecha con el resultado!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés Definitivo", 
+            "duration": 14400, 
+            "price": "99 € ", 
+            "description": "Con una intensidad mayor que el alisado de keratina, con el alisado japonés conseguirás alisar por completo el pelo. Se recomienda consultar con el profesional el tipo de cabello que se tiene antes de disfrutar de esta técnica de alisado permanente. ¡No lo dudes, luce una melena siempre perfecta y reserva ya tu cita cómodamente online! El resultado será verdaderamente eficaz. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Mechas, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "46,25 € ", 
+            "description": "¡Dale un toque de color y de vida a tu melena! Además, sorprenderás con un look totalmente renovado. El servicio incluye un agradable lavado, el tinte, las mechas, el corte asesorado y el peinado con definición. Además, de regalo, podrás disfrutar de un tratamiento de hidratación y masaje capilar. Confía en nuestro equipo de profesionales que te aconsejarán con el corte y color que más te favorece. ¡Reserva ya online este pack exclusivo para tu melena! El precio es indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Mechas, Corte Y Peinado Pelo Largo", 
+            "duration": 9000, 
+            "price": "56 € ", 
+            "description": "¡Dale un toque de color y de vida a tu melena! Además, sorprenderás con un look totalmente renovado. El servicio incluye un agradable lavado, el tinte, las mechas, el corte asesorado y el peinado con definición. Además, de regalo, podrás disfrutar de un tratamiento de hidratación y masaje capilar. Confía en nuestro equipo de profesionales que te aconsejarán con el corte y color que más te favorece. El precio es indicado para pelo largo. En caso de pelo extralargo, consulta posible suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Fantasía Y Peinado", 
+            "duration": 7200, 
+            "price": "48 € ", 
+            "description": "Consigue un look de moda con las mechas fantasía. Ponte guapa en manos de nuestros profesionales. El servicio incluye el lavado con champú y acondicionador, la aplicación de las mechas fantasía y el peinado, con el que comprobarás los increíbles resultados. El resultado será muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte De Cejas Con Henna", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¡Da a tus cejas mucho más uniformidad y resistencia gracias a este tinte con henna de color marrón o negro! No lo dudes, luce unas cejas mucho más definidas gracias a nuestro equipo de profesionales. La tinta durará unas 3 semanas. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Ácido Hialurónico", 
+            "duration": 9000, 
+            "price": "45 € ", 
+            "description": "¿Quieres lucir una melena libre de encrespamiento? Ven a tu Centro de Peluquería y Estética Bellavida y ponte en manos de nuestros mejores profesionales. Luce un cabello libre de encrespamiento y con mucho más volumen. Disfruta de una melena sedosa y con mucho brillo. Alisa tu pelo e hidrata en profundidad. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Keratina Pura", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "¿Quieres lucir una melena mucho más lisa e hidratada? Ven a tu Centro de Peluquería y Estética Bellavida y ponte en manos de nuestros mejores profesionales. Luce una melena mucho más lisa y sedosa. Olvídate del encrespamiento. Este tratamiento hidratada en profundidad tu cabello sin químicos. Disfruta de un pelo mucho más hidratado, nutrido y luminoso. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lavado Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el peinado que más vaya contigo, con tu estilo y personalidad. ¡Estarás siempre perfecta gracias a nuestro equipo de profesionales! Incluye también un agradable lavado. ¡Si quieres sentirte ideal cualquier día, este es tu momento! Reserva ya tu cita online en nuestro centro de peluquería y estética. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Para pelo extralargo consulte posible suplemento en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Brasileño Pelo Largo", 
+            "duration": 9000, 
+            "price": "180 € ", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales del sector gracias a este alisado de keratina. Eliminamos el encrespamiento, reforzamos el cabello debilitado y alisamos tu melena de forma permanente. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "¡Los hombres también se preocupan por su aspecto y en Bellavida lo sabemos! Podrás escoger entre un corte más clásico o atreverte con las últimas tendencias, ahora al mejor precio. El servicio incluye solo el corte del cabello, siempre en manos de nuestro cualificado equipo de profesionales. ¡Sorprende con un nuevo aspecto! No lo dudes y reserva ya tu cita cómodamente online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Hidratación Bótox Capilar", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio incluye una hidratación profunda de bótox capilar en nuestro centro de peluquería y estética Bella Vida. De esta forma, podrás nutrir tu melena tras los estragos del verano o de muchas coloraciones. Reserva ya tu cita online, podrás ahorrar tiempo y disfrutar de descuentos exclusivos. ¡Confía en nuestro equipo de profesionales, que trabajarán para conseguir el mejor resultado! Una melena perfecta por un precio super asequible."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavado Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el peinado que más vaya contigo, con tu estilo y personalidad. ¡Estarás siempre perfecta gracias a nuestro equipo de profesionales! Incluye también un agradable lavado. ¡Si quieres sentirte ideal cualquier día, este es tu momento! Reserva ya tu cita online en nuestro centro de peluquería y estética. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Para pelo extralargo consulte posible suplemento en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño Pelo Largo", 
+            "duration": 9000, 
+            "price": "180 € ", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales del sector gracias a este alisado de keratina. Eliminamos el encrespamiento, reforzamos el cabello debilitado y alisamos tu melena de forma permanente. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "¡Los hombres también se preocupan por su aspecto y en Bellavida lo sabemos! Podrás escoger entre un corte más clásico o atreverte con las últimas tendencias, ahora al mejor precio. El servicio incluye solo el corte del cabello, siempre en manos de nuestro cualificado equipo de profesionales. ¡Sorprende con un nuevo aspecto! No lo dudes y reserva ya tu cita cómodamente online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tto Hidratación Bótox Capilar", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio incluye una hidratación profunda de bótox capilar en nuestro centro de peluquería y estética Bella Vida. De esta forma, podrás nutrir tu melena tras los estragos del verano o de muchas coloraciones. Reserva ya tu cita online, podrás ahorrar tiempo y disfrutar de descuentos exclusivos. ¡Confía en nuestro equipo de profesionales, que trabajarán para conseguir el mejor resultado! Una melena perfecta por un precio super asequible."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para media melena."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Californianas Y Peinado", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Consigue un look de moda con las mechas californianas. Las mechas californianas son el último grito en tendencias. Ponte guapa en manos de nuestros profesionales. El servicio incluye el lavado con champú y acondicionador, la aplicación de las mechas en degradado y el peinado, con el que comprobarás los increíbles resultados. El resultado será muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Capilar Reparador", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Elimina el encrespamiento de tu cabello con el tratamiento de rejuvenecimiento capilar. Repara tu melena siempre en manos de nuestro equipo de profesionales. Utilizamos productos de primera calidad para que los resultados sean efectivos. ¡No lo dudes y reserva ya tu cita cómodamente online! Un tratamiento ideal para nutrir tu pelo. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "69 € ", 
+            "description": "Si deseas un cabello más liso y más manejable, la mejor opción es un alisado de keratina. El servicio consta de un tratamiento intenso que suaviza, alisa y fortalece el cabello. ¡Podrás lucir así una melena perfecta, eliminando los signos de encrespamiento! Nuestros profesionales trabajan con productos de primera calidad. ¡No esperes más y reserva ya tu cita cómodamente online! ¡Quedarás super satisfecha con el resultado!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Japonés Definitivo", 
+            "duration": 14400, 
+            "price": "99 € ", 
+            "description": "Con una intensidad mayor que el alisado de keratina, con el alisado japonés conseguirás alisar por completo el pelo. Se recomienda consultar con el profesional el tipo de cabello que se tiene antes de disfrutar de esta técnica de alisado permanente. ¡No lo dudes, luce una melena siempre perfecta y reserva ya tu cita cómodamente online! El resultado será verdaderamente eficaz. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Lavado Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el peinado que más vaya contigo, con tu estilo y personalidad. ¡Estarás siempre perfecta gracias a nuestro equipo de profesionales! Incluye también un agradable lavado. ¡Si quieres sentirte ideal cualquier día, este es tu momento! Reserva ya tu cita online en nuestro centro de peluquería y estética. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Para pelo extralargo consulte posible suplemento en el centro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavado Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el peinado que más vaya contigo, con tu estilo y personalidad. ¡Estarás siempre perfecta gracias a nuestro equipo de profesionales! Incluye también un agradable lavado. ¡Si quieres sentirte ideal cualquier día, este es tu momento! Reserva ya tu cita online en nuestro centro de peluquería y estética. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Para pelo extralargo consulte posible suplemento en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Brasileño Pelo Largo", 
+            "duration": 9000, 
+            "price": "180 € ", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales del sector gracias a este alisado de keratina. Eliminamos el encrespamiento, reforzamos el cabello debilitado y alisamos tu melena de forma permanente. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "¡Los hombres también se preocupan por su aspecto y en Bellavida lo sabemos! Podrás escoger entre un corte más clásico o atreverte con las últimas tendencias, ahora al mejor precio. El servicio incluye solo el corte del cabello, siempre en manos de nuestro cualificado equipo de profesionales. ¡Sorprende con un nuevo aspecto! No lo dudes y reserva ya tu cita cómodamente online."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tto Hidratación Bótox Capilar", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio incluye una hidratación profunda de bótox capilar en nuestro centro de peluquería y estética Bella Vida. De esta forma, podrás nutrir tu melena tras los estragos del verano o de muchas coloraciones. Reserva ya tu cita online, podrás ahorrar tiempo y disfrutar de descuentos exclusivos. ¡Confía en nuestro equipo de profesionales, que trabajarán para conseguir el mejor resultado! Una melena perfecta por un precio super asequible."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para media melena."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas Y Peinado", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Consigue un look de moda con las mechas californianas. Las mechas californianas son el último grito en tendencias. Ponte guapa en manos de nuestros profesionales. El servicio incluye el lavado con champú y acondicionador, la aplicación de las mechas en degradado y el peinado, con el que comprobarás los increíbles resultados. El resultado será muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Reparador", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Elimina el encrespamiento de tu cabello con el tratamiento de rejuvenecimiento capilar. Repara tu melena siempre en manos de nuestro equipo de profesionales. Utilizamos productos de primera calidad para que los resultados sean efectivos. ¡No lo dudes y reserva ya tu cita cómodamente online! Un tratamiento ideal para nutrir tu pelo. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "69 € ", 
+            "description": "Si deseas un cabello más liso y más manejable, la mejor opción es un alisado de keratina. El servicio consta de un tratamiento intenso que suaviza, alisa y fortalece el cabello. ¡Podrás lucir así una melena perfecta, eliminando los signos de encrespamiento! Nuestros profesionales trabajan con productos de primera calidad. ¡No esperes más y reserva ya tu cita cómodamente online! ¡Quedarás super satisfecha con el resultado!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Japonés Definitivo", 
+            "duration": 14400, 
+            "price": "99 € ", 
+            "description": "Con una intensidad mayor que el alisado de keratina, con el alisado japonés conseguirás alisar por completo el pelo. Se recomienda consultar con el profesional el tipo de cabello que se tiene antes de disfrutar de esta técnica de alisado permanente. ¡No lo dudes, luce una melena siempre perfecta y reserva ya tu cita cómodamente online! El resultado será verdaderamente eficaz. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Mechas, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "46,25 € ", 
+            "description": "¡Dale un toque de color y de vida a tu melena! Además, sorprenderás con un look totalmente renovado. El servicio incluye un agradable lavado, el tinte, las mechas, el corte asesorado y el peinado con definición. Además, de regalo, podrás disfrutar de un tratamiento de hidratación y masaje capilar. Confía en nuestro equipo de profesionales que te aconsejarán con el corte y color que más te favorece. ¡Reserva ya online este pack exclusivo para tu melena! El precio es indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Lavado Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el peinado que más vaya contigo, con tu estilo y personalidad. ¡Estarás siempre perfecta gracias a nuestro equipo de profesionales! Incluye también un agradable lavado. ¡Si quieres sentirte ideal cualquier día, este es tu momento! Reserva ya tu cita online en nuestro centro de peluquería y estética. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Para pelo extralargo consulte posible suplemento en el centro."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si buscas renovar tu look o sanear tu cabello, te ofrecemos este servicio de corte de pelo, siempre en manos de nuestro equipo de profesionales. El servicio incluye un agradable lavado, corte asesorado y secado natural. Podrás escoger el corte que más vaya contigo, con tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Alisado Brasileño Pelo Largo", 
+            "duration": 9000, 
+            "price": "180 € ", 
+            "description": "Luce una melena perfecta de la mano de los mejores profesionales del sector gracias a este alisado de keratina. Eliminamos el encrespamiento, reforzamos el cabello debilitado y alisamos tu melena de forma permanente. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "¡Los hombres también se preocupan por su aspecto y en Bellavida lo sabemos! Podrás escoger entre un corte más clásico o atreverte con las últimas tendencias, ahora al mejor precio. El servicio incluye solo el corte del cabello, siempre en manos de nuestro cualificado equipo de profesionales. ¡Sorprende con un nuevo aspecto! No lo dudes y reserva ya tu cita cómodamente online."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Tto Hidratación Bótox Capilar", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio incluye una hidratación profunda de bótox capilar en nuestro centro de peluquería y estética Bella Vida. De esta forma, podrás nutrir tu melena tras los estragos del verano o de muchas coloraciones. Reserva ya tu cita online, podrás ahorrar tiempo y disfrutar de descuentos exclusivos. ¡Confía en nuestro equipo de profesionales, que trabajarán para conseguir el mejor resultado! Una melena perfecta por un precio super asequible."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Color Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para media melena."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Mechas Californianas Y Peinado", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Consigue un look de moda con las mechas californianas. Las mechas californianas son el último grito en tendencias. Ponte guapa en manos de nuestros profesionales. El servicio incluye el lavado con champú y acondicionador, la aplicación de las mechas en degradado y el peinado, con el que comprobarás los increíbles resultados. El resultado será muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Tratamiento Capilar Reparador", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Elimina el encrespamiento de tu cabello con el tratamiento de rejuvenecimiento capilar. Repara tu melena siempre en manos de nuestro equipo de profesionales. Utilizamos productos de primera calidad para que los resultados sean efectivos. ¡No lo dudes y reserva ya tu cita cómodamente online! Un tratamiento ideal para nutrir tu pelo. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "¿Estás cansada de un color triste y apagado? El servicio incluye una sesión de peluquería en el que se aplicará el color de pelo que prefieras, y por último se te realizará el peinado que más te guste y que vaya con tu estilo. Conseguirás así el toque de color y luminosidad que estás buscando para tu melena. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados! El servicio está indicado para pelo largo."
+        }
+    ]
+}

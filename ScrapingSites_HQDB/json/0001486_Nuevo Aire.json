@@ -1,0 +1,185 @@
+{
+    "adid": null, 
+    "name": "Nuevo Aire", 
+    "name_of_contact": "Nuevo Aire", 
+    "scrape_page": "https://www.bucmi.com/nuevoaire", 
+    "business_website": "https://www.bucmi.com/nuevoaire", 
+    "areas_covered": null, 
+    "description": "Nuevo Aire es una peluquería y centro de estética especialistas en un trato impecable a sus clientes. Nace en Marzo del año 2009 de la mano de la Esteticién y Peluquera Luz Elena Villegas. Ven a conocernos y te ofreceremos una atención personalizada.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635479518938880248.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635479518977477065.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635479519003729204.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635479519003572895.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635490861409270961.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635490861585222410.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Bilbao", 
+    "zipcode": "48015", 
+    "formatted_address": "Bilbao, 48010, Bilbao, 48001, Bilbao, 48008, Bilbao, 48014, Bilbao, 48014, Bilbao, 48002, Bilbao, 48001, Bilbao, 48010, Bilbao, 48015", 
+    "country": "es", 
+    "office_number": "944477861", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.2813859000", 
+    "longitude": "-2.9624549999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810741143184495.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Con Esmaltado Permanente", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Eliminación de durezas e hidratación de pies, limar, limpiar uñas y esmaltado permanente"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Spa", 
+            "duration": 5400, 
+            "price": "40,5 € ", 
+            "description": "Manicura y pedicura spa. Incluye tratamiento de uñas, manos y pies, masaje spa y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "Si quieres un corte de pelo actual, en Nuevo Aire nos adaptamos a ti. El servicio incluye: lavar, cortar, peinar y productos de acabado"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Una manos bonitas y cuidadas gracias a esta estupenda manicura. El servicio incluye: cuidado de la uña y cutículas, limado, esmaltado, tratamiento spa con hidratación. El precio incluye detalle Nail Art si se desea."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Cabello Corto - Jubiladas", 
+            "duration": 5400, 
+            "price": "23 € ", 
+            "description": "Descubre una coloración de calidad, renueva tu estilo y presume de melena. El servicio incluye lavado con champú y mascarilla y peinado final."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Renueva tu estilo y apuesta por un servicio de coloración de calidad. El servicio incluye lavado con champú, mascarilla y peinado para cabellos largos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Renueva tu estilo y apuesta por un servicio de coloración de calidad. El servicio incluye lavado con champú, mascarilla, corte adaptado a tu estilo y peinado para cabellos cortos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Cabello Largo", 
+            "duration": 7200, 
+            "price": "40 € ", 
+            "description": "Renueva tu estilo y apuesta por un servicio de coloración de calidad. El servicio incluye lavado con champú, mascarilla, corte adaptado a tu estilo y peinado para cabellos largos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Renueva tu estilo y apuesta por un servicio de coloración de calidad. El servicio incluye lavado con champú, mascarilla, corte adaptado a tu estilo y peinado para cabellos medios."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "Si quieres un corte de pelo actual, en Nuevo Aire nos adaptamos a ti. El servicio incluye: lavar, cortar, peinar y productos de acabado"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Es hora de sanear tu melena o apostar por un cambio de estilo para renovar tu look. Sea cual sea el tuyo, nos adaptamos a él. El servicio incluye lavado con champú y peinado final para cabellos cortos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Si lo que deseas es un cambio de estilo para renovar tu look o sanear tus puntas, en Nuevo Aire nos adaptamos a ti. El servicio incluye lavado con champú y y peinado final para cabellos largos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Medio", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Sanear tus puntas o un cambio de estilo para renovar tu look. Sea cual sea el tuyo, nos adaptamos a él. El servicio incluye lavado con champú y peinado final para cabellos medios."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Sanear tus puntas o un cambio de estilo para renovar tu look. Sea cual sea el tuyo, nos adaptamos a él. El servicio incluye lavado con champú y mascarilla regeneradora, y peinado final para cabellos medios."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Cabello Corto - Jubiladas", 
+            "duration": 5400, 
+            "price": "23 € ", 
+            "description": "Descubre una coloración de calidad, renueva tu estilo y presume de melena. El servicio incluye lavado con champú y mascarilla y peinado final."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Renueva tu estilo y apuesta por un servicio de coloración de calidad. El servicio incluye lavado con champú, mascarilla y peinado para cabellos largos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Renueva tu estilo y apuesta por un servicio de coloración de calidad. El servicio incluye lavado con champú, mascarilla, corte adaptado a tu estilo y peinado para cabellos cortos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Peinado Cabello Largo", 
+            "duration": 7200, 
+            "price": "40 € ", 
+            "description": "Renueva tu estilo y apuesta por un servicio de coloración de calidad. El servicio incluye lavado con champú, mascarilla, corte adaptado a tu estilo y peinado para cabellos largos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Renueva tu estilo y apuesta por un servicio de coloración de calidad. El servicio incluye lavado con champú, mascarilla, corte adaptado a tu estilo y peinado para cabellos medios."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "Si quieres un corte de pelo actual, en Nuevo Aire nos adaptamos a ti. El servicio incluye: lavar, cortar, peinar y productos de acabado"
+        }
+    ]
+}

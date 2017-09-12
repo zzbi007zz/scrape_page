@@ -1,0 +1,269 @@
+{
+    "adid": null, 
+    "name": "Magnolia", 
+    "name_of_contact": "Magnolia", 
+    "scrape_page": "https://www.bucmi.com/centroesteticomagnolia", 
+    "business_website": "https://www.bucmi.com/centroesteticomagnolia", 
+    "areas_covered": null, 
+    "description": "Centro medico-estético en Hortaleza con los últimos tratamientos faciales y corporales (criolipolisis, laser lipolitico, yesoterapia, mesoclat, radiofrecuencia, plasmolifting, medoterapia, LPG...). Entra en nuestra pagina www.centroesteticamagnolia.es", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920918719076909.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920918743459277.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920918769709028.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920918793771546.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920918822224423.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920918862224299.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "16", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28043", 
+    "formatted_address": "Madrid, 28033, Madrid, 28043", 
+    "country": "es", 
+    "office_number": "917593794", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4654597000", 
+    "longitude": "-3.6399169000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635920950726611719.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Anticelulítico Criolipólisis", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "La Criolipolisis es uno de los tratamientos más demandados en la medicina estética. Esta técnica elimina los cúmulos de grasa en una zona localizada (flancos, abdomen o cartucheras)."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "120 € ", 
+            "description": "Aprovecha esta pack de 10 sesiones de presoterapia. Este tratamiento de presoterapia provoca una mejora de la circulación de la sangre a través del drenaje linfático. Actúa especialmente en pacientes con piernas cansadas o retención de líquidos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 4 Sesiones Radiofrecuencia Venus Swan", 
+            "duration": 1800, 
+            "price": "160 € ", 
+            "description": "Aprovecha este pack de 4 sesiones de Radiofrecuencia. La celulitis suele acompañar a un exceso de grasa y flacidez. Olvídate de estos pequeños complejos con este tratamiento reafirmante y reductor que utiliza la última tecnología de Venus Swan."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Ingles", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "¡Olvídate del vello y confía en los profesionales de Magnolia para un servicio de depilación de cera de bronce tibia para ingles por sólo 8 euros!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Medias Piernas", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "¡Olvídate del vello y confía en los profesionales de Magnolia para un servicio de depilación de cera de bronce tibia para medias piernas por sólo 12 euros!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis Ultrasónica", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Limpieza de cutis mas profunda con el tratamiento de hidratación para dar luminosidad a tu piel. ¡Luce un rostro perfecto y cuidado gracias a este tratamiento, siempre con los mejores productos y a manos de los mejores profesionales!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia Y Masaje De Piernas Cansadas", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Este tratamiento de presoterapia provoca una mejora de la circulación de la sangre a través del drenaje linfático. Actúa especialmente en pacientes con piernas cansadas o retención de líquidos. Aprovecha este pack que incluye la sesión de presoterapia (30-40 minutos) y masaje de piernas (20-30 minutos)."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión Lpg", 
+            "duration": 1800, 
+            "price": "55 € ", 
+            "description": "Desde la primera sesión notará los primeros resultados: las zonas tratadas son menos compactas, menos voluminosas y descongestionadas. Su piel es más lisa, más suave. Elimina la celulitis con LPG muy efectivo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión Presoterapia Corporal", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Este tratamiento de presoterapia provoca una mejora de la circulación de la sangre a través del drenaje linfático. Actúa especialmente en pacientes con piernas cansadas o retención de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Anticelulítico Criolipólisis", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "La Criolipolisis es uno de los tratamientos más demandados en la medicina estética. Esta técnica elimina los cúmulos de grasa en una zona localizada (flancos, abdomen o cartucheras)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Antiedad Facial", 
+            "duration": 3600, 
+            "price": "142 € ", 
+            "description": "Realizado con Mesoterapia facial con vitaminas o ácido hialurónico y tratamiento antiedad reafirmante y antimanchas. ¡Luce un rostro joven y vital durante mucho tiempo! ¡Que las duras jornadas laborales no repercutan en tu aspecto!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "120 € ", 
+            "description": "Aprovecha esta pack de 10 sesiones de presoterapia. Este tratamiento de presoterapia provoca una mejora de la circulación de la sangre a través del drenaje linfático. Actúa especialmente en pacientes con piernas cansadas o retención de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Radiofrecuencia Venus Swan", 
+            "duration": 1800, 
+            "price": "160 € ", 
+            "description": "Aprovecha este pack de 4 sesiones de Radiofrecuencia. La celulitis suele acompañar a un exceso de grasa y flacidez. Olvídate de estos pequeños complejos con este tratamiento reafirmante y reductor que utiliza la última tecnología de Venus Swan."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Ultrasónica", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Limpieza de cutis mas profunda con el tratamiento de hidratación para dar luminosidad a tu piel. ¡Luce un rostro perfecto y cuidado gracias a este tratamiento, siempre con los mejores productos y a manos de los mejores profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal Tto Anticelulítico", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "¿Estás acomplejado por la celulitis de tu cuerpo y no sabes como solucionarlo? Magnolia te ofrece esta tratamiento que consiste en un masaje anticelulítico de abdomen, piernas y glúteos.¡Cuídate por dentro y por fuera!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación De Cejas", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Maquillaje permanente de cejas para corregir su forma, color, densidad... Tus cejas estarán siempre bien definidas sin necesidad de usar pintura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación De Línea De Ojos", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "Maquillaje permanente de línea de ojos, color negro, con forma a elegir por el cliente y una duración permanente. Olvídate de los perfiladores y luce una mirada de infarto sin necesidad de maquillaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial De Ácido", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Peeling facial de ácidos (glicólico, mandélico, kojico, láctico, etc) depende de tipo de piel y problema. Este tratamiento actúa como antimanchas, antiarrugas, antimarcas, proporcionando así luminosidad a tu piel y una renovación celular."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Y Masaje De Piernas Cansadas", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Este tratamiento de presoterapia provoca una mejora de la circulación de la sangre a través del drenaje linfático. Actúa especialmente en pacientes con piernas cansadas o retención de líquidos. Aprovecha este pack que incluye la sesión de presoterapia (30-40 minutos) y masaje de piernas (20-30 minutos)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Lpg", 
+            "duration": 1800, 
+            "price": "55 € ", 
+            "description": "Desde la primera sesión notará los primeros resultados: las zonas tratadas son menos compactas, menos voluminosas y descongestionadas. Su piel es más lisa, más suave. Elimina la celulitis con LPG muy efectivo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Presoterapia Corporal", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Este tratamiento de presoterapia provoca una mejora de la circulación de la sangre a través del drenaje linfático. Actúa especialmente en pacientes con piernas cansadas o retención de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Radiofrecuencia Venus Swan", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "La celulitis suele acompañar a un exceso de grasa y flacidez. Olvídate de estos pequeños complejos con este tratamiento reafirmante y reductor que utiliza la última tecnología de Venus Swan."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Contorno De Ojos", 
+            "duration": 1800, 
+            "price": "39 € ", 
+            "description": "¿Estas enfrente del ordenador toda tu jornada laboral? ¿Los efectos del cansancio están afectando a tu aspecto? Este tratamiento de ojos mejorará el aspecto de las ojeras, bolsas, patas de gallo, arrugas u ojos cansados.¡Luce un rostro saludable!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial De Ácido Hialurónico", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Consiste en un tratamiento facial de luminosidad, hidratación y antiedad. Con unos masajes especiales disfrutará de una sensación de bienestar y su cara quedara relajada y rejuvenecida. Inmediatamente después del primer tratamiento su piel parecerá y estará más tersa. Un tratamiento intensivo garantiza una piel más firme, vital y con un aspecto juvenil."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Coporal Ondas De Choque Awt", 
+            "duration": 3600, 
+            "price": "95 € ", 
+            "description": "Tratamiento reductor anticelulítico de Ondas Acústicas. ¡Luce un cuerpo sin complejos sin necesidad de cirugía!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Yesoterapia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "La Yesoterapia es un magnifico moldeador de figura que proporciona además la tonificación del cuerpo. Este tratamiento se inicia haciendo un masaje de la cintura hacia el estómago, reduciendo el abdomen de manera instantánea."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Anticelulítico Criolipólisis", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "La Criolipolisis es uno de los tratamientos más demandados en la medicina estética. Esta técnica elimina los cúmulos de grasa en una zona localizada (flancos, abdomen o cartucheras)."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Antiedad Facial", 
+            "duration": 3600, 
+            "price": "142 € ", 
+            "description": "Realizado con Mesoterapia facial con vitaminas o ácido hialurónico y tratamiento antiedad reafirmante y antimanchas. ¡Luce un rostro joven y vital durante mucho tiempo! ¡Que las duras jornadas laborales no repercutan en tu aspecto!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Anticelulítico Criolipólisis", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "La Criolipolisis es uno de los tratamientos más demandados en la medicina estética. Esta técnica elimina los cúmulos de grasa en una zona localizada (flancos, abdomen o cartucheras)."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Antiedad Facial", 
+            "duration": 3600, 
+            "price": "142 € ", 
+            "description": "Realizado con Mesoterapia facial con vitaminas o ácido hialurónico y tratamiento antiedad reafirmante y antimanchas. ¡Luce un rostro joven y vital durante mucho tiempo! ¡Que las duras jornadas laborales no repercutan en tu aspecto!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "120 € ", 
+            "description": "Aprovecha esta pack de 10 sesiones de presoterapia. Este tratamiento de presoterapia provoca una mejora de la circulación de la sangre a través del drenaje linfático. Actúa especialmente en pacientes con piernas cansadas o retención de líquidos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 4 Sesiones Radiofrecuencia Venus Swan", 
+            "duration": 1800, 
+            "price": "160 € ", 
+            "description": "Aprovecha este pack de 4 sesiones de Radiofrecuencia. La celulitis suele acompañar a un exceso de grasa y flacidez. Olvídate de estos pequeños complejos con este tratamiento reafirmante y reductor que utiliza la última tecnología de Venus Swan."
+        }
+    ]
+}

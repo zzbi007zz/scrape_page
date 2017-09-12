@@ -1,0 +1,127 @@
+{
+    "adid": null, 
+    "name": "Centro de Masaje Manual", 
+    "name_of_contact": "Centro de Masaje Manual", 
+    "scrape_page": "https://www.bucmi.com/centrodemasajemanual", 
+    "business_website": "https://www.bucmi.com/centrodemasajemanual", 
+    "areas_covered": null, 
+    "description": "Disponemos de las instalaciones más sofisticadas y confortables. Ven a probarlas y disfruta de todos los tratamientos que tenemos. Nos encontramos en pleno Príncipe Pío. Reserva ya con Bucmi.com nuestros completos masajes y sal como nuevo.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941576765673775.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941576783173646.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941576800829770.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941576822392355.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "28", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28008", 
+    "formatted_address": "Madrid, 28006, Madrid, 28014, Madrid, 28008", 
+    "country": "es", 
+    "office_number": "915323726", 
+    "office_number2": null, 
+    "mobile_number": "609490281", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4225478000", 
+    "longitude": "-3.7230524999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635941833121965710.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de 1 sesion.Mejora el rendimiento y cuidado del deportista. Se aplica con la finalidad de que: alcance una puesta en forma óptima, prevenir y evitar lesiones así como acelerar la rehabilitación de las mismasDF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Quiromasaje", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de una sesión de masaje. Cuenta con excelentes propiedades neurosensitivas, drenantes y circulatorias. Disfruta de este servicio de 45 minutos de duración y saldrás como nuevo. Reserva ya con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de 1 sesion. Ideal para contracturas musculares. Ponte en nuestros manos y elimina tus dolencias en tan sólo 45 minutos gracias a nuestros terapeutas expertos de Centro de Masaje ManualF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Circulatorio", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de 1 sesión. Consiste en un masaje circulatorio para la zona de las Piernas y pies, para que consigas eliminar el efecto de cansancio en tus piernas y salgas totalmente renovadaF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Masaje de tipo terapéutico, aunque cuenta con múltiples efectos estéticos, por lo que nos ayuda a nivel interno y externo. Indicado para celulitis. DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Circulatorio", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de 1 sesión. Consiste en un masaje circulatorio para la zona de las Piernas y pies, para que consigas eliminar el efecto de cansancio en tus piernas y salgas totalmente renovadaF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Masaje de tipo terapéutico, aunque cuenta con múltiples efectos estéticos, por lo que nos ayuda a nivel interno y externo. Indicado para celulitis. DF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Circulatorio", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de 1 sesión. Consiste en un masaje circulatorio para la zona de las Piernas y pies, para que consigas eliminar el efecto de cansancio en tus piernas y salgas totalmente renovadaF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de 1 sesion.Mejora el rendimiento y cuidado del deportista. Se aplica con la finalidad de que: alcance una puesta en forma óptima, prevenir y evitar lesiones así como acelerar la rehabilitación de las mismasDF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Quiromasaje", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de una sesión de masaje. Cuenta con excelentes propiedades neurosensitivas, drenantes y circulatorias. Disfruta de este servicio de 45 minutos de duración y saldrás como nuevo. Reserva ya con Bucmi.comF"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Masaje de tipo terapéutico, aunque cuenta con múltiples efectos estéticos, por lo que nos ayuda a nivel interno y externo. Indicado para celulitis. DF"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Circulatorio", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Precio de 1 sesión. Consiste en un masaje circulatorio para la zona de las Piernas y pies, para que consigas eliminar el efecto de cansancio en tus piernas y salgas totalmente renovadaF"
+        }
+    ]
+}

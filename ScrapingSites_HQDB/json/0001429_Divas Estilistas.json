@@ -1,0 +1,233 @@
+{
+    "adid": null, 
+    "name": "Divas Estilistas", 
+    "name_of_contact": "Divas Estilistas", 
+    "scrape_page": "https://www.bucmi.com/divasestilistas", 
+    "business_website": "https://www.bucmi.com/divasestilistas", 
+    "areas_covered": null, 
+    "description": "Cambia tu look....¡descubre tu estilo! Ponte en manos de nuestros mejores estilistas para que puedan asesorarte y lucir un corte de pelo a la moda.. También tenemos manicuras, pedicuras, higienes faciales. Te esperamos en Divina Pastora en Alicante.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526229840729266.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526229846510932.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526229847917303.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582255777248269.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582255796937267.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "9", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Alicante", 
+    "zipcode": "03009", 
+    "formatted_address": "Alicante, 03001, Alicante, 03009", 
+    "country": "es", 
+    "office_number": "965182039", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "38.3712118000", 
+    "longitude": "-0.5038677000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635953817278405837.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Despídete de cúmulos indeseados de grasa o de la antiestética piel de naranja o celulitis. Reserva online este pack de 10 sesiones de Presoterapia con infrarojos, que ayudará a reducir volumen, contorno y grasa acumulada. Cada sesión tiene una duración de 35 minutos. Luce el cuerpo que siempre deseaste con esta súper promoción. Te encantará."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Y Microdermoabrasion", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Regenera tu piel e ilumina tu rostro. La limpieza facial incluye desmaquillado, extracción manual con vapor y tónico refrescante. Además, realizamos un peeling facial y aplicamos crema hidratante y mascarilla adaptada a tu tipo de piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Y Secar", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Si deseas verte espectacular, acude a nuestro centro y disfruta de este pack. ¡Dale color a tu pelo! El servicio incluye el color y el secado con forma con secador. Es válido para todo tipo de largos. En caso de que tu melena sea extralarga consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Permanente Completa", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Haz que tus manos y tus pies luzcan cuidados durante al menos tres semanas con nuestro esmaltado permanente a color o francesa. El servicio es completo (limado de uñas, retirada de cutículas y durezas y esmaltado) para que queden perfectos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Secar", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Si deseas verte espectacular, acude a nuestro centro y disfruta de este pack. ¡Dale color a tu pelo! El servicio incluye el color y el secado con forma con secador. Es válido para todo tipo de largos. En caso de que tu melena sea extralarga consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Ilumina tu cabello gracias a este servicio que incluye mechas (a elegir entre normales, californianas, por secciones.... en nuestra gama de colores), lavado con productos y peinado para pelo corto. Si optas por innovar con unas mechas californianas de fantasía (rojo, verdes...) tendrás un suplemento de 3€ a abonar en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Si estas aburrida de tu color este es tu servicio. Puedes elegir entre mechas normales, californianas, por sección del color que más te guste. Una vez aplicadas, lavamos la melena y secamos con definición. El servicio incluye media melena y pelo largo. Si tu pelo es extralargo consulta suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Pelo Corto", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Tratamiento de alisado de keratina para eliminar el encrespado de tu pelo sin formol. Presume de una melena suave, lisa y sedosa. Válido para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "129 € ", 
+            "description": "Alisado de Keratina Permanente. Consigue un pelo con mucho brillo, hidratado y sano. Tratamiento de alisado de keratina para pelo largo. En caso de que luzcas una melena extralarga consulta con Divas Estilistas un posible suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "119 € ", 
+            "description": "Elimina el encrespamiento de tu pelo y despreocúpate de la humedad gracias a este alisado sin formol para la media melena. Además, el tratamiento aporta vitalidad y suavidad a tu cabello dañado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chico", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "El servicio incluye lavado, corte y peinado con productos de definición (cera, gomina, etc). Déjate asesorar por nuestros mejores profesionales y consigue el look que más se adecua a la forma de tu cara."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Pelo Corto", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Cortamos con estilo y te peinamos con las últimas tendencias del mercado. Además, lavamos la melena y secamos con definición para que no salgas con el pelo mojado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Pelo Largo", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "¿Necesitas sanear tus puntas? ¿O prefieres un cambio de estilo? Aprovecha este servicio de corte asesorado con lavado y secado con definición gracias a nuestros profesionales. El precio es para media melena y pelo largo. EN caso de pelo extralargo consulta suplemento con el profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Niño Hasta 8 Años", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Reserva ya este servicio para los más peques y que consigan también un look a la moda. El precio es para niños y niñas hasta 8 años."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡Conoce las nuevas tendencias de peinado en pelo corto! Ponte en manos de nuestros profesionales y disfruta de un look adaptado a tu estilo. Se utilizan productos de definición como toque final del servicio."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Largo", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "¿Tienes un evento al que no puedes faltar y no consigues el peinado perfecto? ¡En Diva Estilistas tienes la solución! Ven a vernos y te peinamos para que vayas perfecta. Válido para pelo medio y largo. Si tu melena es extralarga consultanos por si existe suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Olvídate del encrespamiento y consigue un pelo sedoso y con brillo hasta 3 meses. El servicio incluye el tratamiento de keratina y fijación con plancha. EL precio del tratamiento es para todo tipo de largos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Secar", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Si deseas verte espectacular, acude a nuestro centro y disfruta de este pack. ¡Dale color a tu pelo! El servicio incluye el color y el secado con forma con secador. Es válido para todo tipo de largos. En caso de que tu melena sea extralarga consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Ilumina tu cabello gracias a este servicio que incluye mechas (a elegir entre normales, californianas, por secciones.... en nuestra gama de colores), lavado con productos y peinado para pelo corto. Si optas por innovar con unas mechas californianas de fantasía (rojo, verdes...) tendrás un suplemento de 3€ a abonar en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Si estas aburrida de tu color este es tu servicio. Puedes elegir entre mechas normales, californianas, por sección del color que más te guste. Una vez aplicadas, lavamos la melena y secamos con definición. El servicio incluye media melena y pelo largo. Si tu pelo es extralargo consulta suplemento en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina Pelo Corto", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Tratamiento de alisado de keratina para eliminar el encrespado de tu pelo sin formol. Presume de una melena suave, lisa y sedosa. Válido para pelo corto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Secar", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Si deseas verte espectacular, acude a nuestro centro y disfruta de este pack. ¡Dale color a tu pelo! El servicio incluye el color y el secado con forma con secador. Es válido para todo tipo de largos. En caso de que tu melena sea extralarga consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Ilumina tu cabello gracias a este servicio que incluye mechas (a elegir entre normales, californianas, por secciones.... en nuestra gama de colores), lavado con productos y peinado para pelo corto. Si optas por innovar con unas mechas californianas de fantasía (rojo, verdes...) tendrás un suplemento de 3€ a abonar en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Si estas aburrida de tu color este es tu servicio. Puedes elegir entre mechas normales, californianas, por sección del color que más te guste. Una vez aplicadas, lavamos la melena y secamos con definición. El servicio incluye media melena y pelo largo. Si tu pelo es extralargo consulta suplemento en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Pelo Corto", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Tratamiento de alisado de keratina para eliminar el encrespado de tu pelo sin formol. Presume de una melena suave, lisa y sedosa. Válido para pelo corto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "129 € ", 
+            "description": "Alisado de Keratina Permanente. Consigue un pelo con mucho brillo, hidratado y sano. Tratamiento de alisado de keratina para pelo largo. En caso de que luzcas una melena extralarga consulta con Divas Estilistas un posible suplemento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "119 € ", 
+            "description": "Elimina el encrespamiento de tu pelo y despreocúpate de la humedad gracias a este alisado sin formol para la media melena. Además, el tratamiento aporta vitalidad y suavidad a tu cabello dañado."
+        }
+    ]
+}

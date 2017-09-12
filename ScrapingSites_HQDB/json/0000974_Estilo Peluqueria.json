@@ -1,0 +1,174 @@
+{
+    "adid": null, 
+    "name": "Estilo Peluquería", 
+    "name_of_contact": "Estilo Peluquería", 
+    "scrape_page": "https://www.bucmi.com/peluqueriaestilo", 
+    "business_website": "https://www.bucmi.com/peluqueriaestilo", 
+    "areas_covered": null, 
+    "description": "Estilo Peluquería se encuentra ubicado en la zona de Chamartín, en Madrid. En nuestro salón te ofrecemos una amplia variedad de servicios de peluquería y belleza. Disponemos de profesionales en el sector para que puedas disfrutar del mejor resultado.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636028898222133723.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636028898233293894.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28036", 
+    "formatted_address": "Madrid, 28036, Madrid, 28010, Madrid, 28029, Madrid, 28007, Madrid, 28044, Madrid, 28036", 
+    "country": "es", 
+    "office_number": "913593086", 
+    "office_number2": null, 
+    "mobile_number": "630145962", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4632104000", 
+    "longitude": "-3.6879923000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636028966403973052.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "¡Luce unas uñas perfectas por más tiempo gracias al esmaltado permanente! Este servicio incluye: limado y pulido, retirada de cutículas, esmaltado con el color que más te guste e hidratación. Utilizamos para tu esmaltado Gel Polish."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Normal", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "¡Disfruta de unos pies bonitos y cuidados reservando nuestra pedicura! Durante el servicio cortamos y limamos las uñas, retiramos cutículas e hidratamos. Para finalizar, aplicamos un esmalte normal en el color que más te guste."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Elige entre nuestra gran variedad de colores y escoge el que más vaya con tu estilo. Trabajamos con las mejores marcas de peluquería como: Wella, Schwarzkopf y L’Oreal. El servicio incluye: tinte, lavado con champú, acondicionar y mascarilla y peinado con secador o plancha."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento De Keratina Hidratacion Largo", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "¿Quieres conseguir un pelo más sedoso, brillante, hidratado y que no se rompa con facilidad? ¡Reserva ahora! Te ofrecemos el tratamiento ideal para cualquier tipo de cabello, consigue con este servicio peinarte más fácilmente y reducir el encrespamiento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina", 
+            "duration": 10800, 
+            "price": "168 € ", 
+            "description": "¡Si estás harta del pelo rizado y encrespado, este es tu servicio! Gracias a nuestro tratamiento alisador conseguimos suavizar e hidratar tu melena para que luzca como siempre has soñado. ¡No te lo pienses más y disfruta de un pelo liso!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Déjate asesorar por nuestros estilistas y elige el corte que mejor encaje con tu estilo. El servicio incluye el lavado y el corte de pelo que más te apetezca lucir. ¡No lo dudes más y reserva en nuestro centro!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "18,5 € ", 
+            "description": "¿Necesitas un corte de pelo? ¡Reserva ahora en nuestro centro! Nuestros profesionales te asesorarán en todo lo que necesites para que puedas lucir el corte que más se adapte a ti. Incluye el lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Corto", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "¡Dale luz y color a tu melena reservando nuestro servicio de mechas! Solo tienes que decirnos lo que deseas y nuestros profesionales en peluquería se encargarán del resto. Incluye el lavado con champú, acondicionador y mascarilla. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Largo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¿Te gustaría dar luminosidad a tu melena? ¡Reserva nuestro servicio de mechas! Puedes elegir las que más vayan con tu estilo: mechas papel plata, californianas o Balayage. El servicio incluye lavado con champú, acondicionador y mascarilla, no incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Largo", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Porque sabemos lo importante que es que te sientas guapa, te ofrecemos nuestro servicio de peinado. Reserva este servicio que incluye el lavado con champú, acondicionador y mascarilla y el peinado con secador o plancha. ¿A qué esperas para reservar?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "41 € ", 
+            "description": "Si te apetece cambiar el color de tu pelo no lo dudes más y reserva ahora nuestro servicio de tinte. Utilizamos tintes de las mejores marcas de peluquería para garantiza el mejor resultado en tu pelo. Incluye el lavado y el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Elige entre nuestra gran variedad de colores y escoge el que más vaya con tu estilo. Trabajamos con las mejores marcas de peluquería como: Wella, Schwarzkopf y L’Oreal. El servicio incluye: tinte, lavado con champú, acondicionar y mascarilla y peinado con secador o plancha."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Keratina Hidratacion Largo", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "¿Quieres conseguir un pelo más sedoso, brillante, hidratado y que no se rompa con facilidad? ¡Reserva ahora! Te ofrecemos el tratamiento ideal para cualquier tipo de cabello, consigue con este servicio peinarte más fácilmente y reducir el encrespamiento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina", 
+            "duration": 10800, 
+            "price": "168 € ", 
+            "description": "¡Si estás harta del pelo rizado y encrespado, este es tu servicio! Gracias a nuestro tratamiento alisador conseguimos suavizar e hidratar tu melena para que luzca como siempre has soñado. ¡No te lo pienses más y disfruta de un pelo liso!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Déjate asesorar por nuestros estilistas y elige el corte que mejor encaje con tu estilo. El servicio incluye el lavado y el corte de pelo que más te apetezca lucir. ¡No lo dudes más y reserva en nuestro centro!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "18,5 € ", 
+            "description": "¿Necesitas un corte de pelo? ¡Reserva ahora en nuestro centro! Nuestros profesionales te asesorarán en todo lo que necesites para que puedas lucir el corte que más se adapte a ti. Incluye el lavado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Pelo Corto", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "¡Dale luz y color a tu melena reservando nuestro servicio de mechas! Solo tienes que decirnos lo que deseas y nuestros profesionales en peluquería se encargarán del resto. Incluye el lavado con champú, acondicionador y mascarilla. No incluye peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina", 
+            "duration": 10800, 
+            "price": "168 € ", 
+            "description": "¡Si estás harta del pelo rizado y encrespado, este es tu servicio! Gracias a nuestro tratamiento alisador conseguimos suavizar e hidratar tu melena para que luzca como siempre has soñado. ¡No te lo pienses más y disfruta de un pelo liso!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Déjate asesorar por nuestros estilistas y elige el corte que mejor encaje con tu estilo. El servicio incluye el lavado y el corte de pelo que más te apetezca lucir. ¡No lo dudes más y reserva en nuestro centro!"
+        }
+    ]
+}

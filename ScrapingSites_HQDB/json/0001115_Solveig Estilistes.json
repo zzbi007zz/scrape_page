@@ -1,0 +1,212 @@
+{
+    "adid": null, 
+    "name": "Solveig Estilistes", 
+    "name_of_contact": "Solveig Estilistes", 
+    "scrape_page": "https://www.bucmi.com/solveigestilistes", 
+    "business_website": "https://www.bucmi.com/solveigestilistes", 
+    "areas_covered": null, 
+    "description": "Nuestra prioridad es respetar la belleza natural del cabello,realizando trabajos adaptados los cortes y colores,para personalizar la imagen y embellecerla. Ponte en manos de nuestros mejores estilistas y resalta la belleza de tu cabello.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635814603646092049.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635814603667810786.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635814603684216616.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635814603701248092.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635887348895259394.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Espronceda, 72", 
+    "city": "Barcelona", 
+    "zipcode": "08005", 
+    "formatted_address": "C/ Espronceda, 72, Barcelona, 08005", 
+    "country": "es", 
+    "office_number": "933002626", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4044052000", 
+    "longitude": "2.2060361000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635965940743992766.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color O Baño De Color Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "39,5 € ", 
+            "description": "Ponte en manos de nuestros mejores estilistas y sácale el máximo partido a tu melena. Déjate asesorar y consigue un brillo y un color radiante para tu cabello. El servicio incluye color o baño de color, champú específico para cada tipo de cabello, protector térmico y peinado asesorado. Precio para cabello corto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Hidratante Wash Cortex, Brillo Y Peinado", 
+            "duration": 3600, 
+            "price": "38,5 € ", 
+            "description": "En Solveig Estilistes ponemos a tu disposición el tratamiento más revolucionario del mercado. Es un tratamiento de aceitoterapia, nutrición y reconstrucción capilar compuesto por aceites esenciales, oliva, jojoba, pepitas de uva etc. 100% natural. Reconstruye tu melena desde la raíz. Pruébalo y no te arrepentirás."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar, Cortar Y Peinado Cabello Corto", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "¿ Cansada de llevar siempre el mismo peinado? Consigue el look que más vaya con tu estilo . El servicio incluye lavado con champú específico, protector térmico, corte 100% asesorado por nuestros expertos, y peinado. Precio para cabellos cortos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavado Y Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "16,5 € ", 
+            "description": "Sácale el máximo partido a tu melena. El servicio incluye lavado con champú específico para cada tipo de cabello, protector térmico y peinado 100% asesorado por nuestros estilistas. Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color O Baño De Color Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "39,5 € ", 
+            "description": "¿ Te atreves con los colores de esta temporarada para tu cabello? Ponte en m,anos de nuestros mejores estilistas y sácale el máximo partido a tu melena. El servicio incluye color o baño de color, champú específico para cada tipo de cabello, protector térmico y peinado asesorado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color O Baño De Color Y Peinado Melena Larga", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "Disfruta de un color espectacular para tu cabello. Ven a Solveig Estilistes y déjate asesorar por nuestros especialistas en color y consigue un brillo y un color radiante. El servicio incluye color o baño de color, champú específico para cada tipo de cabello, protector térmico y peinado asesorado. Precio para melenas largas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color O Baño De Color Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "39,5 € ", 
+            "description": "Ponte en manos de nuestros mejores estilistas y sácale el máximo partido a tu melena. Déjate asesorar y consigue un brillo y un color radiante para tu cabello. El servicio incluye color o baño de color, champú específico para cada tipo de cabello, protector térmico y peinado asesorado. Precio para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Hidratante Wash Cortex, Brillo Y Peinado", 
+            "duration": 3600, 
+            "price": "38,5 € ", 
+            "description": "En Solveig Estilistes ponemos a tu disposición el tratamiento más revolucionario del mercado. Es un tratamiento de aceitoterapia, nutrición y reconstrucción capilar compuesto por aceites esenciales, oliva, jojoba, pepitas de uva etc. 100% natural. Reconstruye tu melena desde la raíz. Pruébalo y no te arrepentirás."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color O Baño De Color, Corte Y Peinado Corto", 
+            "duration": 5400, 
+            "price": "53,5 € ", 
+            "description": "¿ Cansada de llevar siempre el mismo look? Ven a Solveig Estilistes y ponte en manos de nuestros expertos profesionales y consigue un color radiante y un corte 100% asesorado. El servicio incluye color o baño de color, corte asesorado, champú específico, protector térmico y peinado. Precio para pelos cortos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color O Baño De Color, Corte Y Peinado Largo", 
+            "duration": 7200, 
+            "price": "58,5 € ", 
+            "description": "Si necesitas un cambio de look éste es tu tratamiento. Ponte en manos de nuestros expertos profesionales y consigue un color radiante y un corte 100% asesorado. El servicio incluye color o baño de color, corte asesorado, champú específico, protector térmico y peinado. Precio para melenas largas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color O Baño De Color, Corte Y Peinado Medio", 
+            "duration": 5400, 
+            "price": "53,5 € ", 
+            "description": "En Solveig Estilistes ponemos a tu disposición nuestros mejores expertos que te asesorarán para conseguir el cambio de look que necesitas.Consigue un color radiante y un corte 100% asesorado. El servicio incluye color o baño de color, corte asesorado, champú específico, protector térmico y peinado. Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Y Peinado Cabello Corto", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Ven a Solveig estilistes y ponte guapa con nuestro servicio de lavado y brushing completo. El servicio incluye lavado con champú específico para cada tipo de cabello, protector térmico y peinado 100% asesorado por nuestros estilistas. Precio para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Y Peinado Melena Larga", 
+            "duration": 2700, 
+            "price": "18,5 € ", 
+            "description": "¿Necesitas ponerte guapa para cualquier ocasión? Ponte en manos de nuestros profesionales y sácale el máximo partido a tu melena. El servicio incluye lavado con champú específico para cada tipo de cabello, protector térmico y peinado 100% asesorado por nuestros estilistas. Precio para melena larga."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar , Cortar Y Peinar Melena Larga", 
+            "duration": 3600, 
+            "price": "32,5 € ", 
+            "description": "¿ Necesitas un cambio de look? Consigue el look que vas se adecue a tu personalidad y estilo y disfruta de una melena perfecta. El servicio incluye lavado con champú específico, protector térmico, corte 100% asesorado por nuestros expertos, y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar, Cortar Y Peinado Cabello Corto", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "¿ Cansada de llevar siempre el mismo peinado? Consigue el look que más vaya con tu estilo . El servicio incluye lavado con champú específico, protector térmico, corte 100% asesorado por nuestros expertos, y peinado. Precio para cabellos cortos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar, Cortar Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿ Quieres un look que vaya con tu estilo? Ven a Solveig Estilistes y déjate asesorar por nuestros expertos. El servicio incluye lavado con champú específico, protector térmico, corte 100% asesorado por nuestros expertos, y peinado. Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Completas", 
+            "duration": 9000, 
+            "price": "37 € ", 
+            "description": "¿ Te atreves con unos reflejos 100% naturales para tu melena? Ponte en nuestras manos y consigue sacar el máximo partido a tu cabello con estas mechas completas. El servicio no incluye peinado. Consulta con tu profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Localizadas", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "¿ Quieres darle un poco de brillo y reflejos a tu pelo? Ven a Solveig Estilistes y consigue sacar el máximo partido a tu cabello con estas mechas localizadas que aportarán brillo y luminosidad a tu melena. El servicio no incluye peinado. Consulta con tu profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Cabeza", 
+            "duration": 7200, 
+            "price": "28 € ", 
+            "description": "¿ Te atreves con unos reflejos naturales para tu melena? Ponte en nuestras manos y consigue sacar el máximo partido a tu cabello con estas mechas a media cabeza. El servicio no incluye peinado. Consulta con tu profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Brillo Y Peinado", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "¿ Tu pelo está seco y apagado? Prueba nuestro tratamiento capilar de Brillo para aportar luminosidad, suavidad y brillo a tu melena. El servicio incluye lavado con champú específico, tratamiento capilar de brillo y peinado. Pruébalo y comprueba los resultados por ti misma."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto.Hidratante Capilar Wash Cortex Y Peinado Largo", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "Es un tratamiento de aceitoterapia, nutrición y reconstrucción capilar compuesto por aceites esenciales, oliva, jojoba, pepitas de uva etc. 100% natural. Reconstruye tu melena desde la raíz. Saca el máximo partido a tu melena y obtendrás un brillo y una suavidad espectacular. Precio para melenas largas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto.Hidratante Capilar Wash Cortex Y Peinado Medio", 
+            "duration": 3600, 
+            "price": "28,5 € ", 
+            "description": "Es un tratamiento de aceitoterapia, nutrición y reconstrucción capilar compuesto por aceites esenciales, oliva, jojoba, pepitas de uva etc. 100% natural. Reconstruye tu melena desde la raíz. Saca el máximo partido a tu melena y obtendrás un brillo y una suavidad espectacular. Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Y Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "16,5 € ", 
+            "description": "Sácale el máximo partido a tu melena. El servicio incluye lavado con champú específico para cada tipo de cabello, protector térmico y peinado 100% asesorado por nuestros estilistas. Precio para media melena."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color O Baño De Color Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "39,5 € ", 
+            "description": "¿ Te atreves con los colores de esta temporarada para tu cabello? Ponte en m,anos de nuestros mejores estilistas y sácale el máximo partido a tu melena. El servicio incluye color o baño de color, champú específico para cada tipo de cabello, protector térmico y peinado asesorado."
+        }
+    ]
+}

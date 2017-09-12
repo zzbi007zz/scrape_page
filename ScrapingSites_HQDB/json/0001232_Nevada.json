@@ -1,0 +1,127 @@
+{
+    "adid": null, 
+    "name": "Nevada", 
+    "name_of_contact": "Nevada", 
+    "scrape_page": "https://www.bucmi.com/nevada", 
+    "business_website": "https://www.bucmi.com/nevada", 
+    "areas_covered": null, 
+    "description": "Una peluquería en Barcelona, dónde se une el bienestar con el buen hacer. Nuestros profesionales te asesoran para que los resultados sean los esperados. Nuestros servicios van desde manicuras, mechas o tratamientos capilares. Ven a visitarnos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636051480378315549.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636051480377690222.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636051480380818437.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636051480381443491.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pallars, 375", 
+    "city": "Barcelona", 
+    "zipcode": "08037", 
+    "formatted_address": "C/ Pallars, 375, Barcelona, 08037", 
+    "country": "es", 
+    "office_number": "932726027", 
+    "office_number2": null, 
+    "mobile_number": "684330474", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3968535000", 
+    "longitude": "2.1637690000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636051480949928871.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Ácido Hialurónico", 
+            "duration": 14400, 
+            "price": "120 € ", 
+            "description": "Presume de un cabello liso y brillante, lo conseguirás con este nuevo alisado. Se trata de un cosmetico basado en colageno hidrolizado de origen vegetal que se trabaja sin plancha.Desencrespa tu cabello al tiempo que le da brillo y lo regenera.Su duración es progresiva y aunque la primera vez es inferior si lo repites cada vez irá aumentando."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Sabemos que te encanta lucir un look perfecto y estar siempre a la última, es por esto que tenemos este servicio específico para vosotros. Un corte de caballero estupendo para que renueves tu aspecto y causes tendencia. No esperes más y reserva online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar De Colágeno", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "También conocido como botox capilar, se trata de un tratamiento que se lleva a cabo en el lavabo y que aportará a tu cabello un aspecto rejuvenecido y brillante reparando los daños que pueda tener al tiempo que da brillo y aumenta su volumen. Incluye secado. ¿A qué esperas para probarlo?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color y Peinar", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Si tu cabello te esta pidiendo ya una renovación de color puedes hacerlo en Nevada, somos expertos coloristas, tanto si quieres mantener tu color de siempre como si prefieres lanzarte a algo nuevo, contarás con el asesoramiento de nuestro equipo para elegir el color que más te favorezca."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si quieres lucir una melena a la moda, no lo dudes por que lo que más se lleva son las mechas californianas y en Nevada lo sabemos. Del color que más te guste y que más favorecedor y que mejor se ajuste a tu cabello y facciones. El servicio no incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Ácido Hialurónico", 
+            "duration": 14400, 
+            "price": "120 € ", 
+            "description": "Presume de un cabello liso y brillante, lo conseguirás con este nuevo alisado. Se trata de un cosmetico basado en colageno hidrolizado de origen vegetal que se trabaja sin plancha.Desencrespa tu cabello al tiempo que le da brillo y lo regenera.Su duración es progresiva y aunque la primera vez es inferior si lo repites cada vez irá aumentando."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Sabemos que te encanta lucir un look perfecto y estar siempre a la última, es por esto que tenemos este servicio específico para vosotros. Un corte de caballero estupendo para que renueves tu aspecto y causes tendencia. No esperes más y reserva online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Marcar", 
+            "duration": 3600, 
+            "price": "21 € ", 
+            "description": "Este servicio de lavado y marcado, es perfecto para conseguir que tu pelo luzca bonito sin tener que recurrir a peinados o recogidos. Un servicio para el día a día, con el que te verás estupenda. Además incluimos todos los productos de tratamiento del cabello que tu pelo requiera, como champús específicos, mascarillas, sérum etc... Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado", 
+            "duration": 5400, 
+            "price": "61 € ", 
+            "description": "En Nevada tenemos lo que necesitas si buscas darle un toque de luz a tu melena. Somos conocedores de todas las técnicas para que elijas la que mejor se adapte a tus gustos y tu estilo. Nuestro equipo te asesorará para que puedas escoger el color y el acabado. Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Colágeno", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "También conocido como botox capilar, se trata de un tratamiento que se lleva a cabo en el lavabo y que aportará a tu cabello un aspecto rejuvenecido y brillante reparando los daños que pueda tener al tiempo que da brillo y aumenta su volumen. Incluye secado. ¿A qué esperas para probarlo?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color y Peinar", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Si tu cabello te esta pidiendo ya una renovación de color puedes hacerlo en Nevada, somos expertos coloristas, tanto si quieres mantener tu color de siempre como si prefieres lanzarte a algo nuevo, contarás con el asesoramiento de nuestro equipo para elegir el color que más te favorezca."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color y Peinar", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Si tu cabello te esta pidiendo ya una renovación de color puedes hacerlo en Nevada, somos expertos coloristas, tanto si quieres mantener tu color de siempre como si prefieres lanzarte a algo nuevo, contarás con el asesoramiento de nuestro equipo para elegir el color que más te favorezca."
+        }
+    ]
+}

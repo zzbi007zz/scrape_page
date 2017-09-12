@@ -1,0 +1,119 @@
+{
+    "adid": null, 
+    "name": "Belleza y Bienestar", 
+    "name_of_contact": "Belleza y Bienestar", 
+    "scrape_page": "https://www.bucmi.com/bybienestar", 
+    "business_website": "https://www.bucmi.com/bybienestar", 
+    "areas_covered": null, 
+    "description": "Belleza y bienestar es un centro integral de estética, salud y bienestar ubicado en el centro de Zaragoza. Sus profesionales ofrecen gran diversidad de servicios y tratamientos estéticos que favorecerán las necesidades de todos los clientes.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635932096965950977.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635932096985651948.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635932097026277953.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "50005", 
+    "formatted_address": "Zaragoza, 50004, Zaragoza, 50005", 
+    "country": "es", 
+    "office_number": "976159382", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6439891000", 
+    "longitude": "-0.8930461999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635932127227908715.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser Piernas Enteras", 
+            "duration": 1800, 
+            "price": "70 € ", 
+            "description": "Si escuchaste de hablar del sistema definitivo de depilación, en nuestro centro lo ponemos a tu alcance. Ven a visitarnos y elimina el vello en la zona de piernas enteras. Lista para lucir piernas en cualquier ocasión. Incluye un a sesión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Tratamiento reductor realizado con aparatología que combina la mesoterapia con la presoterapia. Incluye 5 sesiones de mesoterapia y 5 sesiones de presoterpia, para que notes los resultados, además te realizamos dieta y control de peso. Mejora tu figura y consigue estar mejor y verte mejor en nuestro centro de Belleza."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje A Elegir", 
+            "duration": 3600, 
+            "price": "32,5 € ", 
+            "description": "Elije entre un masaje descontracturante ,relajante, deportivo, drenante de una hora de duración. Realizado por nuestros profesionales. Dinos tus necesidades y nosotros te ayudamos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Tratamiento reductor realizado con aparatología que combina la mesoterapia con la presoterapia. Incluye 5 sesiones de mesoterapia y 5 sesiones de presoterpia, para que notes los resultados, además te realizamos dieta y control de peso. Mejora tu figura y consigue estar mejor y verte mejor en nuestro centro de Belleza."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Tratamiento reductor realizado con aparatología que combina la mesoterapia con la presoterapia. Incluye 5 sesiones de mesoterapia y 5 sesiones de presoterpia, para que notes los resultados, además te realizamos dieta y control de peso. Mejora tu figura y consigue estar mejor y verte mejor en nuestro centro de Belleza."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Tratamiento reductor realizado con aparatología que combina la mesoterapia con la presoterapia. Incluye 5 sesiones de mesoterapia y 5 sesiones de presoterpia, para que notes los resultados, además te realizamos dieta y control de peso. Mejora tu figura y consigue estar mejor y verte mejor en nuestro centro de Belleza."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje A Elegir", 
+            "duration": 3600, 
+            "price": "32,5 € ", 
+            "description": "Elije entre un masaje descontracturante ,relajante, deportivo, drenante de una hora de duración. Realizado por nuestros profesionales. Dinos tus necesidades y nosotros te ayudamos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación láser espalda", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Servicio de depilación con láser pensado para ellos. Con este tratamiento podrás eliminar el vello de la espalda y zona lumbar, estarás relajado y despreocupado por esos pelitos... No lo dudes y ponte en nuestras manos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación láser medias piernas", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Elimina el vello en zona de medias piernas en nuestro centro. Sistema definitivo. Reserva tu cita y ven a vernos y te realizamos una prueba de forma gratuita. Olvídate de la depilación, gracias a las nuevas tecnologías."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación láser piernas hombre", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "Tal vez porque practiques deporte, por comodidad, por higiene... Pero eres de los que se depila las piernas. Si no quieres estar con la cuchilla u otras técnicas, que haacen que tengas que estar depilandote una y otra vez, este servicio esta indicado para ti."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación láser zona pequeña", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "Esta sesión de depilación láser va indicada para una zona pequeña, entran las zonas de: ingles, axilas, labio superior. Consultar en el centro otras posibles zonas pequeñas. Ven a vernos y olvida el vello para siempre."
+        }
+    ]
+}

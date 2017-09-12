@@ -1,0 +1,515 @@
+{
+    "adid": null, 
+    "name": "Estética Carmín", 
+    "name_of_contact": "Estética Carmín", 
+    "scrape_page": "https://www.bucmi.com/esteticacarmin", 
+    "business_website": "https://www.bucmi.com/esteticacarmin", 
+    "areas_covered": null, 
+    "description": "Centro de Éstética Carmín situado en el barrio de Tetuán, una zona más al norte de Madrid. En nuestro centro encontrarás un lugar en donde podrás relajarte y disfrutar de una gran variedad de servicios y tratamientos personalizados a gusto del cliente.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635999415837675344.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635999415836737843.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635999415838769091.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635999415837987826.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635999415838456575.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635999415840644085.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635999415839237822.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "9,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28020", 
+    "formatted_address": "Madrid, 28038, Madrid, 28015, Madrid, 28020", 
+    "country": "es", 
+    "office_number": "915716623", 
+    "office_number2": null, 
+    "mobile_number": "691344533", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4590948000", 
+    "longitude": "-3.6997034999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635999416831978847.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Efecto De Luxe 3D", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Extensiones De Pestañas Efecto de luxe 3D. Conseguirás una mirada profunda y super natural pero marcada.. Notarás los resultados favorables que resaltará tu mirada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Micropigmentación Cejas", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "Ten unas cejas espectaculares. 20 años de experiencia. El servicio de micropigmentación consiste de un tatuaje semipermanente para dar forma a tus cejas y que queden maquilladas y perfectas sin necesidad de usar maquillaje a diario. En este servicio no entra la prueba de alergia ni el repaso del mes que sólo se hace si fuera necesario."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Íntima Pubis Mujer", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "El servicio de depilación íntima es sólo un servicio especializado en mujer. Incluye la depilación completa del vello púbico. ¡Reserva online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Masculina Completa", 
+            "duration": 9000, 
+            "price": "96 € ", 
+            "description": "No depilamos a caballero ni pubis ni zona perianal. Si incluye depilación de piernas enteras, ingles, abdomen, pecho, espalda, hombros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Masculina Espalda Completa", 
+            "duration": 1800, 
+            "price": "26 € ", 
+            "description": "El servicio incluye una sesión de depilación en la espalda completa para hombre. En el precio no está incluido los hombros ni los brazos. ¡Ahora podrás ahorrar tiempo y reservar tu cita online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Y Diseño De Cejas", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "El servicio incluye el diseño de cejas adaptadas a tu facción y a la arqueada natural de tu ceja y por consiguiente la depilación para que queden perfectas. ¡Ahora puedes reservar online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Esmaltado Permanente Francesa", 
+            "duration": 1800, 
+            "price": "23 € ", 
+            "description": "El servicio incluye solo el maquillado de la uña en manicura francesa a escoger entre transparente o tonos más rosados. Para nuestras clientes más elegantes y con la agenda apretada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Nuestra limpieza de cutis consta d eun desmaquillado con exfoliación inicial para preparar la piel. Continuamos extrayendo las impurezas de forma manual y terminamos aplicando tónico y crema refrescante para evitar las rojeces. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Axilas Mujer", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "Disfruta de nuestro efectivo servicio de depilación con cera tibia o caliente según tus preferencias y consigue una piel suave y sedosa que te hará sentir cómoda en todo momento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Ingles Brasileñas", 
+            "duration": 900, 
+            "price": "11 € ", 
+            "description": "Disfruta de nuestro efectivo servicio de depilación con cera tibia o caliente según tus preferencias y consigue una piel suave y sedosa que te hará sentir cómoda en todo momento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Piernas Enteras", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "El servicio incluye la depilación completa de las piernas enteras con cera caliente o tibia, a elegir. Ven a nuestro centro de estética, ahora podrás ahorrar tiempo reservando tu cita online"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones Pestañas Efecto Mariposa", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "El servicio incluye la puesta de las extensiones de tu pestañas efecto mariposa para conseguir un efecto de agrandamiento del ojo. Te sentirás divina cada día sin necesidad de maquillaje."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis Con Hidratación Y Revitalización", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Nuestra limpieza estrella. Es una higiene facial con una exfoliación superior , limpieza de poros, tratamiento de rehidratación y revitalizante. Ideal para pieles muy estropeadas. Te sorprenderás el cambio en tu piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Exprés Con Esmaltado Permanente Color", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "El servicio incluye una manicura exprés con arreglo de uñas y esmaltado permanente en el color que prefieras elegido entre la gama de colores de los que disponemos en el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante Espalda + Reiki", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La mejor terápia para el extres, depresión, ansiedad. Siempre cargamos todos nuestros problemas en la espalda. Si ademas de relajar la espalda relajamos nuestra mente todo cambiara en nuestra actitud diaria."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Efecto De Luxe 3D", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Extensiones De Pestañas Efecto de luxe 3D. Conseguirás una mirada profunda y super natural pero marcada.. Notarás los resultados favorables que resaltará tu mirada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Cejas", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "Ten unas cejas espectaculares. 20 años de experiencia. El servicio de micropigmentación consiste de un tatuaje semipermanente para dar forma a tus cejas y que queden maquilladas y perfectas sin necesidad de usar maquillaje a diario. En este servicio no entra la prueba de alergia ni el repaso del mes que sólo se hace si fuera necesario."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación De Perfil De Labio", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "El servicio de micropigmentación consiste en un tatuaje semipermanente en este caso, en el perfil del labio. También se podrá hacer relleno de color a parte. Consulta a nuestros profesionales en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Eye Liner", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "El servicio de micropigmentación incluye una sesión en el que se realizará un tatuaje semipermanente en la línea del ojo. Se realizará en nuestro centro de estética Carmín."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Efecto Glamour 3D", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Este servicio proporciona unas pestañas totalmente naturales con efecto en 3D que realzará tu mirada y te facilitará el maquillado a diario de tus pestañas ya que no lo necesitarás."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Efecto Natural", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "El servicio incluye la puesta de extensiones de pestañas con un efecto totalmente natural, sin necesidad de tener que maquillarlas a diario. ¡Deslumbra de una manera sin igual con tu mirada!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Nuestra limpieza de cutis consta d eun desmaquillado con exfoliación inicial para preparar la piel. Continuamos extrayendo las impurezas de forma manual y terminamos aplicando tónico y crema refrescante para evitar las rojeces. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Con Hidratación", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio consta de una limpieza completa facial que incluye la exfoliación de tu piel eliminando así los puntos negros y por último un tratamiento para rehidratar la piel y que la sientas maravillosa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Luce unas pestañas en negro azabache gracias a este servicio de tinte en pestañas para resaltarlas y que te ahorres el tiempo diario a maquillarlas. ¡No lo dudes y pruébalo en nuestro centro!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal Con Hidratación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "El servicio consiste en la eliminación de la piel muerta en todo el cuerpo para así lograr una mejora de la dermis y de esta manera ayudará a que sea más fácil la hidratación corporal posterior."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones Pestañas Efecto Mariposa", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "El servicio incluye la puesta de las extensiones de tu pestañas efecto mariposa para conseguir un efecto de agrandamiento del ojo. Te sentirás divina cada día sin necesidad de maquillaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Con Hidratación Y Revitalización", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Nuestra limpieza estrella. Es una higiene facial con una exfoliación superior , limpieza de poros, tratamiento de rehidratación y revitalizante. Ideal para pieles muy estropeadas. Te sorprenderás el cambio en tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación De Areola Mamaria", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "Cubrimiento de cicatriz posoperatoria de pecho alrededor de la areola . También se realiza reconstrucción completa de la areola. Preguntar en el centro"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación De Vitiligo", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en una sesión para tapar la zona en las que hay presencia de vitíligo. Sólo es válido para pequeño vitíligo de 5 x 5 cm. En caso de zonas grandes pedir presupuesto e información"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Lunar", 
+            "duration": 900, 
+            "price": "60 € ", 
+            "description": "Resalta tus rasgos gracias a este servicio de micropigmentación. Incluye el tatuado de labio, cejas, eyerliner, alopecias, areola mamaria, cicatrices, vitiligo y tatuajes. Reserva tu cita online"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pedicura Podológica", 
+            "duration": 2700, 
+            "price": "32 € ", 
+            "description": "El servicio de podología incluye la eliminación de durezas, las callosidades de las que se dispongan, tratamiento de uñas encarnadas, estética en uñas y por último un masaje podal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tatuaje Semipermanente, Depende Del Tamaño", 
+            "duration": 5400, 
+            "price": "350 € ", 
+            "description": "El servicio incluye una sesión para la realización de un tatuaje con una dimensión de 5x5cm. Para otras dimensiones es necesario pedir presupuesto en nuestro centro de estética Carmín."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Efecto De Luxe 3D", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Extensiones De Pestañas Efecto de luxe 3D. Conseguirás una mirada profunda y super natural pero marcada.. Notarás los resultados favorables que resaltará tu mirada."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Micropigmentación Cejas", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "Ten unas cejas espectaculares. 20 años de experiencia. El servicio de micropigmentación consiste de un tatuaje semipermanente para dar forma a tus cejas y que queden maquilladas y perfectas sin necesidad de usar maquillaje a diario. En este servicio no entra la prueba de alergia ni el repaso del mes que sólo se hace si fuera necesario."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Micropigmentación De Perfil De Labio", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "El servicio de micropigmentación consiste en un tatuaje semipermanente en este caso, en el perfil del labio. También se podrá hacer relleno de color a parte. Consulta a nuestros profesionales en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Micropigmentación Eye Liner", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "El servicio de micropigmentación incluye una sesión en el que se realizará un tatuaje semipermanente en la línea del ojo. Se realizará en nuestro centro de estética Carmín."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Efecto Glamour 3D", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Este servicio proporciona unas pestañas totalmente naturales con efecto en 3D que realzará tu mirada y te facilitará el maquillado a diario de tus pestañas ya que no lo necesitarás."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Efecto Natural", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "El servicio incluye la puesta de extensiones de pestañas con un efecto totalmente natural, sin necesidad de tener que maquillarlas a diario. ¡Deslumbra de una manera sin igual con tu mirada!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Nuestra limpieza de cutis consta d eun desmaquillado con exfoliación inicial para preparar la piel. Continuamos extrayendo las impurezas de forma manual y terminamos aplicando tónico y crema refrescante para evitar las rojeces. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Con Hidratación", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio consta de una limpieza completa facial que incluye la exfoliación de tu piel eliminando así los puntos negros y por último un tratamiento para rehidratar la piel y que la sientas maravillosa."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte De Pestañas", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Luce unas pestañas en negro azabache gracias a este servicio de tinte en pestañas para resaltarlas y que te ahorres el tiempo diario a maquillarlas. ¡No lo dudes y pruébalo en nuestro centro!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Corporal Con Hidratación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "El servicio consiste en la eliminación de la piel muerta en todo el cuerpo para así lograr una mejora de la dermis y de esta manera ayudará a que sea más fácil la hidratación corporal posterior."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones Pestañas Efecto Mariposa", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "El servicio incluye la puesta de las extensiones de tu pestañas efecto mariposa para conseguir un efecto de agrandamiento del ojo. Te sentirás divina cada día sin necesidad de maquillaje."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Con Hidratación Y Revitalización", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Nuestra limpieza estrella. Es una higiene facial con una exfoliación superior , limpieza de poros, tratamiento de rehidratación y revitalizante. Ideal para pieles muy estropeadas. Te sorprenderás el cambio en tu piel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas Efecto De Luxe 3D", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Extensiones De Pestañas Efecto de luxe 3D. Conseguirás una mirada profunda y super natural pero marcada.. Notarás los resultados favorables que resaltará tu mirada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación Cejas", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "Ten unas cejas espectaculares. 20 años de experiencia. El servicio de micropigmentación consiste de un tatuaje semipermanente para dar forma a tus cejas y que queden maquilladas y perfectas sin necesidad de usar maquillaje a diario. En este servicio no entra la prueba de alergia ni el repaso del mes que sólo se hace si fuera necesario."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación De Perfil De Labio", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "El servicio de micropigmentación consiste en un tatuaje semipermanente en este caso, en el perfil del labio. También se podrá hacer relleno de color a parte. Consulta a nuestros profesionales en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación Eye Liner", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "El servicio de micropigmentación incluye una sesión en el que se realizará un tatuaje semipermanente en la línea del ojo. Se realizará en nuestro centro de estética Carmín."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas Efecto Glamour 3D", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Este servicio proporciona unas pestañas totalmente naturales con efecto en 3D que realzará tu mirada y te facilitará el maquillado a diario de tus pestañas ya que no lo necesitarás."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas Efecto Natural", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "El servicio incluye la puesta de extensiones de pestañas con un efecto totalmente natural, sin necesidad de tener que maquillarlas a diario. ¡Deslumbra de una manera sin igual con tu mirada!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Nuestra limpieza de cutis consta d eun desmaquillado con exfoliación inicial para preparar la piel. Continuamos extrayendo las impurezas de forma manual y terminamos aplicando tónico y crema refrescante para evitar las rojeces. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis Con Hidratación", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio consta de una limpieza completa facial que incluye la exfoliación de tu piel eliminando así los puntos negros y por último un tratamiento para rehidratar la piel y que la sientas maravillosa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Luce unas pestañas en negro azabache gracias a este servicio de tinte en pestañas para resaltarlas y que te ahorres el tiempo diario a maquillarlas. ¡No lo dudes y pruébalo en nuestro centro!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Corporal Con Hidratación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "El servicio consiste en la eliminación de la piel muerta en todo el cuerpo para así lograr una mejora de la dermis y de esta manera ayudará a que sea más fácil la hidratación corporal posterior."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones Pestañas Efecto Mariposa", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "El servicio incluye la puesta de las extensiones de tu pestañas efecto mariposa para conseguir un efecto de agrandamiento del ojo. Te sentirás divina cada día sin necesidad de maquillaje."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis Con Hidratación Y Revitalización", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Nuestra limpieza estrella. Es una higiene facial con una exfoliación superior , limpieza de poros, tratamiento de rehidratación y revitalizante. Ideal para pieles muy estropeadas. Te sorprenderás el cambio en tu piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación De Areola Mamaria", 
+            "duration": 7200, 
+            "price": "350 € ", 
+            "description": "Cubrimiento de cicatriz posoperatoria de pecho alrededor de la areola . También se realiza reconstrucción completa de la areola. Preguntar en el centro"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación De Vitiligo", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en una sesión para tapar la zona en las que hay presencia de vitíligo. Sólo es válido para pequeño vitíligo de 5 x 5 cm. En caso de zonas grandes pedir presupuesto e información"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Micropigmentación Alopecia Cada 10Cm2", 
+            "duration": 10800, 
+            "price": "500 € ", 
+            "description": "El servicio consiste en un tatuaje semipermanente de alopecia tamaño 5 x 5cm. También realizamos tricopigmentación rellenando toda la cabeza. Preguntar en nuestro centro."
+        }
+    ]
+}

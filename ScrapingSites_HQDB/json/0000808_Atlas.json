@@ -1,0 +1,97 @@
+{
+    "adid": null, 
+    "name": "Atlas", 
+    "name_of_contact": "Atlas", 
+    "scrape_page": "https://www.bucmi.com/atlas", 
+    "business_website": "https://www.bucmi.com/atlas", 
+    "areas_covered": null, 
+    "description": "Te proponemos que descubras con nosotros todos los beneficios y ventajas que aportan este tipo de tratamientos y terapias, y en las que estamos convencidos que encontrarás la solución a tu problema.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635531178667731702.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635531178723517447.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Guetaria, 70", 
+    "city": "Madrid", 
+    "zipcode": "28041", 
+    "formatted_address": "C/ Guetaria, 70, Madrid, 28041", 
+    "country": "es", 
+    "office_number": "917463910", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3710807000", 
+    "longitude": "-3.7157931000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635817343949766045.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Hidrolinfa", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Limpieza del sistema linfático a través del agua. Ayuda a eliminar toxinas impurezas de todo el sistema linfático."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Masaje descontracturante según tus necesidades. Consiste en un masaje de recuperación del deportista, revitalizador y energético."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Masaje relajante según tus necesidades. Nuestra intención principal es conseguir esa relajación y estado de paz que necesias. Olvídate del estrés."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Hidrolinfa", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Limpieza del sistema linfático a través del agua. Ayuda a eliminar toxinas impurezas de todo el sistema linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Hidrolinfa", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Limpieza del sistema linfático a través del agua. Ayuda a eliminar toxinas impurezas de todo el sistema linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Masajes Relajantes", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Es hora de relajarse y de evadirse de la rutina. Disfruta de este bono de 3 masajes para olvidarse del estrés acumulado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "La osteopatía es un conjunto de técnicas manuales empleadas para aliviar dolencias que busca la recuperación del equilibrio orgánico."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Masaje descontracturante según tus necesidades. Consiste en un masaje de recuperación del deportista, revitalizador y energético."
+        }
+    ]
+}

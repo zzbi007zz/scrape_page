@@ -1,0 +1,478 @@
+{
+    "adid": null, 
+    "name": "Bigudi", 
+    "name_of_contact": "Bigudi", 
+    "scrape_page": "https://www.bucmi.com/bigudi", 
+    "business_website": "https://www.bucmi.com/bigudi", 
+    "areas_covered": null, 
+    "description": "Ofrecemos en cualquier ocasión un amplio y renovado abanico de posibilidades. Si tienes cualquier consulta relacionada con la estética, peluquería y el maquillaje profesional entra en contacto con nosotros.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635926953416731672.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635974437368594901.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635974438588972979.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635974439719154071.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635974439762542415.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "17", 
+    "hqdb_review_score": "8,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Casanova, 236", 
+    "city": "Barcelona", 
+    "zipcode": "08036", 
+    "formatted_address": "C/ Casanova, 236, Barcelona, 08036", 
+    "country": "es", 
+    "office_number": "933211666", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3929144000", 
+    "longitude": "2.1490135000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635974441153024534.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Hombre", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "A ti también te gusta cuidar tus manos, y es por ello que te traemos este servicio de manicura pensado especialmente para ti. El resultado es muy natural y permitirá que luzcas unas manos cuidadas e impecables. El servicio incluye limado y pulido de uñas, así como nutrición."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "16,5 € ", 
+            "description": "¡Manos a todo color! Con este servicio no podrás dejar de mirar tus uñas: limamos, tratamos las cutículas y esmaltamos con laca de uñas normal. Te va a encantar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado Cabello Medio", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para media melena."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "No lo dudes más y ponte en nuestras manos: tu imagen es importante para ti y sabes que un buen corte marca la diferencia. ¿A qué esperas? El servicio incluye lavado y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Hombre", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "¿Quién dice que vosotros no podéis disfrutar de nuestro completo servicio de color? Déjate asesorar por nuestro equipo profesional: tanto si estás buscando dar color a tu cabello como si quieres cambiar el tono, encontrarán el color exacto para ti. D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 1800, 
+            "price": "52 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para cabello largo. Consulta suplemento a aplicar en caso de cabello extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "¿Perfecta para cualquier ocasión? Ya sea porque tengas una cita especial, un evento, ¡o porque te mereces estar guapa! Con este servicio lavamos tu cabello y te peinamos, adaptando el look a tu estilo y necesidades. Es un servicio para cabello largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Cabello Corto", 
+            "duration": 1800, 
+            "price": "18,5 € ", 
+            "description": "¿Perfecta para cualquier ocasión? Ya sea porque tengas una cita especial, un evento, ¡o porque te mereces estar guapa! Con este servicio lavamos tu cabello y te peinamos, adaptando el look a tu estilo y necesidades. Es un servicio para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Cabello Medio", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "¿Perfecta para cualquier ocasión? Ya sea porque tengas una cita especial, un evento, ¡o porque te mereces estar guapa! Con este servicio lavamos tu cabello y te peinamos, adaptando el look a tu estilo y necesidades. Es un servicio para media melena. D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Medio", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "No lo dudes más y ponte en nuestras manos: tu imagen es importante para ti y sabes que un buen corte marca la diferencia. ¿A qué esperas? El servicio incluye lavado y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Queratina", 
+            "duration": 9000, 
+            "price": "180 € ", 
+            "description": "¿Buscas un pelo sin encrespamiento? ¿Quieres lograr ese cabello liso que siempre quisiste tener? Estás de enhorabuena, porque en Bigudí te traemos este completo Tratamiento de Queratina, que te permitirá disfrutar de un pelo lacio sin perder su hidratación. ¿A qué esperas para dar el paso?D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo Barba Hombre", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "Si eres un hombre con estilo propio y te gusta cuidar tu barba, ¡este servicio es para ti! Ponte en manos de nuestros profesionales: definirán tu barba con mucho estilo y conseguirás el mejor look. D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "48,5 € ", 
+            "description": "Con este servicio podrás disfrutar de una melena llena de luz y brillo gracias a nuestro servicio de baño de color, que dará un nuevo tono a tu cabello. Además, con el servicio se incluye lavado, secado y peinado. Es para cabello corto. ¿Te apuntas?D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Con este servicio podrás disfrutar de una melena llena de luz y brillo gracias a nuestro servicio de baño de color, que dará un nuevo tono a tu cabello. Además, con el servicio se incluye lavado, secado y peinado. Es para cabello largo. ¿Te apuntas? Para cabellos extra largo consulta con tu profesional suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Con este servicio podrás disfrutar de una melena llena de luz y brillo gracias a nuestro servicio de baño de color, que dará un nuevo tono a tu cabello. Además, con el servicio se incluye lavado, secado y peinado. Es para media melena. ¿Te apuntas?D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bicolor Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Si eres atrevida y apuestas por las nuevas tendencias, te traemos un servicio que sin duda cumplirá con tus expectativas. Da un nuevo aspecto y cambia el color de tu cabello corto eligiendo hasta dos tonos diferentes. Consulta a tu profesional. Incluye lavado, secado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bicolor Y Peinado Cabello Largo", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Si eres atrevida y apuestas por las nuevas tendencias, te traemos un servicio que sin duda cumplirá con tus expectativas. Da un nuevo aspecto y cambia el color de tu cabello largo eligiendo hasta dos tonos diferentes. Consulta a tu profesional. Incluye lavado, secado y peinado. Consulta con tu profesional los suplementos para cabello extra largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bicolor Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Si eres atrevida y apuestas por las nuevas tendencias, te traemos un servicio que sin duda cumplirá con tus expectativas. Da un nuevo aspecto y cambia el color de tu media melena, eligiendo hasta dos tonos diferentes. Consulta a tu profesional. Incluye lavado, secado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color De Base Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "¿No crees que es hora de un cambio de look? En Bigudí te lo ponemos fácil: con nuestro servicio podrás cambiar el color de tu cabello con nuestra gama de tonos, déjate asesorar por tu profesional para elegir el que más va contigo. Incluye lavar, color, secar y peinar para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color De Base Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "68 € ", 
+            "description": "¿No crees que es hora de un cambio de look? En Bigudí te lo ponemos fácil: con nuestro servicio podrás cambiar el color de tu cabello con nuestra gama de tonos, déjate asesorar por tu profesional para elegir el que más va contigo. Incluye lavar, color, secar y peinar para cabello largo. Consulta con tu profesional suplementos para cabello extra largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color De Base Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¿No crees que es hora de un cambio de look? En Bigudí te lo ponemos fácil: con nuestro servicio podrás cambiar el color de tu cabello con nuestra gama de tonos, déjate asesorar por tu profesional para elegir el que más va contigo. Incluye lavar, color, secar y peinar para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Con Henna Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Si buscas una coloración natural para tu cabello, nuestro tinte de Henna te permitirá conseguir un brillo único, respetando tu cuero cabelludo. El servicio, para cabello corto, incluye secado, lavado y peinado. D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Con Henna Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Si buscas una coloración natural para tu cabello, nuestro tinte de Henna te permitirá conseguir un brillo único, respetando tu cuero cabelludo. El servicio, para cabello largo, incluye secado, lavado y peinado. Consulta a tu profesional suplementos para cabello extra largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Con Henna Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Si buscas una coloración natural para tu cabello, nuestro tinte de Henna te permitirá conseguir un brillo único, respetando tu cuero cabelludo. El servicio, para media melena, incluye secado, lavado y peinado. D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Inoa Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Descubre la tendencia en color más marcada está temporada: apuesta por la coloración sin amoniaco Inoa, de la casa L'Óreal. Nuestros profesionales te atenderán y asesorarán para que consigas el tono que más vaya contigo. ¡Podrás elegir entre una amplia gama de colores! Incluye lavado, secado y peinado para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Inoa Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "Descubre la tendencia en color más marcada está temporada: apuesta por la coloración sin amoniaco Inoa, de la casa L'Óreal. Nuestros profesionales te atenderán y asesorarán para que consigas el tono que más vaya contigo. ¡Podrás elegir entre una amplia gama de colores! Incluye lavado, secado y peinado para cabello largo.Consulta con tu profesional suplemento a aplicar en caso de cabello extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Inoa Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Descubre la tendencia en color más marcada está temporada: apuesta por la coloración sin amoniaco Inoa, de la casa L'Óreal. Nuestros profesionales te atenderán y asesorarán para que consigas el tono que más vaya contigo. ¡Podrás elegir entre una amplia gama de colores! Incluye lavado, secado y peinado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 9000, 
+            "price": "85 € ", 
+            "description": "¡Uno de nuestros servicios más completos! Si estás pensando en un cambio de look, apuesta por nuestro color y corte. Nuestro equipo te asesorará para que disfrutes de un corte de pelo que vaya con tu nuevo tono de cabello. El servicio incluye lavar, cortar, color y peinar. Es para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Cabello Largo", 
+            "duration": 10800, 
+            "price": "110 € ", 
+            "description": "¡Uno de nuestros servicios más completos! Si estás pensando en un cambio de look, apuesta por nuestro color y corte. Nuestro equipo te asesorará para que disfrutes de un corte de pelo que vaya con tu nuevo tono de cabello. El servicio incluye lavar, cortar, color y peinar. Es para cabello largo. Consulta suplemento a aplicar con tu profesional en el caso de cabello extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Cabello Medio", 
+            "duration": 9000, 
+            "price": "95 € ", 
+            "description": "¡Uno de nuestros servicios más completos! Si estás pensando en un cambio de look, apuesta por nuestro color y corte. Nuestro equipo te asesorará para que disfrutes de un corte de pelo que vaya con tu nuevo tono de cabello. El servicio incluye lavar, cortar, color y peinar. Es para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Hombre Tratamiento Lifting Capilar - Anticaida", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Tratamiento Anticaida que fortaleze el cuero cabelludo y nutre la raiz para evitar la caida."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Peine Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "67 € ", 
+            "description": "Date un capricho y cambia de tonos tu cabello. Incluye lavado, secado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Peine Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "78 € ", 
+            "description": "Date un capricho y cambia de tonos tu cabello. Incluye lavado, secado y peinado. Consulte con su profesional suplementos extra largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Peine Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "71 € ", 
+            "description": "Date un capricho y cambia de tonos tu cabello. Incluye lavado, secado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Sunshine Y Peinado Cabello Corto", 
+            "duration": 3600, 
+            "price": "73,5 € ", 
+            "description": "Da un nuevo aire a tu cabello con tonos imitando los reflejos del sol al estilo de california. Incluye lavar, secar y peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Sunshine Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "87 € ", 
+            "description": "Da un nuevo aire a tu cabello con tonos imitando los reflejos del sol al estilo de california. Incluye lavar, secar y peinar. Consulte al profesional suplemento para extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Sunshine Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Da un nuevo aire a tu cabello con tonos imitando los reflejos del sol al estilo de california. Incluye lavar, secar y peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Cabello Corto", 
+            "duration": 9000, 
+            "price": "99 € ", 
+            "description": "¡Un pack súper beauty! Lograrás una melena llena de vida y movimiento gracias a tu nuevo corte y a los toques de luz proporcionados por tus mechas, ¡todo se complementa! El servicio incluye lavado, corte, mechas y peinado. Hazte un cambio de look para cabello corto y disfruta de tu imagen."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Cabello Largo", 
+            "duration": 10800, 
+            "price": "125 € ", 
+            "description": "¡Un pack súper beauty! Lograrás una melena llena de vida y movimiento gracias a tu nuevo corte y a los toques de luz proporcionados por tus mechas, ¡todo se complementa! El servicio incluye lavado, corte, mechas y peinado. Hazte un cambio de look para cabello largo y disfruta de tu imagen. Consulta con tu profesional los posibles suplementos a aplicar en caso de cabello extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Cabello Medio", 
+            "duration": 9000, 
+            "price": "110 € ", 
+            "description": "¡Un pack súper beauty! Lograrás una melena llena de vida y movimiento gracias a tu nuevo corte y a los toques de luz proporcionados por tus mechas, ¡todo se complementa! El servicio incluye lavado, corte, mechas y peinado. Hazte un cambio de look para media melena y disfruta de tu imagen."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Novia Maquillaje", 
+            "duration": 2700, 
+            "price": "80 € ", 
+            "description": "Para este día tan especial favorece y resalta los rasgos mas bellos de forma natural, sintiéndote tu misma acorde con tu estilo y personalidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Total Look (Color, Reflejos, Corte Y Peinado)", 
+            "duration": 7200, 
+            "price": "180 € ", 
+            "description": "Ponte en las manos de los mejores profesionales y cambia tu look, sacando el mejor partido de tu cabello. El servicio incluye color con asesoramiento personalizado, reflejos para dar un toque de luz y brillo a tu pelo, lavado con champú especifico, corte de pelo y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "¿Una ocasión especial? Si vas a ser el centro de todas las miradas y de los flashes, no lo dejes a la suerte: prueba nuestro servicio de recogido, el resultado te encantará. D"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Novia", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Tu peinado será uno de los principales protagonistas del día más importante de tu vida, así que no lo dudes y ponte en manos de nuestros profesionales: ponemos toda nuestra experiencia y saber hacer a tu servicio para que puedas lucir un precioso recogido en tu boda."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Reparador Celulas Madre", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Fórmula innovadora pensada en resolver los problemas del cabello y cuero cabelludo de raíz a punta. Soluciones comprobables, es efectivo y inmediato al usarlo. Repara, estructura, da volumen, fortalece el cuero cabelludo y el cabello."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Hombre", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "¿Quién dice que vosotros no podéis disfrutar de nuestro completo servicio de color? Déjate asesorar por nuestro equipo profesional: tanto si estás buscando dar color a tu cabello como si quieres cambiar el tono, encontrarán el color exacto para ti. D"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 1800, 
+            "price": "52 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para cabello corto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para cabello largo. Consulta suplemento a aplicar en caso de cabello extralargo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Hombre", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "¿Quién dice que vosotros no podéis disfrutar de nuestro completo servicio de color? Déjate asesorar por nuestro equipo profesional: tanto si estás buscando dar color a tu cabello como si quieres cambiar el tono, encontrarán el color exacto para ti. D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 1800, 
+            "price": "52 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para cabello corto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para cabello largo. Consulta suplemento a aplicar en caso de cabello extralargo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavar Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "¿Perfecta para cualquier ocasión? Ya sea porque tengas una cita especial, un evento, ¡o porque te mereces estar guapa! Con este servicio lavamos tu cabello y te peinamos, adaptando el look a tu estilo y necesidades. Es un servicio para cabello largo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavar Y Peinar Cabello Corto", 
+            "duration": 1800, 
+            "price": "18,5 € ", 
+            "description": "¿Perfecta para cualquier ocasión? Ya sea porque tengas una cita especial, un evento, ¡o porque te mereces estar guapa! Con este servicio lavamos tu cabello y te peinamos, adaptando el look a tu estilo y necesidades. Es un servicio para cabello corto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavar Y Peinar Cabello Medio", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "¿Perfecta para cualquier ocasión? Ya sea porque tengas una cita especial, un evento, ¡o porque te mereces estar guapa! Con este servicio lavamos tu cabello y te peinamos, adaptando el look a tu estilo y necesidades. Es un servicio para media melena. D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Peinado Cabello Medio", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para media melena."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "No lo dudes más y ponte en nuestras manos: tu imagen es importante para ti y sabes que un buen corte marca la diferencia. ¿A qué esperas? El servicio incluye lavado y secado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Queratina", 
+            "duration": 9000, 
+            "price": "180 € ", 
+            "description": "¿Buscas un pelo sin encrespamiento? ¿Quieres lograr ese cabello liso que siempre quisiste tener? Estás de enhorabuena, porque en Bigudí te traemos este completo Tratamiento de Queratina, que te permitirá disfrutar de un pelo lacio sin perder su hidratación. ¿A qué esperas para dar el paso?D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Hombre", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "¿Quién dice que vosotros no podéis disfrutar de nuestro completo servicio de color? Déjate asesorar por nuestro equipo profesional: tanto si estás buscando dar color a tu cabello como si quieres cambiar el tono, encontrarán el color exacto para ti. D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 1800, 
+            "price": "52 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para cabello corto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "¿Buscando darle vida a tu cabello? ¿Estás cansada de tu imagen, ves tu look aburrido? ¡No te preocupes! Ponte en nuestras manos y llévate un corte de pelo que te permitirá renovar tu imagen. Te encantará. El servicio incluye lavado, secado, corte y peinar. Es para cabello largo. Consulta suplemento a aplicar en caso de cabello extralargo."
+        }
+    ]
+}

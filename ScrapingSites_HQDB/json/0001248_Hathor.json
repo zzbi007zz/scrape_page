@@ -1,0 +1,129 @@
+{
+    "adid": null, 
+    "name": "Hathor", 
+    "name_of_contact": "Hathor", 
+    "scrape_page": "https://www.bucmi.com/hathor-peluqueria", 
+    "business_website": "https://www.bucmi.com/hathor-peluqueria", 
+    "areas_covered": null, 
+    "description": "El centro de peluquería y estética Hathor situado en Poble Sec, Barcelona, ofrece gran variedad de tratamientos relacionados con el cuidado del cabello y la piel, como limpiezas faciales, cortes de pelo o incluso manicuras y pedicuras. Reserva online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636104820580530227.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636104820650528789.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636104820693808709.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636104820732558360.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636104820816619233.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636104820852243400.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08004", 
+    "formatted_address": "Barcelona, 08004", 
+    "country": "es", 
+    "office_number": "934234731", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3748015000", 
+    "longitude": "2.1574481999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636102368684624033.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar Y Peinar Media Melena", 
+            "duration": 3600, 
+            "price": "34,5 € ", 
+            "description": "Retoca las puntas de tu media melena o atrévete con un look más corto reservando este servicio. Incluye el lavado con champú, el corte de pelo según tus preferencias y el peinado. Incluye producto de acabado. No incluye mascarilla, ni crema suavizante. Válido para media melena por los hombros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis Básica", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Dale un respiro a la piel de tu cutis con una limpieza realizada con dedicación y mimo por nuestra esteticista. Primero te desmaquillamos, después te realizamos un peeling, abrimos los poros para realizar la extracción de impurezas, aplicamos mascarilla y finalizamos con hidratación."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "No permitas que tus manos den una mala y imagen de ti, manteniéndolas cuidadas y bonitas. Nuestra manicura incluye limado, cutículas, hidratación y esmaltado normal en color. La manicura francesa tendrá un suplemento (consulta con el centro)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color y Peinar Pelo Corto", 
+            "duration": 7200, 
+            "price": "39,5 € ", 
+            "description": "Cubre las canas o dale un nuevo color a tu pelo con este servicio. Incluye aplicación de color en toda la cabeza (1 tubo de tinte), lavado con champú, peinado y productos de acabado. Si fuera necesario más de un tubo de tinte se cobrará un extra e el centro. No incluye mascarilla, ni crema suavizante. Válido para pelo muy corto estilo señora."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinar Media Melena", 
+            "duration": 7200, 
+            "price": "41,5 € ", 
+            "description": "Cambia de look sin tocar el largo de tu pelo. Ahora puedes conseguirlo poniéndote en nuestras manos y reservando este pack de color y peinado. Incluye tinte (1 tubo), lavado con champú, peinado y producto de acabado. Si fuera necesario más de un tubo de tinte se cobrará un extra e el centro. No incluye mascarilla, ni crema suavizante. Válido para media melena por los hombros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Media Melena", 
+            "duration": 3600, 
+            "price": "34,5 € ", 
+            "description": "Retoca las puntas de tu media melena o atrévete con un look más corto reservando este servicio. Incluye el lavado con champú, el corte de pelo según tus preferencias y el peinado. Incluye producto de acabado. No incluye mascarilla, ni crema suavizante. Válido para media melena por los hombros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "32,5 € ", 
+            "description": "Mantén el largo de tu corte a raya de la mano de nuestros estilistas. Si reservas este servicio, durante tu vista te lavaremos el pelo con champú, te realizaremos el corte a tu gusto y te peinaremos aplicando producto de acabado. No incluye mascarilla, ni crema suavizante (se cobraría a parte). Válido para pelo muy corto tipo señora."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color y Peinar Pelo Corto", 
+            "duration": 7200, 
+            "price": "39,5 € ", 
+            "description": "Cubre las canas o dale un nuevo color a tu pelo con este servicio. Incluye aplicación de color en toda la cabeza (1 tubo de tinte), lavado con champú, peinado y productos de acabado. Si fuera necesario más de un tubo de tinte se cobrará un extra e el centro. No incluye mascarilla, ni crema suavizante. Válido para pelo muy corto estilo señora."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinar Media Melena", 
+            "duration": 7200, 
+            "price": "41,5 € ", 
+            "description": "Cambia de look sin tocar el largo de tu pelo. Ahora puedes conseguirlo poniéndote en nuestras manos y reservando este pack de color y peinado. Incluye tinte (1 tubo), lavado con champú, peinado y producto de acabado. Si fuera necesario más de un tubo de tinte se cobrará un extra e el centro. No incluye mascarilla, ni crema suavizante. Válido para media melena por los hombros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color y Peinar Pelo Corto", 
+            "duration": 7200, 
+            "price": "39,5 € ", 
+            "description": "Cubre las canas o dale un nuevo color a tu pelo con este servicio. Incluye aplicación de color en toda la cabeza (1 tubo de tinte), lavado con champú, peinado y productos de acabado. Si fuera necesario más de un tubo de tinte se cobrará un extra e el centro. No incluye mascarilla, ni crema suavizante. Válido para pelo muy corto estilo señora."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinar Media Melena", 
+            "duration": 7200, 
+            "price": "41,5 € ", 
+            "description": "Cambia de look sin tocar el largo de tu pelo. Ahora puedes conseguirlo poniéndote en nuestras manos y reservando este pack de color y peinado. Incluye tinte (1 tubo), lavado con champú, peinado y producto de acabado. Si fuera necesario más de un tubo de tinte se cobrará un extra e el centro. No incluye mascarilla, ni crema suavizante. Válido para media melena por los hombros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cortar Y Peinar Media Melena", 
+            "duration": 3600, 
+            "price": "34,5 € ", 
+            "description": "Retoca las puntas de tu media melena o atrévete con un look más corto reservando este servicio. Incluye el lavado con champú, el corte de pelo según tus preferencias y el peinado. Incluye producto de acabado. No incluye mascarilla, ni crema suavizante. Válido para media melena por los hombros."
+        }
+    ]
+}

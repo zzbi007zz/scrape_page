@@ -1,0 +1,129 @@
+{
+    "adid": null, 
+    "name": "Kineopatik", 
+    "name_of_contact": "Kineopatik", 
+    "scrape_page": "https://www.bucmi.com/kineopatik", 
+    "business_website": "https://www.bucmi.com/kineopatik", 
+    "areas_covered": null, 
+    "description": "Centro de Fisioterapia avanzada y especialista, realizamos gran variedad de servicios personalizados e individuales con la intención de mejorar la calidad de vida de nuestros pacientes.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635709160779266574.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635709160817874704.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635709160842720347.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635709160864597081.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635709160877879350.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635709160892099189.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Muntaner, 114", 
+    "city": "Barcelona", 
+    "zipcode": "08022", 
+    "formatted_address": "C/ Muntaner, 114, Barcelona, 08022", 
+    "country": "es", 
+    "office_number": "932696664", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4037322000", 
+    "longitude": "2.1389573000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635967499786556425.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "175 € ", 
+            "description": "Si estás buscando un tratamiento antiedad y quieres disminuir las líneas de expresión y arrugas, con la radiofrecuencia podrás disfrutar de un efecto lifting que te sorprenderá. Tu rostro estará más firme, la piel elástica, tersa, ¡y con las arrugas más suavizadas! Tras este bono de 5 sesiones, todos notarán la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fisioterapia", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "La sesión de fisioterapia que incluye valoración de la patología, la aplicación de las máquinas específicas para la curación y para finalizar un pequeño masaje manual."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Terapéutico", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El masaje terapéutico es una técnica integrada en la fisioterapia que consiste en un masaje fuerte y enérgico con la finalidad de aliviar contracturas, dolores y falta de movilidad. Este servicio tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Esta terapia funciona con bombas de compresión dosificada y ayuda a combatir problemas musculares reactivando el sistema circulatorio, a la retención de líquidos y grasas localizadas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "175 € ", 
+            "description": "Si estás buscando un tratamiento antiedad y quieres disminuir las líneas de expresión y arrugas, con la radiofrecuencia podrás disfrutar de un efecto lifting que te sorprenderá. Tu rostro estará más firme, la piel elástica, tersa, ¡y con las arrugas más suavizadas! Tras este bono de 5 sesiones, todos notarán la diferencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Presoterapia, Cavitación Y Masaje", 
+            "duration": 3600, 
+            "price": "375 € ", 
+            "description": "Tratamiento para reducir el volumen y eliminar la frada localizada, combina cavitación, presoterapia y masaje reductor con presión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor - Aqualyx", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "Con este revolucionario servicio ponemos la última y más sofisticada tecnología a tu alcance. Eliminarás la grasa localizada gracias a la introducción del Aqualyx en las zonas de grasa acumulada. El resultado será notable desde la primera sesión, con una visible reducción del tejido adiposo. ¿Te apuntas?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad - Hilos Tensores", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Con este servicio conseguirás el efecto de un lifting... ¡sin cirugía! Mediante la colocación de hilos tensores biocompatibles y no invasivos, conseguimos recuperar el óvalo facial, a la vez que conseguimos una mayor firmeza en el rostro y una consecuente disminución de los signos de la edad."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Esta terapia funciona con bombas de compresión dosificada y ayuda a combatir problemas musculares reactivando el sistema circulatorio, a la retención de líquidos y grasas localizadas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "175 € ", 
+            "description": "Si estás buscando un tratamiento antiedad y quieres disminuir las líneas de expresión y arrugas, con la radiofrecuencia podrás disfrutar de un efecto lifting que te sorprenderá. Tu rostro estará más firme, la piel elástica, tersa, ¡y con las arrugas más suavizadas! Tras este bono de 5 sesiones, todos notarán la diferencia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Presoterapia, Cavitación Y Masaje", 
+            "duration": 3600, 
+            "price": "375 € ", 
+            "description": "Tratamiento para reducir el volumen y eliminar la frada localizada, combina cavitación, presoterapia y masaje reductor con presión."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Esta terapia funciona con bombas de compresión dosificada y ayuda a combatir problemas musculares reactivando el sistema circulatorio, a la retención de líquidos y grasas localizadas."
+        }
+    ]
+}

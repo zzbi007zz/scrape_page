@@ -1,0 +1,115 @@
+{
+    "adid": null, 
+    "name": "City Yoga", 
+    "name_of_contact": "City Yoga", 
+    "scrape_page": "https://www.bucmi.com/cityyoga", 
+    "business_website": "https://www.bucmi.com/cityyoga", 
+    "areas_covered": null, 
+    "description": "City Yoga es un centro de masajes y terapias naturales ubicado en la zona de Cuatro Caminos, en Madrid. Disponemos de un espacio bastante amplío para ofrecerte los mejores servicios, como nuestro tanque de flotación y de una amplia oferta de masajes.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635624473097224179.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635624473125820094.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635624473164417105.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635624473198794793.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635624473240048005.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635624473260830635.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "Madrid, 28044, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "915534751", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4475051000", 
+    "longitude": "-3.7002517999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635955572914514611.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tanque De Flotación", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "¡Disfruta de un momento de relax en esta cámara que simula la ingravidez del mar muerto! Reserva y conseguirás combatir el estrés. Además, proporciona numerosos beneficios para la salud de quien lo disfruta. ¡Sumérgete en un universo de absoluto bienestar con este servicio! Tiene una duración de 50 minutos. ¡Reserva ya en Bucmi y te encantará! ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tanque Flotación Y Masaje", 
+            "duration": 7200, 
+            "price": "62,5 € ", 
+            "description": "¿Te gustaría vivir una experiencia de relajación total? ¡Reserva nuestro tanque de flotación con masaje! El tanque lleva agua salada que simula al Mar Muerto y tiene la misma temperatura que nuestro cuerpo. Después de conseguir desconectar tu mente de las preocupaciones, te daremos un masaje de una hora de duración. Este servicio es sólo para una persona."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Tailandés", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Libera tensiones y restaura el flujo de energías mediante presión en los puntos del cuerpo que ayudan a la circulación normal y ajustan los músculos llenos de nudos para un mejor movimiento. Esta técnica te ayudará a eliminar esas pequeñas dolencias y a mejorar un poco tu calidad de vida. ¡No lo dudes y ponte en manos de los mejores! Reserva ya en Bucmi por un precio increíble."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "¿Necesitas eliminar el estrés de tu cuerpo? ¡Reserva nuestro masaje relajante! Gracias a este masaje conseguimos que el estrés o los agobios del día a día desaparezcan. Ven a nuestro centro, saldrás como nuevo. Confía en nuestro equipo de profesionales con una gran formación en el sector. Tiene una duración de una hora. ¡No lo dudes y reserva ya en Bucmi! Increíble relación calidad y precio. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Es un masaje terapéutico originado en Japón que combate el desequilibrio del cuerpo y del espíritu mediante presiones con los dedos. Este masaje te ayudará a relajar los músculos de tu cuerpo y tu mente. Contamos con un cualificado equipo de profesionales para que el resultado sea notable. ¡Saldrás como nuev@ de nuestro centro! ¿Todavía no lo has probado? ¡No lo dudes y reserva ya en Bucmi por un precio increíble!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Tailandés", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Libera tensiones y restaura el flujo de energías mediante presión en los puntos del cuerpo que ayudan a la circulación normal y ajustan los músculos llenos de nudos para un mejor movimiento. Esta técnica te ayudará a eliminar esas pequeñas dolencias y a mejorar un poco tu calidad de vida. ¡No lo dudes y ponte en manos de los mejores! Reserva ya en Bucmi por un precio increíble."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "¿Necesitas eliminar el estrés de tu cuerpo? ¡Reserva nuestro masaje relajante! Gracias a este masaje conseguimos que el estrés o los agobios del día a día desaparezcan. Ven a nuestro centro, saldrás como nuevo. Confía en nuestro equipo de profesionales con una gran formación en el sector. Tiene una duración de una hora. ¡No lo dudes y reserva ya en Bucmi! Increíble relación calidad y precio. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Es un masaje terapéutico originado en Japón que combate el desequilibrio del cuerpo y del espíritu mediante presiones con los dedos. Este masaje te ayudará a relajar los músculos de tu cuerpo y tu mente. Contamos con un cualificado equipo de profesionales para que el resultado sea notable. ¡Saldrás como nuev@ de nuestro centro! ¿Todavía no lo has probado? ¡No lo dudes y reserva ya en Bucmi por un precio increíble!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Tailandés", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Libera tensiones y restaura el flujo de energías mediante presión en los puntos del cuerpo que ayudan a la circulación normal y ajustan los músculos llenos de nudos para un mejor movimiento. Esta técnica te ayudará a eliminar esas pequeñas dolencias y a mejorar un poco tu calidad de vida. ¡No lo dudes y ponte en manos de los mejores! Reserva ya en Bucmi por un precio increíble."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 3 Sesiones Tanque De Flotación", 
+            "duration": 2700, 
+            "price": "105 € ", 
+            "description": "Bono de 3 sesiones. ¡Disfruta de un momento de relax en esta cámara que simula la ingravidez del mar muerto! Reserva y conseguirás combatir el estrés. Además, proporciona numerosos beneficios para la salud de quien lo disfruta. ¡Sumérgete en un universo de absoluto bienestar con este servicio! Tiene una duración de 50 minutos. ¡Reserva ya en Bucmi y te encantará! ¿A qué estás esperando?"
+        }
+    ]
+}

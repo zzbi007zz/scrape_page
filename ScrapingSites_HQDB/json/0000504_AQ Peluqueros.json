@@ -1,0 +1,123 @@
+{
+    "adid": null, 
+    "name": "AQ Peluqueros", 
+    "name_of_contact": "AQ Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/aqpeluqueria", 
+    "business_website": "https://www.bucmi.com/aqpeluqueria", 
+    "areas_covered": null, 
+    "description": "AQ Peluqueros es una peluquería creativa en Costa Rica 26 en el barrio de Chamartín en Madrid, al lado de la parada Colombia. Sus estilistas están especializados en cortes clásicos y extravagantes, y ofrecen servicios de: alisado japonés Yuko System, tratamiento regenerador láser con polvo de diamante, extensiones de keratina, adhesivas, con micro-anillas o peinetas, tintes ecológico sin amoníaco, mechas y balayage. Utilizan los mejores productos del mercado, de la mano de marcas como Moroccanoil, Hairkology, Nanomax, Kerat-in Professional, Redken, L'oréal, Revlon, y planchas GHD. Están abiertos de lunes a sábado, con disponibilidad los domingos y festivos con cita previa.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558273810045.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558274435039.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558278966275.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558277872537.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558278028885.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558279903781.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558279747630.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Almonacid, 25", 
+    "city": "Madrid", 
+    "zipcode": "28016", 
+    "formatted_address": "C/ Almonacid, 25, Madrid, 28016", 
+    "country": "es", 
+    "office_number": "910145319", 
+    "office_number2": null, 
+    "mobile_number": "691344533", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4582849000", 
+    "longitude": "-3.6730569000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636295832174336757.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado De Keratina Y Corte De Pelo", 
+            "duration": 9000, 
+            "price": "260 € ", 
+            "description": "Si estas cansada de que tu pelo se encrespe, de estar pegada a la plancha de pelo para alisar tu melena, este es tu tratamiento. Alisado de Keratina que incluye lavado y acondicionador además de corte de pelo. Duración de 4 a 6 meses."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Tricolor", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Con estas mechas vas a proporcionar vida y movimiento a tu melena. Incluye lavado con champú específico, masaje capilar, estudio con asesoramiento personalizado y mechas con papel de plata tricolor."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Corte De Pelo Y Peinado Exprés", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Cambia radicalmente de look con este pack que incluye lavado con champú específico, masaje capilar, mascarilla, estudio del cabello, corte de pelo totalmente asesorado para sacar el mayor partido de tu melena y peinado exprés."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Y Corte De Pelo", 
+            "duration": 9000, 
+            "price": "260 € ", 
+            "description": "Si estas cansada de que tu pelo se encrespe, de estar pegada a la plancha de pelo para alisar tu melena, este es tu tratamiento. Alisado de Keratina que incluye lavado y acondicionador además de corte de pelo. Duración de 4 a 6 meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Tricolor", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Con estas mechas vas a proporcionar vida y movimiento a tu melena. Incluye lavado con champú específico, masaje capilar, estudio con asesoramiento personalizado y mechas con papel de plata tricolor."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Keratina Y Corte De Pelo", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "Devuelve la luminosidad a tu melena con este tratamiento de baño de keratina con el que conseguirás una melena con más cuerpo. Además, incluye lavado con champú específico, mascarilla, masaje capilar y asesoramiento en el corte de pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Servicio ideal para cabello fino y quebradizo, ya que aporta cuerpo y engrosa el pelo. Aporta más peso con lo que parecerá más liso. Obtendrás una melena suave y sedosa de la mano de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Keratina Y Peinado", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Tinte especial con Keratina, sin amoniaco. Realizamos el color con asesoramiento personalizado, lavado con champú específico y peinado. Saldrás perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte De Pelo Y Peinado Exprés", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Cambia radicalmente de look con este pack que incluye lavado con champú específico, masaje capilar, mascarilla, estudio del cabello, corte de pelo totalmente asesorado para sacar el mayor partido de tu melena y peinado exprés."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Y Keratina Hidratante", 
+            "duration": 7200, 
+            "price": "70 € ", 
+            "description": "Luce una melena llena de vida gracias a este tratamiento de keratina hidratante para aportar cuerpo y volumen a tu pelo. Además da un toque de luz a tu pelo gracias a estas mechas balayage. El servicio incluye lavado con champú específico, masaje capilar y mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Exprés", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Servicio indicado para cualquier largo, incluye lavado con champú específico, masaje capilar, estudio, asesoramiento y mechas exprés. Tan solo 10 minutos en tu melena son necesarios. El peinado no está incluido."
+        }
+    ]
+}

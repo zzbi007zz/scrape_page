@@ -1,0 +1,186 @@
+{
+    "adid": null, 
+    "name": "Rommy Stylo", 
+    "name_of_contact": "Rommy Stylo", 
+    "scrape_page": "https://www.bucmi.com/rommy", 
+    "business_website": "https://www.bucmi.com/rommy", 
+    "areas_covered": null, 
+    "description": "Tu centro de peluquería en el barrio de Vallecas, cuenta con las últimas técnicas de peinado. Déjate asesorar por los mejores profesionales y aprovecha nuestros precios en todos los servicios de peluquería y estética. ¡Conócenos sin ningún compromiso!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023743816637936.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023743818825359.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023743819137879.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023743820388295.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023743822419387.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023743820544745.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023743820701020.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "8,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28018", 
+    "formatted_address": "Madrid, 28027, Madrid, 28018", 
+    "country": "es", 
+    "office_number": "910097289", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3899785000", 
+    "longitude": "-3.6476013999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636023744545293436.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Labio,Cejas,Ingles Y Medias Pierna", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "Elimina ese vello tan molesto y luce una piel lisa y suave por más tiempo. Esta depilación con cera incluye labio superior, cejas, ingles normales y medias piernas. Todo ello con la mejor calidad y al mejor precio. ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "¿Buscas un rostro limpio y libre de imperfecciones? Esta limpieza de cutis tradicional dejará tu piel impecable: comenzamos por el desmaquillado del rostro, lo tonificamos y realizamos una exfoliación para eliminar todas las células muertas. Se realiza la extracción y, para finalizar, aplicamos mascarilla y sérum facial para que tu piel brille con luz propia. Finalizamos con un masaje para relajarte completamente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte, Color Raíz, Lavado Y Peinado", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Unifica el color de tu cabello con este pack que incluye color en la raíz, corte, lavado y peinado con productos de acabado.Consigue ese aspecto cuidado con este servicio por un precio increíble, siempre a manos de los grandes profesionales de Rommy Stylo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Completa", 
+            "duration": 5400, 
+            "price": "22 € ", 
+            "description": "Luce unas manos y pies perfectos con este servicio completo que incluye limado de uñas, tratamiento e hidratación de la piel y durezas, retirada de cutículas y esmaltado en una amplía gama de colores. ¡Porque en Rommy Stylo nos preocupamos por tu imagen!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Capilar Permanente", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "Este servicio incluye un alisado natural a base de keratina permanente. Incluye el lavado. ¡Consigue un pelo suave y lacio y olvídate así del encrespamiento! Si dispone de un cabello extralargo consulte con el profesional por posible suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Para Novias", 
+            "duration": 7200, 
+            "price": "129 € ", 
+            "description": "¿Estás pensando en el gran día? ¿Quieres ser una novia radiante? ¡Entonces aprovecha este pack! Lo realizamos en dos sesiones: en la primera, realizaremos tu manicura con esmaltado permanente y prepararemos tus pies, esmaltándolos con pintaúñas normal. En la siguiente sesión maquillaremos tu rostro para la ocasión y realizaremos tu recogido. El servicio incluye la prueba de peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz, Lavado Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Unifica el color de tu cabello con este pack que incluye color en la raíz, lavado y peinado con productos de acabado! Consigue ese aspecto cuidado con este servicio por un precio increíble, siempre a manos de los grandes profesionales de Rommy Stylo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Hombre Y Diseño De Barba", 
+            "duration": 2700, 
+            "price": "16 € ", 
+            "description": "Porque vosotros también tenéis derecho a estar guapos, en Rommy Stylo os ofrecemos este servicio que incluye el corte de pelo con productos de acabado y el arreglo de barba. Siempre asesorado por nuestros profesionales para que tu look sea impecable."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Color Raíz, Lavado Y Peinado", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Unifica el color de tu cabello con este pack que incluye color en la raíz, corte, lavado y peinado con productos de acabado.Consigue ese aspecto cuidado con este servicio por un precio increíble, siempre a manos de los grandes profesionales de Rommy Stylo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Lavado Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "¿Buscas renovar tu imagen? Cambia de look con este pack que incluye corte asesorado, lavado y peinado con productos de acabado. Los profesionales de Rommy Stylo te asesorarán para conseguir el look que mas te favorezca. El servicio es para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Lavado Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "¿Buscas renovar tu imagen? Cambia de look con este pack que incluye corte asesorado, lavado y peinado con productos de acabado. Los profesionales de Rommy Stylo te asesorarán para conseguir el look que mas te favorezca. El servicio es para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Lavado Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "21 € ", 
+            "description": "¿Buscas renovar tu imagen? Cambia de look con este pack que incluye corte asesorado, lavado y peinado con productos de acabado. Los profesionales de Rommy Stylo te asesorarán para conseguir el look que mas te favorezca. El servicio es para pelo largo. Para cabellos extralargos, consulte suplemento con el profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Capilar Permanente", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "Este servicio incluye un alisado natural a base de keratina permanente. Incluye el lavado. ¡Consigue un pelo suave y lacio y olvídate así del encrespamiento! Si dispone de un cabello extralargo consulte con el profesional por posible suplemento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Capilar Permanente", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "Este servicio incluye un alisado natural a base de keratina permanente. Incluye el lavado. ¡Consigue un pelo suave y lacio y olvídate así del encrespamiento! Si dispone de un cabello extralargo consulte con el profesional por posible suplemento."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Capilar Permanente", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "Este servicio incluye un alisado natural a base de keratina permanente. Incluye el lavado. ¡Consigue un pelo suave y lacio y olvídate así del encrespamiento! Si dispone de un cabello extralargo consulte con el profesional por posible suplemento."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Para Novias", 
+            "duration": 7200, 
+            "price": "129 € ", 
+            "description": "¿Estás pensando en el gran día? ¿Quieres ser una novia radiante? ¡Entonces aprovecha este pack! Lo realizamos en dos sesiones: en la primera, realizaremos tu manicura con esmaltado permanente y prepararemos tus pies, esmaltándolos con pintaúñas normal. En la siguiente sesión maquillaremos tu rostro para la ocasión y realizaremos tu recogido. El servicio incluye la prueba de peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz, Lavado Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Unifica el color de tu cabello con este pack que incluye color en la raíz, lavado y peinado con productos de acabado! Consigue ese aspecto cuidado con este servicio por un precio increíble, siempre a manos de los grandes profesionales de Rommy Stylo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Pelo Hombre Y Diseño De Barba", 
+            "duration": 2700, 
+            "price": "16 € ", 
+            "description": "Porque vosotros también tenéis derecho a estar guapos, en Rommy Stylo os ofrecemos este servicio que incluye el corte de pelo con productos de acabado y el arreglo de barba. Siempre asesorado por nuestros profesionales para que tu look sea impecable."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte, Color Raíz, Lavado Y Peinado", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Unifica el color de tu cabello con este pack que incluye color en la raíz, corte, lavado y peinado con productos de acabado.Consigue ese aspecto cuidado con este servicio por un precio increíble, siempre a manos de los grandes profesionales de Rommy Stylo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte, Lavado Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "¿Buscas renovar tu imagen? Cambia de look con este pack que incluye corte asesorado, lavado y peinado con productos de acabado. Los profesionales de Rommy Stylo te asesorarán para conseguir el look que mas te favorezca. El servicio es para media melena."
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "adid": null, 
+    "name": "Miss Pestañas", 
+    "name_of_contact": "Miss Pestañas", 
+    "scrape_page": "https://www.bucmi.com/misspestanas", 
+    "business_website": "https://www.bucmi.com/misspestanas", 
+    "areas_covered": null, 
+    "description": "En el centro de estética Miss Pestañas situado en el barrio de Ibiza, en Madrid, encontrarás todo tipo de servicios de pestañas que realizan los mejores profesionales para que tu mirada luzca mejor que nunca. Reserva ahora tu cita online con Bucmi.com.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008257092792637.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008257108730106.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008257111229787.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008257123417341.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008257129355079.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Menorca, 20", 
+    "city": "Madrid", 
+    "zipcode": "28009", 
+    "formatted_address": "C/ Menorca, 20, Madrid, 28009", 
+    "country": "es", 
+    "office_number": "916033036", 
+    "office_number2": null, 
+    "mobile_number": "722763812", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4193823000", 
+    "longitude": "-3.6766795999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008257658831559.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corner Eyes", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Una extensión de pestañas realizada en el último tercio del ojo, para mantener el atractivo de tus pestañas, pero dándoles mayor volumen y apertura. Una solución natural pero efectiva. Adaptamos las extensiones de pestañas a tu tipología natural, aplicando curvaturas B ó C y grosores de 0,15 ó 0,20."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Shine Eyes", 
+            "duration": 7200, 
+            "price": "96 € ", 
+            "description": "¡Serás la envidia de tus amigas y conocidas! Con nuestras pestañas Shine Eyes conseguirás una mirada de cine durante semanas. Con este tipo de extensiones conseguimos unas pestañas súper largas, rizadas, densas y negras. Realizamos la extensión con una curvatura C y un grosor de 0,20. ¡Tu mirada no dejará indiferente a nadie!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Shine Eyes Retoque 2 Semanas", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Mantén ese look impresionante que te aportan nuestras Eyes Shine con nuestra sesión de retoque. Tus pestañas estarán perfectas más tiempo aún. Servicio válido para realizarse a las 2 semanas de la primera puesta. Si se realiza 3 semanas después se cobrará un suplemento en el centro y si pasa un mes o más se deberá reservar el servicio de primera puesta."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sweety Eyes", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "Consigue una mirada dulce pero más intensa con nuestra extensión de pestañas Sweet Eyes. Tus pestañas se verán más negras y tupidas pero manteniendo un look natural. La extensión de pestañas se realiza pelo a pelo, aplicando curvaturas B y C intercaladas y con un grosor de 0,15."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corner Eyes", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Una extensión de pestañas realizada en el último tercio del ojo, para mantener el atractivo de tus pestañas, pero dándoles mayor volumen y apertura. Una solución natural pero efectiva. Adaptamos las extensiones de pestañas a tu tipología natural, aplicando curvaturas B ó C y grosores de 0,15 ó 0,20."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Delicate Eyes", 
+            "duration": 7200, 
+            "price": "78 € ", 
+            "description": "¿Sueñas con unas pestañas perfectamente rizadas, negras y espesas? Pues nuestras extensiones de pestañas Delicate Eyes son perfectas para ti. Buscamos la combinación perfecta de curvatura C con un grosor de 0,15, para conseguir un resultado tan natural que nadie sabrá si son extensiones o son naturales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Delicate Eyes Retoque 2 Semanas", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Con nuestra sesión de retoque de extensión de pestañas Delicate Eyes podrás lucir una mirada intensa durante más tiempo. Y sigue enamorando durante semanas con unas pestañas más negras, espesas y rizadas. Ideal para realizarse 2 semanas después de habértelas puesto. Si se realiza 3 semanas después se cobrará un suplemento en el centro y si pasa un mes o más se deberá reservar el servicio de primera puesta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Delicate Eyes Retoque 3 Semanas", 
+            "duration": 5400, 
+            "price": "46 € ", 
+            "description": "Retoque de extensiones de pestañas puestas hace 3 semanas de Delicate Eyes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Shine Eyes", 
+            "duration": 7200, 
+            "price": "96 € ", 
+            "description": "¡Serás la envidia de tus amigas y conocidas! Con nuestras pestañas Shine Eyes conseguirás una mirada de cine durante semanas. Con este tipo de extensiones conseguimos unas pestañas súper largas, rizadas, densas y negras. Realizamos la extensión con una curvatura C y un grosor de 0,20. ¡Tu mirada no dejará indiferente a nadie!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Shine Eyes Retoque 2 Semanas", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Mantén ese look impresionante que te aportan nuestras Eyes Shine con nuestra sesión de retoque. Tus pestañas estarán perfectas más tiempo aún. Servicio válido para realizarse a las 2 semanas de la primera puesta. Si se realiza 3 semanas después se cobrará un suplemento en el centro y si pasa un mes o más se deberá reservar el servicio de primera puesta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Shine Eyes Retoque 3 Semanas", 
+            "duration": 900, 
+            "price": "58 € ", 
+            "description": "Retoque de extensiones de pestañas Shine eyes que se hayan colocado hace tres semanas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sweety Eyes", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "Consigue una mirada dulce pero más intensa con nuestra extensión de pestañas Sweet Eyes. Tus pestañas se verán más negras y tupidas pero manteniendo un look natural. La extensión de pestañas se realiza pelo a pelo, aplicando curvaturas B y C intercaladas y con un grosor de 0,15."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sweety Eyes Retoque 2 Semanas", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Mantén ese look adorable que te aportan nuestras Sweet Eyes con nuestra sesión de retoque. Tus pestañas estarán perfectas más tiempo aún. Servicio válido para realizarse a las 2 semanas de la primera puesta. Si se realiza 3 semanas después se cobrará un suplemento en el centro y si pasa un mes o más se deberá reservar el servicio de primera puesta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Volumative Eyes", 
+            "duration": 9000, 
+            "price": "110 € ", 
+            "description": "Nuestro tratamiento volumen ruso. Aplicamos grupos de pestañas en cada una de tus pestañas, consiguiendo un volumen máximo e insuperable."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Corner Eyes", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Una extensión de pestañas realizada en el último tercio del ojo, para mantener el atractivo de tus pestañas, pero dándoles mayor volumen y apertura. Una solución natural pero efectiva. Adaptamos las extensiones de pestañas a tu tipología natural, aplicando curvaturas B ó C y grosores de 0,15 ó 0,20."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Delicate Eyes", 
+            "duration": 7200, 
+            "price": "78 € ", 
+            "description": "¿Sueñas con unas pestañas perfectamente rizadas, negras y espesas? Pues nuestras extensiones de pestañas Delicate Eyes son perfectas para ti. Buscamos la combinación perfecta de curvatura C con un grosor de 0,15, para conseguir un resultado tan natural que nadie sabrá si son extensiones o son naturales."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Delicate Eyes Retoque 2 Semanas", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Con nuestra sesión de retoque de extensión de pestañas Delicate Eyes podrás lucir una mirada intensa durante más tiempo. Y sigue enamorando durante semanas con unas pestañas más negras, espesas y rizadas. Ideal para realizarse 2 semanas después de habértelas puesto. Si se realiza 3 semanas después se cobrará un suplemento en el centro y si pasa un mes o más se deberá reservar el servicio de primera puesta."
+        }
+    ]
+}

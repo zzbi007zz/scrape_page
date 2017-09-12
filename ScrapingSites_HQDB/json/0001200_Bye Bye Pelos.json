@@ -1,0 +1,634 @@
+{
+    "adid": null, 
+    "name": "Bye Bye Pelos", 
+    "name_of_contact": "Bye Bye Pelos", 
+    "scrape_page": "https://www.bucmi.com/byebyepelos", 
+    "business_website": "https://www.bucmi.com/byebyepelos", 
+    "areas_covered": null, 
+    "description": "Centro de estética Bye Bye Pelos situado en Sant Andreu en Barcelona. Nos avalan más de 7 años de experiencia. Especializadas en los tratamientos estéticos más avanzados y con una formación continua. La pasión por nuestra profesión es lo que nos mueve.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858737673990213.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636173041412886337.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636173041676792314.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636173041734292204.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636173041798510958.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636173041840073413.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636173041943041869.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08030", 
+    "formatted_address": "Barcelona, 08030, Barcelona, 08006, Barcelona, 08030", 
+    "country": "es", 
+    "office_number": "933462100", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4366995000", 
+    "longitude": "2.1898367999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968362827668478.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Sesiones Fotodepilación Axilas", 
+            "duration": 1800, 
+            "price": "81 € ", 
+            "description": "Elimina el vello de forma permanente sin tirones ni dolor, de la forma más eficaz con esta sesión de fotodepilación. Olvídate de la cera o la cuchilla de forma definitiva. Reserva ahora y comprueba la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Sesiones Fotodepilación Ingles Brasileñas", 
+            "duration": 1800, 
+            "price": "63 € ", 
+            "description": "Elimina el vello de forma permanente sin tirones ni dolor, de la forma más eficaz con esta sesión de fotodepilación. Olvídate de la cera o la cuchilla de forma definitiva. Reserva ahora y comprueba la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Sesiones Fotodepilación Medias Piernas", 
+            "duration": 2700, 
+            "price": "129 € ", 
+            "description": "Elimina el vello de forma permanente sin tirones ni dolor, de la forma más eficaz con esta sesión de fotodepilación. Olvídate de la cera o la cuchilla de forma definitiva. Reserva ahora y comprueba la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Sesiones Fotodepilación Piernas Completas", 
+            "duration": 3600, 
+            "price": "243 € ", 
+            "description": "Elimina el vello de forma permanente sin tirones ni dolor, de la forma más eficaz con esta sesión de fotodepilación. Olvídate de la cera o la cuchilla de forma definitiva. Reserva ahora y comprueba la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 4 Sesiones Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "El peeling químico acelera el proceso de descamación natural de la piel arrastrando células muertas e impurezas, oxigenando los tejidos y reactivando los mecanismos de regeneración y renovación celular. Después del peeling se incrementará el grosor de la epidermis, dejando un aspecto más joven y lozano además de aumentar la elasticidad y luminosidad."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Drenaje Linfático 5+1", 
+            "duration": 2700, 
+            "price": "125 € ", 
+            "description": "Consiste en una terapia manual en la que el terapeuta conseguirá eliminar tu sistema linfático, para así mejorar tu circulación y ayudar a drenar la grasa localizada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Radiofrecuencia Corporal 10+2", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Elimina la grasa localizada de tu cuerpo con la radiofrecuencia además de eliminar volumen y recuperar la elasticidad de la piel. Reserva ahora y comprueba la diferencia desde la primera sesión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Radiofrecuencia Facial 5+1", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Rejuvenece la piel de tu rostro con esta sesión de radiofrecuencia facial que alisa las primeras líneas de expresión, unifica el tono y recupera la elasticidad de la piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Antebrazos", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Elimina el vello de forma permanente gracias a nuestro láser de diodo de alta potencia en pocas sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Axilas", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "Elimina el vello de forma permanente gracias a nuestro láser de diodo de alta potencia en pocas sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Brazos Completos", 
+            "duration": 2700, 
+            "price": "65 € ", 
+            "description": "Elimina el vello de forma permanente gracias a nuestro láser de diodo de alta potencia en pocas sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Ingles Brasileñas", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Olvidate del vello gracias al mejor láser de diodo de alta potencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Ingles Caribeñas", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Elimina el vello de forma permanente gracias a nuestro láser de diodo de alta potencia en pocas sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Labio Superior", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "Elimina el vello de forma permanente gracias a nuestro láser de diodo de alta potencia en pocas sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Linea Alba", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "Elimina el vello de forma permanente gracias a nuestro láser de diodo de alta potencia en pocas sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Medias Piernas", 
+            "duration": 2700, 
+            "price": "65 € ", 
+            "description": "Elimina el vello de forma permanente gracias a nuestro láser de diodo de alta potencia en pocas sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser De Diodo Piernas Completas", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Elimina el vello de forma permanente gracias a nuestro láser de diodo de alta potencia en pocas sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fotodepilación Axilas", 
+            "duration": 900, 
+            "price": "30 € ", 
+            "description": "Elimina el vello de forma permanente sin tirones ni dolor de la forma más eficaz con esta sesión de fotodepilación. Olvídate de la cera o la cuchilla de forma definitiva. Reserva ahora y comprueba la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fotodepilación Ingles Brasileñas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Elimina el vello de forma permanente sin tirones ni dolor de la forma más eficaz con esta sesión de fotodepilación. Olvídate de la cera o la cuchilla de forma definitiva. Reserva ahora y comprueba la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fotodepilación Piernas Completas", 
+            "duration": 3600, 
+            "price": "89 € ", 
+            "description": "Elimina el vello de forma permanente sin tirones ni dolor de la forma más eficaz con esta sesión de fotodepilación. Olvídate de la cera o la cuchilla de forma definitiva. Reserva ahora y comprueba la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Completa", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Limpieza Facial. Tratamiento de limpieza profunda. Limpia, hidrata, ilumina, repara y prepara.Resultado: Consigue una limpieza profunda, una piel oxigenada, hidratada, iluminada,tonificada y rejuvenecida"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lifting De Pestañas", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Añade longitud, volumen y eleva tu pestaña natural. Sin extensiones, sin adhesivo y sin máscara. LVL endereza tus pestañas naturales desde la raiz, elevandolas y dando un efecto de mayor longitud. Luce una mirada infinita."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Luce unas manos perfectas con este servicio que incluye cortar y limar, tratamiento de cutículas, hidratación y esmaltado semipermanente. No incluye Francesa ni retirado de otro esmaltado que no sea del centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Elimina todo el estrés acumulado por el día a día con un masaje relajante. Saldrás como nueva/o gracias a este relajante masaje de una hora de duración."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Elimina todo el estrés acumulado por el día a día con un masaje relajante. Saldrás como nueva/o gracias a este relajante masaje de treinta minutos de duración."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Microdermoabrasión Facial", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "Limpiamos la piel en profundidad para mantener la piel joven, suave y limpia. Recupera la luminosidad en tu piel, minimiza los poros y elimina pequeñas líneas de expresión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Microdermoabrasión Y Tratamiento De Vitamica C+", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Disfruta de una piel limpia y libre de impurezas e imperfecciones gracias a nuestra sesión de microdermoabrasión con punta de diamante. El tratamiento se completa con un cóctel de vitamina C sobre la piel para relajar y nutrirla eficazmente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Semipermanente", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "Tus uñas intactas durante al menos 3 semanas y perfectas como el primer día gracias al esmaltado semipermanente. El servicio incluye: limado, retirada de cutículas, tratamientos de durezas e hidratación. No incluye francesa, ni retirado de esmalte de otro centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El peeling químico acelera el proceso de descamación natural de la piel arrastrando células muertas e impurezas, oxigenando los tejidos y reactivando los mecanismos de regeneración y renovación celular. Después del peeling se incrementará el grosor de la epidermis, dejando un aspecto más joven y lozano además de aumentar la elasticidad y luminosidad."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Rejuvenece la piel de tu rostro con esta sesión de radiofrecuencia facial que alisa las primeras líneas de expresión, unifica el tono y recupera la elasticidad de la piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Reductor 10Ss Cellu-Programme", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Si queremos atacar la celulitis tenemos que hacerlo desde diferentes frentes, empezando por una dieta equilibrada pasando por un tratamiento profesional hasta conseguir unos buenos hábitos de vida saludable constantes en el tiempo.Para ayudarte a ello, Germaine de Capuccini ha creado CHANGE BEGINS TODAY, un plan global anticelulítico, diseñado por profesionales de diferentes ámbitos, que han desarrollado una acción de choque contra la celulitis desde una perspectiva realista y segura, en tan sólo 35 días."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Iluminador", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Ilumina y Rejuvenece tu rostro en una sola sesión. Tratamiento completo que reune Microdermoabrasión, Radiofrecuéncia y mascarilla específica en una sola sesión. Al acabar tu rostro hablará por si solo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Lifting", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Prueba nuestro lift(IN) manual sin maquinaria de Germaine de Capuccini. Los rasgos se elevan. Las arrugas se hacen menos visibles. Los volúmenes del rostro se rellenan y reposicionan. El óvalo redefine sus contornos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Contrarresta los efectos negativos de la glicación cutánea que desencadena el envejecimiento prematuro de la piel. La piel recupera de inmediato una espectacular juventud, mostrándose luminosa, tersa y densificada. Indicado para todo tipo de pieles, especialmente para pieles cetrinas y apagadas, con falta de luz y resplandor. Pieles mates y deshidratadas, faltas de vitalidad celular y que presenten flacidez."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "El peeling químico acelera el proceso de descamación natural de la piel arrastrando células muertas e impurezas, oxigenando los tejidos y reactivando los mecanismos de regeneración y renovación celular. Después del peeling se incrementará el grosor de la epidermis, dejando un aspecto más joven y lozano además de aumentar la elasticidad y luminosidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Drenaje Linfático 5+1", 
+            "duration": 2700, 
+            "price": "125 € ", 
+            "description": "Consiste en una terapia manual en la que el terapeuta conseguirá eliminar tu sistema linfático, para así mejorar tu circulación y ayudar a drenar la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Radiofrecuencia Corporal 10+2", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Elimina la grasa localizada de tu cuerpo con la radiofrecuencia además de eliminar volumen y recuperar la elasticidad de la piel. Reserva ahora y comprueba la diferencia desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Radiofrecuencia Facial 5+1", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Rejuvenece la piel de tu rostro con esta sesión de radiofrecuencia facial que alisa las primeras líneas de expresión, unifica el tono y recupera la elasticidad de la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Corporal Automático", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Consiste en una terapia manual en la que el terapeuta conseguirá eliminar tu sistema linfático, para así mejorar tu circulación y ayudar a drenar la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Paquete completo de belleza que consiste en una exfoliación completa de tu cuerpo para conseguir una piel sedosa y libre de pieles muertas. El servicio termina con una hidratación para otorgarle suavidad a tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Limpieza Facial. Tratamiento de limpieza profunda. Limpia, hidrata, ilumina, repara y prepara.Resultado: Consigue una limpieza profunda, una piel oxigenada, hidratada, iluminada,tonificada y rejuvenecida"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Tratamiento Facial Específico", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "Revela una piel pura, uniforme. Reduce los poros dilatados e imperfecciones de la piel. Previene las primeras arrugas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting De Pestañas", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Añade longitud, volumen y eleva tu pestaña natural. Sin extensiones, sin adhesivo y sin máscara. LVL endereza tus pestañas naturales desde la raiz, elevandolas y dando un efecto de mayor longitud. Luce una mirada infinita."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Facial", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "Limpiamos la piel en profundidad para mantener la piel joven, suave y limpia. Recupera la luminosidad en tu piel, minimiza los poros y elimina pequeñas líneas de expresión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Y Tratamiento De Vitamica C+", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Disfruta de una piel limpia y libre de impurezas e imperfecciones gracias a nuestra sesión de microdermoabrasión con punta de diamante. El tratamiento se completa con un cóctel de vitamina C sobre la piel para relajar y nutrirla eficazmente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El peeling químico acelera el proceso de descamación natural de la piel arrastrando células muertas e impurezas, oxigenando los tejidos y reactivando los mecanismos de regeneración y renovación celular. Después del peeling se incrementará el grosor de la epidermis, dejando un aspecto más joven y lozano además de aumentar la elasticidad y luminosidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Elimina la grasa localizada de tu cuerpo con la radiofrecuencia además de eliminar volumen y recuperar la elasticidad de la piel. Reserva ahora y comprueba la diferencia desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Rejuvenece la piel de tu rostro con esta sesión de radiofrecuencia facial que alisa las primeras líneas de expresión, unifica el tono y recupera la elasticidad de la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor 10Ss Cellu-Programme", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Si queremos atacar la celulitis tenemos que hacerlo desde diferentes frentes, empezando por una dieta equilibrada pasando por un tratamiento profesional hasta conseguir unos buenos hábitos de vida saludable constantes en el tiempo.Para ayudarte a ello, Germaine de Capuccini ha creado CHANGE BEGINS TODAY, un plan global anticelulítico, diseñado por profesionales de diferentes ámbitos, que han desarrollado una acción de choque contra la celulitis desde una perspectiva realista y segura, en tan sólo 35 días."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Iluminador", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Ilumina y Rejuvenece tu rostro en una sola sesión. Tratamiento completo que reune Microdermoabrasión, Radiofrecuéncia y mascarilla específica en una sola sesión. Al acabar tu rostro hablará por si solo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Lifting", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Prueba nuestro lift(IN) manual sin maquinaria de Germaine de Capuccini. Los rasgos se elevan. Las arrugas se hacen menos visibles. Los volúmenes del rostro se rellenan y reposicionan. El óvalo redefine sus contornos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Oxigenante", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Previene y lucha contra el envejecimiento combatiendo eficazmente el estrés medioambiental y la falta de oxigenación de la piel. Recomendado para pieles a partir de los 25 -30 años. Indicado para pieles que necesitan activar y reforzar sus defensas para prevenir el envejecimiento prematuro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Contrarresta los efectos negativos de la glicación cutánea que desencadena el envejecimiento prematuro de la piel. La piel recupera de inmediato una espectacular juventud, mostrándose luminosa, tersa y densificada. Indicado para todo tipo de pieles, especialmente para pieles cetrinas y apagadas, con falta de luz y resplandor. Pieles mates y deshidratadas, faltas de vitalidad celular y que presenten flacidez."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 4 Sesiones Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "El peeling químico acelera el proceso de descamación natural de la piel arrastrando células muertas e impurezas, oxigenando los tejidos y reactivando los mecanismos de regeneración y renovación celular. Después del peeling se incrementará el grosor de la epidermis, dejando un aspecto más joven y lozano además de aumentar la elasticidad y luminosidad."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Drenaje Linfático 5+1", 
+            "duration": 2700, 
+            "price": "125 € ", 
+            "description": "Consiste en una terapia manual en la que el terapeuta conseguirá eliminar tu sistema linfático, para así mejorar tu circulación y ayudar a drenar la grasa localizada."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Radiofrecuencia Corporal 10+2", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Elimina la grasa localizada de tu cuerpo con la radiofrecuencia además de eliminar volumen y recuperar la elasticidad de la piel. Reserva ahora y comprueba la diferencia desde la primera sesión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Radiofrecuencia Facial 5+1", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Rejuvenece la piel de tu rostro con esta sesión de radiofrecuencia facial que alisa las primeras líneas de expresión, unifica el tono y recupera la elasticidad de la piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Sesiones Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "El peeling químico acelera el proceso de descamación natural de la piel arrastrando células muertas e impurezas, oxigenando los tejidos y reactivando los mecanismos de regeneración y renovación celular. Después del peeling se incrementará el grosor de la epidermis, dejando un aspecto más joven y lozano además de aumentar la elasticidad y luminosidad."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Drenaje Linfático 5+1", 
+            "duration": 2700, 
+            "price": "125 € ", 
+            "description": "Consiste en una terapia manual en la que el terapeuta conseguirá eliminar tu sistema linfático, para así mejorar tu circulación y ayudar a drenar la grasa localizada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 4 Sesiones Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "El peeling químico acelera el proceso de descamación natural de la piel arrastrando células muertas e impurezas, oxigenando los tejidos y reactivando los mecanismos de regeneración y renovación celular. Después del peeling se incrementará el grosor de la epidermis, dejando un aspecto más joven y lozano además de aumentar la elasticidad y luminosidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Drenaje Linfático 5+1", 
+            "duration": 2700, 
+            "price": "125 € ", 
+            "description": "Consiste en una terapia manual en la que el terapeuta conseguirá eliminar tu sistema linfático, para así mejorar tu circulación y ayudar a drenar la grasa localizada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Radiofrecuencia Corporal 10+2", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Elimina la grasa localizada de tu cuerpo con la radiofrecuencia además de eliminar volumen y recuperar la elasticidad de la piel. Reserva ahora y comprueba la diferencia desde la primera sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Radiofrecuencia Facial 5+1", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Rejuvenece la piel de tu rostro con esta sesión de radiofrecuencia facial que alisa las primeras líneas de expresión, unifica el tono y recupera la elasticidad de la piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Drenaje Linfático Corporal Automático", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Consiste en una terapia manual en la que el terapeuta conseguirá eliminar tu sistema linfático, para así mejorar tu circulación y ayudar a drenar la grasa localizada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Paquete completo de belleza que consiste en una exfoliación completa de tu cuerpo para conseguir una piel sedosa y libre de pieles muertas. El servicio termina con una hidratación para otorgarle suavidad a tu piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Completa", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Limpieza Facial. Tratamiento de limpieza profunda. Limpia, hidrata, ilumina, repara y prepara.Resultado: Consigue una limpieza profunda, una piel oxigenada, hidratada, iluminada,tonificada y rejuvenecida"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Y Tratamiento Facial Específico", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "Revela una piel pura, uniforme. Reduce los poros dilatados e imperfecciones de la piel. Previene las primeras arrugas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting De Pestañas", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Añade longitud, volumen y eleva tu pestaña natural. Sin extensiones, sin adhesivo y sin máscara. LVL endereza tus pestañas naturales desde la raiz, elevandolas y dando un efecto de mayor longitud. Luce una mirada infinita."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Microdermoabrasión Facial", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "Limpiamos la piel en profundidad para mantener la piel joven, suave y limpia. Recupera la luminosidad en tu piel, minimiza los poros y elimina pequeñas líneas de expresión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Microdermoabrasión Y Tratamiento De Vitamica C+", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Disfruta de una piel limpia y libre de impurezas e imperfecciones gracias a nuestra sesión de microdermoabrasión con punta de diamante. El tratamiento se completa con un cóctel de vitamina C sobre la piel para relajar y nutrirla eficazmente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El peeling químico acelera el proceso de descamación natural de la piel arrastrando células muertas e impurezas, oxigenando los tejidos y reactivando los mecanismos de regeneración y renovación celular. Después del peeling se incrementará el grosor de la epidermis, dejando un aspecto más joven y lozano además de aumentar la elasticidad y luminosidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Elimina la grasa localizada de tu cuerpo con la radiofrecuencia además de eliminar volumen y recuperar la elasticidad de la piel. Reserva ahora y comprueba la diferencia desde la primera sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Rejuvenece la piel de tu rostro con esta sesión de radiofrecuencia facial que alisa las primeras líneas de expresión, unifica el tono y recupera la elasticidad de la piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Reductor 10Ss Cellu-Programme", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Si queremos atacar la celulitis tenemos que hacerlo desde diferentes frentes, empezando por una dieta equilibrada pasando por un tratamiento profesional hasta conseguir unos buenos hábitos de vida saludable constantes en el tiempo.Para ayudarte a ello, Germaine de Capuccini ha creado CHANGE BEGINS TODAY, un plan global anticelulítico, diseñado por profesionales de diferentes ámbitos, que han desarrollado una acción de choque contra la celulitis desde una perspectiva realista y segura, en tan sólo 35 días."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Iluminador", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Ilumina y Rejuvenece tu rostro en una sola sesión. Tratamiento completo que reune Microdermoabrasión, Radiofrecuéncia y mascarilla específica en una sola sesión. Al acabar tu rostro hablará por si solo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Lifting", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Prueba nuestro lift(IN) manual sin maquinaria de Germaine de Capuccini. Los rasgos se elevan. Las arrugas se hacen menos visibles. Los volúmenes del rostro se rellenan y reposicionan. El óvalo redefine sus contornos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Oxigenante", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Previene y lucha contra el envejecimiento combatiendo eficazmente el estrés medioambiental y la falta de oxigenación de la piel. Recomendado para pieles a partir de los 25 -30 años. Indicado para pieles que necesitan activar y reforzar sus defensas para prevenir el envejecimiento prematuro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Contrarresta los efectos negativos de la glicación cutánea que desencadena el envejecimiento prematuro de la piel. La piel recupera de inmediato una espectacular juventud, mostrándose luminosa, tersa y densificada. Indicado para todo tipo de pieles, especialmente para pieles cetrinas y apagadas, con falta de luz y resplandor. Pieles mates y deshidratadas, faltas de vitalidad celular y que presenten flacidez."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Semipermanente", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Luce unas manos perfectas con este servicio que incluye cortar y limar, tratamiento de cutículas, hidratación y esmaltado semipermanente. No incluye Francesa ni retirado de otro esmaltado que no sea del centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Semipermanente Expres", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Luce una uñas perfectas con los colores que más se llevan esta temporada. Manos perfectas con un brillo espectacular durante dos semanas. No incluye Francesa ni retirado de esmaltado que no sea del centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Semipermanente", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "Tus uñas intactas durante al menos 3 semanas y perfectas como el primer día gracias al esmaltado semipermanente. El servicio incluye: limado, retirada de cutículas, tratamientos de durezas e hidratación. No incluye francesa, ni retirado de esmalte de otro centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Semipermanente Expres", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "No tienes tiempo para una pedicura completa? La pedicura expres es tu solución. Retirado de cutícula limado de uñas y esmaltado semipermanente. Pies bonitos en poco tiempo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Elimina todo el estrés acumulado por el día a día con un masaje relajante. Saldrás como nueva/o gracias a este relajante masaje de una hora de duración."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Relajante", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Elimina todo el estrés acumulado por el día a día con un masaje relajante. Saldrás como nueva/o gracias a este relajante masaje de treinta minutos de duración."
+        }
+    ]
+}

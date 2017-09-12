@@ -1,0 +1,207 @@
+{
+    "adid": null, 
+    "name": "Totlaser", 
+    "name_of_contact": "Totlaser", 
+    "scrape_page": "https://www.bucmi.com/totlaser", 
+    "business_website": "https://www.bucmi.com/totlaser", 
+    "areas_covered": null, 
+    "description": "Totlaser es un centro médico estético ubicado en Barcelona. Llevamos 10 años trabajando para ofrecerte los mejores tratamientos en estética y en depilación láser médica. Disponemos de grandes profesionales para garantizarte siempre el mejor resultado.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636311386102343139.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636311386148123949.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636311386187342378.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636311386201717331.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636311386225310772.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636311386237029455.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636311386254373256.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "9,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Viladomat, 235", 
+    "city": "Barcelona", 
+    "zipcode": "08029", 
+    "formatted_address": "C/ Viladomat, 235, Barcelona, 08029", 
+    "country": "es", 
+    "office_number": "935152718", 
+    "office_number2": null, 
+    "mobile_number": "673893566", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3859614000", 
+    "longitude": "2.1487958999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636311387503582279.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Microdermoabrasión Punta De Diamante Y Mascarilla", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Reserva online nuestros tratamiento facial microdermoabrasión con Punta de Diamante de 45 minutos de duración y luce una piel perfecta y luminosa. El servicio incluye un diagnóstico de tu piel para adaptarnos a tus necesidades, la microdermoabrasión y una mascarilla super hidratante. Trabajamos con las mejores marcas para ofrecer y conseguir un resultado perfecto y adecuado a ti y a tu piel. Te encantará."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Facial Láser Con Carbono", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "Este tratamiento consiste en un peeling químico con una mascarilla con carbono activado. El láser hace que la piel no se descame y no salgan rojeces. Es ideal para ocasiones especiales ya que deja una piel deslumbrante. El tratamiento se adapta según el tipo de piel del paciente ya que trabajamos con las primeras marcas. El peeling es 100% personalizado para conseguir un resultado perfecto e impecable."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "¿Has probado la mejor presoterapia del mercado? Nuestra apuesta por las mejores marcas nos aseguran inmejorables resultados. Siente este tratamiento, tras ser analizada por nuestro personal sanitario autorizado y pruebas con el tensiometro incorporado. La presoterapia ayudará a reducir la celulitis, drenar y eliminar el exceso de líquidos, para conseguir una mejor figura eliminando la grasa localizada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Reductor Completo", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "En Totláser te ofrecemos un tratamiento corporal reductor completo de 45 minutos para realzar tu figura y reducir volumen. El servicio incluye una sesión de vacumterapia, cavitación, electroestimulación, mesoterapia corporal virtual y luz led para un resultado óptimo. El objetivo de este tratamiento es conseguir tratar la celulítis enquistada y proporcionar al cuerpo el drenaje que necesita. Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "¡Renueva la piel de tu cuerpo gracias a este tratamiento! Consiste en aplicar un peeling por todo el cuerpo para conseguir eliminar las células muertas. Además, incluye también la hidratación para un efecto relajante en tu cuerpo para conseguir una piel radiante y perfecta. Este tratamiento de una hora de duración es ideal para la época de primavera, para así poder preparar la piel de todo el cuerpo para el verano."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Punta De Diamante Y Mascarilla", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Reserva online nuestros tratamiento facial microdermoabrasión con Punta de Diamante de 45 minutos de duración y luce una piel perfecta y luminosa. El servicio incluye un diagnóstico de tu piel para adaptarnos a tus necesidades, la microdermoabrasión y una mascarilla super hidratante. Trabajamos con las mejores marcas para ofrecer y conseguir un resultado perfecto y adecuado a ti y a tu piel. Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Láser Eliminación De Tatuaje Hasta 10Cm", 
+            "duration": 1800, 
+            "price": "49 € ", 
+            "description": "El servicio incluye una sesión de láser para eliminar un tatuaje de hasta 10 cm. Cuando la luz del láser incide sobre la tinta del tatuaje se producen dos efectos que confirman el mecanismo fotoacústico del tratamiento: un ligero chasquido y una coloración blanca o gris en la superficie de la zona tratada. Ambos efectos son indicadores de que la fragmentación del pigmento de la tinta ha sido efectiva."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Láser Con Carbono", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "Este tratamiento consiste en un peeling químico con una mascarilla con carbono activado. El láser hace que la piel no se descame y no salgan rojeces. Es ideal para ocasiones especiales ya que deja una piel deslumbrante. El tratamiento se adapta según el tipo de piel del paciente ya que trabajamos con las primeras marcas. El peeling es 100% personalizado para conseguir un resultado perfecto e impecable."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Químico", 
+            "duration": 3600, 
+            "price": "47 € ", 
+            "description": "¿Te gustaría mejorar el aspecto del cutis de tu cara y lucir una piel radiante? ¡Reserva nuestro servicio de peeling químico de una hora de duración! Nuestros profesionales en estética se encargarán de dejarte una piel perfecta. El tratamiento se adapta según el tipo de piel del paciente ya que trabajamos con las primeras marcas. El peeling es 100% personalizado para conseguir un resultado perfecto e impecable."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Piercing", 
+            "duration": 900, 
+            "price": "25 € ", 
+            "description": "Deja que te hagamos el piercing con total profesionalidad y acorde al protocolo sanitario. Nuestro personal son enfermeras diplomadas y en activo que utilizan nuestro autoclave para esterilizar todo el material para poder llevar a cabo las perforaciones. Lóbulo y cartílago de la oreja, nariz, pezón y ombligo. Solo tardaremos unos 15 minutos y tendrás tu pendiente en la zona que deseas. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "¿Has probado la mejor presoterapia del mercado? Nuestra apuesta por las mejores marcas nos aseguran inmejorables resultados. Siente este tratamiento, tras ser analizada por nuestro personal sanitario autorizado y pruebas con el tensiometro incorporado. La presoterapia ayudará a reducir la celulitis, drenar y eliminar el exceso de líquidos, para conseguir una mejor figura eliminando la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "Ponte en manos de nuestros profesionales y esteticistas y luce una mirada increíble reservando nuestro servicio de tinte y permanente de pestañas. Durante el servicio ( de una hora de duración) oscurecemos las pestañas y las rizamos para potenciar el efecto de tu mirada. ¡Te encantará el resultado ya que sacaremos la mejor versión de ti misma! Reserva cita online al mejor precio con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Completo", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "En Totláser te ofrecemos un tratamiento corporal reductor completo de 45 minutos para realzar tu figura y reducir volumen. El servicio incluye una sesión de vacumterapia, cavitación, electroestimulación, mesoterapia corporal virtual y luz led para un resultado óptimo. El objetivo de este tratamiento es conseguir tratar la celulítis enquistada y proporcionar al cuerpo el drenaje que necesita. Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "¡Renueva la piel de tu cuerpo gracias a este tratamiento! Consiste en aplicar un peeling por todo el cuerpo para conseguir eliminar las células muertas. Además, incluye también la hidratación para un efecto relajante en tu cuerpo para conseguir una piel radiante y perfecta. Este tratamiento de una hora de duración es ideal para la época de primavera, para así poder preparar la piel de todo el cuerpo para el verano."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Microdermoabrasión Punta De Diamante Y Mascarilla", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Reserva online nuestros tratamiento facial microdermoabrasión con Punta de Diamante de 45 minutos de duración y luce una piel perfecta y luminosa. El servicio incluye un diagnóstico de tu piel para adaptarnos a tus necesidades, la microdermoabrasión y una mascarilla super hidratante. Trabajamos con las mejores marcas para ofrecer y conseguir un resultado perfecto y adecuado a ti y a tu piel. Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Láser Eliminación De Tatuaje Hasta 10Cm", 
+            "duration": 1800, 
+            "price": "49 € ", 
+            "description": "El servicio incluye una sesión de láser para eliminar un tatuaje de hasta 10 cm. Cuando la luz del láser incide sobre la tinta del tatuaje se producen dos efectos que confirman el mecanismo fotoacústico del tratamiento: un ligero chasquido y una coloración blanca o gris en la superficie de la zona tratada. Ambos efectos son indicadores de que la fragmentación del pigmento de la tinta ha sido efectiva."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "¡Renueva la piel de tu cuerpo gracias a este tratamiento! Consiste en aplicar un peeling por todo el cuerpo para conseguir eliminar las células muertas. Además, incluye también la hidratación para un efecto relajante en tu cuerpo para conseguir una piel radiante y perfecta. Este tratamiento de una hora de duración es ideal para la época de primavera, para así poder preparar la piel de todo el cuerpo para el verano."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Microdermoabrasión Punta De Diamante Y Mascarilla", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Reserva online nuestros tratamiento facial microdermoabrasión con Punta de Diamante de 45 minutos de duración y luce una piel perfecta y luminosa. El servicio incluye un diagnóstico de tu piel para adaptarnos a tus necesidades, la microdermoabrasión y una mascarilla super hidratante. Trabajamos con las mejores marcas para ofrecer y conseguir un resultado perfecto y adecuado a ti y a tu piel. Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "¡Renueva la piel de tu cuerpo gracias a este tratamiento! Consiste en aplicar un peeling por todo el cuerpo para conseguir eliminar las células muertas. Además, incluye también la hidratación para un efecto relajante en tu cuerpo para conseguir una piel radiante y perfecta. Este tratamiento de una hora de duración es ideal para la época de primavera, para así poder preparar la piel de todo el cuerpo para el verano."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Microdermoabrasión Punta De Diamante Y Mascarilla", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Reserva online nuestros tratamiento facial microdermoabrasión con Punta de Diamante de 45 minutos de duración y luce una piel perfecta y luminosa. El servicio incluye un diagnóstico de tu piel para adaptarnos a tus necesidades, la microdermoabrasión y una mascarilla super hidratante. Trabajamos con las mejores marcas para ofrecer y conseguir un resultado perfecto y adecuado a ti y a tu piel. Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Láser Eliminación De Tatuaje Hasta 10Cm", 
+            "duration": 1800, 
+            "price": "49 € ", 
+            "description": "El servicio incluye una sesión de láser para eliminar un tatuaje de hasta 10 cm. Cuando la luz del láser incide sobre la tinta del tatuaje se producen dos efectos que confirman el mecanismo fotoacústico del tratamiento: un ligero chasquido y una coloración blanca o gris en la superficie de la zona tratada. Ambos efectos son indicadores de que la fragmentación del pigmento de la tinta ha sido efectiva."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial Láser Con Carbono", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "Este tratamiento consiste en un peeling químico con una mascarilla con carbono activado. El láser hace que la piel no se descame y no salgan rojeces. Es ideal para ocasiones especiales ya que deja una piel deslumbrante. El tratamiento se adapta según el tipo de piel del paciente ya que trabajamos con las primeras marcas. El peeling es 100% personalizado para conseguir un resultado perfecto e impecable."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial Químico", 
+            "duration": 3600, 
+            "price": "47 € ", 
+            "description": "¿Te gustaría mejorar el aspecto del cutis de tu cara y lucir una piel radiante? ¡Reserva nuestro servicio de peeling químico de una hora de duración! Nuestros profesionales en estética se encargarán de dejarte una piel perfecta. El tratamiento se adapta según el tipo de piel del paciente ya que trabajamos con las primeras marcas. El peeling es 100% personalizado para conseguir un resultado perfecto e impecable."
+        }
+    ]
+}

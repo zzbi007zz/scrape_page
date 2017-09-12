@@ -1,0 +1,172 @@
+{
+    "adid": null, 
+    "name": "Mi Calle de Nueva York", 
+    "name_of_contact": "Mi Calle de Nueva York", 
+    "scrape_page": "https://www.bucmi.com/mi-calle-de-nueva-york", 
+    "business_website": "https://www.bucmi.com/mi-calle-de-nueva-york", 
+    "areas_covered": null, 
+    "description": "Mi Calle de Nueva York, situado en Calle del Barquillo 39, es uno de los espacios más innovador y exclusivo para los cuidados personales, convertido en un punto de referencia para el cuidado de las uñas y de la piel de todo Madrid. El nombre, como todos sus servicios, tienen su inspiración de los tratamientos más glamourosos y de tendencia de la Gran Manzana, de donde se inspiran también la decoración y la atmosfera del salón. Alejandro, dueño del centro, y todo su staff, tienen como misión el descubrimiento de las últimas técnicas y productos al fin de mejorar el servicio y ofrecer a cada cliente una experiencia relajante y memorable, atendiendo cada necesidad con experiencia y profesionalidad. En este centro se pueden reservar servicios exclusivos como el tratamiento con peces Garra Rufa o elegir entre decenas de manicuras y pedicuras personalizadas.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636398044437758282.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636398044488069712.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636398044528068888.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636398044556974545.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636398044587598955.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636398044621973291.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636398044655253962.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Carranza, 8", 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "C/ Carranza, 8, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "911965444", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4237753000", 
+    "longitude": "-3.6956086000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636398808012786566.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Axilas", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "Las axilas son una de las zonas más delicada del cuerpo y necesitan de ser cuidados en manera específica, especialmente en el momento de la depilación. Este servicio de depilación con cera permite de lucir una piel suave y sedosa durante semanas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Ny Moment Manicure Completa", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "Servicio de manicura completa para cuidar las manos y garantizar un resultado perfecto en solo 45 minutos. Este servicio incluye limado, retirada de cutículas, exfoliación e hidratación de manos y esmaltado del color que prefieras de nuestras amplia gama."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Ny Moment Pedicure Completa", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "El servicio NY Moment es una pedicura completa para cuidar tus pies y lucir uñas perfectas. El servicio incluye la retirada de las cutículas, exfoliación e hidratación y esmaltado de las mejores marcas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Essie Obbsesion Manicure", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Si confías en los tratamientos de las mejores marcas por tus manos, el servicio Essie Obssesion puede garantizar que resultado será siempre el esperado. Confía en las hábiles manos de las profesionales de MCNY para disfrutar del tratamiento ideal para tus manos. Incluye una manicura básica con esmaltado de la marca Essie."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extra Vitamin C Pedicure", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Aporta luminosidad a tus pies con la pedicura con tratamiento extra de Vitamin C de MCNY. Este servicio completo tiene un efecto antioxidante e incluye una pedicura básica con limado y esmaltado de las mejores marcas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Kure Experience Express Pedicure", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Servicio de pedicura exprés con esmaltado orgánico del color que más guste. Kure Experience Express incluye limado de las uñas de la forma deseada y el esmaltado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Japonesa", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Si tienes las uñas dañadas y quieres verlas bonitas y cuidadas, el servicio de manicura japonesa te ayudará. Esta manicura incluye un tratamiento regenerador y fortalecedor, además una manicura básica. Servicio perfecto para cuidar manos y uñas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ny Moment Manicure Completa", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "Servicio de manicura completa para cuidar las manos y garantizar un resultado perfecto en solo 45 minutos. Este servicio incluye limado, retirada de cutículas, exfoliación e hidratación de manos y esmaltado del color que prefieras de nuestras amplia gama."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ny Moment Pedicure Completa", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "El servicio NY Moment es una pedicura completa para cuidar tus pies y lucir uñas perfectas. El servicio incluye la retirada de las cutículas, exfoliación e hidratación y esmaltado de las mejores marcas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "S.O.S. Pedicure", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Los pies también necesitan de ser cuidados y relajarse, y todo esto es posible con S.O.S. Pedicure. Este tratamiento completo para los pies incluye un servicio de pedicura con limado, esmaltado, tratamiento relajante con lavanda y masaje con puntos de presión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Shellac And The City Manicure Completa", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Lucir manos bonitaS y cuidadas durante semanas es fácil con la manicura Shellac and the City, que garantiza manos suaves y un color duradero con una marca top como Shellac. El tratamiento incluye limado y cuidado de las cutículas, exfoliación e hidratación de las manos y un esmaltado semipermanente del color que más te guste."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "The Hamptons Manicure", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "La manicura The Hamptons es ideal para las personas que desean cuidar sus manos aportando una hidratación profunda. El tratamiento incluye limado, retirada de cutículas, exfoliación, tratamiento détox e hidratación profunda y para finalizar esmaltado tradicional de las mejores marcas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "The Jelly Bath Pedicure", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Servicio de 75 min. Se trata de la solución ideal para los pies cansados, hinchados y deshidratados. Este servicio incluye limado, retirada de cutículas, tratamiento y esmaltado del color que prefieras."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Essie Obbsesion Manicure", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Si confías en los tratamientos de las mejores marcas por tus manos, el servicio Essie Obssesion puede garantizar que resultado será siempre el esperado. Confía en las hábiles manos de las profesionales de MCNY para disfrutar del tratamiento ideal para tus manos. Incluye una manicura básica con esmaltado de la marca Essie."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extra Vitamin C Pedicure", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Aporta luminosidad a tus pies con la pedicura con tratamiento extra de Vitamin C de MCNY. Este servicio completo tiene un efecto antioxidante e incluye una pedicura básica con limado y esmaltado de las mejores marcas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Kure Experience Express Pedicure", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Servicio de pedicura exprés con esmaltado orgánico del color que más guste. Kure Experience Express incluye limado de las uñas de la forma deseada y el esmaltado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Japonesa", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Si tienes las uñas dañadas y quieres verlas bonitas y cuidadas, el servicio de manicura japonesa te ayudará. Esta manicura incluye un tratamiento regenerador y fortalecedor, además una manicura básica. Servicio perfecto para cuidar manos y uñas."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Essie Obbsesion Manicure", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Si confías en los tratamientos de las mejores marcas por tus manos, el servicio Essie Obssesion puede garantizar que resultado será siempre el esperado. Confía en las hábiles manos de las profesionales de MCNY para disfrutar del tratamiento ideal para tus manos. Incluye una manicura básica con esmaltado de la marca Essie."
+        }
+    ]
+}

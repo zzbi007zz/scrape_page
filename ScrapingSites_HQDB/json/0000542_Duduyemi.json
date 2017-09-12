@@ -1,0 +1,135 @@
+{
+    "adid": null, 
+    "name": "Duduyemi", 
+    "name_of_contact": "Duduyemi", 
+    "scrape_page": "https://www.bucmi.com/duduyemi", 
+    "business_website": "https://www.bucmi.com/duduyemi", 
+    "areas_covered": null, 
+    "description": "Duduyemi T. Afuye, directora de 'Duduyemi', dispone de una experiencia de más de 10 años en el sector de la moda. Disfrutarás de un Salón de Belleza en condiciones en el centro de Madrid donde conseguirás resultados únicos. Te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389025449069.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389051701046.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389065436363.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389081375111.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389096063720.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389142473324.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389153569528.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389161538981.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389209354796.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389221856143.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389238263563.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635714389370182388.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Hermosilla, 101", 
+    "city": "Madrid", 
+    "zipcode": "28006", 
+    "formatted_address": "C/ Hermosilla, 101, Madrid, 28006", 
+    "country": "es", 
+    "office_number": "917429935", 
+    "office_number2": null, 
+    "mobile_number": "679212201", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4259565000", 
+    "longitude": "-3.6743542000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970552943793.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño Cejas", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Diseño de cejas realizado con pinzas para un acabado más preciso que enmarque y resalte tu mirada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Maquillaje", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Maquillaje social para día o noche en el que sacaremos partido a tus rasgos siempre acorde a tu personalidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Prueba Maquillaje Novia Y Asesoramiento", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Asesoramiento de peinado, vestuario, maquillaje y color mas prueba de maquillaje para novia."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Análisis de Color", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Realizamos un análisis de los colores que más favorecen tu cabello, maquillaje para rostro y vestuario, siempre bajo el sello de tu imagen personal."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Book De Fotos, Maquillaje Y Peinado Individual", 
+            "duration": 10800, 
+            "price": "129 € ", 
+            "description": "Precio por persona. Sesión de fotos con un maquillaje acorde con tus rasgos que te sacarán el mayor partido y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia", 
+            "duration": 10800, 
+            "price": "295 € ", 
+            "description": "Incluye: Maquillaje y peinado boda + prueba maquillaje y peinado + 2 diseños de cejas + un serum ecológico de vitaminas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Prueba Maquillaje Novia Y Asesoramiento", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Asesoramiento de peinado, vestuario, maquillaje y color mas prueba de maquillaje para novia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Análisis de Color", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Realizamos un análisis de los colores que más favorecen tu cabello, maquillaje para rostro y vestuario, siempre bajo el sello de tu imagen personal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Book De Fotos, Maquillaje Y Peinado Individual", 
+            "duration": 10800, 
+            "price": "129 € ", 
+            "description": "Precio por persona. Sesión de fotos con un maquillaje acorde con tus rasgos que te sacarán el mayor partido y peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Novia", 
+            "duration": 10800, 
+            "price": "295 € ", 
+            "description": "Incluye: Maquillaje y peinado boda + prueba maquillaje y peinado + 2 diseños de cejas + un serum ecológico de vitaminas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Prueba Maquillaje Novia Y Asesoramiento", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Asesoramiento de peinado, vestuario, maquillaje y color mas prueba de maquillaje para novia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Prueba Maquillaje Novia Y Asesoramiento", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Asesoramiento de peinado, vestuario, maquillaje y color mas prueba de maquillaje para novia."
+        }
+    ]
+}

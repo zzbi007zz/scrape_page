@@ -1,0 +1,126 @@
+{
+    "adid": null, 
+    "name": "HN Hernandez Nuñez", 
+    "name_of_contact": "HN Hernandez Nuñez", 
+    "scrape_page": "https://www.bucmi.com/hernandeznunez", 
+    "business_website": "https://www.bucmi.com/hernandeznunez", 
+    "areas_covered": null, 
+    "description": "En HN ofrecemos tratamientos de salud, belleza y bienestar con un amplio abanico de servicios que ponemos a su disposición. La eficacia de nuestros tratamientos se apoya en su aplicación individualizada y adaptada a las necesidades de cada persona.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635923666320066703.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635923666322566777.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635923666324754193.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Nectar, 35", 
+    "city": "Madrid", 
+    "zipcode": "28015", 
+    "formatted_address": "C/ Nectar, 35, Madrid, 28015", 
+    "country": "es", 
+    "office_number": "914463116", 
+    "office_number2": null, 
+    "mobile_number": "630204310", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4338641000", 
+    "longitude": "-3.7062253000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908677623706019.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Incluye peeling y masaje con aceites esenciales, para que puedas tener una piel suave, gracias a la eliminación de pieles muertas de cuerpo, e hidratada gracias a los aceites esenciales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "El servicio incluye: Limado de uñas, tratamiento de cutículas, tratamiento de durezas y masaje con loción regeneradora y maquillado de uñas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial Express", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Incluye un desmaquillaje del rostro,peeling, aplicación de geles limpiadores, extracción, crema de masaje y crema según tipo de piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Circulatorio 30 Minutos", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Masaje a 4 manos para piernas. Gracias a este masaje sentirás una mejoría y alivio en tu sistema circulatorio de las piernas; además del relajamiento durante la sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Luce unas pestañas de infarto con este tinte de pestañas. Tiene una duración de 3 semanas y da la misma sensación que si llevaras rimmel puesto. Confía en los mejores profesionales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Incluye peeling y masaje con aceites esenciales, para que puedas tener una piel suave, gracias a la eliminación de pieles muertas de cuerpo, e hidratada gracias a los aceites esenciales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial: Forever Young", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Tratamos el envejecimiento de la piel, mejorando la estructura interna y corrigiendo los efectos externos. Sus activos fomentan la reparación y regeneración celular. Trata las arrugas, líneas de expresión, falta de firmeza, deshidratación. Se usan factor de crecimiento epidérmico, factor tímico epidérmico, FBP, aminoácidos DM y fitocohesina... Recomendado desde los 25-50 años"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial: Unstress", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Tratamiento facial para todo tipo de pieles. Protege el ADN celular, estimula el sistema inmunológico, calma, repara, hidrata y previene el envejecimiento prematuro. Gracias a Unstress, la piel estresada, sensible, sensibilizada, incluso reactiva, muestra toda su belleza"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial Express", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Incluye un desmaquillaje del rostro,peeling, aplicación de geles limpiadores, extracción, crema de masaje y crema según tipo de piel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje Circulatorio 30 Minutos", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Masaje a 4 manos para piernas. Gracias a este masaje sentirás una mejoría y alivio en tu sistema circulatorio de las piernas; además del relajamiento durante la sesión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Circulatorio 30 Minutos", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Masaje a 4 manos para piernas. Gracias a este masaje sentirás una mejoría y alivio en tu sistema circulatorio de las piernas; además del relajamiento durante la sesión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Luce unas pestañas de infarto con este tinte de pestañas. Tiene una duración de 3 semanas y da la misma sensación que si llevaras rimmel puesto. Confía en los mejores profesionales."
+        }
+    ]
+}

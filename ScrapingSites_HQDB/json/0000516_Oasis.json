@@ -1,0 +1,92 @@
+{
+    "adid": null, 
+    "name": "Oasis", 
+    "name_of_contact": "Oasis", 
+    "scrape_page": "https://www.bucmi.com/oasiscentrodeestetica", 
+    "business_website": "https://www.bucmi.com/oasiscentrodeestetica", 
+    "areas_covered": null, 
+    "description": "El centro de estética y Spa Oasis, situado en el barrio de Chamartín a pocos pasos del metro prosperidad, ofrece servicios de depilación, masajes y tratamientos faciales entre otros. Cuidamos de tu salud, belleza y bienestar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885862522635180.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885862554822605.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885862566541333.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885862581074144.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pechuan, 14", 
+    "city": "Madrid", 
+    "zipcode": "28002", 
+    "formatted_address": "C/ Pechuan, 14, Madrid, 28002", 
+    "country": "es", 
+    "office_number": "915152544", 
+    "office_number2": null, 
+    "mobile_number": "649191552", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4453420000", 
+    "longitude": "-3.6760008999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635973790635001789.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Chocolaterapia", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Con este masaje, además de bienestar la piel recibe los polifenoles del cacao que son verdaderos conservantes que atrapan los radicales libres responsables del proceso de envejecimiento de las células."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Tratamiento ideal para combatir las señales del envejecimiento, rejuvenecer tu piel, aportar brillo y luminosidad a tu rostro y eliminar todos los signos de cansancio. Realizamos extracción, exfoliación, mascarilla e hidratación con masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Tratamiento ideal para combatir las señales del envejecimiento, rejuvenecer tu piel, aportar brillo y luminosidad a tu rostro y eliminar todos los signos de cansancio. Realizamos extracción, exfoliación, mascarilla e hidratación con masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Tratamiento", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Comenzamos aplicando productos adecuados de alta tecnología según tu tipo de piel: exfoliantes, desincrustantes e hidratantes, continuamos con mascarilla relajante y finalizamos con masaje facial."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Tratamiento ideal para combatir las señales del envejecimiento, rejuvenecer tu piel, aportar brillo y luminosidad a tu rostro y eliminar todos los signos de cansancio. Realizamos extracción, exfoliación, mascarilla e hidratación con masaje."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Con Tratamiento", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Comenzamos aplicando productos adecuados de alta tecnología según tu tipo de piel: exfoliantes, desincrustantes e hidratantes, continuamos con mascarilla relajante y finalizamos con masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Tratamiento ideal para combatir las señales del envejecimiento, rejuvenecer tu piel, aportar brillo y luminosidad a tu rostro y eliminar todos los signos de cansancio. Realizamos extracción, exfoliación, mascarilla e hidratación con masaje."
+        }
+    ]
+}

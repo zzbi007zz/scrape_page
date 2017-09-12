@@ -1,0 +1,141 @@
+{
+    "adid": null, 
+    "name": "Instituto Valenciano de Terapias Naturales", 
+    "name_of_contact": "Instituto Valenciano de Terapias Naturales", 
+    "scrape_page": "https://www.bucmi.com/institutovalenciano", 
+    "business_website": "https://www.bucmi.com/institutovalenciano", 
+    "areas_covered": null, 
+    "description": "Equipo de profesionales dedicados a las terapias naturales y alternativas para proporcionar a nuestros clientes un cambio, tanto físico como mental. En el Instituto Valenciano de Terapias Naturales nos preocupamos por tu salud y bienestar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779194912249602.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779194977874340.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779195348505460.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635779195636316658.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46002", 
+    "formatted_address": "Valencia, Valencia, Valencia, 46002", 
+    "country": "es", 
+    "office_number": "960034119", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4680253999", 
+    "longitude": "-0.3795910999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635943284420950241.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Alternativa: 10 Sesiones Rebirthing", 
+            "duration": 5400, 
+            "price": "720 € ", 
+            "description": "Aprovéchate de este bono y disfruta de la técnica que tiene como herramienta principal la respiración. Trabaja con el inconsciente, las creencias, la imagen que tenemos de nosotros mismos...es una técnica para ampliar la conciencia y evolucionar en el camino espiritual y mental."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Sesiones Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "500 € ", 
+            "description": "El shiatsu es una técnica de acupresión. Presionamos en los puntos que utiliza la acupuntura, en los canales energéticos, pero lo hacemos con los dedos, liberando así las tensiones físicas y emocionales que generamos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Alternativa: 10 Sesiones Auriculopuntura", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Bono de 10 Sesiones. Es una técnica que trabaja en el pabellón auricular donde tenemos un mapa de todo nuestro cuerpo. Con ella podemos trabajar cualquier órgano y parte de nuestra anatomía, incluso trastornos emocionales"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "500 € ", 
+            "description": "El shiatsu es una técnica de acupresión. Presionamos en los puntos que utiliza la acupuntura, en los canales energéticos, pero lo hacemos con los dedos, liberando así las tensiones físicas y emocionales que generamos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El shiatsu es una técnica de acupresión. Presionamos en los puntos que utiliza la acupuntura, en los canales energéticos, pero lo hacemos con los dedos, liberando así las tensiones físicas y emocionales que generamos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 10 Sesiones Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "500 € ", 
+            "description": "El shiatsu es una técnica de acupresión. Presionamos en los puntos que utiliza la acupuntura, en los canales energéticos, pero lo hacemos con los dedos, liberando así las tensiones físicas y emocionales que generamos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Shiatsu", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El shiatsu es una técnica de acupresión. Presionamos en los puntos que utiliza la acupuntura, en los canales energéticos, pero lo hacemos con los dedos, liberando así las tensiones físicas y emocionales que generamos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: 10 Sesiones Rebirthing", 
+            "duration": 5400, 
+            "price": "720 € ", 
+            "description": "Aprovéchate de este bono y disfruta de la técnica que tiene como herramienta principal la respiración. Trabaja con el inconsciente, las creencias, la imagen que tenemos de nosotros mismos...es una técnica para ampliar la conciencia y evolucionar en el camino espiritual y mental."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: 10 Sesiones Auriculopuntura", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Bono de 10 Sesiones. Es una técnica que trabaja en el pabellón auricular donde tenemos un mapa de todo nuestro cuerpo. Con ella podemos trabajar cualquier órgano y parte de nuestra anatomía, incluso trastornos emocionales"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono Terapias Alternativas: Biomagnetismo", 
+            "duration": 1800, 
+            "price": "300 € ", 
+            "description": "Bono 10 sesiones. Es un proceso externo, no invasivo y no tiene efectos secundarios. Se pueden tratar diversos síntomas y eliminar del cuerpo virus, bacterias, hongos, etc. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Flores De Bach", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Las flores de bach es una terapia que trabaja a nivel energético y trata los aspectos emocionales y mentales para que pasen de su forma negativa a su forma positiva originaria. Esta basada en la relación del alma humana y la manifestación de la enfermedad"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Auriculopuntura", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "La auriculopuntura es una técnica que trabaja en el pabellón auricular donde tenemos un mapa de todo nuestro cuerpo. Con ella podemos trabajar cualquier órgano y parte de nuestra anatomía, incluso trastornos emocionales como el estrés, la ansiedad, etc."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Biomagnetismo", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Terapia que se sirve de los imanes para regular el PH del cuerpo y trabajarlo a nivel energético. Es un proceso externo, no invasivo y no tiene efectos secundarios. Se pueden tratar diversos síntomas y eliminar del cuerpo virus, bacterias, hongos, etc."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Constelaciones Familiares", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Es un método de trabajo que sostiene que muchos de nuestros problemas físicos, mentales o espirituales tienen su raíz en la historia de nuestra familia. Se trabaja con una representación de la familia en una consulta privada sirviendose de muñecos como representantes."
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "adid": null, 
+    "name": "Cebreros 88", 
+    "name_of_contact": "Cebreros 88", 
+    "scrape_page": "https://www.bucmi.com/cebreros88", 
+    "business_website": "https://www.bucmi.com/cebreros88", 
+    "areas_covered": null, 
+    "description": "Cebreros 88 es una Barbería y Peluquería Masculina, situada en el pintoresco barrio de la latina, ofrece servicios en exclusiva para el hombre tales como cortes de pelo, afeitado de barba a navaja. Todo ello con el compromiso de los mejores profesionales", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963225574304385.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963225575241938.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963225579304383.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963225578367074.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963225579460616.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963225580241859.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963225575398149.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cebreros, 88", 
+    "city": "Madrid", 
+    "zipcode": "28011", 
+    "formatted_address": "C/ Cebreros, 88, Madrid, 28011", 
+    "country": "es", 
+    "office_number": "914792434", 
+    "office_number2": null, 
+    "mobile_number": "678087135", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4044578000", 
+    "longitude": "-3.7493977000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963244648626529.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Arreglo De Barba", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "¿Te gustaría tener una barba con estilo y cuidada? Reserva nuestro servicio de Arreglo de Barba y nuestros profesionales se encargarán de darle el toque mágico a tu barba para conseguir el resultado perfecto. Se realiza a tijera o maquinilla."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Afeitado Y Masaje Facial", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "¿Te apetece lucir un afeitado profesional? ¡Reserva este servicio! Incluye: afeitado clásico a navaja con toallas calientes, serum reparador y masaje facial para finalizar. Estarás perfecto para cualquier ocasión."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre A Navaja", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "¿A qué esperas para reservar la última técnica para cortar el pelo? Nuestros profesionales te realizarán el corte a navaja que desees. Te ofrecemos el mejor acabado. El servicio también incluye lavado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre A Navaja Y Afeitado", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "¡Reserva nuestro pack de corte de pelo para hombre con navaja y afeitado! Disfruta de dos de nuestros mejores servicios. Gracias a la técnica con navaja, podrás lucir un corte clásico realizado. Además, saldrás afeitado perfectamente de nuestra barbería."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "¿Te gustaría tener una barba con estilo y cuidada? Reserva nuestro servicio de Arreglo de Barba y nuestros profesionales se encargarán de darle el toque mágico a tu barba para conseguir el resultado perfecto. Se realiza a tijera o maquinilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "¡Déjate asesorar por los mejores profesionales y reserva nuestro corte de pelo para hombre! Te realizaremos el corte que más te guste y te aconsejaremos en todo lo que necesites. El servicio también incluye el lavado y el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre A Tijera", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "¡Cambia el look de tu pelo reservando nuestro corte de pelo para hombre con tijera! Este servicio incluye corte y peinado con productos de acabado. No incluye el lavado. No lo dudes más y ponte en manos de nuestros profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Y Masaje Facial", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "¿Te apetece lucir un afeitado profesional? ¡Reserva este servicio! Incluye: afeitado clásico a navaja con toallas calientes, serum reparador y masaje facial para finalizar. Estarás perfecto para cualquier ocasión."
+        }
+    ]
+}

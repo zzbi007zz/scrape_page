@@ -1,0 +1,101 @@
+{
+    "adid": null, 
+    "name": "Clínica Albertos", 
+    "name_of_contact": "Clínica Albertos", 
+    "scrape_page": "https://www.bucmi.com/clinicaalbertos", 
+    "business_website": "https://www.bucmi.com/clinicaalbertos", 
+    "areas_covered": null, 
+    "description": "Tú también puedes confiar en nuestra capacidad profesional y en nuestra tecnología para realizar los tratamientos (de belleza y de cirugía) más avanzados y eficaces.Para nosotros, como para ti, tu imagen es importante.", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ferrocarril, 4", 
+    "city": "Valladolid", 
+    "zipcode": "47001", 
+    "formatted_address": "C/ Ferrocarril, 4, Valladolid, 47001", 
+    "country": "es", 
+    "office_number": "983354613", 
+    "office_number2": null, 
+    "mobile_number": "655472823", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6515678000", 
+    "longitude": "-4.7270876000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810741647495537.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Peeling Facial", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "El objetivo de este tratamiento es renovar las capas de tu piel y poder así eliminar todo tipo de imperfecciones y favorecer el color uniforme. Mediante una exfoliación profunda de la piel permite aportarle un efecto luminoso y joven a la misma. Se recomienda para tratar arrugas, acné, flacidez , manchas cutáneas entre otros muchos usos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Sesión De Mesoterapia", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Se emplea la inyección de distintas sustancias y medicamentos para tratar una variedad de dolencias. Los medicamentos son elegidos según la dolencia que se vaya a tratar. Este tratamiento ha resultado ser efectivo para dolencias tales como la reducción de grasa,estrías, flacidez, acné o cicatrices, entre otras."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Lifting 20 Hilos Tensores", 
+            "duration": 1800, 
+            "price": "350 € ", 
+            "description": "Con este lifting facial 20 hilos tensores de sustentación podrás recuperar esa piel tersa y firme que tanto ansías. Este lifting facial permite realizar un efecto lifting en el rostro, reafirmando el óvalo facial gracias a los hilos reabsorbibles, sin cirugía. Ponte en manos de profesionales especializados. ¡Reserva ya online y ahorra tiempo!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Células Madre", 
+            "duration": 3600, 
+            "price": "1500 € ", 
+            "description": "Tratamos distintos casos como los capilares, siendo este el más demandado. Consiste en separar las células de una muestra de tejido que se obtiene de la parte trasera del cuello y que con el tratamiento correspondiente promueve el crecimiento del vello al inyectarlo. También se utiliza para casos como cicatrices, estrias entre otras. Consulta con el profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar Células Madre", 
+            "duration": 3600, 
+            "price": "1500 € ", 
+            "description": "Tratamos distintos casos como los capilares, siendo este el más demandado. Consiste en separar las células de una muestra de tejido que se obtiene de la parte trasera del cuello y que con el tratamiento correspondiente promueve el crecimiento del vello al inyectarlo. También se utiliza para casos como cicatrices, estrias entre otras. Consulta con el profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Peeling Facial", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "El objetivo de este tratamiento es renovar las capas de tu piel y poder así eliminar todo tipo de imperfecciones y favorecer el color uniforme. Mediante una exfoliación profunda de la piel permite aportarle un efecto luminoso y joven a la misma. Se recomienda para tratar arrugas, acné, flacidez , manchas cutáneas entre otros muchos usos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Sesión De Mesoterapia", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Se emplea la inyección de distintas sustancias y medicamentos para tratar una variedad de dolencias. Los medicamentos son elegidos según la dolencia que se vaya a tratar. Este tratamiento ha resultado ser efectivo para dolencias tales como la reducción de grasa,estrías, flacidez, acné o cicatrices, entre otras."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Con Toxina Botulínica", 
+            "duration": 1800, 
+            "price": "350 € ", 
+            "description": "Este tratamiento facial consiste en inyectar toxina botulínica en el tercio superior facial, obteniéndose un efecto relajado, tónico y rejuvenecido del rostro, todo ello sin ningún tipo de cirugía. Además de esto , la toxina botulínica se usa en ocasiones para tratar la migraña crónica o la distonia cervical. Ponte en las manos de nuestros profesionales especializados. ¡Reserva ya tu cita!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Lifting 20 Hilos Tensores", 
+            "duration": 1800, 
+            "price": "350 € ", 
+            "description": "Con este lifting facial 20 hilos tensores de sustentación podrás recuperar esa piel tersa y firme que tanto ansías. Este lifting facial permite realizar un efecto lifting en el rostro, reafirmando el óvalo facial gracias a los hilos reabsorbibles, sin cirugía. Ponte en manos de profesionales especializados. ¡Reserva ya online y ahorra tiempo!"
+        }
+    ]
+}

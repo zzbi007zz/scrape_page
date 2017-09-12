@@ -1,0 +1,123 @@
+{
+    "adid": null, 
+    "name": "Trazos Madrid", 
+    "name_of_contact": "Trazos Madrid", 
+    "scrape_page": "https://www.bucmi.com/trazos", 
+    "business_website": "https://www.bucmi.com/trazos", 
+    "areas_covered": null, 
+    "description": "Trazos es un Salón de Belleza y Peluquería con encanto, ubicado en Ramón y Cajal. Lo componen profesionales de la talla de los mejores, además contamos con buenos precios y tratamientos de calidad. Nos gusta verte bien y nos gusta más ayudarte a ello.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020220307318001.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020220306380081.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020220310130376.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020220313298723.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020220315330207.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020220313455036.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020220314548878.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28034", 
+    "formatted_address": "Madrid, 28005, Madrid, Madrid, Madrid, Madrid, Madrid, 28032, Madrid, 28013, Madrid, 28008, Madrid, 28011, Madrid, 28009, Madrid, 28034, Madrid, 28034", 
+    "country": "es", 
+    "office_number": "913581977", 
+    "office_number2": null, 
+    "mobile_number": "607989455", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4868855000", 
+    "longitude": "-3.6900682000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636022860286355599.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿Quieres lucir un cabello perfecto? Reserva en nuestro centro y déjate asesorar por los mejores profesionales. El servicio incluye corte moderno, lavado y champú especifico. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Taninoplastia Pelo Corto", 
+            "duration": 5400, 
+            "price": "125 € ", 
+            "description": "¿Necesitas un alisado de larga duración? ¡Reserva nuestra Taninoplastia! Está hecho de tatino un polifenol de origen vegetal encontrado en varios organismo vegetales. Podrás lucir un cabello suave, liso y brillante durante 4 meses."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antiedad (Corriente Galvánica)", 
+            "duration": 900, 
+            "price": "25 € ", 
+            "description": "¿Te gustaría verte mas joven en 10 minutos? este tratamiento es perfecto para combatir el envejecimiento a base de geles específicos y con ayuda de las corrientes galvánicas con más penetración que cualquier cosmético habitual."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿Quieres lucir un cabello perfecto? Reserva en nuestro centro y déjate asesorar por los mejores profesionales. El servicio incluye corte moderno, lavado y champú especifico. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "¡Cambia el color y el estilo de tu pelo reservando este servicio! No lo dudes más y ponte en manos de profesionales expertos. El servicio incluye mechas, corte, masaje craneal y peinado. Servicio exclusivo para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "64 € ", 
+            "description": "Disfruta de nuestro pack en peluquería que incluye: mechas, corte de pelo, masaje craneal y peinado. ¿A qué estás esperando para reservar? No encontrarás un servicio tan completo por este precio en otro centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "59 € ", 
+            "description": "¡Luce un pelo perfecto reservando nuestro pack de mechas, corte y peinado! No te lo pienses más, no encontrarás un pack tan completo a este precio. ¡Reserva! El servicio incluye mechas, corte, masaje craneal y peinado. Exclusivo para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Taninoplastia Media Melena", 
+            "duration": 7200, 
+            "price": "160 € ", 
+            "description": "La taninoplastia es lo último en alisados y es de origen natural, está hecho de tatino un polifenol de origen vegetal encontrado en varios organismo vegetales. Perfecto para lucir un cabello sedoso, brillo, liso, sin químicos. Dura 4 meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Taninoplastia Pelo Corto", 
+            "duration": 5400, 
+            "price": "125 € ", 
+            "description": "¿Necesitas un alisado de larga duración? ¡Reserva nuestra Taninoplastia! Está hecho de tatino un polifenol de origen vegetal encontrado en varios organismo vegetales. Podrás lucir un cabello suave, liso y brillante durante 4 meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Taninoplastia Pelo Largo", 
+            "duration": 9000, 
+            "price": "185 € ", 
+            "description": "¿Necesitas un alisado de larga duración? ¡Reserva nuestra Taninoplastia! Está hecho de tatino un polifenol de origen vegetal encontrado en varios organismo vegetales. Podrás lucir un cabello suave, liso y brillante durante 4 meses."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿Quieres lucir un cabello perfecto? Reserva en nuestro centro y déjate asesorar por los mejores profesionales. El servicio incluye corte moderno, lavado y champú especifico. Te encantará el resultado."
+        }
+    ]
+}

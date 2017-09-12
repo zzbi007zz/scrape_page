@@ -1,0 +1,256 @@
+{
+    "adid": null, 
+    "name": "La Pelu de Tirso", 
+    "name_of_contact": "La Pelu de Tirso", 
+    "scrape_page": "https://www.bucmi.com/lapeludetirso", 
+    "business_website": "https://www.bucmi.com/lapeludetirso", 
+    "areas_covered": null, 
+    "description": "La Pelu de Tirso está ubicada en Calle de la Espada 4, al lado de la Plaza de Tirso de Molina de Madrid. Fundada por Adolfo Parrilla, es una peluquería Madrileña de lo más moderna que ofrece entre otros tratamientos de alisados capilares según el tipo de cabello, barber-shop con diseño de barba y corte a navaja, servicios estéticos de depilación y esmaltado de uñas, y tattoo studio. Con un horario de Lunes a Sábado, en La Pelu de Tirso podrás disfrutar de un ambiente distendido e informal mientras recibes un asesoramiento personalizado en este original espacio de cutworking.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635472612295209557.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636348737638863726.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636348737689488733.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636348742154668939.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636348742253891318.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636348742283736204.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636348743010950547.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "35", 
+    "hqdb_review_score": "9,1", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Toboso, 111", 
+    "city": "Madrid", 
+    "zipcode": "28012", 
+    "formatted_address": "C/ Toboso, 111, Madrid, 28012", 
+    "country": "es", 
+    "office_number": "911568050", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4118145000", 
+    "longitude": "-3.7047978000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636348753541528868.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Y Peinado Corto/Media Melena", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Cambia de look y ponte guap@ con nuestro pack de color y peinado. Sea cual sea el estilo que buscas, en La Pelu de Tirso, daremos con ello y conseguiremos que te sientas más guapa que nunca. El servicio incluye lavado, color y peinado corto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Si te apetece un cambio de look o simplemente sanear tu cabello, reserva online un corte de pelo en La Pelu de Tirso. Siéntete especial y único. Degradamos a tijera y navaja como siempre se ha hecho, porque antes no había máquinas, todo era 'hand made' hecho a mano. Asesoramiento personalizado en La Pelu de Tirso. El servicio incluye lavado con champú específico, corte con asesoramiento y secado natural con marcado. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Atrévete a cambiar con La Pelu de Tirso, o simplemente anímate a sanar tus puntas con un corte de pelo. El servicio de corte mujer no incluye el peinado. En el caso de querer peinado o alguna mascarilla especial, consulte con su profesional por posibles suplementos. El servicio incluye lavado con champú específico, acondicionador, corte con asesoramiento y secado natural para eliminar la humedad del cabello. ¡Repetirás!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte, Peinado Y Tratamiento Hidratante", 
+            "duration": 3600, 
+            "price": "51 € ", 
+            "description": "Ponte guapa y cambia tu look de la mano de los mejores profesionales. Realizamos corte de pelo con asesoramiento personalizado, lavado con champú especifico de tratamiento, serum, mascarilla, tratamiento especifico hidratante y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Corto/Media Melena", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Cambia de look y ponte guap@ con nuestro pack de color y peinado. Sea cual sea el estilo que buscas, en La Pelu de Tirso, daremos con ello y conseguiremos que te sientas más guapa que nunca. El servicio incluye lavado, color y peinado corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Cambia de look y ponte guap@ con nuestro pack de color y peinado. Sea cual sea el estilo que buscas, en La Pelu de Tirso, daremos con ello y conseguiremos que te sientas más guapa que nunca. El servicio incluye lavado, color y peinado medio."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Peinado Y Tratamiento Hidratante Pelo Largo", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Cambia de look y ponte guap@ con nuestro pack de color y peinado. Sea cual sea el estilo que buscas, en La Pelu de Tirso, daremos con ello y conseguiremos que te sientas más guapa que nunca. El servicio incluye lavado, color, tratamiento hidratante y peinado largo. En el caso de tener el pelo extralargo, consulte con su profesional por posibles suplementos en el precio final."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Si te apetece un cambio de look o simplemente sanear tu cabello, reserva online un corte de pelo en La Pelu de Tirso. Siéntete especial y único. Degradamos a tijera y navaja como siempre se ha hecho, porque antes no había máquinas, todo era 'hand made' hecho a mano. Asesoramiento personalizado en La Pelu de Tirso. El servicio incluye lavado con champú específico, corte con asesoramiento y secado natural con marcado. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Atrévete a cambiar con La Pelu de Tirso, o simplemente anímate a sanar tus puntas con un corte de pelo. El servicio de corte mujer no incluye el peinado. En el caso de querer peinado o alguna mascarilla especial, consulte con su profesional por posibles suplementos. El servicio incluye lavado con champú específico, acondicionador, corte con asesoramiento y secado natural para eliminar la humedad del cabello. ¡Repetirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño", 
+            "duration": 10800, 
+            "price": "100 € ", 
+            "description": "Olvídate de la plancha y consigue una melena lisa ¿Conoces el placer de lavarte el pelo y tenerlo perfecto en apenas unos toques? Todos nuestros tratamientos de alisados son Libres de Formol ya que cuidamos tu cabello con mucho mimo. Los activos que harán que tengas un cabello reluciente, libre de encrespamiento, suave y con menos volumen durante más de 3 meses es el Ácido Hialurónico y manteca de Cacao. Si tienes un cabello por debajo de la cintura, se cobrará un suplemento de 50€ en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Fashion", 
+            "duration": 10800, 
+            "price": "100 € ", 
+            "description": "¿Conoces el placer de lavarte el pelo y tenerlo perfecto en apenas unos toques? Los activos que harán que tengas un cabello reluciente, libre de encrespamiento, suave y con menos volumen durante más de 4 meses es el Ácido Glicólico, Láctico, Aceite de INCA y de Coco y Quinoa. Todos nuestros tratamientos de alisados son Libres de Formol ya que cuidamos tu cabello con mucho mimo. Si tienes un cabello por debajo de la cintura, se cobrará un suplemento de 50€ en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Para Cabellos Rubios O Con Mechas", 
+            "duration": 10800, 
+            "price": "100 € ", 
+            "description": "Este tratamiento es ideal para cabellos rubios, químicamente tratados o decolorados. Los activos que harán que tengas un cabello reluciente, libre de encrespamiento, suave y con menos volumen durante más de 4 meses es el Ácido Glicólico, Láctico, aceite de Jojoba y pigmentos Violetas para matizar los todos rubios y cobrizos. Todos nuestros tratamientos de alisados son Libres de Formol. Si tienes un cabello por debajo de la cintura, se cobrará un suplemento de 50€ en el salón"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Vegetal Discovery", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "Con una duración de hasta 6 meses, este alisado vegetal hará que tengas la melena que siempre has soñado. Los activos que harán que tengas un cabello reluciente, libre de encrespamiento, suave y con menos volumen es a base de Células Madre. Todos nuestros tratamientos de alisados son Libres de Formol ya que cuidamos tu cabello con mucho mimo. Tratamiento Apto para mujeres embarazadas, niños y personas con problemas de cuero cabelludo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "El bótox Capilar es ideal para la renovación celular de tu cabello. No alisa pero si elimina el escrespamiento por completo, lo vuelve mucho más bonito y joven y reduce el volumen. Trataremos la masa proteica de tu cabello desde dentro. Lucirás un cabello reluciente hasta 3 meses. Siempre libre de Formol para cuidarlo con mucho mismo. Si tienes una melena por debajo de la cintura, se cobrará un suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Californianas, Matiz Y Peinado Corto/Media Melena", 
+            "duration": 7200, 
+            "price": "79 € ", 
+            "description": "Da un toque de luz y color a tu pelo con las mechas californianas: degradado del pelo con un aspecto muy natural. Además, matizan tu melena para que el resultado sea perfecto. Incluye peinado. El servicio incluye lavado con champú específico, mechas, matizado y secado natural para eliminar la humedad. SI incluye peinado. Reserva online en tan solo tres clics y al mejor precio. Conseguiremos el look perfecto para ti. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Californianas, Matiz Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "81 € ", 
+            "description": "Da un toque de luz y color a tu pelo con las mechas californianas: degradado del pelo con un aspecto muy natural. Además, matizan tu melena para que el resultado sea perfecto. Incluye peinado. El servicio incluye lavado con champú específico, mechas, matizado y secado natural para eliminar la humedad. SI incluye peinado. Reserva online en tan solo tres clics y al mejor precio. Conseguiremos el look perfecto para ti. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Descubre el look que más va contigo, gracias a nuestros profesionales. Este pack incluye asesoramiento personalizado, corte de pelo, lavado, acabado y arreglo de barba, realizado a mano y a tijera para conseguir el mejor acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinar Corto/Media Melena", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Atrévete a cambiar con La Pelu de Tirso, o simplemente anímate a sanar tus puntas con un corte de pelo. El servicio de corte mujer también incluye el peinado. En el caso de querer alguna mascarilla especial, consulte con su profesional por posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Atrévete a cambiar con La Pelu de Tirso, o simplemente anímate a sanar tus puntas con un corte de pelo. El servicio de corte mujer también incluye el peinado. En el caso de querer alguna mascarilla especial, consulte con su profesional por posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Peinado Y Tratamiento Hidratante", 
+            "duration": 3600, 
+            "price": "51 € ", 
+            "description": "Ponte guapa y cambia tu look de la mano de los mejores profesionales. Realizamos corte de pelo con asesoramiento personalizado, lavado con champú especifico de tratamiento, serum, mascarilla, tratamiento especifico hidratante y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Extensiones De Cabello Natural", 
+            "duration": 7200, 
+            "price": "179 € ", 
+            "description": "¿Buscas aportar a tu cabello más longitud? ¿Sueñas con lucir una melena con volumen? ¿O quieres cubrir zonas con poco pelo? En La Pelu de Tirso te ofrecemos las extensiones de pelo natural con mejor calidad para que estés perfecta. El precio puede variar según la longitud y volumen que se quiere conseguir."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Las nuevas y actuales tendencias sobre el cabello las encuentras en La Pelu de Tirso. Puedes hacer un cambio más radical optando por mechas de contraste, o bien, puedes escoger una tonalidad natural e iluminar tu cabello realzando tus rasgos con unos reflejos. El servicio no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Si quieres iluminar tu cabello sin ser esclava del color, las mechas californianas es tu mejor elección. El servicio solamente incluye las mechas californianas. No incluye el matiz."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Matiz", 
+            "duration": 3600, 
+            "price": "64 € ", 
+            "description": "Da un toque de luz y color a tu pelo con las mechas californianas: degradado del pelo con un aspecto muy natural. Además, matizan tu melena para que el resultado sea perfecto. El servicio incluye lavado con champú específico, mechas, matizado y secado natural para eliminar la humedad. NO incluye peinado. Reserva online en tan solo tres clics y al mejor precio. Conseguiremos el look perfecto para ti. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "62 € ", 
+            "description": "Si quieres iluminar tu cabello sin ser esclava del color, las mechas californianas es tu mejor elección. El servicio solamente incluye las mechas californianas, lavado con champú y peinado. No incluye el matiz."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "62 € ", 
+            "description": "Si quieres iluminar tu cabello sin ser esclava del color, las mechas californianas es tu mejor elección. El servicio solamente incluye las mechas californianas, lavado con champú y peinado. No incluye el matiz."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto/Media Melena", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Las nuevas y actuales tendencias sobre el cabello las encuentras en La Pelu de Tirso. Puedes hacer un cambio más radical optando por mechas de contraste, o bien, puedes escoger una tonalidad natural e iluminar tu cabello realzando tus rasgos con unos reflejos. Incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "57 € ", 
+            "description": "Las nuevas y actuales tendencias sobre el cabello las encuentras en La Pelu de Tirso. Puedes hacer un cambio más radical optando por mechas de contraste, o bien, puedes escoger una tonalidad natural e iluminar tu cabello realzando tus rasgos con unos reflejos. Incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte, Tratamiento Hidratante Y Peinad", 
+            "duration": 7200, 
+            "price": "88,5 € ", 
+            "description": "Ilumina y da brillo a tu cabello, realzando tus rasgos y luciendo una melena perfecta. Realizamos mechas con asesoramiento personalizado, lavado con tratamiento de hidratación, sérum, corte de pelo y peinado. ¡Reserva ya tu cita en la pelu más molona del barrio!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Peinado Pelo Corto/Medio", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Si quieres iluminar tu cabello sin ser esclava del color, las mechas californianas es tu mejor elección. El servicio solamente incluye las mechas californianas, lavado con champú y peinado. No incluye el matiz."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "adid": null, 
+    "name": "Espai Salut", 
+    "name_of_contact": "Espai Salut", 
+    "scrape_page": "https://www.bucmi.com/espaisalut", 
+    "business_website": "https://www.bucmi.com/espaisalut", 
+    "areas_covered": null, 
+    "description": "El centro de masajes y terapias naturales Espai Salut, situado en Gràcia, Barcelona, ofrece gran variedad de tratamientos corporales para eliminar la dolencia como pueden ser masajes relajantes o terapéuticos. Además de sesiones de acupuntura.", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bonavista, 4", 
+    "city": "Barcelona", 
+    "zipcode": "08012", 
+    "formatted_address": "C/ Bonavista, 4, Barcelona, 08012", 
+    "country": "es", 
+    "office_number": "931920100", 
+    "office_number2": null, 
+    "mobile_number": "639570060", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3977849000", 
+    "longitude": "2.1590442000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636046097790898330.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Masajes A Elegir 60 Miutos", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Si tienes tendencia a darte un masaje de vez en cuando, ya sea descontracturante o relajante, nuestro bono de 5 sesiones en promoción te puede ayudar a ahorrar. podrás disfrutar de hasta 5 sesiones de masaje a elegir (descontracturante, relajante, terapéutico...) de una hora aproximadamente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones De Acupuntura", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "¡Con nuestro bono de 5 sesiones de acupuntura en promoción todo son ventajas! Podrás realizar una terapia constante para tratar ansiedades y malestares diversos, ahorrando dinero. No pierdas esta oportunidad y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Osteopatía Y Técnica Manipulativas", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Si sueles necesitar una sesión de osteopatía de vez en cuando para tratar molestias de articulaciones, huesos y musculares, te interesa este bono de 5 sesiones de osteopatía y técnicas manipulativas, pensado que puedas disfrutar de una sesión de vez en cuando ahorrando dinero."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Masajes A Elegir 60 Minutos", 
+            "duration": 3600, 
+            "price": "600 € ", 
+            "description": "Y para ahorrarte aún más dinero, puedes reservar nuestro bono de 10 sesiones de masaje de 60 minutos a elegir. Según la necesidad en cada sesión, te aplicaremos un masaje descontracturante, relajante, terapéutico... La duración del masaje es aproximada y puede variar. ¡No dejes pasar la oportunidad!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Reflexología Podal", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Dale un capricho a tus pies y a tu cuerpo de vez en cuando y reserva online nuestro bono de 5 sesiones de reflexología podal. Incluye 5 sesiones de reflexología de una hora de duración aproximadamente, aunque puede variar."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Masajes A Elegir 60 Miutos", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Si tienes tendencia a darte un masaje de vez en cuando, ya sea descontracturante o relajante, nuestro bono de 5 sesiones en promoción te puede ayudar a ahorrar. podrás disfrutar de hasta 5 sesiones de masaje a elegir (descontracturante, relajante, terapéutico...) de una hora aproximadamente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Osteopatía Y Técnica Manipulativas", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Si sueles necesitar una sesión de osteopatía de vez en cuando para tratar molestias de articulaciones, huesos y musculares, te interesa este bono de 5 sesiones de osteopatía y técnicas manipulativas, pensado que puedas disfrutar de una sesión de vez en cuando ahorrando dinero."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía y Técnica Manipulativas", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Para tratar dolores musculares, óseos y de articulaciones, la osteopatía es una de las mejores técnicas. Ven a visitarnos y disfruta de una sesión de osteopatía y técnicas manipulativas al reservar este servicio."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexología Podal", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Relájate y trata dolores diversos a través de la terapia de la reflexología podal. Una técnica de masaje aplicado en los pies, mediante al cual estimulamos puntos concretos conectados con otras zonas de nuestro cuerpo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje A Elegir (Primera Visita)", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Elige el masaje que tú quieras y trata esa dolencia o esa zona en la que necesitas una terapia manual dedicada. Elige entre un masaje relajante, descontracturante, terapéutico, etc. La duración del masaje es 60 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje, Osteopatía Y Acupuntura (Segunda Visita)", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Reserva ahora tu cita online este servicio a elegir entre masaje, osteopatía o Acupuntura. Todo ello para eliminar la dolencia de la zona localizada que requiere manipulación manual. No esperes más y reserva online."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 10 Masajes A Elegir 60 Minutos", 
+            "duration": 3600, 
+            "price": "600 € ", 
+            "description": "Y para ahorrarte aún más dinero, puedes reservar nuestro bono de 10 sesiones de masaje de 60 minutos a elegir. Según la necesidad en cada sesión, te aplicaremos un masaje descontracturante, relajante, terapéutico... La duración del masaje es aproximada y puede variar. ¡No dejes pasar la oportunidad!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 5 Sesiones Reflexología Podal", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Dale un capricho a tus pies y a tu cuerpo de vez en cuando y reserva online nuestro bono de 5 sesiones de reflexología podal. Incluye 5 sesiones de reflexología de una hora de duración aproximadamente, aunque puede variar."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 5 Masajes A Elegir 60 Miutos", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Si tienes tendencia a darte un masaje de vez en cuando, ya sea descontracturante o relajante, nuestro bono de 5 sesiones en promoción te puede ayudar a ahorrar. podrás disfrutar de hasta 5 sesiones de masaje a elegir (descontracturante, relajante, terapéutico...) de una hora aproximadamente."
+        }
+    ]
+}

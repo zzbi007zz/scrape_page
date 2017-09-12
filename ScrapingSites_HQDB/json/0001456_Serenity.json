@@ -1,0 +1,136 @@
+{
+    "adid": null, 
+    "name": "Serenity", 
+    "name_of_contact": "Serenity", 
+    "scrape_page": "https://www.bucmi.com/serenity", 
+    "business_website": "https://www.bucmi.com/serenity", 
+    "areas_covered": null, 
+    "description": "Serenity es un exclusivo SPA y centro de masajes, donde encontrarás todo lo necesario para recargar las pilas y mejorar tu salud de la mano de nuestros experto profesionales. Reserva online nuestros completos tratamientos y ven con quien más te apetezca.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996800702277296.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996800702121004.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996800704152290.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996800705558532.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996800705246114.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996800705871052.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Alona, 7", 
+    "city": "Alicante", 
+    "zipcode": "03005", 
+    "formatted_address": "C/ Alona, 7, Alicante, 03005", 
+    "country": "es", 
+    "office_number": "965947119", 
+    "office_number2": null, 
+    "mobile_number": "633373486", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "38.3466425000", 
+    "longitude": "-0.4937561000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635996800010660524.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Completo Relax", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "El tratamiento completo donde el relax está asegurado y la belleza se ve realzada. Se trata de un masaje de min. con envoltura de chocolate, 30 min. de jacuzzi y lifting facial. Simplemente perfecto. No lo pienses y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fisioterapia Relajante", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Si sientes que tu cuerpo no puede más con el ritmo diario, es el momento de venir a conocernos reservando tu cita ya. Tras una pequeña exploración, nuestros profesionales te realizarán un magnífico masaje miotensivo corrector, para regresar el ritmo diario cargado de energías. Gracias a un ambiente con velas y aromaterapia, vivirás la fisioterapia de una manera diferente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Relax En Pareja", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Para una velada perfecta en pareja reserva ya en Serenity. El tratamiento consiste en 60 min. de masaje con envoltura de chocolate y 60 min de spa a solas con tu pareja disfrutando de un magnífico cava con bombones. El regalo perfecto para esa ocasión especial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Rejuvenecedor", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "No dejes que el paso del tiempo deje marcas en tu piel y experimenta los resultados de la luz polarizada con aparatología Bioptron de alta calidad, en tu rostro. Resultados visibles, completamente indoloro e inocuo. El tratamiento se finaliza con un agradable masaje facial para completar los efectos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Completo Relax", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "El tratamiento completo donde el relax está asegurado y la belleza se ve realzada. Se trata de un masaje de min. con envoltura de chocolate, 30 min. de jacuzzi y lifting facial. Simplemente perfecto. No lo pienses y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Relax", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Se trata del servicio ideal para ti o la persona que más quieras. Se compone de un maravilloso masaje de 60 min. con envoltura de chocolate que finaliza con 30 min. más de jacuzzi privado para conseguir la sensación de relax total."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Relax En Pareja", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "Si quieres sorprender a tu pareja no lo dudes y ven a nuestro centro. El servicio consta de 60 min. de masaje y posteriormente un agradable spa durante 60 min. a solas disfrutando del mejor cava con bombones. Ideal para dejar a tu pareja sin palabras."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Relax En Pareja", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Para una velada perfecta en pareja reserva ya en Serenity. El tratamiento consiste en 60 min. de masaje con envoltura de chocolate y 60 min de spa a solas con tu pareja disfrutando de un magnífico cava con bombones. El regalo perfecto para esa ocasión especial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Rejuvenecedor", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "No dejes que el paso del tiempo deje marcas en tu piel y experimenta los resultados de la luz polarizada con aparatología Bioptron de alta calidad, en tu rostro. Resultados visibles, completamente indoloro e inocuo. El tratamiento se finaliza con un agradable masaje facial para completar los efectos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Y Facial Pretty Woman", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Reserva nuestro completo pack Pretty Woman para que salgas estupenda de nuestro centro, y muy muy relajada. El servicio incluye nuestro masaje ultrarelajante de 60 minutos de duración, con envoltura de chocolate, el tratamiento facial rejuvenecedor y 30 minutos de jacuzzi para que salgas totalmente renovada."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Completo Relax", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "El tratamiento completo donde el relax está asegurado y la belleza se ve realzada. Se trata de un masaje de min. con envoltura de chocolate, 30 min. de jacuzzi y lifting facial. Simplemente perfecto. No lo pienses y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Relax", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Se trata del servicio ideal para ti o la persona que más quieras. Se compone de un maravilloso masaje de 60 min. con envoltura de chocolate que finaliza con 30 min. más de jacuzzi privado para conseguir la sensación de relax total."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Corporal Completo Relax", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "El tratamiento completo donde el relax está asegurado y la belleza se ve realzada. Se trata de un masaje de min. con envoltura de chocolate, 30 min. de jacuzzi y lifting facial. Simplemente perfecto. No lo pienses y reserva tu cita ya."
+        }
+    ]
+}

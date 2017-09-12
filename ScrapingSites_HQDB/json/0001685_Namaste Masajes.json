@@ -1,0 +1,91 @@
+{
+    "adid": null, 
+    "name": "Namaste Masajes", 
+    "name_of_contact": "Namaste Masajes", 
+    "scrape_page": "https://www.bucmi.com/namastemasajes", 
+    "business_website": "https://www.bucmi.com/namastemasajes", 
+    "areas_covered": null, 
+    "description": "Namaste es tu centro de masajes en Sevilla. Ponte en manos de los mejores profesionales en cuestión de masajes y relajación y mimate como mereces. No esperes más para probar nuestros distintos y específicos masajes dependiendo de cada persona. Visitanos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635956519673321402.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635956519720508757.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635956519767854042.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arjona, 7", 
+    "city": "Sevilla", 
+    "zipcode": "41001", 
+    "formatted_address": "C/ Arjona, 7, Sevilla, 41001", 
+    "country": "es", 
+    "office_number": "954354495", 
+    "office_number2": null, 
+    "mobile_number": "677018278", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.4063170000", 
+    "longitude": "-5.9690880000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635956516300250410.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Combinado", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El masaje combinado es el servicio más completo para relajarte y eliminar dolencias varias. Este servicio combina los beneficios del masaje relajante con el descontracturante, aplicando cada cual en la zona deseada. Te costará tanto decidirte que necesitaras venir otro dia. Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje En Pareja", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Para sorprender a esa persona tan querida, reserva tu cita ya en Namaste para pasar un agradable ratito en pareja. Compartiréis la maravillosa sensación de relax que nuestro equipo os proporcionará con su experiencia y profesionalidad. No lo dudes y reserva este masaje y sorprende a tu pareja con un regalo de lo más especial."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Combinado", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El masaje combinado es el servicio más completo para relajarte y eliminar dolencias varias. Este servicio combina los beneficios del masaje relajante con el descontracturante, aplicando cada cual en la zona deseada. Te costará tanto decidirte que necesitaras venir otro dia. Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Para aliviar las tensiones del ritmo diario, ven a nuestro centro a disfrutar de una agradable sesión de masaje. En manos de los mejores profesionales. Sentirás como tus músculos recuperan su flexibilidad recuperando así la sensación de bienestar. Querrás repetir"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje En Pareja", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Para sorprender a esa persona tan querida, reserva tu cita ya en Namaste para pasar un agradable ratito en pareja. Compartiréis la maravillosa sensación de relax que nuestro equipo os proporcionará con su experiencia y profesionalidad. No lo dudes y reserva este masaje y sorprende a tu pareja con un regalo de lo más especial."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Si tienes pensado asistir a alguna competición, o vienes de una y necesitas ponerte a punto en nuestro centro. El mejor masaje para aquellos que realizan frecuentemente una actividad física. Nuestros profesionales personalizarán un masaje para ti enfocado a descargar y preparar tu cuerpo para sacarle el máximo partido."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Si el ritmo del dia a dia te deja sin energía, no dudes en venir a nuestro centro a cargar las pilas. Durante 60 agradables minutos cualquiera de nuestros profesionales conseguirán parar el tiempo para ti. ¿A qué estás esperando? No te arrepentirás."
+        }
+    ]
+}

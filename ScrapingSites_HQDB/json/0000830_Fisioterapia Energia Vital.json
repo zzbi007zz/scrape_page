@@ -1,0 +1,116 @@
+{
+    "adid": null, 
+    "name": "Fisioterapia Energía Vital", 
+    "name_of_contact": "Fisioterapia Energía Vital", 
+    "scrape_page": "https://www.bucmi.com/fisioterapiaevital", 
+    "business_website": "https://www.bucmi.com/fisioterapiaevital", 
+    "areas_covered": null, 
+    "description": "Fisioterapia Energía Vital es un centro especializado en recuperar la salud de nuestros pacientes y preservar y evitar posibles lesiones y enfermedades crónicas en el futuro. Ven a vistarnos a Tetuán y nuestros profesionales cualificados te atenderán.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008290990410822.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008290997285815.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008291000254551.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008291004472965.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008291004785468.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008291018695943.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008291024008440.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Castilla, 45", 
+    "city": "Madrid", 
+    "zipcode": "28039", 
+    "formatted_address": "C/ Castilla, 45, Madrid, 28039", 
+    "country": "es", 
+    "office_number": "914594925", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4531312000", 
+    "longitude": "-3.7074643999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008291508295815.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 4 Sesiones Acupuntura", 
+            "duration": 2700, 
+            "price": "100 € ", 
+            "description": "Bono de 5 sesiones de Acupuntura, es una técnica que consiste en inyectar finas agujas en distintas zonas, según la necesidad a tratar. Si tienes problemas como :estrés, dolor de cabeza, espalda... Ven a vernos y prueba esta terapia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Fisioterapia", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Para evitar dolores musculares, eliminar esas tensiones creadas por el ritmo de vida que llevamos... Fisioterapia Energía Vital, te propone este Bono de 5 sesiones en promoción, si eres de los que acude con regularidad al fisio... ¡No lo dudes!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Masaje Drenante", 
+            "duration": 2700, 
+            "price": "175 € ", 
+            "description": "Bono de 5 sesiones de masaje Drenante realizado de forma manual, trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto tanto para hombres como mujeres. Se nota una eliminación de los líquidos acumulados. Disfruta de este precio excepcional en nuestro centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Masaje Drenante", 
+            "duration": 2700, 
+            "price": "175 € ", 
+            "description": "Bono de 5 sesiones de masaje Drenante realizado de forma manual, trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto tanto para hombres como mujeres. Se nota una eliminación de los líquidos acumulados. Disfruta de este precio excepcional en nuestro centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Drenante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Masaje Drenante realizado de forma manual y que trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto para hombres o mujeres. Se nota la eliminación de los líquidos acumulados y disminución de la inflamación a través de la técnica de Drenaje Linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Masaje Drenante", 
+            "duration": 2700, 
+            "price": "175 € ", 
+            "description": "Bono de 5 sesiones de masaje Drenante realizado de forma manual, trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto tanto para hombres como mujeres. Se nota una eliminación de los líquidos acumulados. Disfruta de este precio excepcional en nuestro centro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Drenante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Masaje Drenante realizado de forma manual y que trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto para hombres o mujeres. Se nota la eliminación de los líquidos acumulados y disminución de la inflamación a través de la técnica de Drenaje Linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Fisioterapia", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Para evitar dolores musculares, eliminar esas tensiones creadas por el ritmo de vida que llevamos... Fisioterapia Energía Vital, te propone este Bono de 5 sesiones en promoción, si eres de los que acude con regularidad al fisio... ¡No lo dudes!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 5 Sesiones Masaje Drenante", 
+            "duration": 2700, 
+            "price": "175 € ", 
+            "description": "Bono de 5 sesiones de masaje Drenante realizado de forma manual, trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto tanto para hombres como mujeres. Se nota una eliminación de los líquidos acumulados. Disfruta de este precio excepcional en nuestro centro."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Drenante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Masaje Drenante realizado de forma manual y que trata problemas de circulación, apósitos de grasa y mejora la celulitis. Apto para hombres o mujeres. Se nota la eliminación de los líquidos acumulados y disminución de la inflamación a través de la técnica de Drenaje Linfático."
+        }
+    ]
+}

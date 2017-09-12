@@ -1,0 +1,132 @@
+{
+    "adid": null, 
+    "name": "Masajes Chamberí", 
+    "name_of_contact": "Masajes Chamberí", 
+    "scrape_page": "https://www.bucmi.com/masajeschamberi", 
+    "business_website": "https://www.bucmi.com/masajeschamberi", 
+    "areas_covered": null, 
+    "description": "Masajes Chamberí, es un Centro de Terapias Naturales, en el que encontrarás un lugar en el que poder relajarte y disfrutar de nuestros tratamientos de belleza. Ofrecemos diversos tipos de tratamientos faciales para recuperar la vitalidad de tu piel.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636047182969457368.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636047183062293939.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "25", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28010", 
+    "formatted_address": "Madrid, 28005, Madrid, 28001, Madrid, 28010", 
+    "country": "es", 
+    "office_number": "915778390", 
+    "office_number2": null, 
+    "mobile_number": "627509944", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4328852000", 
+    "longitude": "-3.6971743999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636047238681177966.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante De 60 Minutos", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Mímate en Masajes Chamberí y disfruta de un agradable masaje de 60 minutos con el que devolveremos a tu piel el aspecto joven y luminoso, aportando vitalidad, activando tus sentidos al tiempo que te relajamos para que te cargues de energía para afrontar el ritmo frenético del día a día. Sumérgete en un universo de relax y bienestar de la mano de los mejores profesionales titulados. Desconecta de tu rutina diaria y olvídate del estrés. Saldrás renovad@ del Centro y conseguirás descansar mejor por las noches."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones Tto. Corporal Tei System", 
+            "duration": 3600, 
+            "price": "230 € ", 
+            "description": "Magnífico bono de 6 sesiones de termoestimulación, gracias al efectivo equipo de Tei System. En Masajes Chamberi contamos con lo último en aparatología. De esta manera podrás comprobar resultados reafirmantes y reductores. Un efecto lipolítico en focos localizados de grasa y en la celulitis. Además, el calor mejora la circulación, elimina toxinas... ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Notarás los resultados desde la primera sesión!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Muri Shinai", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Se trata de un tratamiento japones de rejuvenecimiento facial de gran alcance que aporta belleza,salud y luminosidad al rostro.En el proceso se remueven las toxinas de tu rostro, reparando el tejido. Es ideal para prevenir y reducir el impacto del proceso de envejecimiento. ¿Quieres lucir una piel mucho más tersa y joven? Ven a tu Centro de Masajes Chamberí y ponte en manos de nuestros mejores profesionales. Reserva tu cita cómodamente online en Bucmi."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 6 Sesiones Tto. Corporal Tei System", 
+            "duration": 3600, 
+            "price": "230 € ", 
+            "description": "Magnífico bono de 6 sesiones de termoestimulación, gracias al efectivo equipo de Tei System. En Masajes Chamberi contamos con lo último en aparatología. De esta manera podrás comprobar resultados reafirmantes y reductores. Un efecto lipolítico en focos localizados de grasa y en la celulitis. Además, el calor mejora la circulación, elimina toxinas... ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Notarás los resultados desde la primera sesión!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Antiedad Muri Shinai", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Se trata de un tratamiento japones de rejuvenecimiento facial de gran alcance que aporta belleza,salud y luminosidad al rostro.En el proceso se remueven las toxinas de tu rostro, reparando el tejido. Es ideal para prevenir y reducir el impacto del proceso de envejecimiento. ¿Quieres lucir una piel mucho más tersa y joven? Ven a tu Centro de Masajes Chamberí y ponte en manos de nuestros mejores profesionales. Reserva tu cita cómodamente online en Bucmi."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante 45M", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Si sientes que tu cuerpo no puede seguir tu ritmo no lo pienses mas y reserva tu cita ya. Este es un servicio ideal para tratar dolores musculares, sea cual sea su origen. ¿Necesitas aliviar alguna de tus dolencias? Ven a tu Centro de Masajes Chamberí y ponte en manos de nuestros mejores profesionales titulados. Sumérgete en un universo de relax y bienestar. Dí adiós a esas molestias y dolencias causadas por el ejercicio físico o por el estrés continuo de la rutina diaria. Saldrás renovad@. Reserva tu cita."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Para Piernas Cansadas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "En Masajes Chamberí ponemos a tu disposición este masaje manual ideal para la pesadez de piernas o piernas cansadas. Revitaliza aportando sensación de ligereza y bienestar. Ven a tu Centro de Masajes Chamberí y ponte en manos de nuestros mejores profesionales. Reserva ahora."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante Aromático 60M", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Este masaje utiliza las propiedades terapéuticas de los aceites esenciales y proporciona una sensación de relajación profunda y suavidad corporal. Gracias a la conexión directa que hay entre el centro olfativo y el sistema límbico ( parte del cerebro donde se encuentran las emociones), este tipo de masaje influye sobre las emociones del paciente.R"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante De 30 Min", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "El servicio incluye una sesión de 30 minutos de masaje relajante para eliminar tensiones después de un duro y largo día de trabajo.Sumérgete en un universo de relax y bienestar de la mano de los mejores profesionales titulados Haz tu reserva online y no te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante De 60 Minutos", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Mímate en Masajes Chamberí y disfruta de un agradable masaje de 60 minutos con el que devolveremos a tu piel el aspecto joven y luminoso, aportando vitalidad, activando tus sentidos al tiempo que te relajamos para que te cargues de energía para afrontar el ritmo frenético del día a día. Sumérgete en un universo de relax y bienestar de la mano de los mejores profesionales titulados. Desconecta de tu rutina diaria y olvídate del estrés. Saldrás renovad@ del Centro y conseguirás descansar mejor por las noches."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante Y Sesión De Reiki", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Para la relajación y renovación total reserva tu cita en Masajes Chamberí para una sesión combinada de masaje relajante con reiki. Querrás repetir. Sumérgete en un universo de relax y bienestar de la mano de los mejores profesionales titulados. Desconecta de tu rutina diaria y olvídate del estrés. Saldrás renovad@ del Centro y conseguirás descansar mejor por las noches. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! R"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 6 Sesiones Tto. Corporal Tei System", 
+            "duration": 3600, 
+            "price": "230 € ", 
+            "description": "Magnífico bono de 6 sesiones de termoestimulación, gracias al efectivo equipo de Tei System. En Masajes Chamberi contamos con lo último en aparatología. De esta manera podrás comprobar resultados reafirmantes y reductores. Un efecto lipolítico en focos localizados de grasa y en la celulitis. Además, el calor mejora la circulación, elimina toxinas... ¡No lo dudes y reserva ya tu cita cómodamente online! ¡Notarás los resultados desde la primera sesión!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Facial Antiedad Muri Shinai", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Se trata de un tratamiento japones de rejuvenecimiento facial de gran alcance que aporta belleza,salud y luminosidad al rostro.En el proceso se remueven las toxinas de tu rostro, reparando el tejido. Es ideal para prevenir y reducir el impacto del proceso de envejecimiento. ¿Quieres lucir una piel mucho más tersa y joven? Ven a tu Centro de Masajes Chamberí y ponte en manos de nuestros mejores profesionales. Reserva tu cita cómodamente online en Bucmi."
+        }
+    ]
+}

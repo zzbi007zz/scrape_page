@@ -1,0 +1,110 @@
+{
+    "adid": null, 
+    "name": "Centro Médico Castilla", 
+    "name_of_contact": "Centro Médico Castilla", 
+    "scrape_page": "https://www.bucmi.com/medicocastilla", 
+    "business_website": "https://www.bucmi.com/medicocastilla", 
+    "areas_covered": null, 
+    "description": "Cerca de Plaza Castilla, este centro médico está liderado por la Dra. Xiomara Natalia Moiset. Ofrecemos una calidad exclusiva en nuestros servicios y unos profesionales excelentes para que puedas conseguir unos resultados increíbles. ¡Ven a visitarnos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930278341679382.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930278357460594.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930278382929268.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930278414026197.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930278433608487.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930278455483404.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930278491489546.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930278510708243.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "910146828", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4702323000", 
+    "longitude": "-3.6930225999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635974631333782836.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 6 Sesiones Depilación Láser Axilas O Ingles", 
+            "duration": 1800, 
+            "price": "240 € ", 
+            "description": "Centro Médico Castilla te ofrece la depilación más duradera y efectiva con el láser diodo LightSheer. ¡Consigue la suavidad deseada en axilas o ingles con este pack de 6 sesiones por sólo 240 euros!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Reductor Anticelulítico Reafirmante", 
+            "duration": 3600, 
+            "price": "17 € ", 
+            "description": "Este masaje es ideal para eliminar la acumulación de grasa localizada y así conseguir una mejor figura, todo ello sin necesidad de cirugía. ¡Elimina esos pequeños complejos gracias a los profesionales del Centro Médico Castilla!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Corporal", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "El tratamiento incluye ultradermolipólisis y un masaje reductor con presoterapia y plataforma vibratoria. Confía en Centro Médico Castilla y observarás resultados eficaces."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rejuvenecimiento Facial", 
+            "duration": 2700, 
+            "price": "120 € ", 
+            "description": "Este servicio permite un rejuvenecimiento del rostro con Ácido Hialurónico Vitaminas, Ozono y Mascarilla con un efecto Lifting 1 milímetro de aplicación. ¡Aprovecha este tratamiento y muy pronto verás los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3S Tto Corporal De Varices Con Escleroterapia", 
+            "duration": 1800, 
+            "price": "300 € ", 
+            "description": "Bono de 3 sesiones. Tratamiento efectivo y sin requerir la cirugía para conseguir una piernas perfectas. Las sesiones son un mililitro. Sólo se aceptan un bono por persona. En el procedimiento se inyecta una solución en las venas con varices y a la larga desaparecen. Se elimina cualquier tamaño y la recuperación es muy rápida, no requiere reposo ni hospitalización."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reductor Anticelulítico Reafirmante", 
+            "duration": 3600, 
+            "price": "17 € ", 
+            "description": "Este masaje es ideal para eliminar la acumulación de grasa localizada y así conseguir una mejor figura, todo ello sin necesidad de cirugía. ¡Elimina esos pequeños complejos gracias a los profesionales del Centro Médico Castilla!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Reductor Corporal", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "El tratamiento incluye ultradermolipólisis y un masaje reductor con presoterapia y plataforma vibratoria. Confía en Centro Médico Castilla y observarás resultados eficaces."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Rejuvenecimiento Facial", 
+            "duration": 2700, 
+            "price": "120 € ", 
+            "description": "Este servicio permite un rejuvenecimiento del rostro con Ácido Hialurónico Vitaminas, Ozono y Mascarilla con un efecto Lifting 1 milímetro de aplicación. ¡Aprovecha este tratamiento y muy pronto verás los resultados!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 3S Tto Corporal De Varices Con Escleroterapia", 
+            "duration": 1800, 
+            "price": "300 € ", 
+            "description": "Bono de 3 sesiones. Tratamiento efectivo y sin requerir la cirugía para conseguir una piernas perfectas. Las sesiones son un mililitro. Sólo se aceptan un bono por persona. En el procedimiento se inyecta una solución en las venas con varices y a la larga desaparecen. Se elimina cualquier tamaño y la recuperación es muy rápida, no requiere reposo ni hospitalización."
+        }
+    ]
+}

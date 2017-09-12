@@ -1,0 +1,282 @@
+{
+    "adid": null, 
+    "name": "Beauty LM", 
+    "name_of_contact": "Beauty LM", 
+    "scrape_page": "https://www.bucmi.com/beauty-lm", 
+    "business_website": "https://www.bucmi.com/beauty-lm", 
+    "areas_covered": null, 
+    "description": "El centro Beauty LM se encuentra en la zona de Almagro en Madrid. Este salón de belleza ofrece muchos tratamientos faciales, corporales, masajes y servicios de manicura y pedicura. Aquí las palabras claves son calidad y profesionalidad. Todos los productos son de alta calidad para asegurar el respeto de la piel hasta para las más sensibles. La marca Essie, muy famosa en el mercado, es sinónimo de profesionalidad para asegurar siempre un resultado perfecto e impecable. Este es el lugar perfecto para regalarse momentos de relax y de bienestar, dedica tiempo para vivir un experiencia de belleza a 360 grados.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636111048109315338.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636111048109159112.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636111048109002867.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636111048109627872.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636111048110252869.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "25", 
+    "hqdb_review_score": "8,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Hermosilla, 133", 
+    "city": "Madrid", 
+    "zipcode": "28010", 
+    "formatted_address": "C/ Hermosilla, 133, Madrid, 28010", 
+    "country": "es", 
+    "office_number": "910249522", 
+    "office_number2": null, 
+    "mobile_number": "674612848", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4355231000", 
+    "longitude": "-3.6954981999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636111048993984768.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5+1 Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Magnífico bono de 5 sesiones más 1 de regalo. Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡Reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5+1 Sesiones Masaje Relajante Espalda", 
+            "duration": 1800, 
+            "price": "144,5 € ", 
+            "description": "Bono de 5 sesiones más 1 de regalo de masaje relajante en la zona de tu espalda. Nuestro equipo de profesionales te ayudará a desconectarte y relajarte, para dejar el estrés y las tensiones del día a día, y disfrutar de un momento solo para ti. Ponte en manos de nuestros profesionales y disfruta de un masaje relajante de 30 minutos de duración. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Con Esmaltado Semipermanente", 
+            "duration": 2700, 
+            "price": "24,9 € ", 
+            "description": "Si necesitas un esmaltado de uñas que dure en el tiempo, tienes que probar una agradable manicura completa con esmaltado semipermanente. El tratamiento comprende cortado y limados de tu uñas, retirada de cutículas, hidratación y esmaltado semipermanente del color que más te guste. Para lucir unas manos bonitas y cuidadas con nosotros, reserva tu cita online con Bucmi.com, para una manicura intacta durante semanas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante Con Aromaterapia", 
+            "duration": 3600, 
+            "price": "37,9 € ", 
+            "description": "Ponte en manos de nuestros profesionales y disfruta de un masaje relajante de cuerpo entero de 60 minutos de duración realizado con aromaterapia para una relajación aún más profunda. Ideal para desconexión y relax, liberar el estrés del día a día y disfrutar de un agradable momento para ti, en el ambiente más propicio para una relajación mental y corporal inigualable. Además, disfrutarás de una experiencia sensorial con nuestros aromas. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Higiene Facial Con Oxigenoterapia Y Manicura", 
+            "duration": 5400, 
+            "price": "58,8 € ", 
+            "description": "Si reservas online esta higiene facial con oxigenoterapia, podrás disfrutar de una manicura de regalo. Luce una piel radiante, bonita y luminosa, libre de impurezas e hidratada de la mano de los profesionales del centro. Además, te realizaremos una manicura con limado, retirada de cutículas, hidratación y esmaltado a elegir entre una amplia gama de colores. Reserva tu cita online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5+1 Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Magnífico bono de 5 sesiones más 1 de regalo. Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡Reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5+1 Sesiones Drenaje Linfático Corporal", 
+            "duration": 2700, 
+            "price": "149,5 € ", 
+            "description": "Un terapia manual en el que se activa el sistema linfático para eliminar así la retención de líquidos y favorecer una mejor circulación y depuración del organismo. Ofrecemos este maravilloso bono en que disfrutas de 5 sesiones más una de regalo. Todo ello en manos de nuestro equipo de profesionales que, a través de movimientos suaves y precisos, conseguirán una mejora de tu estado de salud de forma general. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "29,9 € ", 
+            "description": "Un terapia manual en el que se activa el sistema linfático para eliminar así la retención de líquidos y favorecer una mejor circulación y depuración del organismo. Ofrecemos esta maravillosa sesión de drenaje linfático. Todo ello en manos de nuestro equipo de profesionales que, a través de movimientos suaves y precisos, conseguirán una mejora de tu estado de salud de forma general. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "45,9 € ", 
+            "description": "Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡No lo dudes y reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Belleza: Higiene Facial, Masaje, Manicura", 
+            "duration": 7200, 
+            "price": "97,7 € ", 
+            "description": "Este Pack de Belleza incluye: Higiene Facial con Oxigenoterapia, Masaje Relajante con Aromaterapia de 30 minutos de duración, Manicura Completa Spa, Diseño de Cejas y Depilación con Cera de Labio. ¿Quieres estar perfecta y sentirte bien por dentro y por fuera? Ven a tu Centro de Estética y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y trabajan con productos de alta calidad. ¡Saldrás de nuestro Centro encantada y querrás repetir seguro!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Higiene Facial Con Oxigenoterapia Y Manicura", 
+            "duration": 5400, 
+            "price": "58,8 € ", 
+            "description": "Si reservas online esta higiene facial con oxigenoterapia, podrás disfrutar de una manicura de regalo. Luce una piel radiante, bonita y luminosa, libre de impurezas e hidratada de la mano de los profesionales del centro. Además, te realizaremos una manicura con limado, retirada de cutículas, hidratación y esmaltado a elegir entre una amplia gama de colores. Reserva tu cita online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 5+1 Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Magnífico bono de 5 sesiones más 1 de regalo. Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡Reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 5+1 Sesiones Drenaje Linfático Corporal", 
+            "duration": 2700, 
+            "price": "149,5 € ", 
+            "description": "Un terapia manual en el que se activa el sistema linfático para eliminar así la retención de líquidos y favorecer una mejor circulación y depuración del organismo. Ofrecemos este maravilloso bono en que disfrutas de 5 sesiones más una de regalo. Todo ello en manos de nuestro equipo de profesionales que, a través de movimientos suaves y precisos, conseguirán una mejora de tu estado de salud de forma general. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "29,9 € ", 
+            "description": "Un terapia manual en el que se activa el sistema linfático para eliminar así la retención de líquidos y favorecer una mejor circulación y depuración del organismo. Ofrecemos esta maravillosa sesión de drenaje linfático. Todo ello en manos de nuestro equipo de profesionales que, a través de movimientos suaves y precisos, conseguirán una mejora de tu estado de salud de forma general. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "45,9 € ", 
+            "description": "Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡No lo dudes y reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Belleza: Higiene Facial, Masaje, Manicura", 
+            "duration": 7200, 
+            "price": "97,7 € ", 
+            "description": "Este Pack de Belleza incluye: Higiene Facial con Oxigenoterapia, Masaje Relajante con Aromaterapia de 30 minutos de duración, Manicura Completa Spa, Diseño de Cejas y Depilación con Cera de Labio. ¿Quieres estar perfecta y sentirte bien por dentro y por fuera? Ven a tu Centro de Estética y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y trabajan con productos de alta calidad. ¡Saldrás de nuestro Centro encantada y querrás repetir seguro!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Belleza: Manicura Completa Spa", 
+            "duration": 3600, 
+            "price": "37,9 € ", 
+            "description": "Este Pack de Belleza incluye: Manicura Completa Spa con Exfoliación e Hidratación. ¿Quieres estar perfecta y sentirte bien por dentro y por fuera? Ven a tu Centro de Estética y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y trabajan con productos de alta calidad. Luce unas uñas bonitas, cuidadas y perfectas. Disfruta de unas manos suaves e hidratadas. ¡Saldrás de nuestro Centro encantada y querrás repetir seguro!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje, Manicura Permanente Y Diseño De Cejas", 
+            "duration": 5400, 
+            "price": "58,8 € ", 
+            "description": "Reserva online este super pack de belleza para que estés relajada y radiante. Los profesionales del centro te cuidarán y mimarán como te mereces. El pack incluye un masaje circulatorio de media hora, una manicura permanente completa y para terminar, un diseño y depilación de cejas. Ahora lo importante eres tu."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Essie Gel Couture Y Depilación", 
+            "duration": 5400, 
+            "price": "54,8 € ", 
+            "description": "Reserva online este pack de manicura y pedicura essie gel couture para tener las uñas de manos y pies perfectas ¡Elige el color que más te guste! Además, este pack incluye el diseño y depilación de cejas y labio. Reserva online a través de Bucmi de la forma más cómoda y sencilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje De Espalda Y Manicura Essie Gel Couture", 
+            "duration": 5400, 
+            "price": "44,8 € ", 
+            "description": "Los profesionales de Beauty LM te proponen un pack completo para estar bellísima y preparada para cualquier evento. Esto incluye un masaje relajante para tu espalda con una duración de media hora y una manicura con limado, retirado de cutículas y esmaltado de la marca de máxima calidad Essie Gel Couture. ¡No te pierdes esta oportunidad y reserva ahora en Bucmi.com!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Higiene Facial Con Oxigenoterapia Y Manicura", 
+            "duration": 5400, 
+            "price": "58,8 € ", 
+            "description": "Si reservas online esta higiene facial con oxigenoterapia, podrás disfrutar de una manicura de regalo. Luce una piel radiante, bonita y luminosa, libre de impurezas e hidratada de la mano de los profesionales del centro. Además, te realizaremos una manicura con limado, retirada de cutículas, hidratación y esmaltado a elegir entre una amplia gama de colores. Reserva tu cita online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Con Esmaltado Normal", 
+            "duration": 1800, 
+            "price": "12,9 € ", 
+            "description": "Presume de unas manos bonitas y cuidadas con nosotros. Ven a nuestro centro y disfruta de una agradable manicura completa, que incluye limado de la uña para conseguir la forma deseada, retirada de cutículas y esmaltado normal a tu gusto e hidratación final. Elige el tono de esmalte que más va contigo y ¡te encantarán los resultados! ¡Porque unas manos bonitas y cuidadas son siempre una buena carta de presentación! ¿A qué estás esperando para reservar? ¡Hazlo cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Con Esmaltado Semipermanente", 
+            "duration": 2700, 
+            "price": "24,9 € ", 
+            "description": "Si necesitas un esmaltado de uñas que dure en el tiempo, tienes que probar una agradable manicura completa con esmaltado semipermanente. El tratamiento comprende cortado y limados de tu uñas, retirada de cutículas, hidratación y esmaltado semipermanente del color que más te guste. Para lucir unas manos bonitas y cuidadas con nosotros, reserva tu cita online con Bucmi.com, para una manicura intacta durante semanas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Higiene Facial Con Oxigenoterapia Y Manicura", 
+            "duration": 5400, 
+            "price": "58,8 € ", 
+            "description": "Si reservas online esta higiene facial con oxigenoterapia, podrás disfrutar de una manicura de regalo. Luce una piel radiante, bonita y luminosa, libre de impurezas e hidratada de la mano de los profesionales del centro. Además, te realizaremos una manicura con limado, retirada de cutículas, hidratación y esmaltado a elegir entre una amplia gama de colores. Reserva tu cita online."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5+1 Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Magnífico bono de 5 sesiones más 1 de regalo. Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡Reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5+1 Sesiones Drenaje Linfático Corporal", 
+            "duration": 2700, 
+            "price": "149,5 € ", 
+            "description": "Un terapia manual en el que se activa el sistema linfático para eliminar así la retención de líquidos y favorecer una mejor circulación y depuración del organismo. Ofrecemos este maravilloso bono en que disfrutas de 5 sesiones más una de regalo. Todo ello en manos de nuestro equipo de profesionales que, a través de movimientos suaves y precisos, conseguirán una mejora de tu estado de salud de forma general. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "29,9 € ", 
+            "description": "Un terapia manual en el que se activa el sistema linfático para eliminar así la retención de líquidos y favorecer una mejor circulación y depuración del organismo. Ofrecemos esta maravillosa sesión de drenaje linfático. Todo ello en manos de nuestro equipo de profesionales que, a través de movimientos suaves y precisos, conseguirán una mejora de tu estado de salud de forma general. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "45,9 € ", 
+            "description": "Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡No lo dudes y reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Belleza: Higiene Facial, Masaje, Manicura", 
+            "duration": 7200, 
+            "price": "97,7 € ", 
+            "description": "Este Pack de Belleza incluye: Higiene Facial con Oxigenoterapia, Masaje Relajante con Aromaterapia de 30 minutos de duración, Manicura Completa Spa, Diseño de Cejas y Depilación con Cera de Labio. ¿Quieres estar perfecta y sentirte bien por dentro y por fuera? Ven a tu Centro de Estética y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y trabajan con productos de alta calidad. ¡Saldrás de nuestro Centro encantada y querrás repetir seguro!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Belleza: Manicura Completa Spa", 
+            "duration": 3600, 
+            "price": "37,9 € ", 
+            "description": "Este Pack de Belleza incluye: Manicura Completa Spa con Exfoliación e Hidratación. ¿Quieres estar perfecta y sentirte bien por dentro y por fuera? Ven a tu Centro de Estética y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y trabajan con productos de alta calidad. Luce unas uñas bonitas, cuidadas y perfectas. Disfruta de unas manos suaves e hidratadas. ¡Saldrás de nuestro Centro encantada y querrás repetir seguro!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Higiene Facial Con Oxigenoterapia Y Manicura", 
+            "duration": 5400, 
+            "price": "58,8 € ", 
+            "description": "Si reservas online esta higiene facial con oxigenoterapia, podrás disfrutar de una manicura de regalo. Luce una piel radiante, bonita y luminosa, libre de impurezas e hidratada de la mano de los profesionales del centro. Además, te realizaremos una manicura con limado, retirada de cutículas, hidratación y esmaltado a elegir entre una amplia gama de colores. Reserva tu cita online."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5+1 Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Magnífico bono de 5 sesiones más 1 de regalo. Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡Reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Pack Higiene Facial Con Oxigenoterapia Y Manicura", 
+            "duration": 5400, 
+            "price": "58,8 € ", 
+            "description": "Si reservas online esta higiene facial con oxigenoterapia, podrás disfrutar de una manicura de regalo. Luce una piel radiante, bonita y luminosa, libre de impurezas e hidratada de la mano de los profesionales del centro. Además, te realizaremos una manicura con limado, retirada de cutículas, hidratación y esmaltado a elegir entre una amplia gama de colores. Reserva tu cita online."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 5+1 Higiene Facial Con Oxigenoterapia", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Magnífico bono de 5 sesiones más 1 de regalo. Ven a nuestro centro, ponte en manos de nuestro equipo de profesionales y disfruta de una limpieza de cutis de lo más completa. Incluye un estudio previo de la piel, tratamiento específico para cada tipo de piel, y oxigenoterapia con suero en lugar de agua, para unos resultados inigualables. ¡Presume de una piel sana y radiante! En nuestro centro trabajamos para conseguir los mejores resultados. ¡Reserva a tu cita cómodamente online a través de Bucmi.com!"
+        }
+    ]
+}

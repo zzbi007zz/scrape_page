@@ -1,0 +1,187 @@
+{
+    "adid": null, 
+    "name": "Róal", 
+    "name_of_contact": "Róal", 
+    "scrape_page": "https://www.bucmi.com/peluqueriaroal", 
+    "business_website": "https://www.bucmi.com/peluqueriaroal", 
+    "areas_covered": null, 
+    "description": "Róal es un salón de peluquería y estética ubicado en Arganzuela, Madrid. Disponemos de una amplia oferta de servicios para mejorar el aspecto y la salud de tu cabello. Además, también realizamos tratamientos de estética para ayudarte a verte aún mejor.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041834510564533.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041834514002179.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041834515095944.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041834518377464.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041834515095944.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041834516815129.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041834520252605.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041834521034118.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "7,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "Madrid, 28034, Madrid, 28004, Madrid, 28051, Madrid, 28016, Madrid, 28001, Madrid, 28035, Madrid, Madrid, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "914732016", 
+    "office_number2": null, 
+    "mobile_number": "618631250", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4022495000", 
+    "longitude": "-3.7042880999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636041835296189154.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Exfoliación Corporal E Hidratación Mujer", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "¿Te gustaría poder disfrutar de una piel suave y renovada? Ven a probar este servicio. Primero realizamos una exfoliación por todo el cuerpo. Después, aplicamos la hidratación. Utilizamos productos de la mejor calidad de la marca Germaine de Capuccini. No esperes más y reserva ahora tucita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Bicolor", 
+            "duration": 5400, 
+            "price": "50,4 € ", 
+            "description": "Las mechas en dos tonos (uno más claro y otro más oscuro) son una técnica muy útil para aumentar el efecto de volumen del cabello y darle un aspecto más vivo y animado. Además, las mechas bicolor ayudan a aliviar un poco el aspecto apagado que a veces dejan los tintes. El servicio incluye Lavado, Acondicionador, y secado natural. No incluye peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Plata, Balayage O Californianas", 
+            "duration": 5400, 
+            "price": "40,4 € ", 
+            "description": "El universo de la coloración está en constante innovación, la técnica y la tecnología tienen tantas soluciones para el cabello que no siempre es fácil saber cuáles son las mechas que más te favorecen, en función de tu tono original, tu estilo y también tu fisionomía. Por eso te asesoraremos según que tipo de mecha se adecúa más a ti: mechas de plata, balayage o californianas. El servicio incluye lavado, acondicionador y secado natural. No incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "26,5 € ", 
+            "description": "¿Necesitas un retoque de color? Los profesionales de Roal te ofrecerán un asesoramiento personalizado y darán con el color exacto, el que tu buscas. El servicio incluye lavado con champú y tratamiento de hidratación, acondicionador y secado natural. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Sin Amoniaco Inoa", 
+            "duration": 3600, 
+            "price": "29,5 € ", 
+            "description": "Consigue un color uniforme de la mano de los mejores profesionales gracias a este servicio de color en raíz. El servicio incluye color en raíz, lavado con champú, masaje y crema para que tu pelo quede hidratado. Lucirás una melena perfecta. Reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Ponte guapo y cambia, ven y disfruta de un nuevo corte de pelo, lavado con champú y masaje que te dejará relajado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "¿Te apetece un cambio de look? ¡Reserva nuestro corte de pelo para mujer! Incluye el lavado con champú de tratamiento y masaje. Dinos qué es lo que buscas para tu pelo y nuestros profesionales en peluquería se encargarán del resto. No incluye acondicionador."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Bicolor", 
+            "duration": 5400, 
+            "price": "50,4 € ", 
+            "description": "Las mechas en dos tonos (uno más claro y otro más oscuro) son una técnica muy útil para aumentar el efecto de volumen del cabello y darle un aspecto más vivo y animado. Además, las mechas bicolor ayudan a aliviar un poco el aspecto apagado que a veces dejan los tintes. El servicio incluye Lavado, Acondicionador, y secado natural. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Plata, Balayage O Californianas", 
+            "duration": 5400, 
+            "price": "40,4 € ", 
+            "description": "El universo de la coloración está en constante innovación, la técnica y la tecnología tienen tantas soluciones para el cabello que no siempre es fácil saber cuáles son las mechas que más te favorecen, en función de tu tono original, tu estilo y también tu fisionomía. Por eso te asesoraremos según que tipo de mecha se adecúa más a ti: mechas de plata, balayage o californianas. El servicio incluye lavado, acondicionador y secado natural. No incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "Sea cual sea el peinado que busques, los estilistas de Róal peluqueros conseguirán el peinado que siempre has deseado. ¿Ondas? ¿Melena Lisa? ¡Lo que quieras! El servicio incluye lavado con champú tratante, acondicionador y peinado con secador. La mascarilla y peinar con plancha lleva suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Extralargo", 
+            "duration": 3600, 
+            "price": "18,5 € ", 
+            "description": "¿Quieres lucir perfecta para una ocasión especial? ¡Reserva nuestro servicio de peinado! Incluye el lavado con champú específico, acondicionador y peinado con secador. Sólo tienes que decir qué peinado buscas y nuestros peluqueros se encagarán del resto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "¡Si buscas el peinado perfecto para cualquier evento, este es tu servicio! Incluye el lavado con champú específico, acondicionador y peinado con secador. La mascarilla y peinar con plancha lleva suplemento. Te ofrecemos el mejor resultado para tu cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinardo Pelo Corto", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "¡No lo dudes más y reserva en nuestro centro para que puedas lucir el peinado que mejor se adapte a ti! El servicio incluye el lavado con champú tratante, acondicionador y peinado con secador. En caso de tener un largo superior al indicado, se deberá abonar un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Keratina", 
+            "duration": 10800, 
+            "price": "127 € ", 
+            "description": "¡Reserva ahora! Quítate el encrespamiento y realza el brillo de tu pelo, luciendo un pelo más sano.Todo ello de manos de nuestro equipo de profesionales. El servicio incluye el lavado y secado. Además, te damos un pack de mantenimiento que consta de champú y acondicionador de la marca Alfapars. Dependiendo del largo del pelo el tratamiento puede durar 3 horas o más. Válido para todos los largos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "26,5 € ", 
+            "description": "¿Necesitas un retoque de color? Los profesionales de Roal te ofrecerán un asesoramiento personalizado y darán con el color exacto, el que tu buscas. El servicio incluye lavado con champú y tratamiento de hidratación, acondicionador y secado natural. No incluye peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz Sin Amoniaco Inoa", 
+            "duration": 3600, 
+            "price": "29,5 € ", 
+            "description": "Consigue un color uniforme de la mano de los mejores profesionales gracias a este servicio de color en raíz. El servicio incluye color en raíz, lavado con champú, masaje y crema para que tu pelo quede hidratado. Lucirás una melena perfecta. Reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "26,5 € ", 
+            "description": "¿Necesitas un retoque de color? Los profesionales de Roal te ofrecerán un asesoramiento personalizado y darán con el color exacto, el que tu buscas. El servicio incluye lavado con champú y tratamiento de hidratación, acondicionador y secado natural. No incluye peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "26,5 € ", 
+            "description": "¿Necesitas un retoque de color? Los profesionales de Roal te ofrecerán un asesoramiento personalizado y darán con el color exacto, el que tu buscas. El servicio incluye lavado con champú y tratamiento de hidratación, acondicionador y secado natural. No incluye peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz Sin Amoniaco Inoa", 
+            "duration": 3600, 
+            "price": "29,5 € ", 
+            "description": "Consigue un color uniforme de la mano de los mejores profesionales gracias a este servicio de color en raíz. El servicio incluye color en raíz, lavado con champú, masaje y crema para que tu pelo quede hidratado. Lucirás una melena perfecta. Reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Ponte guapo y cambia, ven y disfruta de un nuevo corte de pelo, lavado con champú y masaje que te dejará relajado."
+        }
+    ]
+}

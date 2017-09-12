@@ -1,0 +1,155 @@
+{
+    "adid": null, 
+    "name": "Peluquería París", 
+    "name_of_contact": "Peluquería París", 
+    "scrape_page": "https://www.bucmi.com/peluqueriaparis", 
+    "business_website": "https://www.bucmi.com/peluqueriaparis", 
+    "areas_covered": null, 
+    "description": "Peluquería París es un espacio dedicado a cuidar tu cabello. Se encuentra ubicado en la zona de Vila de Gràcia, en Barcelona. Te ofrecemos tratamientos pensados en mejorar el aspecto y la salud de tu melena. ¡No lo dudes más y ven a conocernos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636052370893782844.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636052370909721548.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636052371033958503.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636052371121933973.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Puigmarti, 33", 
+    "city": "Barcelona", 
+    "zipcode": "08012", 
+    "formatted_address": "C/ Puigmarti, 33, Barcelona, 08012", 
+    "country": "es", 
+    "office_number": "931299850", 
+    "office_number2": null, 
+    "mobile_number": "632222309", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4027115000", 
+    "longitude": "2.1609942000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636052414857565493.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado De Keratina", 
+            "duration": 10800, 
+            "price": "80 € ", 
+            "description": "¿Quieres una melena lisa, libre de ondas y encrespamiento? Con este tratamiento de alisado de Keratina Brasileño conseguirás la melena que siempre has deseado gracias a las partículas de la keratina alisantes, acabando con lavado y suavizante y aplicando aceite de argán por las puntas. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Y Peinar", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "¿Necesitas retocar tu color? Déjate asesorar por nuestros estilistas y saca el mayor partido a tu melena. El servicio incluye lavado con champú y mascarilla. Además del color y el peinado con secador y cepillo. Trabajamos con productos L'OREAL y SCHWARZKOPF. ¡Te encantará! R"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Luce una manicura perfecta por mucho más tiempo, hasta 3 semanas un esmaltado perfecto. El servicio incluye limado, retirada de cutículas, esmaltado permanente del color que prefieras y masaje con hidratación. R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina", 
+            "duration": 10800, 
+            "price": "80 € ", 
+            "description": "¿Quieres una melena lisa, libre de ondas y encrespamiento? Con este tratamiento de alisado de Keratina Brasileño conseguirás la melena que siempre has deseado gracias a las partículas de la keratina alisantes, acabando con lavado y suavizante y aplicando aceite de argán por las puntas. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Pelo Largo", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Consigue dar brillo e intensidad a tu melena, además no daña el cabello ya que no lleva amoniaco, ven a la Peluquería París y ponte en manos de nuestros estilistas. El servicio incluye baño de color, lavado con champú y mascarilla. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinar", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "¿Necesitas retocar tu color? Déjate asesorar por nuestros estilistas y saca el mayor partido a tu melena. El servicio incluye lavado con champú y mascarilla. Además del color y el peinado con secador y cepillo. Trabajamos con productos L'OREAL y SCHWARZKOPF. ¡Te encantará! R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¡Cambia de look y de corte de pelo! Reserva nuestro corte de pelo asesorado y disfruta de una melena con estilo. El servicio incluye lavado con champú y mascarilla hidratante. No incluye el peinado. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Consigue el mejor asesoramiento de la manos de nuestros expertos profesionales. El servicio incluye el corte y el peinado. Se tendrá que abonar un precio extra en el centro en caso de tener el pelo largo o extralargo. Trabajamos con productos de la gama L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si quieres unas mechas bien hechas, no lo dudes más y déjate aconsejar por las manos de nuestros expertos profesionales. Saldrás encantado con un pelo cuidado y brillante. Reserva hoy mismo de la forma más rápida y cómoda con Bucmi.com.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Consigue unas mechas californianas a la última moda en Peluquería París. Nuestros profesionales te aconsejarán con los mejores productos y tratamiento para tu cabello. Saldrás con un pelo espectacular. No lo dudes más y reserva online rápida y cómodamente con Bucmi.comR"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "¿Te gustaría lucir perfecta para cualquier ocasión? Ven a nuestra Peluquería París y ponte en manos de nuestros estilistas. El servicio incluye lavado con champú y mascarilla, peinado con cepillo y secador. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "17 € ", 
+            "description": "¿Quieres una melena lisa o quizás una melena con ondas? Reserva ahora mismo en Peluquería París y te dejaremos perfecta. El servicio incluye lavado con champú y mascarilla, peinado con cepillo y secador. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina", 
+            "duration": 10800, 
+            "price": "80 € ", 
+            "description": "¿Quieres una melena lisa, libre de ondas y encrespamiento? Con este tratamiento de alisado de Keratina Brasileño conseguirás la melena que siempre has deseado gracias a las partículas de la keratina alisantes, acabando con lavado y suavizante y aplicando aceite de argán por las puntas. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño De Color Pelo Largo", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Consigue dar brillo e intensidad a tu melena, además no daña el cabello ya que no lleva amoniaco, ven a la Peluquería París y ponte en manos de nuestros estilistas. El servicio incluye baño de color, lavado con champú y mascarilla. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinar", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "¿Necesitas retocar tu color? Déjate asesorar por nuestros estilistas y saca el mayor partido a tu melena. El servicio incluye lavado con champú y mascarilla. Además del color y el peinado con secador y cepillo. Trabajamos con productos L'OREAL y SCHWARZKOPF. ¡Te encantará! R"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¡Cambia de look y de corte de pelo! Reserva nuestro corte de pelo asesorado y disfruta de una melena con estilo. El servicio incluye lavado con champú y mascarilla hidratante. No incluye el peinado. Trabajamos con productos L'OREAL y SCHWARZKOPF.R"
+        }
+    ]
+}

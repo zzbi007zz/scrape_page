@@ -1,0 +1,84 @@
+{
+    "adid": null, 
+    "name": "Moove It Chueca", 
+    "name_of_contact": "Moove It Chueca", 
+    "scrape_page": "https://www.bucmi.com/mooveitchueca", 
+    "business_website": "https://www.bucmi.com/mooveitchueca", 
+    "areas_covered": null, 
+    "description": "El Centro de Fitness y Masaje Moove It Chueca, situado en pleno barrio de Chueca ofrece todo tipo de entrenamientos personales y sesiones de electroestimulación para ponerte en forma más rápido, además de sesiones de nutrición para llegar a tu objetivo.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635870684112501122.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635870684196178740.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635870684399104183.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "Madrid, Madrid, Madrid, 28002, Madrid, 28014, Madrid, 28011, Madrid, Madrid, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "917728707", 
+    "office_number2": null, 
+    "mobile_number": "609030506", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4213117000", 
+    "longitude": "-3.6978103000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968539628956945.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 2 Entrenamiento Personal", 
+            "duration": 3600, 
+            "price": "136 € ", 
+            "description": "Déjate asesorar por nuestros profesionales con este bono de 2 sesiones de entrenamiento personalizado para conseguir tus objetivos en tiempo récord. El Bono se puede adquirir una sola vez por persona y el período de vencimiento de la compra es de 60 días a partir de está DISPONIBLE.HORARIO DE MAÑANAS"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono De 4 Sesiones De Electroestimulación 60 Días.", 
+            "duration": 3600, 
+            "price": "100 € ", 
+            "description": "Con este bono de 4 sesiones de electro-estimulación conseguirás entrenar tu cuerpo utilizando impulsos de corriente eléctrica. El bono tiene una caducidad de 60 días desde su primera utilización. El Bono se puede adquirir una sola vez por persona y el período de vencimiento de la compra es de 60 días a partir de está."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono De 8 Sesiones De Electroestimulación 60 Días", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este bono de 8 sesiones de electro-estimulación conseguirás entrenar tu cuerpo utilizando impulsos de corriente eléctrica que penetran más hondo en las capas musculares. El bono tiene una caducidad de 60 días desde su primera utilización. El Bono se puede adquirir una sola vez por persona y el período de vencimiento de la compra es de 60 días a partir de está."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 2 Entrenamiento Personal", 
+            "duration": 3600, 
+            "price": "136 € ", 
+            "description": "Déjate asesorar por nuestros profesionales con este bono de 2 sesiones de entrenamiento personalizado para conseguir tus objetivos en tiempo récord. El Bono se puede adquirir una sola vez por persona y el período de vencimiento de la compra es de 60 días a partir de está DISPONIBLE.HORARIO DE MAÑANAS"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono De 4 Sesiones De Electroestimulación 60 Días.", 
+            "duration": 3600, 
+            "price": "100 € ", 
+            "description": "Con este bono de 4 sesiones de electro-estimulación conseguirás entrenar tu cuerpo utilizando impulsos de corriente eléctrica. El bono tiene una caducidad de 60 días desde su primera utilización. El Bono se puede adquirir una sola vez por persona y el período de vencimiento de la compra es de 60 días a partir de está."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono De 8 Sesiones De Electroestimulación 60 Días", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este bono de 8 sesiones de electro-estimulación conseguirás entrenar tu cuerpo utilizando impulsos de corriente eléctrica que penetran más hondo en las capas musculares. El bono tiene una caducidad de 60 días desde su primera utilización. El Bono se puede adquirir una sola vez por persona y el período de vencimiento de la compra es de 60 días a partir de está."
+        }
+    ]
+}

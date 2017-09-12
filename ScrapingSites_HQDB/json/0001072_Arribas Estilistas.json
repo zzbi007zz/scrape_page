@@ -1,0 +1,336 @@
+{
+    "adid": null, 
+    "name": "Arribas Estilistas", 
+    "name_of_contact": "Arribas Estilistas", 
+    "scrape_page": "https://www.bucmi.com/arribasestilistas", 
+    "business_website": "https://www.bucmi.com/arribasestilistas", 
+    "areas_covered": null, 
+    "description": "Servicios de peluquería y estética integral en Barcelona. No lo dudes, contamos con una amplia experiencia y trabajamos con las mejores marcas para proporcionarte un servicio personalizado y de calidad. ¿Vienes a conocernos? Estamos en Eixample Dret.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635658175909001952.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635658175920877879.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635658175934785057.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "9", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Valencia, 539", 
+    "city": "Barcelona", 
+    "zipcode": "08013", 
+    "formatted_address": "C/ Valencia, 539, Barcelona, 08013", 
+    "country": "es", 
+    "office_number": "932656788", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3971905000", 
+    "longitude": "2.1745888000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966789598806068.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Piernas Completas, Ingles Y Axilas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¡Nuestro pack de depilación más completo! Despídete del vello y consigue un resultado duradero y una piel suave durante semanas. Ponte en manos de nuestro equipo profesional y disfruta de nuestro servicio de depilación con cera. ¡Y olvídate de recurrir de forma diaria a las cuchillas gracias a Arribas Estilistas!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "En Arribas Estilistas también somos especialistas en corte de pelo para él. Ponte en manos de nuestro equipo, te llevarás un corte de pelo a la última, siempre personalizado y adaptado a tus gustos. El servicio incluye lavado, corte, secado y producto de acabado. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Higiene realizada con lámpara de LED y tratamiento específico para cada tipo de piel, extracción de milliums. Si buscas una piel limpia, libre de impurezas y células muertas, este servicio es adecuado para ti. Tu rostro es tu carta de presentación, así que no lo dudes y apúntate a conseguir un cutis perfecto. Confía en nuestros expertos profesionales y empieza a disfrutar de los resultados de un solo clic gracias a Bucmi.com. ¿A qué estás esperando. Utilizamos productos de Germaine de Capuccini y krous."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Si eres coqueta y te gusta lucir unas manos cuidadas con un bonito esmaltado, este servicio es para ti. Empezamos limando las uñas, se retiran las cutículas. Seguimos con un masaje con crema hidratante para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras o francesa. Confía en nuestros expertos profesionales y empieza a disfrutar de los resultados de un solo clic gracias a Bucmi.com. ¿A qué estás esperando? Utilizamos esmaltes de Essie."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Essie Gel Couture", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Descubre Gel Couture, la nueva manicura de acabado gel de la marca Essie y consigue un esmaltado brillante y de larga duración en dos sencillos pasos. Gracias al exclusivo diseño de su pincel y la tecnología de su fórmula mantendrás tu manicura perfecta hasta 12 días. Una manicura de alta costura de fácil retirado y que no requiere lámpara de secado. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Express Permanente", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este servicio podrás disfrutar de unas uñas perfectas... ¡durante semanas! Utilizamos la gama permanente de Essie, por lo que el servicio es sinónimo de garantía y calidad. El servicio incluye una manicura express (limar y esmaltar) con nuestra gama de lacas permanentes Essie. Confía en nuestros expertos profesionales y empieza a disfrutar de los resultados de un solo clic gracias a Bucmi.com. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Essie Gel Couture", 
+            "duration": 7200, 
+            "price": "55 € ", 
+            "description": "Descubre el esmaltado con acabado gel de la marca Essie y consigue una manicura y pedicura brillante y de larga duración en dos pasos. Gracias al diseño de sus pinceles y la tecnología de su fórmula mantendrás tu manipedi perfecta hasta 12 días. Escoge tu color de alta costura y disfruta de un servicio en dos pasos que no requiere lámpara y es de fácil retirado. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Essie Gel Couture", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "La pedicura de acabado gel con duración de hasta 12 días sin tener que usar lámpara existe y viene de la mano de Gel Couture de Essie. Combina una cobertura perfecta gracias al diseño de su pincel y su fórmula innovadora para que consigas unas uñas ultra glossy y con un brillo intenso. Además, la retirada de estos esmaltes es muy fácil y solo necesitarás un quitaesmalte convencional. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Anticaída", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Este tratamiento combate la alopecia; es un servicio específico para la sequedad, dermatitis, etc. con asesoramiento de un dermotricólogo. Se seguirá una pauta marcada por el dermotricologo para cada caso. El tratamiento tiene una duración aproximada de 60 minutos. Se realiza con productos de laboratorios de la Línea Kapyderm que responde a un largo proceso de aprendizaje y entendimiento sobre los distintos problemas capilares."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "En Arribas Estilistas también somos especialistas en corte de pelo para él. Ponte en manos de nuestro equipo, te llevarás un corte de pelo a la última, siempre personalizado y adaptado a tus gustos. El servicio incluye lavado, corte, secado y producto de acabado. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Secado Express Media Melena", 
+            "duration": 2700, 
+            "price": "15,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu media melena. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Secado Express Pelo Corto", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello corto. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Secado Express Pelo Largo", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello largo. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Anticaída", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Este tratamiento combate la alopecia; es un servicio específico para la sequedad, dermatitis, etc. con asesoramiento de un dermotricólogo. Se seguirá una pauta marcada por el dermotricologo para cada caso. El tratamiento tiene una duración aproximada de 60 minutos. Se realiza con productos de laboratorios de la Línea Kapyderm que responde a un largo proceso de aprendizaje y entendimiento sobre los distintos problemas capilares."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "En Arribas Estilistas también somos especialistas en corte de pelo para él. Ponte en manos de nuestro equipo, te llevarás un corte de pelo a la última, siempre personalizado y adaptado a tus gustos. El servicio incluye lavado, corte, secado y producto de acabado. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Secado Express Media Melena", 
+            "duration": 2700, 
+            "price": "15,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu media melena. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Secado Express Pelo Corto", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello corto. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Secado Express Pelo Largo", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello largo. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar Anticaída", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Este tratamiento combate la alopecia; es un servicio específico para la sequedad, dermatitis, etc. con asesoramiento de un dermotricólogo. Se seguirá una pauta marcada por el dermotricologo para cada caso. El tratamiento tiene una duración aproximada de 60 minutos. Se realiza con productos de laboratorios de la Línea Kapyderm que responde a un largo proceso de aprendizaje y entendimiento sobre los distintos problemas capilares."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10 Sesiones Tratamiento Corporal Lpg", 
+            "duration": 1800, 
+            "price": "350 € ", 
+            "description": "Bono de diez sesiones tratamiento remodelador anticelulítico. Es una de las técnicas anticelulíticas más efectivas; ayuda a eliminar líquidos. Conseguirás una silueta más tonificada y definida, reduciendo la grasa localizada. Consigue unos resultados más notables gracias a las 10 sesiones. No lo dudes más y haz tu reserva en nuestro centro y disfruta de unos resultados únicos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Ven a Arribas Estilistas y realízate este pack de exfoliación corporal con el que conseguirás una piel suave y sedosa, a continuación envolvemos tu cuerpo para que los productos penetren mejor en la piel y por último, hidratamos tu piel. Confía en nuestros expertos profesionales y empieza a disfrutar de los resultados de un solo clic gracias a Bucmi.com. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal Y Masaje", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Con este completo servicio podrás disfrutar de una piel suave, delicada y totalmente renovada gracias a la exfoliación corporal que realizamos con sales marinas. Este tratamiento tan natural se ve complementado por un masaje relajante que te permitirá poner el broche final al servicio, a la vez que facilitamos la absorción de nutrientes hidratantes. ¡Apúntate!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Si buscas un resultado natural y quieres conseguir unas pestañas mucho más densas y pobladas, este servicio es para ti. Colocaremos unas extensiones de pestañas de pelo natural, con mucho cuidado, precisión y paciencia para que el resultado se funda a la perfección con tus pestañas naturales. Con un correcto cuidado conseguirás una duración de hasta 3 meses. ¿Quieres empezar a disfrutar de una mirada profunda? ¡Apúntate!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "¿Buscas una mirada de escándalo? No te lo pienses y apúntate a nuestro servicio de tinte y permanente de pestañas. Conseguirás un color más oscuro y una curvatura increíble, ¿estás preparada para dejar de usar Rimmel? El servicio tiene una duración aproximada de 1 hora y 20 minutos. Confía en nuestros expertos profesionales y empieza a disfrutar de los resultados de un solo clic gracias a Bucmi.com. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "En Arribas Estilistas también somos especialistas en corte de pelo para él. Ponte en manos de nuestro equipo, te llevarás un corte de pelo a la última, siempre personalizado y adaptado a tus gustos. El servicio incluye lavado, corte, secado y producto de acabado. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Secado Express Media Melena", 
+            "duration": 2700, 
+            "price": "15,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu media melena. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Secado Express Pelo Corto", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello corto. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Secado Express Pelo Largo", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello largo. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Capilar Anticaída", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Este tratamiento combate la alopecia; es un servicio específico para la sequedad, dermatitis, etc. con asesoramiento de un dermotricólogo. Se seguirá una pauta marcada por el dermotricologo para cada caso. El tratamiento tiene una duración aproximada de 60 minutos. Se realiza con productos de laboratorios de la Línea Kapyderm que responde a un largo proceso de aprendizaje y entendimiento sobre los distintos problemas capilares."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "10 Sesiones Tratamiento Corporal Lpg", 
+            "duration": 1800, 
+            "price": "350 € ", 
+            "description": "Bono de diez sesiones tratamiento remodelador anticelulítico. Es una de las técnicas anticelulíticas más efectivas; ayuda a eliminar líquidos. Conseguirás una silueta más tonificada y definida, reduciendo la grasa localizada. Consigue unos resultados más notables gracias a las 10 sesiones. No lo dudes más y haz tu reserva en nuestro centro y disfruta de unos resultados únicos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Ven a Arribas Estilistas y realízate este pack de exfoliación corporal con el que conseguirás una piel suave y sedosa, a continuación envolvemos tu cuerpo para que los productos penetren mejor en la piel y por último, hidratamos tu piel. Confía en nuestros expertos profesionales y empieza a disfrutar de los resultados de un solo clic gracias a Bucmi.com. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "En Arribas Estilistas también somos especialistas en corte de pelo para él. Ponte en manos de nuestro equipo, te llevarás un corte de pelo a la última, siempre personalizado y adaptado a tus gustos. El servicio incluye lavado, corte, secado y producto de acabado. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte Y Secado Express Media Melena", 
+            "duration": 2700, 
+            "price": "15,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu media melena. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte Y Secado Express Pelo Corto", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello corto. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte Y Secado Express Pelo Largo", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello largo. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "En Arribas Estilistas también somos especialistas en corte de pelo para él. Ponte en manos de nuestro equipo, te llevarás un corte de pelo a la última, siempre personalizado y adaptado a tus gustos. El servicio incluye lavado, corte, secado y producto de acabado. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Secado Express Media Melena", 
+            "duration": 2700, 
+            "price": "15,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu media melena. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Secado Express Pelo Corto", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello corto. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Secado Express Pelo Largo", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "Con este completo servicio podrás disfrutar de un corte de pelo de estilo para tu cabello largo. Ponte en manos de nuestros especialistas, te asesorarán para que te lleves un corte que vaya contigo y tu estilo. El servicio incluye lavar, cortar y secado con secador para retirar la humedad. Confía en nuestros expertos estilistas de Arribas y consigue un look de tendencia. Haz ya tu reserva y empieza a disfrutar de los resultados. Utilizamos productos de L'Oréal Professionnel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Anticaída", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Este tratamiento combate la alopecia; es un servicio específico para la sequedad, dermatitis, etc. con asesoramiento de un dermotricólogo. Se seguirá una pauta marcada por el dermotricologo para cada caso. El tratamiento tiene una duración aproximada de 60 minutos. Se realiza con productos de laboratorios de la Línea Kapyderm que responde a un largo proceso de aprendizaje y entendimiento sobre los distintos problemas capilares."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "10 Sesiones Tratamiento Corporal Lpg", 
+            "duration": 1800, 
+            "price": "350 € ", 
+            "description": "Bono de diez sesiones tratamiento remodelador anticelulítico. Es una de las técnicas anticelulíticas más efectivas; ayuda a eliminar líquidos. Conseguirás una silueta más tonificada y definida, reduciendo la grasa localizada. Consigue unos resultados más notables gracias a las 10 sesiones. No lo dudes más y haz tu reserva en nuestro centro y disfruta de unos resultados únicos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Ven a Arribas Estilistas y realízate este pack de exfoliación corporal con el que conseguirás una piel suave y sedosa, a continuación envolvemos tu cuerpo para que los productos penetren mejor en la piel y por último, hidratamos tu piel. Confía en nuestros expertos profesionales y empieza a disfrutar de los resultados de un solo clic gracias a Bucmi.com. ¿A qué estás esperando?"
+        }
+    ]
+}

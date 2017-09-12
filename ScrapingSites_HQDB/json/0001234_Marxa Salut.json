@@ -1,0 +1,128 @@
+{
+    "adid": null, 
+    "name": "Marxa Salut", 
+    "name_of_contact": "Marxa Salut", 
+    "scrape_page": "https://www.bucmi.com/marxasalut", 
+    "business_website": "https://www.bucmi.com/marxasalut", 
+    "areas_covered": null, 
+    "description": "Marxa Salut es un centro de terapias naturales dónde encontrarás una variedad de tratamiento dedicados a tu cuidado y bienestar. Nuestra filosofía es cuerpo sano, mente sana. Contarás con la mejor profesionalidad. ¡Visítanos, te esperamos en Barcelona!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635991936709019359.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635991936763863052.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635991936746362895.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635991936794644009.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635991936862612569.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pallars, 375", 
+    "city": "Barcelona", 
+    "zipcode": "08005", 
+    "formatted_address": "C/ Pallars, 375, Barcelona, 08005", 
+    "country": "es", 
+    "office_number": "933961003", 
+    "office_number2": null, 
+    "mobile_number": "615861296", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4012421000", 
+    "longitude": "2.2031378000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635992480644398061.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Equilibrate Con Terapia Reiki", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Esta técnica japonesa consiste en canalizar la energía de tu cuerpo a través de las manos y curar enfermedades, tratar trastornos emocionales y psicológicos, y lograr así el máximo equilibrio en tu organismo. Disfruta de una sesión de 45 minutos de esta fabulosa técnica reservando online con Bucmi. Confía en nuestro equipo de expertos que te ofrecerán un trato exquisito. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Flores De Bach Y Coaching", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "A través de las propiedades de las flores surge este sistema de curación que favorece tu desarrollo y bienestar. Tratamientos específicos para los problemas de cada paciente. Ven a Marxa Salut y déjate mimar. Notarás los resultados beneficiosos de esta maravillosa técnica.El servicio incluye las flores y la visita de un coach profesional. ¡Reserva ya cómodamente online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Natural: Técnica Metamórfica", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "La técnica metamórfica o masaje metamórfico es un tipo de masaje suave que se realiza en los pies, manos y cabeza. es útil para desbloquear,ayuda a transformar la enfermedad en salud y es una herramienta muy útil para solucionar traumas inconscientes tanto recientes como antiguos. En Marxa Salut te ayudamos a mejor tu día a día. Confía en nuestro equipo de profesionales y notarás los resultados. Reserva ya cómodamente online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Natural: Técnica Metamórfica- 5 Sesiones", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "Magnífico bono de 5 sesiones. La técnica metamórfica o masaje metamórfico es un tipo de masaje suave que se realiza en los pies, manos y cabeza. es útil para desbloquear,ayuda a transformar la enfermedad en salud y es una herramienta muy útil para solucionar traumas inconscientes tanto recientes como antiguos. En Marxa Salut te ayudamos a mejor tu día a día. Confía en nuestro equipo de profesionales y notarás los resultados. Reserva ya cómodamente online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Reiki- 4 Sesiones", 
+            "duration": 2700, 
+            "price": "100 € ", 
+            "description": "Magnífico bono de 4 sesiones. Esta técnica japonesa consiste en canalizar la energía de tu cuerpo a través de las manos y curar enfermedades, tratar trastornos emocionales y psicológicos, y lograr así el máximo equilibrio en tu organismo. Disfruta de una sesión de 45 minutos de esta fabulosa técnica reservando online con Bucmi. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Coaching Personal", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El Coaching es una metodología que consigue el máximo desarrollo profesional y personal de las personas y que da lugar a una profunda transformación, generando cambios de perspectiva y aumento del compromiso y la responsabilidad, lo que se traduce en mejores resultados.Es un proceso que facilita el aprendizaje y promueve cambios cognitivos, emocionales y conductuales que expanden la capacidad de acción en función del logro de las metas propuestas. ¡Reserva ya cómodamente online!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Equilibrate Con Terapia Reiki", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Esta técnica japonesa consiste en canalizar la energía de tu cuerpo a través de las manos y curar enfermedades, tratar trastornos emocionales y psicológicos, y lograr así el máximo equilibrio en tu organismo. Disfruta de una sesión de 45 minutos de esta fabulosa técnica reservando online con Bucmi. Confía en nuestro equipo de expertos que te ofrecerán un trato exquisito. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Flores De Bach Y Coaching", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "A través de las propiedades de las flores surge este sistema de curación que favorece tu desarrollo y bienestar. Tratamientos específicos para los problemas de cada paciente. Ven a Marxa Salut y déjate mimar. Notarás los resultados beneficiosos de esta maravillosa técnica.El servicio incluye las flores y la visita de un coach profesional. ¡Reserva ya cómodamente online!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Revisiones Flores De Bach", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "A través de las propiedades de las flores surge este sistema de curación que favorece tu desarrollo y bienestar. Tratamientos específicos para los problemas de cada paciente. Ven a Marxa Salut y déjate mimar. Notarás los resultados beneficiosos de esta maravillosa técnica. El servicio incluye las flores y la visita. En este caso este precio corresponde a la revisión que se realiza tras la primera visita."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Natural: Técnica Metamórfica", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "La técnica metamórfica o masaje metamórfico es un tipo de masaje suave que se realiza en los pies, manos y cabeza. es útil para desbloquear,ayuda a transformar la enfermedad en salud y es una herramienta muy útil para solucionar traumas inconscientes tanto recientes como antiguos. En Marxa Salut te ayudamos a mejor tu día a día. Confía en nuestro equipo de profesionales y notarás los resultados. Reserva ya cómodamente online."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Natural: Técnica Metamórfica- 5 Sesiones", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "Magnífico bono de 5 sesiones. La técnica metamórfica o masaje metamórfico es un tipo de masaje suave que se realiza en los pies, manos y cabeza. es útil para desbloquear,ayuda a transformar la enfermedad en salud y es una herramienta muy útil para solucionar traumas inconscientes tanto recientes como antiguos. En Marxa Salut te ayudamos a mejor tu día a día. Confía en nuestro equipo de profesionales y notarás los resultados. Reserva ya cómodamente online."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Reiki- 4 Sesiones", 
+            "duration": 2700, 
+            "price": "100 € ", 
+            "description": "Magnífico bono de 4 sesiones. Esta técnica japonesa consiste en canalizar la energía de tu cuerpo a través de las manos y curar enfermedades, tratar trastornos emocionales y psicológicos, y lograr así el máximo equilibrio en tu organismo. Disfruta de una sesión de 45 minutos de esta fabulosa técnica reservando online con Bucmi. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }
+    ]
+}

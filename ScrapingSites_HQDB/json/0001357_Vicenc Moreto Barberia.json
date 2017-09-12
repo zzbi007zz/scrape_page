@@ -1,0 +1,86 @@
+{
+    "adid": null, 
+    "name": "Vicenç Moreto Barbería", 
+    "name_of_contact": "Vicenç Moreto Barbería", 
+    "scrape_page": "https://www.bucmi.com/barberiavicencmoreto", 
+    "business_website": "https://www.bucmi.com/barberiavicencmoreto", 
+    "areas_covered": null, 
+    "description": "La barbería de Vicenç Moretó es un espacio clásico con elementos actuales, una barbería adaptada a nuestra época que apuesta por un ambiente donde el cliente puede sentirse cómodo y relajado. Ven a visitarnos en pleno barrio de El Raval y disfruta.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635199452885931050.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635199452886591088.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635199452887611146.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635224482346196619.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635737627833934531.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "11", 
+    "hqdb_review_score": "9,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Viladomat, 235", 
+    "city": "Barcelona", 
+    "zipcode": "08001", 
+    "formatted_address": "C/ Viladomat, 235, Barcelona, 08001", 
+    "country": "es", 
+    "office_number": "933173855", 
+    "office_number2": null, 
+    "mobile_number": "654984920", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3833900000", 
+    "longitude": "2.1647599000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635901986736808999.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "Servicio de arreglo de Barba con una duración de entre 15-30 minutos. Depende de la forma y largura de la barba. Conseguirás eliminar ese aspecto desaliñado y lucir una barba de tendencia gracias a nuestros expertos estilistas. Aprovecha que las barbas están de moda y sácale el máximo partido."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar Y Cortar", 
+            "duration": 1800, 
+            "price": "18,5 € ", 
+            "description": "Cambia de look y ponte a la moda. El pelo es parte de tu identidad haz que te represente como te mereces. Nos adaptamos al look que prefieras y te asesoraremos con lo que mejor te quede. Incluye lavar y cortar el cabello para un aspecto renovado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Servicio Premium. Masaje Craneal, Corte Y Barba.", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Aprovecha este servicio premium. Incluye una bebida y el masaje craneal con 3 productos son 8 minutos extra en el lavacabezas. Completo paquete de belleza para el hombre que incluye el corte de tendencia, el lavado con masaje craneal y el arreglo de barba para completar el look."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "Servicio de arreglo de Barba con una duración de entre 15-30 minutos. Depende de la forma y largura de la barba. Conseguirás eliminar ese aspecto desaliñado y lucir una barba de tendencia gracias a nuestros expertos estilistas. Aprovecha que las barbas están de moda y sácale el máximo partido."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Cortar", 
+            "duration": 1800, 
+            "price": "18,5 € ", 
+            "description": "Cambia de look y ponte a la moda. El pelo es parte de tu identidad haz que te represente como te mereces. Nos adaptamos al look que prefieras y te asesoraremos con lo que mejor te quede. Incluye lavar y cortar el cabello para un aspecto renovado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Servicio Premium. Masaje Craneal, Corte Y Barba.", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Aprovecha este servicio premium. Incluye una bebida y el masaje craneal con 3 productos son 8 minutos extra en el lavacabezas. Completo paquete de belleza para el hombre que incluye el corte de tendencia, el lavado con masaje craneal y el arreglo de barba para completar el look."
+        }
+    ]
+}

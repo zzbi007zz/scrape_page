@@ -1,0 +1,139 @@
+{
+    "adid": null, 
+    "name": "Venus Peluqueros", 
+    "name_of_contact": "Venus Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/venuspeluqueros", 
+    "business_website": "https://www.bucmi.com/venuspeluqueros", 
+    "areas_covered": null, 
+    "description": "El salón de Belleza Venus, situado en San Isidro, ofrece tratamientos de estética y peluquería. Trabajamos con marcas como Loreal, Schwarzkopf o Montibello. Contamos con más de veinte años de experiencia en el sector.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635472724574556441.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635472724575181636.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Toboso, 111", 
+    "city": "Madrid", 
+    "zipcode": "28019", 
+    "formatted_address": "C/ Toboso, 111, Madrid, 28019", 
+    "country": "es", 
+    "office_number": "914710980", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3931396000", 
+    "longitude": "-3.7357974000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810741082419875.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "21,4 € ", 
+            "description": "El servicio incluye lavado con productos específicos, corte y peinado para cabellos cortos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Unisex", 
+            "duration": 1800, 
+            "price": "9,8 € ", 
+            "description": "El servicio incluye lavado, corte y peinado. Déjate asesorar por los mejores profesionales para conseguir el look que deseas. Para cualquier otro servicio que se quiera tratar en la peluquería, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "En servicio incluye limado de uñas, tratamiento de cutículas, masaje con loción regeneradora y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Corte De Pelo, Peinar Y Mechas Pelo Corto", 
+            "duration": 7200, 
+            "price": "44,8 € ", 
+            "description": "El servicio incluye corte con asesoramiento personal, peinado y mechas completas. Para cualquier otro tratamiento, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Corte De Pelo, Peinar Y Mechas Pelo Largo", 
+            "duration": 9000, 
+            "price": "53,8 € ", 
+            "description": "El servicio incluye corte con asesoramiento personal, peinado media melena o pelo largo y mechas completas. Para cualquier otro tratamiento o para pelo extralargo, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "21,4 € ", 
+            "description": "El servicio incluye lavado con productos específicos, corte y peinado para cabellos cortos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Unisex", 
+            "duration": 1800, 
+            "price": "9,8 € ", 
+            "description": "El servicio incluye lavado, corte y peinado. Déjate asesorar por los mejores profesionales para conseguir el look que deseas. Para cualquier otro servicio que se quiera tratar en la peluquería, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Corte De Pelo, Peinar Y Mechas Pelo Corto", 
+            "duration": 7200, 
+            "price": "44,8 € ", 
+            "description": "El servicio incluye corte con asesoramiento personal, peinado y mechas completas. Para cualquier otro tratamiento, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Corte De Pelo, Peinar Y Mechas Pelo Corto", 
+            "duration": 7200, 
+            "price": "44,8 € ", 
+            "description": "El servicio incluye corte con asesoramiento personal, peinado y mechas completas. Para cualquier otro tratamiento, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Corte De Pelo, Peinar Y Mechas Pelo Largo", 
+            "duration": 9000, 
+            "price": "53,8 € ", 
+            "description": "El servicio incluye corte con asesoramiento personal, peinado media melena o pelo largo y mechas completas. Para cualquier otro tratamiento o para pelo extralargo, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "21,4 € ", 
+            "description": "El servicio incluye lavado con productos específicos, corte y peinado para cabellos cortos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Unisex", 
+            "duration": 1800, 
+            "price": "9,8 € ", 
+            "description": "El servicio incluye lavado, corte y peinado. Déjate asesorar por los mejores profesionales para conseguir el look que deseas. Para cualquier otro servicio que se quiera tratar en la peluquería, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Corte De Pelo, Peinar Y Mechas Pelo Corto", 
+            "duration": 7200, 
+            "price": "44,8 € ", 
+            "description": "El servicio incluye corte con asesoramiento personal, peinado y mechas completas. Para cualquier otro tratamiento, se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Corte De Pelo, Peinar Y Mechas Pelo Largo", 
+            "duration": 9000, 
+            "price": "53,8 € ", 
+            "description": "El servicio incluye corte con asesoramiento personal, peinado media melena o pelo largo y mechas completas. Para cualquier otro tratamiento o para pelo extralargo, se cobrará suplemento."
+        }
+    ]
+}

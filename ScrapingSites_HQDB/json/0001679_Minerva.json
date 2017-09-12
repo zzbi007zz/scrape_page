@@ -1,0 +1,273 @@
+{
+    "adid": null, 
+    "name": "Minerva", 
+    "name_of_contact": "Minerva", 
+    "scrape_page": "https://www.bucmi.com/minervaestilistas", 
+    "business_website": "https://www.bucmi.com/minervaestilistas", 
+    "areas_covered": null, 
+    "description": "El Salón de Peluquería Minerva lleva más de veinte años dedicados profesionalmente al mundo de la peluquería y el maquillaje, nuestro principal objetivo es satisfacer las necesidades de nuestros clientes, que buscan un trato más personal y profesional.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635392977131588747.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635404108338296483.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635406749437241305.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Sevilla", 
+    "zipcode": "41008", 
+    "formatted_address": "Sevilla, 41010, Sevilla, 41008", 
+    "country": "es", 
+    "office_number": "954352583", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.4030800000", 
+    "longitude": "-5.9791199999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962325667563777.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial, Cuello Y Escote", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Una sesión de 40 minutos que lucha contra los síntomas del envejecimiento y activa la circulación. Su duración es más duradera y es un tratamiento natural. Te dejará una piel perfecta."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Dale un aire diferente a tu peinado gracias a este corte de pelo totalmente asesorado para sacar el mayor partido de las facciones de tu rostro. Incluye lavado y peinado con productor de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer Y Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es simplemente sanear tu melena este es tu servicio. Incluye lavar, corte de pelo asesorado para sacar el mayor partido de tu melena y peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Fino Y Exfoliante Capilar", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "Si tiene un pelo fino con tendencia a engrasarse, con este tratamiento conseguirás dar volumen a tu melena y reducir la grasa del cuero cabelludo. No dudes y reserva tu tratamiento con los mejores profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Con Gel, Corte De Pelo Y Lavado Hombre", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Elimina tus canas con nuestro tratamiento de color con gel con el que conseguiremos un efecto mucho más natural. Este tratamiento se elimina con los lavados, de manera que, según va creciendo el pelo no se nota el cambio de color."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte, Secado Y Peinado Mujer", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "Consigue un look diferente con este servicio o si lo prefieres potencia tu color actual saneando tus puntas. Aporta un nuevo color a tu cabello y un corte de pelo lleno de estilo para que luzcas perfecta en cualquier ocasión."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo, Corte Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "El servicio incluye lavado. Hacemos un precorte en seco para ver el tipo del pelo Tinte SELECTIVE o SENSUS y peinado al gusto del cliente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo, Corte Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Cambia tu look gracias a este servicio que combina corte de pelo en seco para evaluar el tipo de pelo, aplicamos tinte Selective o Sensus, lavado y peinado al gusto del cliente. Saldrás perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "Ven a Minerva Estilistas y cambia de look gracias a este pack que incluye corte de pelo en seco para evaluar el tipo de pelo, lavado, Tinte Selective o Sensus y peinado al gusto del cliente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz, Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio incluye lavado. Hacemos un precorte en seco para ver el tipo del pelo + Tinte de raíz SELECTIVE o SENSUS + peinado al gusto del cliente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz, Corte Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "Tiñe tus raíces con este servicio que incluye corte de pelo totalmente asesorado por nuestros profesionales en seco (para evaluar el tipo de pelo), tinte Selective o Sensus, lavado y peinado al gusto del cliente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz, Corte Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Elimina las raíces de tu melena gracias a este servicio con el que combinamos un corte de pelo totalmente asesorado en seco, tinte de raíz Selective o Sensus y peinado al gusto del cliente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es simplemente sanear tus puntas este es tu servicio. El servicio consta de lavado, corte de pelo corto y peinado para que salgas perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Frontal Pelo Corto Y Peinar", 
+            "duration": 2700, 
+            "price": "32,5 € ", 
+            "description": "Luce unas maravillosas mechas californianas en la zona frontal del pelo gracias a nuestros profesionales. El servicio incluye lavar, tinte y para finalizar peinamos tu pelo para salir perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Frontal Pelo Largo Y Peinar", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Luce unas maravillosas mechas californianas en la zona frontal del pelo gracias a nuestros profesionales. El servicio incluye lavar, tinte y peinamos tu melena de la forma que más te guste."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "Anímate con unas mechas californianas. Se aplica el producto de coloración en las puntas para simular de forma natural el efecto del sol y un peinado al estilo de personal ¿te lo vas a perder?."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Peinado Cabello Medio", 
+            "duration": 3600, 
+            "price": "36,5 € ", 
+            "description": "Anímate con unas mechas californianas. Se aplica el producto de coloración en las puntas para simular de forma natural el efecto del sol y un peinado al estilo de personal ¿te lo vas a perder?."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas De Plata Y Corte Pelo Corto", 
+            "duration": 2700, 
+            "price": "52 € ", 
+            "description": "El servicio consta de una decoloración de cabeza completa y crema hidratante especial para cabello fino o cabello castigado y un corte de pelo a gusto del cliente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas De Plata Y Corte Pelo Largo", 
+            "duration": 3600, 
+            "price": "64 € ", 
+            "description": "El servicio consta de una decoloración de cabeza completa y crema hidratante especial para cabello fino o cabello castigado y un corte de pelo a gusto del cliente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "Los tratamientos y productos utilizados para el peinado son de la Linea personalizada de productos Minerva. Consigue el peinado que siempre has querido de la mano de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Consigue el peinado que siempre has querido de la mano de los mejores profesionales. Los tratamientos y productos utilizados para el peinado son de la Linea personalizada de productos Minerva."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Botox Pelo Corto", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Esencia lifting y esencia botox capilar. Tratamiento capilar que reestructura, nutre y aporta luminosidad con un efecto inmediato. Devuelve la vitalidad y brillo a tu melena de la mano de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante Pelo Largo", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Consiste en un tratamiento de Peeling capilar con arcilla muy hidratante. Te regenera el pelo, te da cuerpo, revitaliza, te quita los malos residuos del cuero cabelludo. También este servicio te aporta durabilidad para los peinados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Dale un aire diferente a tu peinado gracias a este corte de pelo totalmente asesorado para sacar el mayor partido de las facciones de tu rostro. Incluye lavado y peinado con productor de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es simplemente sanear tus puntas este es tu servicio. Comenzamos lavando el pelo, cortamos y por último peinamos a tu gusto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es simplemente sanear tu melena este es tu servicio. Incluye lavar, corte de pelo asesorado para sacar el mayor partido de tu melena y peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Botox Pelo Largo", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Esencia lifting y esencia Botox capilar. Tratamiento capilar que reestructura, nutre y aporta luminosidad con un efecto inmediato. Devuelve la vitalidad y brillo a tu melena de la mano de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante Pelo Corto", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Consiste en un tratamiento de Peeling capilar con arcilla completamente hidratante. Te regenera el pelo, te da cuerpo, revitaliza, te quita los malos residuos del cuero cabelludo. También este servicio te aporta durabilidad para los peinados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Pelo Fino Y Exfoliante Capilar", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "Si tiene un pelo fino con tendencia a engrasarse, con este tratamiento conseguirás dar volumen a tu melena y reducir la grasa del cuero cabelludo. No dudes y reserva tu tratamiento con los mejores profesionales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Con Gel, Corte De Pelo Y Lavado Hombre", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Elimina tus canas con nuestro tratamiento de color con gel con el que conseguiremos un efecto mucho más natural. Este tratamiento se elimina con los lavados, de manera que, según va creciendo el pelo no se nota el cambio de color."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Corte, Secado Y Peinado Mujer", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "Consigue un look diferente con este servicio o si lo prefieres potencia tu color actual saneando tus puntas. Aporta un nuevo color a tu cabello y un corte de pelo lleno de estilo para que luzcas perfecta en cualquier ocasión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Completo, Corte Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "El servicio incluye lavado. Hacemos un precorte en seco para ver el tipo del pelo Tinte SELECTIVE o SENSUS y peinado al gusto del cliente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Pelo Fino Y Exfoliante Capilar", 
+            "duration": 5400, 
+            "price": "52 € ", 
+            "description": "Si tiene un pelo fino con tendencia a engrasarse, con este tratamiento conseguirás dar volumen a tu melena y reducir la grasa del cuero cabelludo. No dudes y reserva tu tratamiento con los mejores profesionales."
+        }
+    ]
+}

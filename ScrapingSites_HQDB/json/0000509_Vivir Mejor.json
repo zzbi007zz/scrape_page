@@ -1,0 +1,106 @@
+{
+    "adid": null, 
+    "name": "Vivir Mejor", 
+    "name_of_contact": "Vivir Mejor", 
+    "scrape_page": "https://www.bucmi.com/vivirmejor", 
+    "business_website": "https://www.bucmi.com/vivirmejor", 
+    "areas_covered": null, 
+    "description": "Centro especializado en la salud y bienestar de sus pacientes que cuenta con profesionales titulados de amplía experencia con el fin de encontrar un bienestar completo.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829435188424137.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829435217799045.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829435230611511.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829435237333125.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Alburquerque, 16", 
+    "city": "Madrid", 
+    "zipcode": "28010", 
+    "formatted_address": "C/ Alburquerque, 16, Madrid, 28010", 
+    "country": "es", 
+    "office_number": "914489354", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4311996000", 
+    "longitude": "-3.7006845999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908738646664149.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Gimnasia Asistida Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "La gimnasia consiste en un circuito asistido por un profesional compuesto por siete camillas articuladas para trabajar distintas zonas del cuerpo sin hacer sobre esfuerzos consiguiendo mejorar la movilidad del cuerpo. Ponte en forma y cuídate en el centro Vivir Mejor. Reserva tu cita online a través de Bucmi."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Reductor", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje manual destinado a eliminar esa celulitis tan molesta y la grasa localizada. En la primera sesión ya que en la primera sesión se realiza un diagnóstico del paciente. Reserva tu cita online al mejor precio y consigue el cuerpo que siempre has soñado gracias a nuestros profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Reductor Completo", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Reserva este super pack reductor que consta de un masaje reductor anticelulítico para reducir los nódulos de grasa, una dieta depurativa personalizada detox, una sesión de photonterapia, y una sesión de plataforma vibratoria. El tratamiento tiene una duración aproximada de 2 horas. Consigue realzar tu figura y reducir la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Terapia manual destinada a mejorar las funciones del sistema linfático para mejorar problemas como migrañas, cefaleas, problemas respiratorios, post operatorios, estrés, etc. Este servicio es para reservar después de la primera sesión ya que en la primera sesión se realiza un diagnóstico del paciente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reductor", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje manual destinado a eliminar esa celulitis tan molesta y la grasa localizada. En la primera sesión ya que en la primera sesión se realiza un diagnóstico del paciente. Reserva tu cita online al mejor precio y consigue el cuerpo que siempre has soñado gracias a nuestros profesionales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Completo", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Reserva este super pack reductor que consta de un masaje reductor anticelulítico para reducir los nódulos de grasa, una dieta depurativa personalizada detox, una sesión de photonterapia, y una sesión de plataforma vibratoria. El tratamiento tiene una duración aproximada de 2 horas. Consigue realzar tu figura y reducir la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Reductor Photonterapia", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Consiste en un cápsula de efecto sauna para eliminar principalmente toxinas del cuerpo ayudando a eliminar dolores, limpiar el organismo por dentro, mejorar la circulación, tratar dolencias severas, etc. Tratamiento que ayuda a adelgazar ya que su principal objetivo es la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Terapia manual destinada a mejorar las funciones del sistema linfático para mejorar problemas como migrañas, cefaleas, problemas respiratorios, post operatorios, estrés, etc. Este servicio es para reservar después de la primera sesión ya que en la primera sesión se realiza un diagnóstico del paciente."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Terapia manual destinada a mejorar las funciones del sistema linfático para mejorar problemas como migrañas, cefaleas, problemas respiratorios, post operatorios, estrés, etc. Este servicio es para reservar después de la primera sesión ya que en la primera sesión se realiza un diagnóstico del paciente."
+        }
+    ]
+}

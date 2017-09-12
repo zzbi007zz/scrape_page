@@ -1,0 +1,260 @@
+{
+    "adid": null, 
+    "name": "Mon Petit Espace", 
+    "name_of_contact": "Mon Petit Espace", 
+    "scrape_page": "https://www.bucmi.com/monpetitespace", 
+    "business_website": "https://www.bucmi.com/monpetitespace", 
+    "areas_covered": null, 
+    "description": "Salón de belleza en Las Tablas, Madrid, profesional e ideal para realizarte numerosos servicios como manicuras, pedicuras, depilaciones con hilo, con cera, maquillaje, permanente de pestañas e higienes faciales. Obtendrás un trato personalizado y atento.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941600810191699.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941600856287842.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941600880193700.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941600903162382.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941600923651909.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941600947714371.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941600969120557.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941600989475650.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941601016038579.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941601036350549.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941601052784718.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "171", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Furelos, 7", 
+    "city": "Madrid", 
+    "zipcode": "28050", 
+    "formatted_address": "C/ Furelos, 7, Madrid, 28050", 
+    "country": "es", 
+    "office_number": "916783340", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.5066178999", 
+    "longitude": "-3.6646780999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635972741429843544.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cejas Y Labio Con Hilo", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "¡La depilación más eficaz! Diseñamos tus cejas acorde con la forma de tu cara y las depilamos pelo a pelo con hilo. El servicio también incluye depilación con hilo del labio superior. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Completa", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "¡Ven ya a nuestro exclusivo salón y disfruta de un momento de relax! Reserva online nuestra manicura y pedicura completa a color o francesa y luce unos pies y manos envidiables. Todo ello con un trato exquisito y personalizado. Utilizamos marcas de calidad como OPI Y MASGLO."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Permanente Completa", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "MON PETIT ESPACE EXPERIENCE: tómate un tiempo solo para ti y ven a vernos para conseguir unas manos y pies cuidados durante mucho más tiempo (en torno a tres o cuatro semanas). El servicio incluye nuestra manicura y pedicura permanente completa. Puedes ecoger entre todos nuestros colores de la marca OPI o SHELLAC o manicura francesa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lifting De Pestañas", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Es la alternativa perfecta a las extensiones de pestañas. El lifting de pestañas las estira, creando un efecto óptico de mayor longitud y espesor. Intensificamos tu mirada de la forma más sencilla. No esperes más y reserva ahora tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "Consigue una mirada más intensa y cautivadora gracias a Mon Petit Espace. Gracias al tinte y permanente de pestañas podrás olvidarte (¡por fin!) de la máscara de pestañas. Todo ello con un trato exclusivo en un ambiente agradable."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Peeling para eliminar las células muertas ideal sobre todo para preparar la piel frente a los rayos de sol. Consigue una piel hidratada y suave con una exfoliación corporal. Notarás tu piel renovada. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Profunda Con Punta De Diamante", 
+            "duration": 5400, 
+            "price": "43,5 € ", 
+            "description": "¡Nuestra higiene estrella! Sal con la piel totalmente limpia gracias a este servicio que incluye desmaquillado de la piel, extracción de impurezas profunda y exfoliación con la punta de diamante, tónico refrescante y mascarilla hidratante con productos BIO 100% naturales aplicada con pequeño masaje facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting De Pestañas", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Es la alternativa perfecta a las extensiones de pestañas. El lifting de pestañas las estira, creando un efecto óptico de mayor longitud y espesor. Intensificamos tu mirada de la forma más sencilla. No esperes más y reserva ahora tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Incluye una preparación de la piel, desmaquillado de la piel y tónico, extracción, crema hidratante según la piel que tengas. El servicio tiene una duración de 75 minutos aproximadamente. No esperes más y reserva ahora tu cita online con Bucmi.com. D"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Consigue una curvatura perfecta de tus pestañas gracias al exclusivo servicio de permanente de pestañas del salón Mon Petit Espace. ¡Al más puro estilo Hollywood! No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¡Tira por fin tu máscara de pestañas y despreocúpate de tener la mirada apagada gracias a nuestro tinte de pestañas! Ven a Mon Petit y conseguirás lucir unas pestañas con una coloración perfecta gracias al asesoramiento y cuidado de nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "Consigue una mirada más intensa y cautivadora gracias a Mon Petit Espace. Gracias al tinte y permanente de pestañas podrás olvidarte (¡por fin!) de la máscara de pestañas. Todo ello con un trato exclusivo en un ambiente agradable."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Corporal", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Peeling para eliminar las células muertas ideal sobre todo para preparar la piel frente a los rayos de sol. Consigue una piel hidratada y suave con una exfoliación corporal. Notarás tu piel renovada. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Profunda Con Punta De Diamante", 
+            "duration": 5400, 
+            "price": "43,5 € ", 
+            "description": "¡Nuestra higiene estrella! Sal con la piel totalmente limpia gracias a este servicio que incluye desmaquillado de la piel, extracción de impurezas profunda y exfoliación con la punta de diamante, tónico refrescante y mascarilla hidratante con productos BIO 100% naturales aplicada con pequeño masaje facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lifting De Pestañas", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Es la alternativa perfecta a las extensiones de pestañas. El lifting de pestañas las estira, creando un efecto óptico de mayor longitud y espesor. Intensificamos tu mirada de la forma más sencilla. No esperes más y reserva ahora tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Incluye una preparación de la piel, desmaquillado de la piel y tónico, extracción, crema hidratante según la piel que tengas. El servicio tiene una duración de 75 minutos aproximadamente. No esperes más y reserva ahora tu cita online con Bucmi.com. D"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Consigue una curvatura perfecta de tus pestañas gracias al exclusivo servicio de permanente de pestañas del salón Mon Petit Espace. ¡Al más puro estilo Hollywood! No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¡Tira por fin tu máscara de pestañas y despreocúpate de tener la mirada apagada gracias a nuestro tinte de pestañas! Ven a Mon Petit y conseguirás lucir unas pestañas con una coloración perfecta gracias al asesoramiento y cuidado de nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "Consigue una mirada más intensa y cautivadora gracias a Mon Petit Espace. Gracias al tinte y permanente de pestañas podrás olvidarte (¡por fin!) de la máscara de pestañas. Todo ello con un trato exclusivo en un ambiente agradable."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Corporal", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Peeling para eliminar las células muertas ideal sobre todo para preparar la piel frente a los rayos de sol. Consigue una piel hidratada y suave con una exfoliación corporal. Notarás tu piel renovada. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Profunda Con Punta De Diamante", 
+            "duration": 5400, 
+            "price": "43,5 € ", 
+            "description": "¡Nuestra higiene estrella! Sal con la piel totalmente limpia gracias a este servicio que incluye desmaquillado de la piel, extracción de impurezas profunda y exfoliación con la punta de diamante, tónico refrescante y mascarilla hidratante con productos BIO 100% naturales aplicada con pequeño masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting De Pestañas", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Es la alternativa perfecta a las extensiones de pestañas. El lifting de pestañas las estira, creando un efecto óptico de mayor longitud y espesor. Intensificamos tu mirada de la forma más sencilla. No esperes más y reserva ahora tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Incluye una preparación de la piel, desmaquillado de la piel y tónico, extracción, crema hidratante según la piel que tengas. El servicio tiene una duración de 75 minutos aproximadamente. No esperes más y reserva ahora tu cita online con Bucmi.com. D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Consigue una curvatura perfecta de tus pestañas gracias al exclusivo servicio de permanente de pestañas del salón Mon Petit Espace. ¡Al más puro estilo Hollywood! No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¡Tira por fin tu máscara de pestañas y despreocúpate de tener la mirada apagada gracias a nuestro tinte de pestañas! Ven a Mon Petit y conseguirás lucir unas pestañas con una coloración perfecta gracias al asesoramiento y cuidado de nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Completa", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "¡Ven ya a nuestro exclusivo salón y disfruta de un momento de relax! Reserva online nuestra manicura y pedicura completa a color o francesa y luce unos pies y manos envidiables. Todo ello con un trato exquisito y personalizado. Utilizamos marcas de calidad como OPI Y MASGLO."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Básica Permanente Opi/Shellac", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "¡Esta es la manicura y pedicura perfecta para las clientas con la agenda más apretada! Realizamos limado de la uñas, tratamiento básico de las uñas y esmaltado de las uñas a elegir entre todos nuestros colores (incluye también esmaltado a la francesa) permanente de las marcas OPI y SHELLAC. ¡Reserva ahora mismo online y luce unas manos y pies cuidadas durante más tiempo!D"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Permanente Completa", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "MON PETIT ESPACE EXPERIENCE: tómate un tiempo solo para ti y ven a vernos para conseguir unas manos y pies cuidados durante mucho más tiempo (en torno a tres o cuatro semanas). El servicio incluye nuestra manicura y pedicura permanente completa. Puedes ecoger entre todos nuestros colores de la marca OPI o SHELLAC o manicura francesa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Completa", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¡Ven a Mon Petit Espace reservando ahora mismo online nuestra manicura tradicional! El servicio incluye limado de la uña en la forma que prefieras, cuidado profundo de la cutícula, exfoliación de la piel con productos naturales, masaje manual y esmaltado de la marca OPI Y MASGLO a color o francesa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Permanente Completa Opi O Shellac", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "¡Tus manos perfectas por más tiempo! Incluye limado de la uña, exfoliación y masaje manual con nuestro producto estrella (100% casero y natural), retirada profunda de la cutícula y esmaltado permanente dentro de nuestra gama de colores de OPI y SHELLAC. También incluye la manicura permanente francesa."
+        }
+    ]
+}

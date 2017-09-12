@@ -1,0 +1,214 @@
+{
+    "adid": null, 
+    "name": "Estétic Clinic (Clínica Gma)", 
+    "name_of_contact": "Estétic Clinic (Clínica Gma)", 
+    "scrape_page": "https://www.bucmi.com/estetic-clinic", 
+    "business_website": "https://www.bucmi.com/estetic-clinic", 
+    "areas_covered": null, 
+    "description": "Es una Unidad De Estética Médica Integral en la que podrás disfrutar de numerosos tratamientos médico estéticos de la mano de los mejores profesionales titulados. Ven a nuestra Unidad a reafirmar y realzar tu belleza facial y corporal. Te encantará.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985570904144390.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985570955442194.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985571039739453.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985571078578083.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985571124536791.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985571174794657.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635985571224283277.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "18", 
+    "hqdb_review_score": "9,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bonavista, 25", 
+    "city": "Barcelona", 
+    "zipcode": "08029", 
+    "formatted_address": "C/ Bonavista, 25, Barcelona, 08029", 
+    "country": "es", 
+    "office_number": "935500106", 
+    "office_number2": null, 
+    "mobile_number": "680373663", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3920345000", 
+    "longitude": "2.1434593999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635985572634504779.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "3 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "75 € ", 
+            "description": "Cada sesión tiene una duración de 30 minutos. Mejora la retención de líquidos y la circulación y elimina la grasa localizada de tu cuerpo. Consigue una figura más esbelta gracias a nuestro bono de sesiones. Reserva ahora, ¡no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Radiofrecuencia Facial + Microdermoabrasión", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Realizamos Vapor de ozono, radiofrecuencia facial, mascarilla personalizada, masaje craneofacial. Productos de SkinClinic. Controla la flacidez facial, elimina pequeñas arrugas. Disfruta de una piel tersa y libre de imperfecciones. Este servicio incluye radiofrecuencia, bioestimulación y microdermoabrasión. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "Duración exacta: 75 min. Incluye Vapor de ozono, dermoabrasión con punta de diamante personalizada y vaccom spray, mascarilla y masaje craneofacial. ¿Quieres lucir una piel suave, libre de imperfecciones e hidratada? Ven a tu Centro de Médic Estétic (clínica Gma)y ponte en manos de nuestros mejores profesionales. Luce una piel nutrida, sin imperfecciones y con mucho brillo. Todos los tratamientos incluyen: vapor de ozono, mascarilla personalizada y un masaje cráneo/facial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia Y Radiofrecuencia Con Vacumterapia", 
+            "duration": 5400, 
+            "price": "87,5 € ", 
+            "description": "La duración de este servicio es de 90 minutos. Combate las molestias de piernas hinchadas o de la mala circulación con nuestra sesión de Vacumterapia+Radiofecuencia+Presoterapia Consigue eliminar la grasa localizada y piel flácida de tu cuerpo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Con Ultrasonidos", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "Disfruta de una higiene facial con ultrasonidos vapor de ozono, mascarilla personalizada y masaje facio/craneal. Ponte en manos de nuestros mejores profesionales y luce un cutis perfecto. Reserva ahora online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Peeling Químico Facial en el que se incluye vapor de ozono, mascarilla para preparar la piel y peeling facial. ¿Quieres lucir una piel suave, libre de imperfecciones e hidratada? Ven a tu Centro de Estética Médic Estétic y ponte en manos de nuestros mejores profesionales. Luce una piel nutrida, sin imperfecciones y con mucho brillo. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "3 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "75 € ", 
+            "description": "Cada sesión tiene una duración de 30 minutos. Mejora la retención de líquidos y la circulación y elimina la grasa localizada de tu cuerpo. Consigue una figura más esbelta gracias a nuestro bono de sesiones. Reserva ahora, ¡no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial + Microdermoabrasión", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Realizamos Vapor de ozono, radiofrecuencia facial, mascarilla personalizada, masaje craneofacial. Productos de SkinClinic. Controla la flacidez facial, elimina pequeñas arrugas. Disfruta de una piel tersa y libre de imperfecciones. Este servicio incluye radiofrecuencia, bioestimulación y microdermoabrasión. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "Duración exacta: 75 min. Incluye Vapor de ozono, dermoabrasión con punta de diamante personalizada y vaccom spray, mascarilla y masaje craneofacial. ¿Quieres lucir una piel suave, libre de imperfecciones e hidratada? Ven a tu Centro de Médic Estétic (clínica Gma)y ponte en manos de nuestros mejores profesionales. Luce una piel nutrida, sin imperfecciones y con mucho brillo. Todos los tratamientos incluyen: vapor de ozono, mascarilla personalizada y un masaje cráneo/facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación, Radiofrecuencia Y Presoterapia", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Este servicio tiene una duración de 75 minutos. Acaba con la grasa localizada de tu cuerpo con esta sesión de cavitación vacoom más presoterapia y luce una figura más esbalta y tonificada. ¡No dudes más y reserva ahora a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Y Radiofrecuencia Con Vacumterapia", 
+            "duration": 5400, 
+            "price": "87,5 € ", 
+            "description": "La duración de este servicio es de 90 minutos. Combate las molestias de piernas hinchadas o de la mala circulación con nuestra sesión de Vacumterapia+Radiofecuencia+Presoterapia Consigue eliminar la grasa localizada y piel flácida de tu cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Servicio de radiofrecuencia facial que ayuda a eliminar los signos del envejecimiento y estimula la producción de colágeno. Se crea un proceso de rejuvenecimiento que permite de reducir las arrugas y la flacidez de la piel. Este servicio incluye limpieza facial, necesaria para preparar el rostro y potenciar los resultados de la radiofrecuencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial + Higiene Facial", 
+            "duration": 3600, 
+            "price": "64 € ", 
+            "description": "Luce un cutis perfecto de mano de nuestros mejores profesionales con nuestra higiene facial más radiofrecuencia facial. No dudes más y reserva ahora de una forma rápida y sencilla tu cita. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Ultrasonidos", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "Disfruta de una higiene facial con ultrasonidos vapor de ozono, mascarilla personalizada y masaje facio/craneal. Ponte en manos de nuestros mejores profesionales y luce un cutis perfecto. Reserva ahora online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Shiatsu Antiaging", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Consigue un cutis 10 gracias a nuestro masaje shiatsu antiaging. Este servicio incluye higiene facial más hidratación personalizada. No dudes más y reserva ahora tu cita, ¡no dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Facial Virtual", 
+            "duration": 5400, 
+            "price": "58 € ", 
+            "description": "Servicio de Mesoterapia Virtual en el que se incluye, vapor de ozono, mesoterapia con cóctel de vitaminas personalizado y masaje cráneofacial. Se ha convertido en el tratamiento rejuvenecedor anti-age de moda. Es un procedimiento no invasivo e indoloro. En firma la piel, eliminación de marcas como arrugas, cicatrices...en corporal elimina la celulitis, entre otros muchos beneficios. ¡Reserva cómodamente online a través de Bucmi.com y notarás increíbles resultados desde la primera sesión!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamientos Faciales", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "Duración exacta: 75 min. Te ofrecemos esta sesiones de tratamiento facial que incluye: Higiene facial, Microdermoabrasión con punta de diamante, Radiofrecuencia, Hidratación con masaje Shiatsu y productos de Skin Clinic Sea como sea. Todo ello en manos de nuestro equipo de profesionales y con la mejor aparatología del mercado. Además, ¡a un precio increíble! Todos los tratamientos incluyen: vapor de ozono, mascarilla personalizada y un masaje cráneo/facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "4 Tratamientos Corporales", 
+            "duration": 5400, 
+            "price": "95 € ", 
+            "description": "Vacumterapia, cavitación, Radiofrecuencia , presoterapia. Cuatro sesiones cuya combinación harán el tratamiento más completo para eliminar grasa y recuperar la tonicidad de tus piernas o abdomen . Prepara tu cuerpo para un verano radiante, Te asesoraremos para tu mejor elección."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Drenaje Linfático Facial con vapor de ozono, drenaje linfático completo y masaje shiatsu. ¿Quieres lucir una piel mucho más joven y libre de imperfecciones? Ven a tu Centro de Estética Médic Estétic y ponte en manos de nuestros mejores profesionales. Además contamos con lo último en aparatología. Luce una piel bonita, tersa, suave e hidratada. Dí adiós a la flacidez. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Máscara Termoactiva Mas Higiene Facial", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Este tratamiento incluye: vapor de ozono, ampollas de células madre y máscara Termoactivo. Es un tratamiento antiaging, antioxidante y blanqueante. ¿Quieres lucir una piel perfecta y libre de impurezas? Ven a tu Centro de Médic Estétic (clínica Gma) y ponte en manos de nuestros mejores profesionales. Presume de una piel limpia, llena de vitalidad y suavidad. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel mucho más joven y tersa. Reserva tu cita online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Químico Facial", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Peeling Químico Facial en el que se incluye vapor de ozono, mascarilla para preparar la piel y peeling facial. ¿Quieres lucir una piel suave, libre de imperfecciones e hidratada? Ven a tu Centro de Estética Médic Estétic y ponte en manos de nuestros mejores profesionales. Luce una piel nutrida, sin imperfecciones y con mucho brillo. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "3 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "75 € ", 
+            "description": "Cada sesión tiene una duración de 30 minutos. Mejora la retención de líquidos y la circulación y elimina la grasa localizada de tu cuerpo. Consigue una figura más esbelta gracias a nuestro bono de sesiones. Reserva ahora, ¡no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Radiofrecuencia Facial + Microdermoabrasión", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Realizamos Vapor de ozono, radiofrecuencia facial, mascarilla personalizada, masaje craneofacial. Productos de SkinClinic. Controla la flacidez facial, elimina pequeñas arrugas. Disfruta de una piel tersa y libre de imperfecciones. Este servicio incluye radiofrecuencia, bioestimulación y microdermoabrasión. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "Duración exacta: 75 min. Incluye Vapor de ozono, dermoabrasión con punta de diamante personalizada y vaccom spray, mascarilla y masaje craneofacial. ¿Quieres lucir una piel suave, libre de imperfecciones e hidratada? Ven a tu Centro de Médic Estétic (clínica Gma)y ponte en manos de nuestros mejores profesionales. Luce una piel nutrida, sin imperfecciones y con mucho brillo. Todos los tratamientos incluyen: vapor de ozono, mascarilla personalizada y un masaje cráneo/facial."
+        }
+    ]
+}

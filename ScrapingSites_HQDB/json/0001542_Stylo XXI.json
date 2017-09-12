@@ -1,0 +1,351 @@
+{
+    "adid": null, 
+    "name": "Stylo XXI", 
+    "name_of_contact": "Stylo XXI", 
+    "scrape_page": "https://www.bucmi.com/styloxxi", 
+    "business_website": "https://www.bucmi.com/styloxxi", 
+    "areas_covered": null, 
+    "description": "StyloXXI ofrece sus servicios desde 2009 dando un trato personalizado al cliente. Somos especialistas en color y trabajamos todas las técnicas innovadoras teniendo siempre en cuenta la salud de cabello. Trabajamos con Moroccanoil, Matrix y Elumen.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829491311501495.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829491312126604.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829491312595246.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829491313063990.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arabial, 121", 
+    "city": "Granada", 
+    "zipcode": "18003", 
+    "formatted_address": "C/ Arabial, 121, Granada, 18003", 
+    "country": "es", 
+    "office_number": "958371212", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1751600000", 
+    "longitude": "-3.6103200000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962447084622829.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer, Lavado Y Secado", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Incluye lavado y tratamiento sin aclarado específico según las necesidades del cliente. Secado al aire y corte. No te lo pienses mas y cambia tu look."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Anticaída", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento anticaída indicado para frenar la caída del cabello y ganar densidad y volumen. Pregunta por nuestros bonos descuento y recupera el espesor de tu melena."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Balayage / Babylights", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Aclaramos con productos de confianza para asegurar la salud de tu cabello consiguiendo un efecto natural y sin marcas. El precio de este servicio puede variar según los gramos de producto. En caso de excederse se abonará la diferencia en el salón. Pregúntanos sin compromiso."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Olaplex", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Nuevo servicio con Olaplex. Con este tratamiento conseguimos recuperar la fibra capilar reconstruyendo el cabello desde el interior. Para todo tipo de cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamientos Capilares", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "En una sola sesión consigue hasta un cabello más fuerte, sano e hidratado gracias a una terapia completa de Biolage. Consta de champú, ampolla de concentrado (reconstrucción, keratina, vitaminas, post color), mascarilla, producto sin aclarado, lavado y masaje capilar. Consúltanos para elegir el tratamiento que mejor se adapta a tus necesidades."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer, Lavado Y Secado", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Incluye lavado y tratamiento sin aclarado específico según las necesidades del cliente. Secado al aire y corte. No te lo pienses mas y cambia tu look."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Anticaída", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento anticaída indicado para frenar la caída del cabello y ganar densidad y volumen. Pregunta por nuestros bonos descuento y recupera el espesor de tu melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Hidratación: Ritual Moroccanoil", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Este ritual te ayudará a reparar y/o hidratar el cabello según tus necesidades. Se aplicarán distintos productos de la marca Moroccanoil eligiendo los específicos según el tipo de cabello y las necesidades de cada cliente. Incluye lavado con masaje, aplicación de champú, acondicionador, mascarilla, Tratamiento (aceite) Moroccanoil, y el resto de productos de la marca que se adapten al cabello. Ven a visitarnos y entérate de como conseguir un 35% en este ritual."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés", 
+            "duration": 10800, 
+            "price": "199 € ", 
+            "description": "Alisado japonés o definitivo desde 199€ variando el precio según el largo o espesor del cabello. Trabajamos con productos Matrix para conseguir un alisado definitivo con resultados óptimos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arrastre De Color", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Si quieres aclarar tu cabello o conseguir un nuevo tono confía en nosotros para obtener un aclarado homogéneo sin maltratar el cabello. Contamos con decoloración con y sin amoniaco. El precio de este servicio puede variar según los gramos que se gasten. En caso de excederse se deberá de abonar la diferencia en el salón. Pregúntanos sin compromiso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Balayage / Babylights", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Aclaramos con productos de confianza para asegurar la salud de tu cabello consiguiendo un efecto natural y sin marcas. El precio de este servicio puede variar según los gramos de producto. En caso de excederse se abonará la diferencia en el salón. Pregúntanos sin compromiso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Cabello Corto", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Trabajamos con tintes de la marca Matrix. Una coloración que nos asegura la calidad de cabello y una gran duración en color con diversidad de tonos. Gracias a ColorSync conseguimos intensidad y brillo suavidad. Para trabajar tono sobre tono u oscurecer."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Cabello Medio", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Trabajamos con tintes de la marca Matrix. Una coloración que nos asegura la calidad de cabello y una gran duración en color con diversidad de tonos. Gracias a ColorSync conseguimos intensidad y brillo suavidad. Para trabajar tono sobre tono u oscurecer. El precio puede incrementarse en cuatro euros dependiendo de la largura o espesor del cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color En Cabello Largo", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Trabajamos con tintes de la marca Matrix. Una coloración que nos asegura la calidad de cabello y una gran duración en color con diversidad de tonos. Gracias a ColorSync conseguimos intensidad y brillo suavidad. Para trabajar tono sobre tono u oscurecer. El precio puede incrementarse en cuatro euros dependiendo de la largura o espesor del cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Velos Interiores", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Nueva técnica para conseguir aclarar el cabello sin efecto raíces y de forma muy natural. Un nuevo método para o dar un toque de luz de manera sutil y sin mantenimiento que se puede aplicar en cualquier tipo de cabello sin importar su color de base. El precio puede variar según la cantidad de velos que se apliquen. Pregúntanos sin compromiso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "El servicio incluye, corte, lavado y peinado con producto de acabado (Gomina, Cera) déjate asesorar por nuestros profesionales y cambia tu look."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Cortes actuales, tendencias, y saneamiento, incluye solo el corte. No incluye lavado. Déjate asesorar y cambiaremos tu estilo al que más se adapte a tu personalidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado En Media Melena", 
+            "duration": 2700, 
+            "price": "24,5 € ", 
+            "description": "Déjate asesorar por nuestros expertos estilistas y consigue un look adecuado a tu estilo y a tu personalidad. Incluye lavado con champú específico. Corte, peinado y aplicación de producto sin aclarado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado En Pelo Corto", 
+            "duration": 2700, 
+            "price": "23,5 € ", 
+            "description": "Dale una vuelta a tu look gracias a nuestro completo paquete de corte. Incluye lavado con champú específico. Corte de puntas, peinado y aplicación de producto sin aclarado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado En Pelo Largo", 
+            "duration": 3600, 
+            "price": "25,5 € ", 
+            "description": "Incluye lavado con champú específico. Corte, peinado y aplicación de producto sin aclarado. Válido tanto para retocar tu melena descuidado y recuperar su forma o si quieres un cambio de estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Degradado / Californianas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Consigue el tan demandando efecto degradado en tu cabello. Aclaramos con productos de confianza para asegurar la salud de tu cabello consiguiendo un degradado natural y sin marcas. El precio de este servicio puede variar según los gramos de producto. En caso de excederse se abonará la diferencia en el salón. Pregúntanos sin compromiso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Elumen Color En Cabello Corto", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Conoces Elumen? Es un tratamiento que aporta color y mejora la textura y calidad de nuestro cabello. Actúa únicamente con pigmentos de color puros. No contiene amoniaco ni peróxido y por ello, las personas alérgicas a los tintes convencionales pueden utilizarlo. Aporta brillo al cabello manteniendo el color con un 76% más de durabilidad que cualquier otro tipo de coloración. El precio de este servicio puede variar según los gramos gastados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Elumen Color En Cabello Largo", 
+            "duration": 900, 
+            "price": "65 € ", 
+            "description": "¿Conoces Elumen? Es un tratamiento que aporta color y mejora la textura y calidad de nuestro cabello. Actúa únicamente con pigmentos de color puros. No contiene amoniaco ni peróxido y por ello, las personas alérgicas a los tintes convencionales pueden utilizarlo. Aporta brillo al cabello manteniendo el color con un 76% más de durabilidad que cualquier otro tipo de coloración. El precio de este servicio puede variar según los gramos gastados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Elumen Color En Cabello Medio.", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¿Conoces Elumen? Es un tratamiento que aporta color y mejora la textura y calidad de nuestro cabello. Actúa únicamente con pigmentos de color puros. No contiene amoniaco ni peróxido y por ello, las personas alérgicas a los tintes convencionales pueden utilizarlo. Aporta brillo al cabello manteniendo el color con un 76% más de durabilidad que cualquier otro tipo de coloración. El precio de este servicio puede variar según los gramos gastados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Extensiones De Plumas", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "¡Añade un toque divertido y único a tu melena gracias a la colocación de este complemento! Cómodo y rápido. Se ponen sin aportar calor y las puedes retirar cando quieras. Contamos con diversos tonos y formas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Cabello Corto", 
+            "duration": 3600, 
+            "price": "31 € ", 
+            "description": "Servicio de mechas por todo el cabello para conseguir un efecto natural desde ráiz. El precio de este servicio puede variar según los gramos gastados de producto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Cabello Largo", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Servicio de mechas por todo el cabello para conseguir un efecto natural desde ráiz. El precio de este servicio puede variar según los gramos gastados de producto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Cabello Melena", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "Servicio de mechas por todo el cabello para conseguir un efecto natural desde ráiz. El precio de este servicio puede variar según los gramos gastados de producto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Cabello Corto", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Con productos Matrix conseguimos rizar el cabello protegiendo el cabello y la calidad del mismo. Se puede elegir distintas técnicas de moldeado para conseguir el rizo deseado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Cabello Largo", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Con productos Matrix conseguimos rizar el cabello protegiendo el cabello y la calidad del mismo. Se puede elegir distintas técnicas de moldeado para conseguir el rizo deseado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Cabello Medio", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con productos Matrix conseguimos rizar el cabello protegiendo el cabello y la calidad del mismo. Se puede elegir distintas técnicas de moldeado para conseguir el rizo deseado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Cabello Corto", 
+            "duration": 2700, 
+            "price": "10 € ", 
+            "description": "Cualquier tipo de peinado realizado con secador de mano. No incluye producto suplemento de 2 euros a abonar en el salón"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "11,5 € ", 
+            "description": "Cualquier tipo de peinado realizado con secador de mano. No incluye producto suplemento de 2 euros a abonar en el salón"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Melena Larga", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Cualquier tipo de peinado realizado con secador de mano. No incluye producto suplemento de 2 euros a abonar en el salón"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Plancha/Tenacilla", 
+            "duration": 3600, 
+            "price": "13 € ", 
+            "description": "Cualquier tipo de peinado realizado con plancha o tenacilla. Incluye lavado, secado al aire, y el trabajo realizado con la herramienta térmica deseada. No incluye producto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 2700, 
+            "price": "44 € ", 
+            "description": "Incluye lavado con champú de tratamiento, peinado previo al recogido, productos de styling necesarios y horquillas. El precio puede incrementar si la elaboración conlleva mayor tiempo. En caso de poner postizo se pagará a parte, y siempre se devolverá el importe del mismo en el momento que dicho postizo se devuelva al salón. ¡Pregunta por nuestros bonos de novia!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Cabello Corto", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Trabajamos con tintes de la marca Matrix. Una coloración que nos asegura la calidad de cabello y una gran duración en color con diversidad de tonos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Cabello Corto Sin Amoniaco", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "ColorInsider: La única tecnología donde el aceite inyecta directamente el color a el corazón del la fibra del cabello. Brillo intenso y cobertura de canas garantizada."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Cabello Largo", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Trabajamos con tintes de la marca Matrix. Una coloración que nos asegura la calidad de cabello y una gran duración en color con diversidad de tonos. El precio se puede incrementar según la largura o espesor de cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Cabello Largo Sin Amoniaco", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "ColorInsider: La única tecnología donde el aceite inyecta directamente el color a el corazón del la fibra del cabello. Brillo intenso y cobertura de canas garantizada."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Cabello Melena", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Trabajamos con tintes de la marca Matrix. Una coloración que nos asegura la calidad de cabello y una gran duración en color con diversidad de tonos. El precio se puede incrementar según la largura o espesor de cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Cabello Melena Sin Amoniaco", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "ColorInsider: La única tecnología donde el aceite inyecta directamente el color a el corazón del la fibra del cabello. Brillo intenso y cobertura de canas garantizada."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Olaplex", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Nuevo servicio con Olaplex. Con este tratamiento conseguimos recuperar la fibra capilar reconstruyendo el cabello desde el interior. Para todo tipo de cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Olaplex", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "Protege tu cabello durante el proceso de aclarado o coloración cuidando la fibra capilar y consiguiendo resultados óptimos sin maltratar el cabello. Este es el precio por servicio en la coloración. Puede aumentar según los mililitros utilizados."
+        }
+    ]
+}

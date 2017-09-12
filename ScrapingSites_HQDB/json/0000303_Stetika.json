@@ -1,0 +1,214 @@
+{
+    "adid": null, 
+    "name": "Stetika", 
+    "name_of_contact": "Stetika", 
+    "scrape_page": "https://www.bucmi.com/stetika", 
+    "business_website": "https://www.bucmi.com/stetika", 
+    "areas_covered": null, 
+    "description": "Centro de estética especializado en belleza integral situado en la zona de Lista de Madrid. Podrás encontrar diversos servicios con la mejor calidad precio, con tratamientos estéticos, faciales, corporales y capilares. ¡Ven a conocernos!, te cuidaremos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798401181152234.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798401254433217.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798401378026558.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798401459120031.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798401482088690.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798401531620010.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798401790056385.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "21", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ayala, 98", 
+    "city": "Madrid", 
+    "zipcode": "28001", 
+    "formatted_address": "C/ Ayala, 98, Madrid, 28001", 
+    "country": "es", 
+    "office_number": "914316337", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4272802000", 
+    "longitude": "-3.6760569000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635986586520238238.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "6Ss Cavitación,Presoterapia,Masaje Anticelulítico.", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Pack completo para modelar tu figura. Con la cavitación rompemos la grasa de la zona localizada mediante infrarrojos, con la presoterapia drenamos esta grasa gracias al juego de presiones y con el masaje eliminas la piel de naranja tan molesta. ¡Presume de un cuerpo moldeado y libre de complejos, todo ello en manos de nuestros profesionales y con la mejor aparatología! No lo dudes y reserva ya en Bucmi."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Profunda Con Tratamiento", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "El servicio incluye limpieza y desmaquillado de la piel, extracción de impurezas con ozono, vapor o mascarilla (según el tipo de piel), tratamiento de nutrición de la piel, y tónico y mascarilla final refrescante con masaje facial. ¡Luce un cutis espectacular por un precio increíble y en manos de nuestros profesionales! Reserva ya en Bucmi, te encantará."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo, Peinar E Hidratación Kerastase", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "El servicio incluye una baño de hidratación profunda del cabello de la marca Kerastasse, corte asesorado, lavado y peinado. nuestro equipo de profesionales te aconsejarán para conseguir la imagen que más te favorece. Utilizamos productos de primeras marcas. Para melenas extralargas o con mucho volumen consulte posible suplemento con el profesional. ¡No lo dudes y reserva ya en Bucmi! ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "¿Buscas una mirada de cine? ¿O tal vez quieras olvidarte de una vez por todas de la máscara de pestañas? Si buscas estar perfecta de la mañana a la noche, con nuestro servicio de tinte y permanente podrás aportar una bonita curvatura a tus pestañas, a la vez que les proporcionas un color intenso. ¿Te apuntas? Utilizamos productos de primera calidad. ¡Reserva ya en Bucmi y te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera En Media Pierna, Brasileña,Axilas", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Elimina ese vello tan molesto con cera tibia para piernas y caliente para ingles brasileñas y axilas. Consigue una piel suave y sedosa con esta depilación, siempre en manos de nuestros profesionales y a un precio muy asequible. ¡Estate lista las 24 horas del día para cualquier plan! ¿A qué estás esperando? Que no te lo cuenten."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "130 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para pelo corto y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para media melena y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Vegetal, Hidratación Kerastase Y Secado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Unifica el color de tu cabello gracias a este servicio que incluye baño de color sin amoniaco y con productos vegetales, baño de hidratación Kerastasse y secado rápido de la melena. Para melenas extralargas y con mucho volumen consulte suplemento. ¡Consigue la luminosidad y el color que estás buscando para tu melena! Utilizamos productos de primeras marcas. ¡Reserva ya en Bucmi, te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo, Peinar E Hidratación Kerastase", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "El servicio incluye una baño de hidratación profunda del cabello de la marca Kerastasse, corte asesorado, lavado y peinado. nuestro equipo de profesionales te aconsejarán para conseguir la imagen que más te favorece. Utilizamos productos de primeras marcas. Para melenas extralargas o con mucho volumen consulte posible suplemento con el profesional. ¡No lo dudes y reserva ya en Bucmi! ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color O Mechas. Hidratación Kerastase Y Corte", 
+            "duration": 5400, 
+            "price": "99 € ", 
+            "description": "Ilumina tu melena gracias a este pack que incluye el lavado, la aplicación del color o las mechas, la hidratación keastase, el corte y el secado natural. Todo ello con productos de primeras marcas y en manos de un equipo cualificado de profesionales. ¿A qué estás esperando? Presume de un pelo con color y lleno de vida. ¡Reserva ya en Bucmi y notarás los resultados!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 2700, 
+            "price": "14,95 € ", 
+            "description": "El servicio incluye corte de pelo asesorado, lavado y peinado con productos de acabado. Dale un nuevo toque a tu look de la mano de profesionales de amplia experiencia. ¿Quién ha dicho que los hombres no se preocupan por su aspecto? En Stetika sabemos que no es cierto y por ello te ofrecemos este servicio a un precio muy asequible. ¡Reserva ya en Bucmi y no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "130 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para pelo corto y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para pelo corto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para media melena y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para media melena."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Vegetal, Hidratación Kerastase Y Secado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Unifica el color de tu cabello gracias a este servicio que incluye baño de color sin amoniaco y con productos vegetales, baño de hidratación Kerastasse y secado rápido de la melena. Para melenas extralargas y con mucho volumen consulte suplemento. ¡Consigue la luminosidad y el color que estás buscando para tu melena! Utilizamos productos de primeras marcas. ¡Reserva ya en Bucmi, te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo, Peinar E Hidratación Kerastase", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "El servicio incluye una baño de hidratación profunda del cabello de la marca Kerastasse, corte asesorado, lavado y peinado. nuestro equipo de profesionales te aconsejarán para conseguir la imagen que más te favorece. Utilizamos productos de primeras marcas. Para melenas extralargas o con mucho volumen consulte posible suplemento con el profesional. ¡No lo dudes y reserva ya en Bucmi! ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "130 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para pelo corto y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para pelo corto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para media melena y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para media melena."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Vegetal, Hidratación Kerastase Y Secado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Unifica el color de tu cabello gracias a este servicio que incluye baño de color sin amoniaco y con productos vegetales, baño de hidratación Kerastasse y secado rápido de la melena. Para melenas extralargas y con mucho volumen consulte suplemento. ¡Consigue la luminosidad y el color que estás buscando para tu melena! Utilizamos productos de primeras marcas. ¡Reserva ya en Bucmi, te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo, Peinar E Hidratación Kerastase", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "El servicio incluye una baño de hidratación profunda del cabello de la marca Kerastasse, corte asesorado, lavado y peinado. nuestro equipo de profesionales te aconsejarán para conseguir la imagen que más te favorece. Utilizamos productos de primeras marcas. Para melenas extralargas o con mucho volumen consulte posible suplemento con el profesional. ¡No lo dudes y reserva ya en Bucmi! ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color O Mechas. Hidratación Kerastase Y Corte", 
+            "duration": 5400, 
+            "price": "99 € ", 
+            "description": "Ilumina tu melena gracias a este pack que incluye el lavado, la aplicación del color o las mechas, la hidratación keastase, el corte y el secado natural. Todo ello con productos de primeras marcas y en manos de un equipo cualificado de profesionales. ¿A qué estás esperando? Presume de un pelo con color y lleno de vida. ¡Reserva ya en Bucmi y notarás los resultados!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Keratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "130 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para pelo corto y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para pelo corto."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para media melena y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para media melena."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color Vegetal, Hidratación Kerastase Y Secado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Unifica el color de tu cabello gracias a este servicio que incluye baño de color sin amoniaco y con productos vegetales, baño de hidratación Kerastasse y secado rápido de la melena. Para melenas extralargas y con mucho volumen consulte suplemento. ¡Consigue la luminosidad y el color que estás buscando para tu melena! Utilizamos productos de primeras marcas. ¡Reserva ya en Bucmi, te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "130 € ", 
+            "description": "Con nuestro servicio de alisado conseguirás eliminar por fin el encrespamiento y conseguir un resultado duradero durante meses, ¡hasta 6 si realizas el mantenimiento adecuado! Es un servicio para pelo corto y te permitirá ese liso que siempre has deseado. Podrás elegir entre keratina o ácido hialurónico. ¡Luce una melena siempre peinada, con ayuda de nuestro equipo de profesionales. El precio es para pelo corto."
+        }
+    ]
+}

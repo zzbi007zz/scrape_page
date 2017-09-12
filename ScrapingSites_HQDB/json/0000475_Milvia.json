@@ -1,0 +1,117 @@
+{
+    "adid": null, 
+    "name": "Milvia", 
+    "name_of_contact": "Milvia", 
+    "scrape_page": "https://www.bucmi.com/milvia", 
+    "business_website": "https://www.bucmi.com/milvia", 
+    "areas_covered": null, 
+    "description": "En Milvia encontrarás un espacio de armonía y bienestar y nuestro objetivo es poner en práctica nuestros conocimientos y nuestra profesionalidad para dar tratamientos y servicios personalizados.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654764516785693.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654764517254424.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654764518660776.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654764518973313.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654764519442087.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654764520223398.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654764521942295.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654764523192392.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Galileo, 93", 
+    "city": "Madrid", 
+    "zipcode": "28037", 
+    "formatted_address": "C/ Galileo, 93, Madrid, 28037", 
+    "country": "es", 
+    "office_number": "913048248", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4384869999", 
+    "longitude": "-3.6323618000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635972060949181343.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "48,5 € ", 
+            "description": "El servicio incluye el lavado con el champu. En caso de cambio de color consultar con su profesional un posible suplemento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Mujer Y Peinado", 
+            "duration": 2700, 
+            "price": "26,9 € ", 
+            "description": "Córtate las puntas en peluquería Milvia, obtendrás un trato 10 siempre con nuestros profesionales. Incluye el servicio de peluquería: lavado, corte de pelo y peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extension Pestañas", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Consigue una mirada más profunda durante al menos 3 meses. El servicio se realiza pelo a pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "48,5 € ", 
+            "description": "El servicio incluye el lavado con el champu. En caso de cambio de color consultar con su profesional un posible suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer Y Peinado", 
+            "duration": 2700, 
+            "price": "26,9 € ", 
+            "description": "Córtate las puntas en peluquería Milvia, obtendrás un trato 10 siempre con nuestros profesionales. Incluye el servicio de peluquería: lavado, corte de pelo y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar", 
+            "duration": 5400, 
+            "price": "60,5 € ", 
+            "description": "Ilumina tu cabello y dale un toque de color. El servicio incluye lavado con champu. Cualquier aplicación extra, consultar con el profesional posible suplemento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "48,5 € ", 
+            "description": "El servicio incluye el lavado con el champu. En caso de cambio de color consultar con su profesional un posible suplemento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Para Mujer Y Peinado", 
+            "duration": 2700, 
+            "price": "26,9 € ", 
+            "description": "Córtate las puntas en peluquería Milvia, obtendrás un trato 10 siempre con nuestros profesionales. Incluye el servicio de peluquería: lavado, corte de pelo y peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas, Cortar Y Peinar", 
+            "duration": 5400, 
+            "price": "60,5 € ", 
+            "description": "Ilumina tu cabello y dale un toque de color. El servicio incluye lavado con champu. Cualquier aplicación extra, consultar con el profesional posible suplemento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "48,5 € ", 
+            "description": "El servicio incluye el lavado con el champu. En caso de cambio de color consultar con su profesional un posible suplemento."
+        }
+    ]
+}

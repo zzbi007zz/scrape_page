@@ -1,0 +1,150 @@
+{
+    "adid": null, 
+    "name": "A mi aire", 
+    "name_of_contact": "A mi aire", 
+    "scrape_page": "https://www.bucmi.com/amiaire", 
+    "business_website": "https://www.bucmi.com/amiaire", 
+    "areas_covered": null, 
+    "description": "Centro de belleza en el centro de Madrid. Descubre tu nueva peluquería de moda donde realizamos gran variedad de trabajos y servicios personalizados para ti. Reserva ya nuestros cortes de pelo, colores, manicuras, pedicuras... y ¡disfruta del resultado!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914711400588316.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914711420431619.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914711440912865.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914711461749954.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914711487999884.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914711514562322.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ayala, 84", 
+    "city": "Madrid", 
+    "zipcode": "28013", 
+    "formatted_address": "C/ Ayala, 84, Madrid, 28013", 
+    "country": "es", 
+    "office_number": "915471690", 
+    "office_number2": null, 
+    "mobile_number": "722552907", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4198390000", 
+    "longitude": "-3.7105145000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635972057360154836.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Henna Sin Peinar", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Oferta de Lunes a Jueves. Disfruta de una coloración natural y brillante gracias a nuestro servicio de coloración de Henna. El servicio incluye el lavado con champú e hidratación pero no incluye el peinado del cabello. Ven ya a A Mi Aire."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Pelo Corto", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Oferta de Lunes a Jueves. Lavamos tu melena con un champú específico e hidratación, y le daremos una coloración asesorada para que tu aburrida melena cambie de look. No incluye el peinado de la melena. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar Y Peinar Pelo Corto Y Media Melena", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "Oferta de Lunes a Jueves. Nuestro paquete de toda la vida para que sanees tu melena y devuelvas la forma perdida a tu cabello. Incluye el corte de tendencia, lavado con champú y mascarilla y peinado del pelo para que salgas perfecta."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas, Cortar Y Peinar Pelo Corto", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "Oferta de Lunes a Jueves. Ilumina tu cabello gracias a nuestro servicio de mechas. Además, incluye un corte de moda, lavado con champú y mascarilla y peinado definido del cabello. Válido para el pelo corto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Diamante De Hidratación", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Oferta de Lunes a Jueves. Consta de champú purificante, aceites esenciales y mascarilla. Incluye sólo el tratamiento, el lavado y el peinado consulta suplemento en el salón. Perfecto para sanear y nutrir tu pelo dañado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Henna Sin Peinar", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Oferta de Lunes a Jueves. Disfruta de una coloración natural y brillante gracias a nuestro servicio de coloración de Henna. El servicio incluye el lavado con champú e hidratación pero no incluye el peinado del cabello. Ven ya a A Mi Aire."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Media Melena", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Oferta de Lunes a Jueves. Lavamos tu melena con un champú específico e hidratación, y le daremos una coloración asesorada para que tu aburrida melena cambie de look. No incluye el peinado de la melena. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Pelo Corto", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Oferta de Lunes a Jueves. Lavamos tu melena con un champú específico e hidratación, y le daremos una coloración asesorada para que tu aburrida melena cambie de look. No incluye el peinado de la melena. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Lavar", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Oferta de Lunes a Jueves. Si eres de las que no te guste los peinados de peluquería, sino secar tu pelo de manera natural, reserva online nuestro servicio de corte de tendencia con lavado con champú y acondicionador. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto Y Media Melena", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "Oferta de Lunes a Jueves. Nuestro paquete de toda la vida para que sanees tu melena y devuelvas la forma perdida a tu cabello. Incluye el corte de tendencia, lavado con champú y mascarilla y peinado del pelo para que salgas perfecta."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Oferta de Lunes a Jueves. Si quieres renovar tu look y lucir un corte de tendencia reserva online nuestro paquete de corte de pelo para el hombre. El servicio incluye el lavado con champú, el corte asesorado y el peinado con productos de acabado. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Largo", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Oferta de Lunes a Jueves. El servicio incluye lavar y peinar en cabello largo. Se cobrará un pequeño suplemento si se usa mascarilla o champú especial."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar Pelo Corto", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "Oferta de Lunes a Jueves. Ilumina tu cabello gracias a nuestro servicio de mechas. Además, incluye un corte de moda, lavado con champú y mascarilla y peinado definido del cabello. Válido para el pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar Pelo Media Melena", 
+            "duration": 5400, 
+            "price": "53 € ", 
+            "description": "Oferta de Lunes a Jueves. Ilumina tu cabello gracias a nuestro servicio de mechas. Además, incluye un corte de moda, lavado con champú y mascarilla y peinado definido del cabello. Válido para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Diamante De Hidratación", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Oferta de Lunes a Jueves. Consta de champú purificante, aceites esenciales y mascarilla. Incluye sólo el tratamiento, el lavado y el peinado consulta suplemento en el salón. Perfecto para sanear y nutrir tu pelo dañado."
+        }
+    ]
+}

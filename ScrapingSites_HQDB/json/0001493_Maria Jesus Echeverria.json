@@ -1,0 +1,281 @@
+{
+    "adid": null, 
+    "name": "Maria Jesus Echeverria", 
+    "name_of_contact": "Maria Jesus Echeverria", 
+    "scrape_page": "https://www.bucmi.com/mariajesus", 
+    "business_website": "https://www.bucmi.com/mariajesus", 
+    "areas_covered": null, 
+    "description": "La empresa María Jesús Echevarría en el Casco Antiguo de Bilbao, lleva más de 30 años dedicada al mundo de la peluquería y la imagen. Con una constante formación e innovación, apostamos por un trato exquisito a nuestros clientes. Reserva ya con Bucmi.com", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635424204913022705.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635424204981814715.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635424204983377277.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635424204987127197.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Heros, 12", 
+    "city": "Bilbao", 
+    "zipcode": "48011", 
+    "formatted_address": "C/ Heros, 12, Bilbao, 48011", 
+    "country": "es", 
+    "office_number": "944158841", 
+    "office_number2": null, 
+    "mobile_number": "722726566", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.2628260000", 
+    "longitude": "-2.9376419999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810740957909660.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Con Barros", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "El color con barros está totalmente libre de amoniaco son a base de vegetales y colorantes naturales que aporta brillo y cuerpo. Especialistas en el cuidado del cabello, contamos con 35 años de experiencia. No incluye peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Con Reflejo Vegetal Y Peinado", 
+            "duration": 5400, 
+            "price": "71 € ", 
+            "description": "Coloración vegetal sin amoniaco. El servicio ideal para nuestras clientes ECO, que quieren una melena brillante sin químicos ni sulfatos. Incluye el lavado con champú pero no el peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "33 € ", 
+            "description": "Incluye lavado con champú y acondicionador. Cortes con tendencia e innovadores gracias a nuestros expertos estilistas. No incluye peinar. ¿A qué estás esperando para hacer tu reserva?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Con Barros", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "El color con barros está totalmente libre de amoniaco son a base de vegetales y colorantes naturales que aporta brillo y cuerpo. Especialistas en el cuidado del cabello, contamos con 35 años de experiencia. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Con Barros Y Peinar", 
+            "duration": 7200, 
+            "price": "82 € ", 
+            "description": "El color con barros está totalmente libre de amoniaco son a base de vegetales y colorantes naturales que aporta brillo y cuerpo. Especialistas en el cuidado del cabello, contamos con 35 años de experiencia. Incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Con Reflejo Vegetal Y Peinado", 
+            "duration": 5400, 
+            "price": "71 € ", 
+            "description": "Coloración vegetal sin amoniaco. El servicio ideal para nuestras clientes ECO, que quieren una melena brillante sin químicos ni sulfatos. Incluye el lavado con champú pero no el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Conreflejo Vegetal", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Coloración vegetal sin amoniaco. El servicio ideal para nuestras clientes ECO, que quieren una melena brillante sin químicos ni sulfatos. Incluye el lavado con champú pero no el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Intenso", 
+            "duration": 1800, 
+            "price": "39 € ", 
+            "description": "Disfruta de una coloración intensa gracias a nuestra gama de colores de alta gama y luce una melena brillante y llena de vida gracias a María Jesús. El servicio incluye lavado con champú pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Intenso Y Peinado", 
+            "duration": 3600, 
+            "price": "71 € ", 
+            "description": "Disfruta de una coloración intensa gracias a nuestra gama de colores de alta gama y luce una melena brillante y llena de vida gracias a María Jesús. El servicio incluye lavado con champú y peinado con definición."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Para El Hombre Con Peinado", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Exclusivo servicio para el hombre donde te podrás eliminar esas incipientes canas que van apareciendo y que te hacen sentir menos joven. Incluye lavado y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Incluye lavado con champú y acondicionador. Cortes con tendencia e innovadores gracias a nuestros expertos estilistas. Incluye el peinado con definición del pelo ¿A qué estás esperando para hacer tu reserva?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Sin Peinado", 
+            "duration": 900, 
+            "price": "21 € ", 
+            "description": "Incluye corte tanto en seco como en mojado, a preferencia del cliente. Exclusivo servicio para el hombre donde te podrás decantar por un corte de tendencia o recurrir a un estilo más clásico y gentleman. Reserva ya con Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Color Hombre Y Peinado", 
+            "duration": 3600, 
+            "price": "46 € ", 
+            "description": "Incluye corte tanto en seco como en mojado, a preferencia del cliente. Exclusivo servicio para el hombre donde te podrás decantar por un corte de tendencia o recurrir a un estilo más clásico y gentleman. Además, incluye la coloración de tus canas y peinado con acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Con Masaje Capilar", 
+            "duration": 1800, 
+            "price": "24,5 € ", 
+            "description": "Servicio de un masaje de relajación mientras lavamos la melena del cliente con champú normal. No incluye el secado. Perfecto si quieres darte un respiro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado, Masaje Capilar Y Brushing", 
+            "duration": 2700, 
+            "price": "39,5 € ", 
+            "description": "Servicio de un masaje de relajación mientras lavamos la melena del cliente con champú normal. Incluye el secado efecto brushing con secador para quitarte la humedad. Perfecto si quieres darte un respiro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado, Masaje Capilar Y Peinado", 
+            "duration": 2700, 
+            "price": "56,5 € ", 
+            "description": "Servicio de un masaje de relajación mientras lavamos la melena del cliente con champú normal. Incluye el peinado del pelo. Perfecto si quieres darte un respiro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Brushing", 
+            "duration": 1800, 
+            "price": "30,5 € ", 
+            "description": "Incluye champú normal y secado del pelo. Este servicio es ideal para aquellas clientes que quieren darse un capricho y les gusta su melena natural. Hacemos efecto brushing con el secador."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Brillos)", 
+            "duration": 3600, 
+            "price": "61 € ", 
+            "description": "Consigue unos brillos naturales con unas mechas de plata. Incluye lavar, brillo pero no incluye el peinado. El precio es el mismo en todas las larguras del cabello. Puedes escoger entre mechas de plata, californianas, balayage..."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Caviar (Hidratación)", 
+            "duration": 1800, 
+            "price": "52 € ", 
+            "description": "Tratamiento para mejorar el pelo. Gracias a las propiedas del caviar, le aporta nutrición y da fortaleza a tu pelo. Incluye lavar con champú y el propio tratamiento pero, no incluye peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante Densificante", 
+            "duration": 900, 
+            "price": "25 € ", 
+            "description": "Para cabellos con perdida de densidad, enriquecido con estemoxidina .Aporte de cuerpo densidad y soltura para cabellos sin densidad. Incluye el lavado con champú pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante Dicipline", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Servicio Thermo-Disciplinante de larga duración sin agresión a la fibra capilar. Control anti encrespamiento y anti-humedad, brillo y suavidad, resultados duraderos hasta 10 lavados. Incluye lavar, no incluye peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante Elixir Ultime", 
+            "duration": 900, 
+            "price": "25 € ", 
+            "description": "Todo tipo de cabello. La aleación óptima entre nutrición y ligereza para un cabello suave y radiante gracias a la combinación exquisita de aceites preciosos: argan, camelia, pracaxi y maíz. Incluye el lavado con champú pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Bótox Y Peinado", 
+            "duration": 3600, 
+            "price": "71,5 € ", 
+            "description": "Disfruta de un pelo liso e hidratado gracias a nuestro bótox capilar. Conseguirás hidratar de forma profunda tu melena y reparar los posibles daños que generan el sol, el estrés,el mar.... Incluye lavado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Caviar Y Peinado", 
+            "duration": 3600, 
+            "price": "83,5 € ", 
+            "description": "Tratamiento para mejorar el pelo. Gracias a las propiedas del caviar, le aporta nutrición y da fortaleza a tu pelo. Incluye lavar con champú y el propio tratamiento y por último, peinado con definición."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Hidratante Densificante", 
+            "duration": 3600, 
+            "price": "56,5 € ", 
+            "description": "Para cabellos con perdida de densidad, enriquecido con estemoxidina .Aporte de cuerpo densidad y soltura para cabellos sin densidad. Incluye el lavado con champú y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Hidratante Dicipline", 
+            "duration": 3600, 
+            "price": "81,5 € ", 
+            "description": "Servicio Thermo-Disciplinante de larga duración sin agresión a la fibra capilar. Control anti encrespamiento y anti-humedad, brillo y suavidad, resultados duraderos hasta 10 lavados. Incluye lavar con champú, el tratamiento y el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "33 € ", 
+            "description": "Incluye lavado con champú y acondicionador. Cortes con tendencia e innovadores gracias a nuestros expertos estilistas. No incluye peinar. ¿A qué estás esperando para hacer tu reserva?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "39,5 € ", 
+            "description": "Incluye champú normal y peinado del pelo. Este servicio es ideal para aquellas clientes a las que surge un evento o cita importante a última hora y quieren ir perfectas. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Brillos) Y Peinado", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Consigue unos brillos naturales con unas mechas de plata. Incluye lavar, brillo y peinar. El precio es el mismo en todas las larguras del cabello. Puedes escoger entre mechas de plata, californianas, balayage..."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina", 
+            "duration": 9000, 
+            "price": "235 € ", 
+            "description": "Controla tu pelo, cabello sano y vigoroso. Incluye lavado, fijación del producto, peinado y Kit de mantenimiento de regalo para que cuides te melena en casa. Dile adiós al encrespamiento de tu melena."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Con Barros", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "El color con barros está totalmente libre de amoniaco son a base de vegetales y colorantes naturales que aporta brillo y cuerpo. Especialistas en el cuidado del cabello, contamos con 35 años de experiencia. No incluye peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Con Barros Y Peinar", 
+            "duration": 7200, 
+            "price": "82 € ", 
+            "description": "El color con barros está totalmente libre de amoniaco son a base de vegetales y colorantes naturales que aporta brillo y cuerpo. Especialistas en el cuidado del cabello, contamos con 35 años de experiencia. Incluye peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Con Reflejo Vegetal Y Peinado", 
+            "duration": 5400, 
+            "price": "71 € ", 
+            "description": "Coloración vegetal sin amoniaco. El servicio ideal para nuestras clientes ECO, que quieren una melena brillante sin químicos ni sulfatos. Incluye el lavado con champú pero no el peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Conreflejo Vegetal", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Coloración vegetal sin amoniaco. El servicio ideal para nuestras clientes ECO, que quieren una melena brillante sin químicos ni sulfatos. Incluye el lavado con champú pero no el peinado."
+        }
+    ]
+}

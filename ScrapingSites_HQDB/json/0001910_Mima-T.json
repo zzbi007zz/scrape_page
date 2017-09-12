@@ -1,0 +1,338 @@
+{
+    "adid": null, 
+    "name": "Mima-T", 
+    "name_of_contact": "Mima-T", 
+    "scrape_page": "https://www.bucmi.com/mimat", 
+    "business_website": "https://www.bucmi.com/mimat", 
+    "areas_covered": null, 
+    "description": "Peluquería Mima-T. Tu nuevo centro de peluquería y estética situado muy cerca de la plaza Reina Sofía. Sus estilistas cuentan con una gran trayectoria y reconocimiento en Zaragoza. Pon tu imagen en manos de los mejores profesionales del sector.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635513987597104714.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635513987622106736.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635513987642264547.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635513987687268140.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635513987705863348.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "50013", 
+    "formatted_address": "Zaragoza, Zaragoza, Zaragoza, 50018, Zaragoza, 50013", 
+    "country": "es", 
+    "office_number": "976362786", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6445868000", 
+    "longitude": "-0.8713056999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636065999270523635.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "El corte incluye lavado con productos de tratamiento y corte asesorado. No incluye peinado. Paquete ideal para las clientes que no les gusta peinarse en la peluquería. ¡Sorprende con una melena mucho más renovado, siempre en manos de nuestro equipo de profesionales! Podrás escoger el corte que más te gusta, el más acorde con tu estilo y personalidad. Reserva ya cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio incluye producto específico para el lavado como el champú y el acondicionador. También incluye peinado del cabello con definición para que salgas simplemente perfecta para esa cita tan importante o en tu día a día. Nuestro equipo de profesionales trabajarán para conseguir embellecer tu aspecto. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Un corte para el hombre, con asesoramiento, que incluye lavado con productos de tratamiento, corte asesorado y peinado. Servicio exclusivo para la belleza del hombre. Podrás escoger el corte que más te guste, el más acorde a tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Disfruta de unas manos bonitas y de aspecto cuidado gracias a nuestra completa manicura que incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas, hidratación de la piel y esmaltado en el color que prefieras dentro de nuestros esmaltes. Escoge el tono que más te guste, que más vaya con tu estilo y personalidad. ¡Ven a nuestro centro y conseguirás unas manos envidiables para cualquier ocasión! ¿A qué estás esperando para reservar?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "El corte incluye lavado con productos de tratamiento y corte asesorado. No incluye peinado. Paquete ideal para las clientes que no les gusta peinarse en la peluquería. ¡Sorprende con una melena mucho más renovado, siempre en manos de nuestro equipo de profesionales! Podrás escoger el corte que más te gusta, el más acorde con tu estilo y personalidad. Reserva ya cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio incluye producto específico para el lavado como el champú y el acondicionador. También incluye peinado del cabello con definición para que salgas simplemente perfecta para esa cita tan importante o en tu día a día. Nuestro equipo de profesionales trabajarán para conseguir embellecer tu aspecto. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Pelo Hombre", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "¡Olvídate del rizo indomable! Disfruta de un pelo liso y brillante gracias a nuestro completo servicio de alisado especial para hombre. ¡Perfecto para cualquier ocasión! Utilizamos productos de primera calidad, para un resultado eficaz y permanente. ¿Quién ha dicho que ellos no se preocupan por su aspecto? Reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color De Pelo Hombre", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "La coloración también es cosa para hombres. Nuestros profesionales te asesorarán para eliminar esas canas que te envejecen y quitan ese aspecto juvenil que tanto te gusta. El servicio incluye el lavado, la aplicación del color y el secado natural. ¡Sorprende con un look renovado y ven a nuestro centro! Estarás en manos de un cualificado equipo de profesionales, que trabajan con productos de primeras marcas. ¡No lo dudes y reserva ya tu cita cómodamente online! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Disfruta de una melena llena de color y de vida. Podrás escoger el tono que más vaya contigo, dentro de nuestra amplia gama de coloraciones. Utilizamos productos de primera calidad. El servicio también incluye el lavado con champú y acondicionador y peinado con definición del pelo. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Disfruta de una melena llena de color y de vida. Podrás escoger el tono que más vaya contigo, dentro de nuestra amplia gama de coloraciones. Utilizamos productos de primera calidad. El servicio también incluye el lavado con champú y acondicionador y peinado con definición del pelo. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Un corte para el hombre, con asesoramiento, que incluye lavado con productos de tratamiento, corte asesorado y peinado. Servicio exclusivo para la belleza del hombre. Podrás escoger el corte que más te guste, el más acorde a tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo De Niña", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "Servicio hasta los 12 años de edad. Tráete a la princesita de la casa y deja que la mimemos a la vez que la ponemos guapa con nuestros cortes de tendencia. Ella también quiere presumir de look en el cole. Incluye corte de pelo en seco. Confía en nuestro equipo de profesionales y ¡reserva ya la cita cómodamente online a través de Bucmi.com! Se sentirá tan cómoda como en casa. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Este servicio incluye producto específico para el lavado como el champú y el acondicionador. También incluye peinado del cabello con definición para que salgas simplemente perfecta para esa cita tan importante o en tu día a día. Nuestro equipo de profesionales trabajarán para conseguir embellecer tu aspecto. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje Novia", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Incluye ampolla Flash de belleza para ese día tan especial. Serás la novia más guapa gracias a nuestro servicio de maquillaje para novias. En Mima-T sabemos que ese día tan importante para tí, cualquier cuidado es poco. Es por ello que encontraremos el maquillaje que más te favorezca, todo ello con un resultado muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Peinar", 
+            "duration": 5400, 
+            "price": "41 € ", 
+            "description": "Ilumina tu cabello con las mechas de moda de Mima-T. Las mechas californianas son ahora tendencia, proporcionándote un look surfero y trendy. ¡Sorprenderás con una melena llena de color y vida! El servicio también incluye el lavado con champú y acondicionador y el peinado con definición de la melena. Reserva ya cómodamente online a través de Bucmi.com. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Lavar Y Peinar Pelo Corto", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "Las mechas te aportarán el color y la luminosidad que estás buscando para tu melena. El servicio también incluye el lavado con champú y acondicionador y el peinado con definición de la melena. Estarás en manos de nuestro equipo de profesionales, que trabajarán para conseguir el mejor resultado. Reserva ya tu cita cómodamente a través de Bucmi.com. ¡No lo pienses más y ven a nuestro centro! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Servicio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Lavar Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "46 € ", 
+            "description": "Las mechas te aportarán el color y la luminosidad que estás buscando para tu melena. El servicio también incluye el lavado con champú y acondicionador y el peinado con definición de la melena. Estarás en manos de nuestro equipo de profesionales, que trabajarán para conseguir el mejor resultado. Reserva ya tu cita cómodamente a través de Bucmi.com. ¡No lo pienses más y ven a nuestro centro! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Servicio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador, Lavar Y Peinar Pelo Corto", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Incluye producto específico para el lavado como champú y acondicionador. Consigue unas ondas de moda durante más tiempo gracias a nuestro moldeado. También incluye el peinado al final. Duración de unos 3 o 4 meses. Confía en nuestro equipo de profesionales y luce una melena con volumen y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador, Lavar Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Incluye producto específico para el lavado como champú y acondicionador. Consigue unas ondas de moda durante más tiempo gracias a nuestro moldeado. También incluye el peinado al final. Duración de unos 3 o 4 meses. Confía en nuestro equipo de profesionales y luce una melena con volumen y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novio: Corte Y Peinado", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Este pack incluye un corte 15 días antes del enlace con lavado y peinado. También incluye el retoque del corte el día de la boda y el peinado el día del enlace. El novio también debe estar ideal para este día tan importante. Incluye productos específicos según el tipo de pelo. ¡No lo dudes y reserva ya tu cita cómodamente online! Estarás en las mejores manos. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Niña Comunión", 
+            "duration": 900, 
+            "price": "25 € ", 
+            "description": "Incluye lavar, peinar y producto específico tanto para el lavado como para el peinado. Si estás pensando en los detalles de la primera Comunión de tu hija, ven a visitarnos y te asesoraremos en su peinado. Conseguiremos un peinado natural y adecuado. ¡No lo dudes y reserva ya cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Prueba Comunión Niña", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "Incluye lavar, peinar y producto específico tanto para el peinado como para el lavado. Si estás pensando en los detalles de la primera Comunión de tu hija, ven a visitarnos y te asesoraremos en su peinado. Conseguiremos un peinado natural y adecuado. El servicio incluye una prueba antes del evento. ¡No lo dudes y reserva ya cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Prueba Peinado Novia", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El servicio incluye una prueba de peinado de novia con lavado y peinado. Incluye producto específico. Recogidos de novias para todos los estilos. Una cosa menos de la que tendrás que preocuparte. ¡Porque en ese día tan especial, cualquier cuidado es poco! No lo dudes y reserva ya tu cita cómodamente online. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Fiesta", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Incluye producto específico.Descubre nuestros recogidos de fiesta,¡ ideales para una noche de fiesta o eventos especiales! Conseguiremos el peinado que más te embellezca, siempre respetando tu estilo y personalidad. Ponte en manos de nuestro equipo de profesionales y ¡te encantarán los resultados! No lo dudes y reserva ya tu cita cómodamente online. ¿A qué estás esperando? ¡Se la verdadera estrella de la fiesta!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Novia", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "El servicio incluye el lavado y el peinado. Incluye producto específico. Recogidos de novias para todos los estilos, siempre en manos de nuestro equipo de profesionales. ¡Podrás encontrar el estilo que más vaya contigo, siendo así la novia más guapa! En un día tan importante para tí, cualquier cuidado es poco. ¡No lo pienses más y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Incluye producto específico. En Mima-T encontrarás diferentes semirecogidos para multitud de situaciones. Ven con el que hayas elegido o déjate asesorar por nuestros estilistas. Sea como sea, te sentirás verdaderamente especial para cualquier ocasión. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Hidratación Keratina Y Peinado", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "El tratamiento que eliminará el encrespamiento y aportará brillo a tu melena gracias a nuestra keratina 100% libre de formol y de otros sulfatos. Además, incluye el peinado para dar definición a tu melena. Utilizamos productos de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online! Un pelo más suave y cuidado, siempre con ayuda de nuestro equipo de profesionales. Te va a encantar como te queda. ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "El corte incluye lavado con productos de tratamiento y corte asesorado. No incluye peinado. Paquete ideal para las clientes que no les gusta peinarse en la peluquería. ¡Sorprende con una melena mucho más renovado, siempre en manos de nuestro equipo de profesionales! Podrás escoger el corte que más te gusta, el más acorde con tu estilo y personalidad. Reserva ya cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio incluye producto específico para el lavado como el champú y el acondicionador. También incluye peinado del cabello con definición para que salgas simplemente perfecta para esa cita tan importante o en tu día a día. Nuestro equipo de profesionales trabajarán para conseguir embellecer tu aspecto. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Pelo Hombre", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "¡Olvídate del rizo indomable! Disfruta de un pelo liso y brillante gracias a nuestro completo servicio de alisado especial para hombre. ¡Perfecto para cualquier ocasión! Utilizamos productos de primera calidad, para un resultado eficaz y permanente. ¿Quién ha dicho que ellos no se preocupan por su aspecto? Reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "El corte incluye lavado con productos de tratamiento y corte asesorado. No incluye peinado. Paquete ideal para las clientes que no les gusta peinarse en la peluquería. ¡Sorprende con una melena mucho más renovado, siempre en manos de nuestro equipo de profesionales! Podrás escoger el corte que más te gusta, el más acorde con tu estilo y personalidad. Reserva ya cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio incluye producto específico para el lavado como el champú y el acondicionador. También incluye peinado del cabello con definición para que salgas simplemente perfecta para esa cita tan importante o en tu día a día. Nuestro equipo de profesionales trabajarán para conseguir embellecer tu aspecto. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "El corte incluye lavado con productos de tratamiento y corte asesorado. No incluye peinado. Paquete ideal para las clientes que no les gusta peinarse en la peluquería. ¡Sorprende con una melena mucho más renovado, siempre en manos de nuestro equipo de profesionales! Podrás escoger el corte que más te gusta, el más acorde con tu estilo y personalidad. Reserva ya cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavar Y Peinar Pelo Largo", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio incluye producto específico para el lavado como el champú y el acondicionador. También incluye peinado del cabello con definición para que salgas simplemente perfecta para esa cita tan importante o en tu día a día. Nuestro equipo de profesionales trabajarán para conseguir embellecer tu aspecto. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Pelo Hombre", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "¡Olvídate del rizo indomable! Disfruta de un pelo liso y brillante gracias a nuestro completo servicio de alisado especial para hombre. ¡Perfecto para cualquier ocasión! Utilizamos productos de primera calidad, para un resultado eficaz y permanente. ¿Quién ha dicho que ellos no se preocupan por su aspecto? Reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color De Pelo Hombre", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "La coloración también es cosa para hombres. Nuestros profesionales te asesorarán para eliminar esas canas que te envejecen y quitan ese aspecto juvenil que tanto te gusta. El servicio incluye el lavado, la aplicación del color y el secado natural. ¡Sorprende con un look renovado y ven a nuestro centro! Estarás en manos de un cualificado equipo de profesionales, que trabajan con productos de primeras marcas. ¡No lo dudes y reserva ya tu cita cómodamente online! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Disfruta de una melena llena de color y de vida. Podrás escoger el tono que más vaya contigo, dentro de nuestra amplia gama de coloraciones. Utilizamos productos de primera calidad. El servicio también incluye el lavado con champú y acondicionador y peinado con definición del pelo. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Disfruta de una melena llena de color y de vida. Podrás escoger el tono que más vaya contigo, dentro de nuestra amplia gama de coloraciones. Utilizamos productos de primera calidad. El servicio también incluye el lavado con champú y acondicionador y peinado con definición del pelo. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Un corte para el hombre, con asesoramiento, que incluye lavado con productos de tratamiento, corte asesorado y peinado. Servicio exclusivo para la belleza del hombre. Podrás escoger el corte que más te guste, el más acorde a tu estilo y personalidad. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Pelo De Niña", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "Servicio hasta los 12 años de edad. Tráete a la princesita de la casa y deja que la mimemos a la vez que la ponemos guapa con nuestros cortes de tendencia. Ella también quiere presumir de look en el cole. Incluye corte de pelo en seco. Confía en nuestro equipo de profesionales y ¡reserva ya la cita cómodamente online a través de Bucmi.com! Se sentirá tan cómoda como en casa. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavar Y Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Este servicio incluye producto específico para el lavado como el champú y el acondicionador. También incluye peinado del cabello con definición para que salgas simplemente perfecta para esa cita tan importante o en tu día a día. Nuestro equipo de profesionales trabajarán para conseguir embellecer tu aspecto. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje Novia", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Incluye ampolla Flash de belleza para ese día tan especial. Serás la novia más guapa gracias a nuestro servicio de maquillaje para novias. En Mima-T sabemos que ese día tan importante para tí, cualquier cuidado es poco. Es por ello que encontraremos el maquillaje que más te favorezca, todo ello con un resultado muy natural. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }
+    ]
+}

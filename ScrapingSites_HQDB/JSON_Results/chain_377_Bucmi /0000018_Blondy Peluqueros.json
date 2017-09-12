@@ -14,7 +14,7 @@
         "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636307239927507633.jpg"
     ], 
     "hqdb_featured_ad_type": "Featured", 
-    "hqdb_nr_reviews": "189", 
+    "hqdb_nr_reviews": "190", 
     "hqdb_review_score": "9,4", 
     "accreditations": null, 
     "category": null, 
@@ -26,7 +26,7 @@
     "country": "es", 
     "office_number": "915273566", 
     "office_number2": null, 
-    "mobile_number": "615492158", 
+    "mobile_number": null, 
     "mobile_number2": null, 
     "unidentified_phone_numbers": null, 
     "latitude": "40.4021862000", 
@@ -140,94 +140,101 @@
         }, 
         {
             "service_category": "Estética", 
-            "service": "Alisado Capilar Enzimoterapia", 
-            "duration": 10800, 
-            "price": "230 € ", 
-            "description": "Un tratamiento exclusivo de alisado orgánico, , disponible en Blondy Peluqueros. El precio del tratamiento podra tener un suplemento una vez analizado cada caso. Gracias a este tratamiento se alisa, reconstruye, hidrata y mejora la calidad del cabello. Todo en una sola sesión. Como expertos en cuidado del cabello Blondy peluqueros realiza tratamientos de última generación, realizados con cosméticos capilares de calidad y las manos de sus experimentados profesionales."
-        }, 
-        {
-            "service_category": "Estética", 
-            "service": "Pack Mechas Y Balayage", 
-            "duration": 7200, 
-            "price": "76 € ", 
-            "description": "Servicio de la duración de 2 horas para un cambio de look total, donde se realizan mechas balayage en medios y puntas. Este servicio exclusivo incluye: balayage, matiz, corte, peinado, y crema acondicionadora. Los productos utilizados son de la marca Wella. Para un pelo luminoso, hidratado y sedoso."
-        }, 
-        {
-            "service_category": "Manicura y Pedicura", 
-            "service": "Alisado Capilar Enzimoterapia", 
-            "duration": 10800, 
-            "price": "230 € ", 
-            "description": "Un tratamiento exclusivo de alisado orgánico, , disponible en Blondy Peluqueros. El precio del tratamiento podra tener un suplemento una vez analizado cada caso. Gracias a este tratamiento se alisa, reconstruye, hidrata y mejora la calidad del cabello. Todo en una sola sesión. Como expertos en cuidado del cabello Blondy peluqueros realiza tratamientos de última generación, realizados con cosméticos capilares de calidad y las manos de sus experimentados profesionales."
-        }, 
-        {
-            "service_category": "Manicura y Pedicura", 
-            "service": "Pack Mechas Y Balayage", 
-            "duration": 7200, 
-            "price": "76 € ", 
-            "description": "Servicio de la duración de 2 horas para un cambio de look total, donde se realizan mechas balayage en medios y puntas. Este servicio exclusivo incluye: balayage, matiz, corte, peinado, y crema acondicionadora. Los productos utilizados son de la marca Wella. Para un pelo luminoso, hidratado y sedoso."
-        }, 
-        {
-            "service_category": "Manicura y Pedicura", 
-            "service": "Recogido", 
-            "duration": 2700, 
-            "price": "55 € ", 
-            "description": "Servicio de recogido asesorado por los estilistas del centro que incluye: lavar el pelo con champú neutro Wella, peinado a tu gusto y recogido con productos de acabado. Ideal para ceremonias o noches especiales. Si tienes un evento especial, reserva online un recogido en Blondy Peluqueros. Nuestros profesionales captarán tus gustos y se adecuarán a tu estilo para conseguir un look perfecto para cada ocasión."
-        }, 
-        {
-            "service_category": "Depilación", 
-            "service": "Alisado Capilar Enzimoterapia", 
-            "duration": 10800, 
-            "price": "230 € ", 
-            "description": "Un tratamiento exclusivo de alisado orgánico, , disponible en Blondy Peluqueros. El precio del tratamiento podra tener un suplemento una vez analizado cada caso. Gracias a este tratamiento se alisa, reconstruye, hidrata y mejora la calidad del cabello. Todo en una sola sesión. Como expertos en cuidado del cabello Blondy peluqueros realiza tratamientos de última generación, realizados con cosméticos capilares de calidad y las manos de sus experimentados profesionales."
-        }, 
-        {
-            "service_category": "Depilación", 
-            "service": "Pack Mechas Y Balayage", 
-            "duration": 7200, 
-            "price": "76 € ", 
-            "description": "Servicio de la duración de 2 horas para un cambio de look total, donde se realizan mechas balayage en medios y puntas. Este servicio exclusivo incluye: balayage, matiz, corte, peinado, y crema acondicionadora. Los productos utilizados son de la marca Wella. Para un pelo luminoso, hidratado y sedoso."
-        }, 
-        {
-            "service_category": "Depilación", 
-            "service": "Recogido", 
-            "duration": 2700, 
-            "price": "55 € ", 
-            "description": "Servicio de recogido asesorado por los estilistas del centro que incluye: lavar el pelo con champú neutro Wella, peinado a tu gusto y recogido con productos de acabado. Ideal para ceremonias o noches especiales. Si tienes un evento especial, reserva online un recogido en Blondy Peluqueros. Nuestros profesionales captarán tus gustos y se adecuarán a tu estilo para conseguir un look perfecto para cada ocasión."
-        }, 
-        {
-            "service_category": "Depilación", 
-            "service": "Cortar Y Peinar Mujer", 
-            "duration": 2700, 
-            "price": "29 € ", 
-            "description": "Pack ideado para renovar la forma del pelo y conseguir un acabado perfecto, de la mano de los profesionales de Blondy Peluqueros. Sus estilistas son expertos en imagen y ofrecen un asesoramiento previo para encontrar el look perfecto. El servicio completo incluye lavado de pelo, corte tradicional, de tendencia o retoque de puntas y peinado. Trabajamos con marcas de alta calidad para cuidar y mimar tu cabello."
-        }, 
-        {
-            "service_category": "Depilación", 
-            "service": "Pack Color Total", 
-            "duration": 7200, 
-            "price": "70 € ", 
-            "description": "Servicio de la duración de 2 horas para un cambio de look total asesorado por los especialistas del centro, donde se aplica un tinte premium e incluye además: lavado con champú específico, corte con asesoramiento, peinado, y crema acondicionadora. Los productos utilizados son de la marca Wella. Para un pelo luminoso, hidratado y sedoso. En Blondy Peluqueros conseguirás el look perfecto para ti según su estilo."
-        }, 
-        {
-            "service_category": "Depilación", 
-            "service": "Tratamiento Queratina", 
-            "duration": 3600, 
-            "price": "100 € ", 
-            "description": "Este servicio consta de un tratamiento para conseguir en tu pelo una alta nutrición y capacidad anti-encrespamiento. La duración media de la efectividad de la Queratina Kerastase es de tres meses. No es un alisado, es un tratamiento de hidratación profunda que repara e hidrata el cabello en profundidad. Ideal para pelo encrespado, fino, sin brillo o quebradizo. Resultados garantizados con Blondy Peluqueros."
-        }, 
-        {
-            "service_category": "Depilación", 
-            "service": "Corte De Pelo Hombre", 
-            "duration": 1800, 
-            "price": "14 € ", 
-            "description": "Una de las especialidades de Blondy Peluqueros son sus cortes de pelo para hombre, siempre adecuándose a tu estilo y personalidad. Sus estilistas realizan cortes tradicionales o de tendencia, contando con un asesoramiento previo y las preferencias de cada cliente. El servicio incluye lavado con champú específico, corte con asesoramiento personalizado por nuestros estilistas y peinado con productos de acabado."
-        }, 
-        {
-            "service_category": "Depilación", 
             "service": "Tinte Y Permanente De Pestañas", 
             "duration": 3600, 
             "price": "27,5 € ", 
             "description": "El tinte y permanente y pestañas es la manera perfecta e ideal de parecer maquillada con el mínimo esfuerzo. Excelente para conferirle a tus ojos una definición más marcada sin necesidad de maquillaje, este extraordinario tratamiento hace que tu mirada se intensifique. Ponte en manos de nuestros profesionales y déjate asesorar...ellos sacarán la mejor versión de ti misma. Tiene una duración aproximada de un mes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Tratamiento de higiene facial profunda de la duración de 60 minutos. Este servicio es totalmente específico y personalizado para cada tipo de piel. Incluye peeling, extracción de puntos negros y mascarilla hidratante. Se utilizan los mejores productos del mercado y realizado por manos expertas. Recomendado para eliminar las células muertas, lucir un cutis daño y lleno de vida y renovar el brillo de la piel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Completa Essie", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "Reserva online este pack de manicura y pedicura completa que incluye: limpieza de uñas, retirado de cutículas, limado de la uña, eliminación de durezas, hidratación y esmaltado a elegir entre la gama de colores Essie. Luce unos manos y pies bonitos, cuidados y ¡Llenos de color! Escoge el color que más te gusto dentro de nuestra gama de productos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Completa Essie", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Servicio de pedicura completa que incluye: limpieza de uñas, retirado de cutículas, limado de la uña y esmaltado a elegir entre la gama de colores Essie. Para unos pies cuidados y bonitos, listos para el verano. Trabajamos con la marca Essie para conseguir un resultado impecable en tus uñas. Escoge color entre nuestra amplia gama de esmaltes."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa Essie", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Blondy Peluqueros te ofrece un servicio de manicura completa para lucir unas manos perfectas y cuidadas que incluye: limpieza de uñas, retirado de cutículas, limado de la uña y esmaltado a elegir entre la gama de colores Essie. Para unas manos impecables durante mucho más tiempo. Es tu momento de relax en nuestro centros. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Depilación Cera Masculina", 
+            "duration": 2700, 
+            "price": "33,5 € ", 
+            "description": "Este es un completo servicio que incluye la depilación con cera caliente en zonas de piernas completas, axilas y glúteos. Ponte en las manos de nuestros expertos profesionales de Blondy Peluqueros y empieza a disfrutar de los resultados gracias a Bucmi.com. Realizamos cera tibia para ofrecer un servicio casi indoloro y un resultado impecable, sin vello por mucho más tiempo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Axilas O Ingles Normales", 
+            "duration": 900, 
+            "price": "5,5 € ", 
+            "description": "En Blondy queremos eliminar desde la raíz ese vello que tanto te disgusta por un par de semanas. Podrás lucir una piel suave y sedosas gracias a nuestros esteticistas. Escoge si deseas la depilación en la zona de las axilas o ingles normales y empieza a disfrutar de lucir una piel perfecta y de ensueño. Siempre hidrataremos la zona a tratar para un resultado impecable."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Ingles Brasileñas", 
+            "duration": 900, 
+            "price": "11 € ", 
+            "description": "Ponte en las manos de nuestros expertos profesionales de Blondy Peluqueros y empieza a disfrutar de los resultados gracias a Bucmi.com. Si deseas lucir una piel bonita, suave y libre de vello, reserva online tu sesión de depilación de ingles brasileñas (no incluye ingles completas) para eliminar el vello desde la raíz y conseguir un resultado impecable. Siempre hidratamos la zona al finalizar el servicio."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Ingles Completas", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Reserva online tu depilación con cera en la zona de las ingles completas y elimina desde la raíz ese vello que tanto te disgusta por un par de semanas. Podrás lucir una piel suave, bonita y sedosa gracias a nuestros esteticistas. El servicio incluye depilación de la zona e hidratación al finalizar el servicio para calmar la zona."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Medias Piernas", 
+            "duration": 900, 
+            "price": "11,5 € ", 
+            "description": "Gracias a nuestro completo servicio con cera deun sólo uso de Blondy, podremos eliminar desde la raíz ese vello que tanto te disgusta por un par de semanas. Podrás lucir una piel suave y sedosas gracias a nuestros esteticistas. Ponte en las manos de nuestros expertos profesionales de Blondy Peluqueros y empieza a disfrutar de los resultados gracias a Bucmi.com. El servicio incluye la depilación de medias piernas con hidratación final."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Piernas Completas", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "Este servicio incluye una sesión de depilación con cera piernas completas. ¡Luce unas piernas de escándalo! Ponte en las manos de nuestros expertos profesionales de Blondy Peluqueros y empieza a disfrutar de los resultados gracias a Bucmi.com. Tu piel quedará bonita, suave y libre de vello durante varias semanas. El servicio incluye la depilación con cera e hidratación final para calmar la zona."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Fotodepilación Axilas", 
+            "duration": 900, 
+            "price": "30 € ", 
+            "description": "La fotodepilación es un servicio de depilación que se realiza a través de una luz que permite eliminar el vello de manera semi permanente o permanente. Este método es indoloro y con resultados visibles desde la primera sesión de fotodepilación. Sesión de 15 minutos. Despídete del vello de forma definitiva y para siempre de la manos de nuestros profesionales altamente cualificados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Depilación Cera Completa", 
+            "duration": 2700, 
+            "price": "33 € ", 
+            "description": "Este servicio incluye una sesión de depilación con cera en nuestro centro; que engloba piernas completas, ingles normales o simples, axilas, labio y cejas. Ponte en las manos de nuestros expertos profesionales de Blondy Peluqueros y empieza a disfrutar de los resultados gracias a Bucmi.com. Realizamos cera tibia para ofrecer un servicio casi indoloro y un resultado impecable, sin vello por mucho más tiempo."
+        }, 
+        {
+            "service_category": null, 
+            "service": "Tratamiento Queratina", 
+            "duration": 3600, 
+            "price": "100 € ", 
+            "description": "Este servicio consta de un tratamiento para conseguir en tu pelo una alta nutrición y capacidad anti-encrespamiento. La duración media de la efectividad de la Queratina Kerastase es de tres meses. No es un alisado, es un tratamiento de hidratación profunda que repara e hidrata el cabello en profundidad. Ideal para pelo encrespado, fino, sin brillo o quebradizo. Resultados garantizados con Blondy Peluqueros."
         }
     ]
 }

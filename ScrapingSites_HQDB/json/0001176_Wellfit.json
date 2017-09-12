@@ -1,0 +1,116 @@
+{
+    "adid": null, 
+    "name": "Wellfit", 
+    "name_of_contact": "Wellfit", 
+    "scrape_page": "https://www.bucmi.com/wellfit", 
+    "business_website": "https://www.bucmi.com/wellfit", 
+    "areas_covered": null, 
+    "description": "Centro de entrenamiento personal con gran variedad de servicios de fitness, fisioterapia y osteopatía. Se podrá combinar en nuestro establecimiento la actividad física con salud para conseguir un aspecto saludable. Disponemos nutrición en el centro.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635695544329968245.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635695544354657869.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635695544502481611.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635701395243879861.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635701395337016876.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635701395412022583.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635701395690014330.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Enamorats, 152", 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "C/ Enamorats, 152, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "932458166", 
+    "office_number2": null, 
+    "mobile_number": "647523234", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3836277000", 
+    "longitude": "2.1394821999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968419295622078.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Prueba Entrenamiento Personal", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El entrenador personal es aquella persona con la que estableces un vínculo profesional, que te ayudará a ponerte en el camino para que te comprometas contigo mismo y consigas tus metas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Entrenamiento Personal 1 Mes", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Se realiza una sesión de una hora por semana, el precio es para un mes. Gracias al entrenamiento personalizado conseguirás tus objetivos de una forma más rápida."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fisioterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento que consiste en eliminar las dolencias de la zona localizada a través de una adecuada colocación del cuerpo y de masajes manuales específicos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Nuestros profesionales te ayudarán a alcanzar el equilibrio de tu cuerpo. Cuida tus huesos y tu cuerpo con esta sesión de fisioterapia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento que consiste en eliminar las dolencias de la zona localizada a través de una adecuada colocación del cuerpo y de masajes manuales específicos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesión De Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Nuestros profesionales te ayudarán a alcanzar el equilibrio de tu cuerpo. Cuida tus huesos y tu cuerpo con esta sesión de fisioterapia."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Fisioterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento que consiste en eliminar las dolencias de la zona localizada a través de una adecuada colocación del cuerpo y de masajes manuales específicos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesión De Electroestimulación", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "Si quieres mantener tu figura pero no tienes tiempo para realizar deporte esta técnica es para ti. Se trata de una corriente eléctrica que causa una contracción muscular.Te ayudará a cuidarte."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Nutrición", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Este servicio incluye una primera visita, de 60 minutos, donde establecer unas pautas y una segunda visitas, de 30 minutos, que tiene como objetivo el control y seguimiento del paciente."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Prueba Entrenamiento Personal", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El entrenador personal es aquella persona con la que estableces un vínculo profesional, que te ayudará a ponerte en el camino para que te comprometas contigo mismo y consigas tus metas."
+        }
+    ]
+}

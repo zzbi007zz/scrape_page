@@ -1,0 +1,143 @@
+{
+    "adid": null, 
+    "name": "Entre Nenúfares", 
+    "name_of_contact": "Entre Nenúfares", 
+    "scrape_page": "https://www.bucmi.com/entrenenufares", 
+    "business_website": "https://www.bucmi.com/entrenenufares", 
+    "areas_covered": null, 
+    "description": "El centro de estética Entre Nenúfares, situado en Carabanchel, ofrece tratamientos de estética tales como mesoterapia facial, limpieza de cutis, presoterapia corporal. Todo ello para proporcionarte el bienestar que necesitas.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041083028533322.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041083030096284.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041083032439880.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041083033533700.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041083034813329.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041083036063497.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Gorrion, 61", 
+    "city": "Madrid", 
+    "zipcode": "28019", 
+    "formatted_address": "C/ Gorrion, 61, Madrid, 28019", 
+    "country": "es", 
+    "office_number": "914723121", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3963689000", 
+    "longitude": "-3.7319832000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636041085858986681.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Tratamiento Facial Anti-Aging", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Incluye limpieza de cutis, 4 sesiones de mesoteria virtual, crema regeneradora (con células madres, colágeno, ácido hialurónico, antioxidantes, 0% parabenes) para casa y Colageno Plus en sobres (tratamiento para un mes con colágeno, ácido hialurónico y antioxidantes para evitar la pérdida de firmeza y vitalidad de la piel y ayudar a prevenir la degeneración de huesos y artículaciones)"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono De 10 Sesiones Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Bono de 10 sesiones de presoterapia con masaje. Tratamiento especialmente diseñado para mejorar la circulación, reducir la celulitis y aliviar la pesadez de las piernas, además de hidratar y nutrir la piel gracias a los aceites esenciales utilizados (de ciprés, romero, menta...) En este servicio la presoterapia está combinada con un masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones De Presoterapia", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Bono de 10 sesiones de presoterapia realizada solamente con máquina. La sesión suelta tiene un precio de 25 euros, pero con este bono tiene un coste de 9,9€."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Ss Mesoterapia, 6Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "580 € ", 
+            "description": "Bono de cuatro sesiones de mesoterapia VIRTUAL (alternativa al bisturí) combinada con 6 sesiones de presoterapia con masaje. Tratamiento corporal que ayuda a reducir y reafirmar la figura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tratamiento Facial Anti-Aging", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Incluye limpieza de cutis, 4 sesiones de mesoteria virtual, crema regeneradora (con células madres, colágeno, ácido hialurónico, antioxidantes, 0% parabenes) para casa y Colageno Plus en sobres (tratamiento para un mes con colágeno, ácido hialurónico y antioxidantes para evitar la pérdida de firmeza y vitalidad de la piel y ayudar a prevenir la degeneración de huesos y artículaciones)"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono De 10 Sesiones Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Bono de 10 sesiones de presoterapia con masaje. Tratamiento especialmente diseñado para mejorar la circulación, reducir la celulitis y aliviar la pesadez de las piernas, además de hidratar y nutrir la piel gracias a los aceites esenciales utilizados (de ciprés, romero, menta...) En este servicio la presoterapia está combinada con un masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Mesoterapia Y 6 Presoterapia", 
+            "duration": 3600, 
+            "price": "285 € ", 
+            "description": "Bono de 4 sesiones de mesoterapia VIRTUAL combinada con 6 sesiones de presoterapia (solo la máquina) La mesoterapia virtual es una alternativa a la cirugía. Tratamiento antiaging."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Técnica manual especialmente diseñado para producir un efecto de desintoxicación y depuración de todo el organismo, estimular las defensas, aumentando la resistencia frente a la enfermedad y provoca un estado de calma y relajación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Luce una piel radiante con este tratamiento con productos naturales. El servicio incluye desmaquillado, vapor, exfoliación, extracción, mascarilla específica para tu tipo de piel y masaje facial relajante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Elimina la celulitis y modera la pesadez de tus piernas con esta sesión de presoterapia realizada solamente con máquinas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Con Masaje", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Tratamiento especialmente diseñado para mejorar la circulación, reducir la celulitis y aliviar la pesadez de las piernas, además de hidratar y nutrir la piel gracias a los aceites esenciales utilizados(de ciprés, romero, menta...)"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones De Presoterapia", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Bono de 10 sesiones de presoterapia realizada solamente con máquina. La sesión suelta tiene un precio de 25 euros, pero con este bono tiene un coste de 9,9€."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Ss Mesoterapia, 6Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "580 € ", 
+            "description": "Bono de cuatro sesiones de mesoterapia VIRTUAL (alternativa al bisturí) combinada con 6 sesiones de presoterapia con masaje. Tratamiento corporal que ayuda a reducir y reafirmar la figura."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Tratamiento Facial Anti-Aging", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Incluye limpieza de cutis, 4 sesiones de mesoteria virtual, crema regeneradora (con células madres, colágeno, ácido hialurónico, antioxidantes, 0% parabenes) para casa y Colageno Plus en sobres (tratamiento para un mes con colágeno, ácido hialurónico y antioxidantes para evitar la pérdida de firmeza y vitalidad de la piel y ayudar a prevenir la degeneración de huesos y artículaciones)"
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "adid": null, 
+    "name": "Lashes Avenue", 
+    "name_of_contact": "Lashes Avenue", 
+    "scrape_page": "https://www.bucmi.com/lashes-avenue", 
+    "business_website": "https://www.bucmi.com/lashes-avenue", 
+    "areas_covered": null, 
+    "description": "El centro de estética Lashes Avenue está ubicado en Calle Asturia 41, en Oviedo. El centro está especializado en extensiones de pestañas, en manicura y pedicuras. La experiencia y el saber de Juncal y Sara, los fundadores y propietarios del centro, son una garantía de profesionalidad y calidad. Ofrecen servicios aptos para todos los estilos, desde el tratamiento de pestañas naturales o el sistema de pestañas pelo a pelo para un volumen extra. Todos los productos son de alta calidad, como la marca Andreia y Elite Delux. La filosofía del centro es la de satisfacer todas las necesidades de sus clientes para que salgan satisfechos con el resultado. Un ambiente acogedor y el cuidado de cada detalle es lo que define al centro Lashes Avenue.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636350251549967714.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636350251614655204.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636350251644342694.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636350251722623760.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636350251783092475.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636360627892103095.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636360696239353816.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636360696295447634.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cervantes, 4", 
+    "city": "Oviedo", 
+    "zipcode": "Asturias", 
+    "formatted_address": "C/ Cervantes, 4, Oviedo, Asturias", 
+    "country": "es", 
+    "office_number": "984192398", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3642218000", 
+    "longitude": "-5.8566925000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636370945316380845.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Con el pelo a pelo conseguirás que tu mirada luzca siempre perfecta y como si estuvieras recién maquillada con mascara de pestañas. Logra imitar el efecto de raya superior en tu ojo. Indicado para personas a partir de 22 años que quieran más volumen y largo en sus pestañas naturales. Se colocará una extensión sobra cada una de las pestañas naturales existentes."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Multidimensión 2D Y 3D", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Elige este sistema si tus pestañas no lucen un volumen suficiente para tu gusto. Utilizamos extensiones ultra-finas, dos o tres, en cada una de tus pestañas naturales. Nuestras estilistas te asesorarán para conseguir un efecto óptimo para tu estilo y totalmente natural."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Multidimensión 4D Y 5D", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "Sistema revolucionario recomendado para clientas con alopecias o aquellas que deseen conseguir un volumen máximo en sus pestañas sin necesidad de estar 3h en cabina. Se colocan 4 o 5 extensiones de pestañas ultra-finas en cada una de las pestañas naturales. Consulta primero con nuestras estilistas para que analicen tu caso y te den la solución más óptima para ti."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Semipermanente", 
+            "duration": 5400, 
+            "price": "33 € ", 
+            "description": "Este servicio incluye un Tratamiento SPA en seco con esmaltado semipermanente para la manicura y la pedicura. Elige entre una amplia gama de colores lo que más te gusta para uñas perfectas. Un equipo de profesionales expertos te atenderá para satisfacer todas tus necesidades. El tratamiento tiene una duración de 1 hora/1h15min aproximadamente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "La manicura semipermanente incluye: limado, diseño y esmaltado de las uñas con laca de alta calidad, curado en lámpara LED. Las uñas estarán perfectas al menos durante 15 días."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Extensión Con Gel", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Gracias al Gel de alta calidad se consigue el largo y la forma que el cliente desea. Para finalizar el tratamiento se esmaltará con laca de uñas de curado en lámpara LED, pudiendo elegir entre una gran variedad de colores y diseños."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión Con Gel", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Gracias al Gel de alta calidad se consigue el largo y la forma que el cliente desea. Para finalizar el tratamiento se esmaltará con laca de uñas de curado en lámpara LED, pudiendo elegir entre una gran variedad de colores y diseños."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Con el pelo a pelo conseguirás que tu mirada luzca siempre perfecta y como si estuvieras recién maquillada con mascara de pestañas. Logra imitar el efecto de raya superior en tu ojo. Indicado para personas a partir de 22 años que quieran más volumen y largo en sus pestañas naturales. Se colocará una extensión sobra cada una de las pestañas naturales existentes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Multidimensión 2D Y 3D", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Elige este sistema si tus pestañas no lucen un volumen suficiente para tu gusto. Utilizamos extensiones ultra-finas, dos o tres, en cada una de tus pestañas naturales. Nuestras estilistas te asesorarán para conseguir un efecto óptimo para tu estilo y totalmente natural."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Multidimensión 4D Y 5D", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "Sistema revolucionario recomendado para clientas con alopecias o aquellas que deseen conseguir un volumen máximo en sus pestañas sin necesidad de estar 3h en cabina. Se colocan 4 o 5 extensiones de pestañas ultra-finas en cada una de las pestañas naturales. Consulta primero con nuestras estilistas para que analicen tu caso y te den la solución más óptima para ti."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Sistema Natural", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Este tipo de sistema REALZA TU MIRADA, indicado para personas de entre 15 y 22 años que no necesitan demasiado volumen ni largo en sus pestañas pero que quieren redefinir su mirada, se emplea para sustituir a la máscara de pestañas tradicional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Retoque Extensión Pestañas Multidimensión 2D Y 3D", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si has utilizado nuestro método de Extensión de pestañas podrás retocarlas dentro de las 4 primeras semanas por este precio. Si lo has hecho en otro centro pásate por nuestro establecimiento para valorar el estado de las extensiones"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Retoque Extensión Pestañas Multidimensión 4D Y 5D", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Si has utilizado nuestro método de Extensión de pestañas podrás retocarlas dentro de las 4 primeras semanas por este precio. Si lo has hecho en otro centro pásate por nuestro establecimiento para valorar el estado de las extensiones"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión Con Gel", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Gracias al Gel de alta calidad se consigue el largo y la forma que el cliente desea. Para finalizar el tratamiento se esmaltará con laca de uñas de curado en lámpara LED, pudiendo elegir entre una gran variedad de colores y diseños."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Con el pelo a pelo conseguirás que tu mirada luzca siempre perfecta y como si estuvieras recién maquillada con mascara de pestañas. Logra imitar el efecto de raya superior en tu ojo. Indicado para personas a partir de 22 años que quieran más volumen y largo en sus pestañas naturales. Se colocará una extensión sobra cada una de las pestañas naturales existentes."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Multidimensión 2D Y 3D", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Elige este sistema si tus pestañas no lucen un volumen suficiente para tu gusto. Utilizamos extensiones ultra-finas, dos o tres, en cada una de tus pestañas naturales. Nuestras estilistas te asesorarán para conseguir un efecto óptimo para tu estilo y totalmente natural."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Multidimensión 4D Y 5D", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "Sistema revolucionario recomendado para clientas con alopecias o aquellas que deseen conseguir un volumen máximo en sus pestañas sin necesidad de estar 3h en cabina. Se colocan 4 o 5 extensiones de pestañas ultra-finas en cada una de las pestañas naturales. Consulta primero con nuestras estilistas para que analicen tu caso y te den la solución más óptima para ti."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Sistema Natural", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Este tipo de sistema REALZA TU MIRADA, indicado para personas de entre 15 y 22 años que no necesitan demasiado volumen ni largo en sus pestañas pero que quieren redefinir su mirada, se emplea para sustituir a la máscara de pestañas tradicional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Retoque Extensión Pestañas Multidimensión 2D Y 3D", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si has utilizado nuestro método de Extensión de pestañas podrás retocarlas dentro de las 4 primeras semanas por este precio. Si lo has hecho en otro centro pásate por nuestro establecimiento para valorar el estado de las extensiones"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Retoque Extensión Pestañas Multidimensión 4D Y 5D", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Si has utilizado nuestro método de Extensión de pestañas podrás retocarlas dentro de las 4 primeras semanas por este precio. Si lo has hecho en otro centro pásate por nuestro establecimiento para valorar el estado de las extensiones"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Retoque Extensiones Pestañas Sistema Pelo A Pelo", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si has utilizado nuestro método de Extensión de pestañas podrás retocarlas dentro de las 4 primeras semanas por este precio. Si lo has hecho en otro centro pásate por nuestro establecimiento para valorar el estado de las extensiones"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Masculina", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Este servicio está dedicado a todos los hombres que quieran cuidar sus manos y sus pies. Una manicura que incluye un tratamiento SPA que ayuda a hidratar las manos, y un servicio de pedicura para eliminar las durezas y devolver a los pies suavidad."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Semipermanente", 
+            "duration": 5400, 
+            "price": "33 € ", 
+            "description": "Este servicio incluye un Tratamiento SPA en seco con esmaltado semipermanente para la manicura y la pedicura. Elige entre una amplia gama de colores lo que más te gusta para uñas perfectas. Un equipo de profesionales expertos te atenderá para satisfacer todas tus necesidades. El tratamiento tiene una duración de 1 hora/1h15min aproximadamente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Envoltura Con Gel", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Se realiza el trabajo sobre la uña natural sin utilizar molde para alargar tu uña de manera natural. Ideal para corregir fallos de estructura en la uña o aumentar el grosor en uñas débiles, se finaliza el trabajo esmaltando con laca de uñas de secado con lámpara LED."
+        }
+    ]
+}

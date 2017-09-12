@@ -1,0 +1,103 @@
+{
+    "adid": null, 
+    "name": "Alqiro", 
+    "name_of_contact": "Alqiro", 
+    "scrape_page": "https://www.bucmi.com/alqiro", 
+    "business_website": "https://www.bucmi.com/alqiro", 
+    "areas_covered": null, 
+    "description": "Centro de Madrid dedicado única y exclusivamente a ofrecer tu bienestar y equilibrio. Ofrecemos tratamientos personalizados que se ajusten a tus necesidades.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635584675765605738.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627033466146542.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627033476459583.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627033486464844.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627033509459430.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627033525710686.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627033557452602.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635627033568391028.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "9,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Viriato, 66", 
+    "city": "Madrid", 
+    "zipcode": "28031", 
+    "formatted_address": "C/ Viriato, 66, Madrid, 28031", 
+    "country": "es", 
+    "office_number": "912238719", 
+    "office_number2": null, 
+    "mobile_number": "686133917", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3782357000", 
+    "longitude": "-3.6285164999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811968015940131.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Antiestrés Profundo", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Masaje relajante completo, masaje metamórfico (pies, manos y cabeza) y aromaterapia.Tres técnicas reunidas en un solo masaje: Masaje relajante, terapia metamórfica y aceites esenciales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Momentos De Paz Tto. Facial Con Masaje", 
+            "duration": 7200, 
+            "price": "46 € ", 
+            "description": "Este pack comprende: un tratamiento facial regenerador y equilibrante y un masaje con aceites esenciales. Con este tratamiento podrás conseguir la paz máxima por dentro y por fuera."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje En Pareja", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Podéis elegir entre nuestra gama de masajes: Tacto Lento (profundamente relajante), balsámico (con aromaterapia), antiestrés (más relajante y técnica metamórfica) o energético."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Momentos De Paz Tto. Facial Con Masaje", 
+            "duration": 7200, 
+            "price": "46 € ", 
+            "description": "Este pack comprende: un tratamiento facial regenerador y equilibrante y un masaje con aceites esenciales. Con este tratamiento podrás conseguir la paz máxima por dentro y por fuera."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Momentos De Paz Tto. Facial Con Masaje", 
+            "duration": 7200, 
+            "price": "46 € ", 
+            "description": "Este pack comprende: un tratamiento facial regenerador y equilibrante y un masaje con aceites esenciales. Con este tratamiento podrás conseguir la paz máxima por dentro y por fuera."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Antiestrés Profundo", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Masaje relajante completo, masaje metamórfico (pies, manos y cabeza) y aromaterapia.Tres técnicas reunidas en un solo masaje: Masaje relajante, terapia metamórfica y aceites esenciales."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Con Piedras Calientes", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "Deja que la energía de la Tierra entre en ti para equilibrarte y que te sientas con fuerza para afrontar tu vida y estrés diario. Te sentirás estupend@ tanto por dentro como por fuera."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje En Pareja", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Podéis elegir entre nuestra gama de masajes: Tacto Lento (profundamente relajante), balsámico (con aromaterapia), antiestrés (más relajante y técnica metamórfica) o energético."
+        }
+    ]
+}

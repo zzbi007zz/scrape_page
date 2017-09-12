@@ -1,0 +1,99 @@
+{
+    "adid": null, 
+    "name": "Depilstetic", 
+    "name_of_contact": "Depilstetic", 
+    "scrape_page": "https://www.bucmi.com/depilstetic", 
+    "business_website": "https://www.bucmi.com/depilstetic", 
+    "areas_covered": null, 
+    "description": "Centro de belleza en donde podrás relajarte y mimarte en perfectas condiciones arropados por nuestros profesionales de Depilstetic. Aprovecha y reserva con nosotros nuestros completos tratamientos y depilaciones. Estamos en Vila de Gracia, en Barcelona.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885846998549285.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885847011205237.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885847025892685.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885847040111657.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Aliga, 8", 
+    "city": "Barcelona", 
+    "zipcode": "08012", 
+    "formatted_address": "C/ Aliga, 8, Barcelona, 08012", 
+    "country": "es", 
+    "office_number": "932969894", 
+    "office_number2": null, 
+    "mobile_number": "688444546", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3990468999", 
+    "longitude": "2.1542756000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635967535155345570.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Completa Con Punta De Diamante", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Elimina las impurezas de la piel y devuelve la luminosidad y la elasticidad a tu rostro con esta higiene facial completa. El servicio incluye limpieza facial con punta de diamante, mascarilla de oro de 24 kilates y ácido hialurónico."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "3 Sesiones Depilación Láser Alejandrita Medias Piernas", 
+            "duration": 2700, 
+            "price": "330 € ", 
+            "description": "Elimina ese vello tan molesto con esta técnica que se realiza con aplicaciones de luz intensa sobre las capas superficiales de la piel. Olvídate de la depilación con estas 3 sesiones. resultados visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa Con Punta De Diamante", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Elimina las impurezas de la piel y devuelve la luminosidad y la elasticidad a tu rostro con esta higiene facial completa. El servicio incluye limpieza facial con punta de diamante, mascarilla de oro de 24 kilates y ácido hialurónico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rejuvenecimiento Facial Fototerapia De Máscara Led", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento específico para reducir las arrugar y recuperar el tono y la elasticidad natural de tu piel. Indicado para pieles maduras, con este tratamiento podrás eliminar manchas, reducir arrugas y bolsas etc. Obtendrás unos resultados espectaculares."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Láser Lipolíticolipo Shape 3B", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Moldea tu figura con este tratamiento reductor Lipo Shape, la tecnología más avanzada a través de la cual mediante diodos láser de baja potencia te ayudará a la reducción de la grasa localizada y a reducir volumen."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Completa Con Punta De Diamante", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Elimina las impurezas de la piel y devuelve la luminosidad y la elasticidad a tu rostro con esta higiene facial completa. El servicio incluye limpieza facial con punta de diamante, mascarilla de oro de 24 kilates y ácido hialurónico."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Rejuvenecimiento Facial Fototerapia De Máscara Led", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento específico para reducir las arrugar y recuperar el tono y la elasticidad natural de tu piel. Indicado para pieles maduras, con este tratamiento podrás eliminar manchas, reducir arrugas y bolsas etc. Obtendrás unos resultados espectaculares."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Reductor Láser Lipolíticolipo Shape 3B", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Moldea tu figura con este tratamiento reductor Lipo Shape, la tecnología más avanzada a través de la cual mediante diodos láser de baja potencia te ayudará a la reducción de la grasa localizada y a reducir volumen."
+        }
+    ]
+}

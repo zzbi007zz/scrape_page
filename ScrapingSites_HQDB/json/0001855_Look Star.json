@@ -1,0 +1,197 @@
+{
+    "adid": null, 
+    "name": "Look Star", 
+    "name_of_contact": "Look Star", 
+    "scrape_page": "https://www.bucmi.com/lookstar", 
+    "business_website": "https://www.bucmi.com/lookstar", 
+    "areas_covered": null, 
+    "description": "Moderno salón de belleza en la zona de Santa Clara en Valladolid en el que podrás encontrar las últimas tendencias en peluquería y estética, donde los cambios de look y la belleza son parte de la identidad de nuestro centro", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635824182953461299.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635824182984563131.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635824183022540164.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635824183059258805.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Picones, 3", 
+    "city": "Valladolid", 
+    "zipcode": "47010", 
+    "formatted_address": "C/ Picones, 3, Valladolid, 47010", 
+    "country": "es", 
+    "office_number": "983134949", 
+    "office_number2": null, 
+    "mobile_number": "660649019", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6606150000", 
+    "longitude": "-4.7179112000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635919131133202648.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "8,5 € ", 
+            "description": "Pídenos cualquier corte de pelo que te gustaría llevar o déjate asesorar por nuestros especialistas sobre las ultimas tendencias para que tengas el corte que más vaya contigo y tu estilo"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Manicura completa con un masaje con crema de manos para que tengas unas manos suaves con uñas perfectas, incluyendo retirada de cutículas, limado, hidatación y esmaltado"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Como las manos sufren tanto realizando las actividades cotidianas dales el cuidado que se merecen de una forma más duradera con una manicura semipermanente completa con un masaje con crema de mano incluida"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Da profundidad a tu mirada con un servicio de tinte y permanente de pestañas con el que conseguirás dar el color y el volumen ideal para tener un mirada más intensa"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Corto", 
+            "duration": 2700, 
+            "price": "42 € ", 
+            "description": "Asegura tener tu pelo hidratado durante un largo tiempo con este bono de 4 sesiones de hidratación con peinado para salir de Look Star con un pelo cuidado y peinado"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Largo", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "La hidratación del pelo es muy importante y es recomendable tratarlo periódicamente, con este bono conseguirás tener el pelo hidratado durante un largo periodo de tiempo, además cada sesión incluye peinado para que salgas con un pelo perfecto"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bono 3 Sesiones Tto. Botox Capilar Y Peinado", 
+            "duration": 2700, 
+            "price": "75 € ", 
+            "description": "Tratamiento 100% natural para el cuidado del cabello con el que conseguirás reparar el cabello quebrado o dañado, fortaleciendolo y haciendo que luzca sano, con brillo y saludable. Ademas incluye peinado en cada sesión para consegur un pelo magnífico"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Ponte en manos de nuestros profesionales y obtén un corte de pelo con lavado, mascarilla y peinado, usando los mejores productos, con el que conseguiremos que tu pelo luzca ideal"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte y Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¿Estas pensando en un cambio? ¿Quieres verte más guapa? En nuestro centro haremos que tu look sea perfecto con este servicio para pelo largo con todo incluido, no dudes ni un segundo en venir a Look Star"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte y Corte con Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "El color de tu pelo dice mucho sobre ti, da la tonalidad a tu pelo que más te guste o déjate a asesorar para escoger el color de pelo que mejor te quede. Este servicio incluye también corte y peinado para que tengas un look perfecto completo"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte y Corte con Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Consigue la tonalidad y corte de pelo para lucir un pelo magnifico con este tratamiento para pelo largo que incluye lavado, mascarilla, tinte, corte y peinado. Sabemos que tu pelo es muy importante para ti por lo que lo cuidaremos como se merece"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "8,5 € ", 
+            "description": "Pídenos cualquier corte de pelo que te gustaría llevar o déjate asesorar por nuestros especialistas sobre las ultimas tendencias para que tengas el corte que más vaya contigo y tu estilo"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack De Novia", 
+            "duration": 14400, 
+            "price": "210 € ", 
+            "description": "Pack completo de novia que incluye limpieza facial, depilación de axilas, ingles, cejas y labio superior, maquillaje y recogido de boda con prueba previa para que estés perfecta en uno de los días más importantes de tu vida"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Corto", 
+            "duration": 2700, 
+            "price": "42 € ", 
+            "description": "Asegura tener tu pelo hidratado durante un largo tiempo con este bono de 4 sesiones de hidratación con peinado para salir de Look Star con un pelo cuidado y peinado"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Largo", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "La hidratación del pelo es muy importante y es recomendable tratarlo periódicamente, con este bono conseguirás tener el pelo hidratado durante un largo periodo de tiempo, además cada sesión incluye peinado para que salgas con un pelo perfecto"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Corto", 
+            "duration": 2700, 
+            "price": "42 € ", 
+            "description": "Asegura tener tu pelo hidratado durante un largo tiempo con este bono de 4 sesiones de hidratación con peinado para salir de Look Star con un pelo cuidado y peinado"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Largo", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "La hidratación del pelo es muy importante y es recomendable tratarlo periódicamente, con este bono conseguirás tener el pelo hidratado durante un largo periodo de tiempo, además cada sesión incluye peinado para que salgas con un pelo perfecto"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Corto", 
+            "duration": 2700, 
+            "price": "42 € ", 
+            "description": "Asegura tener tu pelo hidratado durante un largo tiempo con este bono de 4 sesiones de hidratación con peinado para salir de Look Star con un pelo cuidado y peinado"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Largo", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "La hidratación del pelo es muy importante y es recomendable tratarlo periódicamente, con este bono conseguirás tener el pelo hidratado durante un largo periodo de tiempo, además cada sesión incluye peinado para que salgas con un pelo perfecto"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Sesiones Tto. Botox Capilar Y Peinado", 
+            "duration": 2700, 
+            "price": "75 € ", 
+            "description": "Tratamiento 100% natural para el cuidado del cabello con el que conseguirás reparar el cabello quebrado o dañado, fortaleciendolo y haciendo que luzca sano, con brillo y saludable. Ademas incluye peinado en cada sesión para consegur un pelo magnífico"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Corto", 
+            "duration": 2700, 
+            "price": "42 € ", 
+            "description": "Asegura tener tu pelo hidratado durante un largo tiempo con este bono de 4 sesiones de hidratación con peinado para salir de Look Star con un pelo cuidado y peinado"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 4 Peinados Y Tto. De Hidratación Pelo Largo", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "La hidratación del pelo es muy importante y es recomendable tratarlo periódicamente, con este bono conseguirás tener el pelo hidratado durante un largo periodo de tiempo, además cada sesión incluye peinado para que salgas con un pelo perfecto"
+        }
+    ]
+}

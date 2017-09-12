@@ -1,0 +1,214 @@
+{
+    "adid": null, 
+    "name": "Mi Momento", 
+    "name_of_contact": "Mi Momento", 
+    "scrape_page": "https://www.bucmi.com/mimomentobarcelona", 
+    "business_website": "https://www.bucmi.com/mimomentobarcelona", 
+    "areas_covered": null, 
+    "description": "Situado en pleno corazón del barrio de Gracia de Barcelona a escasos metros del metro de Fontana.Ofrecemos tratamientos y productos 100% naturales.Cuidamos la belleza y buscamos siempre la excelencia en la imagen personal de nuestros clientes.¡Conócenos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635948695591443154.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635948695604255624.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635948695622536824.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635948695645661755.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635948695662380455.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635948695679411713.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635948695705192831.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Padilla, 310", 
+    "city": "Barcelona", 
+    "zipcode": "08012", 
+    "formatted_address": "C/ Padilla, 310, Barcelona, 08012", 
+    "country": "es", 
+    "office_number": "935182908", 
+    "office_number2": null, 
+    "mobile_number": "627934585", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4034832000", 
+    "longitude": "2.1540018000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635948729903628096.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Dáte un capricho. Ven a Mi Momento y disfruta de 60 minutos aproximadamente de relajación y desconexión mientras ponemos a punto tus manos y pies. Potencia su belleza gracias a nuestro servicio 'manipedi' que incluye limado, cortar, retirada de cutículas y esmaltado a gusto del cliente. ¡Presume de manos y pies perfectos!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Mima tus manos y dales la importancia que se merecen. Disfruta de unas manos bonitas y cuidadas con nuestro servicio de manicura completa. Elige el tono de esmalte que más va contigo entre la amplia gama de colores que te ofrecemos y ¡Presume de manos! El servicio incluye limado, retirada de cutículas, esmaltado a gusto del cliente y masaje hidratante final."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Completa", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Mima tus pies y dales la importancia que se merecen. Disfruta de unos pies bonitos y cuidados con nuestro servicio de pedicura completa. Elige el tono de esmalte que más va contigo entre la amplia gama de colores que te ofrecemos y ¡Presume de unos pies perfectos! El servicio incluye limado, retirada de cutículas, esmaltado a gusto del cliente y masaje hidratante final."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Si eres de esas personas que tienen un cabello electrizado, encrespado e indomable, te recomendamos nuestro alisado de Keratina 100% efectivo. Notarás los efectos desde el primer momento. Disfruta de una melena lisa, suave e hidratada gracias a los efectos y nutrientes de la Keratina. ¡Olvídate durante meses de ese encrespamiento no deseado!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Completa", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Déjate mimar en nuestro centro. Disfruta de 30 minutos para ti, rélajate, desconecta y deja que cuidemos tu piel como se merece. Presume de un cutis envidiable libre de impurezas, aportando luminosidad e hidratación. ¡Notarás los resultados!El servicio incluye extracción, peeling, mascarilla, hidratación y masaje relajante final."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color,Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "Renueva tu imagen en Mi Momento. Consigue el acabado perfecto y disfruta de una imagen más fresca y renovada. Ven a nuestro centro y lograremos unos resultados perfectos, con asesoramiento previo para resaltar aún más tu imagen. El servicio incluye color, lavar, corte asesorado por nuestros profesionales, peinar y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color y Peinar", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Dale un toque de color a tu pelo. Elige entre la amplia gama de tonos que te ofrecemos, el que más va contigo y presume de una imagen fresca y renovada. Atrévete con los colores más de moda, los más atrevidos y disfruta de un look de lo más actual. El servicio incluye color, lavado, peinar y productos de acabado. No te lo pienses más, ¡este es tu momento!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar,Cortar y Peinar", 
+            "duration": 2700, 
+            "price": "27,6 € ", 
+            "description": "Renueva tu imagen de la mano de los mejores profesionales. En nuestro centro somos expertos en hacer que te sientas bien, por eso te ofrecemos este servicio que incluye lavar, corte de pelo totalmente asesorado por nuestros estilistas donde potenciaremos tu imagen al máximo y peinado. Dáte un capricho, ven y...¡Siéntete guapa!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas y Peinar", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Si sientes que tu melena ha perdido la luminosidad que le caracteriza, éste es tu servicio idóneo. Devuélve a tu cabello el brillo y luminosidad que necesita, haciendo que luzca natural y con un toque de color que le aportará un brillo inigualable. Disfruta de una imagen más fresca y renovada y ¡presume de melena bonita!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Si eres de esas personas que tienen un cabello electrizado, encrespado e indomable, te recomendamos nuestro alisado de Keratina 100% efectivo. Notarás los efectos desde el primer momento. Disfruta de una melena lisa, suave e hidratada gracias a los efectos y nutrientes de la Keratina. ¡Olvídate durante meses de ese encrespamiento no deseado!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Para Él", 
+            "duration": 1800, 
+            "price": "14,4 € ", 
+            "description": "Ven a Mi Momento y déjate mimar por nuestros profesionales. Disfruta de un corte para caballero 100% asesorado, donde potenciaremos tu imagen para que luzcas un acabado perfecto, sacando el mayor partido a tu look. Atrévete con los cortes más a la moda y ¡presume de unos resultados envidiables!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Para Ella", 
+            "duration": 1800, 
+            "price": "17,6 € ", 
+            "description": "Ven a Mi Momento y déjate mimar por nuestros profesionales. Disfruta de un corte 100% asesorado, donde potenciaremos tu imagen para que luzcas un acabado perfecto, sacando el mayor partido a tu look. Atrévete con los cortes más a la moda y ¡presume de unos resultados envidiables!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado", 
+            "duration": 2700, 
+            "price": "15,5 € ", 
+            "description": "¿Quieres lucir una melena cuidada y sin encrespamiento? Reserva ya este servicio de peinado por un precio increíble, en el que se incluye lavado y los productos de acabado. Ponte en manos de nuestros mejor equipo de profesionales y siéntete guapa en tu día a día o en cualquier evento especial. ¡No lo dudes y reserva en Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color,Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "Renueva tu imagen en Mi Momento. Consigue el acabado perfecto y disfruta de una imagen más fresca y renovada. Ven a nuestro centro y lograremos unos resultados perfectos, con asesoramiento previo para resaltar aún más tu imagen. El servicio incluye color, lavar, corte asesorado por nuestros profesionales, peinar y productos de acabado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color,Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "Renueva tu imagen en Mi Momento. Consigue el acabado perfecto y disfruta de una imagen más fresca y renovada. Ven a nuestro centro y lograremos unos resultados perfectos, con asesoramiento previo para resaltar aún más tu imagen. El servicio incluye color, lavar, corte asesorado por nuestros profesionales, peinar y productos de acabado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color y Peinar", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Dale un toque de color a tu pelo. Elige entre la amplia gama de tonos que te ofrecemos, el que más va contigo y presume de una imagen fresca y renovada. Atrévete con los colores más de moda, los más atrevidos y disfruta de un look de lo más actual. El servicio incluye color, lavado, peinar y productos de acabado. No te lo pienses más, ¡este es tu momento!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavar,Cortar y Peinar", 
+            "duration": 2700, 
+            "price": "27,6 € ", 
+            "description": "Renueva tu imagen de la mano de los mejores profesionales. En nuestro centro somos expertos en hacer que te sientas bien, por eso te ofrecemos este servicio que incluye lavar, corte de pelo totalmente asesorado por nuestros estilistas donde potenciaremos tu imagen al máximo y peinado. Dáte un capricho, ven y...¡Siéntete guapa!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color,Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "Renueva tu imagen en Mi Momento. Consigue el acabado perfecto y disfruta de una imagen más fresca y renovada. Ven a nuestro centro y lograremos unos resultados perfectos, con asesoramiento previo para resaltar aún más tu imagen. El servicio incluye color, lavar, corte asesorado por nuestros profesionales, peinar y productos de acabado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color y Peinar", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Dale un toque de color a tu pelo. Elige entre la amplia gama de tonos que te ofrecemos, el que más va contigo y presume de una imagen fresca y renovada. Atrévete con los colores más de moda, los más atrevidos y disfruta de un look de lo más actual. El servicio incluye color, lavado, peinar y productos de acabado. No te lo pienses más, ¡este es tu momento!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavar,Cortar y Peinar", 
+            "duration": 2700, 
+            "price": "27,6 € ", 
+            "description": "Renueva tu imagen de la mano de los mejores profesionales. En nuestro centro somos expertos en hacer que te sientas bien, por eso te ofrecemos este servicio que incluye lavar, corte de pelo totalmente asesorado por nuestros estilistas donde potenciaremos tu imagen al máximo y peinado. Dáte un capricho, ven y...¡Siéntete guapa!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas y Peinar", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Si sientes que tu melena ha perdido la luminosidad que le caracteriza, éste es tu servicio idóneo. Devuélve a tu cabello el brillo y luminosidad que necesita, haciendo que luzca natural y con un toque de color que le aportará un brillo inigualable. Disfruta de una imagen más fresca y renovada y ¡presume de melena bonita!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Si eres de esas personas que tienen un cabello electrizado, encrespado e indomable, te recomendamos nuestro alisado de Keratina 100% efectivo. Notarás los efectos desde el primer momento. Disfruta de una melena lisa, suave e hidratada gracias a los efectos y nutrientes de la Keratina. ¡Olvídate durante meses de ese encrespamiento no deseado!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Para Él", 
+            "duration": 1800, 
+            "price": "14,4 € ", 
+            "description": "Ven a Mi Momento y déjate mimar por nuestros profesionales. Disfruta de un corte para caballero 100% asesorado, donde potenciaremos tu imagen para que luzcas un acabado perfecto, sacando el mayor partido a tu look. Atrévete con los cortes más a la moda y ¡presume de unos resultados envidiables!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Para Ella", 
+            "duration": 1800, 
+            "price": "17,6 € ", 
+            "description": "Ven a Mi Momento y déjate mimar por nuestros profesionales. Disfruta de un corte 100% asesorado, donde potenciaremos tu imagen para que luzcas un acabado perfecto, sacando el mayor partido a tu look. Atrévete con los cortes más a la moda y ¡presume de unos resultados envidiables!"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "adid": null, 
+    "name": "Glam Madrid", 
+    "name_of_contact": "Glam Madrid", 
+    "scrape_page": "https://www.bucmi.com/glam", 
+    "business_website": "https://www.bucmi.com/glam", 
+    "areas_covered": null, 
+    "description": "Glam es un salón de peluquería ubicado en el barrio de Puente de Vallecas, en Madrid. Aquí descubrirás un lugar donde, además de recibir los mejores tratamientos para tu cabello, podrás ponerte guapa y conocer interesantes trucos y consejos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635604719544925820.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635604719546332086.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635604719546488374.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635604719546800898.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Longares, 46", 
+    "city": "Madrid", 
+    "zipcode": "28018", 
+    "formatted_address": "C/ Longares, 46, Madrid, 28018", 
+    "country": "es", 
+    "office_number": "917855915", 
+    "office_number2": null, 
+    "mobile_number": "618103316", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3800199999", 
+    "longitude": "-3.6557999999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971825015377035.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Raíz Pelo Corto Y Secado", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "¡Mejora el color de tu pelo! El servicio incluye el lavado del pelo con champú neutro, el tinte adecuado a tu tono de pelo, para cubrir tus raíces y retocar tu pelo. Por último, también el secado. Ahorra tiempo y realiza ya tu reserva de cita a través de Bucmi."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¡Reserva nuestro corte de caballero! El servicio incluye el diagnóstico de tu cuero cabelludo, el lavado del pelo con champú de tratamiento y vitaminas, el corte de pelo, un masaje capilar y por último los productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer Con Secado", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "¡Cambia de look reservando nuestro corte de pelo para mujer! El servicio incluye el lavado del pelo con champú de tratamiento, el corte de melena a tu gusto y, siempre que quieras, aconsejado por nuestros profesionales y por último el secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Pelo Corto Y Secado", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "¡Mejora el color de tu pelo! El servicio incluye el lavado del pelo con champú neutro, el tinte adecuado a tu tono de pelo, para cubrir tus raíces y retocar tu pelo. Por último, también el secado. Ahorra tiempo y realiza ya tu reserva de cita a través de Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Pelo Medio Y Secado", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "¡Cubre tus raíces reservando este servicio! Incluye: el lavado del pelo con champú neutro, el color en raíz para conseguir cubrir tus canas y retocar tu pelo. Para terminar, secamos tu pelo. En caso de tener un largo de pelo superior a la media melena, se cobrará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¡Reserva nuestro corte de caballero! El servicio incluye el diagnóstico de tu cuero cabelludo, el lavado del pelo con champú de tratamiento y vitaminas, el corte de pelo, un masaje capilar y por último los productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Con Secado", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "¡Cambia de look reservando nuestro corte de pelo para mujer! El servicio incluye el lavado del pelo con champú de tratamiento, el corte de melena a tu gusto y, siempre que quieras, aconsejado por nuestros profesionales y por último el secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Ácido Hialurónico Media Melena", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¡Reserva este servicio y mejora el aspecto de tu pelo¡ Incluye una sesión de tratamiento capilar con ácido hialurónico, que aportará proteínas a tu cabello para evitar el encrespado de tu pelo en media melena. ¡Reserva online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Ácido Hialurónico Pelo Corto", 
+            "duration": 7200, 
+            "price": "70 € ", 
+            "description": "¿A qué esperas para reservar nuestro tratamiento capilar con ácido hialurónico? Este tratamiento aportará proteínas a tu cabello para evitar el encrespado de tu cabello. En caso de no tener el pelo corto, se cobrará un suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Ácido Hialurónico Pelo Largo", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "¿Te gustaría lucir un cabello sano y cuidado? ¡Reserva nuestro tratamiento capilar con ácido hialurónico! Gracias a este tratamiento tu pelo absorberá las proteínas que necesita para evitar el encrespamiento. Servicio exclusivo para pelo largo. ¡Reserva ya online!"
+        }
+    ]
+}

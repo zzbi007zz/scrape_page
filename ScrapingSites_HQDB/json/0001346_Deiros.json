@@ -1,0 +1,118 @@
+{
+    "adid": null, 
+    "name": "Deiros", 
+    "name_of_contact": "Deiros", 
+    "scrape_page": "https://www.bucmi.com/deiros", 
+    "business_website": "https://www.bucmi.com/deiros", 
+    "areas_covered": null, 
+    "description": "Peluquería donde realizamos cortes de tendencia, actuales y con asesoramiento garantizado.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635672218848151532.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003069402836038.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Aribau, 131", 
+    "city": "Barcelona", 
+    "zipcode": "08012", 
+    "formatted_address": "C/ Aribau, 131, Barcelona, 08012", 
+    "country": "es", 
+    "office_number": "932371809", 
+    "office_number2": null, 
+    "mobile_number": "673087496", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4024262999", 
+    "longitude": "2.1556729999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636003070452082190.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Luce uñas bonitas durante al menos 2 semanas. Incluye cuticulas, limado, hidratacion y esmaltado"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Ella", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "El servicio incluye champú, corte y producto de acabado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Incluye lavado, peinado y producto de acabado. Consultar suplemento para plancha y longitud del cabello"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Tratamiento Capilar Hidratante", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Devuelve la luz y el brillo a tu cabello con el tratamiento de hidratación, tinte y secado. Ponte guapa con nuestros profesionales. Se añadirá un suplemento en el centro en relación a la longitud del cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Tratamiento para media melena, reestructuración de la fibra capilar, del brillo, la nutrición, la sedosidad y el liso de forma duradera. Eliminación sensible del encrespado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Extensiones De Cabello (50 Extensiones)", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Luce una melena espectacular, pelo garantizado 100% natural."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Consigue un pelo a la última con las mechas californianas y da un cambio a tu cabello. Incluye lavado y peinado,suplemento cabellos largos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Botox Capilar", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Repara el cabello dañado con este tratamiento de botox y consigue una melena con volumen. En el servicio se incluye lavado y peinado. suplemento cabello largo"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Ella", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "El servicio incluye champú, corte y producto de acabado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Incluye lavado, peinado y producto de acabado. Consultar suplemento para plancha y longitud del cabello"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Tratamiento Capilar Hidratante", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Devuelve la luz y el brillo a tu cabello con el tratamiento de hidratación, tinte y secado. Ponte guapa con nuestros profesionales. Se añadirá un suplemento en el centro en relación a la longitud del cabello."
+        }
+    ]
+}

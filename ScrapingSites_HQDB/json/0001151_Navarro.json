@@ -1,0 +1,222 @@
+{
+    "adid": null, 
+    "name": "Navarro", 
+    "name_of_contact": "Navarro", 
+    "scrape_page": "https://www.bucmi.com/peluquerianavarro", 
+    "business_website": "https://www.bucmi.com/peluquerianavarro", 
+    "areas_covered": null, 
+    "description": "La Peluquería y Centro de Estética Unisex, situado en Sarrià - Sant Gervasi, con más de 40 años de experiencia, está separada en dos ambientes, la barbería zona exclusiva masculina y el salón zona exclusiva femenina. No esperes más y !ven a conocernos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821480986636461.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821480998355253.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821481284766903.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821481289454371.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821481287266925.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821481288048070.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821481293985552.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821481298373497.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08017", 
+    "formatted_address": "Barcelona, 08012, Barcelona, 08029, Barcelona, 08025, Barcelona, 08017", 
+    "country": "es", 
+    "office_number": "934577736", 
+    "office_number2": null, 
+    "mobile_number": "607284171", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3961591000", 
+    "longitude": "2.1248650000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966706474485532.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Keratina Largo", 
+            "duration": 5400, 
+            "price": "175 € ", 
+            "description": "Estiliza tu melena con un alisado profesional realizado con los productos de calidad de Cacao Brasil. Y olvídate del encrespamiento y las ondas rebeldes."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "160 € ", 
+            "description": "Descubre el gran poder de alisado de nuestros productos de alisado Cacao Brasil. Evita el encrespamiento de tu cabello con este tratamiento. Este servicio está indicado para un largo de media melena."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavado, Hidratación Y Secado", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce un pelo suave y un peinado que realce tu belleza natural de la mano de nuestros profesionales. Incluye lavado con champú, mascarilla hidratante y secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar Y Marcar", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿A quién no le gusta que le laven el pelo? Disfruta de un lavado de peluquería con champú Kerastas y crema suavizante y un secado con definición, estilo brushing. Servicio indicado para medias melenas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Largo", 
+            "duration": 5400, 
+            "price": "175 € ", 
+            "description": "Estiliza tu melena con un alisado profesional realizado con los productos de calidad de Cacao Brasil. Y olvídate del encrespamiento y las ondas rebeldes."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "160 € ", 
+            "description": "Descubre el gran poder de alisado de nuestros productos de alisado Cacao Brasil. Evita el encrespamiento de tu cabello con este tratamiento. Este servicio está indicado para un largo de media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado, Hidratación Y Secado", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce un pelo suave y un peinado que realce tu belleza natural de la mano de nuestros profesionales. Incluye lavado con champú, mascarilla hidratante y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Marcar", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿A quién no le gusta que le laven el pelo? Disfruta de un lavado de peluquería con champú Kerastas y crema suavizante y un secado con definición, estilo brushing. Servicio indicado para medias melenas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba Y Afeitado", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Disfruta de un afeitado profesional y un arreglo de barba de la mano de nuestros profesionales. Incluye el servicio de barbería para caballeros de arreglo y el afeitado con cuchilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "A los chicos también les gusta estar guapos. Por eso os ofrecemos un servicio de corte, asesorado por nuetsros profesionales, pensado para vosotros. Incluye lavado con champú, corte y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Renueva tu look o dale definición al que llevas habitualmente con un corte asesorado por nuestros profesionales. Incluye lavado con champú y corte de moda realizado por nuestros profesionales. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Luce media melena perfecta con un corte de pelo a la moda. El servicio incluye, lavado Kerastase, champú, corte de moda realizado por nuestros profesionales, peinado y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "34 € ", 
+            "description": "Luce un corte bien definido con este servicio de corte para pelo corto y peinado. Incluye: lavado Kerastase, champú, corte de moda realizado por nuestros profesionales, peinado y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "Dale definición y forma a tu melena con un un corte realizado por nuestros profesionales. Incluye: lavado Kerastase, champú, corte de moda, peinado y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "La barba forma parte de tu imagen y tiene que estar tan cuidada como el pelo. Consigue una barba bien cuidada en el centro Navarro donde disponemos de una gran experiencia."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "El color de tu pelo es clave para tu imagen. Si quieres un cambio o mejorarlo, puedes hacerlo con este servicio de color. Trabajamos con las mejores marcas (L'oreal y Wella). No incluye peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina Largo", 
+            "duration": 5400, 
+            "price": "175 € ", 
+            "description": "Estiliza tu melena con un alisado profesional realizado con los productos de calidad de Cacao Brasil. Y olvídate del encrespamiento y las ondas rebeldes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "160 € ", 
+            "description": "Descubre el gran poder de alisado de nuestros productos de alisado Cacao Brasil. Evita el encrespamiento de tu cabello con este tratamiento. Este servicio está indicado para un largo de media melena."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lavado, Hidratación Y Secado", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce un pelo suave y un peinado que realce tu belleza natural de la mano de nuestros profesionales. Incluye lavado con champú, mascarilla hidratante y secado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lavar Y Marcar", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿A quién no le gusta que le laven el pelo? Disfruta de un lavado de peluquería con champú Kerastas y crema suavizante y un secado con definición, estilo brushing. Servicio indicado para medias melenas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Largo", 
+            "duration": 5400, 
+            "price": "175 € ", 
+            "description": "Estiliza tu melena con un alisado profesional realizado con los productos de calidad de Cacao Brasil. Y olvídate del encrespamiento y las ondas rebeldes."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "160 € ", 
+            "description": "Descubre el gran poder de alisado de nuestros productos de alisado Cacao Brasil. Evita el encrespamiento de tu cabello con este tratamiento. Este servicio está indicado para un largo de media melena."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Keratina Largo", 
+            "duration": 5400, 
+            "price": "175 € ", 
+            "description": "Estiliza tu melena con un alisado profesional realizado con los productos de calidad de Cacao Brasil. Y olvídate del encrespamiento y las ondas rebeldes."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "160 € ", 
+            "description": "Descubre el gran poder de alisado de nuestros productos de alisado Cacao Brasil. Evita el encrespamiento de tu cabello con este tratamiento. Este servicio está indicado para un largo de media melena."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina Largo", 
+            "duration": 5400, 
+            "price": "175 € ", 
+            "description": "Estiliza tu melena con un alisado profesional realizado con los productos de calidad de Cacao Brasil. Y olvídate del encrespamiento y las ondas rebeldes."
+        }
+    ]
+}

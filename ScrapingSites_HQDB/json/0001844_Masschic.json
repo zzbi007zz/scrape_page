@@ -1,0 +1,96 @@
+{
+    "adid": null, 
+    "name": "Masschic", 
+    "name_of_contact": "Masschic", 
+    "scrape_page": "https://www.bucmi.com/masschic", 
+    "business_website": "https://www.bucmi.com/masschic", 
+    "areas_covered": null, 
+    "description": "Descubre una experiencia única en tu centro Masschic. Este nuevo concepto viene avalado por la experiencia de las clínicas Massana pero va más allá centrándose en la moda, las tendencias, el lujo... Conoce el auténtico glamour en Masschic.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588267547919752.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588267580891306.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588267605893305.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588267633712888.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588267664965221.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588268141294416.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588268183489869.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588268240525235.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Carbonero, 7", 
+    "city": "Valladolid", 
+    "zipcode": "Valladolid", 
+    "formatted_address": "C/ Carbonero, 7, Valladolid, Valladolid", 
+    "country": "es", 
+    "office_number": "983049236", 
+    "office_number2": null, 
+    "mobile_number": "647681387", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6523545000", 
+    "longitude": "-4.7256165000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961632685554926.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relax", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Disfruta de un momento relajante que te hará recuperar el equilibrio y salir de la rutina y el estrés. Alivia las tensiones diarias que te provoca el trabajo, o en general el día a día. Reserva 30 minutos en tu agenda y saldrás perfecta, lista para todo lo que te propongas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Y Manicura", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Te peinamos y asesoramos para que luzcas un look adecuado a tus facciones y estilo, además con esta manicura pondremos a punto tus manos para que luzcan más bonitas y cuidadas. El servicio incluye además masaje con aromaterapia, estudio de visagismo y touch de maquillaje"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Y Toque De Luz", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Con este peinado y toque de luz nuestros profesionales te ayudarán a sacarte un mejor partido y estar perfecta en todo momento. No hace falta ninguna ocasión especial para estar guapa. Incluye estudio de visagismo, masaje con aromaterapia y touch de maquillaje"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Y Manicura", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Te peinamos y asesoramos para que luzcas un look adecuado a tus facciones y estilo, además con esta manicura pondremos a punto tus manos para que luzcan más bonitas y cuidadas. El servicio incluye además masaje con aromaterapia, estudio de visagismo y touch de maquillaje"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Y Toque De Luz", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Con este peinado y toque de luz nuestros profesionales te ayudarán a sacarte un mejor partido y estar perfecta en todo momento. No hace falta ninguna ocasión especial para estar guapa. Incluye estudio de visagismo, masaje con aromaterapia y touch de maquillaje"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peinado Y Manicura", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Te peinamos y asesoramos para que luzcas un look adecuado a tus facciones y estilo, además con esta manicura pondremos a punto tus manos para que luzcan más bonitas y cuidadas. El servicio incluye además masaje con aromaterapia, estudio de visagismo y touch de maquillaje"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peinado Y Manicura", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Te peinamos y asesoramos para que luzcas un look adecuado a tus facciones y estilo, además con esta manicura pondremos a punto tus manos para que luzcan más bonitas y cuidadas. El servicio incluye además masaje con aromaterapia, estudio de visagismo y touch de maquillaje"
+        }
+    ]
+}

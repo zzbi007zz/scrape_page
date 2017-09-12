@@ -1,0 +1,187 @@
+{
+    "adid": null, 
+    "name": "Centro Oblivium", 
+    "name_of_contact": "Centro Oblivium", 
+    "scrape_page": "https://www.bucmi.com/oblivium", 
+    "business_website": "https://www.bucmi.com/oblivium", 
+    "areas_covered": null, 
+    "description": "Centro de terapias naturales deen Valencia. Nos dedicamos exclusivamente a proporcionar el bienestarmental y corporal, con servicios comola terapia de flotación y otros tipos deterapias naturales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635791371503718307.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635791371596217855.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635791371801999636.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635791372637933779.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635791372707777427.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635791373974322910.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635793231289664445.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635793232892296080.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Garrigues, 8", 
+    "city": "Valencia", 
+    "zipcode": "46001", 
+    "formatted_address": "C/ Garrigues, 8, Valencia, 46001", 
+    "country": "es", 
+    "office_number": "963926159", 
+    "office_number2": null, 
+    "mobile_number": "655010319", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4709966000", 
+    "longitude": "-0.3808404999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636028960716727055.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Flotación", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "La flotación consiste en flotar sin esfuerzo en una bañera o flotario que contiene en su interior agua y sales Epsom, cinco veces más densa que la del mar. Puedes hacerlo con luz o a oscuras, con o sin música. Con lo que desaparecen hasta el 90% de señales nerviosas que llegan a tu celebro ¡Relájate! (50 min)"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Oriental De Cañas De Bambú", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Terapia descongestionante de 50 minutos de duración que te ayudará a drenar líquidos, a soltar tensión muscular y a relajar el sistema nervioso. Los movimientos precisos con las cañas de bambú sobre la piel del receptor produce un efecto sedante sobre las terminaciones nervioosas y es muy efectivo como relajante muscular mitigando el dolor muscular allá donde lo haya"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Corporal Exfoliante Envolturas Integrales", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "En Oblivium, disponemos de una extensa gama de envolturas integrales entre las que podemos destacar la chocolaterapia, el ritual de cítricos Amanecer Mediterráneo, olivaterapia, vinoterapia, el ritual de cereza roja y el de yogurt Piel de Seda. Todas las envolturas integrales consisten en exfoliación, la envoltura correspondiente, ducha y masaje con aceites esenciales que varían dependiendo también de la envoltura. Contáctanos para más detalles."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Combinación Flotación Más Terapia Natural 50 Mins", 
+            "duration": 9000, 
+            "price": "75 € ", 
+            "description": "Combinación diseñada para conocer tanto nuestro producto estrella, la flotación antiestrés, como nuestro amplia gama de terapias naturales. Junto a la flotación, te ofrecemos una terapia natural de 50 mins. de duración a elegir entre: masaje terapéutico descontracturante, masaje relajante, shiatsu, reiki, masaje drenaje linfático, reflexología podal, aromaterapia, masaje de piedras calientes, masaje oriental de cañas de bambú, masaje oceánico con caracolas y masaje relajante de pindas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Hidratación Facial Con Colágeno", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Este tratamiento incluye limpieza facial con leche limpiadora, peeling con sales, tónico, mascarilla de colágeno y masaje con crema hidratante de colágeno en cara y cuello."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Terapeutico", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Este masaje de 50 minutos de duración es un masaje terapéutico. Se entiende como masaje terapéutico un conjunto de técnicas dirigidas a mitigar los dolores musculares, ya sean de tipo tensional, de bloqueo energético o de falta de tono. Al trabajar sobre las tensiones musculares, ayudamos también a desbloquear líneas energéticas (meridianos de acupuntura) y articulaciones; mejoramos el drenaje de fluidos (linfa y sangre) y optimizamos el funcionamiento de los órganos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento de masaje de 50 minutos específico para la celulitis y circulación sanguínea.Es una combinación de drenaje linfático y masaje circulatorio especifico. Ayuda a mejorar el aspecto de la piel y terminar con la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Exfoliante Envolturas Integrales", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "En Oblivium, disponemos de una extensa gama de envolturas integrales entre las que podemos destacar la chocolaterapia, el ritual de cítricos Amanecer Mediterráneo, olivaterapia, vinoterapia, el ritual de cereza roja y el de yogurt Piel de Seda. Todas las envolturas integrales consisten en exfoliación, la envoltura correspondiente, ducha y masaje con aceites esenciales que varían dependiendo también de la envoltura. Contáctanos para más detalles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Hidratación Facial Con Colágeno", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Este tratamiento incluye limpieza facial con leche limpiadora, peeling con sales, tónico, mascarilla de colágeno y masaje con crema hidratante de colágeno en cara y cuello."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento de masaje de 50 minutos específico para la celulitis y circulación sanguínea.Es una combinación de drenaje linfático y masaje circulatorio especifico. Ayuda a mejorar el aspecto de la piel y terminar con la celulitis."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto Corporal Exfoliante Envolturas Integrales", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "En Oblivium, disponemos de una extensa gama de envolturas integrales entre las que podemos destacar la chocolaterapia, el ritual de cítricos Amanecer Mediterráneo, olivaterapia, vinoterapia, el ritual de cereza roja y el de yogurt Piel de Seda. Todas las envolturas integrales consisten en exfoliación, la envoltura correspondiente, ducha y masaje con aceites esenciales que varían dependiendo también de la envoltura. Contáctanos para más detalles."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Hidratación Facial Con Colágeno", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Este tratamiento incluye limpieza facial con leche limpiadora, peeling con sales, tónico, mascarilla de colágeno y masaje con crema hidratante de colágeno en cara y cuello."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Shiatsu", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "El shiatsu es una terapia de 50 minutos de duración que actúa con una suave presión sobre determinados puntos del organismo pero haciendo hincapié sobre todo en ambos lados de la columna vertebral. Es un tipo de masaje muy práctico ya que el paciente no necesita desvertirse. El paciente suele tumbarse en el suelo o sobre una superficie que no sea excesivamente blanda.Se ha demostrado que la prevención, el mantenimiento y la mejora de la salud integral son factores sobre los que incide el shiatsu."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Oriental De Cañas De Bambú", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Terapia descongestionante de 50 minutos de duración que te ayudará a drenar líquidos, a soltar tensión muscular y a relajar el sistema nervioso. Los movimientos precisos con las cañas de bambú sobre la piel del receptor produce un efecto sedante sobre las terminaciones nervioosas y es muy efectivo como relajante muscular mitigando el dolor muscular allá donde lo haya"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Parcial 25Mins", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Masaje parcial de 25 minutos para todo aquel que lo necesite. Para este tipo de masaje, puedes elegir entre masaje terapéutico descontracturante de espalda, masaje descongestionante de piernas o masaje relajante de cara y cabeza."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Combinación Flotación Más Terapia Natural 50 Mins", 
+            "duration": 9000, 
+            "price": "75 € ", 
+            "description": "Combinación diseñada para conocer tanto nuestro producto estrella, la flotación antiestrés, como nuestro amplia gama de terapias naturales. Junto a la flotación, te ofrecemos una terapia natural de 50 mins. de duración a elegir entre: masaje terapéutico descontracturante, masaje relajante, shiatsu, reiki, masaje drenaje linfático, reflexología podal, aromaterapia, masaje de piedras calientes, masaje oriental de cañas de bambú, masaje oceánico con caracolas y masaje relajante de pindas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "El masaje relajante antiestrés de 50 minutos ayuda a relajar el sistema nervioso y a apaciguar la mente. Este masaje trabaja sobre las tensiones musculares con lo que ayudamos a desbloquear líneas energéticas (meridianos de acupuntura) y articulaciones; mejoramos el drenaje de fluidos (linfa y sangre) y optimizamos el funcionamiento de los órganos. Sin olvidar, por supuesto, el efecto equilibrante y relajante que tiene el contacto terapéutico del masajista."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento de masaje de 50 minutos específico para la celulitis y circulación sanguínea.Es una combinación de drenaje linfático y masaje circulatorio especifico. Ayuda a mejorar el aspecto de la piel y terminar con la celulitis."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tto Corporal Exfoliante Envolturas Integrales", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "En Oblivium, disponemos de una extensa gama de envolturas integrales entre las que podemos destacar la chocolaterapia, el ritual de cítricos Amanecer Mediterráneo, olivaterapia, vinoterapia, el ritual de cereza roja y el de yogurt Piel de Seda. Todas las envolturas integrales consisten en exfoliación, la envoltura correspondiente, ducha y masaje con aceites esenciales que varían dependiendo también de la envoltura. Contáctanos para más detalles."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Hidratación Facial Con Colágeno", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Este tratamiento incluye limpieza facial con leche limpiadora, peeling con sales, tónico, mascarilla de colágeno y masaje con crema hidratante de colágeno en cara y cuello."
+        }
+    ]
+}

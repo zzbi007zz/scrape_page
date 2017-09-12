@@ -1,0 +1,243 @@
+{
+    "adid": null, 
+    "name": "Isma Glamour", 
+    "name_of_contact": "Isma Glamour", 
+    "scrape_page": "https://www.bucmi.com/ismaglamour", 
+    "business_website": "https://www.bucmi.com/ismaglamour", 
+    "areas_covered": null, 
+    "description": "Centro de de estética en el barrio Gracia, Barcelona. Contamos con todo tipo de servicios de uñas, tratamientos faciales y corporales, depilaciones y masajes. En Isma Glamour apreciamos los detalles, marcamos la diferencia y creamos momentos únicos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792933586232935.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792933626243695.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792933708245592.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792934098513846.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792934173670898.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792934213905091.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792934290623399.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792934302029615.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Valencia, 238", 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "C/ Valencia, 238, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "932077212", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4024986000", 
+    "longitude": "2.1634288999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636027155923252074.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Modela tus pestañas y dales una curvatura envidiable gracias al tinte y permanente de pestañas!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un magnífico tratamiento para rejuvenecer la piel. El peeling elimina las capas superficiales de la piel y hace que se cree piel nueva y sana, logrando un efecto rejuvenencedor. El servicio incluye el peeling facial, una mascarilla y un masaje facial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Facial Ultrasónico", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Disfruta de una limpieza facial en profundidad. El servicio trata de una exfoliación, el tratamiento de peeling con ultrasonido que va extrayendo los puntos negros y abriendo los poros para eliminar las impurezas. Para finalizar se dará un pequeño masaje facial para aliviar la piel. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Y Tratamiento Específico", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este servicio incluye una higiene facial completa, con desmaquillado, vapor, extracción, exfoliación e hidratación con un pequeño masaje. El tratamiento específico se realizará dependiendo de la piel que tengas, para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Shellac", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Ahora puedes lucir uñas perfectas durante más tiempo. Limamos, retiramos cutículas, hidratamos y esmaltamos con el color que más te guste o francesa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Modela tus pestañas y dales una curvatura envidiable gracias al tinte y permanente de pestañas!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un magnífico tratamiento para rejuvenecer la piel. El peeling elimina las capas superficiales de la piel y hace que se cree piel nueva y sana, logrando un efecto rejuvenencedor. El servicio incluye el peeling facial, una mascarilla y un masaje facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Ultrasónico", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Disfruta de una limpieza facial en profundidad. El servicio trata de una exfoliación, el tratamiento de peeling con ultrasonido que va extrayendo los puntos negros y abriendo los poros para eliminar las impurezas. Para finalizar se dará un pequeño masaje facial para aliviar la piel. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Consigue unas pestañas XXL, con un volumen increíble y como si te las maquillases todos los días. ¡Disfrútalas por mucho más tiempo del que te imaginas!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Tratamiento Específico", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este servicio incluye una higiene facial completa, con desmaquillado, vapor, extracción, exfoliación e hidratación con un pequeño masaje. El tratamiento específico se realizará dependiendo de la piel que tengas, para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Masaje", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta en Isma Glamour de este servicio que cuenta con una exfoliación corporal profunda gracias al peeling corporal y un masaje relajante e hidratante para que tu piel quede lisa y tersa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Desde la primera sesión podrás ver resultados. La presoterapia es un tratamiento parecido al drenaje linfático manual, se utiliza para tratar la celulitis y reducir el volumen en zonas como los muslos, los gluteos y abdomen. Igualmente ayuda a reducir las varices gracias a la reducción que se general de sangre en las zonas localizadas. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiacné", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Reserva online este tratamiento específico para las pieles con acné o que han sufrido los estragos de éste. Lucirás un rostro liso y libre de marcas y granos gracias a la aparatología y alta cosmética de Isma Glamour."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antimanchas (Urban White)", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "El paso de los años, el estrés, el sol, la contaminación, todo ello ayuda a que nuestra piel se dañe y aparezcan las antiestéticas manchas. Reserva online nuestro tratamiento con aparatología que elimina las manchas. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Modela tus pestañas y dales una curvatura envidiable gracias al tinte y permanente de pestañas!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un magnífico tratamiento para rejuvenecer la piel. El peeling elimina las capas superficiales de la piel y hace que se cree piel nueva y sana, logrando un efecto rejuvenencedor. El servicio incluye el peeling facial, una mascarilla y un masaje facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Facial Ultrasónico", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Disfruta de una limpieza facial en profundidad. El servicio trata de una exfoliación, el tratamiento de peeling con ultrasonido que va extrayendo los puntos negros y abriendo los poros para eliminar las impurezas. Para finalizar se dará un pequeño masaje facial para aliviar la piel. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Modela tus pestañas y dales una curvatura envidiable gracias al tinte y permanente de pestañas!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un magnífico tratamiento para rejuvenecer la piel. El peeling elimina las capas superficiales de la piel y hace que se cree piel nueva y sana, logrando un efecto rejuvenencedor. El servicio incluye el peeling facial, una mascarilla y un masaje facial."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Facial Ultrasónico", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Disfruta de una limpieza facial en profundidad. El servicio trata de una exfoliación, el tratamiento de peeling con ultrasonido que va extrayendo los puntos negros y abriendo los poros para eliminar las impurezas. Para finalizar se dará un pequeño masaje facial para aliviar la piel. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Consigue unas pestañas XXL, con un volumen increíble y como si te las maquillases todos los días. ¡Disfrútalas por mucho más tiempo del que te imaginas!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Modela tus pestañas y dales una curvatura envidiable gracias al tinte y permanente de pestañas!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un magnífico tratamiento para rejuvenecer la piel. El peeling elimina las capas superficiales de la piel y hace que se cree piel nueva y sana, logrando un efecto rejuvenencedor. El servicio incluye el peeling facial, una mascarilla y un masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial Ultrasónico", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Disfruta de una limpieza facial en profundidad. El servicio trata de una exfoliación, el tratamiento de peeling con ultrasonido que va extrayendo los puntos negros y abriendo los poros para eliminar las impurezas. Para finalizar se dará un pequeño masaje facial para aliviar la piel. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Consigue unas pestañas XXL, con un volumen increíble y como si te las maquillases todos los días. ¡Disfrútalas por mucho más tiempo del que te imaginas!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Y Tratamiento Específico", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este servicio incluye una higiene facial completa, con desmaquillado, vapor, extracción, exfoliación e hidratación con un pequeño masaje. El tratamiento específico se realizará dependiendo de la piel que tengas, para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Y Masaje", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta en Isma Glamour de este servicio que cuenta con una exfoliación corporal profunda gracias al peeling corporal y un masaje relajante e hidratante para que tu piel quede lisa y tersa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Desde la primera sesión podrás ver resultados. La presoterapia es un tratamiento parecido al drenaje linfático manual, se utiliza para tratar la celulitis y reducir el volumen en zonas como los muslos, los gluteos y abdomen. Igualmente ayuda a reducir las varices gracias a la reducción que se general de sangre en las zonas localizadas. Para más información, consulta con el centro."
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "adid": null, 
+    "name": "Juncal Alonso", 
+    "name_of_contact": "Juncal Alonso", 
+    "scrape_page": "https://www.bucmi.com/juncalalonso", 
+    "business_website": "https://www.bucmi.com/juncalalonso", 
+    "areas_covered": null, 
+    "description": "Juncal Alonso es un salón de peluquería ubicado en Deusto, en Bilbao. Realizamos todo tipo de servicios para embellecer y cuidar tu cabello. Además, también realizamos manicuras y pedicuras para que te veas perfecta. ¡No lo dudes más y reserva ahora!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003783882196937.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003783923915584.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003783960321721.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003784061883917.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003784651794224.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003784853981120.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Euskalduna, 4", 
+    "city": "Bilbao", 
+    "zipcode": "48014", 
+    "formatted_address": "C/ Euskalduna, 4, Bilbao, 48014", 
+    "country": "es", 
+    "office_number": "946526226", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.2695975000", 
+    "longitude": "-2.9502793999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636003921903436066.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar, Color Y Peinar", 
+            "duration": 5400, 
+            "price": "46,3 € ", 
+            "description": "Disfruta de este pack de belleza que incluye corte y asesoramiento por nuestros profesionales, color, lavado con champú, acondicionar, mascarilla, más producto de peinado. No lo dudes, elige este servicio y luce perfecta. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Te gustaría lucir unas manos perfectas durante mucho más tiempo? ¡Reserva nuestra manicura semipermanente! Realizamos el limado y corte de uñas, retirada de cutículas, exfoliación, hidratación y esmaltado semipermanente en el color que más te guste. Reserva ahora tu cita online a través de Bucmi."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Y Peinar", 
+            "duration": 5400, 
+            "price": "56,6 € ", 
+            "description": "¡Reserva nuestras mechas completas por todo el cabello con papel de plata! El precio no incluye matiz si fuese necesario. El servicio incluye lavado con champú, acondicionador y mascarilla, más productos de peinado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Recogido", 
+            "duration": 5400, 
+            "price": "36,5 € ", 
+            "description": "¿Tienes una fiesta o un evento especial? Ponte en manos de nuestros profesionales y escoge las últimas tendencias en recogidos. El precio incluye lavado con champú, acondicionador y mascarilla, más productos de peinado. Dependiendo de la dificultad o detalle del peinado puede variar el precio."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar", 
+            "duration": 2700, 
+            "price": "27,9 € ", 
+            "description": "¿Quieres un cambio o renovar tu estilo? Con este servicio puedes conseguir el cambio deseado. El servicio incluye lavado con champú, acondicionador y mascarilla, más productos de peinado. ¡Te encantará el resultado! No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar, Color Y Peinar", 
+            "duration": 5400, 
+            "price": "46,3 € ", 
+            "description": "Disfruta de este pack de belleza que incluye corte y asesoramiento por nuestros profesionales, color, lavado con champú, acondicionar, mascarilla, más producto de peinado. No lo dudes, elige este servicio y luce perfecta. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "27,3 € ", 
+            "description": "Consigue el corte de pelo que siempre has querido de la mano de los mejores profesionales gracias a nuestro equipo. El servicio incluye corte de pelo asesorado, lavado sin hidratación y peinado para que salgas perfecta del salón. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "27,75 € ", 
+            "description": "Consigue un corte de pelo acorde con tus rasgos faciales de la mano de los mejores profesionales del sector. El servicio incluye lavado sin hidratación, corte de pelo y peinado para que salgas perfecta del salón. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinar", 
+            "duration": 5400, 
+            "price": "56,6 € ", 
+            "description": "¡Reserva nuestras mechas completas por todo el cabello con papel de plata! El precio no incluye matiz si fuese necesario. El servicio incluye lavado con champú, acondicionador y mascarilla, más productos de peinado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "14,2 € ", 
+            "description": "¿Qué peinado quieres hoy? Sea cual sea tu estilo nos encargamos de darle forma a tu peinado. El servicio incluye champú, acondicionador y mascarilla, más productos de peinado como laca, espuma... No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "16,3 € ", 
+            "description": "¿Qué peinado quieres hoy? Sea cual sea tu estilo nos encargamos de darle forma a tu peinado. El servicio incluye champú, acondicionador y mascarilla, más productos de peinado como laca, espuma.. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Semirecogido", 
+            "duration": 3600, 
+            "price": "26,2 € ", 
+            "description": "¿Tienes una fiesta o un evento especial? Ponte en manos de nuestros profesionales y escoge las últimas tendencias en semirecogidos. El precio incluye lavado con champú, acondicionador y mascarilla, mas productos de peinado. Dependiendo de la dificultad o detalle del peinado puede variar el precio."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 5400, 
+            "price": "36,5 € ", 
+            "description": "¿Tienes una fiesta o un evento especial? Ponte en manos de nuestros profesionales y escoge las últimas tendencias en recogidos. El precio incluye lavado con champú, acondicionador y mascarilla, más productos de peinado. Dependiendo de la dificultad o detalle del peinado puede variar el precio."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cortar Y Peinar", 
+            "duration": 2700, 
+            "price": "27,9 € ", 
+            "description": "¿Quieres un cambio o renovar tu estilo? Con este servicio puedes conseguir el cambio deseado. El servicio incluye lavado con champú, acondicionador y mascarilla, más productos de peinado. ¡Te encantará el resultado! No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cortar, Color Y Peinar", 
+            "duration": 5400, 
+            "price": "46,3 € ", 
+            "description": "Disfruta de este pack de belleza que incluye corte y asesoramiento por nuestros profesionales, color, lavado con champú, acondicionar, mascarilla, más producto de peinado. No lo dudes, elige este servicio y luce perfecta. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "27,3 € ", 
+            "description": "Consigue el corte de pelo que siempre has querido de la mano de los mejores profesionales gracias a nuestro equipo. El servicio incluye corte de pelo asesorado, lavado sin hidratación y peinado para que salgas perfecta del salón. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "27,75 € ", 
+            "description": "Consigue un corte de pelo acorde con tus rasgos faciales de la mano de los mejores profesionales del sector. El servicio incluye lavado sin hidratación, corte de pelo y peinado para que salgas perfecta del salón. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }
+    ]
+}

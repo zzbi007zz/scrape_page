@@ -1,0 +1,147 @@
+{
+    "adid": null, 
+    "name": "SaLuz y Belleza Anuenue (Carmen Fernández)", 
+    "name_of_contact": "SaLuz y Belleza Anuenue (Carmen Fernández)", 
+    "scrape_page": "https://www.bucmi.com/anuenue", 
+    "business_website": "https://www.bucmi.com/anuenue", 
+    "areas_covered": null, 
+    "description": "Tu centro de Carabanchel. Cerca de ti para cumplir todas tus necesidades de belleza y bienestar. Ven a conocer nuestras instalaciones y deja que tu belleza interior se muestre en el exterior.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635657580165209164.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635657580181772897.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635657580204118426.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Sirio, 52", 
+    "city": "Madrid", 
+    "zipcode": "28019", 
+    "formatted_address": "C/ Sirio, 52, Madrid, 28019", 
+    "country": "es", 
+    "office_number": "915694228", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3960151000", 
+    "longitude": "-3.7107002999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963090567735753.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Maderoterapia Facial Antienvejecimiento", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Luce una piel perfecta con este tratamiento con resultados fantásticos y visibles desde el primer momento. Especialmente diseñado para combatir el envejecimiento cutáneo a nivel de flacidez y arrugas y la oxigenación de la piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Local Descontracturante", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Masaje de espalda o piernas, especial para relajar tensiones musculares y/o articulares."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Maderoterapia Corporal Liporeductora", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento con resultados impresionantes, especialmente diseñado para la celulitis, circulación, remodelación y reafirmación en piernas, gluteos, cartucheras, abdomen, brazos y espalda. Se realiza con distintos utensilios de madera."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Ballancer", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Tratamiento con botas neumáticas muy relajante especialmente indicado para ayudar con edemas, trastornos linfáticos y circulatorios, piernas cansadas, celulitis, etc."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maderoterapia Facial Antienvejecimiento", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Luce una piel perfecta con este tratamiento con resultados fantásticos y visibles desde el primer momento. Especialmente diseñado para combatir el envejecimiento cutáneo a nivel de flacidez y arrugas y la oxigenación de la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Autobronceador", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Realizado con caña de azucar totalmente ecológico rico en DHA, que además de broncearte tiene un poder antienvejecimiento para la piel.Consta de una exfoliación corporal y aplicación relajante del autobronceador."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Detox", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Tratamiento especialmente diseñado para revitalizar, purificar y desintoxicar tu organismo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maderoterapia Corporal Liporeductora", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento con resultados impresionantes, especialmente diseñado para la celulitis, circulación, remodelación y reafirmación en piernas, gluteos, cartucheras, abdomen, brazos y espalda. Se realiza con distintos utensilios de madera."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia Ballancer", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Tratamiento con botas neumáticas muy relajante especialmente indicado para ayudar con edemas, trastornos linfáticos y circulatorios, piernas cansadas, celulitis, etc."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maderoterapia Facial Antienvejecimiento", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Luce una piel perfecta con este tratamiento con resultados fantásticos y visibles desde el primer momento. Especialmente diseñado para combatir el envejecimiento cutáneo a nivel de flacidez y arrugas y la oxigenación de la piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia Ballancer", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Tratamiento con botas neumáticas muy relajante especialmente indicado para ayudar con edemas, trastornos linfáticos y circulatorios, piernas cansadas, celulitis, etc."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Maderoterapia Facial Antienvejecimiento", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Luce una piel perfecta con este tratamiento con resultados fantásticos y visibles desde el primer momento. Especialmente diseñado para combatir el envejecimiento cutáneo a nivel de flacidez y arrugas y la oxigenación de la piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Autobronceador", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Realizado con caña de azucar totalmente ecológico rico en DHA, que además de broncearte tiene un poder antienvejecimiento para la piel.Consta de una exfoliación corporal y aplicación relajante del autobronceador."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Reductor Detox", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Tratamiento especialmente diseñado para revitalizar, purificar y desintoxicar tu organismo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Maderoterapia Corporal Liporeductora", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento con resultados impresionantes, especialmente diseñado para la celulitis, circulación, remodelación y reafirmación en piernas, gluteos, cartucheras, abdomen, brazos y espalda. Se realiza con distintos utensilios de madera."
+        }
+    ]
+}

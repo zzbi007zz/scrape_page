@@ -1,0 +1,222 @@
+{
+    "adid": null, 
+    "name": "Iris", 
+    "name_of_contact": "Iris", 
+    "scrape_page": "https://www.bucmi.com/iris", 
+    "business_website": "https://www.bucmi.com/iris", 
+    "areas_covered": null, 
+    "description": "Iris es un salón de peluquería y estética ubicado en la zona de Cuatro Caminos, Madrid. Ven a conocernos y disfruta de todo tipo de tratamientos, tanto de peluquería como de estética. Realizamos un descuento del 20% para menores de 30 años. Te encantará.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008280497450260.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008280514012843.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008280524012681.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008280529950168.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008280532293979.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008280541356473.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008280552399208.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008280554273933.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Humanitarias, 23", 
+    "city": "Madrid", 
+    "zipcode": "28020", 
+    "formatted_address": "C/ Humanitarias, 23, Madrid, 28020", 
+    "country": "es", 
+    "office_number": "915550039", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4521741999", 
+    "longitude": "-3.6963740999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008281341635078.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente Joven", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Servicio de manicura para MENORES de 30 años. En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Para las que quieren tener siempre las uñas perfectas, servicio de manicura permanente de hasta 3 semanas de duración. Incluye una manicura básica y el esmaltado permanente a tu gusto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Reserva nuestro corte de pelo asesorado por nuestros profesionales. El servicio incluye el corte que más te apetezca lucir y el lavado. No incluye crema ni mascarilla. ¡Te encantará el resultado final de tu cabello!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "¿Te gustaría lucir un color espectacular en tu cabello? ¡Reserva este servicio! Utilizamos tintes sin amoniaco de la marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado", 
+            "duration": 3600, 
+            "price": "16 € ", 
+            "description": "¿Tienes una ocasión especial y quieres estar perfecta? ¡Reserva nuestro servicio de peinado! Incluye lavado, no incluye mascarilla o crema, peinado y productos de acabado. El precio no varía por el largo de tu pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Joven", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Servicio de color mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce un color espectacular con nuestros tintes sin amoniaco marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Joven", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Servicio de corte mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Corte asesorado por nuestros profesionales. El servicio incluye el corte a elegir y el lavado. No incluye crema ni mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Completas O Californianas Joven", 
+            "duration": 7200, 
+            "price": "38 € ", 
+            "description": "Servicio de mechas o bien completas o californianas para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce unas mechas perfectas en todo el cabello o californianas. El servicio incluye las mechas, tonalidad a elegir y el lavado. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Joven", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Servicio de moldeador para MENORES de 30 años. En caso de no cumplir el requisito, se abonará la diferencia de precio en el salón.Consigue unos rizos o unas ondas perfectas. El precio no varía según el largo de tu pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Joven", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "¡Reserva nuestro servicio de peinado para MENORES de 30 años! El servicio incluye lavado (no incluye mascarilla o crema), peinado y productos de acabado. El precio no varía según el largo de tu pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Reserva nuestro corte de pelo asesorado por nuestros profesionales. El servicio incluye el corte que más te apetezca lucir y el lavado. No incluye crema ni mascarilla. ¡Te encantará el resultado final de tu cabello!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Completas O Californianas", 
+            "duration": 7200, 
+            "price": "38 € ", 
+            "description": "Luce unas mechas perfectas en todo el cabello o californianas. Este servicio incluye las mechas, tonalidad a elegir y el lavado. En el lavado no incluye mascarilla o crema. ¡Te encantará el resultado de nuestras mechas!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "¿Te gustaría conseguir unos rizos o unas ondas perfectas durante más tiempo? ¡Reserva nuestro servicio de moldeado para tu cabello! Utilizamos productos de gran calidad para no dañar tu melena. El precio no varía según el largo de tu pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "¿Te gustaría lucir un color espectacular en tu cabello? ¡Reserva este servicio! Utilizamos tintes sin amoniaco de la marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado", 
+            "duration": 3600, 
+            "price": "16 € ", 
+            "description": "¿Tienes una ocasión especial y quieres estar perfecta? ¡Reserva nuestro servicio de peinado! Incluye lavado, no incluye mascarilla o crema, peinado y productos de acabado. El precio no varía por el largo de tu pelo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Joven", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Servicio de color mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce un color espectacular con nuestros tintes sin amoniaco marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Joven", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Servicio de corte mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Corte asesorado por nuestros profesionales. El servicio incluye el corte a elegir y el lavado. No incluye crema ni mascarilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Joven", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Servicio de color mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce un color espectacular con nuestros tintes sin amoniaco marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Joven", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Servicio de corte mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Corte asesorado por nuestros profesionales. El servicio incluye el corte a elegir y el lavado. No incluye crema ni mascarilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Completas O Californianas Joven", 
+            "duration": 7200, 
+            "price": "38 € ", 
+            "description": "Servicio de mechas o bien completas o californianas para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce unas mechas perfectas en todo el cabello o californianas. El servicio incluye las mechas, tonalidad a elegir y el lavado. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Moldeador Joven", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Servicio de moldeador para MENORES de 30 años. En caso de no cumplir el requisito, se abonará la diferencia de precio en el salón.Consigue unos rizos o unas ondas perfectas. El precio no varía según el largo de tu pelo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peinado Joven", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "¡Reserva nuestro servicio de peinado para MENORES de 30 años! El servicio incluye lavado (no incluye mascarilla o crema), peinado y productos de acabado. El precio no varía según el largo de tu pelo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Reserva nuestro corte de pelo asesorado por nuestros profesionales. El servicio incluye el corte que más te apetezca lucir y el lavado. No incluye crema ni mascarilla. ¡Te encantará el resultado final de tu cabello!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Joven", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Servicio de color mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce un color espectacular con nuestros tintes sin amoniaco marca Inoa. El servicio incluye el color a elegir y lavado. El precio no varía según el largo de tu pelo. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Joven", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Servicio de corte mujer para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Corte asesorado por nuestros profesionales. El servicio incluye el corte a elegir y el lavado. No incluye crema ni mascarilla."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Completas O Californianas Joven", 
+            "duration": 7200, 
+            "price": "38 € ", 
+            "description": "Servicio de mechas o bien completas o californianas para MENORES de 30 años.En el caso de que no se cumplan los requisitos, se abonará la diferencia en el centro. Luce unas mechas perfectas en todo el cabello o californianas. El servicio incluye las mechas, tonalidad a elegir y el lavado. No incluye mascarilla o crema."
+        }
+    ]
+}

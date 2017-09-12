@@ -1,0 +1,125 @@
+{
+    "adid": null, 
+    "name": "Teixido", 
+    "name_of_contact": "Teixido", 
+    "scrape_page": "https://www.bucmi.com/teixido", 
+    "business_website": "https://www.bucmi.com/teixido", 
+    "areas_covered": null, 
+    "description": "Peluquería con más de 30 años de experiencia, especializada en gran variedad de servicios como tto naturales a base de algas, talosoterapia capilar, barros marinos, y esencias naturales herbales.Obtendrás un trato único.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635475856532447059.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635475856540885395.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Diagonal, 624", 
+    "city": "Barcelona", 
+    "zipcode": "08028", 
+    "formatted_address": "C/ Diagonal, 624, Barcelona, 08028", 
+    "country": "es", 
+    "office_number": "933390037", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3792714000", 
+    "longitude": "2.1312035999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966655554107190.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento De Keratina Nutritiva", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "Uno de los motivos del encrespamiento del pelo se debe a la falta de hidratación. Este tratamiento de keratina nutritiva que te ofrecemos, evitará el encrespamiento y aportará todos los nutrientes que necesita tu pelo para que luzca sano. Olvídate de las planchas y los secadores que castigan tu pelo. Ven a vernos a nuestro centro Teixido y , ¡di adiós al encrespamiento de tu pelo!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas, Corte Y Secado En Corto", 
+            "duration": 9000, 
+            "price": "53 € ", 
+            "description": "Si necesitas darle brillo a tu pelo o mantener las mechas este es el tratamiento perfecto para ti. En Teixidó te asesoramos para sacar el máximo partido a tu pelo. El servicio incluye lavado ,mechas a plata, corte asesorado y secado en corto. Ven a vernos a nuestro centro Teixido y, ¡disfruta de un pelo brillante!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas, Corte Y Secado Media Melena", 
+            "duration": 9000, 
+            "price": "58 € ", 
+            "description": "¿ Te atreves a cambiar de look? Te ofrecemos un servicio 100% asesorado por nuestros estilistas para sacar el máximo partido a tu melena y darle brillo con unos reflejos naturales.El servicio incluye: lavado, mechas a plata, corte asesorado y secado para media melena. Ven a vernos a nuestro centro Teixido y, ¡disfruta de una melena brillante!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Keratina Nutritiva", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "Uno de los motivos del encrespamiento del pelo se debe a la falta de hidratación. Este tratamiento de keratina nutritiva que te ofrecemos, evitará el encrespamiento y aportará todos los nutrientes que necesita tu pelo para que luzca sano. Olvídate de las planchas y los secadores que castigan tu pelo. Ven a vernos a nuestro centro Teixido y , ¡di adiós al encrespamiento de tu pelo!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte ,Secado En Pelo Largo", 
+            "duration": 9000, 
+            "price": "68 € ", 
+            "description": "Atrévete a darle brillo a tu pelo con unas mechas originales. Te ofrecemos un servicio 100% asesorado por nuestros estilistas. El servicio incluye: lavado, mechas a plata, corte asesorado y secado pelo largo. Servicio para pelos extra largos (largura por debajo del pecho). Ven a vernos a nuestro centro Teixido y, ¡disfruta de una melena brillante!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Secado En Corto", 
+            "duration": 9000, 
+            "price": "53 € ", 
+            "description": "Si necesitas darle brillo a tu pelo o mantener las mechas este es el tratamiento perfecto para ti. En Teixidó te asesoramos para sacar el máximo partido a tu pelo. El servicio incluye lavado ,mechas a plata, corte asesorado y secado en corto. Ven a vernos a nuestro centro Teixido y, ¡disfruta de un pelo brillante!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Secado Media Melena", 
+            "duration": 9000, 
+            "price": "58 € ", 
+            "description": "¿ Te atreves a cambiar de look? Te ofrecemos un servicio 100% asesorado por nuestros estilistas para sacar el máximo partido a tu melena y darle brillo con unos reflejos naturales.El servicio incluye: lavado, mechas a plata, corte asesorado y secado para media melena. Ven a vernos a nuestro centro Teixido y, ¡disfruta de una melena brillante!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color ,Corte Y Secado En Pelo Largo", 
+            "duration": 9000, 
+            "price": "55 € ", 
+            "description": "¿Te atreves a cambiar tu look con los colores de esta temporada? Nuestros especialistas en color trabajan con la marca Intercosmo color en 3D con keratina 21 % Aminoácidos. El servicio incluye: lavado,color,corte y secado para pelo extra largo (más o menos por debajo del pecho). Ven a vernos a nuestro centro Teixido, ¿ a qué esperas?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Secado En Pelo Media Melena", 
+            "duration": 9000, 
+            "price": "42 € ", 
+            "description": "Disfruta de un brillo y un color extraordinario para tu cabello . Ponte en nuestras manos y podrás disfrutar de los mejores colores de la Marca Intercosmo color en 3D con keratina y 21% Aminoácido.Incluye lavado, color y corte con secado en media melena, (hasta debajo del hombro). Ven a vernos a nuestro centro Teixido, ¿ a qué esperas?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Secado Pelo Corto", 
+            "duration": 9000, 
+            "price": "38 € ", 
+            "description": "Ponte en nuestras manos y consigue un cambio de look con un corte asesorado por nuestros profesionales . Podrás disfrutar de los mejores colores de la Marca Intercosmo color en 3D con keratina y 21% Aminoácido. Incluye lavado, color y corte con secado pelo corto. Ven a vernos a nuestro centro Teixido, ¿ a qué esperas?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar, Cortar Y Secar", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Servicio exclusivo para aquellas estudiantes que quieren cambiar de look o mantener el corte de moda a un precio muy económico. El pack incluye lavado con hidratación, corte asesorado y secado para todo tipo de darlos. Este servicio es solo para menores de 24 años. Ven a vernos a nuestro centro Teixido, ¡ya es hora de un corte, ponte en nuestras manos!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento De Keratina Nutritiva", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "Uno de los motivos del encrespamiento del pelo se debe a la falta de hidratación. Este tratamiento de keratina nutritiva que te ofrecemos, evitará el encrespamiento y aportará todos los nutrientes que necesita tu pelo para que luzca sano. Olvídate de las planchas y los secadores que castigan tu pelo. Ven a vernos a nuestro centro Teixido y , ¡di adiós al encrespamiento de tu pelo!"
+        }
+    ]
+}

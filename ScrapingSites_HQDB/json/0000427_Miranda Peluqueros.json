@@ -1,0 +1,171 @@
+{
+    "adid": null, 
+    "name": "Miranda Peluqueros", 
+    "name_of_contact": "Miranda Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/mirandapeluqueros", 
+    "business_website": "https://www.bucmi.com/mirandapeluqueros", 
+    "areas_covered": null, 
+    "description": "Mirando Peluqueros es un centro de peluquería ubicado en la zona de Portazgo, en Madrid. Disponemos de una amplia experiencia y conocemos las principales tendencias del mercado. ¡Ven y te envolverás en un ambiente positivo y profesional!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023742333920576.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023742334554547.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023742337679792.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023742337523539.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023742338775268.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023742339400301.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Longares, 46", 
+    "city": "Madrid", 
+    "zipcode": "28038", 
+    "formatted_address": "C/ Longares, 46, Madrid, 28038", 
+    "country": "es", 
+    "office_number": "913036642", 
+    "office_number2": null, 
+    "mobile_number": "618103316", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3887535000", 
+    "longitude": "-3.6478282000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636023742695837006.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Afeitado Spa", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Gracias a este servicio realizamos un afeitado tradicional, con navaja de cuchilla desechable, paños calientes y productos pre y post afeitado. Ahorra tiempo y reserva ya tu cita online con nosotros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre Normal", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "¡Cambia de look reservando nuestro corte para hombre! En el servicio se incluye el corte de pelo a tijera y entresacado, o máquina, siempre a tu gusto y adaptándonos a las últimas tendencias. Por último el Final Touch. ¡Reserva ya tu cita online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre Y Peinado", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio incluye el lavado del pelo con champú específico y masaje craneal, corte a navaja o tijera. Por último, realizamos el peinado y el Final Touch. ¡Ahora ya puedes ahorrar tiempo y reservar tu cita online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Afeitado Spa", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Incluye lavado con champú especifico con masaje, corte a tijera o navaja y peinado mas Final Touch. El afeitado con navaja de cuchilla desechable, paños calientes y lociones pre y post afeitado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Spa", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Gracias a este servicio realizamos un afeitado tradicional, con navaja de cuchilla desechable, paños calientes y productos pre y post afeitado. Ahorra tiempo y reserva ya tu cita online con nosotros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Normal", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "¡Cambia de look reservando nuestro corte para hombre! En el servicio se incluye el corte de pelo a tijera y entresacado, o máquina, siempre a tu gusto y adaptándonos a las últimas tendencias. Por último el Final Touch. ¡Reserva ya tu cita online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Corto", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "¡Sanea tu melena reservando nuestro corte para mujer! En el servicio está incluido el lavado del pelo con champú neutro y el corte de pelo para mujer con una longitud pelo corto. No se incluye peinado. En caso de tener un largo mayor, se abonará suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Largo", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "¡Dale forma a tu pelo reservando nuestro corte para mujer! El servicio incluye el lavado del pelo con champú neutro y el corte de pelo a tu gusto. Servicio exclusivo para mujer con cabello largo, en caso de tener el pelo extra largo se cobrará suplemento en el centro. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Media Melena", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "El servicio incluye el lavado del pelo con champú neutro, y por último el corte de pelo según tu gusto. Servicio exclusivo para mujer con media melena. En caso de tener un largo mayor, se pagará un suplemento en el salón. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Niño", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "En el servicio está incluido el lavado del pelo con champú especifico y masaje craneal y por último el final touch. Ahorra tiempo y reserva ya tu cita online con nosotros en Miranda Peluqueros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre Y Peinado", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Este servicio incluye el lavado del pelo con champú específico y masaje craneal, corte a navaja o tijera. Por último, realizamos el peinado y el Final Touch. ¡Ahora ya puedes ahorrar tiempo y reservar tu cita online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Afeitado Spa", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Incluye lavado con champú especifico con masaje, corte a tijera o navaja y peinado mas Final Touch. El afeitado con navaja de cuchilla desechable, paños calientes y lociones pre y post afeitado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Peinado Y Regalo Corte Media Melena", 
+            "duration": 10800, 
+            "price": "54 € ", 
+            "description": "Incluye: lavado, champú especifico con masaje SPA, acondicionador, mechas, fijación peinado y corte de pelo. En este servicio ya incluye el precio del corte de Mujer. Reserva cita y no dejes marchar esta oportunidad!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Peinado Y Regalo Corte Pelo Corto", 
+            "duration": 10800, 
+            "price": "49,5 € ", 
+            "description": "Incluye: lavado, champú especifico con masaje SPA, acondicionador, mechas de plata, fijación peinado y corte de pelo. En este servicio ya incluye el precio del corte de Mujer. Reserva cita y no dejes marchar esta oportunidad!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Peinado Y Regalo Corte Pelo Largo", 
+            "duration": 10800, 
+            "price": "50 € ", 
+            "description": "Incluye: lavado, champú especifico con masaje SPA, acondicionador, mechas de plata, fijación peinado y corte de pelo. En este servicio ya incluye el precio del corte de Mujer. Reserva cita y no dejes marchar esta oportunidad!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Peinado Y Regalo Corte De Pelo Corto", 
+            "duration": 10800, 
+            "price": "41,5 € ", 
+            "description": "Incluye: lavado, champú específico con masaje SPA, acondicionador, fijación del peinado y Corte de pelo. En este servicio ya incluye el precio del corte de Mujer. Reserva cita y no dejes marchar esta oportunidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Peinado Y Regalo Corte Largo", 
+            "duration": 10800, 
+            "price": "50 € ", 
+            "description": "Incluye: lavado, champú específico con masaje SPA, acondicionador, fijación del peinado y Corte de pelo. En este servicio ya incluye el precio del corte de Mujer. Reserva cita y no dejes marchar esta oportunidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Peinado Y Regalo Corte Mujer Media Melena", 
+            "duration": 10800, 
+            "price": "45 € ", 
+            "description": "Incluye: lavado, champú específico con masaje SPA, acondicionador, fijación del peinado y Corte de pelo. En este servicio ya incluye el precio del corte de Mujer. Reserva cita y no dejes marchar esta oportunidad."
+        }
+    ]
+}

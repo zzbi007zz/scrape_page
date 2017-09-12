@@ -1,0 +1,135 @@
+{
+    "adid": null, 
+    "name": "Carmen Rubio", 
+    "name_of_contact": "Carmen Rubio", 
+    "scrape_page": "https://www.bucmi.com/carmenrubio", 
+    "business_website": "https://www.bucmi.com/carmenrubio", 
+    "areas_covered": null, 
+    "description": "Prestigiosa peluquería para señoras en la que tendrás a grandes profesionales para asesorarándole con todo lo relacionado a su imagen personal. Garantizando un servicio de calidad. Ven a conocernos a la Urbanización de Olivares, de Oviedo. Te gustará.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635597653363631024.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635597653409103076.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635597653444738969.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635597653493197198.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635597653496009726.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Oviedo", 
+    "zipcode": "33013", 
+    "formatted_address": "Oviedo, 33009, Oviedo, 33002, Oviedo, 33013", 
+    "country": "es", 
+    "office_number": "985245233", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3632365000", 
+    "longitude": "-5.8622397999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635925956206974251.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Keratina", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Evita el encrespamiento, recupera la elasticidad en pelos dañados. Disfruta de un pelo liso e hidratado gracias a nuestra queratina de alta gama 100% libre de formol y otros sulfatos. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10,2 € ", 
+            "description": "Disfruta de un corte de tendencia de la mano de nuestros estilistas de Carmen Rubio, y consigue un look ala moda, gracias a este servicio de belleza para el pelo que incluye el corte asesorado, lavado con champú y acondicionador pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinar", 
+            "duration": 1800, 
+            "price": "10,2 € ", 
+            "description": "¡El pack de belleza de siempre! Si tienes una cita importante, un evento al que ir arreglada, o simplemente te apetece ir más guapa, reserva ahora mismo y de un solo clic nuestro servicio de lavar y peinar. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Evita el encrespamiento, recupera la elasticidad en pelos dañados. Disfruta de un pelo liso e hidratado gracias a nuestra queratina de alta gama 100% libre de formol y otros sulfatos. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinar", 
+            "duration": 3600, 
+            "price": "25,2 € ", 
+            "description": "Disfruta de un melena llena de vida y brillante, gracias a este completo servicio de coloración. Escoge entre nuestra amplia de coloraciones de alta gama, el que más te guste. El servicio también incluye el lavado con champú y mascarilla y el peinado de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "20,4 € ", 
+            "description": "Disfruta de un corte de tendencia de la mano de nuestros estilistas de Carmen Rubio, y consigue un look a la moda, gracias a este servicio de belleza para el pelo que incluye el corte asesorado, lavado con champú y acondicionador pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10,2 € ", 
+            "description": "Disfruta de un corte de tendencia de la mano de nuestros estilistas de Carmen Rubio, y consigue un look ala moda, gracias a este servicio de belleza para el pelo que incluye el corte asesorado, lavado con champú y acondicionador pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Bótox Capilar Corto", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Hidrata tu cabello, recupera la juventud de tu cabello con este tratamiento. Gracias al bótox, conseguirás recuperar la salud perdida de tu melena. El servicio incluye el lavado con champú y acondicionador, pero no el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Bótox Capilar Largo", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Hidrata tu cabello, recupera la juventud de tu cabello con este tratamiento. Gracias al bótox, conseguirás recuperar la salud perdida de tu melena. El servicio incluye el lavado con champú y acondicionador, pero no el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Bótox Capilar Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "30,2 € ", 
+            "description": "Hidrata tu cabello, recupera la juventud de tu cabello con este tratamiento. Gracias al bótox, conseguirás recuperar la salud perdida de tu melena. El servicio incluye el lavado con champú y acondicionador y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Bótox Capilar Y Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "27,2 € ", 
+            "description": "Hidrata tu cabello, recupera la juventud de tu cabello con este tratamiento. Gracias al bótox, conseguirás recuperar la salud perdida de tu melena. El servicio incluye el lavado con champú y acondicionador y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar", 
+            "duration": 1800, 
+            "price": "10,2 € ", 
+            "description": "¡El pack de belleza de siempre! Si tienes una cita importante, un evento al que ir arreglada, o simplemente te apetece ir más guapa, reserva ahora mismo y de un solo clic nuestro servicio de lavar y peinar. Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Evita el encrespamiento, recupera la elasticidad en pelos dañados. Disfruta de un pelo liso e hidratado gracias a nuestra queratina de alta gama 100% libre de formol y otros sulfatos. ¡Te encantará!"
+        }
+    ]
+}

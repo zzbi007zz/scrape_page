@@ -1,0 +1,84 @@
+{
+    "adid": null, 
+    "name": "La Pell de L'Ánima", 
+    "name_of_contact": "La Pell de L'Ánima", 
+    "scrape_page": "https://www.bucmi.com/la-pell-de-lanima", 
+    "business_website": "https://www.bucmi.com/la-pell-de-lanima", 
+    "areas_covered": null, 
+    "description": "El centro La Pelle de L'Ánima se encuentra en el barrio de Sagrada Familia dispone de un trato de nuestros profesionales amable y de calidad. Conoce nuestros servicios y deja que tu cuerpo disfrute de los mejores tratamientos con los mejores productos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635459415385823403.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885719023333569.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885719053188067.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Tarrega, 20", 
+    "city": "Barcelona", 
+    "zipcode": "08025", 
+    "formatted_address": "C/ Tarrega, 20, Barcelona, 08025", 
+    "country": "es", 
+    "office_number": "932450247", 
+    "office_number2": null, 
+    "mobile_number": "610106306", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4071640000", 
+    "longitude": "2.1707605000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966828703410970.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Cavitación Y Plataforma", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Este servicio se basa en los ultrasonidos, mediante estas ondas se consigue atacar la grasa más difícil, la que forma almacenes para tu cuerpo en zonas como las cartucheras, muslos, abdomen o incluso las rodillas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Espalda", 
+            "duration": 1800, 
+            "price": "23 € ", 
+            "description": "Muchas de nuestras tensiones se acumulan en la espalda y se hacen contracturas, con 30 minutos relajarás la espalda y te sentirás mucho mejor."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Hidratación Corporal Y Facial", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "las hidrataciones son ideales para la renovación de nuestra piel,la exfoliación ayuda a eliminar la capa de queratina, el envoltario a base de algas hace que este mas elastica y húmeda, y el masaje final la mantiene hidratada y relajada"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Es el tratamiento de moda. Utiliza la presión de aire para realizar un drenaje linfático. Entre los beneficios se destacan el tratamiento de edemas, elimina la celulitis, previene la formación de nueva celulitis, y modela y reafirma glúteos y piernas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Plataforma", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Este servicio se basa en los ultrasonidos, mediante estas ondas se consigue atacar la grasa más difícil, la que forma almacenes para tu cuerpo en zonas como las cartucheras, muslos, abdomen o incluso las rodillas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Hidratación Corporal Y Facial", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "las hidrataciones son ideales para la renovación de nuestra piel,la exfoliación ayuda a eliminar la capa de queratina, el envoltario a base de algas hace que este mas elastica y húmeda, y el masaje final la mantiene hidratada y relajada"
+        }
+    ]
+}

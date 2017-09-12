@@ -1,0 +1,181 @@
+{
+    "adid": null, 
+    "name": "Centro de Masajes y Osteopatía Belén Grandal", 
+    "name_of_contact": "Centro de Masajes y Osteopatía Belén Grandal", 
+    "scrape_page": "https://www.bucmi.com/belengrandal", 
+    "business_website": "https://www.bucmi.com/belengrandal", 
+    "areas_covered": null, 
+    "description": "Belén Grandal es un centro de masajes y osteopatía ubicado en Moyúa, Bilbao. Disponemos de los mejores profesionales del sector para conseguir que disfrutes de una experiencia perfecta. Estamos especializados en todo tipo de masajes para tu bienestar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636353008216141510.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636353008243797839.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ledesma, 20", 
+    "city": "Bilbao", 
+    "zipcode": "48009", 
+    "formatted_address": "C/ Ledesma, 20, Bilbao, 48009", 
+    "country": "es", 
+    "office_number": "944054737", 
+    "office_number2": null, 
+    "mobile_number": "626439094", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.2674577000", 
+    "longitude": "-2.9310547999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636035021520666695.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Terapeútico", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Elimina toda la tensión acumulada de la mano de nuestros profesionales, este masaje ayuda a que desaparezcan los dolores, contracturas y pinzamientos. Se realiza mediante la Técnica de Jones, una técnica que consiste en localizar el punto, hacer una presión de ligera a mediana sobre él, mover la articulación para poner el musculo en acortamiento, hasta que el dolor desaparezca o disminuya mucho. Este servicio tiene una duración de 50 minutos aproximadamente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante Manual", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Relájate durante 50 minutos con nosotros, de la mano de nuestros profesionales. Consiste en un masaje manual en el que descargarás tensiones y saldrás totalmente relajada. ¡No lo dudes más y reserva ahora!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfático Piernas", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este masaje ayudas a eliminar los líquidos que se acumulan en las piernas, mediante masajes con movimientos que actúan sobre la linfa, estimulando la contracción de los vasos linfáticos, mejorando de esta manera la circulación de retorno, potenciando el sistema inmunológico y la función renal."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante Con Cañas De Bambú", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Olvídate del estrés de forma natural y placentera. Los masajes con cañas de bambú son una terapia alternativa que ayuda a revitalizar tu cuerpo y tonificar tu cuerpo. Así cómo desbloquear los chakras y relajar la tensión muscular."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante Con Piedras Volcánicas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Desconecta durante 50 minutos y elimina todas las tensiones acumuladas. El masaje se realiza con piedra volcánicas que harán que se te relajen los músculos y ayudará a mejorar el dolor, así como a reducir el estrés."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Masajes A Elegir", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "¡Aprovecha nuestro bono de 3 masajes! Podrás elegir entre los siguientes tipos de masajes: descontracturante, deportivo, relajante, drenaje linfático. Cada masaje tiene una duración de cincuenta minutos. ¡Reserva ahora y disfruta!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Masajes A Elegir", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "¡No lo dudes más y reserva nuestro bono de cinco sesiones de masaje! Puedes elegir entre lo siguientes: masaje descontracturante, deportivo, relajante o drenaje linfático. ¡Aprovéchate de esta oferta y relaja tu cuerpo!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Reserva este masaje que te ayudará a mejorar la piel de naranja y a prevenir la acumulación de grasa. ¿A qué esperas para probarlo? Pide cita y déjate asesorar por nuestros profesionales en estética."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Piernas", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este masaje ayudas a eliminar los líquidos que se acumulan en las piernas, mediante masajes con movimientos que actúan sobre la linfa, estimulando la contracción de los vasos linfáticos, mejorando de esta manera la circulación de retorno, potenciando el sistema inmunológico y la función renal."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Masajes A Elegir", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "¡Aprovecha nuestro bono de 3 masajes! Podrás elegir entre los siguientes tipos de masajes: descontracturante, deportivo, relajante, drenaje linfático. Cada masaje tiene una duración de cincuenta minutos. ¡Reserva ahora y disfruta!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Masajes A Elegir", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "¡No lo dudes más y reserva nuestro bono de cinco sesiones de masaje! Puedes elegir entre lo siguientes: masaje descontracturante, deportivo, relajante o drenaje linfático. ¡Aprovéchate de esta oferta y relaja tu cuerpo!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Reserva este masaje que te ayudará a mejorar la piel de naranja y a prevenir la acumulación de grasa. ¿A qué esperas para probarlo? Pide cita y déjate asesorar por nuestros profesionales en estética."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático Piernas", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Con este masaje ayudas a eliminar los líquidos que se acumulan en las piernas, mediante masajes con movimientos que actúan sobre la linfa, estimulando la contracción de los vasos linfáticos, mejorando de esta manera la circulación de retorno, potenciando el sistema inmunológico y la función renal."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Masajes A Elegir", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "¡Aprovecha nuestro bono de 3 masajes! Podrás elegir entre los siguientes tipos de masajes: descontracturante, deportivo, relajante, drenaje linfático. Cada masaje tiene una duración de cincuenta minutos. ¡Reserva ahora y disfruta!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Masajes Con Piedras Volcánica Calientes", 
+            "duration": 2700, 
+            "price": "75 € ", 
+            "description": "No lo pienses más y disfruta de este bono de tres masajes de piedras volcánicas calientes para relajarte y reducir el estrés de cada día. El tratamiento tiene una duración de 50 minutos y te ayudará a mejorar tu bienestar gracias al calor de las piedras."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Masajes De Cañas De Bambú", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "Disfruta de este bono de tres masajes de cañas de bambú para tonificar y revitalizar tu cuerpo. Cada tratamiento incluye un masaje de 45 minutos para relajarte, reactivar la circulación y ayudar la regeneración de los tejidos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Masajes A Elegir", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "¡No lo dudes más y reserva nuestro bono de cinco sesiones de masaje! Puedes elegir entre lo siguientes: masaje descontracturante, deportivo, relajante o drenaje linfático. ¡Aprovéchate de esta oferta y relaja tu cuerpo!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Masajes Con Piedras Volcánicas Calientes", 
+            "duration": 2700, 
+            "price": "100 € ", 
+            "description": "Este bono de cincos masajes de piedras volcánicas calientes son el tratamiento que estabas esperando para relajarte en solo 50 minutos. Reduces tu estrés de cada día, conseguirás relajar todos tus músculos y encontrar un equilibrio entre cuerpo y mente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Masajes De Cañas De Bambú", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Bono de cincos masajes de cañas de bambú, indicado para disfrutar de un momento de relajación solo para ti. Tonifica y revitaliza tu cuerpo con este tratamiento que te ayudará a reactivar tu circulación y a regenerar tus tejidos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Prepara tu cuerpo para prevenir lesiones, no sólo está indicado para personas que sean profesionales del deporte, sino también para aquellas que lo practiquen habitualmente. Ven a conocernos y déjate asesorar por nuestros profesionales."
+        }
+    ]
+}

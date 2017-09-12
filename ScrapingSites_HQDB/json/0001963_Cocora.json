@@ -1,0 +1,119 @@
+{
+    "adid": null, 
+    "name": "Cocora", 
+    "name_of_contact": "Cocora", 
+    "scrape_page": "https://www.bucmi.com/cocora", 
+    "business_website": "https://www.bucmi.com/cocora", 
+    "areas_covered": null, 
+    "description": "En Cocora encontrarás un gabinete de estética especializado, así como el equipo más moderno y eficaz, como la depilación Full Laser System 100% Indolora. Elige entre todos nuestros tratamientos de estética faciales y corporales, y ven a visitarnos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635827512720448894.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635827512756855002.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635827512808887432.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "50014", 
+    "formatted_address": "Zaragoza, 50005, Zaragoza, 50010, Zaragoza, 50008, Zaragoza, 50005, Zaragoza, 50008, Zaragoza, 50014", 
+    "country": "es", 
+    "office_number": "976390409", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6583286000", 
+    "longitude": "-0.8728787000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635955533217619172.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser Cuerpo Entero Mujer", 
+            "duration": 3600, 
+            "price": "199 € ", 
+            "description": "Sorpréndete de la eficacia rapidez y seguridad del sistema Laser System SHR, un revolucionario método de depilación láser 100% indolora apto para todo tipo de pieles, incluso las más bronceadas. ¡Elige tú misma que zonas quieres incluir!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Reductor 6 Sesiones", 
+            "duration": 3600, 
+            "price": "234 € ", 
+            "description": "Combate la grasa localizada y consigue una silueta más esbelta con este pack super-reductor. Cada sesión incluye 15 minutos de láser lipolítico reductor, 25 minutos de radiofrecuencia bipolar y 20 minutos de presoterapia. ¡La combinación perfecta!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser Cuerpo Entero Hombre", 
+            "duration": 5400, 
+            "price": "250 € ", 
+            "description": "Los chicos también podéis disfrutar de una piel libre de vello sin tener que sufrir gracias a nuestro pack para hombres de depilación láser para cuerpo entero. Tú eliges qué zonas quieres depilarte con nuestro revolucionario sistema Laser System SHR."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Mejora tu circulación y estiliza tu figura gracias a nuestro bono de 10 sesiones de presoterapia. Además, podrás reducir la celulitis, la hinchazón, la inflamación y la sensación de piernas cansadas, mejorando el flujo de oxigeno de tu cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor 6 Sesiones", 
+            "duration": 3600, 
+            "price": "234 € ", 
+            "description": "Combate la grasa localizada y consigue una silueta más esbelta con este pack super-reductor. Cada sesión incluye 15 minutos de láser lipolítico reductor, 25 minutos de radiofrecuencia bipolar y 20 minutos de presoterapia. ¡La combinación perfecta!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Fotorejuvenecimiento Facial", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Tu rostro se verá más joven desde la primera sesión. Te sorprenderán los resultados del sistema de fotorejuvenecimiento facial. Con este tratamiento estimulamos la generación de colágeno, atenuamos arrugas, mejoramos la elasticidad, renueva y alisa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Ultrasónico", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Luce una piel más limpia y cuidada con nuestra limpieza facial completa que incluye el tratamiento con peeling ultrasónico. El servicio incluye el desmaquillado, el peeling ultrasónico para eliminar células muertas y puntos negros, un masaje reafirmante, mascarilla, tonificación e hidratación."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Mejora tu circulación y estiliza tu figura gracias a nuestro bono de 10 sesiones de presoterapia. Además, podrás reducir la celulitis, la hinchazón, la inflamación y la sensación de piernas cansadas, mejorando el flujo de oxigeno de tu cuerpo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones De Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Mejora tu circulación y estiliza tu figura gracias a nuestro bono de 10 sesiones de presoterapia. Además, podrás reducir la celulitis, la hinchazón, la inflamación y la sensación de piernas cansadas, mejorando el flujo de oxigeno de tu cuerpo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Reductor 6 Sesiones", 
+            "duration": 3600, 
+            "price": "234 € ", 
+            "description": "Combate la grasa localizada y consigue una silueta más esbelta con este pack super-reductor. Cada sesión incluye 15 minutos de láser lipolítico reductor, 25 minutos de radiofrecuencia bipolar y 20 minutos de presoterapia. ¡La combinación perfecta!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Fotorejuvenecimiento Facial", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Tu rostro se verá más joven desde la primera sesión. Te sorprenderán los resultados del sistema de fotorejuvenecimiento facial. Con este tratamiento estimulamos la generación de colágeno, atenuamos arrugas, mejoramos la elasticidad, renueva y alisa."
+        }
+    ]
+}

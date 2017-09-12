@@ -1,0 +1,163 @@
+{
+    "adid": null, 
+    "name": "Esthetic House Centro de Estética", 
+    "name_of_contact": "Esthetic House Centro de Estética", 
+    "scrape_page": "https://www.bucmi.com/esthetichouse", 
+    "business_website": "https://www.bucmi.com/esthetichouse", 
+    "areas_covered": null, 
+    "description": "Centro de estética en Valencia especializado en una amplia variedad de servicios: esmaltado, tratamientos corporales, faciales, masajes... Siéntete bien por dentro y por fuera con nosotros y relájate en manos de nuestros profesionales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635726699773395153.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635726699786364693.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635726699825122464.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635726699839967343.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635726699856531473.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "4,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46008", 
+    "formatted_address": "Valencia, Valencia, Valencia, 46002, Valencia, 46008", 
+    "country": "es", 
+    "office_number": "963380450", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4720617000", 
+    "longitude": "-0.3934950999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635965791612866491.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Pack 5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "¿Quieres tonificar tu cuerpo y volver a lucir figura tras los excesos del verano? El tratamiento consiste en una sesión de presoterapia y láser lipolítico que se combinará con otra de cavitación o radiofrecuencia, tú eliges. Combate la celulitis, favorece tu circulación y tonifica tu cuerpo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Libera tu piel de las impurezas e imperfecciones gracias a este tratamiento. La higiene facial comienza por desmaquillar tu rostro, aplicamos tónico y realizamos la extracción; posteriormente aplicamos mascarilla para terminar hidratando el rostro. ¡Tu piel, perfecta en una hora!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 5400, 
+            "price": "20 € ", 
+            "description": "Presume de manos y pies bonitos con esa manicura y pedicura completa que incluye: limado de uñas, retirada de cutículas, eliminación de durezas, hidratación y esmaltado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante, Reductor O Circulatorio", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Este masaje lo realizamos con el máximo cuidado con aceite de almendras para facilitar su realización y es relajante, reductor o circulatorio según tus necesidades."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones Tratamiento Facial", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "¿Quieres lucir un rostro perfecto? ¡Reserva nuestro bono de 6 sesiones de nuestro completo tratamiento facial. Durante el servicio aplicamos en el rostro radiofrecuencia o dermoabrasión. ¡No lo dudes más y reserva!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¡Aprovecha nuestra oferta especial! Te ofrecemos nuestra completa higiene facial, que incluye extracción, y te regalamos la sesión de presoterapia. ¡No lo dudes más y luce un rostro y un cuerpo ideal!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Con Higiene Facial", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Combina estos dos tratamientos para lograr que tu rostro esté perfecto, suave e hidratado. La microdermoabrasión permite combatir arrugas, eliminar las manchas y retirar las células muertas de tu rostro. Combinada con la limpieza facial, te permitirá lucir un rostro radiante, con luz propia, liso y elástico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack 5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "¿Quieres tonificar tu cuerpo y volver a lucir figura tras los excesos del verano? El tratamiento consiste en una sesión de presoterapia y láser lipolítico que se combinará con otra de cavitación o radiofrecuencia, tú eliges. Combate la celulitis, favorece tu circulación y tonifica tu cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Con Vendas Frías", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "¿Quieres mejorar tu silueta? ¡Reserva nuestro tratamiento corporal reductor! Consiste en aplicar presoterapia con vendas frías en las zonas más conflictivas. ¿A qué esperas para lucir un tipazo? ¡Reserva ahora!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Consiste en 30 minutos de radiofrecuencia y en los siguientes 30 minutos se realiza el desmaquillado, se aplica la mascarilla y la hidratación. Es ideal para pieles ligeramente flácidas y el resultado que se conseguirá es un rostro más joven y luminoso"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Este tratamiento combina láser lipolítico, presoterapia y plataforma vibratoria. Estas tres técnicas indoloras y no invasivas ayudan a reducir volumen y eliminar la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Libera tu piel de las impurezas e imperfecciones gracias a este tratamiento. La higiene facial comienza por desmaquillar tu rostro, aplicamos tónico y realizamos la extracción; posteriormente aplicamos mascarilla para terminar hidratando el rostro. ¡Tu piel, perfecta en una hora!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Relajante, Reductor O Circulatorio", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Este masaje lo realizamos con el máximo cuidado con aceite de almendras para facilitar su realización y es relajante, reductor o circulatorio según tus necesidades."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 6 Sesiones Tratamiento Facial", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "¿Quieres lucir un rostro perfecto? ¡Reserva nuestro bono de 6 sesiones de nuestro completo tratamiento facial. Durante el servicio aplicamos en el rostro radiofrecuencia o dermoabrasión. ¡No lo dudes más y reserva!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¡Aprovecha nuestra oferta especial! Te ofrecemos nuestra completa higiene facial, que incluye extracción, y te regalamos la sesión de presoterapia. ¡No lo dudes más y luce un rostro y un cuerpo ideal!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 6 Sesiones Tratamiento Facial", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "¿Quieres lucir un rostro perfecto? ¡Reserva nuestro bono de 6 sesiones de nuestro completo tratamiento facial. Durante el servicio aplicamos en el rostro radiofrecuencia o dermoabrasión. ¡No lo dudes más y reserva!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 6 Sesiones Tratamiento Facial", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "¿Quieres lucir un rostro perfecto? ¡Reserva nuestro bono de 6 sesiones de nuestro completo tratamiento facial. Durante el servicio aplicamos en el rostro radiofrecuencia o dermoabrasión. ¡No lo dudes más y reserva!"
+        }
+    ]
+}

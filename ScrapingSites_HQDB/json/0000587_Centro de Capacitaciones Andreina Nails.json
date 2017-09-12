@@ -1,0 +1,138 @@
+{
+    "adid": null, 
+    "name": "Centro de Capacitaciones Andreina Nails", 
+    "name_of_contact": "Centro de Capacitaciones Andreina Nails", 
+    "scrape_page": "https://www.bucmi.com/andreinanails", 
+    "business_website": "https://www.bucmi.com/andreinanails", 
+    "areas_covered": null, 
+    "description": "Andreina Nails, salón de belleza con centro de manicura especializado en decoración de uñas.Auténticos profesionales a tu servicio para conseguir una manicura perfecta en todo momento.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041815006571528.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041815008290057.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041815012509144.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041815012977927.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041815018339055.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041815019276630.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041815020526730.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041815021808373.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Espronceda, 43", 
+    "city": "Madrid", 
+    "zipcode": "28039", 
+    "formatted_address": "C/ Espronceda, 43, Madrid, 28039", 
+    "country": "es", 
+    "office_number": "910703309", 
+    "office_number2": null, 
+    "mobile_number": "687011459", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4589495000", 
+    "longitude": "-3.7106860999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636041815565518352.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "¡Luce unas manos perfectas durante más tiempo reservando este servicio! Nuestra manicura permanente incluye el limado y corte de uñas, retirada de cutículas, exfoliación e hidratación. Por último, aplicamos un esmalte permanente en el color que desees."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "¡Cuida y mima tus manos y pies con una manicura y pedicura completa! Incluye la retirada de cutículas, limado y esmaltado de uñas e hidratación de la piel y eliminación de durezas en pies para que estén perfectos. Utilizamos esmalte normal, no permanente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Uñas Acrílicas Con Decoración", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "¡Ten unas uñas de acrílico, que te aseguran un resultado resistente y duradero! Además, incluye una decoración espectacular y única. Tus uñas no pasarán desapercibidas, serás la envidia de todas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Reserva nuestro servicio de extensión de pestañas pelo a pelo con look natural! Tendrás una mirada mucho más intensa con más volumen y profundidad. Utilizamos pelo natural 100%. El precio incluye 35 pestañas en cada ojo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Reserva nuestro servicio de extensión de pestañas pelo a pelo con look natural! Tendrás una mirada mucho más intensa con más volumen y profundidad. Utilizamos pelo natural 100%. El precio incluye 35 pestañas en cada ojo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Curso Uñas de Gel y Acrílico", 
+            "duration": 14400, 
+            "price": "320 € ", 
+            "description": "Curso básico de uñas de gel y acrílico en que aprenderás todo para que tengas un conocimiento profesional sobre su creación. El curso se imparte durante 5 días con 4 horas diarias, se incluye un kit de regalo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Mantén tus manos ideales con una manicura completa en la que se cuidará el estado de la piel de tus manos, se retirarán cutículas y se esmaltarán y se limarán las uñas para que tus manos estén perfectas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "¡Luce unas manos perfectas durante más tiempo reservando este servicio! Nuestra manicura permanente incluye el limado y corte de uñas, retirada de cutículas, exfoliación e hidratación. Por último, aplicamos un esmalte permanente en el color que desees."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "¡Cuida y mima tus manos y pies con una manicura y pedicura completa! Incluye la retirada de cutículas, limado y esmaltado de uñas e hidratación de la piel y eliminación de durezas en pies para que estén perfectos. Utilizamos esmalte normal, no permanente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Completa", 
+            "duration": 3600, 
+            "price": "18,5 € ", 
+            "description": "¿Te gustaría lucir unos pies bonitos y cuidados? ¡Reserva nuestra pedicura completa! Incluye: limado y corte de uñas, retirada de cutículas, tratamiento de durezas, exfoliación e hidratación. Para finalizar, aplicamos un esmalte normal en el tono que más te guste."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Permanente", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "¡Reserva nuestra pedicura permanente y presume de unos pies perfectos durante mucho más tiempo! Durante el servicio realizamos el limado y corte de uñas, tratamiento durezas, exfoliación e hidratación. Finalmente, maquillamos las uñas con esmalte permanente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Retirada Uñas Acrílicas", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "¿Llevas uñas acrílicas y necesitas retirarlas? ¡Este es tu servicio! Nuestras profesionales manicuristas se encargarán de quitar el producto, limar y aplicar un brillo sellador para cuidar tus uñas. No incluye esmalte de color."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Uñas Acrílicas Con Decoración", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "¡Ten unas uñas de acrílico, que te aseguran un resultado resistente y duradero! Además, incluye una decoración espectacular y única. Tus uñas no pasarán desapercibidas, serás la envidia de todas."
+        }
+    ]
+}

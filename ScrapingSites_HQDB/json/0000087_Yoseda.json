@@ -1,0 +1,306 @@
+{
+    "adid": null, 
+    "name": "Yoseda", 
+    "name_of_contact": "Yoseda", 
+    "scrape_page": "https://www.bucmi.com/yosedapeluqueros", 
+    "business_website": "https://www.bucmi.com/yosedapeluqueros", 
+    "areas_covered": null, 
+    "description": "Yoseda peluqueros es una peluquería en donde te ofrecemos una amplia gama de servicios. Gracias a los peluqueros profesionales de los que disponemos en nuestro centro, podrás disfrutar de un ambiente relajado y personalizado. ¡Ven a conocernos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008330090375268.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008330099594328.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008330102718986.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008330102718986.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008330105687727.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008330111469245.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008330122875465.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008330136469175.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "26", 
+    "hqdb_review_score": "9,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Sagasta, 23", 
+    "city": "Madrid", 
+    "zipcode": "28020", 
+    "formatted_address": "C/ Sagasta, 23, Madrid, 28020", 
+    "country": "es", 
+    "office_number": "915706491", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4605623000", 
+    "longitude": "-3.6965767000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008330854150213.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial Bioterapia Y Masaje Relajante", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Con nuestra limpieza facial conseguirás una piel radiante, luminosa y, sobre todo, libre de imperfecciones. Seguimos los pasos de la rutina de higiene facial tradicionales (desmaquillado, tónico, extracción, masacarilla) y para ello empleamos productos biológicos de la marca Secretos del Agua. Finalizamos con un masaje relajante de 25 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Con Cera Completa Mujer", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Este completo servicio te permitirá olvidarte de una vez por todas de ese vello tan incómodo.Conseguirás, gracias a la depilación con cera, una piel lisa y sedosa durante semanas. Depilamos piernas completas, ingles brasileñas, axilas y labio superior. En caso de desear ingles integrales deberás abonar un suplemento de 3€ en centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Cabello - Alargar 120 Extensiones", 
+            "duration": 7200, 
+            "price": "600 € ", 
+            "description": "Con nuestras extensiones de cabello conseguirás ese cabello largo que siempre has deseado. Empleamos extensiones de cabello 100% natural para asegurarte un resultado que se funda con tu melena. Alarga tu melena hasta el infinito y disfruta de un pelazo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fotodepilacion Ingles Y Axilas 5 Sesiones", 
+            "duration": 1800, 
+            "price": "300 € ", 
+            "description": "Con este pack de 5 sesiones podrás eliminar el vello de ingles (normales) y axilas. Gracias a la luz pulsada del láser, eliminamos por completo el nacimiento del vello; tras varias sesiones, podrás despedirte de él por completo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fotodepilacion Piernas Enteras 5 Sesiones", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "Servicio de estética en el que incluye un Pack de 5 sesiones para eliminar el vello en las piernas enteras. No pierdas la oportunidad y reserva este completo bono."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Keratina", 
+            "duration": 9000, 
+            "price": "170 € ", 
+            "description": "¿Quieres conseguir el liso con el que siempre soñaste? Con nuestro alisado de keratina, lograrás un 95% de alisado en tu melena. Olvídate de una vez por todas de la plancha y luce melena. El servicio incluye lavado y el servicio de alisado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Extensiones De Cabello - Alargar 120 Extensiones", 
+            "duration": 7200, 
+            "price": "600 € ", 
+            "description": "Con nuestras extensiones de cabello conseguirás ese cabello largo que siempre has deseado. Empleamos extensiones de cabello 100% natural para asegurarte un resultado que se funda con tu melena. Alarga tu melena hasta el infinito y disfruta de un pelazo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina", 
+            "duration": 9000, 
+            "price": "170 € ", 
+            "description": "¿Quieres conseguir el liso con el que siempre soñaste? Con nuestro alisado de keratina, lograrás un 95% de alisado en tu melena. Olvídate de una vez por todas de la plancha y luce melena. El servicio incluye lavado y el servicio de alisado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "26,5 € ", 
+            "description": "En Yoseda nos ponemos a tu disposición para proporcionarte ese corte de pelo con el que tanto sueñas. El servicio incluye un lavado profesional con acondicionador, corte de pelo y secado al aire para retirar el exceso de humedad. No incluye peinar. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Con este servicio, además de llevarte un corte de pelo de tendencia, adaptado siempre a tus facciones y gustos, incluimos el peinado para que al salir te veas ¡perfecta! El servicio incluye un lavado profesional con acondicionador, corte de pelo y peinado. Es para cabello largo. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Medio", 
+            "duration": 2700, 
+            "price": "43 € ", 
+            "description": "No te pierdas este servicio, pensado especialmente para aquellas a las que les apetece cambiar y disfrutar de un nuevo corte para renovar su imagen. Además, te peinamos para aprovechar al máximo el resultado. El servicio incluye lavado con acondicionador, corte y peinado. Es para media melena. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Extensiones De Cabello - Relleno 40 Extensiones", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este servicio de extensiones podrás dar volumen a tu melena, aportando cabello en aquellas zonas estratégicas. Ponte en manos de nuestros profesionales para poder disfrutar ese pelazo que siempre has querido. Extensiones 100% natural."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar, Tinte Raíz, Baño En Puntas Y Peinado", 
+            "duration": 5400, 
+            "price": "68 € ", 
+            "description": "¡Luce un pelo renovado y con un aspecto cuidado gracias a nuestro equipo de profesionales! El servicio incluye un agradable lavado con champú específico, tinte en raíz, baño de color en las puntas y el peinado con definición. Servicio indicado para melenas largas. ¡Podrás deshacerte así de tu antiguo look y presumir de color y luminosidad en tu melena! Reserva ya tu cita cómodamente online a través de Bucmi.com! ¡Saldrás encantada con el resultado! Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas O Mechas Balayage", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "Con este servicio podrás disfrutar de unas mechas californianas o balayage, ¡tú eliges! Las mechas californianas se caracterizan por degradar el color de tu cabello hacia las puntas, aclarándolas para que simulen estar tocadas por el sol. Las mechas balayage se realizan a mano alzada, para proporcionarte un resultado muy natural y discreto. El servicio incluye lavado con acondicionador, mechas (balayage o californianas) y secado al aire. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Baño De Color", 
+            "duration": 3600, 
+            "price": "64,5 € ", 
+            "description": "Nuestro servicio de mechas y color está especialmente pensado para ti. Conseguirás un tono brillante e intenso en tu cabello gracias al baño de color con un plus de luminosidad por las mechas. El servicio incluye lavado especial con acondicionador, mechas de plata, matiz y secado al aire para retirar la humedad. No incluye peinar. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte", 
+            "duration": 1800, 
+            "price": "38,5 € ", 
+            "description": "Consigue un color unificado y lleno de vida en tu cabello con nuestro servicio de tinte. Incluimos todo el mimo en nuestro servicio:lavado con acondicionador, tinte y secado al aire para retirar el exceso de humedad (no incluye peinado). Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Baño De Color Medios Y Puntas", 
+            "duration": 2700, 
+            "price": "51,5 € ", 
+            "description": "Tratamiento de color menos agresivo que el tinte ya que contiene menos volúmenes de oxidantes. El servicio incluye: lavado con acondicionador y baño de color. También Incluye un secado natural para retirar el exceso de humedad, pero no el peinado. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Cabello - Alargar 120 Extensiones", 
+            "duration": 7200, 
+            "price": "600 € ", 
+            "description": "Con nuestras extensiones de cabello conseguirás ese cabello largo que siempre has deseado. Empleamos extensiones de cabello 100% natural para asegurarte un resultado que se funda con tu melena. Alarga tu melena hasta el infinito y disfruta de un pelazo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina", 
+            "duration": 9000, 
+            "price": "170 € ", 
+            "description": "¿Quieres conseguir el liso con el que siempre soñaste? Con nuestro alisado de keratina, lograrás un 95% de alisado en tu melena. Olvídate de una vez por todas de la plancha y luce melena. El servicio incluye lavado y el servicio de alisado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "26,5 € ", 
+            "description": "En Yoseda nos ponemos a tu disposición para proporcionarte ese corte de pelo con el que tanto sueñas. El servicio incluye un lavado profesional con acondicionador, corte de pelo y secado al aire para retirar el exceso de humedad. No incluye peinar. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Cabello - Alargar 120 Extensiones", 
+            "duration": 7200, 
+            "price": "600 € ", 
+            "description": "Con nuestras extensiones de cabello conseguirás ese cabello largo que siempre has deseado. Empleamos extensiones de cabello 100% natural para asegurarte un resultado que se funda con tu melena. Alarga tu melena hasta el infinito y disfruta de un pelazo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina", 
+            "duration": 9000, 
+            "price": "170 € ", 
+            "description": "¿Quieres conseguir el liso con el que siempre soñaste? Con nuestro alisado de keratina, lograrás un 95% de alisado en tu melena. Olvídate de una vez por todas de la plancha y luce melena. El servicio incluye lavado y el servicio de alisado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "26,5 € ", 
+            "description": "En Yoseda nos ponemos a tu disposición para proporcionarte ese corte de pelo con el que tanto sueñas. El servicio incluye un lavado profesional con acondicionador, corte de pelo y secado al aire para retirar el exceso de humedad. No incluye peinar. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Con este servicio, además de llevarte un corte de pelo de tendencia, adaptado siempre a tus facciones y gustos, incluimos el peinado para que al salir te veas ¡perfecta! El servicio incluye un lavado profesional con acondicionador, corte de pelo y peinado. Es para cabello largo. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Peinado Cabello Medio", 
+            "duration": 2700, 
+            "price": "43 € ", 
+            "description": "No te pierdas este servicio, pensado especialmente para aquellas a las que les apetece cambiar y disfrutar de un nuevo corte para renovar su imagen. Además, te peinamos para aprovechar al máximo el resultado. El servicio incluye lavado con acondicionador, corte y peinado. Es para media melena. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Cabello - Relleno 40 Extensiones", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este servicio de extensiones podrás dar volumen a tu melena, aportando cabello en aquellas zonas estratégicas. Ponte en manos de nuestros profesionales para poder disfrutar ese pelazo que siempre has querido. Extensiones 100% natural."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Extensiones De Cabello - Alargar 120 Extensiones", 
+            "duration": 7200, 
+            "price": "600 € ", 
+            "description": "Con nuestras extensiones de cabello conseguirás ese cabello largo que siempre has deseado. Empleamos extensiones de cabello 100% natural para asegurarte un resultado que se funda con tu melena. Alarga tu melena hasta el infinito y disfruta de un pelazo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Keratina", 
+            "duration": 9000, 
+            "price": "170 € ", 
+            "description": "¿Quieres conseguir el liso con el que siempre soñaste? Con nuestro alisado de keratina, lograrás un 95% de alisado en tu melena. Olvídate de una vez por todas de la plancha y luce melena. El servicio incluye lavado y el servicio de alisado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Cabello - Alargar 120 Extensiones", 
+            "duration": 7200, 
+            "price": "600 € ", 
+            "description": "Con nuestras extensiones de cabello conseguirás ese cabello largo que siempre has deseado. Empleamos extensiones de cabello 100% natural para asegurarte un resultado que se funda con tu melena. Alarga tu melena hasta el infinito y disfruta de un pelazo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina", 
+            "duration": 9000, 
+            "price": "170 € ", 
+            "description": "¿Quieres conseguir el liso con el que siempre soñaste? Con nuestro alisado de keratina, lograrás un 95% de alisado en tu melena. Olvídate de una vez por todas de la plancha y luce melena. El servicio incluye lavado y el servicio de alisado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "26,5 € ", 
+            "description": "En Yoseda nos ponemos a tu disposición para proporcionarte ese corte de pelo con el que tanto sueñas. El servicio incluye un lavado profesional con acondicionador, corte de pelo y secado al aire para retirar el exceso de humedad. No incluye peinar. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Con este servicio, además de llevarte un corte de pelo de tendencia, adaptado siempre a tus facciones y gustos, incluimos el peinado para que al salir te veas ¡perfecta! El servicio incluye un lavado profesional con acondicionador, corte de pelo y peinado. Es para cabello largo. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Peinado Cabello Medio", 
+            "duration": 2700, 
+            "price": "43 € ", 
+            "description": "No te pierdas este servicio, pensado especialmente para aquellas a las que les apetece cambiar y disfrutar de un nuevo corte para renovar su imagen. Además, te peinamos para aprovechar al máximo el resultado. El servicio incluye lavado con acondicionador, corte y peinado. Es para media melena. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Cabello - Relleno 40 Extensiones", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Con este servicio de extensiones podrás dar volumen a tu melena, aportando cabello en aquellas zonas estratégicas. Ponte en manos de nuestros profesionales para poder disfrutar ese pelazo que siempre has querido. Extensiones 100% natural."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavar, Tinte Raíz, Baño En Puntas Y Peinado", 
+            "duration": 5400, 
+            "price": "68 € ", 
+            "description": "¡Luce un pelo renovado y con un aspecto cuidado gracias a nuestro equipo de profesionales! El servicio incluye un agradable lavado con champú específico, tinte en raíz, baño de color en las puntas y el peinado con definición. Servicio indicado para melenas largas. ¡Podrás deshacerte así de tu antiguo look y presumir de color y luminosidad en tu melena! Reserva ya tu cita cómodamente online a través de Bucmi.com! ¡Saldrás encantada con el resultado! Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas O Mechas Balayage", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "Con este servicio podrás disfrutar de unas mechas californianas o balayage, ¡tú eliges! Las mechas californianas se caracterizan por degradar el color de tu cabello hacia las puntas, aclarándolas para que simulen estar tocadas por el sol. Las mechas balayage se realizan a mano alzada, para proporcionarte un resultado muy natural y discreto. El servicio incluye lavado con acondicionador, mechas (balayage o californianas) y secado al aire. Trabajamos con los mejores productos de la marca Wella."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Y Baño De Color", 
+            "duration": 3600, 
+            "price": "64,5 € ", 
+            "description": "Nuestro servicio de mechas y color está especialmente pensado para ti. Conseguirás un tono brillante e intenso en tu cabello gracias al baño de color con un plus de luminosidad por las mechas. El servicio incluye lavado especial con acondicionador, mechas de plata, matiz y secado al aire para retirar la humedad. No incluye peinar. Trabajamos con los mejores productos de la marca Wella."
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "adid": null, 
+    "name": "Lorena Style", 
+    "name_of_contact": "Lorena Style", 
+    "scrape_page": "https://www.bucmi.com/lorenastyle", 
+    "business_website": "https://www.bucmi.com/lorenastyle", 
+    "areas_covered": null, 
+    "description": "Salón de belleza en la zona de Embajadores en Madrid. Ofrecemos servicios de peluquería y como academia los precios son mucho más económicos sin disminuir la calidad y satisfacción del cliente. Utilizamos los mejores productos técnicas, te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008348199869809.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008348202681981.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008348204088598.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008348207682230.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008348207838245.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008348214244749.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "30", 
+    "hqdb_review_score": "7,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arenal, 8", 
+    "city": "Madrid", 
+    "zipcode": "28012", 
+    "formatted_address": "C/ Arenal, 8, Madrid, 28012", 
+    "country": "es", 
+    "office_number": "915284865", 
+    "office_number2": null, 
+    "mobile_number": "620459427", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4087962000", 
+    "longitude": "-3.7050189000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008348584123200.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡El servicio más completo para ellos! Está incluido en el precio el lavado, el corte y el secado. ¡Reserva y podrás disfrutar de todas las tendencias gracias a nuestros profesionales de Lorena Style!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El servicio de corte para pelo de mujer incluye el lavado, corte de pelo y secado exprés. ¡Disfruta de un corte económico y profesional! ¡No lo dudes más y reserva ahora! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Las manos son el reflejo de uno mismo ¡Reserva nuestra manicura básica! Incluye el limado, la retirada de cutículas para el cuidado de tu uña y esmaltado dentro de una amplia variedad de colores. Incluye francesa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Normal", 
+            "duration": 3600, 
+            "price": "17 € ", 
+            "description": "¡Disfruta de una pedicura básica en tus pies! Durante el servicio limamos las uñas, retiramos las cutículas y durezas, masajeamos con una crema hidratante y esmaltamos con el color que más te guste. Utilizamos esmalte normal."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡El servicio más completo para ellos! Está incluido en el precio el lavado, el corte y el secado. ¡Reserva y podrás disfrutar de todas las tendencias gracias a nuestros profesionales de Lorena Style!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El servicio de corte para pelo de mujer incluye el lavado, corte de pelo y secado exprés. ¡Disfruta de un corte económico y profesional! ¡No lo dudes más y reserva ahora! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Con Plata", 
+            "duration": 7200, 
+            "price": "25 € ", 
+            "description": "Disfruta de unas mechas y da color y brillo a tu melena. Este servicio incluye unas mechas con papel de plata para media melena o pelo largo ( una melena un poco por debajo de los hombros). En caso de pelo extralargo se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "12 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesites. Servicio para media melena, incluye lavado, crema, sérum y tratamiento específico."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesita tu pelo. Este servicio está indicado para pelo corto. Incluye el lavado, la crema y espuma, si fuese necesario."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesites lucir en cualquier ocasión. Este servicio es solo para pelo largo. Incluye: lavado, crema, sérum y tratamiento específico."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Raíz Y Secado", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "¡Colorea la raíz de tu pelo y dale toques del color que más va contigo! El servicio incluye el tinte en raíz, el lavado con champú específico y crema para el cabello. También incluye un secado exprés. Este servicio es para pelo corto o medio, en caso de tener un largo superior se cobrará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Secado Pelo Largo", 
+            "duration": 7200, 
+            "price": "25 € ", 
+            "description": "Un nuevo color para tu pelo. El servicio incluye un tinte con lavado con crema y secado exprés. Este servicio es para pelo largo, en caso de tener un pelo extralargo se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡El servicio más completo para ellos! Está incluido en el precio el lavado, el corte y el secado. ¡Reserva y podrás disfrutar de todas las tendencias gracias a nuestros profesionales de Lorena Style!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El servicio de corte para pelo de mujer incluye el lavado, corte de pelo y secado exprés. ¡Disfruta de un corte económico y profesional! ¡No lo dudes más y reserva ahora! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Con Plata", 
+            "duration": 7200, 
+            "price": "25 € ", 
+            "description": "Disfruta de unas mechas y da color y brillo a tu melena. Este servicio incluye unas mechas con papel de plata para media melena o pelo largo ( una melena un poco por debajo de los hombros). En caso de pelo extralargo se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "12 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesites. Servicio para media melena, incluye lavado, crema, sérum y tratamiento específico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesita tu pelo. Este servicio está indicado para pelo corto. Incluye el lavado, la crema y espuma, si fuese necesario."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesites lucir en cualquier ocasión. Este servicio es solo para pelo largo. Incluye: lavado, crema, sérum y tratamiento específico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Raíz Y Secado", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "¡Colorea la raíz de tu pelo y dale toques del color que más va contigo! El servicio incluye el tinte en raíz, el lavado con champú específico y crema para el cabello. También incluye un secado exprés. Este servicio es para pelo corto o medio, en caso de tener un largo superior se cobrará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡El servicio más completo para ellos! Está incluido en el precio el lavado, el corte y el secado. ¡Reserva y podrás disfrutar de todas las tendencias gracias a nuestros profesionales de Lorena Style!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El servicio de corte para pelo de mujer incluye el lavado, corte de pelo y secado exprés. ¡Disfruta de un corte económico y profesional! ¡No lo dudes más y reserva ahora! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Con Plata", 
+            "duration": 7200, 
+            "price": "25 € ", 
+            "description": "Disfruta de unas mechas y da color y brillo a tu melena. Este servicio incluye unas mechas con papel de plata para media melena o pelo largo ( una melena un poco por debajo de los hombros). En caso de pelo extralargo se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "12 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesites. Servicio para media melena, incluye lavado, crema, sérum y tratamiento específico."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesita tu pelo. Este servicio está indicado para pelo corto. Incluye el lavado, la crema y espuma, si fuese necesario."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesites lucir en cualquier ocasión. Este servicio es solo para pelo largo. Incluye: lavado, crema, sérum y tratamiento específico."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡El servicio más completo para ellos! Está incluido en el precio el lavado, el corte y el secado. ¡Reserva y podrás disfrutar de todas las tendencias gracias a nuestros profesionales de Lorena Style!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El servicio de corte para pelo de mujer incluye el lavado, corte de pelo y secado exprés. ¡Disfruta de un corte económico y profesional! ¡No lo dudes más y reserva ahora! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Mechas Con Plata", 
+            "duration": 7200, 
+            "price": "25 € ", 
+            "description": "Disfruta de unas mechas y da color y brillo a tu melena. Este servicio incluye unas mechas con papel de plata para media melena o pelo largo ( una melena un poco por debajo de los hombros). En caso de pelo extralargo se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡El servicio más completo para ellos! Está incluido en el precio el lavado, el corte y el secado. ¡Reserva y podrás disfrutar de todas las tendencias gracias a nuestros profesionales de Lorena Style!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El servicio de corte para pelo de mujer incluye el lavado, corte de pelo y secado exprés. ¡Disfruta de un corte económico y profesional! ¡No lo dudes más y reserva ahora! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Con Plata", 
+            "duration": 7200, 
+            "price": "25 € ", 
+            "description": "Disfruta de unas mechas y da color y brillo a tu melena. Este servicio incluye unas mechas con papel de plata para media melena o pelo largo ( una melena un poco por debajo de los hombros). En caso de pelo extralargo se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "12 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesites. Servicio para media melena, incluye lavado, crema, sérum y tratamiento específico."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesita tu pelo. Este servicio está indicado para pelo corto. Incluye el lavado, la crema y espuma, si fuese necesario."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Déjate asesorar por nuestros profesionales de Lorena Style y disfruta de un peinado acorde con lo que necesites lucir en cualquier ocasión. Este servicio es solo para pelo largo. Incluye: lavado, crema, sérum y tratamiento específico."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Raíz Y Secado", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "¡Colorea la raíz de tu pelo y dale toques del color que más va contigo! El servicio incluye el tinte en raíz, el lavado con champú específico y crema para el cabello. También incluye un secado exprés. Este servicio es para pelo corto o medio, en caso de tener un largo superior se cobrará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Secado Pelo Largo", 
+            "duration": 7200, 
+            "price": "25 € ", 
+            "description": "Un nuevo color para tu pelo. El servicio incluye un tinte con lavado con crema y secado exprés. Este servicio es para pelo largo, en caso de tener un pelo extralargo se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "6 S Cavitación, Electroestimulación Y Presoterapia", 
+            "duration": 5400, 
+            "price": "270 € ", 
+            "description": "¿Te gustaría mejorar tu figura? ¡Todavía estas a tiempo! ¡Reserva nuestro bono de 6 sesiones de cavitación, electroestimulación y presoterapia. Combinamos estas tres técnicas reductoras en una sesión de una hora y media de duración."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡El servicio más completo para ellos! Está incluido en el precio el lavado, el corte y el secado. ¡Reserva y podrás disfrutar de todas las tendencias gracias a nuestros profesionales de Lorena Style!"
+        }
+    ]
+}

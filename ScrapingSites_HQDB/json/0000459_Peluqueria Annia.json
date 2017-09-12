@@ -1,0 +1,177 @@
+{
+    "adid": null, 
+    "name": "Peluquería Annia", 
+    "name_of_contact": "Peluquería Annia", 
+    "scrape_page": "https://www.bucmi.com/peluqueriaannia", 
+    "business_website": "https://www.bucmi.com/peluqueriaannia", 
+    "areas_covered": null, 
+    "description": "Salón de belleza Annia situado en el barrio de Prosperidad de Madrid. Ven a descubrir nuestros tratamientos de cabello: de keratina, de células madres... Déjate asesorar por nuestros peluqueros y esteticistas profesionales. ¡Reserva ya tu cita online!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858866394912039.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858866436964117.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858866449151614.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858866511182683.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858866525088888.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "914165703", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4459385000", 
+    "longitude": "-3.6761751000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908124094805646.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Raíz Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "¿Empiezan a asomarse esas incómodas raíces? ¡No te preocupes! Reserva nuestro color en raíz y nuestros profesionales se encargarán de realizarte un color perfecto y uniforme. ¡Al finalizar te haremos el peinado que más te apetezca lucir! Servicio exclusivo para media melena."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¿Necesitas un corte de pelo? El servicio incluye lavado con champú específico, corte asesorado por nuestros profesionales de peluquería y peinado con productos de acabado. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¿Quieres lucir un corte de pelo con estilo? Reserva nuestro servicio de corte de mujer asesorado por nuestros peluqueros profesionales. No incluye el peinado. Ven a nuestro centro de peluquería y estética Annia Hernández, no te arrepentirás."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "¿Has soñado alguna vez con una manicura que duraba perfecta hasta 3 semanas? ¡No es un sueño, ahora existe! Disponemos de una manicura permanente para que puedas tener unas manos impecables durante mucho más tiempo. Durante el servicio realizamos la manicura para dejar cuidadas tus manos y aplicamos el esmalte permanente en el color que más te guste."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Células Madre", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Tratamiento indicado para hidratar tu melena de una forma más profunda. Recupera el brillo y la suavidad de tu cabello en pocos minutos. El servicio incluye lavado, productos de hidratación y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "¡Mejora el aspecto de tus raíces reservando nuestro servicio de color en raíz! Trabajamos con las mejores marcas de tinte. También te realizaremos el peinado que desees. ¿A qué esperas para tener un color impecable en tu cabello?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "¿Empiezan a asomarse esas incómodas raíces? ¡No te preocupes! Reserva nuestro color en raíz y nuestros profesionales se encargarán de realizarte un color perfecto y uniforme. ¡Al finalizar te haremos el peinado que más te apetezca lucir! Servicio exclusivo para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "39 € ", 
+            "description": "¡Intensifica el color de tu pelo reservando este servicio! Nuestros profesionales te aconsejarán en todo lo que necesites para conseguir el color que más te favorezca. Además, te realizamos el peinado con el que te apetezca lucir tu nuevo look."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 7200, 
+            "price": "37 € ", 
+            "description": "¿Te apetece un cambio de color en tu pelo? ¡Reserva nuestro servicio de tinte completo y hazte el cambio que siempre has querido! Nuestro profesionales te aconsejarán en todo lo que necesites para conseguir el mejor resultado en tu pelo. Incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Medio Largo", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "El servicio incluye el lavado de la melena media o larga, el lavado del cabello y por último el peinado de mujer en pelo media melena o largo. Ahora ya puedes reservar online a través de Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¡Reserva nuestro servicio de corte y peinado! Saldrás perfecta de nuestro centro. El servicio incluye el corte, lavado y peinado. Consulte posibles suplementos en el caso de tratamientos de hidratación. En caso de tener el pelo por debajo de la oreja se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¿Necesitas un corte de pelo? El servicio incluye lavado con champú específico, corte asesorado por nuestros profesionales de peluquería y peinado con productos de acabado. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¿Quieres lucir un corte de pelo con estilo? Reserva nuestro servicio de corte de mujer asesorado por nuestros peluqueros profesionales. No incluye el peinado. Ven a nuestro centro de peluquería y estética Annia Hernández, no te arrepentirás."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Plata", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el lavado del pelo, la hidratación del cabello, las mechas realizadas con plata y el secado natural de la melena. No incluye el peinado. Ven a nuestro centro de peluquería y estética Annia."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "14 € ", 
+            "description": "¡Peina tu melena en nuestro centro! Reserva nuestro servicio de peinado y te dejaremos perfecta para cualquier ocasión. Solo tienes que decirnos qué peinado te apetece lucir y nosotros nos encargaremos de realizarlo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Medio", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "¿Tienes que lucir perfecta para una ocasión especial? ¡Reserva nuestro peinado para media melena! Nos encargaremos de realizarte el peinado que más te favorezca, según el tipo de evento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Ácido Hialurónico", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Tratamiento indicado para generar tu melena desde la raiz. Aporta volumen y brillo a tu cabello con este tratamiento infalible. El servicio también incluye lavado, hidratación, tratamiento específico y peinado asesorado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Capilar Células Madre", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Tratamiento indicado para hidratar tu melena de una forma más profunda. Recupera el brillo y la suavidad de tu cabello en pocos minutos. El servicio incluye lavado, productos de hidratación y peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "¡Mejora el aspecto de tus raíces reservando nuestro servicio de color en raíz! Trabajamos con las mejores marcas de tinte. También te realizaremos el peinado que desees. ¿A qué esperas para tener un color impecable en tu cabello?"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "adid": null, 
+    "name": "Escabias", 
+    "name_of_contact": "Escabias", 
+    "scrape_page": "https://www.bucmi.com/escabias", 
+    "business_website": "https://www.bucmi.com/escabias", 
+    "areas_covered": null, 
+    "description": "Ven a conocernos a nuestro centro de belleza a sólo unos pasos del centro de Zaragoza. Te sentirás como en casa gracias a los profesionales con los que contamos y con nuestras renovadas instalaciones. No lo dudes más y ¡reserva online!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635778273146738726.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635778273333306418.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635778273415962390.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "50005", 
+    "formatted_address": "Zaragoza, 50005", 
+    "country": "es", 
+    "office_number": "976563292", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6461190000", 
+    "longitude": "-0.8965991999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635955549308166923.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer Largo", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Déjate asesorar por nuestros profesionales y disfruta de un corte de pelo largo definido. El servicio incluye lavado, corte y secado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar De Keratina", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Revitaliza tu pelo sin dañarlo de la forma más natural."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Corto", 
+            "duration": 1800, 
+            "price": "22,5 € ", 
+            "description": "Refuerza la personalidad de tu cabello con un corte de pelo corto, asesorado por nuestros profesionales. Incluye lavado, corte y secado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Plata", 
+            "duration": 3600, 
+            "price": "29,5 € ", 
+            "description": "Dale fuerza a tu color natural con unas mechas plata. El servicio incluye mechas y lavado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Novia", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Siéntete espectacular el día de tu boda con un peinado digno del día más importante de tu vida. El servicio incluye lavado con hidratación, secado y peinado. No incluye maquillaje."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Largo", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Déjate asesorar por nuestros profesionales y disfruta de un corte de pelo largo definido. El servicio incluye lavado, corte y secado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Keratina", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Revitaliza tu pelo sin dañarlo de la forma más natural."
+        }
+    ]
+}

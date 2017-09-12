@@ -1,0 +1,100 @@
+{
+    "adid": null, 
+    "name": "Super-Arte", 
+    "name_of_contact": "Super-Arte", 
+    "scrape_page": "https://www.bucmi.com/superarte", 
+    "business_website": "https://www.bucmi.com/superarte", 
+    "areas_covered": null, 
+    "description": "El Centro de Terapias Naturales Super-Arte, situado en atocha, ofrecemos tratamientos de relajación, acupuntura y tratamientos para que consigas dejar de fumar. ¡Te ayudaremos a superarte con arte! Profesionales formados en España, China y Argentina.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636039344280278503.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636039344280903579.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636039344283887004.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636039344284668248.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636039344284043492.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pechuan, 14", 
+    "city": "Madrid", 
+    "zipcode": "28014", 
+    "formatted_address": "C/ Pechuan, 14, Madrid, 28014", 
+    "country": "es", 
+    "office_number": "913030951", 
+    "office_number2": null, 
+    "mobile_number": "644111444", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4065605000", 
+    "longitude": "-3.6855874000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636039344924986960.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Para Dejar De Fumar", 
+            "duration": 7200, 
+            "price": "180 € ", 
+            "description": "Realizamos un estudio previo, sesión preparatoria y de psicología, una sesión de acupuntura, una sesión de auriculoterapia y flores de Bach. Ahorra tiempo y dinero ganando en salud. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Alternativa: Salud Integral Holística", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Este es un servicio en el que se incluye una sesión de salud integral (holística). Es una consulta en la cual revisamos hábitos de salud física y emocional, de una forma holística. Solo válida 1a consulta. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Natural: Primera Sesión De Psicoterapia", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "¡Prueba nuestra primera sesión de psicoterapia! Este servicio incluye una primera sesión de 90 minutos. Durante la consulta se hace un repaso de las necesidades del paciente y se plantean los caminos posibles para encontrar la solución. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Para Dejar De Fumar", 
+            "duration": 7200, 
+            "price": "180 € ", 
+            "description": "Realizamos un estudio previo, sesión preparatoria y de psicología, una sesión de acupuntura, una sesión de auriculoterapia y flores de Bach. Ahorra tiempo y dinero ganando en salud. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "2 Sesiones Acupuntura", 
+            "duration": 3600, 
+            "price": "100 € ", 
+            "description": "Consiste en insertar una serie de agujas muy finas en la piel del paciente, a distintas profundidades, para estimular puntos específicos del cuerpo, con el fin de restaurar el flujo y equilibrio de energía en el interior del organismo. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 10 Sesiones Acupuntura", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "10 Sesiones. Consiste en insertar una serie de agujas muy finas en la piel del paciente, a distintas profundidades, para estimular puntos específicos del cuerpo, con el fin de restaurar el flujo y equilibrio de energía en el interior del organismo. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Salud Integral Holística", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Este es un servicio en el que se incluye una sesión de salud integral (holística). Es una consulta en la cual revisamos hábitos de salud física y emocional, de una forma holística. Solo válida 1a consulta. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Natural Meditación Y Relajación Individual", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Ponte en las mejores manos para conseguir una relajación total. Con este servicio podrás disfrutar de una sesión de meditación para conseguir paz interior, y una relajación totalmente individualizada. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }
+    ]
+}

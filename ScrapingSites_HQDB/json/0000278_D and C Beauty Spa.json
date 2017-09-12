@@ -1,0 +1,318 @@
+{
+    "adid": null, 
+    "name": "D and C Beauty Spa", 
+    "name_of_contact": "D and C Beauty Spa", 
+    "scrape_page": "https://www.bucmi.com/dandcbeautyspa", 
+    "business_website": "https://www.bucmi.com/dandcbeautyspa", 
+    "areas_covered": null, 
+    "description": "D and C Beauty Spa es un salón de peluquería, estética y bienestar situado en la calle Doctor Santero número 10 en el barrio de Tetuán y muy cerca de Cuatro Caminos, en Madrid. Este centro cuenta con zona de peluquería, cabinas de estética, zonas de manicura y pedicura, además de zona spa, pensado para ofrecer circuitos termales. Su amplia cartera de servicios abarca cortes de pelo asesorados, coloraciones, tratamientos capilares, tratamientos faciales, corporales, manicuras, pedicuras, masajes, rituales de bienestar, depilaciones y circuitos spa. Todo ello se realiza en un ambiente de tranquilidad y armonía, utilizando cosméticos de gran calidad de firmas como CND Shellac, Essie, Masglo, Nouveau y Vinilux.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008319346793066.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636318431274267031.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636318431306451214.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636318431422845329.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636318431510805091.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636318431539708316.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "25", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arenal, 8", 
+    "city": "Madrid", 
+    "zipcode": "28039", 
+    "formatted_address": "C/ Arenal, 8, Madrid, 28039", 
+    "country": "es", 
+    "office_number": "913449483", 
+    "office_number2": null, 
+    "mobile_number": "620459427", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4477451000", 
+    "longitude": "-3.7051337000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636318430514814541.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Shellac", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "La manicura más duradera y resistente con una de las mejores marcas del mercado. El servicio incluye limado, retirada de cutículas, hidratación y esmaltado permanente con el color que más te guste a elegir entre nuestra amplia gama."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Y Peinado Media Melena Y Pelo Largo", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Atrévete con un cambio de estilo de la mano de nuestros profesionales, siempre bajo asesoramiento personalizado para conseguir sacar lo mejor de ti. El servicio incluye corte, lavado con champú y tratamiento de hidratación profunda y peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensión De Pestañas Medio Set", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Alargamos o damos espesor a tu pestaña natural con 50 extensiones en cada ojo con un acabado muy natural... Reserva de un solo clic con Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Limpia, hidrata y deja tu rostro libre de impurezas gracias a nuestra higiene facial. El servicio incluye extracción, exfoliación, hidratación, mascarilla y masaje."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Circuito Spa De 90 Minutos", 
+            "duration": 5400, 
+            "price": "15 € ", 
+            "description": "Circuito hidrotermal que se compone de jacuzzi, sauna finlandesa, baño de vapor, duchas, pediluvio, fuente de hielo y terraza. Ideal relax...¡ven a conocernos!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un pelo saneado, liso y sin encrespamiento gracias a nuestro completo tratamiento capilar de bótox, que ayuda a engrosar tu cabello para que vuelva a lucir brillante y lleno de vida. ¿A qué estás esperando para reserva?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Queratina Largo: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "70 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Queratina Medio: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "50 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¿Aburrida de tu melena? Dale una vuelta a tu estilo con nuestro completo servicio que incluye coloración a escoger entre todos nuestros colores, lavado con champú y tratamiento de hidratación profunda y peinado del pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Los cortes que marcan tendencia y que más van contigo, en nuestro centro para ti. El servicio incluye corte con asesoramiento personalizado, lavado con champú y acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Ponte en las manos de los mejores profesionales para conseguir un corte de pelo acorde con tu estilismo. El servicio incluye corte con asesoramiento personalizado y lavado con champú."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¿Te apetece un cambio de look? ¿Necesitas sanear tu melena? Ven a nuestro centro y déjate asesorar por nuestros estilistas. El servicio incluye corte de pelo, lavado con champú y tratamiento de hidratación profunda y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Corto", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Dale un toque de luz y color a tu aburrida melena gracias a nuestro servicio de mechas tradicionales con el que aclararemos unos tonos tu cabello. El servicio incluye lavado conc hampú y acondicionador pero no peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Largo", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Dale un toque de luz y color a tu aburrida melena gracias a nuestro servicio de mechas tradicionales con el que aclararemos unos tonos tu cabello. El servicio incluye lavado conc hampú y acondicionador pero no peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinar Pelo Corto", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Dale un toque de luz y color a tu aburrida melena gracias a nuestro servicio de mechas tradicionales con el que aclararemos unos tonos tu cabello. El servicio incluye lavado con champú y tratamiento de hidratación profunda y peinado del pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Dale un toque de luz y color a tu aburrida melena gracias a nuestro servicio de mechas tradicionales con el que aclararemos unos tonos tu cabello. El servicio incluye lavado con champú y tratamiento de hidratación profunda y peinado del pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Media Melena Y Pelo Largo", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Atrévete con un cambio de estilo de la mano de nuestros profesionales, siempre bajo asesoramiento personalizado para conseguir sacar lo mejor de ti. El servicio incluye corte, lavado con champú y tratamiento de hidratación profunda y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte, Tto. Botox Y Peinado", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Reserva tu pack de belleza para tu cabello y luce una melena brillante y saneada. Realizamos color con asesoramiento personalizado, lavado, tratamiento de botox capilar para eliminar el encrespado y aportar más vida a tu cabello, corte y peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bótox Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un pelo saneado, liso y sin encrespamiento gracias a nuestro completo tratamiento capilar de bótox, que ayuda a engrosar tu cabello para que vuelva a lucir brillante y lleno de vida. ¿A qué estás esperando para reserva?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Queratina Largo: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "70 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Queratina Medio: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "50 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¿Aburrida de tu melena? Dale una vuelta a tu estilo con nuestro completo servicio que incluye coloración a escoger entre todos nuestros colores, lavado con champú y tratamiento de hidratación profunda y peinado del pelo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Los cortes que marcan tendencia y que más van contigo, en nuestro centro para ti. El servicio incluye corte con asesoramiento personalizado, lavado con champú y acabado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Ponte en las manos de los mejores profesionales para conseguir un corte de pelo acorde con tu estilismo. El servicio incluye corte con asesoramiento personalizado y lavado con champú."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¿Te apetece un cambio de look? ¿Necesitas sanear tu melena? Ven a nuestro centro y déjate asesorar por nuestros estilistas. El servicio incluye corte de pelo, lavado con champú y tratamiento de hidratación profunda y peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bótox Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un pelo saneado, liso y sin encrespamiento gracias a nuestro completo tratamiento capilar de bótox, que ayuda a engrosar tu cabello para que vuelva a lucir brillante y lleno de vida. ¿A qué estás esperando para reserva?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Queratina Largo: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "70 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Queratina Medio: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "50 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¿Aburrida de tu melena? Dale una vuelta a tu estilo con nuestro completo servicio que incluye coloración a escoger entre todos nuestros colores, lavado con champú y tratamiento de hidratación profunda y peinado del pelo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Los cortes que marcan tendencia y que más van contigo, en nuestro centro para ti. El servicio incluye corte con asesoramiento personalizado, lavado con champú y acabado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Ponte en las manos de los mejores profesionales para conseguir un corte de pelo acorde con tu estilismo. El servicio incluye corte con asesoramiento personalizado y lavado con champú."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¿Te apetece un cambio de look? ¿Necesitas sanear tu melena? Ven a nuestro centro y déjate asesorar por nuestros estilistas. El servicio incluye corte de pelo, lavado con champú y tratamiento de hidratación profunda y peinado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bótox Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un pelo saneado, liso y sin encrespamiento gracias a nuestro completo tratamiento capilar de bótox, que ayuda a engrosar tu cabello para que vuelva a lucir brillante y lleno de vida. ¿A qué estás esperando para reserva?"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Queratina Largo: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "70 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bótox Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un pelo saneado, liso y sin encrespamiento gracias a nuestro completo tratamiento capilar de bótox, que ayuda a engrosar tu cabello para que vuelva a lucir brillante y lleno de vida. ¿A qué estás esperando para reserva?"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bótox Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un pelo saneado, liso y sin encrespamiento gracias a nuestro completo tratamiento capilar de bótox, que ayuda a engrosar tu cabello para que vuelva a lucir brillante y lleno de vida. ¿A qué estás esperando para reserva?"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Alisado Queratina Largo: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "70 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Alisado Queratina Medio: Cirugía Plástica Capilar", 
+            "duration": 9000, 
+            "price": "50 € ", 
+            "description": "Disfruta de una melena lisa, sin encrespamiento y 100% hidratada y reparada con nuestro alisado de queratina de alta gama. Consiste en una cirugía plástica capilar que hará que tu melena brille por si sola."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Color Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¿Aburrida de tu melena? Dale una vuelta a tu estilo con nuestro completo servicio que incluye coloración a escoger entre todos nuestros colores, lavado con champú y tratamiento de hidratación profunda y peinado del pelo."
+        }
+    ]
+}

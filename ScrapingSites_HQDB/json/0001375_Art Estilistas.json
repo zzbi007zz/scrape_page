@@ -1,0 +1,87 @@
+{
+    "adid": null, 
+    "name": "Art Estilistas", 
+    "name_of_contact": "Art Estilistas", 
+    "scrape_page": "https://www.bucmi.com/artestilistas", 
+    "business_website": "https://www.bucmi.com/artestilistas", 
+    "areas_covered": null, 
+    "description": "Art Estilistas es un centro de belleza que se encuentra en pleno barrio de Horta, donde podrás encontrar completos tratamientos de estética faciales, corporales, etc. Haz ya tu reserva con Bucmi.com y no te arrepentirás de los resultados. Te encantará.", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Tajo, 53", 
+    "city": "Barcelona", 
+    "zipcode": "08032", 
+    "formatted_address": "C/ Tajo, 53, Barcelona, 08032", 
+    "country": "es", 
+    "office_number": "933576882", 
+    "office_number2": null, 
+    "mobile_number": "630292370", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4294782000", 
+    "longitude": "2.1611665000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970621069686.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Secado Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "34,4 € ", 
+            "description": "Ven a conocer nuestro centro y déjate asesorar por nuestros profesionales. Éste servicio incluye lavado con Champú especifico, secado y Peinado. ¿A qué estás esperando? Reserva ya a través de Bucmi.com en nuestro salón. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Lavado Y Peinado Hombre", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Ven a conocer nuestro centro y déjate asesorar por nuestros profesionales. Éste servicio incluye corte lavado y peinado, con productos de acabado (Gomina y Cera). Reserva ya a través de Bucmi.com en nuestro salón. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Secado Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "34,4 € ", 
+            "description": "Ven a conocer nuestro centro y déjate asesorar por nuestros profesionales. Éste servicio incluye lavado con Champú especifico, secado y Peinado. ¿A qué estás esperando? Reserva ya a través de Bucmi.com en nuestro salón. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Lavado Y Peinado Hombre", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Ven a conocer nuestro centro y déjate asesorar por nuestros profesionales. Éste servicio incluye corte lavado y peinado, con productos de acabado (Gomina y Cera). Reserva ya a través de Bucmi.com en nuestro salón. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Ponte en manos de nuestros estilistas y verás como no te arrepientes. Disfruta de un cambio de look a la última en nuestro salón. El servicio no incluye ni lavado ni peinado. Reserva Con nosotros ya a través de Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "27,6 € ", 
+            "description": "Ponte en manos de nuestros estilistas y verás como no te arrepientes. Disfruta de un cambio de look a la última en nuestro salón. El servicio incluye lavado con champú especifico y secado. Reserva Con nosotros ya a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Melena", 
+            "duration": 5400, 
+            "price": "62,2 € ", 
+            "description": "Las mechas básicas, las de toda la vida, te darán un toque de luz muy especial a tu pelo. Además en Art Estilistas darán con el color que estás buscando.El servicio incluye Lavado con Champú especifico, secado y Peinado. ¡Reserva online en nuestro salón y saldrás encantado con nuestro trato!"
+        }
+    ]
+}

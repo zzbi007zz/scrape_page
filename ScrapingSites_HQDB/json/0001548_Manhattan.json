@@ -1,0 +1,93 @@
+{
+    "adid": null, 
+    "name": "Manhattan", 
+    "name_of_contact": "Manhattan", 
+    "scrape_page": "https://www.bucmi.com/manhatan", 
+    "business_website": "https://www.bucmi.com/manhatan", 
+    "areas_covered": null, 
+    "description": "Peluquería y Estética de Granada. Encontrarás un trato estupendo y personalizado por nuestros estilistas,y en el que sin duda querrás repetir. Nos encontramos en Valderrubio en Granada. Encontrarás un trato especial que te sentirás como en casa.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635495132551617846.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635495132573352186.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635495132592244969.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635495132604902313.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635495132617872096.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Granada", 
+    "zipcode": "18250", 
+    "formatted_address": "Granada, 18250", 
+    "country": "es", 
+    "office_number": null, 
+    "office_number2": null, 
+    "mobile_number": "685390866", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.2354447000", 
+    "longitude": "-3.8190594000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636074843028189952.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Mujer", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Si te apetece un cambio o simplemente quieres retocar esas puntas tan estropeadas, no lo dudes, ponte en nuestras manos para conseguir el look que buscas. El servicio incluye corte y lavado con champú y mascarilla especifica. No incluye peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Mima tus manos y además luce uñas bonitas y cuidadas. Limamos, retiramos cutículas, hidratamos las manos con un pequeño masaje y esmaltamos con el color que elijas entre una amplia gama."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinar Media Melena", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Servicio de belleza completo para darle color a tu pelo o cambiar el look que siempre has querido. El servicio incluye color, lavado con champú y mascarilla, corte y peinado. En caso de pelo extralargo, consulte con el centro por posible suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Servicio de belleza completo para darle color a tu pelo o cambiar el look que siempre has querido. El servicio incluye color, lavado con champú y mascarilla, corte y peinado. En caso de pelo extralargo, consulte con el centro por posible suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Hombre", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "¿Quieres un cambio de look? Ponte en las manos de los mejores profesionales y déjate asesorar acerca del corte que más va contigo. El servicio incluye corte, lavado y acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Mujer", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Si te apetece un cambio o simplemente quieres retocar esas puntas tan estropeadas, no lo dudes, ponte en nuestras manos para conseguir el look que buscas. El servicio incluye corte y lavado con champú y mascarilla especifica. No incluye peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Cortar Y Peinar Media Melena", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Servicio de belleza completo para darle color a tu pelo o cambiar el look que siempre has querido. El servicio incluye color, lavado con champú y mascarilla, corte y peinado. En caso de pelo extralargo, consulte con el centro por posible suplemento."
+        }
+    ]
+}

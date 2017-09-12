@@ -1,0 +1,305 @@
+{
+    "adid": null, 
+    "name": "Kolosseum San Antón", 
+    "name_of_contact": "Kolosseum San Antón", 
+    "scrape_page": "https://www.bucmi.com/kolosseumsananton", 
+    "business_website": "https://www.bucmi.com/kolosseumsananton", 
+    "areas_covered": null, 
+    "description": "Kolosseum es un exclusivo salón de peluquería situado en San Antón, en Granada, donde podrás reservar cortes de pelo asesorados, mechas de tendencia, coloraciones de alta gama... Todo ello de la mano de estilistas de amplia experiencia. Ven a visitarnos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635502678512324371.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635502678514668362.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635502678516230918.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635502678586548955.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635502678587642792.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635502678590142969.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635502678590299232.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arabial, 40", 
+    "city": "Granada", 
+    "zipcode": "18005", 
+    "formatted_address": "C/ Arabial, 40, Granada, 18005", 
+    "country": "es", 
+    "office_number": "958521495", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1703599000", 
+    "longitude": "-3.5994239000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962448272749656.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Completo Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "44,9 € ", 
+            "description": "Si lo que quieres es un cambio radical de tu color, para darle un nuevo toque a tu estilo, no dudes en venir a Kolosseum donde te asesoramos con el color que mejor se adapte a ti. El servicio incluye el lavado de la melena con champú especifico, acondicionador y el peinado. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Porque a los hombres también les gusta cuidar de su imagen, reserva en Kolosseum nuestro completo servicio de corte de pelo de tendencia, donde te asesoraremos con el estilo que mejor se adapte a ti. Además, incluye lavado y peinado con productos de acabado. Te encantará."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es sanear tu melena este es tu servicio. Realizamos corte de pelo totalmente asesorado para sacar el mayor partido de tu pelo. El servicio incluye el lavado de la melena con champú especifico y acondicionador, pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 9000, 
+            "price": "230 € ", 
+            "description": "Consigue una melena lisa y manejable gracias a nuestro completo alisado de keratina de Kolosseum, 100% libre de formol y de otros sulfatos, que ayudarán a que tu melena esté más hidratada y brillante. No esperes más y haz tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Media Melena", 
+            "duration": 7200, 
+            "price": "200 € ", 
+            "description": "Consigue una melena lisa y manejable gracias a nuestro completo alisado de keratina de Kolosseum, 100% libre de formol y de otros sulfatos, que ayudarán a que tu melena esté más hidratada y brillante. No esperes más y haz tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "27,9 € ", 
+            "description": "Disfruta de una coloración perfecta y uniforme por más tiempo gracias a nuestra gama de tintes de alta calidad de Kolosseum. Incluye un tubo de 120 ml, con el que coloreamos la raíz y extendemos hasta las puntas. No da para un cambio radical de color. Incluye el lavado especifico con acondicionador, pero no el peinado de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo", 
+            "duration": 3600, 
+            "price": "36,4 € ", 
+            "description": "Si lo que quieres es un cambio radical de tu color, para darle un nuevo toque a tu estilo, no dudes en venir a Kolosseum donde te asesoramos con el color que mejor se adapte a ti. El servicio incluye el tinte necesario para toda la melena completa, el lavado con champú especifico y acondicionador, pero no el peinado. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "44,9 € ", 
+            "description": "Si lo que quieres es un cambio radical de tu color, para darle un nuevo toque a tu estilo, no dudes en venir a Kolosseum donde te asesoramos con el color que mejor se adapte a ti. El servicio incluye el lavado de la melena con champú especifico, acondicionador y el peinado. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Melena", 
+            "duration": 5400, 
+            "price": "45,4 € ", 
+            "description": "Si lo que quieres es un cambio radical de tu color, para darle un nuevo toque a tu estilo, no dudes en venir a Kolosseum donde te asesoramos con el color que mejor se adapte a ti. El servicio incluye el lavado de la melena con champú y el peinado. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "33,9 € ", 
+            "description": "Si lo que quieres es un cambio radical de tu color, para darle un nuevo toque a tu estilo, no dudes en venir a Kolosseum donde te asesoramos con el color que mejor se adapte a ti. El servicio incluye el lavado de la melena con champú especifico, acondicionador y el peinado. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Pelo Extralargo", 
+            "duration": 7200, 
+            "price": "48,9 € ", 
+            "description": "Si lo que quieres es un cambio radical de tu color, para darle un nuevo toque a tu estilo, no dudes en venir a Kolosseum donde te asesoramos con el color que mejor se adapte a ti. El servicio incluye el lavado de la melena con champú especifico, acondicionador y el peinado. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "46,4 € ", 
+            "description": "Si lo que quieres es un cambio radical de tu color, para darle un nuevo toque a tu estilo, no dudes en venir a Kolosseum donde te asesoramos con el color que mejor se adapte a ti. El servicio incluye el lavado de la melena con champú especifico, acondicionador y el peinado. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Vegetal Completo", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "El servicio incluye el teñido del cabello con tinte vegetal, creando un resultado lleno de color y matices. Incluye un tubo de color de 120 ml,que corrige la coloración de la raíz que extendemos hasta las puntas, pero no da para cambio de color radical. Incluye lavado especifico con acondicionador, pero no peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Vegetal Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "35,5 € ", 
+            "description": "El servicio incluye el teñido del cabello con tinte vegetal, creando un resultado lleno de color y matices. Incluye un tubo de color de 120 ml,que corrige la coloración de la raíz que extendemos hasta las puntas, pero no da para cambio de color radical. Incluye lavado y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Vegetal Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "33,9 € ", 
+            "description": "El servicio incluye el teñido del cabello con tinte vegetal, creando un resultado lleno de color y matices. Incluye un tubo de color de 120 ml,que corrige la coloración de la raíz que extendemos hasta las puntas, pero no da para cambio de color radical. Incluye lavado y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Vegetal Y Peinado Pelo Extralargo", 
+            "duration": 5400, 
+            "price": "39,5 € ", 
+            "description": "El servicio incluye el teñido del cabello con tinte vegetal, creando un resultado lleno de color y matices. Incluye un tubo de color de 120 ml,que corrige la coloración de la raíz que extendemos hasta las puntas, pero no da para cambio de color radical. Incluye lavado y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Vegetal Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "36,9 € ", 
+            "description": "El servicio incluye el teñido del cabello con tinte vegetal, creando un resultado lleno de color y matices. Incluye un tubo de color de 120 ml,que corrige la coloración de la raíz que extendemos hasta las puntas, pero no da para cambio de color radical. Incluye lavado y peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "36,5 € ", 
+            "description": "Disfruta de una coloración perfecta y uniforme por más tiempo gracias a nuestra gama de tintes de alta calidad de Kolosseum. Incluye un tubo de 120 ml, con el que coloreamos la raíz y extendemos hasta las puntas. No da para un cambio radical de color. Incluye el lavado y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "34,8 € ", 
+            "description": "Disfruta de una coloración perfecta y uniforme por más tiempo gracias a nuestra gama de tintes de alta calidad de Kolosseum. Incluye un tubo de 120 ml, con el que coloreamos la raíz y extendemos hasta las puntas. No da para un cambio radical de color. Incluye el lavado y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "37,8 € ", 
+            "description": "Disfruta de una coloración perfecta y uniforme por más tiempo gracias a nuestra gama de tintes de alta calidad de Kolosseum. Incluye un tubo de 120 ml, con el que coloreamos la raíz y extendemos hasta las puntas. No da para un cambio radical de color. Incluye el lavado y el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Porque a los hombres también les gusta cuidar de su imagen, reserva en Kolosseum nuestro completo servicio de corte de pelo de tendencia, donde te asesoraremos con el estilo que mejor se adapte a ti. Además, incluye lavado y peinado con productos de acabado. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es sanear tu melena este es tu servicio. Realizamos corte de pelo totalmente asesorado para sacar el mayor partido de tu pelo. El servicio incluye el lavado de la melena con champú especifico y acondicionador, pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "37,5 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es sanear tu melena este es tu servicio. Realizamos corte de pelo totalmente asesorado para sacar el mayor partido de tu pelo. El servicio incluye el lavado de la melena con champú y peinado de la melena para que salgas simplemente perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "35,9 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es sanear tu melena este es tu servicio. Realizamos corte de pelo totalmente asesorado para sacar el mayor partido de tu pelo. El servicio incluye el lavado de la melena con champú y peinado de la melena para que salgas simplemente perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Pelo Extralargo", 
+            "duration": 3600, 
+            "price": "41,5 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es sanear tu melena este es tu servicio. Realizamos corte de pelo totalmente asesorado para sacar el mayor partido de tu pelo. El servicio incluye el lavado de la melena con champú y peinado de la melena para que salgas simplemente perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "38,9 € ", 
+            "description": "Tanto si quieres un cambio de look como si lo que prefieres es sanear tu melena este es tu servicio. Realizamos corte de pelo totalmente asesorado para sacar el mayor partido de tu pelo. El servicio incluye el lavado de la melena con champú y peinado de la melena para que salgas simplemente perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 5400, 
+            "price": "40,9 € ", 
+            "description": "Puedes escoger entre nuestra mechas de siempre, con la técnica de plata, o más modernas como las babylight, californianas, balayage.... Incluye el lavado de la melena con champú pero no incluye el peinado ni el secado definido del pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "49,4 € ", 
+            "description": "Puedes escoger entre nuestra mechas de siempre, con la técnica de plata, o más modernas como las babylight, californianas, balayage.... Incluye el lavado de la melena con champú y el peinado definido de la melena. No te arrepentirás de los resultados. Saldrás perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "47,8 € ", 
+            "description": "Puedes escoger entre nuestra mechas de siempre, con la técnica de plata, o más modernas como las babylight, californianas, balayage.... Incluye el lavado de la melena con champú y el peinado definido de la melena. No te arrepentirás de los resultados. Saldrás perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Extralargo", 
+            "duration": 7200, 
+            "price": "53,4 € ", 
+            "description": "Puedes escoger entre nuestra mechas de siempre, con la técnica de plata, o más modernas como las babylight, californianas, balayage.... Incluye el lavado de la melena con champú y el peinado definido de la melena. No te arrepentirás de los resultados. Saldrás perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "50,8 € ", 
+            "description": "Puedes escoger entre nuestra mechas de siempre, con la técnica de plata, o más modernas como las babylight, californianas, balayage.... Incluye el lavado de la melena con champú y el peinado definido de la melena. No te arrepentirás de los resultados. Saldrás perfecta del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "16,9 € ", 
+            "description": "Déjate asesorar por nuestros profesionales y luce un peinado de tendencia. El servicio incluye lavado previo de la melena, con champú y mascarilla y peinado con definición del cabello (que no recogidos ni peinados de fiesta). Te encantará como te dejaremos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "13,9 € ", 
+            "description": "Déjate asesorar por nuestros profesionales y luce un peinado de tendencia. El servicio incluye lavado previo de la melena, con champú y mascarilla y peinado con definición del cabello (que no recogidos ni peinados de fiesta). Te encantará como te dejaremos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Extralargo", 
+            "duration": 2700, 
+            "price": "19,5 € ", 
+            "description": "Déjate asesorar por nuestros profesionales y luce un peinado de tendencia. El servicio incluye lavado previo de la melena, con champú y mascarilla y peinado con definición del cabello (que no recogidos ni peinados de fiesta). Te encantará como te dejaremos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Déjate asesorar por nuestros profesionales y luce un peinado de tendencia. El servicio incluye lavado previo de la melena, con champú y mascarilla y peinado con definición del cabello (que no recogidos ni peinados de fiesta). Te encantará como te dejaremos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Si tienes un evento importante ahora,al que quieres acudir estupenda, ven a Kolosseum donde te haremos un recogido con estilo, acorde al look que vas a llevar, que incluye lavado previo de la melena con champú y acondicionador. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 9000, 
+            "price": "230 € ", 
+            "description": "Consigue una melena lisa y manejable gracias a nuestro completo alisado de keratina de Kolosseum, 100% libre de formol y de otros sulfatos, que ayudarán a que tu melena esté más hidratada y brillante. No esperes más y haz tu reserva gracias a Bucmi.com."
+        }
+    ]
+}

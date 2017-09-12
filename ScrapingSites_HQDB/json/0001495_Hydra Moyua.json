@@ -1,0 +1,102 @@
+{
+    "adid": null, 
+    "name": "Hydra Moyua", 
+    "name_of_contact": "Hydra Moyua", 
+    "scrape_page": "https://www.bucmi.com/moyua", 
+    "business_website": "https://www.bucmi.com/moyua", 
+    "areas_covered": null, 
+    "description": "Estamos en pleno centro de Bilbao, en Hydra Moyua buscamos que te sientas bien y tenemos tratamientos que pueden conseguirlo. Somos un centro cosmopolita donde se hace realidad las palabras Wellness & Spa", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494212823181556.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494212850840001.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494212873654315.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494212903031646.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494212947253901.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494212961630046.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494212981162842.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Heros, 12", 
+    "city": "Bilbao", 
+    "zipcode": "48011", 
+    "formatted_address": "C/ Heros, 12, Bilbao, 48011", 
+    "country": "es", 
+    "office_number": "944432900", 
+    "office_number2": null, 
+    "mobile_number": "722726566", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.2617682000", 
+    "longitude": "-2.9353217000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635991856180364604.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje 25' Y Spa Ilimitado", 
+            "duration": 9000, 
+            "price": "56,5 € ", 
+            "description": "Masaje relajante con aceite esenciales y aromaterapia y circuito spa ilimitado para 1 persona. El servicio incluye: sauna, baño turco, pediluvio compostela, jacuzzi y zona relax. Consigue la relajación de la mano de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Todos los pasos para lucir unas manos perfectas:. Incluye limado, retirada de cutículas, masaje hidratante y esmaltado del color que prefieras a elegir entre una amplia gama. ¡Elige tu color favorito!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Especial Embarazadas", 
+            "duration": 2700, 
+            "price": "38 € ", 
+            "description": "Elimina tensiones, reduce el estrés hormonal, disminuye el hinchazón o edemas, ayuda a dormir bien, estimula el sistema glandular para estabilizar las hormonas, mejora la circulación y mitiga el dolor."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Todos los pasos para lucir unas manos perfectas:. Incluye limado, retirada de cutículas, masaje hidratante y esmaltado del color que prefieras a elegir entre una amplia gama. ¡Elige tu color favorito!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Todos los pasos para lucir unas manos perfectas:. Incluye limado, retirada de cutículas, masaje hidratante y esmaltado del color que prefieras a elegir entre una amplia gama. ¡Elige tu color favorito!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Chocolaterapia", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "La mejor terapia para estimular el buen humor. Peeling corporal de azucar, envolvimiento con chocolate fundido, ducha vichy con masaje, masaje hidrojet y circuito spa ilimitado: sauna, baño turco, pediluvio compostela, jacuzzi y zona de relax."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Todos los pasos para lucir unas manos perfectas:. Incluye limado, retirada de cutículas, masaje hidratante y esmaltado del color que prefieras a elegir entre una amplia gama. ¡Elige tu color favorito!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Chocolaterapia", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "La mejor terapia para estimular el buen humor. Peeling corporal de azucar, envolvimiento con chocolate fundido, ducha vichy con masaje, masaje hidrojet y circuito spa ilimitado: sauna, baño turco, pediluvio compostela, jacuzzi y zona de relax."
+        }
+    ]
+}

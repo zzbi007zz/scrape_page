@@ -1,0 +1,308 @@
+{
+    "adid": null, 
+    "name": "Biocean", 
+    "name_of_contact": "Biocean", 
+    "scrape_page": "https://www.bucmi.com/biocean", 
+    "business_website": "https://www.bucmi.com/biocean", 
+    "areas_covered": null, 
+    "description": "Centro médico estético en Madrid abierto a sus clientes desde hace 22 años. Ofrecer calidad a sus clientes a un precio asequible es uno de nuestros principales objetivos. Visita nuestra web y podrás comprobar el resto de tratamientos que ofrecemos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635614917524585229.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635614917728989802.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635614917767275517.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Orense, 9", 
+    "city": "Madrid", 
+    "zipcode": "28036", 
+    "formatted_address": "C/ Orense, 9, Madrid, 28036", 
+    "country": "es", 
+    "office_number": "910071720", 
+    "office_number2": null, 
+    "mobile_number": "622259409", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4562929000", 
+    "longitude": "-3.6813796000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635973801142440227.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "5 + 1 Sesiones Laser Diodo Ingles Brasileñas", 
+            "duration": 1800, 
+            "price": "250 € ", 
+            "description": "Cinco sesiones de laser Diodo Médico para ingles brasileñas. La sesión suelta tiene un precio de 50 euros. Depilación definitiva. Antes de realizar las cinco sesiones, se realiza un toque de prueba para comprobar el tipo de vello que tiene la mujer y así decidir el tratamiento a seguir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "10 + 2 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "600 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 + 1 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 + 1 Sesiones Laser Diodo Ingles O Axilas", 
+            "duration": 900, 
+            "price": "140 € ", 
+            "description": "Cinco sesiones más una de regalo de laser Diodo Médico para ingles normales o axilas. La sesión suelta tiene un precio de 30 euros. Depilación definitiva. Antes de realizar las cinco sesiones, se realiza un toque de prueba para comprobar el tipo de vello que tiene la mujer y así decidir el tratamiento a seguir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "3 Sesiones Masaje Relajante O Descontracturante", 
+            "duration": 1800, 
+            "price": "105 € ", 
+            "description": "Tomate un rato para ti y reserva nuestro completo masaje relajante o descontracturante de Biocean. En tan sólo 30 minutos conseguirás conectar tu cuerpo y tu mente a la vez que te relajas o eliminas tus dolencias."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 + 1 Sesiones Láser Diodo Piernas Enteras", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "Cinco sesiones más 1 de regalo de láser Diodo Médico para piernas enteras, más una de regalo. La sesión suelta tiene un precio de 80 euros. Depilación definitiva. Antes de realizar las cinco sesiones, se realiza un toque de prueba para comprobar el tipo de vello que tiene la mujer y así decidir el tratamiento a seguir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 + 1 Sesiones Laser Diodo Pecho Y Abdomen", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Cinco sesiones más 1 de regalo de laser Diodo Médico para pecho o abdomen HOMBRE. La sesión suelta tiene un precio de 80 euros. Depilación definitiva. Antes de realizar las cinco sesiones, se realiza un toque de prueba para comprobar el tipo de vello que tiene el hombre y así decidir el tratamiento a seguir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Relleno Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Tratamiento de relleno facial con ácido hialurónico. Rellenamos las arrugas que se producen en las distintas zonas de la cara. Para posibles suplementos consultar con su profesional. Es necesario una consulta previa al tratamiento, la consulta con el médico se realiza solo los miércoles."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "3 Sesiones Higiene Facial Profunda", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "¡Limpia tu rostro de impurezas reservando nuestra higiene facial profunda! Durante el tratamiento aplicamos una mascarilla, radiofrecuencia, peeling enzimático, realizamos extracción, máscara facial aplicada hasta el cuello y terminamos con un masaje facial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 +1 Sesiones Laser Diodo Piernas Enteras Hombre", 
+            "duration": 5400, 
+            "price": "450 € ", 
+            "description": "Cinco sesiones más 1 de regalo de láser Diodo Médico piernas enteras HOMBRE más una de regalo. La sesión suelta tiene un precio de 90 euros. Depilación definitiva. Antes de realizar las cinco sesiones, se realiza un toque de prueba para comprobar el tipo de vello que tiene el hombre y así decidir el tratamiento a seguir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 + 1 Sesiones Radiofrecuencia Facial Indiba", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Bono de cinco sesiones más 1 de regalo para radiofrecuencia facial INDIBA. El precio suelto de cada sesión es de 60 euros. Ayuda a reducir arrugas, produce un efecto liffiting y mejora el aspecto de bolsas y ojeras, entre otros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 + 1 Sesiones Presoterapia", 
+            "duration": 900, 
+            "price": "125 € ", 
+            "description": "Disfruta de una figura modelada a la vez que mejoras tu sistema circulatorio gracias a nuestra sesión de presoterapia. Jugaremos con las presiones que ocasiona el agua a través del chaleco sobre tus extremidades."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 + 1 Sesiones Radiofrecuencia Corporal Indiba", 
+            "duration": 3600, 
+            "price": "420 € ", 
+            "description": "Disfruta de una piel tersa y suave a la vez que eliminas esos centímetros de más que tanto te disgustan con nuestra sesión de radiofrecuencia corporal de Indiba. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "1 Hidrolipoclasia, 3 Cavitación, Presoterapia", 
+            "duration": 5400, 
+            "price": "280 € ", 
+            "description": "¿Te gustaría mejorar tu silueta? ¡Reserva nuestro pack reductor! Te ofrecemos una sesión de Hidrolipoclasia, tres sesiones de Cavitación, tres de Presoterapia y tres de Masaje. ¡Es la combinación perfecta de tratamientos reductores para remodelar tu figura! Se necesita consulta previa con nuestro médico profesional. La consulta son sólo los miércoles."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mesoterapia Coporal", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Te gustaría remodelar tu figura? ¡Reserva la mesoterapia! Incluye una sesión de este tratamiento corporal. Tiene una duración de unos 35 minutos. Te ayudará a tratar y a mejorar la flacidez y la eliminación de las grasas. Es necesario acudir a una cita previa al tratamiento. Esta consulta sólo se realiza los miércoles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10 + 2 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "600 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 + 1 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Relleno Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Tratamiento de relleno facial con ácido hialurónico. Rellenamos las arrugas que se producen en las distintas zonas de la cara. Para posibles suplementos consultar con su profesional. Es necesario una consulta previa al tratamiento, la consulta con el médico se realiza solo los miércoles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "3 Sesiones Higiene Facial Profunda", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "¡Limpia tu rostro de impurezas reservando nuestra higiene facial profunda! Durante el tratamiento aplicamos una mascarilla, radiofrecuencia, peeling enzimático, realizamos extracción, máscara facial aplicada hasta el cuello y terminamos con un masaje facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 + 1 Sesiones Radiofrecuencia Facial Indiba", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Bono de cinco sesiones más 1 de regalo para radiofrecuencia facial INDIBA. El precio suelto de cada sesión es de 60 euros. Ayuda a reducir arrugas, produce un efecto liffiting y mejora el aspecto de bolsas y ojeras, entre otros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 + 1 Sesiones Presoterapia", 
+            "duration": 900, 
+            "price": "125 € ", 
+            "description": "Disfruta de una figura modelada a la vez que mejoras tu sistema circulatorio gracias a nuestra sesión de presoterapia. Jugaremos con las presiones que ocasiona el agua a través del chaleco sobre tus extremidades."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 + 1 Sesiones Radiofrecuencia Corporal Indiba", 
+            "duration": 3600, 
+            "price": "420 € ", 
+            "description": "Disfruta de una piel tersa y suave a la vez que eliminas esos centímetros de más que tanto te disgustan con nuestra sesión de radiofrecuencia corporal de Indiba. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones Mesoterapia", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "¡Reserva nuestro bono de cinco sesiones de mesoterapia, más una de regalo! Este tratamiento Corporal te ayudará a tratar flacidez y la eliminación de la grasa. Notarás un cuerpo más firme y con menos volumen. Se necesita realizar una cita previa con el médico. La consulta son los miércoles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Botox Facial", 
+            "duration": 3600, 
+            "price": "360 € ", 
+            "description": "¡Reserva nuestro tratamiento de botox facial y rejuvenece tu rostro! Este servicio incluye tres zonas para tratar las arrugas: entrecejo, frente y patas de gallo. Te garantizamos el efecto más duradero. Para posibles suplementos consultar con su profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "1 Hidrolipoclasia, 3 Cavitación, Presoterapia", 
+            "duration": 5400, 
+            "price": "280 € ", 
+            "description": "¿Te gustaría mejorar tu silueta? ¡Reserva nuestro pack reductor! Te ofrecemos una sesión de Hidrolipoclasia, tres sesiones de Cavitación, tres de Presoterapia y tres de Masaje. ¡Es la combinación perfecta de tratamientos reductores para remodelar tu figura! Se necesita consulta previa con nuestro médico profesional. La consulta son sólo los miércoles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Profunda", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "¡Limpia tu rostro de impurezas reservando nuestra higiene facial profunda! Durante el tratamiento aplicamos una mascarilla, radiofrecuencia, peeling enzimático, realizamos extracción, máscara facial aplicada hasta el cuello y terminamos con un masaje facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Coporal", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Te gustaría remodelar tu figura? ¡Reserva la mesoterapia! Incluye una sesión de este tratamiento corporal. Tiene una duración de unos 35 minutos. Te ayudará a tratar y a mejorar la flacidez y la eliminación de las grasas. Es necesario acudir a una cita previa al tratamiento. Esta consulta sólo se realiza los miércoles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Disfruta de una figura modelada a la vez que mejoras tu sistema circulatorio gracias a nuestra sesión de presoterapia. Jugaremos con las presiones que ocasiona el agua a través del chaleco sobre tus extremidades."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal Indiba", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Disfruta de una piel tersa y suave a la vez que eliminas esos centímetros de más que tanto te disgustan con nuestra sesión de radiofrecuencia corporal de Indiba. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Hidrolipoclasia", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Reserva nuestro tratamiento corporal para reducir el volumen de las zonas más conflictivas. La hidrolipoclasia se conoce como la liposucción escultora sin bisturí. Consiste en inyectar un líquido que conseguir combatir la grase del cuerpo, rompiéndola. Incluye una consulta médica previa para que el profesional observe cuales son las zonas que se deben tratar, las más comunes son: cartucheras, cintura y abdomen. La consulta se realiza los miércoles."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10 + 2 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "600 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "5 + 1 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "10 + 2 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "600 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "5 + 1 Sesiones Cavitación, Presoterapia Y Masaje", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Reduce volumen y consigue una figura estupenda con nuestro completa sesión de tratamiento reductor que incluye una sesión de cavitación, otra de presoterapia y masaje drenante. Notarás los resultados desde el principio."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Relleno Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Tratamiento de relleno facial con ácido hialurónico. Rellenamos las arrugas que se producen en las distintas zonas de la cara. Para posibles suplementos consultar con su profesional. Es necesario una consulta previa al tratamiento, la consulta con el médico se realiza solo los miércoles."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "3 Sesiones Higiene Facial Profunda", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "¡Limpia tu rostro de impurezas reservando nuestra higiene facial profunda! Durante el tratamiento aplicamos una mascarilla, radiofrecuencia, peeling enzimático, realizamos extracción, máscara facial aplicada hasta el cuello y terminamos con un masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "5 + 1 Sesiones Radiofrecuencia Facial Indiba", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Bono de cinco sesiones más 1 de regalo para radiofrecuencia facial INDIBA. El precio suelto de cada sesión es de 60 euros. Ayuda a reducir arrugas, produce un efecto liffiting y mejora el aspecto de bolsas y ojeras, entre otros."
+        }
+    ]
+}

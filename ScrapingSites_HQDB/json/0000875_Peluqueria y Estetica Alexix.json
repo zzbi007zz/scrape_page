@@ -1,0 +1,337 @@
+{
+    "adid": null, 
+    "name": "Peluquería y Estética Alexix", 
+    "name_of_contact": "Peluquería y Estética Alexix", 
+    "scrape_page": "https://www.bucmi.com/alexixmadrid", 
+    "business_website": "https://www.bucmi.com/alexixmadrid", 
+    "areas_covered": null, 
+    "description": "Peluquería y Estética Alexix se encuentra abierto al público desde hace varios años en la calle Fuente del Berro 23 de Madrid. Situado en pleno Barrio de Salamanca y muy cerca de Goya, este salón de belleza se ha renovado para ofrecer los tratamientos de estética y peluquería más novedosos. Su equipo cuenta con una amplia experiencia que les permite realizar un diagnóstico previo tanto del pelo como de la piel, para saber cuales son los tratamientos y cosméticos más adecuados para cada caso. En general, ofrecen servicios de peluquería, estética, manicuras, pedicuras, masajes y depilaciones. Prácticamente para todos los tratamientos utilizan productos orgánicos y aparatología de última generación. Entre sus servicios destacan sus tratamientos capilares, el corte de pelo asesorado y a las coloraciones de tendencia.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295794484051716.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295794518582367.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295794569519541.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636295795842009653.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "15", 
+    "hqdb_review_score": "9,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Nogales, 7", 
+    "city": "Madrid", 
+    "zipcode": "28009", 
+    "formatted_address": "C/ Nogales, 7, Madrid, 28009", 
+    "country": "es", 
+    "office_number": "914021030", 
+    "office_number2": null, 
+    "mobile_number": "662051140", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4250832000", 
+    "longitude": "-3.6707894999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636295797521059107.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello corto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfático Manual O Modelaje Corporal", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Sesión de una hora de drenaje linfático manual o modelaje Corporal con aparatología de última generación. Para lucir un cuerpo descansado, tonificado y libre de grasa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Profunda Y Manicura Básica", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Limpieza de cutis profunda de la duración de una hora. El servicio incluye exfoliación e hidratación de la mano de los mejores productos del mercado. Para lucir sientes un rostro sano, bonito y radiante. El servicio incluye también una manicura básica: uñas cuidadas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Détox Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Tratamiento KERASTASE Détox capilar. Este tratamiento es eficaz para contrarrestar los efecto en el pelo de estrés, contaminación y las siliconas de algunos productos. Para lucir un pelo sano, bonito, suave y brillante. Este servicio incluye peinado. Dirigido a medias melenas, largas hasta los hombros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento de baño de color de la duración de una hora, para lucir una melena uniforme y con mucho brillo. Color asesorado por los estilistas del centro, según las preferencias del cliente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinar Largo", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a melenas largas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello mediano, hasta los hombros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Este servicio incluye champú con productos L'oréal, corte y secado rápido. Para lucir un nuevo look asesorado por los estilistas del centro. Servicio dirigido a hombres."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Y Peinado Largo", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "Este servicio incluye lavado, Mechas balayage asesoradas por los estilistas del centro, según el rostro y los colores naturales de la clienta, y Peinado media Melena. Para un cambio completo de look. Duración del tratamiento: aprox. 2 horas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Y Peinado Media Melena", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Pack de belleza que incluye: lavado con champú L'oréal, mechas Balayage asesoradas por lo estilistas del centro, y Peinado media Melena. Para un cambio de look total. Duración del tratamiento: 2 hora aprox."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Belleza: Higiene Expréss, Manicura Ybalayage", 
+            "duration": 9000, 
+            "price": "133 € ", 
+            "description": "Este super pack de belleza incluye: Higiene Facial Flash Exprés, Manicura Completa, Mechas Balayage asesoradas por nuestros profesionales y Peinado para Cabellos Medios. Para una piel radiante, unas manos impecables y un cabello perfecto y renovado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Belleza: Higiene, Manicura, Color Y Corte", 
+            "duration": 7200, 
+            "price": "123 € ", 
+            "description": "Super pack de belleza que incluye: Higiene Facial Completa, Color en Raíz del cabello, Manicura Completa Spa, Corte asesorado por los estilistas del centro, y Peinado para Cabellos Medios. Para lucir una piel radiante, unas manos impecables y un cabello perfecto y renovado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Belleza:Higiene Pedicura,Corte, Tto Y Peinado", 
+            "duration": 9000, 
+            "price": "165 € ", 
+            "description": "Super pack de belleza que incluye: Higiene Facial Completa Personalizada, Pedicura Spa, Corte asesorado por los estilistas del centro, y Peinado para Cabellos Medios con un tratamiento hidratante capilar Turba. Para lucir una piel radiante, unos pies impecables y un cabello perfecto y renovado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Detox Y Peinado Largo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Tratamiento KERASTASE Détox capilar. Este tratamiento es eficaz para contrarrestar los efecto en el pelo de estrés, contaminación y las siliconas de algunos productos. Para lucir un pelo sano, bonito, suave y brillante. Este servicio incluye peinado. Dirigido a melenas largas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Détox Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Tratamiento KERASTASE Détox capilar. Este tratamiento es eficaz para contrarrestar los efecto en el pelo de estrés, contaminación y las siliconas de algunos productos. Para lucir un pelo sano, bonito, suave y brillante. Este servicio incluye peinado. Dirigido a medias melenas, largas hasta los hombros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Turba Con Peinado Largo", 
+            "duration": 5400, 
+            "price": "57 € ", 
+            "description": "Este tratamiento capilar a base de Turba Orgánica consigue una limpieza dérmica profunda del cuero cabelludo para obtener la máxima oxigenación. La turba orgánica tiene propiedades exfoliantes, descongestionantes, oxigenantes y aseptizantes. Recomendado para cueros cabelludos grasosos, con caspa, seborrea, para fortalecer los folículos pilosos y prevenir la caída. Este servicio incluye Peinado Largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Turba Con Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "52 € ", 
+            "description": "Este tratamiento capilar a base de Turba Orgánica consigue una limpieza dérmica profunda del cuero cabelludo para obtener la máxima oxigenación. La turba orgánica tiene propiedades exfoliantes, descongestionantes, oxigenantes y aseptizantes. Recomendado para cueros cabelludos grasosos, con caspa, seborrea, para fortalecer los folículos pilosos y prevenir la caída. Este servicio incluye Peinado de Media Melena (hasta los hombros)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Baño De Color Y Peinado Corto", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "Este servicio incluye: Corte de pelo asesorado por los estilistas del centro, baño de color, lavado y peinado. Se utilizan productos L'oréal. Servicio dirigido a melenas cortas hasta el cuello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Baño De Color Y Peinado Largo", 
+            "duration": 5400, 
+            "price": "63 € ", 
+            "description": "Este servicio incluye: Corte de pelo asesorado por los estilistas del centro, baño de color, lavado y peinado. Se utilizan productos L'oréal. Servicio dirigido a melenas largas. Para un cambio de look completo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Baño De Color Y Peinado Medio", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Este servicio incluye: Corte de pelo asesorado por los estilistas del centro, baño de color, lavado y peinado. Se utilizan productos L'oréal. Servicio dirigido a pelo mediano, hasta los hombros. Para un cambio de look completo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Iluminaciones O Reflejos", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Tratamiento capilar de iluminaciones o reflejos, asesorado por los estilistas del centro. Para lucir una melena con mucho brillo, vitalidad y luminosidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento de baño de color de la duración de una hora, para lucir una melena uniforme y con mucho brillo. Color asesorado por los estilistas del centro, según las preferencias del cliente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Cortar Y Peinar Largo", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a melenas largas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello corto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Corte Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello mediano, hasta los hombros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Este servicio incluye champú con productos L'oréal, corte y secado rápido. Para lucir un nuevo look asesorado por los estilistas del centro. Servicio dirigido a hombres."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Balayage Y Peinado Largo", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "Este servicio incluye lavado, Mechas balayage asesoradas por los estilistas del centro, según el rostro y los colores naturales de la clienta, y Peinado media Melena. Para un cambio completo de look. Duración del tratamiento: aprox. 2 horas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento de baño de color de la duración de una hora, para lucir una melena uniforme y con mucho brillo. Color asesorado por los estilistas del centro, según las preferencias del cliente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Cortar Y Peinar Largo", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a melenas largas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello corto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Corte Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello mediano, hasta los hombros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Este servicio incluye champú con productos L'oréal, corte y secado rápido. Para lucir un nuevo look asesorado por los estilistas del centro. Servicio dirigido a hombres."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Balayage Y Peinado Largo", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "Este servicio incluye lavado, Mechas balayage asesoradas por los estilistas del centro, según el rostro y los colores naturales de la clienta, y Peinado media Melena. Para un cambio completo de look. Duración del tratamiento: aprox. 2 horas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento de baño de color de la duración de una hora, para lucir una melena uniforme y con mucho brillo. Color asesorado por los estilistas del centro, según las preferencias del cliente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color, Cortar Y Peinar Largo", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a melenas largas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello corto."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color, Corte Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello mediano, hasta los hombros."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento de baño de color de la duración de una hora, para lucir una melena uniforme y con mucho brillo. Color asesorado por los estilistas del centro, según las preferencias del cliente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Cortar Y Peinar Largo", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a melenas largas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello corto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Corte Y Peinado Cabello Medio", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "El servicio incluye color completo, corte y peinado del cabello. Se utilizan productos L'oréal. Para un cambio de look completo, con el corte y el color que más te favorezca. Servicio dirigido a cabello mediano, hasta los hombros."
+        }
+    ]
+}

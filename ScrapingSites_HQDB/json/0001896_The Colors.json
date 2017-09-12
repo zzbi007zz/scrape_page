@@ -1,0 +1,190 @@
+{
+    "adid": null, 
+    "name": "The Colors", 
+    "name_of_contact": "The Colors", 
+    "scrape_page": "https://www.bucmi.com/thecolors", 
+    "business_website": "https://www.bucmi.com/thecolors", 
+    "areas_covered": null, 
+    "description": "En el centro de peluquería y estética contarás con un grupo de profesionales con una amplia trayectoria en el sector. Ven a conocernos, tu peluquería de confianza en Zaragoza. Nos adaptamos a tus necesidades y te ofrecemos trato personalizado.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635539018175223865.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635539018180067999.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635539018184130796.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635539018185537162.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "7", 
+    "hqdb_review_score": "7,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Illueca, 5", 
+    "city": "Zaragoza", 
+    "zipcode": "50005", 
+    "formatted_address": "C/ Illueca, 5, Zaragoza, 50005", 
+    "country": "es", 
+    "office_number": "976568861", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.5775432999", 
+    "longitude": "-0.8263680999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636071184416594777.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Mechas, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Cambia de imagen en la pelquería The Colors. Siempre asesorado por los mejores profesionales, pero respetando al máximo tu estilo y personalidad. El cambio de imagen incluye: color, mechas, corte y peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Cabello Largo", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En la peluquería The Colors somos muy minuciosos con el servicio de mechas, para ofrecerte el resultado profesional que buscas. El servicio no incluye peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "10,9 € ", 
+            "description": "Unas manos bonitas son sinónimo de elegancia y de preocupación por la imagen personal de una misma. El servicio de manicura incluye el cuidado de las cutículas, limado y esmaltado del color de tu elección."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Mechas, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Cambia de imagen en la pelquería The Colors. Siempre asesorado por los mejores profesionales, pero respetando al máximo tu estilo y personalidad. El cambio de imagen incluye: color, mechas, corte y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Mechas, Corte Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Cambia de imagen en The Colors. Estarás asesorado por los mejores profesionales, eso sí, con un respeto a tu estilo y personalidad. El cambio de imagen incluye: tinte, mechas, corte y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Mechas, Corte Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Cambia de imagen en The Colors. Déjate asesorar por los mejores profesionales que se adaptarán a tu estilo y le sacarán el máximo partido. El cambio de imagen incluye: tinte, mechas, corte y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Cabello Corto", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Minuciosos con nuestro servicio de mechas, en la peluquería The Colors quedarás realmente satisfecha con el resultado en tu servicio de mechas. El servicio no incluye peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Cabello Largo", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En la peluquería The Colors somos muy minuciosos con el servicio de mechas, para ofrecerte el resultado profesional que buscas. El servicio no incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Melena", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Deja tus mechas en manos de los estilistas y peluqueros que tratarán tu cabello con la máxima dedicación y cuidado. Quedarás muy satisfecha con el resultado profesional. El servicio no incluye peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Brasileño", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Es un Complejo de Tratamiento Capilar de Queratina que devuelve la salud al cabello damnificado, reduciendo el volumen y eliminando el rizado, dejándolo liso y fácil. El tratamiento también lo alisa, dejando con una apariencia sedosa y brillante. El cabello es acondicionado y no necesita temer la humedad causado por la lluvia o por el mar.El promedio es de 90 días, dependiendo de la condición del cabello, de la manera con que ha sido hecho el tratamiento, del proceso de mantenimiento, y del número de lava"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Corto", 
+            "duration": 1800, 
+            "price": "20,9 € ", 
+            "description": "Si lo que quieres es cambiar de estilo, renovar tu look o simplemente sanear tu melena, apuesta por un corte de pelo. Siempre de la mano de los estilistas y pelqueros de The Colors. El servicio incluye lavar, cortar y peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Cabello Largo", 
+            "duration": 2700, 
+            "price": "24,9 € ", 
+            "description": "El servicio incluye lavar, cortar y peinar. Siempre asesorado por los mejores profesionales de la peluquería The Colors. En caso de pelo extralargo, consulte con su profesional por posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "22,9 € ", 
+            "description": "En la peluquería The Colors estarás asesorado por los mejores estilistas y peluqueros. Si lo que quieres es cambiar de estilo, renovar tu look o simplemente sanear tu melena, apuesta por un corte de pelo. El servicio incluye lavar, cortar y peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Efecto Liso O Hidratante", 
+            "duration": 2700, 
+            "price": "29,9 € ", 
+            "description": "Si los agentes externos o el abuso del secador y la plancha ha dañado tu cabello, te ofrecemos este tratamiento de keratina con el que conseguirás una melena sana y brillante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Bótox Capilar Y Peinado", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Con este tratamiento conseguirás devolverle a tu cabello su brillo natural, hidratándole, suavizándole y nutriéndole."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Oxigenación Y Diagnóstico Capilar", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El diagnóstico capilar nos ayuda a definir el problema a tratar y la oxigenación prepara el cuero cabelludo para cualquier tipo de tratamiento a seguir y así conseguir óptimos resultados llevando un seguimiento personalizado en nuestro salón."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Mechas, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Cambia de imagen en la pelquería The Colors. Siempre asesorado por los mejores profesionales, pero respetando al máximo tu estilo y personalidad. El cambio de imagen incluye: color, mechas, corte y peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Mechas, Corte Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Cambia de imagen en The Colors. Estarás asesorado por los mejores profesionales, eso sí, con un respeto a tu estilo y personalidad. El cambio de imagen incluye: tinte, mechas, corte y peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Mechas, Corte Y Peinado Cabello Corto", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Cambia de imagen en la pelquería The Colors. Siempre asesorado por los mejores profesionales, pero respetando al máximo tu estilo y personalidad. El cambio de imagen incluye: color, mechas, corte y peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Mechas, Corte Y Peinado Cabello Largo", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Cambia de imagen en The Colors. Estarás asesorado por los mejores profesionales, eso sí, con un respeto a tu estilo y personalidad. El cambio de imagen incluye: tinte, mechas, corte y peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Mechas, Corte Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Cambia de imagen en The Colors. Déjate asesorar por los mejores profesionales que se adaptarán a tu estilo y le sacarán el máximo partido. El cambio de imagen incluye: tinte, mechas, corte y peinado."
+        }
+    ]
+}

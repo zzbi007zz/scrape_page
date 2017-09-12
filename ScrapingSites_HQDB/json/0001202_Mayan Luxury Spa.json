@@ -1,0 +1,564 @@
+{
+    "adid": null, 
+    "name": "Mayan Luxury Spa", 
+    "name_of_contact": "Mayan Luxury Spa", 
+    "scrape_page": "https://www.bucmi.com/mayanluxuryspa", 
+    "business_website": "https://www.bucmi.com/mayanluxuryspa", 
+    "areas_covered": null, 
+    "description": "Mayan Luxury Spa es un espacio de salud, belleza y bienestar de lujo inspirado en las tradiciones de la Cultura Maya. Ubicado en el Hotel Palace de Barcelona, en el barrio de Eixample, conseguirás un equilibrio profundo de tu cuerpo y tu mente.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635841578496440200.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635841578577603113.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635841578612745742.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635841578633530019.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635841578652812788.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635841578669921295.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635841578698204769.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08010", 
+    "formatted_address": "Barcelona, 08030, Barcelona, 08006, Barcelona, 08030, Barcelona, Barcelona, Barcelona, 08010", 
+    "country": "es", 
+    "office_number": "933020744", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3916258000", 
+    "longitude": "2.1716377999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635947688167998387.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Maya En Pareja Yaakunah", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Servicio ideal para que vengas con quien más te apetezca. El masaje es e 50 minutos se realizará en una cabina doble con ducha doble que se preparará después del tratamiento, donde os daremos un masaje relajante en el que podréis elegir uno de los 4 aceites de la exclusiva marca francesa Anne Semonin para que te sientas en el mismo Mar Caribe. El precio incluye las dos personas.El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberá"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Ritual Spa Signature Mayan Luxury", 
+            "duration": 5400, 
+            "price": "240 € ", 
+            "description": "A través de un masaje con pindas(saquitos calientes de hierbas y arroz) y aceites esenciales conseguirás equilibrar tu cuerpo y tu mente. El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Experiencia Corporal De Vino", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Un tratamiento corporal de 55 minutos único echo a base de vino. Comienza con un peeling con pepitas de uva y aceite antioxidante, seguido de una deliciosa envoltura nutriente y llena de vitaminas Por último, disfruta en nuestra zona de relax de una copa de vino tinto o un zumo antioxidante"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Corporal Ritual Cura De Vinoterapia", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Un tratamiento corporal único de 1h 30min hecho a base de vino. Comienza con un peeling con pepitas de uva y aceite antioxidante, seguido de una deliciosa envoltura nutriente y llena de vitaminas, para terminar con un masaje relajante. Por último, disfruta en nuestra zona de relax de una copa de vino tinto o un zumo antioxidante. El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Spa Riviera Maya De Pies A Cabeza", 
+            "duration": 7200, 
+            "price": "260 € ", 
+            "description": "Pack de 1h 50min empieza con una limpieza de espalda para exfoliar y suavizar su piel y un masaje de espalda, craneal y de cuello. Combinado con un facial “A la Medida”, el resultado es una piel hidratada, nutrida y protegida y una completa sensación de calma y armonía. Termine con un increíble masaje de presión en piernas y pies, haciendo de este tratamiento una fabulosa experiencia de pies a cabeza.El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Hydra Express", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "Prueba nuestro tratamiento express con resultados rápidos e instantáneos para rejuvenecer tu rostro. Haz que tu piel esté suave, flexible y revitalizada gracias al efecto refrescante y nutritivo del tratamiento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Exfoliación Corporal Con Arena Negra", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "Se trata de una exfoliación con Arena Negra de Tahití y aceites aromáticos de 25 minutos que hará que tu piel esté más tersa gracias a la eliminación de células muertas, dejándola excepcionalmente suave y juvenil. Conseguirás equilibra tu mente y cuerpo para que salgas como nuevo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal Con Sal Marina", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Peeling corporal de 25 minutos realizado con una mezcla de aceites aromáticos nutrientes y sal marina que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Con Sal Marina Y Ac. Aromátic", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Este tratamiento de 55 minutos comienza con un peeling corporal realizado con una mezcla de aceites aromáticos nutrientes y sal marina seguido de una envoltura que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Desintoxicante De Espirulina", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Nuestro corporal de 55min incluye una exfoliación con sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura desintoxicante, drenante y anti-celulítica de alga espirulina. En Mayan Luxury vivirás una experiencia única y relajante a la vez que cuidas de tu piel. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Experiencia Corporal De Vino", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Un tratamiento corporal de 55 minutos único echo a base de vino. Comienza con un peeling con pepitas de uva y aceite antioxidante, seguido de una deliciosa envoltura nutriente y llena de vitaminas Por último, disfruta en nuestra zona de relax de una copa de vino tinto o un zumo antioxidante"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Hidratante Arcilla Rosa Caolín", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Si sientes tu piel seca y dañada por los efectos del estrés del día a día en Mayan Luxury Spa te damos la solución. El tratamiento de 55 minutos comienza con una exfoliación de sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura de Arcilla Rosa de Caolín, para que tu piel quede tersa y suave. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal: Ritual De Caracolas", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Transpórtate al Mar Caribe con nuestro Ritual de 1h 25minutos, que incluye una envoltura corporal hidratante y una masaje con Caracolas traídas desde México que harán del masaje un verdadero viaje por la Riviera Maya.El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial A Medida", 
+            "duration": 3600, 
+            "price": "110 € ", 
+            "description": "Este tratamiento se realiza de forma personalizada a las necesidades de las clientes gracias a los serums activos y mascarillas que se aplican sobre el rostro para llenarlo de vida e hidratarlo. Un diagnóstico de tu piel para crear tu propia receta de belleza, no te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Anti-Edad Milagro Facial", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Tratamiento indicado para aquellas pieles maduras que quieren rejuvenecer su rostros. Gracias a los neurocosméticos de Anne Semonin, combinados con serums y a los avanzados Cryotherapy Ice Cubes conseguirás quitarte unos años de encima. El resultado es una piel firme y con brillo. Tu piel recuperará toda su vitalidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 2700, 
+            "price": "115 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Crioterapia Intensiva Luxury", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Terapia de rostro, ojos, escote y pecho que reafirmará tu piel. Consiste en una combinación de los Cryotherapy Ice Cubes de Anne Semonin con un tratamiento con Kernoel de Albaricoque para que consigas recuperar el aspecto juvenil en tu piel y elimines esa sensación de cansancio que presenta tu piel debido al estrés diario."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Cuidado De La Piel Joven", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Facial indicado para adolescentes de entre 11 y 14 años donde las expertas terapeutas de Mayan Luxury Spa le enseñaran como comenzar a cuidarse la piel y recomendarán los mejores productos para su piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial De Crioterapia 1H 15Min", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "Terapia de rostro y ojos que reafirmará tu piel. Consiste en una combinación de los Cryotherapy Ice Cubes de Anne Semonin con un tratamiento con Kernoel de Albaricoque para que consigas recuperar el aspecto juvenil en tu piel y elimines esa sensación de cansancio que presenta tu piel debido al estrés diario."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Mar Profundo", 
+            "duration": 5400, 
+            "price": "130 € ", 
+            "description": "Limpieza de cutis de 1h 15 minutos para todo tipo de pieles con Consiste en una combinación de vapor y extracción tradicional acompañado de un masaje drenante linfático equilibrante. La mascarilla desintoxicante calmará y equilibrará tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Para Hombres Made To Measure", 
+            "duration": 3600, 
+            "price": "115 € ", 
+            "description": "Porque a los hombres también nos gusta cuidar de nuestra piel, reserva online este tratamiento express rejuvenecedor de resultados rápidos e instantáneos. Indicado para pieles con estragos por el estrés, irritaciones por el afeitado o con imperfecciones debido al jetlag."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Sos Para Hombres", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "Porque a los hombres también nos gusta cuidar de nuestra piel, reserva online este tratamiento express rejuvenecedor de resultados rápidos e instantáneos. Indicado para pieles con estragos por el estrés, irritaciones por el afeitado o con imperfecciones debido al jetlag."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Ritual Cura De Vinoterapia", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Un tratamiento corporal único de 1h 30min hecho a base de vino. Comienza con un peeling con pepitas de uva y aceite antioxidante, seguido de una deliciosa envoltura nutriente y llena de vitaminas, para terminar con un masaje relajante. Por último, disfruta en nuestra zona de relax de una copa de vino tinto o un zumo antioxidante. El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Ritual Éxtasis De Chocolate Xocoatl", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Este Ritual de 1h 25 minutos suaviza, hidrata y deja tu piel totalmente sedosa gracias a las propiedades de la chocolaterapia. Comienza con una exfoliación corporal, seguido de una envoltura y masaje con chocolate. Perfecto para desconectar y que salgas totalmente relajado a la vez que cuidas tu piel. El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Ritual Oro Pre-Hispánico", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Este Ritual de 1h 25 minutos comienza con una peeling de oro, seguido de una envoltura corporal anti edad y revitalizante de Oro y mientras hace su efecto, relájate con un masaje de cabeza y cuerpo con unas pindas calientes de piedras energéticas. Seguido de un masaje relajante con una crema de oro puro que dejará tu piel increíblemente suave, regenerada y con un sutil brillo.El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Ritual Spa Con Arena Negra De Tahití", 
+            "duration": 5400, 
+            "price": "225 € ", 
+            "description": "Disfruta de nuestro Ritual Signature con Arena Negra de Tahití de aceites aromáticos para eliminar las células muertas de tu piel, volviéndola más sedosa e hidratada. Comienza con una revitalizante exfoliación y una envoltura corporal, finalizando con un masaje por todo el cuerpo con hierbas aromáticas para que salgas totalmente relajado. El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hydra Express", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "Prueba nuestro tratamiento express con resultados rápidos e instantáneos para rejuvenecer tu rostro. Haz que tu piel esté suave, flexible y revitalizada gracias al efecto refrescante y nutritivo del tratamiento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal Con Arena Negra", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "Se trata de una exfoliación con Arena Negra de Tahití y aceites aromáticos de 25 minutos que hará que tu piel esté más tersa gracias a la eliminación de células muertas, dejándola excepcionalmente suave y juvenil. Conseguirás equilibra tu mente y cuerpo para que salgas como nuevo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Corporal Con Sal Marina", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Peeling corporal de 25 minutos realizado con una mezcla de aceites aromáticos nutrientes y sal marina que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Con Sal Marina Y Ac. Aromátic", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Este tratamiento de 55 minutos comienza con un peeling corporal realizado con una mezcla de aceites aromáticos nutrientes y sal marina seguido de una envoltura que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Desintoxicante De Espirulina", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Nuestro corporal de 55min incluye una exfoliación con sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura desintoxicante, drenante y anti-celulítica de alga espirulina. En Mayan Luxury vivirás una experiencia única y relajante a la vez que cuidas de tu piel. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Experiencia Corporal De Vino", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Un tratamiento corporal de 55 minutos único echo a base de vino. Comienza con un peeling con pepitas de uva y aceite antioxidante, seguido de una deliciosa envoltura nutriente y llena de vitaminas Por último, disfruta en nuestra zona de relax de una copa de vino tinto o un zumo antioxidante"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Hidratante Arcilla Rosa Caolín", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Si sientes tu piel seca y dañada por los efectos del estrés del día a día en Mayan Luxury Spa te damos la solución. El tratamiento de 55 minutos comienza con una exfoliación de sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura de Arcilla Rosa de Caolín, para que tu piel quede tersa y suave. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal: Ritual De Caracolas", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Transpórtate al Mar Caribe con nuestro Ritual de 1h 25minutos, que incluye una envoltura corporal hidratante y una masaje con Caracolas traídas desde México que harán del masaje un verdadero viaje por la Riviera Maya.El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial A Medida", 
+            "duration": 3600, 
+            "price": "110 € ", 
+            "description": "Este tratamiento se realiza de forma personalizada a las necesidades de las clientes gracias a los serums activos y mascarillas que se aplican sobre el rostro para llenarlo de vida e hidratarlo. Un diagnóstico de tu piel para crear tu propia receta de belleza, no te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Anti-Edad Milagro Facial", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Tratamiento indicado para aquellas pieles maduras que quieren rejuvenecer su rostros. Gracias a los neurocosméticos de Anne Semonin, combinados con serums y a los avanzados Cryotherapy Ice Cubes conseguirás quitarte unos años de encima. El resultado es una piel firme y con brillo. Tu piel recuperará toda su vitalidad."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 2700, 
+            "price": "115 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Exfoliación Corporal Con Sal Marina", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Peeling corporal de 25 minutos realizado con una mezcla de aceites aromáticos nutrientes y sal marina que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Con Sal Marina Y Ac. Aromátic", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Este tratamiento de 55 minutos comienza con un peeling corporal realizado con una mezcla de aceites aromáticos nutrientes y sal marina seguido de una envoltura que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Desintoxicante De Espirulina", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Nuestro corporal de 55min incluye una exfoliación con sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura desintoxicante, drenante y anti-celulítica de alga espirulina. En Mayan Luxury vivirás una experiencia única y relajante a la vez que cuidas de tu piel. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Experiencia Corporal De Vino", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Un tratamiento corporal de 55 minutos único echo a base de vino. Comienza con un peeling con pepitas de uva y aceite antioxidante, seguido de una deliciosa envoltura nutriente y llena de vitaminas Por último, disfruta en nuestra zona de relax de una copa de vino tinto o un zumo antioxidante"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Hidratante Arcilla Rosa Caolín", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Si sientes tu piel seca y dañada por los efectos del estrés del día a día en Mayan Luxury Spa te damos la solución. El tratamiento de 55 minutos comienza con una exfoliación de sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura de Arcilla Rosa de Caolín, para que tu piel quede tersa y suave. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal: Ritual De Caracolas", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Transpórtate al Mar Caribe con nuestro Ritual de 1h 25minutos, que incluye una envoltura corporal hidratante y una masaje con Caracolas traídas desde México que harán del masaje un verdadero viaje por la Riviera Maya.El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial A Medida", 
+            "duration": 3600, 
+            "price": "110 € ", 
+            "description": "Este tratamiento se realiza de forma personalizada a las necesidades de las clientes gracias a los serums activos y mascarillas que se aplican sobre el rostro para llenarlo de vida e hidratarlo. Un diagnóstico de tu piel para crear tu propia receta de belleza, no te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Anti-Edad Milagro Facial", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Tratamiento indicado para aquellas pieles maduras que quieren rejuvenecer su rostros. Gracias a los neurocosméticos de Anne Semonin, combinados con serums y a los avanzados Cryotherapy Ice Cubes conseguirás quitarte unos años de encima. El resultado es una piel firme y con brillo. Tu piel recuperará toda su vitalidad."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 2700, 
+            "price": "115 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Crioterapia Intensiva Luxury", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Terapia de rostro, ojos, escote y pecho que reafirmará tu piel. Consiste en una combinación de los Cryotherapy Ice Cubes de Anne Semonin con un tratamiento con Kernoel de Albaricoque para que consigas recuperar el aspecto juvenil en tu piel y elimines esa sensación de cansancio que presenta tu piel debido al estrés diario."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Cuidado De La Piel Joven", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Facial indicado para adolescentes de entre 11 y 14 años donde las expertas terapeutas de Mayan Luxury Spa le enseñaran como comenzar a cuidarse la piel y recomendarán los mejores productos para su piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial De Crioterapia 1H 15Min", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "Terapia de rostro y ojos que reafirmará tu piel. Consiste en una combinación de los Cryotherapy Ice Cubes de Anne Semonin con un tratamiento con Kernoel de Albaricoque para que consigas recuperar el aspecto juvenil en tu piel y elimines esa sensación de cansancio que presenta tu piel debido al estrés diario."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Mar Profundo", 
+            "duration": 5400, 
+            "price": "130 € ", 
+            "description": "Limpieza de cutis de 1h 15 minutos para todo tipo de pieles con Consiste en una combinación de vapor y extracción tradicional acompañado de un masaje drenante linfático equilibrante. La mascarilla desintoxicante calmará y equilibrará tu piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Corporal Con Sal Marina", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Peeling corporal de 25 minutos realizado con una mezcla de aceites aromáticos nutrientes y sal marina que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Con Sal Marina Y Ac. Aromátic", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Este tratamiento de 55 minutos comienza con un peeling corporal realizado con una mezcla de aceites aromáticos nutrientes y sal marina seguido de una envoltura que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Desintoxicante De Espirulina", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Nuestro corporal de 55min incluye una exfoliación con sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura desintoxicante, drenante y anti-celulítica de alga espirulina. En Mayan Luxury vivirás una experiencia única y relajante a la vez que cuidas de tu piel. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Experiencia Corporal De Vino", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Un tratamiento corporal de 55 minutos único echo a base de vino. Comienza con un peeling con pepitas de uva y aceite antioxidante, seguido de una deliciosa envoltura nutriente y llena de vitaminas Por último, disfruta en nuestra zona de relax de una copa de vino tinto o un zumo antioxidante"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Hidratante Arcilla Rosa Caolín", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Si sientes tu piel seca y dañada por los efectos del estrés del día a día en Mayan Luxury Spa te damos la solución. El tratamiento de 55 minutos comienza con una exfoliación de sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura de Arcilla Rosa de Caolín, para que tu piel quede tersa y suave. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal: Ritual De Caracolas", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Transpórtate al Mar Caribe con nuestro Ritual de 1h 25minutos, que incluye una envoltura corporal hidratante y una masaje con Caracolas traídas desde México que harán del masaje un verdadero viaje por la Riviera Maya.El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial A Medida", 
+            "duration": 3600, 
+            "price": "110 € ", 
+            "description": "Este tratamiento se realiza de forma personalizada a las necesidades de las clientes gracias a los serums activos y mascarillas que se aplican sobre el rostro para llenarlo de vida e hidratarlo. Un diagnóstico de tu piel para crear tu propia receta de belleza, no te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Anti-Edad Milagro Facial", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Tratamiento indicado para aquellas pieles maduras que quieren rejuvenecer su rostros. Gracias a los neurocosméticos de Anne Semonin, combinados con serums y a los avanzados Cryotherapy Ice Cubes conseguirás quitarte unos años de encima. El resultado es una piel firme y con brillo. Tu piel recuperará toda su vitalidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Anti-Edad Ojos Perfectos", 
+            "duration": 2700, 
+            "price": "115 € ", 
+            "description": "Gracias a las propiedades de la Cryotherapy Ice Cubes y a un masaje de drenaje linfático en el contorno de los ojos conseguirás eliminar esa efecto de fatiga y cansancio que tus ojos y rostro soportan debido al estrés del ritmo diario. Tu piel y tu mirada lucirán más jóvenes desde la primera sesión. Realízalo solo o en combinación de cualquier de nuestros faciales"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Crioterapia Intensiva Luxury", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Terapia de rostro, ojos, escote y pecho que reafirmará tu piel. Consiste en una combinación de los Cryotherapy Ice Cubes de Anne Semonin con un tratamiento con Kernoel de Albaricoque para que consigas recuperar el aspecto juvenil en tu piel y elimines esa sensación de cansancio que presenta tu piel debido al estrés diario."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Cuidado De La Piel Joven", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Facial indicado para adolescentes de entre 11 y 14 años donde las expertas terapeutas de Mayan Luxury Spa le enseñaran como comenzar a cuidarse la piel y recomendarán los mejores productos para su piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial De Crioterapia 1H 15Min", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "Terapia de rostro y ojos que reafirmará tu piel. Consiste en una combinación de los Cryotherapy Ice Cubes de Anne Semonin con un tratamiento con Kernoel de Albaricoque para que consigas recuperar el aspecto juvenil en tu piel y elimines esa sensación de cansancio que presenta tu piel debido al estrés diario."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Exfoliación Corporal Con Sal Marina", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Peeling corporal de 25 minutos realizado con una mezcla de aceites aromáticos nutrientes y sal marina que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Corporal Con Sal Marina Y Ac. Aromátic", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Este tratamiento de 55 minutos comienza con un peeling corporal realizado con una mezcla de aceites aromáticos nutrientes y sal marina seguido de una envoltura que dejara tu piel suave como la seda, remineralizada y lista para aplicar cualquier tratamiento"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Corporal Desintoxicante De Espirulina", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Nuestro corporal de 55min incluye una exfoliación con sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura desintoxicante, drenante y anti-celulítica de alga espirulina. En Mayan Luxury vivirás una experiencia única y relajante a la vez que cuidas de tu piel. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Corporal Experiencia Corporal De Vino", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Un tratamiento corporal de 55 minutos único echo a base de vino. Comienza con un peeling con pepitas de uva y aceite antioxidante, seguido de una deliciosa envoltura nutriente y llena de vitaminas Por último, disfruta en nuestra zona de relax de una copa de vino tinto o un zumo antioxidante"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Corporal Hidratante Arcilla Rosa Caolín", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Si sientes tu piel seca y dañada por los efectos del estrés del día a día en Mayan Luxury Spa te damos la solución. El tratamiento de 55 minutos comienza con una exfoliación de sal marina y aceites aromáticos para eliminar las células muertas, seguido de una envoltura de Arcilla Rosa de Caolín, para que tu piel quede tersa y suave. También incluye un masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Corporal: Ritual De Caracolas", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Transpórtate al Mar Caribe con nuestro Ritual de 1h 25minutos, que incluye una envoltura corporal hidratante y una masaje con Caracolas traídas desde México que harán del masaje un verdadero viaje por la Riviera Maya.El precio incluye el acceso al Temazcal (Sauna Pre-Hispánica) y la ducha de Sensaciones/Cromoterapia. Para disfrutar de esto deberás llegar 20/30 minutos antes de la cita"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Facial A Medida", 
+            "duration": 3600, 
+            "price": "110 € ", 
+            "description": "Este tratamiento se realiza de forma personalizada a las necesidades de las clientes gracias a los serums activos y mascarillas que se aplican sobre el rostro para llenarlo de vida e hidratarlo. Un diagnóstico de tu piel para crear tu propia receta de belleza, no te arrepentirás de los resultados."
+        }
+    ]
+}

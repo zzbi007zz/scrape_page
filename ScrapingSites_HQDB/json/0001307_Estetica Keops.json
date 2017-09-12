@@ -1,0 +1,147 @@
+{
+    "adid": null, 
+    "name": "Estetica Keops", 
+    "name_of_contact": "Estetica Keops", 
+    "scrape_page": "https://www.bucmi.com/keops", 
+    "business_website": "https://www.bucmi.com/keops", 
+    "areas_covered": null, 
+    "description": "Tu centro de belleza que combina tratamientos faciales, corporales, fotodepilación, maquillaje y terapias naturales. Déjate asesorar por los mejores profesionales. Reserva nuestros tratamientos faciales y corporales. Ven a vernos a Keops, en Prosperitat.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635648712209116461.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635648712209585508.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635648712209741621.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pujades, 8", 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "C/ Pujades, 8, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "933540885", 
+    "office_number2": null, 
+    "mobile_number": "629935264", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4415673000", 
+    "longitude": "2.1824690999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966842409969667.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Láser Diodo Piernas, Ingles Y Axilas", 
+            "duration": 3600, 
+            "price": "160 € ", 
+            "description": "Elimina ese vello tan molesto con esta oferta de piernas enteras, ingles completas y axilas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Facial Láser, Radiofrecuencia Y Cóctel", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con el láser se reducen las imperfecciones de la piel y con la radiofrecuencia mejoras su tersura para conseguir un efecto rejuvenecedor. Además aplicamos un cóctel de vitaminas y ácido hialuronico para conseguir un mayor efecto más rápidamente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Ultracavitación, Infiltraciones Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Con la ultracavitación consigues eliminar la grasa localizada de forma más eficaz y con la presoterapia se drena esta grasa para eliminar la celulitis más rápidamente. El servicio incluye además infiltraciones para que el tratamiento sea más completo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Descontracturante Y Presoterapia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Elimina las contracturas musculares y disfruta de una sesión de presoterapia de 30 minutos, que te permitirá mejorara los problemas de circulación en las extremidades."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Osteopatía Y Presoterapia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Mejora la salud de tus huesos a través de un masaje de osteopatía. Además, puedes disfrutar de una sesión de presoterapia gratis durante 30 minutos, con la que podrás mejorar los problemas de circulación en extremidades."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Personalizado", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Servicio de maquillaje personalizado para que puedas disfrutar y aprender como hacer una make up, con una asesora de imagen especializada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "El servicio de permanente de pestañas te permiten lucir esa mirada todos los días sin tener que preocuparte."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Facial Láser, Radiofrecuencia Y Cóctel", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con el láser se reducen las imperfecciones de la piel y con la radiofrecuencia mejoras su tersura para conseguir un efecto rejuvenecedor. Además aplicamos un cóctel de vitaminas y ácido hialuronico para conseguir un mayor efecto más rápidamente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Láser Lipolítico, Infiltraciones Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Con el láser en frío consigues eliminar los tejidos adiposos y con la presoterapia se aplica un drenaje para eliminar la celulitis más rápidamente. El servicio incluye además infiltraciones para que el tratamiento sea más completo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Cejas", 
+            "duration": 10800, 
+            "price": "200 € ", 
+            "description": "Olvidate de maquillarte gracias a la aplicación de pigmentos en las cejas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Labios", 
+            "duration": 10800, 
+            "price": "200 € ", 
+            "description": "Olvidate de maquillarte gracias a la aplicación de pigmentos en el labio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ultracavitación, Infiltraciones Y Presoterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Con la ultracavitación consigues eliminar la grasa localizada de forma más eficaz y con la presoterapia se drena esta grasa para eliminar la celulitis más rápidamente. El servicio incluye además infiltraciones para que el tratamiento sea más completo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante Y Presoterapia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Elimina las contracturas musculares y disfruta de una sesión de presoterapia de 30 minutos, que te permitirá mejorara los problemas de circulación en las extremidades."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía Y Presoterapia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Mejora la salud de tus huesos a través de un masaje de osteopatía. Además, puedes disfrutar de una sesión de presoterapia gratis durante 30 minutos, con la que podrás mejorar los problemas de circulación en extremidades."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Descontracturante Y Presoterapia", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Elimina las contracturas musculares y disfruta de una sesión de presoterapia de 30 minutos, que te permitirá mejorara los problemas de circulación en las extremidades."
+        }
+    ]
+}

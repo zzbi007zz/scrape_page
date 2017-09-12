@@ -1,0 +1,111 @@
+{
+    "adid": null, 
+    "name": "LP", 
+    "name_of_contact": "LP", 
+    "scrape_page": "https://www.bucmi.com/lpfisioterapia", 
+    "business_website": "https://www.bucmi.com/lpfisioterapia", 
+    "areas_covered": null, 
+    "description": "El centro de fisioterapia y osteopatía LP situado en pleno centro de Madrid ofrece una gran variedad de tratamientos osteopáticos, sesiones de fisioterapia especializada en diferentes técnicas y flores de bach. No esperes más y reserva ahora online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636141579288230517.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636164665590222745.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cartagena, 73", 
+    "city": "Madrid", 
+    "zipcode": "28005", 
+    "formatted_address": "C/ Cartagena, 73, Madrid, 28005", 
+    "country": "es", 
+    "office_number": "916225483", 
+    "office_number2": null, 
+    "mobile_number": "622806660", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4123947000", 
+    "longitude": "-3.7088278999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636143795331903907.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Para aliviar dolores musculares derivados de esfuerzos físicos, malas posturas, etc., lo más adecuado puede ser un masaje descontracturante. Se trata de un masaje terapéutico manual, durante el cual se aplican distintas presiones para conseguir eliminar esas molestias."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La Osteopatía es una forma de medicina manual, en la que se analiza el cuerpo humano a partir del conocimiento de la fisiología y de su parte biomecánica mediante pruebas de palpación. Esta técnica facilita la autorregulación del organismo y no depende de la utilización de medicamento. Se pueden tratar problemas como dolor lumbar, ciática, hernia de disco, neuralgias, secuelas de traumatismos, esguinces, síndromes migrañosos, vértigos y otras dolencias."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Acupuntura, Auriculoterapia, Moxibustión, Ventosas", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "La aplicación del tratamiento por acupuntura es capaz de mejorar o corregir, (según los casos), infinidad de afecciones orgánicas de todo tipo, entre las que se encuentran las siguientes: dolores de cabeza crónicos, herpes, artrosis, artritis, reumatismo, estreñimiento, colon irritable, hipertensión, asma, resfriado, gripe, bronquitis, dolor de garganta, parálisis facial, depresión, epilepsia, neuralgias, ciática, dolor de espalda, tendinitis, rigidez de la nuca, luxaciones, vértigo, neuralgia del trigémino"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Osteopatía Pediátrica", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "La osteopatía pediátrica surge como resultado de la aplicación de las técnicas ostopáticas a los niños, especialmente a los bebés. Abarca desde que un niño nace hasta su desarrollo en la etapa adolescente. Por tanto atendemos el desarrollo del niño en todas sus etapas: embarazo, parto, nacimiento, desarrollo neurológico, desarrollo psicomotriz. Los osteópatas comúnmente tratamos bebés con : Cólicos, estreñimiento, problemas de succión y deglución que dificultan la alimentación."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Para aliviar dolores musculares derivados de esfuerzos físicos, malas posturas, etc., lo más adecuado puede ser un masaje descontracturante. Se trata de un masaje terapéutico manual, durante el cual se aplican distintas presiones para conseguir eliminar esas molestias."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La Osteopatía es una forma de medicina manual, en la que se analiza el cuerpo humano a partir del conocimiento de la fisiología y de su parte biomecánica mediante pruebas de palpación. Esta técnica facilita la autorregulación del organismo y no depende de la utilización de medicamento. Se pueden tratar problemas como dolor lumbar, ciática, hernia de disco, neuralgias, secuelas de traumatismos, esguinces, síndromes migrañosos, vértigos y otras dolencias."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia En Uroginecología Y Obstetricia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Se trata de una parte de la fisioterapia que sirve para tratar posibles disfunciones en los órganos sexuales, como disfunciones del suelo pélvico, dolores crónicos, prolapsos genitales, incontinencias urinarias, estreñimiento, molestias cuando se mantienen relaciones sexuales, endometriosis, preparación y recuperación de cirugías, etc."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía Pediátrica", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "La osteopatía pediátrica surge como resultado de la aplicación de las técnicas ostopáticas a los niños, especialmente a los bebés. Abarca desde que un niño nace hasta su desarrollo en la etapa adolescente. Por tanto atendemos el desarrollo del niño en todas sus etapas: embarazo, parto, nacimiento, desarrollo neurológico, desarrollo psicomotriz. Los osteópatas comúnmente tratamos bebés con : Cólicos, estreñimiento, problemas de succión y deglución que dificultan la alimentación."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Para aliviar dolores musculares derivados de esfuerzos físicos, malas posturas, etc., lo más adecuado puede ser un masaje descontracturante. Se trata de un masaje terapéutico manual, durante el cual se aplican distintas presiones para conseguir eliminar esas molestias."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La Osteopatía es una forma de medicina manual, en la que se analiza el cuerpo humano a partir del conocimiento de la fisiología y de su parte biomecánica mediante pruebas de palpación. Esta técnica facilita la autorregulación del organismo y no depende de la utilización de medicamento. Se pueden tratar problemas como dolor lumbar, ciática, hernia de disco, neuralgias, secuelas de traumatismos, esguinces, síndromes migrañosos, vértigos y otras dolencias."
+        }
+    ]
+}

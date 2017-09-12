@@ -1,0 +1,552 @@
+{
+    "adid": null, 
+    "name": "Las Termas de Ruham Valladolid", 
+    "name_of_contact": "Las Termas de Ruham Valladolid", 
+    "scrape_page": "https://www.bucmi.com/lastermasderuhamvalladolid", 
+    "business_website": "https://www.bucmi.com/lastermasderuhamvalladolid", 
+    "areas_covered": null, 
+    "description": "Disfruta de Las Termas de Ruham en el centro de Valladolid. Un centro de estética avanzada especialistas en todo tipo de tratamientos corporales, faciales, servicios de uñas, manicura y pedicuras, rituales de belleza, etc. Especialistas en tu bienestar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635805205683993612.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635805205725117000.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635805205741210663.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635805205765946619.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635805205828603872.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635805205840855771.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635970441362601941.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635970441438319100.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635970441476137708.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "6,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ferrocarril, 4", 
+    "city": "Valladolid", 
+    "zipcode": "47003", 
+    "formatted_address": "C/ Ferrocarril, 4, Valladolid, 47003", 
+    "country": "es", 
+    "office_number": "983043522", 
+    "office_number2": null, 
+    "mobile_number": "677196346", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6559386000", 
+    "longitude": "-4.7253109000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961601705015807.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente Shellac", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Si quieres una manicura más duradera, este es tu servicio, ya que gracias al esmaltado Shellac esta manicura completa tiene una duración aproximada de dos semanas"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Limpia tu piel con este tratamiento de limpieza facial completo que eliminará los puntos negros y microquistes de la piel, regenerando la superficie cutanea"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Pedicura Permanente Shellac", 
+            "duration": 5400, 
+            "price": "69 € ", 
+            "description": "Si quieres una Pedicura y Manicura más duradera, este es tu servicio, ya que gracias al esmaltado Shellac esta manicura completa tiene una duración aproximada de dos semanas"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Termas De Ruham", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Ten unas manos perfectas con nuestra Manicura Termas de Ruham que incluye la limpieza de manos, limado de uñas, eliminación de cuticulas, un masaje que relajará tus manos y esmaltado"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante (50 Min)", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Masaje relajante en un ambiente único con cromoterapia. Para más información, consulte con el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Sesiones Radiofrecuencia Corporal", 
+            "duration": 1800, 
+            "price": "147 € ", 
+            "description": "Tratamiento para eliminar la celulitis en zonas localizadas de forma no invasiva e indolora, consiguiendo con este bono una mayor efecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Sesiones Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "147 € ", 
+            "description": "Reduce la flacidez de la piel de forma indolora y no invasiva con un bono de 3 sesiones de radiofrecuencia facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Combinada Termoestimulación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "59 € ", 
+            "description": "Combina una sesión de termoestimulacion y otra de presoterapia para conseguir unos resultados inmejorables."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La belleza empieza por una piel limpia. La limpieza de cutis es el paso fundamental para conseguir el mejor tratamiento de belleza."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Limpia tu piel con este tratamiento de limpieza facial completo que eliminará los puntos negros y microquistes de la piel, regenerando la superficie cutanea"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Corporal Anticelulítico", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Indicada especialmente para tratar la celulitis dolorosa y como preparador en casos de celulitis o grasa localizada en estadios avanzados, es decir, aquellas en las que las células adiposas se agrupan y ejercen presión sobre la piel, dejando el tejido compactado y provocando un drenaje dificultoso, una inervación insuficiente y como consecuencia causando una sensación de dolor al tacto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Corporal Anticelúlitico Reductor", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Envolvente masaje con Maderoterapia, “Tratamiento Slim Sculpt Reductor”, formulado con un complejo LIPO-DIET COMPLEX y potenciado por la acción quemagrasas de la L-Carnitina y del Cafesilato.Ritual envolvente, y rico en matices sensoriales, llevado a cabo con un rodillo de madera natural que, gracias a su forma ergonómica, redibuja las formas corporales, mejorando el aspecto de la piel.Para aquellas personas con celulitis fibrosa, edematosa o blanca."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Corporal Hidratante Lomi-Lomi", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Secretos de la Polinesia para cuidar la piel. Propuesta inigualable para mimar la piel del cuerpo con productos hidratantes y con las técnicas de masaje más sorprendentes de la Polinesia. Exótico, único y legendario masaje Hawaiano Lomi-Lomi, que se aplica utilizando los antebrazos y los codos, para aliviar el cansancio físico y mental. Tratamiento hidratante para cuidar la piel y relajar la mente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Corporal Piernas Cansadas Bambúterapia", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Tratamiento localizado en pies y piernas para reactivar la circulación, con un relajante masaje realizado con cañas de bambú. Movimientos envolventes y suaves recorren todo el cuerpo para restaurar la sensación de ligereza de las piernas. Exótico masaje Japonés que proporciona vitalidad y juventud a las piernas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Corporal Reductor", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Slim Cupping, el arte que remodela la silueta.Tratamiento reductor basado en el arte del Cupping o masaje con ventosas. Fusión de eficacia y placer en un profundo masaje que crea una profunda sensación de calor y un agradable hormigueo, mientras se reduce, se alisa y se moldea la silueta.La solución definitiva para esculpir los contornos del cuerpo. Nuevo tratamiento anticelulítico indicado para remodelar el contorno corporal, reducir la celulitis y la retención de líquidos, mejorando visiblemente la piel"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Facial Antiaging", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Ritual estético-terapéutico, con efecto lifting inmediato, que pone al alcance de la profesional exclusivas técnicas asiáticas antiaging para redefinir y tensar los contornos del rostro. Completo tratamiento que fusiona el exclusivo masaje KOBIDO con el efecto terapéutico de la moxibustión facial. Técnicas milenarias, reservadas tradicionalmente a la realeza, para lucir un rostro radiante.Un auténtico lifting sin cirugía."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Facial Antioxidante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Moxibustión, la respuesta natural para que la piel permanezca joven. Ritual antioxidante que aúna los beneficios del calor con las ventajas de la Acupuntura. Una piel radiante y una relajación profunda son los aspectos básicos de este tratamiento multisensorial, que fusiona el suave calor, las delicadas presiones y el olor a cítricos, para conseguir una piel más joven, más luminosa y más vital. Novedosa respuesta natural, y eficaz, para que la piel permanezca joven."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Facial Despigmentante E Iluminador", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "SAHO RITUAL. Ceremonia exclusiva del lejano Oriente. Exclusivo ritual importado desde Japón, conocido como SAHO, o el arte de la triple limpieza, para iluminar la piel.Los rituales de belleza Japoneses son reconocidos por provenir de costumbres milenarias heredadas de generación en generación. Gracias a ellos, las Niponas se han caracterizado e identificado por poseer una piel blanca, luminosa y sin imperfecciones. Sabiduría milenaria para conseguir una piel uniforme, clara y luminosa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Facial Hidratante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "La riqueza del océano en la piel.Ritual hidratante, multi-sensorial, que evoca la tranquilidad del mar y el vaivén de las olas a través de un delicado masaje con conchas Tigre. Fuente de hidratación para calmar la sed de la piel y sumergir la mente y el cuerpo en un océano de sensaciones, donde el frescor y el confort van de la mano para devolver a la piel la suavidad y elasticidad perdidas. Lujo oceánico para proporcionar relax y bienestar a la piel, al cuerpo y a la mente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Facial Neorosedante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Recuperar el bienestar de la piel con un masaje neurosedante.Masaje neurosedante que calma las pieles sensibles, realizado con Esferas de Baoding. Maniobras exclusivas, inspiradas en rituales ancestrales, se entrelazan armoniosamente con diferentes vibraciones tonales por medio del movimiento de las esferas, que liberan las tensiones del rostro, promoviendo la armonía del cuerpo y de la mente.Delicada estimulación de los sentidos a través de un masaje con esferas para aportar calma y confort al rostro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Facial Oxigenante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Luz para la piel, con piedras semipreciosas.Ritual oxigenante que, gracias al exclusivo masaje llevado a cabo con gemas de jade, consigue realizar una importante eliminación de toxinas, devolviendo la luminosidad al cutis y permitiéndole así mostrar un aspecto visiblemente más revitalizado.Cuidados para el rostro, inspirados en la sabiduría de las Diosas Hindúes, para protegerlo de las agresiones externas del entorno urbano."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Facial Purificante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Eficaz ritual purificante para lucir una nueva piel radiante, suave y sin imperfecciones. Suave y rítmico masaje que fusiona, con eficacia, el drenaje linfático manual del Dr. Vodder y las técnicas más exclusivas de digitopresión. La piel del rostro recobra su equilibrio natural.Rompe con el círculo vicioso de la piel grasa: ¡siente la piel limpia, fresca y suave!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ritual Tto. Facial Revitalizante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "El secreto para hacer renacer la juventud de la piel. Técnica específica de masaje conocida como Gua Sha. Originaria del Este de Asia, y con más de 2000 años de antigüedad, libera las tensiones del rostro, a la vez que reduce las arrugas, con el fin de conseguir un efecto lifting inmediato. La clave que hará renacer la juventud del rostro con los cuidados y los mimos de un exclusivo masaje de tradición Japonesa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 2700, 
+            "price": "19 € ", 
+            "description": "Una sesión de presoterapia se trabaja la piel de naranja, la retención de líquidos, la fatiga en extremidades, la movilización interna y profunda del tejido adiposo para facilitar su eliminación, etc.."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Reductor: Termoestimulación", 
+            "duration": 1800, 
+            "price": "49 € ", 
+            "description": "Una sesión de Termo estimulación para Eliminación progresiva de la “Piel de naranja”- Definición de contornos.Tonificación muscular.- Remodelación corporal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10 Sesiones Mesobiolift (Tto. Facial Antiedad)", 
+            "duration": 1800, 
+            "price": "345 € ", 
+            "description": "El equipo más avanzado en tratamientos antiaging. Su mecanismo reparador estimula las células madre epidérmicas activando sus mecanismos autoregeneradores. Este nuevo sistema actúa de manera sincronizada desde la superficie y desde el interior de la piel, con el objetivo de accionar los engranajes que potencian la regeneración celular. La piel responde de manera natural y progresiva mostrando un aspecto terso y tonificado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "4+1 Sesiones Mesobiolft (Tto. Facial Ntiedad)", 
+            "duration": 1800, 
+            "price": "196 € ", 
+            "description": "El equipo más avanzado en tratamientos antiaging. Su mecanismo reparador estimula las células madre epidérmicas activando sus mecanismos autoregeneradores. Este nuevo sistema actúa de manera sincronizada desde la superficie y desde el interior de la piel, con el objetivo de accionar los engranajes que potencian la regeneración celular. La piel responde de manera natural y progresiva mostrando un aspecto terso y tonificado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "4+1 Sesiones Tto Corporal Termoestimulación", 
+            "duration": 1800, 
+            "price": "196 € ", 
+            "description": "Bono de 5 Sesiones de termoestimulación para la eliminación progresiva de la “piel de naranja”- Definición de contornos. Tonificación muscular.- Remodelación corporal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Beauty Party", 
+            "duration": 7200, 
+            "price": "30 € ", 
+            "description": "Disfruta de una Beauty Party con tus amigas, elige el menú de la carta que más se adapte a vosotras y disfrutaréis de una sala privada al mismo tiempo que os divertís con nuestro Karaoke. Degustaréis deliciosos cócteles, cava y canapés. Las Termas de Ruham cierra exclusivamente sus puertas para tu evento. Aquí tienes todo lo que necesitas: BELLEZA, BIENESTAR Y OCIO. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Beauty Party: Baby Shower", 
+            "duration": 7200, 
+            "price": "30 € ", 
+            "description": "Celebra la futura llegada del bebé, en un evento donde todos los asistentes le darán sus regalos a la futura mamá. Siempre suelen ser pañales, ropa, utensilios de baño… todo lo que ella pueda necesitar después de dar a luz. Celebra la llegada del bebé mientras realizáis algún tratamiento al mismo tiempo que os divertís con las amigas. Elige el menú de tratamientos que más se adapte a vosotras y disfrutaréis de una sala privada al mismo tiempo que os divertís con nuestro Karaoke, Videojuegos o nuestra música"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Beauty Party: Kids Party", 
+            "duration": 7200, 
+            "price": "20 € ", 
+            "description": "Las más pequeñas también pueden tener su fiesta de belleza especial. Reúne a tus amigas y celebra tu fiesta como una auténtica it girl. Lograrás ser la chica del momento, crearás tendencia en tu grupo y serás la inspiración de tu clase. Podrás divertirte mientras te maquillan, decoran tus uñas y compartes con tus amigas a la vez que cantas en el karaoke canciones de las más bellas de Disney.Una fiesta de cumpleaños infantil original y diferente donde la homenajeada y sus invitadas disfruten."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 De Termoestimulación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "415 € ", 
+            "description": "Combina 10 sesiones de termoestimulción y 10 de presoterapia para conseguir unos resultados reales que siempre has querido conseguir."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 2700, 
+            "price": "135 € ", 
+            "description": "Bono 10 sesiones de presoterapia Se trabaja la piel de naranja, la retención de líquidos, la fatiga en extremidades, la movilización interna y profunda del tejido adiposo para facilitar su eliminación, etc."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Termoestimulación (Tto. Corporal)", 
+            "duration": 1800, 
+            "price": "345 € ", 
+            "description": "Bono 10 sesiones de Termoestimulación para eliminación progresiva de la “piel de naranja”- Definición de contornos. Tonificación muscular.- Remodelación corporal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Termoestimulación, Mesoterapia Y Preso", 
+            "duration": 2700, 
+            "price": "585 € ", 
+            "description": "Incluye 10 sesiones de mesoterapia, termoestimulación y presoterapia. Combina toda la aparatologia disponible para conseguir los resultados que siempre has deseado. Se te hará un diagnóstico previo y se facilitará un planning de sesiones según lo que se quiera realizar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Sesiones Radiofrecuencia Corporal", 
+            "duration": 1800, 
+            "price": "147 € ", 
+            "description": "Tratamiento para eliminar la celulitis en zonas localizadas de forma no invasiva e indolora, consiguiendo con este bono una mayor efecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4+1 Sesiones Presoterapia", 
+            "duration": 2700, 
+            "price": "76 € ", 
+            "description": "5 sesiones de Presoterapia se trabaja la piel de naranja, la retención de líquidos, la fatiga en extremidades, la movilización interna y profunda del tejido adiposo para facilitar su eliminación, etc.."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5+5 Termoestimulación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "236 € ", 
+            "description": "Combina 5 sesiones de termoestimulacion y otras 5 de presoterapia para conseguir unos resultados visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5+5+5 Mesoterapia, Termoestimulación Y Preso", 
+            "duration": 2700, 
+            "price": "385 € ", 
+            "description": "Bono 5 sesiones de mesoterapia, termoestimulación y presoterapia. Combina toda la aparatología corporal para conseguir unos resultados que siempre has deseado. Se realizará un diagnóstico previo y se valorará el procedimiento a seguir."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Ritual Tto. Corporal 4+1", 
+            "duration": 2700, 
+            "price": "196 € ", 
+            "description": "Disfruta de nuestros 5 rituales: Anticelulitico, Reductor, Remodelante, Piernas Cansadas e Hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tto Ritual Facial 4+1", 
+            "duration": 2700, 
+            "price": "196 € ", 
+            "description": "Disfruta de 5 tratamientos Faciales para lucir una tez tersa y sentirte estupenda.¡Elije los 5 que quieras!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "New York Party (Tto. Corporal Y Facial)", 
+            "duration": 7200, 
+            "price": "40 € ", 
+            "description": "Si deseas disfrutar tú sola o con alguna amiga de una experiencia al más puro estilo “Sexo en Nueva York”, ésta es tu mejor elección.Escoge mínimo 4 tratamientos de los siguientes y disfruta como la misma Carrie Bradshaw y sus amigas en el entorno más exclusivo y vanguardista del momento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Luce tus pestañas mas tiempo con tu permanente de Pestañas"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Mesobiolift (Tto. Antiedad)", 
+            "duration": 1800, 
+            "price": "49 € ", 
+            "description": "El equipo más avanzado en tratamientos antiaging. Su mecanismo reparador estimula las células madre epidérmicas activando sus mecanismos autoregeneradores. Este nuevo sistema actúa de manera sincronizada desde la superficie y desde el interior de la piel, con el objetivo de accionar los engranajes que potencian la regeneración celular. La piel responde de manera natural y progresiva mostrando un aspecto terso y tonificado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Luce unas pestañas del color que mas te guste."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas Y Permanente", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Luce tus pestañas con tu color favorito de manera peranente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Manicura Ruham Más Tinte Y Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tu mirada y tus manos dicen mucho de ti, consigue unas maños perfectas con nuestra manicura completa y da color y profundidad a tu mirada."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 3 Sesiones Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "147 € ", 
+            "description": "Reduce la flacidez de la piel de forma indolora y no invasiva con un bono de 3 sesiones de radiofrecuencia facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Sesión Combinada Termoestimulación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "59 € ", 
+            "description": "Combina una sesión de termoestimulacion y otra de presoterapia para conseguir unos resultados inmejorables."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La belleza empieza por una piel limpia. La limpieza de cutis es el paso fundamental para conseguir el mejor tratamiento de belleza."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Limpia tu piel con este tratamiento de limpieza facial completo que eliminará los puntos negros y microquistes de la piel, regenerando la superficie cutanea"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Corporal Anticelulítico", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Indicada especialmente para tratar la celulitis dolorosa y como preparador en casos de celulitis o grasa localizada en estadios avanzados, es decir, aquellas en las que las células adiposas se agrupan y ejercen presión sobre la piel, dejando el tejido compactado y provocando un drenaje dificultoso, una inervación insuficiente y como consecuencia causando una sensación de dolor al tacto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Corporal Anticelúlitico Reductor", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Envolvente masaje con Maderoterapia, “Tratamiento Slim Sculpt Reductor”, formulado con un complejo LIPO-DIET COMPLEX y potenciado por la acción quemagrasas de la L-Carnitina y del Cafesilato.Ritual envolvente, y rico en matices sensoriales, llevado a cabo con un rodillo de madera natural que, gracias a su forma ergonómica, redibuja las formas corporales, mejorando el aspecto de la piel.Para aquellas personas con celulitis fibrosa, edematosa o blanca."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Corporal Hidratante Lomi-Lomi", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Secretos de la Polinesia para cuidar la piel. Propuesta inigualable para mimar la piel del cuerpo con productos hidratantes y con las técnicas de masaje más sorprendentes de la Polinesia. Exótico, único y legendario masaje Hawaiano Lomi-Lomi, que se aplica utilizando los antebrazos y los codos, para aliviar el cansancio físico y mental. Tratamiento hidratante para cuidar la piel y relajar la mente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Corporal Piernas Cansadas Bambúterapia", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Tratamiento localizado en pies y piernas para reactivar la circulación, con un relajante masaje realizado con cañas de bambú. Movimientos envolventes y suaves recorren todo el cuerpo para restaurar la sensación de ligereza de las piernas. Exótico masaje Japonés que proporciona vitalidad y juventud a las piernas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Corporal Reductor", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Slim Cupping, el arte que remodela la silueta.Tratamiento reductor basado en el arte del Cupping o masaje con ventosas. Fusión de eficacia y placer en un profundo masaje que crea una profunda sensación de calor y un agradable hormigueo, mientras se reduce, se alisa y se moldea la silueta.La solución definitiva para esculpir los contornos del cuerpo. Nuevo tratamiento anticelulítico indicado para remodelar el contorno corporal, reducir la celulitis y la retención de líquidos, mejorando visiblemente la piel"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Facial Antiaging", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Ritual estético-terapéutico, con efecto lifting inmediato, que pone al alcance de la profesional exclusivas técnicas asiáticas antiaging para redefinir y tensar los contornos del rostro. Completo tratamiento que fusiona el exclusivo masaje KOBIDO con el efecto terapéutico de la moxibustión facial. Técnicas milenarias, reservadas tradicionalmente a la realeza, para lucir un rostro radiante.Un auténtico lifting sin cirugía."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Facial Antioxidante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Moxibustión, la respuesta natural para que la piel permanezca joven. Ritual antioxidante que aúna los beneficios del calor con las ventajas de la Acupuntura. Una piel radiante y una relajación profunda son los aspectos básicos de este tratamiento multisensorial, que fusiona el suave calor, las delicadas presiones y el olor a cítricos, para conseguir una piel más joven, más luminosa y más vital. Novedosa respuesta natural, y eficaz, para que la piel permanezca joven."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Facial Despigmentante E Iluminador", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "SAHO RITUAL. Ceremonia exclusiva del lejano Oriente. Exclusivo ritual importado desde Japón, conocido como SAHO, o el arte de la triple limpieza, para iluminar la piel.Los rituales de belleza Japoneses son reconocidos por provenir de costumbres milenarias heredadas de generación en generación. Gracias a ellos, las Niponas se han caracterizado e identificado por poseer una piel blanca, luminosa y sin imperfecciones. Sabiduría milenaria para conseguir una piel uniforme, clara y luminosa."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Facial Hidratante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "La riqueza del océano en la piel.Ritual hidratante, multi-sensorial, que evoca la tranquilidad del mar y el vaivén de las olas a través de un delicado masaje con conchas Tigre. Fuente de hidratación para calmar la sed de la piel y sumergir la mente y el cuerpo en un océano de sensaciones, donde el frescor y el confort van de la mano para devolver a la piel la suavidad y elasticidad perdidas. Lujo oceánico para proporcionar relax y bienestar a la piel, al cuerpo y a la mente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Facial Neorosedante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Recuperar el bienestar de la piel con un masaje neurosedante.Masaje neurosedante que calma las pieles sensibles, realizado con Esferas de Baoding. Maniobras exclusivas, inspiradas en rituales ancestrales, se entrelazan armoniosamente con diferentes vibraciones tonales por medio del movimiento de las esferas, que liberan las tensiones del rostro, promoviendo la armonía del cuerpo y de la mente.Delicada estimulación de los sentidos a través de un masaje con esferas para aportar calma y confort al rostro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Facial Oxigenante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Luz para la piel, con piedras semipreciosas.Ritual oxigenante que, gracias al exclusivo masaje llevado a cabo con gemas de jade, consigue realizar una importante eliminación de toxinas, devolviendo la luminosidad al cutis y permitiéndole así mostrar un aspecto visiblemente más revitalizado.Cuidados para el rostro, inspirados en la sabiduría de las Diosas Hindúes, para protegerlo de las agresiones externas del entorno urbano."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Facial Purificante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Eficaz ritual purificante para lucir una nueva piel radiante, suave y sin imperfecciones. Suave y rítmico masaje que fusiona, con eficacia, el drenaje linfático manual del Dr. Vodder y las técnicas más exclusivas de digitopresión. La piel del rostro recobra su equilibrio natural.Rompe con el círculo vicioso de la piel grasa: ¡siente la piel limpia, fresca y suave!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Ritual Tto. Facial Revitalizante", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "El secreto para hacer renacer la juventud de la piel. Técnica específica de masaje conocida como Gua Sha. Originaria del Este de Asia, y con más de 2000 años de antigüedad, libera las tensiones del rostro, a la vez que reduce las arrugas, con el fin de conseguir un efecto lifting inmediato. La clave que hará renacer la juventud del rostro con los cuidados y los mimos de un exclusivo masaje de tradición Japonesa."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 2700, 
+            "price": "19 € ", 
+            "description": "Una sesión de presoterapia se trabaja la piel de naranja, la retención de líquidos, la fatiga en extremidades, la movilización interna y profunda del tejido adiposo para facilitar su eliminación, etc.."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Sesiones Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "147 € ", 
+            "description": "Reduce la flacidez de la piel de forma indolora y no invasiva con un bono de 3 sesiones de radiofrecuencia facial."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión Combinada Termoestimulación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "59 € ", 
+            "description": "Combina una sesión de termoestimulacion y otra de presoterapia para conseguir unos resultados inmejorables."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La belleza empieza por una piel limpia. La limpieza de cutis es el paso fundamental para conseguir el mejor tratamiento de belleza."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Limpia tu piel con este tratamiento de limpieza facial completo que eliminará los puntos negros y microquistes de la piel, regenerando la superficie cutanea"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Ritual Tto. Corporal Anticelulítico", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Indicada especialmente para tratar la celulitis dolorosa y como preparador en casos de celulitis o grasa localizada en estadios avanzados, es decir, aquellas en las que las células adiposas se agrupan y ejercen presión sobre la piel, dejando el tejido compactado y provocando un drenaje dificultoso, una inervación insuficiente y como consecuencia causando una sensación de dolor al tacto."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Ritual Tto. Corporal Anticelúlitico Reductor", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Envolvente masaje con Maderoterapia, “Tratamiento Slim Sculpt Reductor”, formulado con un complejo LIPO-DIET COMPLEX y potenciado por la acción quemagrasas de la L-Carnitina y del Cafesilato.Ritual envolvente, y rico en matices sensoriales, llevado a cabo con un rodillo de madera natural que, gracias a su forma ergonómica, redibuja las formas corporales, mejorando el aspecto de la piel.Para aquellas personas con celulitis fibrosa, edematosa o blanca."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Ritual Tto. Corporal Hidratante Lomi-Lomi", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "Secretos de la Polinesia para cuidar la piel. Propuesta inigualable para mimar la piel del cuerpo con productos hidratantes y con las técnicas de masaje más sorprendentes de la Polinesia. Exótico, único y legendario masaje Hawaiano Lomi-Lomi, que se aplica utilizando los antebrazos y los codos, para aliviar el cansancio físico y mental. Tratamiento hidratante para cuidar la piel y relajar la mente."
+        }
+    ]
+}

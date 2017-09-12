@@ -1,0 +1,175 @@
+{
+    "adid": null, 
+    "name": "Estilistes Gesa", 
+    "name_of_contact": "Estilistes Gesa", 
+    "scrape_page": "https://www.bucmi.com/estilestesgesa", 
+    "business_website": "https://www.bucmi.com/estilestesgesa", 
+    "areas_covered": null, 
+    "description": "Estilistes Gesa, es un salón de peluquería que ofrece un trato amable, personal y profesional. ¡Déjate cuidar!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635574671687488606.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635574672234303518.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635574672237584900.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Corsega, 117", 
+    "city": "Barcelona", 
+    "zipcode": "08012", 
+    "formatted_address": "C/ Corsega, 117, Barcelona, 08012", 
+    "country": "es", 
+    "office_number": "932181047", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4050766000", 
+    "longitude": "2.1523138000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811967931878185.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Chica", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "El servicio incluye lavar y cortar. No incluye peinado"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Chico", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "El servicio incluye lavar y cortar. No incluye peinado"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño Cejas", 
+            "duration": 900, 
+            "price": "4 € ", 
+            "description": "Este servicios incluye depilación tradicional de cera tibia y asesoramiento para unas cejas perfectas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Secar", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Cambia el color de tu cabello y elige entre la variedad de tonos que te ofrecemos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Siente perfecta para ese dia tan especial."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "El servicio incluye Mechas y lavado del cabello , no incluye peinar"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Melena Larga", 
+            "duration": 14400, 
+            "price": "150 € ", 
+            "description": "Permite Eliminar el encrespamiento de tu pelo , y lucir una melena mucho mas sedosa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Melena Corta", 
+            "duration": 10800, 
+            "price": "130 € ", 
+            "description": "Permite Eliminar el encrespamiento de tu pelo , y lucir una melena mucho mas sedosa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chica", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "El servicio incluye lavar y cortar. No incluye peinado"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chico", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "El servicio incluye lavar y cortar. No incluye peinado"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia", 
+            "duration": 10800, 
+            "price": "150 € ", 
+            "description": "Este magnífico pack incluye: Prueba de novia de maquillado y peinado, el maquillaje y peinado definitivo el día de la boda y manicura francesa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Secar", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Cambia el color de tu cabello y elige entre la variedad de tonos que te ofrecemos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Siente perfecta para ese dia tan especial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "El servicio incluye Mechas y lavado del cabello , no incluye peinar"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Secar", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Cambia el color de tu cabello y elige entre la variedad de tonos que te ofrecemos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Siente perfecta para ese dia tan especial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "El servicio incluye Mechas y lavado del cabello , no incluye peinar"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado De Keratina Melena Larga", 
+            "duration": 14400, 
+            "price": "150 € ", 
+            "description": "Permite Eliminar el encrespamiento de tu pelo , y lucir una melena mucho mas sedosa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina Melena Corta", 
+            "duration": 10800, 
+            "price": "130 € ", 
+            "description": "Permite Eliminar el encrespamiento de tu pelo , y lucir una melena mucho mas sedosa."
+        }
+    ]
+}

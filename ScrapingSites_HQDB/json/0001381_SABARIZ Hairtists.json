@@ -1,0 +1,210 @@
+{
+    "adid": null, 
+    "name": "SABARIZ Hairtists", 
+    "name_of_contact": "SABARIZ Hairtists", 
+    "scrape_page": "https://www.bucmi.com/sabariz", 
+    "business_website": "https://www.bucmi.com/sabariz", 
+    "areas_covered": null, 
+    "description": "Nuestro objetivo es potenciar al máximo tu belleza a través del cabello. Creamos para ti un servicio personalizado y de calidad, utilizando las técnicas más punteras del momento y los mejores productos del mercado. Centro certificado por THEQHAIR.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635459439900168802.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635459439924957248.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635459440766536951.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "14", 
+    "hqdb_review_score": "9,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Padilla, 310", 
+    "city": "Barcelona", 
+    "zipcode": "08025", 
+    "formatted_address": "C/ Padilla, 310, Barcelona, 08025", 
+    "country": "es", 
+    "office_number": "933475566", 
+    "office_number2": null, 
+    "mobile_number": "627934585", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4090519000", 
+    "longitude": "2.1729401999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635953734326134150.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Deja que cuidemos de ti y de tus manos con esta manicura completa. Este servicios incluye el limado de las uñas en la forma que prefieras, hidratación de la piel, cuidado de cutículas y esmaltado en el color que prefieras a elegir entre nuestra gama de colores. ¡Manos perfectas en poco tiempo!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres un estilo Old School? ¿O eres más de la escuela clásica británica? Escojas el look que escojas, tienes que venir a Sabariz. Nosotros cortaremos tu pelo con asesoramiento, lo lavaremos y te lo peinaremos con cuidado. Este servicio incluye lavado, corte y peinado con productos de acabado de American Crew. ¡Ven a vernos, reserva ya tu cita online!."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "22,5 € ", 
+            "description": "Tanto si necesitas sanear tu pelo como si quieres un nuevo look. ¡Este servicio es para ti! Este servicio no incluye peinado, solo el secado natural del cabello. Disfruta de cortes de tendencia gracias a Sabariz. Incluye el lavado con champú normal y el corte. ¡reserva ahora, no te quedes sin tu cita!."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Con Tratamiento Spa", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Sabemos el aspecto de tu rostro es importante, por eso en Sabariz te proponemos este servicio exclusivo con productos de Alqvimia. Este servicio incluye peeling encimático, eliminando las células muertas, mascarilla de barro, regeneración epidérmica y masaje con aceites esenciales. Limpiarás tu piel a la vez que te relajas con nuestro tratamiento Spa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "¿Pelo rebelde y difícil de peinar? ¿Cansada de peinarte a diario? En Sabariz te ofrecemos el alisado de keratina, para que puedas controlar tu pelo. Este servicio de peluquería, que incluye lavado con champú para preparar el cabello y el tratamiento de keratina que incluye secado y planchado.(No incluye el lavado posterior a las 24h de exposición). Si dispones de un pelo largo, consulte con el profesional por posible suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Flash Más Secado Con Planchas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Estás harta de que tu pelo no luzca sano? En Sabariz ya tenemos la solución con nuestro servicio de Keratina, que aportará proteínas a tu pelo para que vuelva a lucir sano. El servicio consiste en lavar el cabello aplicar la keratina (proteínas de seda, colágeno, ginseng y keratina), dejar actuar 15 minutos, aclararlo y sellarlo con las planchas GHD. ¡Pruébalo!."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Secado Media Melena", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "Disfruta de una perfecta coloración, brillante, llena de vida, gracias a este completo paquete que te ofrecemos en Sabariz. Este servicio incluye el tinte asesorado por nuestros especialistas, lavado con champú y secado de media melena. No te quedes sin tu cita, reserva ahora. ¡Te va a encantar!. Disponemos de planchas GHD."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Secado Pelo Corto", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Disfruta de una perfecta coloración, brillante, llena de vida, gracias a este completo paquete que te ofrecemos en Sabariz. Este servicio incluye el tinte asesorado por nuestros especialistas, lavado con champú y secado de pelo corto. Disponemos de planchas GHD. No te quedes sin tu cita, reserva ahora. ¡Te va a encantar!."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Secado Pelo Largo", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "Disfruta de una perfecta coloración, brillante, llena de vida, gracias a este completo paquete que te ofrecemos en Sabariz. Este servicio incluye el tinte asesorado por nuestros especialistas, lavado con champú y secado de pelo largo. No te quedes sin tu cita, reserva ahora. Disponemos de planchas GHD. ¡Te va a encantar!."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres un estilo Old School? ¿O eres más de la escuela clásica británica? Escojas el look que escojas, tienes que venir a Sabariz. Nosotros cortaremos tu pelo con asesoramiento, lo lavaremos y te lo peinaremos con cuidado. Este servicio incluye lavado, corte y peinado con productos de acabado de American Crew. ¡Ven a vernos, reserva ya tu cita online!."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "22,5 € ", 
+            "description": "Tanto si necesitas sanear tu pelo como si quieres un nuevo look. ¡Este servicio es para ti! Este servicio no incluye peinado, solo el secado natural del cabello. Disfruta de cortes de tendencia gracias a Sabariz. Incluye el lavado con champú normal y el corte. ¡reserva ahora, no te quedes sin tu cita!."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Secado Media Melena", 
+            "duration": 3600, 
+            "price": "41,25 € ", 
+            "description": "Tanto si necesitas sanear tu pelo como si quieres un nuevo look. ¡Este servicio es para ti! Incluye lavado, corte y secado para media melena. Disfruta de cortes de tendencia y asesorados en todo momento gracias a Sabariz, consiguiendo el mejor resultado. ¡Reserva ahora online, no te quedes sin tu cita!. Disponemos de planchas GHD."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Secado Pelo Corto", 
+            "duration": 2700, 
+            "price": "36,25 € ", 
+            "description": "Tanto si necesitas sanear tu pelo como si quieres un nuevo look. ¡Este servicio es para ti! Incluye lavado, corte y secado para pelo corto. Disponemos de planchas GHD. Disfruta de cortes de tendencia y asesorados en todo momento gracias a Sabariz, consiguiendo el mejor resultado. ¡Reserva ahora online, no te quedes sin tu cita!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Secado Pelo Largo", 
+            "duration": 5400, 
+            "price": "47,5 € ", 
+            "description": "Tanto si necesitas sanear tu pelo como si quieres un nuevo look. ¡Este servicio es para ti! Incluye lavado, corte y secado para pelo largo. Disfruta de cortes de tendencia y asesorados en todo momento gracias a Sabariz, consiguiendo el mejor resultado. Disponemos de planchas GHD. ¡Reserva ahora online, no te quedes sin tu cita!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "¡Prepara tu maquillaje con MAC para uno de los días más importantes! El paquete perfecto para ese día tan importante en tu vida. incluye un maquillaje de prueba, el maquillaje del día de la boda y una ampolla rejuvenecedora e hidratante flash para aportar luz a tu rostro. Ven a nuestro centro Sabariz y ¡luce con luz propia!."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Media Melena", 
+            "duration": 9000, 
+            "price": "74 € ", 
+            "description": "Dale un toque de luz y claridad a tu melena con nuestro servicio de mechas tradicionales con papel de plata que además, incluye un corte asesorado, lavado con champú y acondicionador y el peinado definido del pelo, para media melena para que salgas perfecta del salón. Disponemos de planchas GHD. ¡Reserva ya no te quedes sin tu cita!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Pelo Corto", 
+            "duration": 7200, 
+            "price": "65 € ", 
+            "description": "Dale un toque de luz y claridad a tu melena con nuestro servicio de mechas tradicionales con papel de plata que además, incluye un corte asesorado, lavado con champú y acondicionador y el peinado definido del pelo, para cabello corto para que salgas perfecta del salón. También disponemos de planchas GHD. ¡Reserva ya no te quedes sin tu cita!."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Pelo Largo", 
+            "duration": 10800, 
+            "price": "85 € ", 
+            "description": "Dale un toque de luz y claridad a tu melena con nuestro servicio de mechas tradicionales con papel de plata que además, incluye un corte asesorado, lavado con champú y acondicionador y el peinado definido del pelo, para cabello largo para que salgas perfecta del salón. Disponemos de planchas GHD. ¡Reserva ya no te quedes sin tu cita!."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia Peinado", 
+            "duration": 7200, 
+            "price": "155 € ", 
+            "description": "¡Deslumbra uno de los días más importantes! Para ese día tan especial, que mejor que dejarte asesorar por nuestros especialistas del centro Sabariz. Este servicio incluye el peinado de prueba y el peinado del día de la boda más los productos necesarios para realizar el peinado. Disponemos de planchas GHD. ¡Luce un peinado espectacular! Reserva tu cita, no te puedes quedar sin ella."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "¿Pelo rebelde y difícil de peinar? ¿Cansada de peinarte a diario? En Sabariz te ofrecemos el alisado de keratina, para que puedas controlar tu pelo. Este servicio de peluquería, que incluye lavado con champú para preparar el cabello y el tratamiento de keratina que incluye secado y planchado.(No incluye el lavado posterior a las 24h de exposición). Si dispones de un pelo largo, consulte con el profesional por posible suplemento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Keratina Flash Más Secado Con Planchas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Estás harta de que tu pelo no luzca sano? En Sabariz ya tenemos la solución con nuestro servicio de Keratina, que aportará proteínas a tu pelo para que vuelva a lucir sano. El servicio consiste en lavar el cabello aplicar la keratina (proteínas de seda, colágeno, ginseng y keratina), dejar actuar 15 minutos, aclararlo y sellarlo con las planchas GHD. ¡Pruébalo!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Secado Media Melena", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "Disfruta de una perfecta coloración, brillante, llena de vida, gracias a este completo paquete que te ofrecemos en Sabariz. Este servicio incluye el tinte asesorado por nuestros especialistas, lavado con champú y secado de media melena. No te quedes sin tu cita, reserva ahora. ¡Te va a encantar!. Disponemos de planchas GHD."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Secado Pelo Corto", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Disfruta de una perfecta coloración, brillante, llena de vida, gracias a este completo paquete que te ofrecemos en Sabariz. Este servicio incluye el tinte asesorado por nuestros especialistas, lavado con champú y secado de pelo corto. Disponemos de planchas GHD. No te quedes sin tu cita, reserva ahora. ¡Te va a encantar!."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "¿Pelo rebelde y difícil de peinar? ¿Cansada de peinarte a diario? En Sabariz te ofrecemos el alisado de keratina, para que puedas controlar tu pelo. Este servicio de peluquería, que incluye lavado con champú para preparar el cabello y el tratamiento de keratina que incluye secado y planchado.(No incluye el lavado posterior a las 24h de exposición). Si dispones de un pelo largo, consulte con el profesional por posible suplemento."
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "adid": null, 
+    "name": "Arte Español Carabanchel, Madrid", 
+    "name_of_contact": "Arte Español Carabanchel, Madrid", 
+    "scrape_page": "https://www.bucmi.com/arteespanolcarabanchel", 
+    "business_website": "https://www.bucmi.com/arteespanolcarabanchel", 
+    "areas_covered": null, 
+    "description": "El Salón de Belleza Arte Español, Situado en el corazón de Carabanchel, ofrece tratamientos de peluquería y estética tales como cortes de pelo y servicios de uñas, manicura y pedicura.", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "7,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cisneros, 3", 
+    "city": "Madrid", 
+    "zipcode": "28025", 
+    "formatted_address": "C/ Cisneros, 3, Madrid, 28025", 
+    "country": "es", 
+    "office_number": "915255196", 
+    "office_number2": null, 
+    "mobile_number": "665243066", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3833503000", 
+    "longitude": "-3.7295920999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811969785914826.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "22,6 € ", 
+            "description": "El servicio incluye color, lavado y secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10,9 € ", 
+            "description": "Dale un nuevo look a tu cabello con este corte de pelo que incluye lavado, corte y secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "8,9 € ", 
+            "description": "Dale un nuevo aire a tu peinado con este corte de pelo que no incluye lavado ya que se realiza en seco, corte y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "22,6 € ", 
+            "description": "El servicio incluye color, lavado y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "26,7 € ", 
+            "description": "Dale un nuevo aire a tu pelo con este servicio que incluye lavar, mechas y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10,9 € ", 
+            "description": "Dale un nuevo look a tu cabello con este corte de pelo que incluye lavado, corte y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "8,9 € ", 
+            "description": "Dale un nuevo aire a tu peinado con este corte de pelo que no incluye lavado ya que se realiza en seco, corte y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Mujer", 
+            "duration": 1800, 
+            "price": "15,9 € ", 
+            "description": "Cambia de look con este servicio que incluye lavado, corte de pelo para mujer y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido De Novia", 
+            "duration": 1800, 
+            "price": "38,9 € ", 
+            "description": "Luce el mejor recogido en uno de los días más importantes de tu vida con este servicio que incluye lavar, peinar y recogido."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Pelo Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Elimina el encrespamiento con este tratamiento y así domarás hasta los rizos más rebeldes. Este tratamiento incluye lavado y tratamiento keratina en pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Media Melena", 
+            "duration": 7200, 
+            "price": "80 € ", 
+            "description": "Elimina el encrespamiento con este tratamiento y así domarás hasta los rizos más rebeldes. Este tratamiento incluye lavado y tratamiento keratina en media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "110 € ", 
+            "description": "Elimina el encrespamiento con este tratamiento y así domarás hasta los rizos más rebeldes. Este tratamiento incluye lavado y tratamiento keratina en pelo largo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "22,6 € ", 
+            "description": "El servicio incluye color, lavado y secado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "22,6 € ", 
+            "description": "El servicio incluye color, lavado y secado."
+        }
+    ]
+}

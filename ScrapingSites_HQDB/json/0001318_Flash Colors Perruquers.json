@@ -1,0 +1,168 @@
+{
+    "adid": null, 
+    "name": "Flash Colors Perruquers", 
+    "name_of_contact": "Flash Colors Perruquers", 
+    "scrape_page": "https://www.bucmi.com/flashcolors", 
+    "business_website": "https://www.bucmi.com/flashcolors", 
+    "areas_covered": null, 
+    "description": "Flash Colors es tu peluquería y centro de estética en pleno barrio de Sants, en Barcelona. Combinamos nuestros 17 años de experiencia con las técnicas más innovadoras, siempre trabajando para darte un servicio personalizado y de calidad. ¿Vienes?", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835359963631181.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835359963787422.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835359965818675.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08028", 
+    "formatted_address": "Barcelona, 08028", 
+    "country": "es", 
+    "office_number": "931881390", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3793920000", 
+    "longitude": "2.1338083000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966600354885880.png", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Keratina", 
+            "duration": 5400, 
+            "price": "79 € ", 
+            "description": "Repara tu pelo dañado, déjalo cuidado y lleno de vida con un tratamiento de keratina para que tu melena este sana brillante y fuerte. Los resultados te dejarán impresionada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto. Capilar Células Madres Pelo Corto Con Peinado", 
+            "duration": 2700, 
+            "price": "22,5 € ", 
+            "description": "Nuestro tratamiento capilar con células madre está diseñado para ofrecerte un servicio personalizado: aplicamos mascarilla de aloe directamente sobre tu cuero cabelludo; después, añadimos las células madre (en función de tus necesidades: anticaída, volumen, nutrición...) y mediante un suave masaje, lo extendemos hacia el resto de tu cabello. Es un servicio para cabello corto, incluye lavado y peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto. Capilar Células Madre Pelo Medio Con Peinado", 
+            "duration": 2700, 
+            "price": "26,5 € ", 
+            "description": "¡Apúntate a la última novedad! Nuestro tratamiento con células madre está diseñado para ofrecerte un servicio personalizado: aplicamos mascarilla de aloe directamente sobre tu cuero cabelludo; después, añadimos las células madre (en función de tus necesidades: anticaída, volumen, nutrición...) y mediante un suave masaje, lo extendemos hacia el resto de tu cabello. Es un servicio para cabello medio, incluye lavado y peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Media Melena", 
+            "duration": 5400, 
+            "price": "25,5 € ", 
+            "description": "El color de tu cabello marca mucho tu look, por lo que debe de ir acorde a tu estilo y personalidad para que estés a gusto y te identifiques con él. El servicio incluye lavado, color y secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Ven a Flash Colors para el corte de pelo que siempre has querido tener. Será perfecto para ti, según tu estilo y personalidad. El servicio incluye lavado corte y productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto. Capilar Células Madre Pelo Largo Con Peinado", 
+            "duration": 2700, 
+            "price": "25,5 € ", 
+            "description": "Este es un servicio innovador para cabello largo que incluye tratamiento, lavado y peinado. Nuestro tratamiento capilar con células madre está diseñado para ofrecerte un servicio personalizado: aplicamos mascarilla de aloe directamente sobre tu cuero cabelludo; después, añadimos las células madre (en función de tus necesidades: anticaída, volumen, nutrición...) y mediante un suave masaje, lo extendemos hacia el resto de tu cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina", 
+            "duration": 5400, 
+            "price": "79 € ", 
+            "description": "Repara tu pelo dañado, déjalo cuidado y lleno de vida con un tratamiento de keratina para que tu melena este sana brillante y fuerte. Los resultados te dejarán impresionada."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Capilar Células Madres Pelo Corto Con Peinado", 
+            "duration": 2700, 
+            "price": "22,5 € ", 
+            "description": "Nuestro tratamiento capilar con células madre está diseñado para ofrecerte un servicio personalizado: aplicamos mascarilla de aloe directamente sobre tu cuero cabelludo; después, añadimos las células madre (en función de tus necesidades: anticaída, volumen, nutrición...) y mediante un suave masaje, lo extendemos hacia el resto de tu cabello. Es un servicio para cabello corto, incluye lavado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Capilar Células Madre Pelo Medio Con Peinado", 
+            "duration": 2700, 
+            "price": "26,5 € ", 
+            "description": "¡Apúntate a la última novedad! Nuestro tratamiento con células madre está diseñado para ofrecerte un servicio personalizado: aplicamos mascarilla de aloe directamente sobre tu cuero cabelludo; después, añadimos las células madre (en función de tus necesidades: anticaída, volumen, nutrición...) y mediante un suave masaje, lo extendemos hacia el resto de tu cabello. Es un servicio para cabello medio, incluye lavado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Media Melena", 
+            "duration": 5400, 
+            "price": "25,5 € ", 
+            "description": "El color de tu cabello marca mucho tu look, por lo que debe de ir acorde a tu estilo y personalidad para que estés a gusto y te identifiques con él. El servicio incluye lavado, color y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Pelo Corto", 
+            "duration": 5400, 
+            "price": "22 € ", 
+            "description": "¿Te aburre el color de tu pelo? Da el color que desees a tu melena, si no tienes una idea clara ven a nuestro centro y te asesoraremos para que elijas el mejor color para ti entre una amplia gama de tonalidades."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Pelo Largo", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Servicio de color para pelo largo que incluye lavado, color y secado. Podrás elegir entre una amplia gama de colores, utilizando además las mejores marcas siendo especialistas en color. Nuestros estilistas te asesorarán para que tengas el mejor resultdo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Ven a Flash Colors para el corte de pelo que siempre has querido tener. Será perfecto para ti, según tu estilo y personalidad. El servicio incluye lavado corte y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Consigue el look ideal par verte maravilosa. Si tienes alguna idea la haremos realidad y si no sabes muy bien que hacerte te asesoraremos según tu estilo y rasgos para sacar lo mejor de ti con el corte."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Con el pelo corto el corte marca mucho el estilo y tus facciones, en Flash Colors haremos que tengas el corte que más va contigo para que estés guapisima. El servicio incluye lavado, corte y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 1800, 
+            "price": "21,5 € ", 
+            "description": "¿Tienes el pelo largo y quieres un corte de pelo para que este perfecto? Ponte en manos de nuestros profesionales para tener el mejor resultado, el servicio incluye lavado, corte y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Capilar Células Madre Pelo Largo Con Peinado", 
+            "duration": 2700, 
+            "price": "25,5 € ", 
+            "description": "Este es un servicio innovador para cabello largo que incluye tratamiento, lavado y peinado. Nuestro tratamiento capilar con células madre está diseñado para ofrecerte un servicio personalizado: aplicamos mascarilla de aloe directamente sobre tu cuero cabelludo; después, añadimos las células madre (en función de tus necesidades: anticaída, volumen, nutrición...) y mediante un suave masaje, lo extendemos hacia el resto de tu cabello."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Keratina", 
+            "duration": 5400, 
+            "price": "79 € ", 
+            "description": "Repara tu pelo dañado, déjalo cuidado y lleno de vida con un tratamiento de keratina para que tu melena este sana brillante y fuerte. Los resultados te dejarán impresionada."
+        }
+    ]
+}

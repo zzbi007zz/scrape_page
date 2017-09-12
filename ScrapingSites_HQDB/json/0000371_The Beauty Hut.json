@@ -1,0 +1,95 @@
+{
+    "adid": null, 
+    "name": "The Beauty Hut", 
+    "name_of_contact": "The Beauty Hut", 
+    "scrape_page": "https://www.bucmi.com/the-beauty-hut", 
+    "business_website": "https://www.bucmi.com/the-beauty-hut", 
+    "areas_covered": null, 
+    "description": "Nuestro objetivo principal es que desconectes por unos momentos del estrés del día a día para adentrarte en un mundo de sensaciones donde tú eres protagonista. Te ofrecemos distintos tratamientos faciales y corporales para que te veas bien siempre.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003116533580020.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003116536396091.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003116537177339.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003116539364833.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003116536864840.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003116541751387.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003116538114819.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "7,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Suecia, 84", 
+    "city": "Madrid", 
+    "zipcode": "28022", 
+    "formatted_address": "C/ Suecia, 84, Madrid, 28022", 
+    "country": "es", 
+    "office_number": "913061836", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4307338000", 
+    "longitude": "-3.6052079999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636003117010360352.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia Y Vendas Frías", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Las vendas frías están especialmente indicadas para combatir la retención de líquidos, problemas circulatorios, celulitis hedematosa o piel de naranja. Presoterapia es un drenaje linfático mecanizado. Además de eliminar la retención de líquidos, nos ayuda a deshacernos de toxinas acumuladas en el organismo y estimula el sistema linfático."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Punta De Diamante + Mascarilla + Hidratación Final", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "La microdermoabrasión o punta de diamante es un tratamiento no invasivo y una de las soluciones de belleza más actuales. Mediante un micropeeling, se va exfoliando la piel con distintas intensidades, extrayendo las células muertas y puliendo de forma gradual, por capas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa, Cejas Y Labio", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Higiene Facial Completa con todos los pasos necesarios para la eliminación de las impurezas acumuladas. Diseño de cejas tiene como objetivo analizar cual es el formato y tipo de cejas que mejor se adapta al tipo de rostro. Y por último hacemos depilación con cera de labio superior para despedirnos de estos incómodos pelitos que nos pueden jugar malas pasadas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa Y Masaje *Pies Felices*", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Higiene Facial Completa con todos los pasos necesarios para la eliminación de las impurezas acumuladas (desmaquillado, limpieza, tonificación, extracción de puntos negros, mascarilla personalizada según tipo y necesidad de la piel, hidratación final). Durante la sesión disfrutaras de un masaje que llamamos 'pies felices' con el objetivo de descargar el estrés y la tensión acumulada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Y Vendas Frías", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Las vendas frías están especialmente indicadas para combatir la retención de líquidos, problemas circulatorios, celulitis hedematosa o piel de naranja. Presoterapia es un drenaje linfático mecanizado. Además de eliminar la retención de líquidos, nos ayuda a deshacernos de toxinas acumuladas en el organismo y estimula el sistema linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Punta De Diamante + Mascarilla + Hidratación Final", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "La microdermoabrasión o punta de diamante es un tratamiento no invasivo y una de las soluciones de belleza más actuales. Mediante un micropeeling, se va exfoliando la piel con distintas intensidades, extrayendo las células muertas y puliendo de forma gradual, por capas."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Higiene Facial Completa, Cejas Y Labio", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Higiene Facial Completa con todos los pasos necesarios para la eliminación de las impurezas acumuladas. Diseño de cejas tiene como objetivo analizar cual es el formato y tipo de cejas que mejor se adapta al tipo de rostro. Y por último hacemos depilación con cera de labio superior para despedirnos de estos incómodos pelitos que nos pueden jugar malas pasadas."
+        }
+    ]
+}

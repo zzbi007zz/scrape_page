@@ -1,0 +1,135 @@
+{
+    "adid": null, 
+    "name": "Clínica Proactitud", 
+    "name_of_contact": "Clínica Proactitud", 
+    "scrape_page": "https://www.bucmi.com/proactitud", 
+    "business_website": "https://www.bucmi.com/proactitud", 
+    "areas_covered": null, 
+    "description": "La Clínica ProActitud, situada en el corazón de Valladolid cuenta con servicios tales como sesiones de fisioterapia, osteopatía, tratamientos antiedad y de hormonas entre otros. Registro Sanitario: 47-C24-0074.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023584567826549.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023584580955318.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023584592848879.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023584603484284.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023584615856782.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valladolid", 
+    "zipcode": "47014", 
+    "formatted_address": "Valladolid, 47002, Valladolid, 47014", 
+    "country": "es", 
+    "office_number": "983354188", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6344792000", 
+    "longitude": "-4.7601657000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636023585272433258.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Podología", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Ponte en manos de profesionales de la medicina deportiva para tratar cualquier molestia que tienes en los pies , ya que lesiones o distintos problemas deben ser tratados por expertos para poder tener una buena recuperación"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Fisioterapia", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Trata cualquier molestia o lesión con un tratamiento de fisioterapia totalmente personalizado y manual, consiguiendo así con este tratamiento poder volver a tu vida diaria sin molestias.Reduce ya trastornos o dolencias producidas por posiciones diarias, esfuerzos físicos, etc."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Osteopatía", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Resuelve a través de la osteopatía dolencias o lesiones que te impiden estar al 100%, de una forma completamente manual se tratarán las partes del cuerpo afectadas para conseguir su recuperación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento De Bótox", 
+            "duration": 3600, 
+            "price": "379 € ", 
+            "description": "¿Te preocupan las líneas de expresión? El bótox hará que te olvides de ellas y conseguir un rostro sin arrugas. Reduce el paso del tiempo en tu tez, atenuando esas arrugas de expresión que tanto te molestan. Se trata de un tratamiento completo no quirúrgico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Hormonal Antiaging Mujer", 
+            "duration": 7200, 
+            "price": "450 € ", 
+            "description": "Con la edad se pierden hormonas por lo que se puede perder el tono muscular, se tiene peor tolerancia al ejercicio, se pierde memoria o aumenta el peso graso. Con este tratamiento en el que se implantan hormonas de manera subcutanea se consigue recuperar el nivel hormonal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Tratamiento Antiedad", 
+            "duration": 3600, 
+            "price": "540 € ", 
+            "description": "Tratamiento que a través de la micropunción en combinación con sérums con factores de crecimiento consiguen mejorar tu piel para dejarla ideal con la introducción de colágeno. Atenúa arrugas y lineas de expresión y quítate unos añitos de encima. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Con Plasma", 
+            "duration": 7200, 
+            "price": "450 € ", 
+            "description": "Mejora la elasticidad, vitalidad y salud de tu piel con el tratamiento facial de plasma rico en plaquetas. Se realiza a través de microinyecciones que conseguirán la activación de las células, produciendo así que tu piel luzca ideal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Hilos Tensores", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "Elimina la flacidez facial a través de los hilos tensores con los que conseguirás reafirmar la piel de tu rostro y parecer mucho más joven. El tratamiento incluye 10 hilos tensores Polidioxanona."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Estudio De La Pisada", 
+            "duration": 2700, 
+            "price": "75 € ", 
+            "description": "Calzarse las zapatillas y practicar running es muy saludable, pero, antes de esto debemos conocer nuestra forma de caminar o en este caso correr, mediante el estudio de la pisada, previniendo así dolencias. Este estudio consiste en analizar el pie en posición estática pero también en movimiento, y analizar cómo este movimiento afecta a las distintas partes del cuerpo como rodillas, espaldas, etc. Realizado por un especialista podólogo colegiado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Estudio De La Pisada Y Plantillas Por Podólogo", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Este estudio consiste en analizar el pie en posición estática pero también en movimiento, y analizar cómo este movimiento afecta a las distintas partes del cuerpo como rodillas, espaldas, etc. Un podólogo colegiado realizará unas plantillas especificas según tu pisada, tus dolencias y tus hábitos de vida."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Podología", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Ponte en manos de profesionales de la medicina deportiva para tratar cualquier molestia que tienes en los pies , ya que lesiones o distintos problemas deben ser tratados por expertos para poder tener una buena recuperación"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento De Bótox", 
+            "duration": 3600, 
+            "price": "379 € ", 
+            "description": "¿Te preocupan las líneas de expresión? El bótox hará que te olvides de ellas y conseguir un rostro sin arrugas. Reduce el paso del tiempo en tu tez, atenuando esas arrugas de expresión que tanto te molestan. Se trata de un tratamiento completo no quirúrgico."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Hormonal Antiaging Mujer", 
+            "duration": 7200, 
+            "price": "450 € ", 
+            "description": "Con la edad se pierden hormonas por lo que se puede perder el tono muscular, se tiene peor tolerancia al ejercicio, se pierde memoria o aumenta el peso graso. Con este tratamiento en el que se implantan hormonas de manera subcutanea se consigue recuperar el nivel hormonal."
+        }
+    ]
+}

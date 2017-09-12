@@ -1,0 +1,130 @@
+{
+    "adid": null, 
+    "name": "Fitt", 
+    "name_of_contact": "Fitt", 
+    "scrape_page": "https://www.bucmi.com/fitt", 
+    "business_website": "https://www.bucmi.com/fitt", 
+    "areas_covered": null, 
+    "description": "Centro de Barcelona donde encontrarás el sitio perfecto para cuidar tu salud. Ofrecemos un gran abanico de servicios relacionados con el FITTNESS y la SALUD. Desde sesiones de pilates, masajes, hasta tratamientos de osteopatía. Ven a conocernos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815417049877945.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815417098002703.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815417124257224.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815417207382232.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815417244726003.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815417283789355.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815417314257886.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Balmes, 109", 
+    "city": "Barcelona", 
+    "zipcode": "08008", 
+    "formatted_address": "C/ Balmes, 109, Barcelona, 08008", 
+    "country": "es", 
+    "office_number": "934513624", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3918739000", 
+    "longitude": "2.1590539999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968415558998957.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Entrenamiento Personal - 4 Sesiones", 
+            "duration": 2700, 
+            "price": "260 € ", 
+            "description": "Si siempre has querido hacer ejercicio y beneficiarte de las ventajas de hacer deporte, con nuestro servicio de entrenador personal por fin lo conseguirás. Nuestro entrenador personal se reunirá contigo en tu primera sesión para analizar tu caso y realizar tu plan de entrenamiento. Durante las tres siguientes sesiones te someterás al entrenamiento. ¡Apúntate y comienza a ver resultados!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Relájate y ofrece a tu cuerpo una hora de recuperación con un masaje según tus necesidades. Elige entre masaje deportivo, descontracturante o relajante, y ponte en manos de nuestros profesionales. Saldrás como nuevo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesion Osteopatia", 
+            "duration": 3600, 
+            "price": "64 € ", 
+            "description": "Prueba la osteopatía. Es la técnica más natural y novedosa de recuperación del cuerpo. Se basa en unas técnicas manuales encaminadas a la reestructuración del paciente, tanto a nivel del sistema estructural como a nivel viscero-craneal."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Relájate y ofrece a tu cuerpo una hora de recuperación con un masaje según tus necesidades. Elige entre masaje deportivo, descontracturante o relajante, y ponte en manos de nuestros profesionales. Saldrás como nuevo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesion Fisioterapia", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "Recupérate de cualquier lesión con una sesión de fisioterapia. Nuestros profesionales aliviarán y te ayudarán a recuperar la zona localizada dañada. Notarás la diferencia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesion Osteopatia", 
+            "duration": 3600, 
+            "price": "64 € ", 
+            "description": "Prueba la osteopatía. Es la técnica más natural y novedosa de recuperación del cuerpo. Se basa en unas técnicas manuales encaminadas a la reestructuración del paciente, tanto a nivel del sistema estructural como a nivel viscero-craneal."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Relájate y ofrece a tu cuerpo una hora de recuperación con un masaje según tus necesidades. Elige entre masaje deportivo, descontracturante o relajante, y ponte en manos de nuestros profesionales. Saldrás como nuevo."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesion Fisioterapia", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "Recupérate de cualquier lesión con una sesión de fisioterapia. Nuestros profesionales aliviarán y te ayudarán a recuperar la zona localizada dañada. Notarás la diferencia."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesion Osteopatia", 
+            "duration": 3600, 
+            "price": "64 € ", 
+            "description": "Prueba la osteopatía. Es la técnica más natural y novedosa de recuperación del cuerpo. Se basa en unas técnicas manuales encaminadas a la reestructuración del paciente, tanto a nivel del sistema estructural como a nivel viscero-craneal."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Entrenamiento Personal - 4 Sesiones", 
+            "duration": 2700, 
+            "price": "260 € ", 
+            "description": "Si siempre has querido hacer ejercicio y beneficiarte de las ventajas de hacer deporte, con nuestro servicio de entrenador personal por fin lo conseguirás. Nuestro entrenador personal se reunirá contigo en tu primera sesión para analizar tu caso y realizar tu plan de entrenamiento. Durante las tres siguientes sesiones te someterás al entrenamiento. ¡Apúntate y comienza a ver resultados!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Entrenamiento Personal - 4 Sesiones De 60 Min", 
+            "duration": 3600, 
+            "price": "310 € ", 
+            "description": "Este servicio está pensado para aquellos que quieren, de verdad, comprometerse con el ejercicio y comenzar a realizar una vida sana. Si siempre has querido hacer ejercicio y beneficiarte de las ventajas de hacer deporte, con nuestro servicio de entrenador personal por fin lo conseguirás. Nuestro entrenador personal se reunirá contigo en tu primera sesión para analizar tu caso y realizar tu plan de entrenamiento. ¡Durante las siguientes sesiones lo llevaréis a cabo!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Nutrición - 4 Sesiones", 
+            "duration": 2700, 
+            "price": "275 € ", 
+            "description": "¡Comer bien es posible con una buena alimentación! Con este servicio, nuestro profesional cualificado analizará tu caso: en tu primera visita estudiará tu situación y definirá en base a ella tu dieta. Durante la segunda, tercera y cuarta sesión realizaremos el seguimiento para ayudarte a cumplir tus metas. Cada sesión tiene una duración de 45 minutos."
+        }
+    ]
+}

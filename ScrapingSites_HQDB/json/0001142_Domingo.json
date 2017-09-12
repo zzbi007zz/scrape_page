@@ -1,0 +1,103 @@
+{
+    "adid": null, 
+    "name": "Domingo", 
+    "name_of_contact": "Domingo", 
+    "scrape_page": "https://www.bucmi.com/domingo", 
+    "business_website": "https://www.bucmi.com/domingo", 
+    "areas_covered": null, 
+    "description": "Peluquería de caballeros. Visita una de las peluquerías más auténticas de Barcelona. Tradición, innovación y especialización se juntan en Domingo para hacer de la experiencia algo único. Ven a disfrutar de un corte de pelo o un afeitado profesional.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588324280446362.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635588324282634246.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635809565978413440.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635809566063652470.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635809566109749858.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635809566224296019.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635809566264139710.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635809566302733528.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "Barcelona, 08041, Barcelona, 08013, Barcelona, 08019, Barcelona, 08006, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "932225637", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4304751000", 
+    "longitude": "2.1878563999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966649054160872.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Arreglo Barba", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Si tienes barba y te gusta presumir de ella, este servicio es para ti. Es posible lucir barba con un aspecto cuidado, anímate y ven para probarlo. Volverás seguro. El servicio incluye arreglo clásico a navaja."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Ponte en manos de nuestro equipo profesional para lelvarte un corte que encaje contigo, con tu personalidad y con tus gustos. El servicio incluye todos los productos de acabado necesarios, pero no incluye el lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero Con Lavado", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Te gusta disfrutar de tu cabello, lo tratas con mimo y le dedicas el mejor de los cuidados. Por eso, sabes lo importante que es cortarlo con regularidad por un buen profesional. En Domingo sabemos que hay muchos cortes de pelo, pero solo uno encaja contigo. Además, incluimos el lavado y los productos de acabado en el servicio. ¿A qué esperas?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Si buscas un acabado apurado e impecable que te permita disfrutar de una piel suave y libre de irritación, este servicio es para ti. Ponte en manos de nuestros mejores profesionales y disfruta de un auténtico afeitado. El servicio incluye afeitado clásico a navaja o maquinilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo Barba", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Si tienes barba y te gusta presumir de ella, este servicio es para ti. Es posible lucir barba con un aspecto cuidado, anímate y ven para probarlo. Volverás seguro. El servicio incluye arreglo clásico a navaja."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Ponte en manos de nuestro equipo profesional para lelvarte un corte que encaje contigo, con tu personalidad y con tus gustos. El servicio incluye todos los productos de acabado necesarios, pero no incluye el lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero Con Lavado", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Te gusta disfrutar de tu cabello, lo tratas con mimo y le dedicas el mejor de los cuidados. Por eso, sabes lo importante que es cortarlo con regularidad por un buen profesional. En Domingo sabemos que hay muchos cortes de pelo, pero solo uno encaja contigo. Además, incluimos el lavado y los productos de acabado en el servicio. ¿A qué esperas?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Caballero", 
+            "duration": 5400, 
+            "price": "14 € ", 
+            "description": "¿Por qué renunciar al color? Con nuestro servicio de mechas conseguirás un look lleno de matices: un cabello repleto de dinamismo, original y siempre respetando tus gustos y necesidades. Con este servicio te llevas las mechas, el lavado, acondicionador y peinado con productos de acabado. ¡Consigue el look que siempre has querido!"
+        }
+    ]
+}

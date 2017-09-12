@@ -1,0 +1,71 @@
+{
+    "adid": null, 
+    "name": "Masajes Nancy", 
+    "name_of_contact": "Masajes Nancy", 
+    "scrape_page": "https://www.bucmi.com/masajesnancy", 
+    "business_website": "https://www.bucmi.com/masajesnancy", 
+    "areas_covered": null, 
+    "description": "¡Su bienestar es mi prioridad! Nueve años de experiencia y formación continua. Atención única, exclusiva y personalizada en gabinete particular. Eficacia-puntualidad-seriedad.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636154952046317974.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636154952122097583.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636154952311156154.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636154952433341197.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "6,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Albacete, 27", 
+    "city": "Valencia", 
+    "zipcode": "46018", 
+    "formatted_address": "C/ Albacete, 27, Valencia, 46018", 
+    "country": "es", 
+    "office_number": "963850910", 
+    "office_number2": null, 
+    "mobile_number": "604159571", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4632001000", 
+    "longitude": "-0.3922278999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636154959487414980.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Circuito Relax", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Este circuito consta de: Sauna personal con aromaterapia, masaje relajante en camilla, ambiente zen, climatizado, acogedor."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante Localizado", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Eficaz masaje terapéutico descontracturante para mitigar dolor muscular en camilla o en silla ergonómica. Atención individual, personalizada y exclusiva."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante Localizado", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Eficaz masaje terapéutico descontracturante para mitigar dolor muscular en camilla o en silla ergonómica. Atención individual, personalizada y exclusiva."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Descontracturante Localizado", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Eficaz masaje terapéutico descontracturante para mitigar dolor muscular en camilla o en silla ergonómica. Atención individual, personalizada y exclusiva."
+        }
+    ]
+}

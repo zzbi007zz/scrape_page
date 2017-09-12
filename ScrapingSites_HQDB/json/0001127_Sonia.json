@@ -1,0 +1,185 @@
+{
+    "adid": null, 
+    "name": "Sonia", 
+    "name_of_contact": "Sonia", 
+    "scrape_page": "https://www.bucmi.com/sonia", 
+    "business_website": "https://www.bucmi.com/sonia", 
+    "areas_covered": null, 
+    "description": "Centro de peluquería y estética que cuenta con profesionales del sector con muchos años de experiencia. Somos un centro serio y profesional y queremos que los resultados sean óptimos para nuestros clientes. Te esperamos en plena Esquerra de L' Eixample", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491585556422208.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491585557047258.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491586583691230.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491586583534964.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491586584941321.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491586585097583.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Viladomat, 26", 
+    "city": "Barcelona", 
+    "zipcode": "08015", 
+    "formatted_address": "C/ Viladomat, 26, Barcelona, 08015", 
+    "country": "es", 
+    "office_number": "933297150", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3764523000", 
+    "longitude": "2.1617605000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966784309568100.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Esmaltado Semipermanente", 
+            "duration": 1800, 
+            "price": "23,5 € ", 
+            "description": "Podrás conseguir unas manos o pies estupendas por mucho mas tiempo. Pregunta por nuestra gama de colores y disfruta de 15 días de uñas perfectas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado De Keratina (Media Melena)", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Luxe Spa", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La manicura más completa. Además del limado, retirada de cutícula y limado, incorpora la parafina para las pieles más castigadas"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina (Largo)", 
+            "duration": 10800, 
+            "price": "175 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina (Media Melena)", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina (Cabello Corto)", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "El servicio incluye masaje capilar"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Secar", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Lavar y secar pelo corto o medio con productos botánicos (personalizado para cada client@)"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina (Largo)", 
+            "duration": 10800, 
+            "price": "175 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina (Media Melena)", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina (Cabello Corto)", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina (Largo)", 
+            "duration": 10800, 
+            "price": "175 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina (Media Melena)", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina (Cabello Corto)", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "El servicio incluye masaje capilar"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavar Y Secar", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Lavar y secar pelo corto o medio con productos botánicos (personalizado para cada client@)"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Y Reflexologia", 
+            "duration": 5400, 
+            "price": "66 € ", 
+            "description": "Pack limpieza de cutis y sesión de reflexología. La limpieza de cutis incluye: Limpieza en profundidad de células muertas y espinillas y tonificar los músculos de la cara mediante el masaje facial y una sesión de reflexología (Masaje terapeútico que consiste en la aplicación de presión en diferentes puntos del cuerpo para conseguir liberar el estrés acumulado)."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado De Keratina (Largo)", 
+            "duration": 10800, 
+            "price": "175 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado De Keratina (Media Melena)", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado De Keratina (Largo)", 
+            "duration": 10800, 
+            "price": "175 € ", 
+            "description": "Trabajamos con Brasil Cacau para conseguir un liso natural, brillante y recomendable para todo tipo de cabellos"
+        }
+    ]
+}

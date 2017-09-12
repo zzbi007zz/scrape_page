@@ -1,0 +1,355 @@
+{
+    "adid": null, 
+    "name": "Making Of Hair Design Club", 
+    "name_of_contact": "Making Of Hair Design Club", 
+    "scrape_page": "https://www.bucmi.com/makingofhairdesignclub", 
+    "business_website": "https://www.bucmi.com/makingofhairdesignclub", 
+    "areas_covered": null, 
+    "description": "Making Of Hair Design Club Es más que un Salón de Belleza en pleno corazón del barrio de Malasaña. Hemos creado para ti un espacio exclusivo de auténtico lujo donde podrás dejarte seducir por las manos de nuestros expertos en moda y belleza.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635830171666623074.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635830171750837105.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635830171778978299.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839739746251254.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839741643222975.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839742090415890.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839742467606116.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635839742747642664.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "19", 
+    "hqdb_review_score": "9,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ruda, 10", 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "C/ Ruda, 10, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "915319237", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4249926000", 
+    "longitude": "-3.7033593999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635914902589771105.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Baño De Color Sq, Corte De Chica Peinado Medio", 
+            "duration": 5400, 
+            "price": "97 € ", 
+            "description": "Déjate asesorar por nuestros especialistas en color para sacar el máximo partido a tu melena con un baño de color SQ. Aporta brillo y proteina al cabello. El servicio incluye baño de color SQ de REDKEN. corte de chica y un maravilloso peinado medio por el estilista elegido."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Baño De Vida Corte De Chica Con Retoque De Secado", 
+            "duration": 5400, 
+            "price": "66 € ", 
+            "description": "¿Te interesaría devolverle la vitalidad a tu cabello? Ven a Making Of Hair y descubre el baño de vida que aportará un toque de nutrición a tu cabello con un corte de chica con retoque de secado. Te ofrecemos un estudio personalizado de tu estilo para que puedas lucir el corte que más se adecúe a tu personalidad y tu estilo. Consulta tarifas con tu profesional si deseas peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Matiz, Corte De Chica Y Retoque De Secado", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Déjate asesorar por nuestros especialistas en color y realizaremos un estudio personalizado de tu estilo y personalidad para sacar el máximo partido a tu melena y conseguir unos resultados espectaulares. Ven y Atrévete! El servicio incluye color, matiz, corte y retoque de secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Chica, Retoque Secado Y Tto Moroccanoil", 
+            "duration": 5400, 
+            "price": "72 € ", 
+            "description": "¿Necesitas un cambio de look? Ponte en manos de nuestros estilistas apasionados de la moda y la belleza y consigue un cambio de look actual. El servicio incluye lavado, corte, retoque de secado y un tratamiento de Moroccanoil para dejar el cabello suave, brillante e hidratado. Asesórate por nuestros profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado Chica Largo", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "¿Necesitas un cambio de look? Ponte en manos de nuestros estilistas apasionados de la moda y la belleza y consigue un cambio de look actual y sofisticado acorde con tu estilo y tu personalidad. Ven a Making Of Hair y no te arrepentirás. El servicio incluye lavado con hidratación y peinado asesorado por nuestros profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado Chica Media Melena", 
+            "duration": 3600, 
+            "price": "63 € ", 
+            "description": "Ven a Making Of Hair y descubre el auténtico lujo para tu pelo. Te ofrecemos un servicio de corte y peinado asesorado por los mejores profesionales de nuestro salón. Realizamos un estudio personalizado de tu estilo y tu personalidad para que disfrutes del corte más adecuado para ti. El servicio incluye brushing con hidratación y peinado asesorado. Precio para media melena."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Keratina Express, Corte De Chica Con Secado", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Solución para cabellos dañados que contiene la formulación de Keratina. Incluye además un corte de moda con retoque de secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Chico Y Arreglo De Barba", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "En Making Of Hair te ofrecemos un servicio exclusivo y personalizado asesorado siempre por nuestros mejores estilistas. Completa tu corte de pelo con un arreglo de barba para obtener una imagen cuidada y siempre a la última."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Chica Y Retoque De Secado", 
+            "duration": 2700, 
+            "price": "47 € ", 
+            "description": "¿ Quieres un corte sofisticado y con estilo? Ven a Making Of Hair Design Club y ponte en manos de nuestros especialistas en corte. Te ofrecemos un estudio personalizado de tu estilo para que puedas lucir el corte que más se adecue a tu personalidad y tu estilo. El servicio incluye lavado con hidratación y secado. Consulta tarifas con tu profesional si deseas peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Redken, Matiz Y Peinado Pelo Corto", 
+            "duration": 9000, 
+            "price": "75 € ", 
+            "description": "Making Of Hair Design Club pone a tu disposición toda la gama de colores REDKEN de esta temporada para que saques el máximo partido a tu estilo. Intensifica o cambia de estilo y disfruta de un color con brillo y luminosidad para tu melena. Déjate asesorar por nuestros coloristas con un servicio 100% personalizado. El servicio incluye color, matiz y peinado. Ven a Making y ponte guap@. Precio para pelo corto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Trat.Capilar Repair Moroccanoil Y Peinado Medio", 
+            "duration": 2700, 
+            "price": "52 € ", 
+            "description": "Recomendado para cabellos decolorados.¿Tienes el pelo seco, castigado y sin brillo? Este es el tratamiento ideal para ti. El Tratamiento capilar Repair de MOROCCANOIL repara la fibra de tu pelo desde la raíz hasta las puntas para devolverle el brillo, la fuerza y la suavidad natural. Repara tu cabello y sácale el máximo partido a tu melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Sq, Corte De Chica Peinado Medio", 
+            "duration": 5400, 
+            "price": "97 € ", 
+            "description": "Déjate asesorar por nuestros especialistas en color para sacar el máximo partido a tu melena con un baño de color SQ. Aporta brillo y proteina al cabello. El servicio incluye baño de color SQ de REDKEN. corte de chica y un maravilloso peinado medio por el estilista elegido."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Vida Corte De Chica Con Retoque De Secado", 
+            "duration": 5400, 
+            "price": "66 € ", 
+            "description": "¿Te interesaría devolverle la vitalidad a tu cabello? Ven a Making Of Hair y descubre el baño de vida que aportará un toque de nutrición a tu cabello con un corte de chica con retoque de secado. Te ofrecemos un estudio personalizado de tu estilo para que puedas lucir el corte que más se adecúe a tu personalidad y tu estilo. Consulta tarifas con tu profesional si deseas peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Matiz, Corte De Chica Y Retoque De Secado", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Déjate asesorar por nuestros especialistas en color y realizaremos un estudio personalizado de tu estilo y personalidad para sacar el máximo partido a tu melena y conseguir unos resultados espectaulares. Ven y Atrévete! El servicio incluye color, matiz, corte y retoque de secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Chica, Retoque Secado Y Tto Moroccanoil", 
+            "duration": 5400, 
+            "price": "72 € ", 
+            "description": "¿Necesitas un cambio de look? Ponte en manos de nuestros estilistas apasionados de la moda y la belleza y consigue un cambio de look actual. El servicio incluye lavado, corte, retoque de secado y un tratamiento de Moroccanoil para dejar el cabello suave, brillante e hidratado. Asesórate por nuestros profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Chica Largo", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "¿Necesitas un cambio de look? Ponte en manos de nuestros estilistas apasionados de la moda y la belleza y consigue un cambio de look actual y sofisticado acorde con tu estilo y tu personalidad. Ven a Making Of Hair y no te arrepentirás. El servicio incluye lavado con hidratación y peinado asesorado por nuestros profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Chica Media Melena", 
+            "duration": 3600, 
+            "price": "63 € ", 
+            "description": "Ven a Making Of Hair y descubre el auténtico lujo para tu pelo. Te ofrecemos un servicio de corte y peinado asesorado por los mejores profesionales de nuestro salón. Realizamos un estudio personalizado de tu estilo y tu personalidad para que disfrutes del corte más adecuado para ti. El servicio incluye brushing con hidratación y peinado asesorado. Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Keratina Express, Corte De Chica Con Secado", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Solución para cabellos dañados que contiene la formulación de Keratina. Incluye además un corte de moda con retoque de secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte y Peinado Chica Pelo Corto", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Ponte en manos de nuestros estilistas y consigue un corte con estilo acorde con tu personalidad. En Making Of Hair te ofrecemos un servicio 100% personalizado para sacar el máximo partido a tu melena. Disfruta de un corte moderno y actual y un peinado asesorado por nuestros estilistas. El servicio incluye corte asesorado, lavado con hidratación y peinado. Precio para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado largo", 
+            "duration": 2700, 
+            "price": "32 € ", 
+            "description": "Déjate seducir por las manos de nuestros grandes profesionales y sácale partido a tu melena. Consigue un look con un peinado actual y de moda siempre acorde con tu personalidad y tu estilo. Precio para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento capilar Keratin Complex Largo", 
+            "duration": 10800, 
+            "price": "250 € ", 
+            "description": "¿ Tienes el pelo apagado y sin brillo? El tratamiento capilar KERATIN COMPLEX de REDKEN es el tratamiento más eficaz para devolver el brillo, la luminosidad y la fuerza a tu melena. Repara tu cabello con el mejor tratamiento del mercado de la mano de Making Of Hair Design Club. Pruébalo y no te arrepentirás."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento capilar Keratin Complex Media Melena", 
+            "duration": 10800, 
+            "price": "200 € ", 
+            "description": "Tratamiento capilar REPAIR KERATIN COMPLEX de REDKEN para media melena. El tratamiento más eficaz para reparar el pelo seco y sin brillo. Ven a nuestro salón y reviva la intensidad, la fuerza y el brillo de tu pelo con el tratamiento más revolucionario del mercado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento capilar Keratin Complex Pelo Corto", 
+            "duration": 10800, 
+            "price": "150 € ", 
+            "description": "Ven a Making Of Hair y repara tu pelo con este tratamiento capilar KERATIN COMPLEX de REDKEN, el mejor tratamiento Repair del mercado. Repara la fibra capilar de tu melena desde la raíz hasta las puntas devolviendo le su brillo, elasticidad y fuerza natural. Ponte en nuestras manos y consigue unos resultados increíbles. Precio para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "En Making of Hair apoyamos la revolución de las barbas, esta moda ha llegado para quedarse. Por eso te ofrecemos un servicio que mantendrá tu barba perfectamente cuidada gracias a un completo ritual."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Sq Y Peinado Largo", 
+            "duration": 2700, 
+            "price": "66 € ", 
+            "description": "¿ Te atreves con un baño de color para tu pelo? Ven a Making Of Hair y déjate asesorar por nuestros especialistas en color para sacar el máximo partido a tu melena. Intensifica el color y el brillo de tu pelo con este baño de color. Pruébalo y no te arrepentirás. El servicio incluye brushing con hidratación y un peinado largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Sq, Corte De Chica Y Peinado Largo", 
+            "duration": 2700, 
+            "price": "102 € ", 
+            "description": "Déjate asesorar por nuestros especialistas en color para sacar el máximo partido a tu melena con un baño de color SQ. Aporta brillo y proteina al cabello. El servicio incluye baño de color SQ de REDKEN. corte de chica y un maravilloso peinado medio por el estilista elegido."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Y Peinado Medio", 
+            "duration": 2700, 
+            "price": "61 € ", 
+            "description": "¿ Te atreves con un baño de color para tu pelo? Ven a Making Of Hair y déjate asesorar por nuestros especialistas en color para sacar el máximo partido a tu melena. Intesifica el color y el brillo de tu pelo con este baño de color. Pruébalo y no te arrepentirás. El servicio incluye brushing con hidratación y un peinado de media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Chemistry System Buttercream Redken Peinado Largo", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Exclusivo tratamiento profesional que ofrece un servicio personalizado para la necesidad específica de tu cabello, ya sea suavidad y brillo, protección del cabello coloreado, fuerza o cualquier combinación de estos beneficios. Un cóctel explosivo de vitaminas. .Aplicamos dos tratamientos para conseguir un cabello sano y lleno de vida. Terminamos con un maravilloso peinado melena larga por el estilista deseado"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Chemistry System Buttercream Redken Peinado Medio", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Exclusivo tratamiento profesional que ofrece un servicio personalizado para la necesidad específica de tu cabello, ya sea suavidad y brillo, protección del cabello coloreado, fuerza o cualquier combinación de estos beneficios. Un cóctel explosivo de vitaminas. Aplicamos dos tratamientos para conseguir un cabello sano y lleno de vida. Terminamos con un maravilloso peinado media melena por el estilista deseado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Redken, Matiz Y Peinado Largo", 
+            "duration": 9000, 
+            "price": "85 € ", 
+            "description": "Ven a nuestro salón y nuestros coloristas te asesorarán para sacar el máximo partido a tu estilo. Te ofrecemos un servicio 100% personalizado para conseguir el cambio de look que siempre has querido. Atrévete con los colores REDKEN de esta temporada no te arrepentirás de los resultados. El servicio incluye color, matiz, brushing y peinado. Precio para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Redken, Matiz Y Peinado Media Melena", 
+            "duration": 9000, 
+            "price": "80 € ", 
+            "description": "¿ Eres una persona atrevida? ¿ Quieres un color sofisticado y con estilo para tu pelo? Ponemos a tu disposición toda la gama de colores REDKEN de esta temporada. Déjate asesorar por nuestros especialistas en color y realizaremos un estudio personalizado de tu estilo y personalidad para sacar el máximo partido a tu melena y conseguir unos resultados espectaulares. Ven y Atrévete! El servicio incluye color, matiz y peinado. Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chico", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "En Making Of Hair te ofrecemos un servicio exclusivo y personalizado con un estudio de tu estilo para conseguir el cambio de look que andas buscando asesorado siempre por nuestros mejores estilistas. Disfruta de un corte sofisticado y con estilo. El servicio incluye lavado con hidratación y productos de acabado de styling."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Chico Y Arreglo De Barba", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "En Making Of Hair te ofrecemos un servicio exclusivo y personalizado asesorado siempre por nuestros mejores estilistas. Completa tu corte de pelo con un arreglo de barba para obtener una imagen cuidada y siempre a la última."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "M.Californianas, Matiz Y Retoque De Secado Corto", 
+            "duration": 9000, 
+            "price": "87 € ", 
+            "description": "Las mechas californianas son la tendencia de coloración más actual. En nuestro salón podrás disfrutar de un servicio asesorado de mechas californianas ideales para si quieres reavivar tu look sin cambiar de color. Déjate asesorar por nuestros profesionales y conseguirás unos resultados espectaculares. El servicio incluye las mechas californianas, matizador, brushing y retoque de secado sin peinado. Consulta con tu profesional si deseas peinado para posibles suplementos. Precio para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "M.Californianas, Matiz Y Retoque De Secado Largo", 
+            "duration": 9000, 
+            "price": "105 € ", 
+            "description": "En Making Of Hair Design Club te ofrecemos una de las últimas tendencias en coloración, las mechas californianas. Estilo actual y sofisticado apto para todo tipo de mujeres. Imitan los reflejos naturales del sol en tu pelo sin dañarlo. Déjate asesorar por nuestros estilistas y no te arrepentirás.El servicio incluye las mechas californianas, matizador, brushing y retoque de secado sin peinado. Consulta con tu profesional si deseas peinado para posibles suplementos. Sácale el máximo partido a tu melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "M.Californianas, Matiz Y Retoque De Secado Medio", 
+            "duration": 9000, 
+            "price": "97 € ", 
+            "description": "Las mechas californianas imitan los reflejos del sol. El resultado es como si los largos del cabello aún mantuvieran el rubio del fantástico verano…. Ven a Making Of Hair y prueba este tratamiento para reavivar el brillo de tu melena. El servicio incluye mechas californianas, matizador, brushing con hidratación y retoque de secado. Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Corto, Matiz Y Retoque De Secado", 
+            "duration": 9000, 
+            "price": "81 € ", 
+            "description": "¿Te atreves con unos reflejos para tu melena? Dale brillo y reflejos a tu cabello con unas mechas. Te ofrecemos un servicio 100% personalizado y asesorado siempre por nuestros estilistas. El servicio incluye mechas para pelo corto, matiz, brushing con hidratación y retoque de secado. Consulta con tu profesional para posibles suplementos si deseas peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Ven a nuestro salón y ponte guap@ con nuestro servicio de peinado asesorado por nuestros especialistas en peluquería. Precio para media melena. Consulta con tu profesional para posibles suplementos si deseas cualquier otro extra."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "¿ Quieres un Peinado actual y con estilo? Ven a Making Of Hair. Te ofrecemos un servicio de peinado 100% personalizado para sacar el máximo partido a tu melena y conseguir unos resultados de lujo acorde con tu personalidad y estilo. Precio para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Baño De Brillo Y Retoque De Secado", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Disfruta de un baño de brillo para tu pelo y olvídate del pelo seco y apagado. Realza el brillo y la luminosidad de tu cabello con este tratamiento capilar. El servicio incluye el brushing con hidratación, baño de brillo y retoque de secado sin peinado. Consulta con tu profesional posibles suplementos si deseas peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Keratina Express", 
+            "duration": 1800, 
+            "price": "33 € ", 
+            "description": "Olvídate del pelo seco y encrespado con este tratamiento capilar de Keratina Express de Daviness. No castigues más tu pelo con el secador y las planchas para conseguir un buen resultado. Ven a Making Of Hair y mima de tu pelo con este tratamiento específico. Resultados increíbles,ven y pruébalo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chica Y Retoque De Secado", 
+            "duration": 2700, 
+            "price": "47 € ", 
+            "description": "¿ Quieres un corte sofisticado y con estilo? Ven a Making Of Hair Design Club y ponte en manos de nuestros especialistas en corte. Te ofrecemos un estudio personalizado de tu estilo para que puedas lucir el corte que más se adecue a tu personalidad y tu estilo. El servicio incluye lavado con hidratación y secado. Consulta tarifas con tu profesional si deseas peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Redken, Matiz Y Peinado Pelo Corto", 
+            "duration": 9000, 
+            "price": "75 € ", 
+            "description": "Making Of Hair Design Club pone a tu disposición toda la gama de colores REDKEN de esta temporada para que saques el máximo partido a tu estilo. Intensifica o cambia de estilo y disfruta de un color con brillo y luminosidad para tu melena. Déjate asesorar por nuestros coloristas con un servicio 100% personalizado. El servicio incluye color, matiz y peinado. Ven a Making y ponte guap@. Precio para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Trat.Capilar Repair Moroccanoil Y Peinado Medio", 
+            "duration": 2700, 
+            "price": "52 € ", 
+            "description": "Recomendado para cabellos decolorados.¿Tienes el pelo seco, castigado y sin brillo? Este es el tratamiento ideal para ti. El Tratamiento capilar Repair de MOROCCANOIL repara la fibra de tu pelo desde la raíz hasta las puntas para devolverle el brillo, la fuerza y la suavidad natural. Repara tu cabello y sácale el máximo partido a tu melena."
+        }
+    ]
+}

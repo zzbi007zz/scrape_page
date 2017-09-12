@@ -1,0 +1,240 @@
+{
+    "adid": null, 
+    "name": "New Aglaya", 
+    "name_of_contact": "New Aglaya", 
+    "scrape_page": "https://www.bucmi.com/newaglaya", 
+    "business_website": "https://www.bucmi.com/newaglaya", 
+    "areas_covered": null, 
+    "description": "Centro de estética y belleza dedicado a todo tipo de servicios dedicados a la belleza y la salud. Con una relación calidad- precio inmejorable. Ven a probar y te sorprenderás.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582180781349268.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582180884486037.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582181280183322.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582181324093201.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635582181420662997.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "26", 
+    "hqdb_review_score": "8,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Palencia, 61", 
+    "city": "Madrid", 
+    "zipcode": "28037", 
+    "formatted_address": "C/ Palencia, 61, Madrid, 28037", 
+    "country": "es", 
+    "office_number": "913757231", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4365859000", 
+    "longitude": "-3.6227956999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968486449991880.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tratamiento estético que utiliza la presión para realizar un drenaje linfático. Sus beneficios consisten en reactivar el sistema circulatorio y aumentar la oxigenación. Estimula el sistema inmunológico, tonifica los músculos y aumenta la posibilidad de e"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Higiene facial. Limpieza en profundidad, dejándote la piel totalmente renovada, con elasticidad y perfectamente limpia, con productos de marcas como Germaine de Capuccini. La sesión incluye:- Vapor.- Extracción.- Peeling- Masaje relajante.- Mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tratamiento estético que utiliza la presión para realizar un drenaje linfático. Sus beneficios consisten en reactivar el sistema circulatorio y aumentar la oxigenación. Estimula el sistema inmunológico, tonifica los músculos y aumenta la posibilidad de e"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Facial Foto-Rejuvenecimiento", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "A través de la fototerapia se mejora visiblemente el aspecto de la piel y reduce los signos del envejecimiento. Estimula las células de la piel con la luz especial de la fototerapia para quitarle a tu rostro esos años de encima que tanto te pesan."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Hidratación + Peeling Corporal", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Elimina todas las células muertas e hidrata intensamente toda la piel del cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Higiene facial. Limpieza en profundidad, dejándote la piel totalmente renovada, con elasticidad y perfectamente limpia, con productos de marcas como Germaine de Capuccini. La sesión incluye:- Vapor.- Extracción.- Peeling- Masaje relajante.- Mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje De Pies", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Masaje relajante que sirve para calmar ciertos males y tensiones. En los pies están representados todos los órganos del cuerpo. Con este masaje, podemos calmar el dolor y facilitar la eliminación de toxinas. ¡Masaje de un placer máximo!. Con productos de marcas como Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Corporal Reductor Con Fotoescultura Brazos", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Tratamiento de luz pulsada, a través del cual reducimos el volumen y la piel de naranja. Se penetran unos principios activos que, junto con la luz pulsada, reducimos el adipocito de la grasa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Facial Antiedad Pure Gold + Copa De Vino", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "¡Finísimas láminas de oro puro, que, aplicadas sobre el rostro, estimulan la renovación celular, aportando minerales y oligoelementos, alisando y reafirmando la piel!."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tratamiento estético que utiliza la presión para realizar un drenaje linfático. Sus beneficios consisten en reactivar el sistema circulatorio y aumentar la oxigenación. Estimula el sistema inmunológico, tonifica los músculos y aumenta la posibilidad de e"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Facial Foto-Rejuvenecimiento", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "A través de la fototerapia se mejora visiblemente el aspecto de la piel y reduce los signos del envejecimiento. Estimula las células de la piel con la luz especial de la fototerapia para quitarle a tu rostro esos años de encima que tanto te pesan."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Hidratación + Peeling Corporal", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Elimina todas las células muertas e hidrata intensamente toda la piel del cuerpo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tratamiento estético que utiliza la presión para realizar un drenaje linfático. Sus beneficios consisten en reactivar el sistema circulatorio y aumentar la oxigenación. Estimula el sistema inmunológico, tonifica los músculos y aumenta la posibilidad de e"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Facial Foto-Rejuvenecimiento", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "A través de la fototerapia se mejora visiblemente el aspecto de la piel y reduce los signos del envejecimiento. Estimula las células de la piel con la luz especial de la fototerapia para quitarle a tu rostro esos años de encima que tanto te pesan."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Hidratación + Peeling Corporal", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Elimina todas las células muertas e hidrata intensamente toda la piel del cuerpo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Higiene facial. Limpieza en profundidad, dejándote la piel totalmente renovada, con elasticidad y perfectamente limpia, con productos de marcas como Germaine de Capuccini. La sesión incluye:- Vapor.- Extracción.- Peeling- Masaje relajante.- Mascarilla."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje De Pies", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Masaje relajante que sirve para calmar ciertos males y tensiones. En los pies están representados todos los órganos del cuerpo. Con este masaje, podemos calmar el dolor y facilitar la eliminación de toxinas. ¡Masaje de un placer máximo!. Con productos de marcas como Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tto. Corporal Reductor Con Fotoescultura Brazos", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Tratamiento de luz pulsada, a través del cual reducimos el volumen y la piel de naranja. Se penetran unos principios activos que, junto con la luz pulsada, reducimos el adipocito de la grasa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tto. Facial Antiedad Pure Gold + Copa De Vino", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "¡Finísimas láminas de oro puro, que, aplicadas sobre el rostro, estimulan la renovación celular, aportando minerales y oligoelementos, alisando y reafirmando la piel!."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Aromaterapia", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Masaje relajante con aceites esenciales que mejoran tu salud mental y física. ¡Haz vibrar tus sentidos con intensas sensaciones!."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje De Pies", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Masaje relajante que sirve para calmar ciertos males y tensiones. En los pies están representados todos los órganos del cuerpo. Con este masaje, podemos calmar el dolor y facilitar la eliminación de toxinas. ¡Masaje de un placer máximo!. Con productos de marcas como Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Relajante Azafrán", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "¡Masaje relajante con propiedades terapéuticas y cosméticas!. Aporta equilibrio y bienestar. Como ingrediente principal el azafran. ¡Relájate!."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cejas", 
+            "duration": 900, 
+            "price": "3,5 € ", 
+            "description": "La depilación con cera es una de las técnicas más utilizadas a los largo de los años. La novedad sería la llamada “Cera de oro” de efectos menos dolorosos que la cera tradicional. Aporta un aspecto atractivo por su color, dejando la piel más suave."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera 1/2 Piernas", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "La depilación con cera es una de las técnicas más utilizadas a los largo de los años. La novedad sería la llamada “Cera de oro” de efectos menos dolorosos que la cera tradicional. Aporta un aspecto atractivo por su color, dejando la piel más suave."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera 1: Ingles Y Axilas", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Pack depilación ingles + axilas. Depilación con cera."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera 2: Ingles, Axilas Y 1/2 Piernas", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Pack depilación ingles + axilas + 1/2 Piernas. Depilación con cera."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera 3: Ingles, Axilas Y Piernas", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Pack depilación ingles + axilas + Piernas Enteras. Depilación con cera."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Tratamiento estético que utiliza la presión para realizar un drenaje linfático. Sus beneficios consisten en reactivar el sistema circulatorio y aumentar la oxigenación. Estimula el sistema inmunológico, tonifica los músculos y aumenta la posibilidad de e"
+        }
+    ]
+}

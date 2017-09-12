@@ -1,0 +1,260 @@
+{
+    "adid": null, 
+    "name": "Estética Decorativa Edem", 
+    "name_of_contact": "Estética Decorativa Edem", 
+    "scrape_page": "https://www.bucmi.com/edecoedem", 
+    "business_website": "https://www.bucmi.com/edecoedem", 
+    "areas_covered": null, 
+    "description": "Somos tu salón de Belleza en Valencia. En Edem conseguiremos que encuentres tu paz interior y que exteriormente te sientas estupenda. Nuestros servicios son muy variados, y van desde masajes,o manicuras hasta tratamientos faciales. Estamos esperándote.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636016878989533495.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636029735903223461.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636171333686582332.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636171333743613443.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46008", 
+    "formatted_address": "Valencia, 46017, Valencia, 46011, Valencia, 46013, Valencia, 46023, Valencia, 46006, Valencia, 46008", 
+    "country": "es", 
+    "office_number": "963281254", 
+    "office_number2": null, 
+    "mobile_number": "658756265", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4716045000", 
+    "longitude": "-0.3855733000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636240575557251216.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Aromaterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Porque desmaquillarse a diario no es suficiente te presentamos esta higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Además, contarás con productos de aromaterapia para que el resultado de la piel sea perfecto. Los resultados son inmediatos ¿A qué estás esperando? ¡Comprobarás que incluso el maquillaje luce mucho mejor!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Y Masaje Corporal", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Un auténtico pack dedicado a tu belleza y bienestar. Por un lado, podrás disfrutar de una higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Por otro lado, te sumergirás en un universo de relax con un masaje corporal, siempre en manos de nuestros profesionales. ¡Déjate mimar y saldrás como nuev@ de nuestro centro! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Facial Y Pedicura Normal", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "Comenzamos el tratamiento con un limpieza facial, exfoliamos tu piel, realizamos extracción si es necesario e hidratamos la piel para iluminarla. La pedicura incluye limado de las uñas, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras a elegir entre una amplia gama."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Para lucir una uña natural durante más tiempo. Se trata de una manicura completa compuesta de limado de la uña natural de la forma deseada, retirada de cutículas, hidratación y esmaltado permanente del color que más te guste de nuestra gama. Elige entre los tonos más clásicos o atrévete con la ultima tendencia. ¡No lo dudes y reserva ya cómodamente online! Te olvidarás del cuidado de tus uñas durante semanas. ¡Unas manos bonitas y cuidadas son una buena carta de presentación!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Ayurvédico O Relajante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "No lo pienses más y disfruta ya de uno de los más agradables que hayas visto nunca. Se trata de un masaje relajante que equilibrará el sistema nervioso central para canalizar energía y encontrar el equilibrio entre tu cuerpo y tu. Puedes elegir realizarlo con pindas o palos de bambú, como más te guste. Todo ello en las mejores manos. ¡Cuidarte es nuestra prioridad! Reserva ya tu cita cómodamente online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Presume de una piel joven y luminosa tras disfrutar de este agradable tratamiento facial en el que te mimaremos para que cargues las pilas al tiempo que recobras tu brillo y tono natural. Nuestros profesionales utilizan productos de primera calidad para que los resultados sean muy visibles. Utilizamos mascarillas de Vitamina C para que el cutis luzca radiante. ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Piercing (Dos Zonas O Dos Personas)", 
+            "duration": 900, 
+            "price": "50 € ", 
+            "description": "Decora la parte del cuerpo que prefieras gracias a este 2x1. El servicio se puede realizar en dos zonas del cuerpo o si lo prefieres puedes venir con la persona que prefieras y realizamos un piercing a cada uno. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Aromaterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Porque desmaquillarse a diario no es suficiente te presentamos esta higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Además, contarás con productos de aromaterapia para que el resultado de la piel sea perfecto. Los resultados son inmediatos ¿A qué estás esperando? ¡Comprobarás que incluso el maquillaje luce mucho mejor!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Masaje Corporal", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Un auténtico pack dedicado a tu belleza y bienestar. Por un lado, podrás disfrutar de una higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Por otro lado, te sumergirás en un universo de relax con un masaje corporal, siempre en manos de nuestros profesionales. ¡Déjate mimar y saldrás como nuev@ de nuestro centro! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Y Pedicura Normal", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "Comenzamos el tratamiento con un limpieza facial, exfoliamos tu piel, realizamos extracción si es necesario e hidratamos la piel para iluminarla. La pedicura incluye limado de las uñas, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras a elegir entre una amplia gama."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Porque desmaquillarse a diario no es suficiente te presentamos esta higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Los resultados son inmediatos ¿A qué estás esperando? ¡Comprobarás que incluso el maquillaje luce mucho mejor!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Antiacné", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si quieres eliminar el acné de tu piel te presentamos esta higiene facial, con la que podrás eliminar las impurezas de tu cutis, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Los resultados son inmediatos ¿A qué estás esperando? ¡Comprobarás que incluso el maquillaje luce mucho mejor! Reserva ya tu cita cómodamente online y te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Piercing", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "Si siempre has deseado tener un piercing pero no te has atrevido, no lo dudes y vena a conocernos. Se trata de un servicio de piercing que incluye la perforación y el pendiente. Puedes elegir las zonas entre el ombligo, la nariz, la ceja... Ven a nuestro centro y ponte en manos de nuestros mejores profesionales. Aprovecha esta oportunidad para hacerte el piercing que tanto tiempo llevas deseando. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "En Edem tenemos lo que necesitas para que luzcas una mirada interminable después de realizarte un tinte en tus pestañas, parecerás maquillada todo el día, mientras le dices adiós a la máscara de pestañas. Los resultados son visible durante semanas. Ponte en manos de nuestro equipo de profesionales que trabajan con productos de primera calidad. ¡Lucirás una mirada de infarto! Reserva tu cita cómodamente online y te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antienvejecimiento", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "No dejes que el paso del tiempo deje rastro sobre tu piel y ven a nuestro centro a disfrutar de este tratamiento antienvejecimiento, formado por un ritual completo de cosméticos de alta calidad adecuados para tu piel con el que conseguirás recobrar el brillo y textura de siempre, mientras le dices adiós a las pequeñas arrugas y manchas que los años han dejado en tu piel. ¿A qué estás esperando? ¡Haz tu reserva cómodamente online, a través de un solo clic!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Presume de una piel joven y luminosa tras disfrutar de este agradable tratamiento facial en el que te mimaremos para que cargues las pilas al tiempo que recobras tu brillo y tono natural. Nuestros profesionales utilizan productos de primera calidad para que los resultados sean muy visibles. Utilizamos mascarillas de Vitamina C para que el cutis luzca radiante. ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Piercing (Dos Zonas O Dos Personas)", 
+            "duration": 900, 
+            "price": "50 € ", 
+            "description": "Decora la parte del cuerpo que prefieras gracias a este 2x1. El servicio se puede realizar en dos zonas del cuerpo o si lo prefieres puedes venir con la persona que prefieras y realizamos un piercing a cada uno. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Aromaterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Porque desmaquillarse a diario no es suficiente te presentamos esta higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Además, contarás con productos de aromaterapia para que el resultado de la piel sea perfecto. Los resultados son inmediatos ¿A qué estás esperando? ¡Comprobarás que incluso el maquillaje luce mucho mejor!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Y Masaje Corporal", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Un auténtico pack dedicado a tu belleza y bienestar. Por un lado, podrás disfrutar de una higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Por otro lado, te sumergirás en un universo de relax con un masaje corporal, siempre en manos de nuestros profesionales. ¡Déjate mimar y saldrás como nuev@ de nuestro centro! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tto Facial Y Pedicura Normal", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "Comenzamos el tratamiento con un limpieza facial, exfoliamos tu piel, realizamos extracción si es necesario e hidratamos la piel para iluminarla. La pedicura incluye limado de las uñas, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras a elegir entre una amplia gama."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Porque desmaquillarse a diario no es suficiente te presentamos esta higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Los resultados son inmediatos ¿A qué estás esperando? ¡Comprobarás que incluso el maquillaje luce mucho mejor!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Antiacné", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Si quieres eliminar el acné de tu piel te presentamos esta higiene facial, con la que podrás eliminar las impurezas de tu cutis, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Los resultados son inmediatos ¿A qué estás esperando? ¡Comprobarás que incluso el maquillaje luce mucho mejor! Reserva ya tu cita cómodamente online y te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Piercing", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "Si siempre has deseado tener un piercing pero no te has atrevido, no lo dudes y vena a conocernos. Se trata de un servicio de piercing que incluye la perforación y el pendiente. Puedes elegir las zonas entre el ombligo, la nariz, la ceja... Ven a nuestro centro y ponte en manos de nuestros mejores profesionales. Aprovecha esta oportunidad para hacerte el piercing que tanto tiempo llevas deseando. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "En Edem tenemos lo que necesitas para que luzcas una mirada interminable después de realizarte un tinte en tus pestañas, parecerás maquillada todo el día, mientras le dices adiós a la máscara de pestañas. Los resultados son visible durante semanas. Ponte en manos de nuestro equipo de profesionales que trabajan con productos de primera calidad. ¡Lucirás una mirada de infarto! Reserva tu cita cómodamente online y te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Antienvejecimiento", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "No dejes que el paso del tiempo deje rastro sobre tu piel y ven a nuestro centro a disfrutar de este tratamiento antienvejecimiento, formado por un ritual completo de cosméticos de alta calidad adecuados para tu piel con el que conseguirás recobrar el brillo y textura de siempre, mientras le dices adiós a las pequeñas arrugas y manchas que los años han dejado en tu piel. ¿A qué estás esperando? ¡Haz tu reserva cómodamente online, a través de un solo clic!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Presume de una piel joven y luminosa tras disfrutar de este agradable tratamiento facial en el que te mimaremos para que cargues las pilas al tiempo que recobras tu brillo y tono natural. Nuestros profesionales utilizan productos de primera calidad para que los resultados sean muy visibles. Utilizamos mascarillas de Vitamina C para que el cutis luzca radiante. ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Piercing (Dos Zonas O Dos Personas)", 
+            "duration": 900, 
+            "price": "50 € ", 
+            "description": "Decora la parte del cuerpo que prefieras gracias a este 2x1. El servicio se puede realizar en dos zonas del cuerpo o si lo prefieres puedes venir con la persona que prefieras y realizamos un piercing a cada uno. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Aromaterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Porque desmaquillarse a diario no es suficiente te presentamos esta higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Además, contarás con productos de aromaterapia para que el resultado de la piel sea perfecto. Los resultados son inmediatos ¿A qué estás esperando? ¡Comprobarás que incluso el maquillaje luce mucho mejor!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Y Masaje Corporal", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Un auténtico pack dedicado a tu belleza y bienestar. Por un lado, podrás disfrutar de una higiene facial, con la que podrás eliminar las impurezas de tu piel, consiguiendo una tez más limpia, suave, tersa y con un aspecto más saludable y bonito. Por otro lado, te sumergirás en un universo de relax con un masaje corporal, siempre en manos de nuestros profesionales. ¡Déjate mimar y saldrás como nuev@ de nuestro centro! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto Facial Y Pedicura Normal", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "Comenzamos el tratamiento con un limpieza facial, exfoliamos tu piel, realizamos extracción si es necesario e hidratamos la piel para iluminarla. La pedicura incluye limado de las uñas, retirada de cutículas, eliminación de durezas y esmaltado del color que prefieras a elegir entre una amplia gama."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Piercing (Dos Zonas O Dos Personas)", 
+            "duration": 900, 
+            "price": "50 € ", 
+            "description": "Decora la parte del cuerpo que prefieras gracias a este 2x1. El servicio se puede realizar en dos zonas del cuerpo o si lo prefieres puedes venir con la persona que prefieras y realizamos un piercing a cada uno. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }
+    ]
+}

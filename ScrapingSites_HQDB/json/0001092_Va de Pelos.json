@@ -1,0 +1,168 @@
+{
+    "adid": null, 
+    "name": "Va de Pelos", 
+    "name_of_contact": "Va de Pelos", 
+    "scrape_page": "https://www.bucmi.com/vadepelos", 
+    "business_website": "https://www.bucmi.com/vadepelos", 
+    "areas_covered": null, 
+    "description": "Somos tu centro de belleza y peluquería donde encontrarás los servicios que estabas buscando. Los mejores profesionales a tan sólo un click. Te asesoramos para que luzcas siempre reluciente. Ven a visitarnos al barrio de Montjuic, y no te arrepentirás.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635885813601057734.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635907861018545481.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635907861090420151.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "9,1", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bonaplata, 24", 
+    "city": "Barcelona", 
+    "zipcode": "08038", 
+    "formatted_address": "C/ Bonaplata, 24, Barcelona, 08038", 
+    "country": "es", 
+    "office_number": "934210993", 
+    "office_number2": null, 
+    "mobile_number": "665776969", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3593826000", 
+    "longitude": "2.1393008999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966583817894977.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "11,55 € ", 
+            "description": "Los cambios de look, no son sólo cosa de chica. Si tienes 30 minutos en tu agenda, reserva un corte de pelo. El servicio Incluye lavado corte y peinado con producto de acabado (Gomina , Cera)"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "13,1 € ", 
+            "description": "Si lo que necesitas es un buen corte para sanear tu melena , este es tu servicio. Te asesoraremos si no sabes muy bien por dónde tirar, para que salgas encantada de nuestro centro. Incluye corte y lavado, no secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "Renueva tu look y tu melena con un corte y peinado. Si aún no sabes que escoger, podemos asesorarte para que el look se adapte a tu estilo y tipo de cabello. Este servicio incluye lavado, corte y peinado peinado corto. Ideal para cualquier ocasión."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinado En Largo", 
+            "duration": 9000, 
+            "price": "44,3 € ", 
+            "description": "Hazte un cambio de look completo con nuestro servicio de color, cortar y peinado para media melena . El servicio incluye lavado, color, corte y peinado. Te aconsejaremos y asesoraremos para que luzcas perfecta en todo momento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinado En Media Melena", 
+            "duration": 7200, 
+            "price": "39,25 € ", 
+            "description": "Hazte un cambio de look completo con nuestro servicio de color, cortar y peinado para media melena . El servicio incluye lavado, color, corte y peinado. Te aconsejaremos y asesoraremos para que luzcas perfecta en todo momento. ."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinado En Pelo Corto", 
+            "duration": 7200, 
+            "price": "35,55 € ", 
+            "description": "Hazte un cambio de look completo con nuestro servicio de color, cortar y peinado para cabellos largos. El servicio incluye lavado, color, corte y peinado. Te aconsejaremos y asesoraremos para que luzcas perfecta en todo momento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "11,55 € ", 
+            "description": "Los cambios de look, no son sólo cosa de chica. Si tienes 30 minutos en tu agenda, reserva un corte de pelo. El servicio Incluye lavado corte y peinado con producto de acabado (Gomina , Cera)"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "13,1 € ", 
+            "description": "Si lo que necesitas es un buen corte para sanear tu melena , este es tu servicio. Te asesoraremos si no sabes muy bien por dónde tirar, para que salgas encantada de nuestro centro. Incluye corte y lavado, no secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado En Media Melena", 
+            "duration": 2700, 
+            "price": "23,9 € ", 
+            "description": "Un cambio radical a veces es justo lo que necesitamos. Hazte un corte arriesgado, o si prefieres algo más sutil... De cualquier forma te dejaremos estupenda en tan solo 45 minutos.Este servicio incluye lavado, corte y peinado de media melena"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "26,9 € ", 
+            "description": "Un cambio radical a veces es justo lo que necesitamos. Hazte un corte arriesgado, o si prefieres algo más sutil... De cualquier forma te dejaremos estupenda en tan solo 45 minutos. Este servicio incluye lavado, corte y peinado peinado largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinado En Pelo Corto", 
+            "duration": 3600, 
+            "price": "42,52 € ", 
+            "description": "Prueba nuestro servicio de mechas y cautiva todas las miradas. El servicio incluye lavado, Mechas, corte y peinado en pelo corto. Te dejaremos ideal, y perfecta para cualquier ocasión, además te asesoraremos sobre los tonos que mejor te vayan."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "49,3 € ", 
+            "description": "Con nuestro servicio de mechas, crearemos un look de lo más actual. El servicio incluye lavado, Mechas, corte y peinado en media melena.Te dejaremos ideal, y perfecta para cualquier ocasión, además te asesoraremos sobre los tonos que mejor te vayan."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar Pelo Largo", 
+            "duration": 9000, 
+            "price": "54,4 € ", 
+            "description": "Descubre ya nuestro servicio de mechas, cortar y peinar y hazte un cambio de look de lo más chic. El servicio incluye lavado, mechas, corte y peinado en pelo largo. Te dejaremos ideal, y perfecta para cualquier ocasión, además te asesoraremos sobre los tonos que mejor te vayan."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Reconstructor Capilar 4 Sesiones Media Melena", 
+            "duration": 2700, 
+            "price": "73,6 € ", 
+            "description": "Si dispones un cabello estropeado o maltratado del tinte o de mechas continuas que sueles realizarte este es el servicio idóneo. Conseguirás reestructuar la fibra capilar. Es un tratamiento muy similar a la queratina pero otro tipo de componente. Este tratamiento se aplica en 4 sesiones al mes y te regalamos un champú de tratamiento para que puedas continuar en casa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Reconstructor Capilar 4 Sesiones Pelo Corto", 
+            "duration": 2700, 
+            "price": "68 € ", 
+            "description": "Si dispones un cabello estropeado o maltratado del tinte o de mechas continuas que sueles realizarte este es el servicio idóneo. Conseguirás reestructuar la fibra capilar. Es un tratamiento muy similar a la queratina pero otro tipo de componente. Este tratamiento se aplica en 4 sesiones al mes y te regalamos un champú de tratamiento para que puedas continuar en casa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Reconstructor Capilar 4 Sesiones Pelo Largo", 
+            "duration": 2700, 
+            "price": "85,2 € ", 
+            "description": "Si dispones un cabello estropeado o maltratado del tinte o de mechas continuas que sueles realizarte este es el servicio idóneo. Conseguirás reestructuar la fibra capilar. Es un tratamiento muy similar a la queratina pero otro tipo de componente. Este tratamiento se aplica en 4 sesiones al mes y te regalamos un champú de tratamiento para que puedas continuar en casa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "Renueva tu look y tu melena con un corte y peinado. Si aún no sabes que escoger, podemos asesorarte para que el look se adapte a tu estilo y tipo de cabello. Este servicio incluye lavado, corte y peinado peinado corto. Ideal para cualquier ocasión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Cortar Y Peinado En Largo", 
+            "duration": 9000, 
+            "price": "44,3 € ", 
+            "description": "Hazte un cambio de look completo con nuestro servicio de color, cortar y peinado para media melena . El servicio incluye lavado, color, corte y peinado. Te aconsejaremos y asesoraremos para que luzcas perfecta en todo momento."
+        }
+    ]
+}

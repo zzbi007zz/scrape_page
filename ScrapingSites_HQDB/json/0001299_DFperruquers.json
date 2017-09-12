@@ -1,0 +1,119 @@
+{
+    "adid": null, 
+    "name": "DFperruquers", 
+    "name_of_contact": "DFperruquers", 
+    "scrape_page": "https://www.bucmi.com/dfperruquers", 
+    "business_website": "https://www.bucmi.com/dfperruquers", 
+    "areas_covered": null, 
+    "description": "Bienvenido a nuestro moderno salón de peluquería. Nuestro principio fundamental es realzar el valor del cabello. Un peinado refleja las tendencias de la moda e irradia belleza. Ven a vernos a Nou Barris y disfruta de cortes de moda, tintes de alta gama..", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635495928011262934.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635495928036577464.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635495928062360756.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08031", 
+    "formatted_address": "Barcelona, 08025, Barcelona, 08031", 
+    "country": "es", 
+    "office_number": "934206567", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4284385000", 
+    "longitude": "2.1728051000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966682800739816.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Celulas Madre", 
+            "duration": 2700, 
+            "price": "31,5 € ", 
+            "description": "Tratamiento de células madre capilar que te ayudarán a estabilizar los ciclos de crecimiento y para te asegura a que el pelo crezca más fuerte, y de esta manera frenar el proceso de pérdida de cabello. Incluye: lavado y tratamiento células madre"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Ponte guapo con este servicio con corte y secado. Incluye también lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Chica", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Elige el corte de pelo que mejor te siente, asesorada por nuestros estilistas. El servicio no incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Celulas Madre", 
+            "duration": 2700, 
+            "price": "31,5 € ", 
+            "description": "Tratamiento de células madre capilar que te ayudarán a estabilizar los ciclos de crecimiento y para te asegura a que el pelo crezca más fuerte, y de esta manera frenar el proceso de pérdida de cabello. Incluye: lavado y tratamiento células madre"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Consigue un pelo liso, suave y brillante con un alisado de Keratina. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "26,5 € ", 
+            "description": "Luce tu melena con un corte de pelo realizado por nuestros profesionales. Incluye lavar, corte, secar y peinar"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "24,5 € ", 
+            "description": "Renueva el look en tu cabello corto con este servicio que incluye lavado, corte, secado y peinado. Ponte guapa cuando tú quieras."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 2700, 
+            "price": "28,5 € ", 
+            "description": "Nuevo look o simplemente puntas? Tú decides asesorada por nuestros profesionales. Incluye lavado,corte, secado y peinado"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Ponte guapo con este servicio con corte y secado. Incluye también lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chica", 
+            "duration": 3600, 
+            "price": "17,5 € ", 
+            "description": "Elige el corte de pelo que mejor te siente, asesorada por nuestros estilistas. El servicio no incluye peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar Celulas Madre", 
+            "duration": 2700, 
+            "price": "31,5 € ", 
+            "description": "Tratamiento de células madre capilar que te ayudarán a estabilizar los ciclos de crecimiento y para te asegura a que el pelo crezca más fuerte, y de esta manera frenar el proceso de pérdida de cabello. Incluye: lavado y tratamiento células madre"
+        }
+    ]
+}

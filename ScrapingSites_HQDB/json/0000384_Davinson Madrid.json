@@ -1,0 +1,128 @@
+{
+    "adid": null, 
+    "name": "Davinson Madrid", 
+    "name_of_contact": "Davinson Madrid", 
+    "scrape_page": "https://www.bucmi.com/davinsonmadrid", 
+    "business_website": "https://www.bucmi.com/davinsonmadrid", 
+    "areas_covered": null, 
+    "description": "Descubre tu centro de peluquería y estética en Madrid y Talavera donde encontrarás gran oferta de servicios para el cuidado de tu cabello y de tu piel con asesoramiento personalizado y gran profesionalidad.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635857971155242489.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635857971172429724.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635857971192586166.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635857971206335783.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635857971220866994.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "6,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Lagasca, 72", 
+    "city": "Madrid", 
+    "zipcode": "28028", 
+    "formatted_address": "C/ Lagasca, 72, Madrid, 28028", 
+    "country": "es", 
+    "office_number": "915044671", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4236953000", 
+    "longitude": "-3.6674616999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908659908553339.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Este servicio incluye: lavar y cortar. No incluye peinar. ¿Te apetece cambiar de look? ¿O simplemente sanear tu pelo? Ven a Davinson Madrid y ponte en manos de nuestros mejores profesionales. Disfrutarás de un pelo cuidado, sedoso y luminoso. Luce una melena mucho más fortalecida. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Organico Taninoplastia", 
+            "duration": 10800, 
+            "price": "400 € ", 
+            "description": "Este tratamiento consiste en un alisado de la melena con productos orgánicos, fuera de sulfatos y otros químicos, para que tu pelo quede brillante y lleno de vida. Este tratamiento es capaz de controlar y moldear tu melena, eliminando el encrespamiento y mantenerla con una apariencia más sana, sedosa y brillante por mucho más tiempo. Di adiós a los rizos o al encrespamiento. Reserva ahora tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar Y Peinar Pelo Corto Mujer", 
+            "duration": 1800, 
+            "price": "25,5 € ", 
+            "description": "Este servicio incluye: Lavar, Cortar y Peinar para cabellos cortos. ¿Quieres cambiar de look? ¿O simplemente sanear tus puntas? Ven a Davinson Madrid y ponte en manos de nuestros mejores peluqueros profesionales. Te asesorarán en todo momento y te encantará tu nuevo corte. Luce una melena bonita, sedosa y cuidada. Disfruta de un cabello fortalecido. Reserva ahora tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Kobido", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Es un masaje reafirmante facial. Es una técnica renovada traída de Japón, ideal para quienes buscan quitarse unos años de encima sin acercarse al bisturí. ¿Quieres lucir una piel mucho más tersa y joven? Ven a tu Peluquería y Estética Davinson y ponte en manos de nuestros mejores profesionales. Disfruta de una piel joven y libre de signos de envejecimiento. Disfruta de un cutis mucho más tersa y de apariencia luminosa. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Este servicio incluye: lavar y cortar. No incluye peinar. ¿Te apetece cambiar de look? ¿O simplemente sanear tu pelo? Ven a Davinson Madrid y ponte en manos de nuestros mejores profesionales. Disfrutarás de un pelo cuidado, sedoso y luminoso. Luce una melena mucho más fortalecida. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Organico Taninoplastia", 
+            "duration": 10800, 
+            "price": "400 € ", 
+            "description": "Este tratamiento consiste en un alisado de la melena con productos orgánicos, fuera de sulfatos y otros químicos, para que tu pelo quede brillante y lleno de vida. Este tratamiento es capaz de controlar y moldear tu melena, eliminando el encrespamiento y mantenerla con una apariencia más sana, sedosa y brillante por mucho más tiempo. Di adiós a los rizos o al encrespamiento. Reserva ahora tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Cortar Y Peinar Media Melena Mujer", 
+            "duration": 7200, 
+            "price": "59,5 € ", 
+            "description": "Este servicio incluye: Color, Lavar, Cortar y Peinado con Brushing para media melena. ¿Quieres lucir un nuevo look? ¿Cambiar tu imagen? Ven a Davinson Madrid y ponte en manos de los mejores profesionales. Te encantará el resultado. Disfruta de un color bonito que dará luminosidad a tu melena. Luce un pelo sedoso, hidratado y fortalecido. Aprovecha ahora este pack y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Pelo Corto Mujer", 
+            "duration": 7200, 
+            "price": "47 € ", 
+            "description": "Este servicio incluye: Color, Lavar, Cortar y Peinado con Brushing para pelo corto. ¿Quieres lucir un nuevo look? ¿Cambiar tu imagen? Ven a Davinson Madrid y ponte en manos de los mejores profesionales. Te encantará el resultado. Disfruta de un color bonito que dará luminosidad a tu melena. Luce un pelo sedoso, hidratado y fortalecido. Aprovecha ahora este pack y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto Mujer", 
+            "duration": 1800, 
+            "price": "25,5 € ", 
+            "description": "Este servicio incluye: Lavar, Cortar y Peinar para cabellos cortos. ¿Quieres cambiar de look? ¿O simplemente sanear tus puntas? Ven a Davinson Madrid y ponte en manos de nuestros mejores peluqueros profesionales. Te asesorarán en todo momento y te encantará tu nuevo corte. Luce una melena bonita, sedosa y cuidada. Disfruta de un cabello fortalecido. Reserva ahora tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Este servicio incluye: lavar,cortar y secar. A los hombres también les gusta estar guapos y cambiar su corte de pelo o dar un nuevo aire a su imagen. Por eso en Davinson Madrid también pensamos en ellos. Ven y ponte en manos de nuestros mejores profesionales, te asesorarán en todo momento. Te encantará tu nuevo look. Disfruta de un cabello sano y cuidado. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar Pelo Corto Mujer", 
+            "duration": 7200, 
+            "price": "65,5 € ", 
+            "description": "Este servicio incluye: Lavar, mechas, cortar y peinar con Brushing para pelos cortos. ¿Quieres cambiar tu look? ¿O retocarte las mechas porque ya se ve la raíz de tu pelo? Ven a Davinson Madrid y aprovecha este pack. Luce una melena cuidada, bonita, hidratada y luminosa. Disfruta de tu nuevo corte de pelo y fortalece tu melena. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Este servicio incluye: lavar y cortar. No incluye peinar. ¿Te apetece cambiar de look? ¿O simplemente sanear tu pelo? Ven a Davinson Madrid y ponte en manos de nuestros mejores profesionales. Disfrutarás de un pelo cuidado, sedoso y luminoso. Luce una melena mucho más fortalecida. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "adid": null, 
+    "name": "Ikebana salud y belleza", 
+    "name_of_contact": "Ikebana salud y belleza", 
+    "scrape_page": "https://www.bucmi.com/ikebana", 
+    "business_website": "https://www.bucmi.com/ikebana", 
+    "areas_covered": null, 
+    "description": "En Ikebana contarás con profesionales altamente cualificados y encontrarás servicios y tratamientos a medida. Disfruta de un ambiente acogedor y siéntete bien por fuera.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635778495114809209.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635778510526678656.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635778514346711782.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "7,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "50010", 
+    "formatted_address": "Zaragoza, 50005, Zaragoza, 50010", 
+    "country": "es", 
+    "office_number": "976093404", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6485447000", 
+    "longitude": "-0.8940835999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636063448091426362.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Disfruta de una higiene facial muy completa, con peeling de ultrasonidos. ¡Limpia tú piel graciasa nuestros expertos esteticistas y disfruta de los resultados! Incluye el desmaquillado de la piel, tonificación, eliminación de impurezas, y mascarilla hidratante final para completar el tratamiento. ¡Y presume de cutis!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestaña Efecto Seda", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "¡Olvídate de tu mascarás de pestañas! Gracias a nuestra extensión de pestañas no tendrás que usarla más, conseguirás una mirada que hipnotizará a cualquiera. El servicio incluye la primera puesta de las pestañas. Las colocaremos pelo a pelo sobre tu pestaña original para que luzcas una mirada penetrante, al más puro estilo de las celebrities. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Presume de unas manos bonitas y de aspecto cuidado gracias a nuestros expertos esteticistas de Ikebana que se encargarán de su cuidado con gran profesionalidad. El servicio incluye el limado de la uña, el cuidado de las cutículas, la hidratación de la piel y el esmaltado a escoger entre todos nuestros colores. Escoge tu color favorito de nuestra paleta de esmaltes y disfruta del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 14 Sesiones Cavitacion Y Presoterapia", 
+            "duration": 3600, 
+            "price": "630 € ", 
+            "description": "La sesión incluye de manera combinada 30 minutos de cavitación, donde gracias al efecto calor de la aparatología romperemos los nódulos de grasa localizada para que pierdas volumen y elimines la celulitis localizada. También incluye 30 minutos de presoterapia para que podamos drenar de forma natural la zona y el efecto sea completo. Haz ya tu reserva en nuestro centro y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones De Lipolisis Con Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Gracias a este completo bono de 5 sesiones de Ikebana, conseguirás moldear tu figura a la vez que reafirmas tu piel gracias a que incluímos en cada sesión una sesión de lipólisis que quema la grasa y 30 minutos de presoterapia para drenar de forma natural la zona."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "380 € ", 
+            "description": "Reafirma tu rostro con radiofrecuencia facial. ¡Efecto lifting, sin cirugía! Consigue una piel luminosa, cuidada y más jóven. Acaba con la flacidez de tu rostro. Tu piel lucirá más joven gracias a nuestra aparatología de calidad. Haz tu reserva en nuestro centro de Ikebana y comienza a disfrutar de los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 8 Sesiones Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "360 € ", 
+            "description": "La sesión incluye de manera combinada 30 minutos de cavitación, donde gracias al efecto calor de la aparatología romperemos los nódulos de grasa localizada para que pierdas volumen y elimines la celulitis localizada. También incluye 30 minutos de presoterapia para que podamos drenar de forma natural la zona y el efecto sea completo. Haz ya tu reserva en nuestro centro y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Descubre los beneficios de la presoterapia y consigue que tu piel quede más firme y suave a la vez que mejoramos tu circulación gracias al juego de corrientes de agua de la presoterapia, eliminando así el efecto de piernas cansadas y la celulitis en tu cuerpo. Haz ya tu reserva y no te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal De Sales Y Limón De Sicilia", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "¿Piel de bebé? Disfruta de ella con este peeling corporal de sales y limón de Sicilia. Cuida siempre tu piel, este servicio eliminarás las células sobrantes de tu piel con el extra de limón de Sicilia. ¿A qué esperas para hacer tu reserva online en nuestro centro? No te arrepentirás del resultado gracias a nuestros expertos esteticistas. De un solo clic con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Específico Vitamínico", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Consigue la vitalidad perdida del rostro, gracias a este tratamiento facial específico de vitamina C y granada. Este tratamiento aporta hidratación y nutrición a tu apagada de piel, de modo que consigue un efecto luminosidad con el que te sentirás renovada. Haz ya tu reserva en Ikebana y no te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "190 € ", 
+            "description": "Reafirma tu rostro con radiofrecuencia facial. ¡Efecto lifting, sin cirugía! Consigue una piel luminosa, cuidada y más jóven. Acaba con la flacidez de tu rostro. Tu piel lucirá más joven gracias a nuestra aparatología de calidad. Haz tu reserva en nuestro centro de Ikebana y comienza a disfrutar de los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Disfruta de una higiene facial muy completa, con peeling de ultrasonidos. ¡Limpia tú piel graciasa nuestros expertos esteticistas y disfruta de los resultados! Incluye el desmaquillado de la piel, tonificación, eliminación de impurezas, y mascarilla hidratante final para completar el tratamiento. ¡Y presume de cutis!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La sesión incluye de manera combinada 30 minutos de cavitación, donde gracias al efecto calor de la aparatología romperemos los nódulos de grasa localizada para que pierdas volumen y elimines la celulitis localizada. También incluye 30 minutos de presoterapia para que podamos drenar de forma natural la zona y el efecto sea completo. Haz ya tu reserva en nuestro centro y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestaña Efecto Seda", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "¡Olvídate de tu mascarás de pestañas! Gracias a nuestra extensión de pestañas no tendrás que usarla más, conseguirás una mirada que hipnotizará a cualquiera. El servicio incluye la primera puesta de las pestañas. Las colocaremos pelo a pelo sobre tu pestaña original para que luzcas una mirada penetrante, al más puro estilo de las celebrities. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mantenimiento Extensiones Pestañas 3 Semanas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Se aconseja que a las tres semanas reserva en Ikebana nuestro servicio de mantenimiento de extensiones de pestañas, donde retocaremos tu look colocando pelo a pelo las pestañas que se van cayendo durante este periodo. Si reservas pasando más de tres semanas consulta posible suplemento con nosotros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Descubre los beneficios de la presoterapia y consigue que tu piel quede más firme y suave a la vez que mejoramos tu circulación gracias al juego de corrientes de agua de la presoterapia, eliminando así el efecto de piernas cansadas y la celulitis en tu cuerpo. Haz ya tu reserva y no te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial Reafirmante", 
+            "duration": 2700, 
+            "price": "38 € ", 
+            "description": "Reafirma tu rostro con radiofrecuencia facial. ¡Efecto lifting, sin cirugía! Consigue una piel luminosa, cuidada y más jóven. Acaba con la flacidez de tu rostro. Tu piel lucirá más joven gracias a nuestra aparatología de calidad. Haz tu reserva en nuestro centro de Ikebana y comienza a disfrutar de los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 14 Sesiones Cavitacion Y Presoterapia", 
+            "duration": 3600, 
+            "price": "630 € ", 
+            "description": "La sesión incluye de manera combinada 30 minutos de cavitación, donde gracias al efecto calor de la aparatología romperemos los nódulos de grasa localizada para que pierdas volumen y elimines la celulitis localizada. También incluye 30 minutos de presoterapia para que podamos drenar de forma natural la zona y el efecto sea completo. Haz ya tu reserva en nuestro centro y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 5 Sesiones De Lipolisis Con Presoterapia", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Gracias a este completo bono de 5 sesiones de Ikebana, conseguirás moldear tu figura a la vez que reafirmas tu piel gracias a que incluímos en cada sesión una sesión de lipólisis que quema la grasa y 30 minutos de presoterapia para drenar de forma natural la zona."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "380 € ", 
+            "description": "Reafirma tu rostro con radiofrecuencia facial. ¡Efecto lifting, sin cirugía! Consigue una piel luminosa, cuidada y más jóven. Acaba con la flacidez de tu rostro. Tu piel lucirá más joven gracias a nuestra aparatología de calidad. Haz tu reserva en nuestro centro de Ikebana y comienza a disfrutar de los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 8 Sesiones Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "360 € ", 
+            "description": "La sesión incluye de manera combinada 30 minutos de cavitación, donde gracias al efecto calor de la aparatología romperemos los nódulos de grasa localizada para que pierdas volumen y elimines la celulitis localizada. También incluye 30 minutos de presoterapia para que podamos drenar de forma natural la zona y el efecto sea completo. Haz ya tu reserva en nuestro centro y no te arrepentirás del resultado."
+        }
+    ]
+}

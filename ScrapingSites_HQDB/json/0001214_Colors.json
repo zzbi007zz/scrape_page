@@ -1,0 +1,192 @@
+{
+    "adid": null, 
+    "name": "Colors", 
+    "name_of_contact": "Colors", 
+    "scrape_page": "https://www.bucmi.com/colorsbcn", 
+    "business_website": "https://www.bucmi.com/colorsbcn", 
+    "areas_covered": null, 
+    "description": "Peluquería Color, inaugurado desde el 1995. Ven a conocer nuestras instalaciones y descubrirás las ventajas, los productos de calidad y las numerosas ofertas de servicios que ofertamos. Nos encontramos muy cerca del Camp Nou. ¡Conoce nuestro servicio!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635893419586363402.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635919219047797172.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635919220939237956.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635919220976269053.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635919222787832312.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635919227338152615.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08028", 
+    "formatted_address": "Barcelona, Barcelona, Barcelona, 08036, Barcelona, 08007, Barcelona, 08034, Barcelona, 08029, Barcelona, Barcelona, Barcelona, 08028", 
+    "country": "es", 
+    "office_number": "934907762", 
+    "office_number2": null, 
+    "mobile_number": "633676490", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3814003000", 
+    "longitude": "2.1270907000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966689988362848.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "41,4 € ", 
+            "description": "Este servicio incluye: Manicura con limado, retirada de cutícula, masaje y esmaltado de uñas. Y Pedicura con corte de uñas y limado, retirada de durezas, masaje y esmaltado de uñas. Solo tendrás que escoger el color que más te guste."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Con este servicio de permanente y tinte de pestañas, lograrás un efecto mascara de forma permanente. No te hará falta ni el uso del rizador de pestañas. ¡Ven a vernos! No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antiedad", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamientos completos CASMARA ,prueba estos tra.faciales durante una hora tu piel recibira y alta dosis de vitaminas y minerales y la estupendas mascarillas peel-off,indicado para todo tipos de piel y testados dermatologicamente"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "este servicio incluye: Lavado de cabello con champú neutro y corte,enjuaje y secado con producto de acabado si así se desea .También se dispone de servicio de asesoramiento. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Baño de color sin amoniaco, lavado de cabello con masaje craneal y secado del cabello con secador. Luce el color que siempre has querido de la mano de los mejores profesionales, gracias a este servicio que ahora puedes reservar online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Keratina Media Melena", 
+            "duration": 7200, 
+            "price": "80 € ", 
+            "description": "Este servicio incluye: Alisado con Brasil Caacao Lavado de cabello con champú de arrastre de partículas para que el cabello quede receptivo al tratamiento, secado. Comenzaremos con el alisador el cual contiene Keratina, una vez terminado pasaremos al secado al aire y luego pasaremos la plancha para asegurar el resultado. Una vez terminado 10 mm de reposo y terminaremos neutralizando con la mascarilla de Keratina que se encargara de cerrar la cutícula."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflejos A Peine", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "Si notas tu cabello apagado, quieres hacerle algún cambio pero no sabes bien que hacerte. Estos reflejos realizados a peine pueden ser una gran idea. El resultado es más natural que las mechas y además no tocamos raíces."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "este servicio incluye: Lavado de cabello con champú neutro y corte,enjuaje y secado con producto de acabado si así se desea .También se dispone de servicio de asesoramiento. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer Y Peinado Corto", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "Si tienes el cabello corto y quieres realizarte un corte y peinado para irte ideal. No sabemos a que esperas para reservar en nuestro centro. Te hacemos masaje craneal y lavamos con champú neutro. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Baño de color sin amoniaco, lavado de cabello con masaje craneal y secado del cabello con secador. Luce el color que siempre has querido de la mano de los mejores profesionales, gracias a este servicio que ahora puedes reservar online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Largo", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Porque aunque tienes un pelo largo, vas con regularidad a la peluquería, te ofrecemos este corte con posterior peinado. Además te damos un masaje craneal, con el que te olvidarás de las preocupaciones..."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¿Quiéres cambiarte el peinado? ¿Renovar tu look? Te proponemos este Pack de corte y peinado en media melena, incluye lavado con champú neutro y masaje craneal. Reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Keratina Media Melena", 
+            "duration": 7200, 
+            "price": "80 € ", 
+            "description": "Este servicio incluye: Alisado con Brasil Caacao Lavado de cabello con champú de arrastre de partículas para que el cabello quede receptivo al tratamiento, secado. Comenzaremos con el alisador el cual contiene Keratina, una vez terminado pasaremos al secado al aire y luego pasaremos la plancha para asegurar el resultado. Una vez terminado 10 mm de reposo y terminaremos neutralizando con la mascarilla de Keratina que se encargara de cerrar la cutícula."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Media Melena", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Te apetece verte guapa, o tienes algún evento y necesitas que peinemos tu pelo. Ven a vernos y nosotros te asesoraremos. Incluye lavado con champú neutro y masaje craneal. Servicio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Si quieres y necesitas peinar tu cabello corto, ven a vernos y nosotros te asesoraremos. Incluye lavado con champú neutro y masaje craneal. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Largo", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Si quieres pasar por la peluquería a peinar tu cabello largo, nosotros te asesoraremos y dejaremos estupenda. Incluye lavado con champú neutro y masaje craneal. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Reflejos A Peine", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "Si notas tu cabello apagado, quieres hacerle algún cambio pero no sabes bien que hacerte. Estos reflejos realizados a peine pueden ser una gran idea. El resultado es más natural que las mechas y además no tocamos raíces."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "este servicio incluye: Lavado de cabello con champú neutro y corte,enjuaje y secado con producto de acabado si así se desea .También se dispone de servicio de asesoramiento. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Para Mujer Y Peinado Corto", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "Si tienes el cabello corto y quieres realizarte un corte y peinado para irte ideal. No sabemos a que esperas para reservar en nuestro centro. Te hacemos masaje craneal y lavamos con champú neutro. Reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "este servicio incluye: Lavado de cabello con champú neutro y corte,enjuaje y secado con producto de acabado si así se desea .También se dispone de servicio de asesoramiento. No esperes más y reserva ahora tu cita online."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "este servicio incluye: Lavado de cabello con champú neutro y corte,enjuaje y secado con producto de acabado si así se desea .También se dispone de servicio de asesoramiento. No esperes más y reserva ahora tu cita online."
+        }
+    ]
+}

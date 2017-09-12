@@ -1,0 +1,217 @@
+{
+    "adid": null, 
+    "name": "Marisa Mayor", 
+    "name_of_contact": "Marisa Mayor", 
+    "scrape_page": "https://www.bucmi.com/marisamayor", 
+    "business_website": "https://www.bucmi.com/marisamayor", 
+    "areas_covered": null, 
+    "description": "Llevamos 15 años trabajando en el mundo de la estética. Disponemos de variedad de servicios especializados sobre todo en micropigmentación, servicios de novia. depilacion, tratamientos faciales y corporales... Reserva online en nuestro centro de belleza.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635501860855645435.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635501860888929305.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635501860917994090.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cisne, 7", 
+    "city": "Granada", 
+    "zipcode": "18014", 
+    "formatted_address": "C/ Cisne, 7, Granada, 18014", 
+    "country": "es", 
+    "office_number": "958209776", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1856125000", 
+    "longitude": "-3.6103287999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962455365901015.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Con Cera Ingles", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "Depilacion con cera tibia o caliente, dependiendo según el tipo de piel. La cera es de un sólo uso en todos los casos. Obtendrás un trato único e incondicional en nuestro centro de Marisa Mayor."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño Cejas", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Consigue un diseño de cejas acorde con tu rostro. Se realiza un visagismo según las facciones de tu rostro. Consigue una mirada perfecta con las cejas cuidadas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Reafirmante Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Incluye: productos específicos según la piel con radiofrecuencia, masaje y mascarilla. Consiguirás un resultado reafirmante en la piel. El tratamiento es personalizado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "Servicio para el cuidado de las manos. Incluye: Limado, corte de la uña, tratamiento de cuticulas si es necesario y maquillado de uña. Incluye la francesa a elegir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Podológica", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Limado, cortar uñas, quitar cayos, durezas, ojos de gallo, masaje y maquillado de uñas si se requiere. Si se requiere de parafina consulte con el profesional por posible suplemento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "3 Sesiones Tratamientos Corporal Anticelulitico", 
+            "duration": 2700, 
+            "price": "95 € ", 
+            "description": "Masaje especial con producto de quemagrasas, aplicacion de fango caliente. Se hace una envoltura y se deja actuar el producto y se retira y se aplica otro producto quemagrasas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación (Cejas)", 
+            "duration": 3600, 
+            "price": "145 € ", 
+            "description": "Con anestesia local, diseño de trabajo y se trabaja con producto mineral para el tatuaje. (no contiene químicos). En Marisa Mayor obtendrás un trato excelente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación (Labios)", 
+            "duration": 3600, 
+            "price": "205 € ", 
+            "description": "Con anestesia local, diseño de trabajo, se trabaja con producto mineral para el tatuaje. (no contiene químicos). En Marisa Mayor obtendrás un trato excelente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación (Ojos)", 
+            "duration": 3600, 
+            "price": "125 € ", 
+            "description": "Con anestesia local, diseño de trabajo y se trabaja con producto mineral para el tatuaje. (no contiene químicos). En Marisa Mayor obtendrás un trato excelente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Cutis", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Limpieza de piel con un peeling, se elimina la suciedad de los poros, se hace extracción si es necesario, recuperador celular, masaje desinfección y mascarilla facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Color o rizado de pestañas a elegir, según la elección de cada persona. Obtendrás un resultado único con pestañas más oscuras y una curvatura más pronunciada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antimanchas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Serie de productos especificos como el coctel de ácidos que sirve para arrastrar la mancha de la piel y se neutraliza con un recuperador + se incluye un producto de factores de crecimiento celular para renovar la piel y rejuvenecerla!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reafirmante Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Incluye: productos específicos según la piel con radiofrecuencia, masaje y mascarilla. Consiguirás un resultado reafirmante en la piel. El tratamiento es personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pedicura Podológica", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Limado, cortar uñas, quitar cayos, durezas, ojos de gallo, masaje y maquillado de uñas si se requiere. Si se requiere de parafina consulte con el profesional por posible suplemento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "3 Sesiones Tratamientos Corporal Anticelulitico", 
+            "duration": 2700, 
+            "price": "95 € ", 
+            "description": "Masaje especial con producto de quemagrasas, aplicacion de fango caliente. Se hace una envoltura y se deja actuar el producto y se retira y se aplica otro producto quemagrasas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Micropigmentación (Cejas)", 
+            "duration": 3600, 
+            "price": "145 € ", 
+            "description": "Con anestesia local, diseño de trabajo y se trabaja con producto mineral para el tatuaje. (no contiene químicos). En Marisa Mayor obtendrás un trato excelente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "3 Sesiones Tratamientos Corporal Anticelulitico", 
+            "duration": 2700, 
+            "price": "95 € ", 
+            "description": "Masaje especial con producto de quemagrasas, aplicacion de fango caliente. Se hace una envoltura y se deja actuar el producto y se retira y se aplica otro producto quemagrasas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación (Cejas)", 
+            "duration": 3600, 
+            "price": "145 € ", 
+            "description": "Con anestesia local, diseño de trabajo y se trabaja con producto mineral para el tatuaje. (no contiene químicos). En Marisa Mayor obtendrás un trato excelente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación (Labios)", 
+            "duration": 3600, 
+            "price": "205 € ", 
+            "description": "Con anestesia local, diseño de trabajo, se trabaja con producto mineral para el tatuaje. (no contiene químicos). En Marisa Mayor obtendrás un trato excelente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación (Ojos)", 
+            "duration": 3600, 
+            "price": "125 € ", 
+            "description": "Con anestesia local, diseño de trabajo y se trabaja con producto mineral para el tatuaje. (no contiene químicos). En Marisa Mayor obtendrás un trato excelente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Cutis", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Limpieza de piel con un peeling, se elimina la suciedad de los poros, se hace extracción si es necesario, recuperador celular, masaje desinfección y mascarilla facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Color o rizado de pestañas a elegir, según la elección de cada persona. Obtendrás un resultado único con pestañas más oscuras y una curvatura más pronunciada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Antimanchas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Serie de productos especificos como el coctel de ácidos que sirve para arrastrar la mancha de la piel y se neutraliza con un recuperador + se incluye un producto de factores de crecimiento celular para renovar la piel y rejuvenecerla!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Reafirmante Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Incluye: productos específicos según la piel con radiofrecuencia, masaje y mascarilla. Consiguirás un resultado reafirmante en la piel. El tratamiento es personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Podológica", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Limado, cortar uñas, quitar cayos, durezas, ojos de gallo, masaje y maquillado de uñas si se requiere. Si se requiere de parafina consulte con el profesional por posible suplemento."
+        }
+    ]
+}

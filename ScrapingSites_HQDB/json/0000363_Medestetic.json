@@ -1,0 +1,172 @@
+{
+    "adid": null, 
+    "name": "Medestetic", 
+    "name_of_contact": "Medestetic", 
+    "scrape_page": "https://www.bucmi.com/medestetic", 
+    "business_website": "https://www.bucmi.com/medestetic", 
+    "areas_covered": null, 
+    "description": "Somos un centro médico estético en el barrio de Tetuán (metro Cuzco). Especialistas en estética facial y líderes en modelación nasal sin cirugía, en bioplastia facial y lifting sin cirugía. ¡Porque la prioridad en MedEstetic es el paciente! ¡Conócenos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008338377019630.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008338383269863.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008338385144589.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008338392019910.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008338393113319.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008338393751514.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008338401876874.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Galileo, 20", 
+    "city": "Madrid", 
+    "zipcode": "28020", 
+    "formatted_address": "C/ Galileo, 20, Madrid, 28020", 
+    "country": "es", 
+    "office_number": "915567051", 
+    "office_number2": null, 
+    "mobile_number": "640640356", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4575260000", 
+    "longitude": "-3.6918055999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008339149429903.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión Electroestimulación", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Tratamiento que nos ayuda a tonificar el cuerpo, eliminar la flacidez de diferentes partes del cuerpo como los brazos, las axilas o las piernas. Se basa en un tipo de corrientes de baja frecuencia, incrementando la actividad metabólica muscular... Todo ello supervisado por los mejores profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión Presoterapia", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "La presoterapia es un tratamiento 100% natural y no invasivo que se basa en la estimulación física del sistema linfático. Mejora la circulación, retención de líquidos y piernas cansadas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Luminoterapia Facial", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Estimulación de colágeno. Mejora el rostro favoreciendo la desaparición de arrugas, tonificando la piel, y adquiriendo un aspecto más saludable y luminoso."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Biovital", 
+            "duration": 1800, 
+            "price": "200 € ", 
+            "description": "Cóctel de vitaminas y ácido hialurónico con mesoterapia facial. ¡Consigue la hidratación que tu rostro necesita en solo una sesión y en manos de los mejores profesionales de MedEstetic!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión Mesoterapia Corporal", 
+            "duration": 1800, 
+            "price": "120 € ", 
+            "description": "Elimina los cúmulos de grasa que te sobran. Confía en los mejores profesionales y los mejores productos para sentirte a gusto con tu cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Presoterapia", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "La presoterapia es un tratamiento 100% natural y no invasivo que se basa en la estimulación física del sistema linfático. Mejora la circulación, retención de líquidos y piernas cansadas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Luminoterapia Facial", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Estimulación de colágeno. Mejora el rostro favoreciendo la desaparición de arrugas, tonificando la piel, y adquiriendo un aspecto más saludable y luminoso."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Antiedad Progressive Anti-Age", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "¡Aplica el dicho que la edad solo es un número! Elimina la flacidez, tonifica, elimina arrugas y aporta suavidad y confort. Producto Carita."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Antiedad Progressive Anti-Age Rostro", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "¡Aplica el dicho que la edad solo es un número! Tratamiento anti-flacidez, a la vez que tonifica la piel y elimina arrugas de expresión. Producto Carita."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Antiedad Progressive Anti-Rides Rostro", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "¡Aplica el dicho que la edad solo es un número! Tratamiento tonificante de la piel que suaviza las arrugas de expresión e ilumina el rostro. Producto Carita."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Hidratante Lagoon Hydration", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Tratamiento en cabina, en el que reponemos una correcta hidratación, consiguiendo una pielmás tersa y luminosa. Productos Carita. ¡Consigue una piel suave y cuidada a manos de los mejores profesionales de MedEstetic!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Hidratante Papaya Purity", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Purificación y suavizado de la piel. Efecto piel descansada. Producto Carita. ¡Consigue una piel suave y cuidada a manos de los mejores profesionales de MedEstetic!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Biovital", 
+            "duration": 1800, 
+            "price": "200 € ", 
+            "description": "Cóctel de vitaminas y ácido hialurónico con mesoterapia facial. ¡Consigue la hidratación que tu rostro necesita en solo una sesión y en manos de los mejores profesionales de MedEstetic!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Con Hidratación Global", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Cuidar la piel de tu cara es algo esencial dada su sensibilidad. Con este tratamiento podrás eliminar puntos negros, limpiar y cerrar los poros, suavizar la piel e hidratarla. ¡No pierdas la oportunidad y confía en MedEstetic!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Mesoterapia Corporal", 
+            "duration": 1800, 
+            "price": "120 € ", 
+            "description": "Elimina los cúmulos de grasa que te sobran. Confía en los mejores profesionales y los mejores productos para sentirte a gusto con tu cuerpo."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesión Presoterapia", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "La presoterapia es un tratamiento 100% natural y no invasivo que se basa en la estimulación física del sistema linfático. Mejora la circulación, retención de líquidos y piernas cansadas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Luminoterapia Facial", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Estimulación de colágeno. Mejora el rostro favoreciendo la desaparición de arrugas, tonificando la piel, y adquiriendo un aspecto más saludable y luminoso."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tto Facial Antiedad Progressive Anti-Age", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "¡Aplica el dicho que la edad solo es un número! Elimina la flacidez, tonifica, elimina arrugas y aporta suavidad y confort. Producto Carita."
+        }
+    ]
+}

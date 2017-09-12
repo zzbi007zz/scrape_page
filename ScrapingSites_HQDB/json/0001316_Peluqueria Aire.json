@@ -1,0 +1,175 @@
+{
+    "adid": null, 
+    "name": "Peluquería Aire", 
+    "name_of_contact": "Peluquería Aire", 
+    "scrape_page": "https://www.bucmi.com/peluqueriaaire", 
+    "business_website": "https://www.bucmi.com/peluqueriaaire", 
+    "areas_covered": null, 
+    "description": "Peluquería Aire situada en la zona de Horta, Barcelona. Un centro donde podrás disfrutar tanto de una manicura como de un corte de pelo para él o ella. Tenemos una amplia gama de servicios y pensamos en nuestro clientes en todo momento. Te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810430606670135.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810430637480226.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810430668105134.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Leiva, 49", 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "C/ Leiva, 49, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "931055444", 
+    "office_number2": null, 
+    "mobile_number": "670443186", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4282200000", 
+    "longitude": "2.1688900000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635965966179334357.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Disfruta de nuestros especialistas y déjate asesorar con las nuevas tendencias en moda de hombre. Queremos la satisfacción de nuestro clientes y realizamos un servicio personalizado y profesional. El servicio incluye lavado, corte y acabado. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "25,5 € ", 
+            "description": "¡ Corta por lo sano ! Ponte en las manos de las mejores profesionales. El servicio incluye corte, lavado con champú especifico y peinado. Servicio para pelo largo, en caso de pelo extralargo se abonará un suplemento en el centro. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "¿Quieres lucir una melena como la de las celebrities ? Hazte un cambio de look con nuestro servicio de mechas y peinado, y saldrás encantada, El servicio incluye, mechas, secado y peinado del cabello. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Niño", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "¡Los más pequeños también pueden disfrutar de su corte de pelo en nuestra peluquería! Incluye corte de pelo y secado. Para más información, consulta con el centro. Les encantará incluso más que a tí. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Disfruta de nuestros especialistas y déjate asesorar con las nuevas tendencias en moda de hombre. Queremos la satisfacción de nuestro clientes y realizamos un servicio personalizado y profesional. El servicio incluye lavado, corte y acabado. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Niña", 
+            "duration": 1800, 
+            "price": "10,5 € ", 
+            "description": "¡Los más pequeños también pueden disfrutar de su corte de pelo en nuestra peluquería! Incluye corte de pelo y secado. Para más información, consulta con el centro. Les encantará incluso más que a tí. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "30,5 € ", 
+            "description": "¡ El mejor pack para darle vida y belleza a tu melena ! Cambia de look con nuestro servicio de tinte , color y peinado. Incluye un tinte, corte de pelo y peinado para media melena. Elige el peinado que más te guste o bien déjate asesorar por nuestros profesionales. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "¡ El mejor pack para darle vida y belleza a tu melena ! Cambia de look con nuestro servicio de tinte , color y peinado para pelo corto. Incluye un tinte, corte de pelo y peinado. Elige el peinado que más te guste o bien déjate asesorar por nuestros profesionales. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "42 € ", 
+            "description": "¡ El mejor pack para darle vida y belleza a tu melena ! Cambia de look con nuestro servicio de tinte , color y peinado. Incluye un tinte, corte de pelo y peinado para pelo largo.Elige el peinado que más te guste o bien déjate asesorar por nuestros profesionales. En caso de pelo extralargo, se abonará un suplemento en el centro. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 1800, 
+            "price": "10,5 € ", 
+            "description": "¡ Corta por lo sano ! Cada cabello es especial y cada clienta también, por eso realizamos cortes de pelo único e irrepetibles en Peluquería Aire. Incluye lavado y corte. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "21,5 € ", 
+            "description": "¡ Corta por lo sano ! Ponte en las manos de las mejores profesionales. El servicio incluye corte, lavado con champú especifico y peinado. Servicio para media melena. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "20,5 € ", 
+            "description": "¡ Corta por lo sano ! Ponte en las manos de las mejores profesionales. El servicio incluye corte, lavado con champú especifico y peinado. Servicio para pelo corto. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "25,5 € ", 
+            "description": "¡ Corta por lo sano ! Ponte en las manos de las mejores profesionales. El servicio incluye corte, lavado con champú especifico y peinado. Servicio para pelo largo, en caso de pelo extralargo se abonará un suplemento en el centro. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "46,5 € ", 
+            "description": "¿Quieres lucir una melena como la de las celebrities? Hazte un cambio de look con nuestro servicio de mechas y peinado, y saldrás encantada, El servicio incluye, mechas, secado y peinado del cabello. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "¿Quieres lucir una melena como la de las celebrities ? Hazte un cambio de look con nuestro servicio de mechas y peinado, y saldrás encantada, El servicio incluye, mechas, secado y peinado del cabello. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir una melena como la de las celebrities ? Hazte un cambio de look con nuestro servicio de mechas y peinado, y saldrás encantada, El servicio incluye, mechas, secado y peinado del cabello. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Bótox Capilar Y Secado", 
+            "duration": 5400, 
+            "price": "32,4 € ", 
+            "description": "Tratamiento que repara el cabello dañado a través de un potente concentración de principios activos. Podrás conseguir una melena revitalizado, con un aumento de densidad, brillo y suavidad. Además elimina el encrespamiento y repara las puntas abiertas. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Regenerador Y Corte Con Peinado", 
+            "duration": 7200, 
+            "price": "45,4 € ", 
+            "description": "Con este pack de tratamiento regenerador más cambio de look, recuperarás la juventud de tu melena y aportarás brillo, suavidad y eliminarás el encrespamiento. Un cambio de look, que te ayudará a sanar tu pelo al completo. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Capilar Regenerador Células Madre Y Peinado", 
+            "duration": 5400, 
+            "price": "34,9 € ", 
+            "description": "Disfruta del tratamiento antienvejecimiento de cabello por excelencia. Este tratamiento recupera la juventud de tu melena y aporta brillo, suavidad y elimina el encrespamiento. Además ayuda a que el pelo tenga más fuerza y evita su caída. Ponte en las manos de nuestros expertos profesionales de Peluquería Aire y consigue un look renovado gracias a que seguimos las últimas tendencias."
+        }
+    ]
+}

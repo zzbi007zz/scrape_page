@@ -22,7 +22,7 @@
     "country": "es", 
     "office_number": "915273566", 
     "office_number2": null, 
-    "mobile_number": "677879520", 
+    "mobile_number": null, 
     "mobile_number2": null, 
     "unidentified_phone_numbers": null, 
     "latitude": "0.0000000000", 
@@ -122,59 +122,59 @@
         }, 
         {
             "service_category": "Manicura y Pedicura", 
-            "service": "Lifting De Pestañas", 
-            "duration": 5400, 
-            "price": "40 € ", 
-            "description": "Realza tus pestañas ,alargalas y tiñelas.levantate con unas pestañas perfectas."
-        }, 
-        {
-            "service_category": "Manicura y Pedicura", 
-            "service": "Bono Corporal Reductor", 
-            "duration": 3600, 
-            "price": "270 € ", 
-            "description": "5 Sesiones .Tratamiento exclusivo para perdida de grasa ,volumen y peso dejando la piel tersa y hidratada."
-        }, 
-        {
-            "service_category": "Manicura y Pedicura", 
-            "service": "Drenaje Linfático Manual", 
-            "duration": 3600, 
-            "price": "45 € ", 
-            "description": null
-        }, 
-        {
-            "service_category": "Manicura y Pedicura", 
             "service": "Bono Presoterapia 5 Sesiones", 
             "duration": 1800, 
             "price": "125 € ", 
             "description": "Si tienes retencion de liquidos opiernas cansadas te ira de lujo.PRUEBALO NO TE DEFRAUDARA."
         }, 
         {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mani Pedi", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Manicura y pedicura normal con esmaltes masglo.presume de uñas seguro repetiras pide tu cita"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Presume de manos.ven y dale el cuidado que se merecen con los mejores esmaltes masglo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Semipermanente", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Manicura semipermanente luce tus manos mas tiempo hermosas no lo dejes pide cita ya."
+        }, 
+        {
             "service_category": "Masaje", 
-            "service": "Lifting De Pestañas", 
-            "duration": 5400, 
+            "service": "Masaje Relajante", 
+            "duration": 2700, 
             "price": "40 € ", 
-            "description": "Realza tus pestañas ,alargalas y tiñelas.levantate con unas pestañas perfectas."
+            "description": "Deja que las manos de nuestro profesional te haga sentir como en una nube."
         }, 
         {
             "service_category": "Depilación", 
-            "service": "Lifting De Pestañas", 
-            "duration": 5400, 
-            "price": "40 € ", 
-            "description": "Realza tus pestañas ,alargalas y tiñelas.levantate con unas pestañas perfectas."
+            "service": "Diseño De Cejas", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Resalta tu mirada y potencia los rasgos de tu cara. Dejate aconsejar por nuestro profesional."
         }, 
         {
             "service_category": "Depilación", 
-            "service": "Bono Corporal Reductor", 
-            "duration": 3600, 
-            "price": "270 € ", 
-            "description": "5 Sesiones .Tratamiento exclusivo para perdida de grasa ,volumen y peso dejando la piel tersa y hidratada."
+            "service": "Depilacion Cera", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Depilacion con cera caliente o templada .Ideal para la temporada de verano o para un viaje inesperado."
         }, 
         {
             "service_category": "Depilación", 
-            "service": "Drenaje Linfático Manual", 
-            "duration": 3600, 
-            "price": "45 € ", 
-            "description": null
+            "service": "Depilacion Cera Medias Piernas", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Depilacion con cera caliente o templada.tu elijes con que cera quieres depilarte.pide cita ."
         }
     ]
 }

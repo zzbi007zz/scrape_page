@@ -1,0 +1,140 @@
+{
+    "adid": null, 
+    "name": "Low Cost Estilistas", 
+    "name_of_contact": "Low Cost Estilistas", 
+    "scrape_page": "https://www.bucmi.com/lowcostestilistas", 
+    "business_website": "https://www.bucmi.com/lowcostestilistas", 
+    "areas_covered": null, 
+    "description": "En Low Cost Estilistas tenemos un concepto diferente al normal: nos gusta la innovación y la personalización. Disfruta de la calidad de nuestro servicios y de nuestras ofertas al máximo, ponte en manos de nuestros profesionales y ¡disfruta!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537169525700082.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537169581652240.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537169612914922.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537169615258819.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537169617133972.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537169618540330.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537169643542352.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537169645573789.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537172769707758.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635537172987568067.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Galileu, 17", 
+    "city": "Barcelona", 
+    "zipcode": "08041", 
+    "formatted_address": "C/ Galileu, 17, Barcelona, 08041", 
+    "country": "es", 
+    "office_number": "935118557", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4215521000", 
+    "longitude": "2.1742487000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966783710648734.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Con este servicio podrás disfrutar de un corte de pelo lleno de estilo. Ponte en manos de nuestros estilistas y atrévete con ese look que siempre has querido. El servicio no incluye peinar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial, Manipedi Y Mechas Y Quiromasaje", 
+            "duration": 14400, 
+            "price": "123,75 € ", 
+            "description": "El servicio incluye: Manicura completa Spa + Pedicura completa Spa + Limpieza Facial + Pack Mechas + Quiromasaje."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial, Manipedi Y Tinte Y Masaje Choco", 
+            "duration": 14400, 
+            "price": "123,75 € ", 
+            "description": "¡Apúntate a nuestro día de relax! Disfrutarás de un día lleno de mimos y cuidados. Este pack incluye: manicura y pedicura completas spa (limado, retirada de cutículas, hidratación y esmaltado), limpieza facial, tinte y masaje con chocolate de 1 hora."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial, Manipedi, Tinte Y Shellac - Relax", 
+            "duration": 14400, 
+            "price": "123,75 € ", 
+            "description": "¡Apúntate a nuestro día de relax! Disfrutarás de un día lleno de mimos y cuidados. Este pack incluye: manicura y pedicura completas spa (limado, retirada de cutículas, hidratación y esmaltado), limpieza facial, tinte y Shellac."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Con este servicio podrás disfrutar de un corte de pelo lleno de estilo. Ponte en manos de nuestros estilistas y atrévete con ese look que siempre has querido. El servicio no incluye peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Higiene Facial, Manipedi Y Mechas Y Quiromasaje", 
+            "duration": 14400, 
+            "price": "123,75 € ", 
+            "description": "El servicio incluye: Manicura completa Spa + Pedicura completa Spa + Limpieza Facial + Pack Mechas + Quiromasaje."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Corte Y Secado", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Da un toque de color a tu pelo y anímate para cambiar tu look. Incluye cortar, tinte, hidratación y secado. Estás en manos de los mejores estilistas que te asesorarán en todo lo que necesites. ¡ Reserva ya en Bucmi!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Con este servicio podrás disfrutar de un corte de pelo lleno de estilo. Ponte en manos de nuestros estilistas y atrévete con ese look que siempre has querido. El servicio no incluye peinar."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial, Manipedi Y Mechas Y Quiromasaje", 
+            "duration": 14400, 
+            "price": "123,75 € ", 
+            "description": "El servicio incluye: Manicura completa Spa + Pedicura completa Spa + Limpieza Facial + Pack Mechas + Quiromasaje."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte, Corte Y Secado", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Da un toque de color a tu pelo y anímate para cambiar tu look. Incluye cortar, tinte, hidratación y secado. Estás en manos de los mejores estilistas que te asesorarán en todo lo que necesites. ¡ Reserva ya en Bucmi!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "El servicio incluye limado, tratamiento de cutículas, hidratación y esmaltado del color que prefieras. Luce siempre unas uñas a punto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial, Manipedi Y Mechas Y Quiromasaje", 
+            "duration": 14400, 
+            "price": "123,75 € ", 
+            "description": "El servicio incluye: Manicura completa Spa + Pedicura completa Spa + Limpieza Facial + Pack Mechas + Quiromasaje."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Con este servicio podrás disfrutar de un corte de pelo lleno de estilo. Ponte en manos de nuestros estilistas y atrévete con ese look que siempre has querido. El servicio no incluye peinar."
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "adid": null, 
+    "name": "Deniz", 
+    "name_of_contact": "Deniz", 
+    "scrape_page": "https://www.bucmi.com/Denizpeluqueros", 
+    "business_website": "https://www.bucmi.com/Denizpeluqueros", 
+    "areas_covered": null, 
+    "description": "El centro DENIZ, situado en Puerta del Ángel, es una peluquería en la que asesoramos y ayudamos a nuestros clientes para mejorar su imagen. Encontrarás una gran variedad de servicios adaptados a ti como cortes de pelo, manicuras y pedicuras.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963224351167239.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963224355245629.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963224352104676.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963224355245629.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963224356964740.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963224356026868.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28011", 
+    "formatted_address": "Madrid, 28005, Madrid, Madrid, Madrid, Madrid, Madrid, 28032, Madrid, 28013, Madrid, 28008, Madrid, 28011", 
+    "country": "es", 
+    "office_number": "912043902", 
+    "office_number2": null, 
+    "mobile_number": "607989455", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4116498000", 
+    "longitude": "-3.7316240000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963245103639114.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Corte Pelo Medio Y Manicura Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Reserva nuestro completo pack de corte y manicura! Incluye lavado, corte, peinado básico y manicura. Incluye el limar, retirada de cutícula para el cuidado de tu uña y esmaltado dentro de una amplia variedad de colores."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer Y Peinado Medio", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿Deseas tener un corte de pelo con estilo? Reserva nuestro servicio de corte y peinado para tu media melena. Ponte en manos de nuestros profesionales en peluquería. Incluye el lavado. Se entiende media melena hasta los hombros. En caso de tener un largo superior se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Las manos son el reflejo de uno mismo. Incluye el limado, retirada de cutícula para el cuidado de tu uña. Para terminar aplicamos el esmaltado a elegir dentro de una amplia variedad de colores. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Afeitado Clásico", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "¿Ya va siendo hora de un afeitado? ¡Reserva nuestro afeitado al estilo clásico! El servicio incluye afeitado clásico a navaja con toallas calientes, serum reparador y masaje facial para finalizar. ¡No lo dudes más y confía en nuestro profesionales!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Corte Pelo Largo Y Manicura Básica", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El pack incluye lavado, corte, peinado básico y manicura Incluye el limar, retirada de cutícula para el cuidado de tu uña y esmaltado dentro de una amplia variedad de colores. ¡No lo dudes más y reserva ahora este pack!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Corte Pelo Medio Y Manicura Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Reserva nuestro completo pack de corte y manicura! Incluye lavado, corte, peinado básico y manicura. Incluye el limar, retirada de cutícula para el cuidado de tu uña y esmaltado dentro de una amplia variedad de colores."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Cambia tu look con este servicio que incluye lavado, color y peinado. Consigue el color que siempre has deseado. Servicio exclusivo para pelo corto, en caso de tener una longitud más larga se abonará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 10800, 
+            "price": "45 € ", 
+            "description": "¿Necesitas renovar el color de tu pelo? ¡Reserva nuestro Color más peinado para tu cabello largo! Este servicio incluye el lavado, color y el peinado que más te guste. En caso de tener el pelo extralargo se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 7200, 
+            "price": "35 € ", 
+            "description": "¡Renueva el color de tu cabello reservando este servicio! Si tienes alguna duda, puedes consultar con nuestros profesionales sin problema. Incluye el lavado, color y peinado. Este servicio es exclusivo para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Corto", 
+            "duration": 3600, 
+            "price": "13 € ", 
+            "description": "¡Olvídate de las puntas abiertas reservando nuestro corte de pelo para mujer! El servicio incluye el lavado y el peinado que más te apetezca lucir. Solo para cabello corto, en caso de tener una longitud superior se abonará la diferencia en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Largo", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Consigue sanear tu melena reservando nuestro servicio de corte y peinado para tu pelo largo. Este servicio incluye el lavado con champú específico. En caso de tener el pelo extralargo, se abonará la diferencia en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Peinado Medio", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿Deseas tener un corte de pelo con estilo? Reserva nuestro servicio de corte y peinado para tu media melena. Ponte en manos de nuestros profesionales en peluquería. Incluye el lavado. Se entiende media melena hasta los hombros. En caso de tener un largo superior se abonará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡Dale un nuevo aire a tu pelo reservando nuestro corte de pelo para hombre! Nuestros profesionales te aconsejarán en todo lo que necesites. Incluye el lavado y peinado final. Saldrás perfecto de nuestro centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 7200, 
+            "price": "25 € ", 
+            "description": "¡Dale un toque de color y luz a tu pelo reservando nuestras mechas! Nuestros profesionales te aconsejarán en todo lo que necesites para que veas preciosa. Incluye lavado, mechas de plata y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 9000, 
+            "price": "35 € ", 
+            "description": "¿Estás aburrido del color de tu pelo? ¡Reserva nuestro servicio de mechas y dale un giro de 180º a tu pelo! Incluye lavado, mechas de plata y el peinado que más te apetezca lucir. En caso de tener el pelo extralargo, se abonará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Medio", 
+            "duration": 7200, 
+            "price": "30 € ", 
+            "description": "¡Aporta luz a tu rostro reservando nuestro servicio de mechas! Disponemos de expertos profesionales en peluquería que te realizarán las mechas que siempre has soñado. Incluye lavado, mechas de plata y peinado. En caso de tener un largo superior al indicado, se abonará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Clásico", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "¿Ya va siendo hora de un afeitado? ¡Reserva nuestro afeitado al estilo clásico! El servicio incluye afeitado clásico a navaja con toallas calientes, serum reparador y masaje facial para finalizar. ¡No lo dudes más y confía en nuestro profesionales!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Corte Pelo Largo Y Manicura Básica", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El pack incluye lavado, corte, peinado básico y manicura Incluye el limar, retirada de cutícula para el cuidado de tu uña y esmaltado dentro de una amplia variedad de colores. ¡No lo dudes más y reserva ahora este pack!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Corte Pelo Medio Y Manicura Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Reserva nuestro completo pack de corte y manicura! Incluye lavado, corte, peinado básico y manicura. Incluye el limar, retirada de cutícula para el cuidado de tu uña y esmaltado dentro de una amplia variedad de colores."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Cambia tu look con este servicio que incluye lavado, color y peinado. Consigue el color que siempre has deseado. Servicio exclusivo para pelo corto, en caso de tener una longitud más larga se abonará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 10800, 
+            "price": "45 € ", 
+            "description": "¿Necesitas renovar el color de tu pelo? ¡Reserva nuestro Color más peinado para tu cabello largo! Este servicio incluye el lavado, color y el peinado que más te guste. En caso de tener el pelo extralargo se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 7200, 
+            "price": "35 € ", 
+            "description": "¡Renueva el color de tu cabello reservando este servicio! Si tienes alguna duda, puedes consultar con nuestros profesionales sin problema. Incluye el lavado, color y peinado. Este servicio es exclusivo para media melena."
+        }
+    ]
+}

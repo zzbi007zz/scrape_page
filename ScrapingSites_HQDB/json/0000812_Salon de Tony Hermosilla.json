@@ -1,0 +1,216 @@
+{
+    "adid": null, 
+    "name": "Salon de Tony Hermosilla", 
+    "name_of_contact": "Salon de Tony Hermosilla", 
+    "scrape_page": "https://www.bucmi.com/salondetonyhermosilla", 
+    "business_website": "https://www.bucmi.com/salondetonyhermosilla", 
+    "areas_covered": null, 
+    "description": "Paralelo a la calle Goya, el salón de Belleza Tony Hermosilla cuenta con todo tipo de tratamientos para el cuidado y bienestar del cuerpo.Técnicas tradicionales mezcladas con las últimas tendencias. ¡Reserva servicios con nosotros y verás los resultados!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635611580140573161.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635611580153386755.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "6,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Hermosilla, 60", 
+    "city": "Madrid", 
+    "zipcode": "28001", 
+    "formatted_address": "C/ Hermosilla, 60, Madrid, 28001", 
+    "country": "es", 
+    "office_number": "910704186", 
+    "office_number2": null, 
+    "mobile_number": "625612006", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4260777000", 
+    "longitude": "-3.6804890999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635920925711691576.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. Con este servicio resultarás con una manicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante O A Elegir Con Tony", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Elimina cualquier tipo de dolor reservando este masaje manual relajante. Conseguirás aliviar y relajar tus músculos con un masaje que se adaptará a las dolencias que tengas. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante O Descontracturante 60M", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Masaje relajante o descontracturante, según las necesidades del cliente. El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga. Duración de 60 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Anticelulítico Reductor Y Lipo-Láser", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Elimina esa celulitis que te crea complejos con este doble tratamiento que incluye un masaje manual anticelulítico y una sesión de Lipo-Láser en zonas como abdomen, flancos, cartucheras, espalda, brazos, papada, rodillas, gemelos o cara interna del muslo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tto. Anticelulítico Reductor Y Lipo-Láser", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Elimina esa celulitis que te crea complejos con este doble tratamiento que incluye un masaje manual anticelulítico y una sesión de Lipo-Láser en zonas como abdomen, flancos, cartucheras, espalda, brazos, papada, rodillas, gemelos o cara interna del muslo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Permanente", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "Disfruta de unas uñas siempre perfecta con este bono. Empezamos limando, retiramos cuticulas, y finalizamos esmaltando con el color que mas te guste entre una amplia gama de colores"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Belleza", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir y para finalizar un masaje en las manos. Todo ello por el increíble precio de 12 euros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. Con este servicio resultarás con una manicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto. Anticelulítico Reductor Y Lipo-Láser", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Elimina esa celulitis que te crea complejos con este doble tratamiento que incluye un masaje manual anticelulítico y una sesión de Lipo-Láser en zonas como abdomen, flancos, cartucheras, espalda, brazos, papada, rodillas, gemelos o cara interna del muslo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Y Pedicura Permanente", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "Disfruta de unas uñas siempre perfecta con este bono. Empezamos limando, retiramos cuticulas, y finalizamos esmaltando con el color que mas te guste entre una amplia gama de colores"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Belleza", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir y para finalizar un masaje en las manos. Todo ello por el increíble precio de 12 euros."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "La manicura más duradera. No se agrieta y se mantiene perfecta durante mínimo tres semanas. Con este servicio resultarás con una manicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Manicura Spa", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir, peeling, hidratación y por último un masaje en las manos. Todo ello por el increíble precio de 24 euros."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pedicura Belleza", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado y corte de uñas, eliminación de cutículas y durezas, esmaltado de color a elegir y para finalizar un masaje en los pies. Todo ello por el increíble precio de 24 euros."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "¿Quieres una piel suave y libre de impurezas en tu rostro? Reserva nuestro servicio de limpieza facial en el que incluye: leche limpiadora, exfoliante, extracción de impurezas, mascarilla, tónico y un masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "¡Luce unas pestañas de infarto con este servicio que incluye el tinte y permanente de pestañas por un increíble precio! ¡Olvídate del rimmel y luce una imagen perfecta todos los días de la semana!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tto. Anticelulítico Reductor Y Lipo-Láser", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Elimina esa celulitis que te crea complejos con este doble tratamiento que incluye un masaje manual anticelulítico y una sesión de Lipo-Láser en zonas como abdomen, flancos, cartucheras, espalda, brazos, papada, rodillas, gemelos o cara interna del muslo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Permanente", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "Disfruta de unas uñas siempre perfecta con este bono. Empezamos limando, retiramos cuticulas, y finalizamos esmaltando con el color que mas te guste entre una amplia gama de colores"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Belleza", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Mantén tus uñas siempre cuidadas con este servicio que incluye limado, corte, eliminación de cutículas, esmaltado de color a elegir y para finalizar un masaje en las manos. Todo ello por el increíble precio de 12 euros."
+        }
+    ]
+}

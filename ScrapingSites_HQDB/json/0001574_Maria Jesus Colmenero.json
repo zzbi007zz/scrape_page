@@ -1,0 +1,112 @@
+{
+    "adid": null, 
+    "name": "María Jesús Colmenero", 
+    "name_of_contact": "María Jesús Colmenero", 
+    "scrape_page": "https://www.bucmi.com/mariajesuscolmenero", 
+    "business_website": "https://www.bucmi.com/mariajesuscolmenero", 
+    "areas_covered": null, 
+    "description": "El centro de estética María Jesús Colmenero situado en Figares, Granada, ofrece tratamientos faciales tales como limpiezas de cutis, tratamientos corporales para eliminar la piel de naranja y todo tipo de depilaciones con cera o láser. ¡Te esperamos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635830210726546415.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635830210752016514.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635830210779521526.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Gardenia, 1", 
+    "city": "Granada", 
+    "zipcode": "18006", 
+    "formatted_address": "C/ Gardenia, 1, Granada, 18006", 
+    "country": "es", 
+    "office_number": "958082598", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1648100000", 
+    "longitude": "-3.6032199999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962378291461572.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Fotodepilación Piernas Completas", 
+            "duration": 1800, 
+            "price": "70 € ", 
+            "description": "La solución definitiva a la depilación, di adiós al vello tan incómodo de tus piernas gracias a la fotodepilación. Técnica super eficaz y completa. ¡Benefíciate de la fotodepilación!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Rejuvenece la piel de tu rostro con este tratamiento incluye peeling facial, radiofrecuencia y mesoterapia. No esperes más y reserva ahora online."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Realizamos una higiene facial completa para conseguir un rostro suave y libre de impurezas. El servicio incluye extracción, exfoliación, hidratación, mascarilla y masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antimanchas", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Este tratamiento lo realizamos con mesoterapia intradérmica y lo combinamos con un cocktail de vitaminas para rejuvenecer y unificar la tonalidad de la piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Rejuvenece la piel de tu rostro con este tratamiento incluye peeling facial, radiofrecuencia y mesoterapia. No esperes más y reserva ahora online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Realizamos una higiene facial completa para conseguir un rostro suave y libre de impurezas. El servicio incluye extracción, exfoliación, hidratación, mascarilla y masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Anticelulítico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Tratamiento corporal indicado para eliminar la piel de naranja y eliminar la grasa localizada de tu cuerpo. No esperes más y reserva hora online, no te arrepentirás."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Antimanchas", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Este tratamiento lo realizamos con mesoterapia intradérmica y lo combinamos con un cocktail de vitaminas para rejuvenecer y unificar la tonalidad de la piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Rejuvenece la piel de tu rostro con este tratamiento incluye peeling facial, radiofrecuencia y mesoterapia. No esperes más y reserva ahora online."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Realizamos una higiene facial completa para conseguir un rostro suave y libre de impurezas. El servicio incluye extracción, exfoliación, hidratación, mascarilla y masaje."
+        }
+    ]
+}

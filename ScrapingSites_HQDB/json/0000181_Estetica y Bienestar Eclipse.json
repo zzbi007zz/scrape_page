@@ -1,0 +1,465 @@
+{
+    "adid": null, 
+    "name": "Estética y Bienestar Eclipse", 
+    "name_of_contact": "Estética y Bienestar Eclipse", 
+    "scrape_page": "https://www.bucmi.com/esteticaeclipse", 
+    "business_website": "https://www.bucmi.com/esteticaeclipse", 
+    "areas_covered": null, 
+    "description": "El Centro de Estética y Bienestar Eclipse situado en pleno Barrio del Pilar en Madrid, ofrece todo tipo de tratamientos faciales y corporales para sentirte bien por dentro y por fuera. Además de servicios de depilación. No esperes más y reserva ahora.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635927001366034465.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635927001387909771.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635927001404940603.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635927001421034301.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635927001440877992.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635927001458065423.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "58", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28029", 
+    "formatted_address": "Madrid, Madrid, Madrid, 28029", 
+    "country": "es", 
+    "office_number": "910268011", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4796026000", 
+    "longitude": "-3.7020734000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635927003880906548.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Y Diseño De Cejas", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Cada rostro es distinto, por eso en Estética Eclipse recibirás un asesoramiento al diseño que más se adecue a tus rasgos faciales. Además claro esta de llevar a la práctica ese diseño y verte perfect@!!! Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Tratamiento Corporal Reductor Espalda", 
+            "duration": 1800, 
+            "price": "250 € ", 
+            "description": "¿Quieres deshacerte de la grasa que se acumula bajo el sujetador? Con este tratamiento podemos conseguirlo. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Uno de los tratamientos más demandados por las personas que lo prueban. Totalmente recomendado para los tiempos en los que la polución, y el estrés son nuestro día a día. Túmbate en la camilla y disfruta de una limpieza de cutis completa con vapor ozono, extracción, alta frecuencia, masaje facial, mascarilla y crema hidratante para equilibrar el ph de tu piel."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Spa", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "¿Realmente dedicamos el tiempo que merecen nuestras manos? Con ellas saludamos, comemos, acariciamos, sentimos,... y no todos le damos la importancia que realmente tiene. El servicio incluye limado de la uña de la forma que prefieras, retirada cutícula, peeling, crema hidratante, masaje y esmaltado del color que prefieras siempre de primeras marcas como Masglo. Disfruta de la suavidad al tacto, quedaras encantad@. Además por cada 5 manicuras SPA, la siguiente te la regalamos!!!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Especial Novias", 
+            "duration": 14400, 
+            "price": "195 € ", 
+            "description": "Tratamiento previo para novias, consta de: 3 limpiezas profundas, manicura y pedicura, depilación de cejas, labio superior, axilas e ingles, una prueba de maquillaje y el maquillaje del día de la boda. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Especial Novias", 
+            "duration": 14400, 
+            "price": "195 € ", 
+            "description": "Tratamiento previo para novias, consta de: 3 limpiezas profundas, manicura y pedicura, depilación de cejas, labio superior, axilas e ingles, una prueba de maquillaje y el maquillaje del día de la boda. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Y Tto Facial", 
+            "duration": 7200, 
+            "price": "65 € ", 
+            "description": "Porque la higiene domestica no es suficiente en el ambiente en el que vivimos, con este tratamiento lucirás un rostro joven y luminoso. Limpieza de cutis completa con vapor ozono, extracción, alta frecuencia, masaje facial, mascarilla y crema hidratante para equilibrar el ph de tu piel y radiofrecuencia facial con mascarilla, masaje y crema especifica anti-edad. Combate el envejecimiento prematuro y la flacidez."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Mas Reafirmante Corporal", 
+            "duration": 7200, 
+            "price": "560 € ", 
+            "description": "Bono compuesto de 10 sesiones, en la que se incluiría tratamiento de cavitación, presoterapia y masaje con cremas reductoras especificas para la perdida de volumen, y para finalizar aplicaríamos radiofrecuencia corporal para reafirmar los tejidos tras la perdida del material graso."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "280 € ", 
+            "description": "Bono de 10 sesiones de radiofrecuencia facial, con mascarilla, masaje y crema especifica anti-edad. Combate el envejecimiento prematuro y la flacidez. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10 Sesiones Tto Corporal Celulitis Localizada", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "El tratamiento consta de un bono de 10 sesiones, trataremos muslos y cartucheras, conseguirás la piel mas lisa y con menos volumen. Notaras los cambios en la primera sesión. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10 Sesiones Tto Corporal Elevación De Glúteos", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Este completo bono de 10 sesiones de tratamiento corporal eleva el glúteo, reafirma la piel y elimina la cartuchera que tanto molesta. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Moldea tu cuerpo y favorece la circulación de tus piernas con este bono que te permite combatir la celulitis además de favorecer el sistema sanguíneo. Reserva ahora tu bono y luce el cuerpo que siempre has soñado. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Masaje Corporal Y Presoterapia", 
+            "duration": 5400, 
+            "price": "380 € ", 
+            "description": "Reserva este completo bono de 10 sesiones de masajes anticelulíticos acompañado de presoterapia para facilitar la eliminación de la celulitis. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "160 € ", 
+            "description": "La presoterapia facilita la eliminación de líquidos acumulados en tus piernas, mejora la circulación sanguínea y linfática, ademas de ser un remedio eficaz para los pies o piernas cansadas. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Corporal", 
+            "duration": 5400, 
+            "price": "320 € ", 
+            "description": "Reserva online nuestro bono de 10 sesiones de radiofrecuencia corporal para que tu piel vuelva a regenerar colágeno y gane elasticidad. Tu piel volverá a estar firme y tersa gracias a Eclipse. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Tratamiento Corporal Varices", 
+            "duration": 2700, 
+            "price": "280 € ", 
+            "description": "Este bono de 10 sesiones incluyen un tratamiento innovador para reducción de varices y arañas vasculares, a la ver que reafirmas la piel. NUSKIN. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Tto Corporal Flacidez De Abdomen", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "¿Debido a la perdida de peso tu abdomen esta colgando? En Eclipse tenemos la solución, con tan solo 3 meses y sin hacer los indeseados abdominales, conseguirás un vientre plano y liso. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Tto Corporal Flacidez De Brazos", 
+            "duration": 1800, 
+            "price": "240 € ", 
+            "description": "Bono 10 sesiones de tratamiento corporal. ¿Deseas eliminar la piel que cuelga del brazo? Ahora con el tratamiento de flacidez podrás saludar sin complejos. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones Peeling Quimico Facial", 
+            "duration": 1800, 
+            "price": "200 € ", 
+            "description": "Peeling facial a base de acido salicílico. Aprovecha la más alta tecnología para combatir contra el acné o las manchas provocadas por el sol. Además es un excelente tratamiento anti-aging ya que difumina las pequeñas arrugas y disminuye las cicatrices. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tratamiento Corporal Reductor Espalda", 
+            "duration": 1800, 
+            "price": "250 € ", 
+            "description": "¿Quieres deshacerte de la grasa que se acumula bajo el sujetador? Con este tratamiento podemos conseguirlo. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tto Celulitis Localizada Flancos Y Caderas", 
+            "duration": 3600, 
+            "price": "290 € ", 
+            "description": "Elimina esos michelines que tan feo son cuando pones una camiseta estrecha. Con este tratamiento en 3 meses desaparecerán. con la utilización de corriente galvánica. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual Abdomen", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Drenaje linfático manual ideal para adbominoplastias, menstruación dolorosas y retención de líquidos. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual Brazos", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Este tratamiento es perfecto para la retención de líquidos, para aliviar edemas, celulitis,... Notarás la diferencia desde la primera sesión. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual Craneal", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tiene una duración de 20 minutos, y además de ser un excelente método de relajación, es valido para reducir edemas, retención de líquidos o favorecer el sistema inmunológico. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual Facial", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Si tienes pequeñas bolsas bajo los ojos, este es tu servicio, ayuda a la eliminación mediante masaje linfático manual. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual Piernas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Incluye piernas, glúteos y cuadro lumbar. Este servicio es perfecto para la retención de líquidos. Notarás la diferencia desde la primera sesión. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Estudio previo de las pestañas para seleccionar la extensión adecuada que puede ser de efecto natural o efecto glamour. Ahora podrás olvidarte del rímel porque tu mirada causará impresión en un abrir y cerrar de ojos. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Uno de los tratamientos más demandados por las personas que lo prueban. Totalmente recomendado para los tiempos en los que la polución, y el estrés son nuestro día a día. Túmbate en la camilla y disfruta de una limpieza de cutis completa con vapor ozono, extracción, alta frecuencia, masaje facial, mascarilla y crema hidratante para equilibrar el ph de tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si eres de las que prefieres un maquillaje sencillo o uno más sofisticado, no importa, aquí te asesoraremos sobre el maquillaje que mas se ajusta a ti y al evento siempre respetando tus ideas. Maquillajes para bodas o cualquier otro evento tanto de día como de noche. Para que luzcas perfecta en ese evento tan especial de la mano de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Rizado de pestañas mediante un bigudí del tamaño adecuado a la pestaña y tinte especial para pestañas de color negro. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Especial Novias", 
+            "duration": 14400, 
+            "price": "195 € ", 
+            "description": "Tratamiento previo para novias, consta de: 3 limpiezas profundas, manicura y pedicura, depilación de cejas, labio superior, axilas e ingles, una prueba de maquillaje y el maquillaje del día de la boda. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Y Tto Facial", 
+            "duration": 7200, 
+            "price": "65 € ", 
+            "description": "Porque la higiene domestica no es suficiente en el ambiente en el que vivimos, con este tratamiento lucirás un rostro joven y luminoso. Limpieza de cutis completa con vapor ozono, extracción, alta frecuencia, masaje facial, mascarilla y crema hidratante para equilibrar el ph de tu piel y radiofrecuencia facial con mascarilla, masaje y crema especifica anti-edad. Combate el envejecimiento prematuro y la flacidez."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Reductor Mas Reafirmante Corporal", 
+            "duration": 7200, 
+            "price": "560 € ", 
+            "description": "Bono compuesto de 10 sesiones, en la que se incluiría tratamiento de cavitación, presoterapia y masaje con cremas reductoras especificas para la perdida de volumen, y para finalizar aplicaríamos radiofrecuencia corporal para reafirmar los tejidos tras la perdida del material graso."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "10 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "280 € ", 
+            "description": "Bono de 10 sesiones de radiofrecuencia facial, con mascarilla, masaje y crema especifica anti-edad. Combate el envejecimiento prematuro y la flacidez. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "10 Sesiones Tto Corporal Celulitis Localizada", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "El tratamiento consta de un bono de 10 sesiones, trataremos muslos y cartucheras, conseguirás la piel mas lisa y con menos volumen. Notaras los cambios en la primera sesión. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "10 Sesiones Tto Corporal Elevación De Glúteos", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Este completo bono de 10 sesiones de tratamiento corporal eleva el glúteo, reafirma la piel y elimina la cartuchera que tanto molesta. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Moldea tu cuerpo y favorece la circulación de tus piernas con este bono que te permite combatir la celulitis además de favorecer el sistema sanguíneo. Reserva ahora tu bono y luce el cuerpo que siempre has soñado. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Masaje Corporal Y Presoterapia", 
+            "duration": 5400, 
+            "price": "380 € ", 
+            "description": "Reserva este completo bono de 10 sesiones de masajes anticelulíticos acompañado de presoterapia para facilitar la eliminación de la celulitis. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "160 € ", 
+            "description": "La presoterapia facilita la eliminación de líquidos acumulados en tus piernas, mejora la circulación sanguínea y linfática, ademas de ser un remedio eficaz para los pies o piernas cansadas. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Corporal", 
+            "duration": 5400, 
+            "price": "320 € ", 
+            "description": "Reserva online nuestro bono de 10 sesiones de radiofrecuencia corporal para que tu piel vuelva a regenerar colágeno y gane elasticidad. Tu piel volverá a estar firme y tersa gracias a Eclipse. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Especial Novias", 
+            "duration": 14400, 
+            "price": "195 € ", 
+            "description": "Tratamiento previo para novias, consta de: 3 limpiezas profundas, manicura y pedicura, depilación de cejas, labio superior, axilas e ingles, una prueba de maquillaje y el maquillaje del día de la boda. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza De Cutis Y Tto Facial", 
+            "duration": 7200, 
+            "price": "65 € ", 
+            "description": "Porque la higiene domestica no es suficiente en el ambiente en el que vivimos, con este tratamiento lucirás un rostro joven y luminoso. Limpieza de cutis completa con vapor ozono, extracción, alta frecuencia, masaje facial, mascarilla y crema hidratante para equilibrar el ph de tu piel y radiofrecuencia facial con mascarilla, masaje y crema especifica anti-edad. Combate el envejecimiento prematuro y la flacidez."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Reductor Mas Reafirmante Corporal", 
+            "duration": 7200, 
+            "price": "560 € ", 
+            "description": "Bono compuesto de 10 sesiones, en la que se incluiría tratamiento de cavitación, presoterapia y masaje con cremas reductoras especificas para la perdida de volumen, y para finalizar aplicaríamos radiofrecuencia corporal para reafirmar los tejidos tras la perdida del material graso."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "280 € ", 
+            "description": "Bono de 10 sesiones de radiofrecuencia facial, con mascarilla, masaje y crema especifica anti-edad. Combate el envejecimiento prematuro y la flacidez. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10 Sesiones Tto Corporal Celulitis Localizada", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "El tratamiento consta de un bono de 10 sesiones, trataremos muslos y cartucheras, conseguirás la piel mas lisa y con menos volumen. Notaras los cambios en la primera sesión. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Especial Novias", 
+            "duration": 14400, 
+            "price": "195 € ", 
+            "description": "Tratamiento previo para novias, consta de: 3 limpiezas profundas, manicura y pedicura, depilación de cejas, labio superior, axilas e ingles, una prueba de maquillaje y el maquillaje del día de la boda. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis Y Tto Facial", 
+            "duration": 7200, 
+            "price": "65 € ", 
+            "description": "Porque la higiene domestica no es suficiente en el ambiente en el que vivimos, con este tratamiento lucirás un rostro joven y luminoso. Limpieza de cutis completa con vapor ozono, extracción, alta frecuencia, masaje facial, mascarilla y crema hidratante para equilibrar el ph de tu piel y radiofrecuencia facial con mascarilla, masaje y crema especifica anti-edad. Combate el envejecimiento prematuro y la flacidez."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Reductor Mas Reafirmante Corporal", 
+            "duration": 7200, 
+            "price": "560 € ", 
+            "description": "Bono compuesto de 10 sesiones, en la que se incluiría tratamiento de cavitación, presoterapia y masaje con cremas reductoras especificas para la perdida de volumen, y para finalizar aplicaríamos radiofrecuencia corporal para reafirmar los tejidos tras la perdida del material graso."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "10 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "280 € ", 
+            "description": "Bono de 10 sesiones de radiofrecuencia facial, con mascarilla, masaje y crema especifica anti-edad. Combate el envejecimiento prematuro y la flacidez. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "10 Sesiones Tto Corporal Celulitis Localizada", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "El tratamiento consta de un bono de 10 sesiones, trataremos muslos y cartucheras, conseguirás la piel mas lisa y con menos volumen. Notaras los cambios en la primera sesión. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "10 Sesiones Tto Corporal Elevación De Glúteos", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Este completo bono de 10 sesiones de tratamiento corporal eleva el glúteo, reafirma la piel y elimina la cartuchera que tanto molesta. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones De Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Moldea tu cuerpo y favorece la circulación de tus piernas con este bono que te permite combatir la celulitis además de favorecer el sistema sanguíneo. Reserva ahora tu bono y luce el cuerpo que siempre has soñado. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Masaje Corporal Y Presoterapia", 
+            "duration": 5400, 
+            "price": "380 € ", 
+            "description": "Reserva este completo bono de 10 sesiones de masajes anticelulíticos acompañado de presoterapia para facilitar la eliminación de la celulitis. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "160 € ", 
+            "description": "La presoterapia facilita la eliminación de líquidos acumulados en tus piernas, mejora la circulación sanguínea y linfática, ademas de ser un remedio eficaz para los pies o piernas cansadas. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Corporal", 
+            "duration": 5400, 
+            "price": "320 € ", 
+            "description": "Reserva online nuestro bono de 10 sesiones de radiofrecuencia corporal para que tu piel vuelva a regenerar colágeno y gane elasticidad. Tu piel volverá a estar firme y tersa gracias a Eclipse. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Tratamiento Corporal Varices", 
+            "duration": 2700, 
+            "price": "280 € ", 
+            "description": "Este bono de 10 sesiones incluyen un tratamiento innovador para reducción de varices y arañas vasculares, a la ver que reafirmas la piel. NUSKIN. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Tto Corporal Flacidez De Abdomen", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "¿Debido a la perdida de peso tu abdomen esta colgando? En Eclipse tenemos la solución, con tan solo 3 meses y sin hacer los indeseados abdominales, conseguirás un vientre plano y liso. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Tto Corporal Flacidez De Brazos", 
+            "duration": 1800, 
+            "price": "240 € ", 
+            "description": "Bono 10 sesiones de tratamiento corporal. ¿Deseas eliminar la piel que cuelga del brazo? Ahora con el tratamiento de flacidez podrás saludar sin complejos. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 6 Sesiones Peeling Quimico Facial", 
+            "duration": 1800, 
+            "price": "200 € ", 
+            "description": "Peeling facial a base de acido salicílico. Aprovecha la más alta tecnología para combatir contra el acné o las manchas provocadas por el sol. Además es un excelente tratamiento anti-aging ya que difumina las pequeñas arrugas y disminuye las cicatrices. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Tratamiento Corporal Reductor Espalda", 
+            "duration": 1800, 
+            "price": "250 € ", 
+            "description": "¿Quieres deshacerte de la grasa que se acumula bajo el sujetador? Con este tratamiento podemos conseguirlo. Ponte en las manos de nuestros expertos profesionales de Estética y Bienestar Eclipse y disfruta de unos resultados únicos y con un trato personalizado."
+        }
+    ]
+}

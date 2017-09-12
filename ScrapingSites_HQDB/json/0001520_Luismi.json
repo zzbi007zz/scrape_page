@@ -1,0 +1,99 @@
+{
+    "adid": null, 
+    "name": "Luismi", 
+    "name_of_contact": "Luismi", 
+    "scrape_page": "https://www.bucmi.com/luismipeluquero", 
+    "business_website": "https://www.bucmi.com/luismipeluquero", 
+    "areas_covered": null, 
+    "description": "Luismi Peluquero, se encuentra en el centro de San Sebastián desde hace 10 años. Ofrecemos corte de pelo para hombre, afeitado clásico y arreglo de barba, entre otros servicios.No lo dudes más y ven a conocernos, nos avalan 25 años de experiencia.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635483804312433767.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635483804338842062.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635484573475350075.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635484573538167590.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Easo, 18", 
+    "city": "Donostia-San Sebastián", 
+    "zipcode": "20005", 
+    "formatted_address": "C/ Easo, 18, Donostia-San Sebastián, 20005", 
+    "country": "es", 
+    "office_number": "943013833", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3197763000", 
+    "longitude": "-1.9799183000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961647434389388.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre En Seco", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "Dale un nuevo aire a tu peinado con este corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales. El servicio no incluye lavado ni acabado, se realiza el corte en seco. No te arrepentirás del resultado gracias a nuestros expertos estilistas de Luismi Peluqueros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre, Lavado Y Secado", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Si eres hombre y quieres un corte de pelo con estilo, déjate asesorar por nuestros peluqueros profesionales que cuentan con años de experiencia. El servicio incluye el corte de tendencia, el lavado del pelo con champú y el peinado con productos de styling. Te encantará como te dejamos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Contamos con una amplia experiencia en arreglo de barba, le daremos forma y definimos. No dudes en ponerte en manos de nuestros profesionales. Conseguirás un look perfecto y quitarte de encima ese aspecto desaliñado gracias a nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Clásico", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Afeitado realizado con cuchilla. Utilizamos brocha y jabón para humedecer la barba y no dañar la piel. Reserva ahora este afeitado conseguirás un rostro suave. ¿A qué estás esperando? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Con Oxigenoterapia", 
+            "duration": 1800, 
+            "price": "23 € ", 
+            "description": "Consigue un rasurado perfecto a la vez que cuidas tu piel gracias a nuestro completo servicio de afeitado de barba que además cuenta con tratamiento facial de oxigenoterapia para hidratar y nutrir tu piel. No lo dudes más y haz tu reserve en Luismi Peluqueros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre En Seco", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "Dale un nuevo aire a tu peinado con este corte de pelo totalmente asesorado para sacar el mayor partido de tus rasgos faciales. El servicio no incluye lavado ni acabado, se realiza el corte en seco. No te arrepentirás del resultado gracias a nuestros expertos estilistas de Luismi Peluqueros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre, Lavado Y Secado", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Si eres hombre y quieres un corte de pelo con estilo, déjate asesorar por nuestros peluqueros profesionales que cuentan con años de experiencia. El servicio incluye el corte de tendencia, el lavado del pelo con champú y el peinado con productos de styling. Te encantará como te dejamos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Contamos con una amplia experiencia en arreglo de barba, le daremos forma y definimos. No dudes en ponerte en manos de nuestros profesionales. Conseguirás un look perfecto y quitarte de encima ese aspecto desaliñado gracias a nuestros expertos profesionales."
+        }
+    ]
+}

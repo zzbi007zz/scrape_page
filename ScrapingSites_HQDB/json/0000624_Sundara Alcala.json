@@ -1,0 +1,186 @@
+{
+    "adid": null, 
+    "name": "Sundara Alcalá", 
+    "name_of_contact": "Sundara Alcalá", 
+    "scrape_page": "https://www.bucmi.com/sundaraalcala", 
+    "business_website": "https://www.bucmi.com/sundaraalcala", 
+    "areas_covered": null, 
+    "description": "El centro de estética y depilación Sundara Alcalá situado en el barrio de Salamanca ofrece servicios de depilación con caramelo, depilación con hilo y servicios de uñas como manicuras entre otros. No esperes más y reserva ahora tu cita online con Bucmi.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008144141082443.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008144143738680.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008144142488688.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008144144363687.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008144144519932.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008144147802303.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008144141551191.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "10", 
+    "hqdb_review_score": "9,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28009", 
+    "formatted_address": "Madrid, 28002, Madrid, 28010, Madrid, 28027, Madrid, 28020, Madrid, 28045, Madrid, 28009", 
+    "country": "es", 
+    "office_number": "912300630", 
+    "office_number2": null, 
+    "mobile_number": "645681112", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4244812000", 
+    "longitude": "-3.6768034000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008149672918811.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilacion Hilo Labio Superior", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Ven a Sundara y prueba la depilación con hilo y olvídate de los métodos agresivos. Con esta técnica, se elimina el vello del labio superior de la manera mas natural y menos agresiva, evitando con esto las apariciones de manchas y de las arrugas provocadas por los tirones. ¿A qué estás esperado? Visita nuestros centro y quedarás encantada. ¡Calidad al mejor precio!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño Y Depilacion De Cejas Con Hilo", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "Ven a Sundara y conoce la novedosa técnica de depilación con hilo. Diseñamos y depilamos tus cejas de forma menos dolorosa y perjudicando menos los músculos faciales. La duración de este servicio es de 10 minutos aproximadamente. Prueba esta novedosa técnica venida desde la mismísima India y a parte de disfrutar de una piel libre de vello por más tiempo, estará más suave ya que ayuda a exfoliar la zona. Haz ya tu reserva online y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Express Five Free", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Luce unas manos bonitas sin renunciar a llevarlas lo más saludables posible. Con nuestra Manicura Express Five Free puedes conseguir una forma bonita para tus uñas y un color que respeta tus uñas, gracias a nuestros esmaltes Five Free, libres de componentes químicos. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Personalizado", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Consigue una piel libre de impurezas, lisa y más luminosa con nuestro tratamiento facial personalizado. Primero realizamos un estudio de las necesidades de tu cutis y después realizamos un ritual de belleza que va desde la limpieza hasta un masaje facial relajante, realizado siempre con productos Bio certificados, aceites vegetales y esenciales."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Personalizado", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Consigue una piel libre de impurezas, lisa y más luminosa con nuestro tratamiento facial personalizado. Primero realizamos un estudio de las necesidades de tu cutis y después realizamos un ritual de belleza que va desde la limpieza hasta un masaje facial relajante, realizado siempre con productos Bio certificados, aceites vegetales y esenciales."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Express Five Free", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Luce unas manos bonitas sin renunciar a llevarlas lo más saludables posible. Con nuestra Manicura Express Five Free puedes conseguir una forma bonita para tus uñas y un color que respeta tus uñas, gracias a nuestros esmaltes Five Free, libres de componentes químicos. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Express Five Free Semipermanente", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Nuestros especialistas en uñas dejarán tus manos bonitas en tan sólo 15 minutos con nuestra Manicura Express Five Free Semipermanente. Reserva este servicio y le daremos forma a tus uñas, además de maquillarlas con esmaltado Semipermanente Five Free, libre de componentes químicos perjudiciales. Confía en nuestros expertos esteticistas y luce unas uñas perfectas. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva?"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Express 5 Free Semipermanente", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Prepara tus pies y manos para el buen tiempo o para lucirlos en cualquier parte en nuestro stand de Sundara. Este servicio incluye dar forma a las uñas y maquillarlas con esmaltado semipermanente Five Free, el más natural y menos agresivo para tus uñas. Confía en nuestros expertos esteticistas y luce unas uñas perfectas por más tiempo. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura Express Five Free", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Prepara tus pies y manos para el buen tiempo o para lucirlos en cualquier parte en nuestro stand de Sundara. Este servicio incluye dar forma a las uñas y maquillarlas con esmaltado Five Free, el más natural y menos agresivo para tus uñas. Confía en nuestros expertos esteticistas y luce unas uñas perfectas. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Express Five Free", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "En tan solo minutos tus pies estarán listos para que los luzcas. Durante la Pedicura Express le damos forma a tus uñas y las maquillamos con un esmalte Five Free libre de componentes químicos dañinos. ¿A qué esperas para reservarlo? Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Personalizado", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Consigue una piel libre de impurezas, lisa y más luminosa con nuestro tratamiento facial personalizado. Primero realizamos un estudio de las necesidades de tu cutis y después realizamos un ritual de belleza que va desde la limpieza hasta un masaje facial relajante, realizado siempre con productos Bio certificados, aceites vegetales y esenciales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Express Five Free", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Luce unas manos bonitas sin renunciar a llevarlas lo más saludables posible. Con nuestra Manicura Express Five Free puedes conseguir una forma bonita para tus uñas y un color que respeta tus uñas, gracias a nuestros esmaltes Five Free, libres de componentes químicos. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Express Five Free Semipermanente", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Nuestros especialistas en uñas dejarán tus manos bonitas en tan sólo 15 minutos con nuestra Manicura Express Five Free Semipermanente. Reserva este servicio y le daremos forma a tus uñas, además de maquillarlas con esmaltado Semipermanente Five Free, libre de componentes químicos perjudiciales. Confía en nuestros expertos esteticistas y luce unas uñas perfectas. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Express 5 Free Semipermanente", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Prepara tus pies y manos para el buen tiempo o para lucirlos en cualquier parte en nuestro stand de Sundara. Este servicio incluye dar forma a las uñas y maquillarlas con esmaltado semipermanente Five Free, el más natural y menos agresivo para tus uñas. Confía en nuestros expertos esteticistas y luce unas uñas perfectas por más tiempo. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Express Five Free", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Prepara tus pies y manos para el buen tiempo o para lucirlos en cualquier parte en nuestro stand de Sundara. Este servicio incluye dar forma a las uñas y maquillarlas con esmaltado Five Free, el más natural y menos agresivo para tus uñas. Confía en nuestros expertos esteticistas y luce unas uñas perfectas. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Express Five Free", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "En tan solo minutos tus pies estarán listos para que los luzcas. Durante la Pedicura Express le damos forma a tus uñas y las maquillamos con un esmalte Five Free libre de componentes químicos dañinos. ¿A qué esperas para reservarlo? Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Express Five Free Semipermanente", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Prepara tus pies para el buen tiempo o para lucirlos en cualquier parte en nuestro stand de Sundara. Este servicio incluye dar forma a las uñas y maquillarlas con esmaltado semipermanente Five Free, el más natural y menos agresivo para tus uñas. Confía en nuestros expertos esteticistas y luce unas uñas perfectas por más tiempo. Escoge tu color favorito y nosotros nos encargamos de lo demás. ¿A qué estás esperando para hacer tu reserva online? Solo con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Hilo Cara Y Cejas", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Siéntete más guapa que nunca con una depilación facial completa realizada con hilo. En media hora eliminamos el vello de cejas, patillas, mejillas, labio y barbilla de la forma menos dolorosa. No incluye la zona de la frente. Prueba esta novedosa técnica venida desde la mismísima India y a parte de disfrutar de una piel libre de vello por más tiempo, estará más suave ya que ayuda a exfoliar la zona. Haz ya tu reserva online y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Hilo Cara, Cejas Y Frente", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Los métodos tradicionales de depilación facial pueden favorecer que los músculos de nuestro rostro pierdan firmeza, pero la depilación con hilo no afecta a nuestros músculos. Pruébala y líbrate del vello facial con este método. Este servicio incluye la depilación con hilo en la frente, las cejas, patillas, mejillas, labio, frente y barbilla. Prueba esta novedosa técnica venida desde la mismísima India y a parte de disfrutar de una piel libre de vello por más tiempo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Caramelo Axilas O Ingles", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "¿Aún no conocer la depilación 'sugaring'? En Sundara somos especialistas en depilación con caramelo. Reserva este servicio de depilación de axilas o ingles con pasta de caramelo y elimina el vello de forma menos dolorosa. La sesión dura 10 minutos aproximadamente. Confía en nuestros expertos esteticistas de Sundara y disfruta de una piel suave gracias a este completo servicio. Te encantarán los resultados."
+        }
+    ]
+}

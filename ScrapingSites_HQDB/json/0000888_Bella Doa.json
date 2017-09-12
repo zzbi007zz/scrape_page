@@ -1,0 +1,101 @@
+{
+    "adid": null, 
+    "name": "Bella Doa", 
+    "name_of_contact": "Bella Doa", 
+    "scrape_page": "https://www.bucmi.com/belladoa", 
+    "business_website": "https://www.bucmi.com/belladoa", 
+    "areas_covered": null, 
+    "description": "Centro de Belleza dedicado únicamente a cuidar tus manos y pies. Estamos situados cerca de Cardenal Herrera Oria ¡Disfruta de tus uñas bonitas con nuestros servicios de calidad!", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Serrano, 79", 
+    "city": "Madrid", 
+    "zipcode": "28035", 
+    "formatted_address": "C/ Serrano, 79, Madrid, 28035", 
+    "country": "es", 
+    "office_number": "917311111", 
+    "office_number2": null, 
+    "mobile_number": "690700280", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4813317000", 
+    "longitude": "-3.7208367000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811969971226725.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Disfruta de una manicura perfecta durante más tiempo, con esta manicura permanente completa, que incluye limado de uñas, retirar cutículas, hidratación y esmalte en color o francesa al mismo precio."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "Este tratamiento realiza limado, retirada de cutículas y esmaltado a elegir entre francesa o color. Porque te cuidas, nosotros te cuidamos..."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Uñas Acrílicas", 
+            "duration": 7200, 
+            "price": "52 € ", 
+            "description": "Si se te rompen las uñas y nunc consigues tenerlas largas... Puedes disfrutar de unas uñas perfecta durante mucho más tiempo. Esculpido Natural."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 6 Manicuras Permanentes", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Con este bono, tendrás tus uñas siempre perfectas, disfruta de esta promoción de manicuras permanentes. Incluye limado, retirada de cutículas, hidratación y esmaltado a color o permanente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Disfruta de una manicura perfecta durante más tiempo, con esta manicura permanente completa, que incluye limado de uñas, retirar cutículas, hidratación y esmalte en color o francesa al mismo precio."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "Este tratamiento realiza limado, retirada de cutículas y esmaltado a elegir entre francesa o color. Porque te cuidas, nosotros te cuidamos..."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Permanente", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "El servicio incluye limado, retirada de cutículas, durezas y esmaltado permanente color o francesa. Porque no sólo tenemos que cuidar neustros peis en verano y nosotros lo sabemos..."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Uñas Acrílicas", 
+            "duration": 7200, 
+            "price": "52 € ", 
+            "description": "Si se te rompen las uñas y nunc consigues tenerlas largas... Puedes disfrutar de unas uñas perfecta durante mucho más tiempo. Esculpido Natural."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Uñas Acrílicas", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Si no consigues que el largo de tus uñas te duren. Puedes disfrutar de unas uñas perfecta durante mucho más tiempo, garcias a nuestras uñsa acrílicas. Francesa Permanente."
+        }
+    ]
+}

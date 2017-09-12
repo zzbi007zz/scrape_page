@@ -1,0 +1,97 @@
+{
+    "adid": null, 
+    "name": "Ginos", 
+    "name_of_contact": "Ginos", 
+    "scrape_page": "https://www.bucmi.com/ginos-peluqueria-y-estetica", 
+    "business_website": "https://www.bucmi.com/ginos-peluqueria-y-estetica", 
+    "areas_covered": null, 
+    "description": "El centro de estética y peluquería Ginos situado en Nou Barris, Barcelona, ofrece gran variedad de cortes de pelo asesorados, color, mechas, peinados y servicios de uñas tales como manicuras con uñas de gel y pedicuras. Reserva ahora tu cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657692305165.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657703867500.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657714961034.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657730898306.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657744335384.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657757303971.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657779178561.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657803552906.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283657821052735.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Corsega, 585", 
+    "city": "Barcelona", 
+    "zipcode": "08031", 
+    "formatted_address": "C/ Corsega, 585, Barcelona, 08031", 
+    "country": "es", 
+    "office_number": "934292657", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4303118000", 
+    "longitude": "2.1675860000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636283661951931992.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "47 € ", 
+            "description": "Dale el máximo cuidado a tu cutis para que refleje la mejor versión de ti con una limpieza facial completa. Este servicio incluye limpieza profunda de el rostro, peeling, extraccion de impurezas, mascarilla nutritiva, masaje facial y crema de día. Verás tu cutis más sano y luminoso que nunca."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar, Peinar Y Tratamiento Capilar Exprés", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Si quieres realizarte un corte de moda o simplemente sanear las puntas, ven a realizártelo a Ginos y consigue además un tratamiento exprés de keratina. El servicio incluye lavado con champú e hidratación, tratamiento de keratina exprés, corte de pelo asesorado y secado final para salir perfecta de nuestro salón. ¡Resérvalo online y ven a conocernos!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Melena Y Secado", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Crea contrastes y realza tu color natural con unas mechas. Nuestros profesionales te aplicarán mechas en un color, te lavarán el pelo con champú e hidratación y te realizarán un secado rápido para quitar humedad. No incluye peinado. Válido para media melena hasta los hombros. ¡Resérvalo online y aprovecha esta promoción!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar, Peinar Y Tratamiento Capilar Exprés", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Si quieres realizarte un corte de moda o simplemente sanear las puntas, ven a realizártelo a Ginos y consigue además un tratamiento exprés de keratina. El servicio incluye lavado con champú e hidratación, tratamiento de keratina exprés, corte de pelo asesorado y secado final para salir perfecta de nuestro salón. ¡Resérvalo online y ven a conocernos!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Secar", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Consigue el color que más te favorezca, contando con el asesoramiento de nuestros profesionales. Reserva este servicio a través de Bucmi y durante tu visita te aplicaremos el color elegido, te lavaremos el pelo con champú e hidratación y te realizaremos un secado para dar forma a tu pelo. ¡Te esperamos!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Largo Y Secado", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Luce una melena deslumbrante con unos mechas naturales o más atrevidas. Confía en nuestros profesionales para conseguir un nuevo look y reserva tu cita cómodamente online. Durante tu visita te aplicaremos mechas en un color, le lavaremos el pelo con champú e hidratación y finalizaremos con un secado natural para quitar humedad. No incluye peinado. Válido para pelo largo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Media Melena Y Secado", 
+            "duration": 5400, 
+            "price": "47 € ", 
+            "description": "Crea contrastes y realza tu color natural con unas mechas. Nuestros profesionales te aplicarán mechas en un color, te lavarán el pelo con champú e hidratación y te realizarán un secado rápido para quitar humedad. No incluye peinado. Válido para media melena hasta los hombros. ¡Resérvalo online y aprovecha esta promoción!"
+        }
+    ]
+}

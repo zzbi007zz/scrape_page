@@ -1,0 +1,189 @@
+{
+    "adid": null, 
+    "name": "Artevy", 
+    "name_of_contact": "Artevy", 
+    "scrape_page": "https://www.bucmi.com/artevy", 
+    "business_website": "https://www.bucmi.com/artevy", 
+    "areas_covered": null, 
+    "description": "Artevy Estilistas, su centro de estilismo y peluquería en pleno corazón de Madrid.En nuestro centro recibirá el mejor servicio, contamos con los mejores profesionales y trabajamos con las mejores marcas y productos: Kérastase, L'Oréal, etc.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066176232082.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066350464658.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066353589906.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066353902431.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066355465055.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066354058693.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066355465055.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066354683747.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066354840005.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635494066378435628.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Galeote, 2", 
+    "city": "Madrid", 
+    "zipcode": "28015", 
+    "formatted_address": "C/ Galeote, 2, Madrid, 28015", 
+    "country": "es", 
+    "office_number": "910241381", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4317619000", 
+    "longitude": "-3.7159802999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971976760477265.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar Y Peinar Media Melena", 
+            "duration": 2700, 
+            "price": "39,5 € ", 
+            "description": "El servicio incluye el lavado del cabello con champú, el corte de pelo que más vaya contigo y por último el peinado de tu melena. No incluye hidratación del cabello ni productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "21,5 € ", 
+            "description": "El servicio incluye el lavado del pelo, el corte que más te guste y vaya contigo, y por último el peinado con productos de acabado, para que salgas listo y perfecto al salir de nuestra peluquería."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El servicio de corte de pelo para mujer incluye el lavado del pelo con champú específico, y por último el corte del cabello con asesoramiento por nuestros peluqueros. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "66 € ", 
+            "description": "El servicio incluye lavar el pelo con champú específico, el corte de tu cabello que más te guste, el color que más vaya contigo y por último te peinamos con el look que más se adapte a ti."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Prótesis Capilar Parcial A Medida", 
+            "duration": 5400, 
+            "price": "875 € ", 
+            "description": "El precio que aparece en Bucmi es un precio aproximado, ya que el total se cerrará una vez la plantilla llegue a fábrica. Consulte con el profesional para más información. ¡Reserva online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raíz", 
+            "duration": 3600, 
+            "price": "39,5 € ", 
+            "description": "El servicio incluye el retoque de color en raíz y el lavado del pelo con champú específico. No incluye peinar. Además ahora puedes ahorrar tiempo y reservar online en nuestro centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 5400, 
+            "price": "55,5 € ", 
+            "description": "El servicio incluye lavar el pelo con champú específico, el corte del cabello, el color que más vaya contigo y por último un peinado para melena media. Reserva online en nuestra peluquería Artevy."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Extralargo", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio incluye el lavado del pelo con champú, el corte de la melena y por último el peinado del cabello. No incluye hidratación del cabello ni productos de acabado. ¡Reserva online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Largo", 
+            "duration": 3600, 
+            "price": "41,5 € ", 
+            "description": "El servicio incluye el lavado del cabello con champú, el corte de pelo que más vaya contigo y por último el peinado de tu melena. No incluye hidratación del cabello ni productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Media Melena", 
+            "duration": 2700, 
+            "price": "39,5 € ", 
+            "description": "El servicio incluye el lavado del cabello con champú, el corte de pelo que más vaya contigo y por último el peinado de tu melena. No incluye hidratación del cabello ni productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "36,5 € ", 
+            "description": "El servicio incluye el lavado del cabello con champú, el corte de pelo que más te guste y por último el peinado que vaya contigo. No incluye hidratación del cabello ni producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar, Color Y Peinado Largo", 
+            "duration": 5400, 
+            "price": "83 € ", 
+            "description": "El servicio incluye el lavado del cabello con champú específico, el corte de pelo, el color que más te guste y que vaya contigo y por último el peinado para melena larga. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar, Color Y Peinado Pelo Extralargo", 
+            "duration": 5400, 
+            "price": "90,5 € ", 
+            "description": "El servicio incluye el lavado del cabello con champú específico, el corte de pelo, el color que más te guste y que vaya contigo y por último el peinado para melena extra larga. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "21,5 € ", 
+            "description": "El servicio incluye el lavado del pelo, el corte que más te guste y vaya contigo, y por último el peinado con productos de acabado, para que salgas listo y perfecto al salir de nuestra peluquería."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Prótesis Capilar Entera A Medida", 
+            "duration": 5400, 
+            "price": "1500 € ", 
+            "description": "El precio que aparece en Bucmi es un precio aproximado, ya que el total se cerrará una vez la plantilla llegue a fábrica. Consulte con el profesional para más información. ¡Reserva online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Retoque Mechas", 
+            "duration": 3600, 
+            "price": "47 € ", 
+            "description": "El servicio incluye el lavado del cabello con champú específico y el retoque de las mechas. No incluye peinar ni hidratación para la melena. Reserva ya tu cita online en nuestro centro Artevy Estilistas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El servicio de corte de pelo para mujer incluye el lavado del pelo con champú específico, y por último el corte del cabello con asesoramiento por nuestros peluqueros. No incluye peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "66 € ", 
+            "description": "El servicio incluye lavar el pelo con champú específico, el corte de tu cabello que más te guste, el color que más vaya contigo y por último te peinamos con el look que más se adapte a ti."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Prótesis Capilar Parcial A Medida", 
+            "duration": 5400, 
+            "price": "875 € ", 
+            "description": "El precio que aparece en Bucmi es un precio aproximado, ya que el total se cerrará una vez la plantilla llegue a fábrica. Consulte con el profesional para más información. ¡Reserva online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color En Raíz", 
+            "duration": 3600, 
+            "price": "39,5 € ", 
+            "description": "El servicio incluye el retoque de color en raíz y el lavado del pelo con champú específico. No incluye peinar. Además ahora puedes ahorrar tiempo y reservar online en nuestro centro."
+        }
+    ]
+}

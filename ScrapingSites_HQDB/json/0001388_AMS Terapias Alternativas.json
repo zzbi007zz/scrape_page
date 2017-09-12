@@ -1,0 +1,111 @@
+{
+    "adid": null, 
+    "name": "AMS Terapias Alternativas", 
+    "name_of_contact": "AMS Terapias Alternativas", 
+    "scrape_page": "https://www.bucmi.com/amsterapias", 
+    "business_website": "https://www.bucmi.com/amsterapias", 
+    "areas_covered": null, 
+    "description": "Centro de terapias naturales y alternativas en Barcelona, especialista en hipnosis y reiki. Déjate asesorar por nuestros mejores profesionales titulados con amplía experiencia en el sector. Atención personalizada.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635716144318319289.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635716144524283945.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "934104904", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3795933000", 
+    "longitude": "2.1323184000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968421576032603.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Alternativa Hipnosis Dejar De Fumar", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Deja de fumar gracias a esta sesión individual de hipnosis. Se realiza una entrevista previa con el paciente para realizar un tratamiento único y personalizado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Alternativa Hipnosis Hábitos Alimenticios", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Mejora tus hábitos alimenticios para corregir dolencias y adelgazar gracias a esta sesión individual de hipnosis. Se realiza una entrevista previa con el paciente para realizar un tratamiento único y personalizado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Reiki", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Terapia ancestral que ayuda a canalizar la energía para conseguir mejorar la salud del paciente y armonizar el cuerpo con la mente."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa Hipnosis Dejar De Fumar", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Deja de fumar gracias a esta sesión individual de hipnosis. Se realiza una entrevista previa con el paciente para realizar un tratamiento único y personalizado."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa Hipnosis Hábitos Alimenticios", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Mejora tus hábitos alimenticios para corregir dolencias y adelgazar gracias a esta sesión individual de hipnosis. Se realiza una entrevista previa con el paciente para realizar un tratamiento único y personalizado."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa Hipnosis Depresión", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Ayuda a tratar la depresión gracias a esta sesión individual de hipnosis. Se realiza una entrevista previa para realizar un tratamiento único y personalizado a cada paciente."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa Hipnosis Individual Autoestima", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Mejora tus problemas de autoestima y comienza a quererte a ti mismo gracias a esta única sesión de hipnosis en la que se realiza una entrevista previa para poder adecuar la sesión a las necesidades de cada paciente."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa Hipnosis Individual: Insomnio", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Resuelve tus problemas de insomnio con esta única sesión de hipnosis personalizada con entrevista previa para adecuarse a los problemas de cada paciente. Duerme de un tirón toda la noche."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesión De Reiki", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Terapia ancestral que ayuda a canalizar la energía para conseguir mejorar la salud del paciente y armonizar el cuerpo con la mente."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Acupuntura", 
+            "duration": 2700, 
+            "price": "65 € ", 
+            "description": "Prueba esta milenaria técnica que mediante el trabajo de canales o meridianos, con la manipulación de pequeñas agujas que desbloquean la energía, estabiliza y mejora tu estado general.La OMS reconoce y apoya la utilidad de ésta terapia ante patologías como el dolor, cansancio crónico, depresión, obesidad y otras muchísimas dolencias."
+        }
+    ]
+}

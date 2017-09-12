@@ -1,0 +1,162 @@
+{
+    "adid": null, 
+    "name": "Lookura", 
+    "name_of_contact": "Lookura", 
+    "scrape_page": "https://www.bucmi.com/lookurapeluqueros", 
+    "business_website": "https://www.bucmi.com/lookurapeluqueros", 
+    "areas_covered": null, 
+    "description": "Lookura es un salón de peluquería ubicado en la zona de Villaverde bajo, Madrid. Con una imagen joven y actual, nuestro centro apuesta por ser un referente en el sector de la peluquería. Horario ininterrumpido con una muy buena relación calidad precio.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635641982836902020.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635641983049904695.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635641983066468224.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635641983086938572.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28021", 
+    "formatted_address": "Madrid, 28051, Madrid, 28021", 
+    "country": "es", 
+    "office_number": "917964154", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3506878000", 
+    "longitude": "-3.6895190999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971993473022412.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "21 € ", 
+            "description": "¡Reserva nuestro corte de pelo con peinado para tu media melena! Disponemos de los mejores profesionales para que te realicen el corte que siempre has deseado. El servicio incluye el lavado y peinado a elegir. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas O Reflejos Y Secado Media Melena", 
+            "duration": 5400, 
+            "price": "31 € ", 
+            "description": "¿Te gustaría hacerte unas mechas o reflejos en tu cabello? ¡No lo dudes más y reserva este servicio! Incluye las mechas o reflejos, lavado y secado. No incluye peinado, mascarilla o crema ni productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte, Corte Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "El servicio incluye el color, el corte y el peinado a elegir siempre asesorado por nuestros profesionales. No incluye crema o mascarilla. En caso de tener un largo distinto, se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Hombre Y Lavado", 
+            "duration": 2700, 
+            "price": "9 € ", 
+            "description": "¿Necesitas un corte de pelo con estilo? ¡Reserva nuestro corte de pelo para hombre! Dinos que corte te gustaría lucir y nuestros profesionales se encargarán de todo. El servicio incluye el lavado y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "¡Corta y peina tu pelo en nuestro centro! El servicio incluye el lavado. No incluye mascarilla o crema. Si tienes un largo superior al indicado en el nombre del servicio, se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "21 € ", 
+            "description": "¡Reserva nuestro corte de pelo con peinado para tu media melena! Disponemos de los mejores profesionales para que te realicen el corte que siempre has deseado. El servicio incluye el lavado y peinado a elegir. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Corte Y Peinado Pelo Extralargo", 
+            "duration": 5400, 
+            "price": "43 € ", 
+            "description": "¡Reserva nuestro pack más completo! Te realizaremos color, corte y peinado en un mismo servicio. Te aconsejaremos en todo lo que necesites para que salgas encantada de nuestro centro. No incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas O Reflejos Y Secado Pelo Largo", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "¡Cambia de look con nuestro servicio de mechas o reflejos! Disponemos de profesionales expertos. Incluye las mechas o reflejos, lavado y secado. No incluye peinado, mascarilla o crema ni productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas O Reflejos Y Secado Pelo Extralargo", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "¡Hazte un cambio en tu pelo reservando nuestro servicio de mechas o reflejos! Incluye las mechas o reflejos, lavado y secado. No incluye peinado, mascarilla o crema ni productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "¡Sanea tu melena reservando nuestro corte de pelo! Te realizaremos el corte según las pautas que nos digas y te aconsejaremos en lo que necesites. El servicio incluye lavado y peinado a elegir. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas O Reflejos Y Secado Media Melena", 
+            "duration": 5400, 
+            "price": "31 € ", 
+            "description": "¿Te gustaría hacerte unas mechas o reflejos en tu cabello? ¡No lo dudes más y reserva este servicio! Incluye las mechas o reflejos, lavado y secado. No incluye peinado, mascarilla o crema ni productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Extralargo", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "¡Dale un cambio de estilo a tu pelo y reserva nuestro corte de pelo con peinado! No lo dudes más y ponte en manos de nuestros peluqueros. El servicio incluye lavado y peinado a elegir. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Corte Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "¿Te apetece un cambio de look radical? ¡Reserva nuestro pack más completo! Nuestros profesionales se encargarán de realizarte color, corte y el peinado que más te apetezca lucir. No incluye crema o mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Corte Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "El servicio incluye el color, el corte y el peinado a elegir siempre asesorado por nuestros profesionales. No incluye crema o mascarilla. En caso de tener un largo distinto, se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Hombre Y Lavado", 
+            "duration": 2700, 
+            "price": "9 € ", 
+            "description": "¿Necesitas un corte de pelo con estilo? ¡Reserva nuestro corte de pelo para hombre! Dinos que corte te gustaría lucir y nuestros profesionales se encargarán de todo. El servicio incluye el lavado y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas O Reflejos Y Secado Pelo Corto", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Luce un pelo con movimiento y con un toque especial reservando nuestras mechas o reflejos. El servicio incluye las mechas o reflejos, lavado y secado. No incluye peinado, mascarilla o crema ni productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "31 € ", 
+            "description": "El servicio incluye el color, el corte y el peinado a elegir siempre asesorado por nuestros profesionales. No incluye crema o mascarilla. Este servicio es exclusivo para pelo corto. En caso de tener el pelo por debajo de la oreja, se cobrará suplemento en el centro."
+        }
+    ]
+}

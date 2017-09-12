@@ -1,0 +1,158 @@
+{
+    "adid": null, 
+    "name": "José García Peluqueros", 
+    "name_of_contact": "José García Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/jgarcia", 
+    "business_website": "https://www.bucmi.com/jgarcia", 
+    "areas_covered": null, 
+    "description": "Peluquería con una amplia experiencia en el sector. En José García Peluqueros encontrarás servicios y tratamientos específicos para cada tipo de cabello. Nos gusta personalizar nuestro tratamientos al máximo, por eso siempre te asesoramos y ayudamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924368397020645.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924368420031745.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924368441750426.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924368467532021.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924368485501686.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924368503626632.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924368520357936.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "16", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28009", 
+    "formatted_address": "Madrid, 28006, Madrid, 28009", 
+    "country": "es", 
+    "office_number": "915739104", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4163781000", 
+    "longitude": "-3.6746627999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971820775402879.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "El servicio incluye el lavado del pelo con champú específico, el corte de pelo que más vaya contigo y por último el peinado con productos de acabado (Gomina o Cera). ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Antiencrespamiento", 
+            "duration": 10800, 
+            "price": "130 € ", 
+            "description": "Disfrutarás de una melena lisa sin tener que preocuparte por el encrespamiento. Trabajarán tu pelo los mejores profesionales y no te arrepentirás de tu nuevo look. Incluye lavar y peinar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color De Pelo Caballero", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el color de pelo, el lavado con champú específico y por último el peinado con productos styling. ¡Reserva ya tu cita online en nuestro centro José García Peluqueros!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "El servicio incluye el lavado del pelo con champú específico, el corte de pelo que más vaya contigo y por último el peinado con productos de acabado (Gomina o Cera). ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Antiencrespamiento", 
+            "duration": 10800, 
+            "price": "130 € ", 
+            "description": "Disfrutarás de una melena lisa sin tener que preocuparte por el encrespamiento. Trabajarán tu pelo los mejores profesionales y no te arrepentirás de tu nuevo look. Incluye lavar y peinar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color De Pelo Caballero", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el color de pelo, el lavado con champú específico y por último el peinado con productos styling. ¡Reserva ya tu cita online en nuestro centro José García Peluqueros!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés Media Melena", 
+            "duration": 10800, 
+            "price": "135 € ", 
+            "description": "Gracias a este alisado japonés para melenas de longitud media, podrás eliminar el encrespamiento de tu cabello y dejarlo totalmente liso e hidratado. Reserva ya tu cita online."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés Pelo Largo", 
+            "duration": 10800, 
+            "price": "180 € ", 
+            "description": "Con el servicio de alisado japonés ayudarás a tu cabello de longitud larga a eliminar el encrespamiento de tu melena. Ahora podrás reservar online en nuestro salón de peluquería."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "El servicio incluye un tinte o coloración para disfrutar de un nuevo look sin remordimiento. Podrás teñir tu pelo como más te guste en nuestro centro de peluquería José García. El servicio incluye lavado, color y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Y Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¿No encuentras el momento de cambiar de look? Ven a visitarnos y cambia de estilo. Es el momento de lucir una melena suave, brillante y bonita. El servicio incluye lavado, corte, secado y peinado. Reserva ahora en Bucmi.com y disfruta de todas estas ventajas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio incluye las mechas de raíz del color que más te guste. Consulta con nuestros peluqueros profesionales y ellos te asesorarán siempre que lo necesites y lo desees. Saldrás de nuestro salón con una melena brillante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "Disfruta de las tendencias del momento con un nuevo color degradado para el pelo. El servicio incluye mechas tradicionales, lavado con champú y acondicionador, y el peinado estiloso del cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador", 
+            "duration": 5400, 
+            "price": "27 € ", 
+            "description": "El servicio incluye una sesión de peluquería para la realización de un moldeador. Anímate y consigue unos rizos ideales y cuidados durante 3 semanas. ¡Reserva ya online en nuestro centro!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Disfruta de un peinado innovador y moderno. Pregunta a nuestros peluqueros profesionales que te ayudarán y asesorarán en todo momento para que te sientas bien. ¡Reserva online ya!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Gracias a este servicio podrás disfrutar de un peinado innovador y moderno. No lo dudes, pregunta a nuestros peluqueros profesionales que te ayudarán y asesorarán en todo momento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "El servicio incluye un tinte o coloración para disfrutar de un nuevo look sin remordimiento. Podrás colorarte tu pelo como más te guste en nuestro centro de peluquería José García."
+        }
+    ]
+}

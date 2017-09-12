@@ -1,0 +1,645 @@
+{
+    "adid": null, 
+    "name": "Sukha", 
+    "name_of_contact": "Sukha", 
+    "scrape_page": "https://www.bucmi.com/sukha", 
+    "business_website": "https://www.bucmi.com/sukha", 
+    "areas_covered": null, 
+    "description": "El centro de estética Shuka, situado en Moncloa, ofrece servicios de estética tales como, extensiones de pestañas, manicuras y pedicuras y masajes entre otros. Los tratamientos combinan la tecnología más innovadora con terapias milenarias.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790416788889116.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790417089376732.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790417176876429.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790417267657625.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790419261400568.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790419357650581.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790419464851735.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790419560320185.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790419629382440.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790419723600830.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790419781413133.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "13", 
+    "hqdb_review_score": "9,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Guadarrama, 3", 
+    "city": "Madrid", 
+    "zipcode": "28003", 
+    "formatted_address": "C/ Guadarrama, 3, Madrid, 28003", 
+    "country": "es", 
+    "office_number": "911424987", 
+    "office_number2": null, 
+    "mobile_number": "626920471", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4427720000", 
+    "longitude": "-3.7139589999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970749975560.png", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante - 30 Min", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "Disfruta de un gran momento de relax gracias a este masaje Relajante. Permite aliviar todas las tensiones del día a día, mejorando el estado mental, físico y emocional. El masaje tiene una duración de 30 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas - 80 Extensiones", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 80 extensiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Express Y Pedicura Express", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Aprovecha y prepara tus manos y tus pies para que luzcan perfectos. El servicio de manicura básica incluye el arreglo de uñas, limado, cutícula, y esmaltado. La pedicura básica comprende el limado, cutícula, durezas y esmaltado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas - 140 Extensiones", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 140 extensiones. La duración es de 75 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas - 180 Extensiones", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 180 extensiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas - Retoque", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Debido a la propia renovación del pelo, es necesario realizar un mantenimiento periódico para garantizar el efecto de las extensiones de pestañas. En Sukha recomendamos someterse a este retoque cada 3 semanas: para que sigas luciendo una mirada profunda."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Express Francesa", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Este servicio incluye: limado de uñas, cuidado de cutículas y esmaltado a elegir entre una gran variedad de colores."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 5400, 
+            "price": "67 € ", 
+            "description": "Mejora la circulación , reduce la sensación de piernas cansadas y hace frente a la celulitis, evitando la retención de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte de Pestañas", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Lograras ver tus pestañas mucho mas densas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación - Sesión Completa", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación - Sesión Parcial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en 2 zonas localizadas (brazos, cartucheras, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Con Microdermoabrasión", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento consta de: Desmaquillado + tónico + microdermoabrasión (exfoliación del rostro con punta de diamante), y para finalizar la aplicación de una crema hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas - 80 Extensiones", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 80 extensiones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial + Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "¿Quieres un rostro perfecto? Gracias a esta higiene facial podrás eliminar todas las impurezas de la piel. El tratamiento comienza por una microdermoabrasión (es decir, la exfoliación del rostro con punta de diamante), así como la posterior extracción de las impurezas, un masaje relajante y la aplicación de una mascarilla hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento comienza por una microdermoabrasión (exfoliación del rostro con punta de diamante), así como la posterior extracción de las impurezas, un masaje relajante y la aplicación de una mascarilla hidratante. Finalmente, la hidratación con radiofrecuencia activará la formación de colágeno y elastina, lo que dará una luminosidad radiante a tu piel. Finaliza con baño de parafina en tus manos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Facial", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "Con este completo servicio conseguirás disminuir las arrugas de tu rostro y eliminar los signos de la edad. El resultado te sorprenderá: una piel luminosa, elástica y mucho más firme. Este servicio combina 1 sesión de fotorrejuvenecimiento y 1 sesión de radiofrecuencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "¿Tienes un evento especial y necesitas un maquillaje impecable? ¿Quizá una fiesta en la que necesites ser protagonista indiscutible? Sea como fuere, con este servicio podrás disfrutar de una sesión de maquillaje de día, de noche o de fiesta, ¡tú eliges!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual - Sesión Completa", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Mesoterapia Virtual consiste en la aplicación de corriente de media frecuencia que se modula, permitiendo la penetración de los activos. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual - Sesión Localizada", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "La Mesoterapia Virtual consiste en la aplicación de corriente de media frecuencia que se modula, permitiendo la penetraciónde los activos. El tratamiento se aplica en 1 zona localizada (brazos, cartucheras, abdomen o piernas) y dura 30 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual - Sesión Parcial", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "La Mesoterapia Virtual consiste en la aplicación de corriente de media frecuencia que se modula, permitiendo la penetraciónde los activos. El tratamiento se aplica en 2 zonas localizadas (brazos, cartucheras, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal + Hidratación", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Es necesario eliminar las células muertas de la piel de nuestro cuerpo para lograr una piel mucho más suave, luminosa y elástica. Además, con este servicio incluimos un tratamiento de hidratación, que permitirá nutrir en profundidad tu piel tras el peeling corporal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Limpia tu piel en profundidad gracias a este peeling facial: eliminamos las células muertas consiguiendo aclarar la piel y disimular las posibles manchas y demás marquitas en tu rostro. ¡El resultado te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia - 30 Minutos", 
+            "duration": 1800, 
+            "price": "23 € ", 
+            "description": "La Presoterapia consiste en la sucesiva compresión y descompresión en abdomen y piernas, mejorando la circulación. Gracias a ello sentirás tus piernas más ligeras. El tratamiento dura 30 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia- 45 Minutos", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "La Presoterapia consiste en la sucesiva compresión y descompresión en abdomen y piernas, mejorando la circulación. Gracias a ello sentirás tus piernas más ligeras. El tratamiento dura 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia - Cuerpo Completo", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Radiofrecuencia consiste en la aplicación de una corriente de alta frecuencia que estimula la formación de colágeno y elastina, aportando firmeza a la piel. Además, se combina con la mesoterapia virtual para que puedan penetrar los activos naturales. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia - Sesión Localizada", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "La Radiofrecuencia consiste en la aplicación de una corriente de alta frecuencia que estimula la formación de colágeno y elastina, aportando firmeza a la piel. Además, se combina con la mesoterapia virtual para que puedan penetrar los activos naturales. El tratamiento se aplica en 1 zona localizada (brazos, cartuchera, abdomen o piernas) y dura 30 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia - Sesión Parcial", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "La Radiofrecuencia consiste en la aplicación de una corriente de alta frecuencia que estimula la formación de colágeno y elastina, aportando firmeza a la piel. Además, se combina con la mesoterapia virtual para que puedan penetrar los activos naturales. El tratamiento se aplica en 2 zonas localizadas (brazos, cartuchera, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal A Base De Algas", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "La envolutura de algas te permitirá aportar nutrientes beneficiosos a tu piel: gracias a su aplicación, estos complejos nutritivos penetran en las capas más profundas de la dermis, logrando tonificar el cuerpo, eliminar grasa localizada y, en definitiva, te permitirán verte mejor."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Hidratante - 75 Minutos", 
+            "duration": 3600, 
+            "price": "67 € ", 
+            "description": "Deja tus preocupaciones atrás con este completo tratamiento de belleza. El servicio está compuesto por un peeling corporal, envoltura, hidratación y masaje final para terminar con una completa absorción de todos los compuestos utilizados en el tratamiento. Si quieres una piel más firme, nutrida, tonificada y elástica, ¡apúntate a este tratamiento!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmante", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este tratamiento está indicado para combatir la flacidez de tu cuerpo y reafirmar todas esas zonas que así lo necesitan. ¡Podrás disfrutar de una figura perfecta a partir de ya!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Localizado", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "Con este tratamiento corporal, conseguirás eliminar la grasa localizada de cualquier zona de tu cuerpo, dependiendo de las necesidades de la clienta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Triple R", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "Tratamiento Triple R, Reafirmante, Remodelador y Reductor. Es un tratamiento corporal completo, para conseguir eliminar esa grasa localizada que sobra, y además reafirmar y modelar tu figura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Despigmentante", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "Unifica el tono de tu piel y olvídate de esas incómodas manchas y marcas de tu rostro. En Sukha realizamos un diagnóstico personalizado de tu piel para proporcionarte los cuidados más adecuados. Empleamos productos de una línea de Cosmética 100% natural y los combinamos con nuestra aparatología (punta de diamante, radiofrecuencia, mesoterapia virtual, fotorrejuvenecimiento, fotoporación y crioterapia)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidratante", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "El tratamiento facial hidratante está especialmente pensado para pieles secas y sin vida. En Sukha realizamos un diagnóstico personalizado de tu piel para proporcionarte los cuidados más adecuados. Empleamos productos de una línea de Cosmética 100% natural y los combinamos con nuestra aparatología (punta de diamante, radiofrecuencia, mesoterapia virtual, fotorrejuvenecimiento, fotoporación y crioterapia)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Iluminador", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "¿Quieres aportar un toque de luminosidad a tu rostro? ¡Éste es tu tratamiento!. En Sukha realizamos un diagnóstico personalizado de tu piel para proporcionarte los cuidados más adecuados. Empleamos productos de una línea de Cosmética 100% natural y los combinamos con nuestra aparatología (punta de diamante, radiofrecuencia, mesoterapia virtual, fotorrejuvenecimiento, fotoporación y crioterapia)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Oxigenante", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "El tratamiento facial oxigenante mejora el aspecto de tu piel mediante la oxigenación de las células del rostro. En Sukha realizamos un diagnóstico personalizado de tu piel para proporcionarte los cuidados más adecuados. Empleamos productos de una línea de Cosmética 100% natural y los combinamos con nuestra aparatología (punta de diamante, radiofrecuencia, mesoterapia virtual, fotorrejuvenecimiento, fotoporación y crioterapia)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Revitalizante", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "¡Devuelve la frescura a tu rostro con el tratamiento revitalizante! En Sukha realizamos un diagnóstico personalizado de tu piel para proporcionarte los cuidados más adecuados. Empleamos productos de una línea de Cosmética 100% natural y los combinamos con nuestra aparatología (punta de diamante, radiofrecuencia, mesoterapia virtual, fotorrejuvenecimiento, fotoporación y crioterapia)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Reductor Electro-Termoestimulación", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "La Electro-Termoestimulación consiste en la aplicación de tecnología triactiff, electroestimulación y termoestimulación. Gracias a ello, la grasa se degrada progresivamente y el cuerpo se tonifica. El tratamiento se aplica en 1 zona localizada (brazos, cartucheras, abdomen o piernas) y dura 30 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Reductor Electro-Termoestimulación", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "La Electro-Termoestimulación consiste en la aplicación de tecnología triactiff, electroestimulación y termoestimulación. Gracias a ello, la grasa se degrada progresivamente y el cuerpo se tonifica. El tratamiento se aplica en 2 zonas localizadas (brazos, cartucheras, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Reductor Electro-Termoestimulación", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Electro-Termoestimulación consiste en la aplicación de tecnología triactiff, electroestimulación y termoestimulación. Gracias a ello, la grasa se degrada progresivamente y el cuerpo se tonifica. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas - 140 Extensiones", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 140 extensiones. La duración es de 75 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas - 180 Extensiones", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 180 extensiones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas - Retoque", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Debido a la propia renovación del pelo, es necesario realizar un mantenimiento periódico para garantizar el efecto de las extensiones de pestañas. En Sukha recomendamos someterse a este retoque cada 3 semanas: para que sigas luciendo una mirada profunda."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 5400, 
+            "price": "67 € ", 
+            "description": "Mejora la circulación , reduce la sensación de piernas cansadas y hace frente a la celulitis, evitando la retención de líquidos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte de Pestañas", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Lograras ver tus pestañas mucho mas densas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitación - Sesión Completa", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitación - Sesión Parcial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en 2 zonas localizadas (brazos, cartucheras, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Con Microdermoabrasión", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento consta de: Desmaquillado + tónico + microdermoabrasión (exfoliación del rostro con punta de diamante), y para finalizar la aplicación de una crema hidratante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas - 80 Extensiones", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 80 extensiones."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial + Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "¿Quieres un rostro perfecto? Gracias a esta higiene facial podrás eliminar todas las impurezas de la piel. El tratamiento comienza por una microdermoabrasión (es decir, la exfoliación del rostro con punta de diamante), así como la posterior extracción de las impurezas, un masaje relajante y la aplicación de una mascarilla hidratante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Con Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento comienza por una microdermoabrasión (exfoliación del rostro con punta de diamante), así como la posterior extracción de las impurezas, un masaje relajante y la aplicación de una mascarilla hidratante. Finalmente, la hidratación con radiofrecuencia activará la formación de colágeno y elastina, lo que dará una luminosidad radiante a tu piel. Finaliza con baño de parafina en tus manos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 5400, 
+            "price": "67 € ", 
+            "description": "Mejora la circulación , reduce la sensación de piernas cansadas y hace frente a la celulitis, evitando la retención de líquidos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte de Pestañas", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Lograras ver tus pestañas mucho mas densas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Cavitación - Sesión Completa", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Cavitación - Sesión Parcial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en 2 zonas localizadas (brazos, cartucheras, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Exfoliación Con Microdermoabrasión", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento consta de: Desmaquillado + tónico + microdermoabrasión (exfoliación del rostro con punta de diamante), y para finalizar la aplicación de una crema hidratante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Extensiones De Pestañas - 80 Extensiones", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 80 extensiones."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial + Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "¿Quieres un rostro perfecto? Gracias a esta higiene facial podrás eliminar todas las impurezas de la piel. El tratamiento comienza por una microdermoabrasión (es decir, la exfoliación del rostro con punta de diamante), así como la posterior extracción de las impurezas, un masaje relajante y la aplicación de una mascarilla hidratante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Con Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento comienza por una microdermoabrasión (exfoliación del rostro con punta de diamante), así como la posterior extracción de las impurezas, un masaje relajante y la aplicación de una mascarilla hidratante. Finalmente, la hidratación con radiofrecuencia activará la formación de colágeno y elastina, lo que dará una luminosidad radiante a tu piel. Finaliza con baño de parafina en tus manos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Lifting Facial", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "Con este completo servicio conseguirás disminuir las arrugas de tu rostro y eliminar los signos de la edad. El resultado te sorprenderá: una piel luminosa, elástica y mucho más firme. Este servicio combina 1 sesión de fotorrejuvenecimiento y 1 sesión de radiofrecuencia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Maquillaje", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "¿Tienes un evento especial y necesitas un maquillaje impecable? ¿Quizá una fiesta en la que necesites ser protagonista indiscutible? Sea como fuere, con este servicio podrás disfrutar de una sesión de maquillaje de día, de noche o de fiesta, ¡tú eliges!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Mesoterapia Virtual - Sesión Completa", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Mesoterapia Virtual consiste en la aplicación de corriente de media frecuencia que se modula, permitiendo la penetración de los activos. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Mesoterapia Virtual - Sesión Localizada", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "La Mesoterapia Virtual consiste en la aplicación de corriente de media frecuencia que se modula, permitiendo la penetraciónde los activos. El tratamiento se aplica en 1 zona localizada (brazos, cartucheras, abdomen o piernas) y dura 30 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 5400, 
+            "price": "67 € ", 
+            "description": "Mejora la circulación , reduce la sensación de piernas cansadas y hace frente a la celulitis, evitando la retención de líquidos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte de Pestañas", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Lograras ver tus pestañas mucho mas densas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación - Sesión Completa", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación - Sesión Parcial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en 2 zonas localizadas (brazos, cartucheras, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Con Microdermoabrasión", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento consta de: Desmaquillado + tónico + microdermoabrasión (exfoliación del rostro con punta de diamante), y para finalizar la aplicación de una crema hidratante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas - 80 Extensiones", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 80 extensiones."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial + Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "¿Quieres un rostro perfecto? Gracias a esta higiene facial podrás eliminar todas las impurezas de la piel. El tratamiento comienza por una microdermoabrasión (es decir, la exfoliación del rostro con punta de diamante), así como la posterior extracción de las impurezas, un masaje relajante y la aplicación de una mascarilla hidratante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento comienza por una microdermoabrasión (exfoliación del rostro con punta de diamante), así como la posterior extracción de las impurezas, un masaje relajante y la aplicación de una mascarilla hidratante. Finalmente, la hidratación con radiofrecuencia activará la formación de colágeno y elastina, lo que dará una luminosidad radiante a tu piel. Finaliza con baño de parafina en tus manos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lifting Facial", 
+            "duration": 3600, 
+            "price": "68 € ", 
+            "description": "Con este completo servicio conseguirás disminuir las arrugas de tu rostro y eliminar los signos de la edad. El resultado te sorprenderá: una piel luminosa, elástica y mucho más firme. Este servicio combina 1 sesión de fotorrejuvenecimiento y 1 sesión de radiofrecuencia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "¿Tienes un evento especial y necesitas un maquillaje impecable? ¿Quizá una fiesta en la que necesites ser protagonista indiscutible? Sea como fuere, con este servicio podrás disfrutar de una sesión de maquillaje de día, de noche o de fiesta, ¡tú eliges!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual - Sesión Completa", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Mesoterapia Virtual consiste en la aplicación de corriente de media frecuencia que se modula, permitiendo la penetración de los activos. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual - Sesión Localizada", 
+            "duration": 1800, 
+            "price": "34 € ", 
+            "description": "La Mesoterapia Virtual consiste en la aplicación de corriente de media frecuencia que se modula, permitiendo la penetraciónde los activos. El tratamiento se aplica en 1 zona localizada (brazos, cartucheras, abdomen o piernas) y dura 30 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual - Sesión Parcial", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "La Mesoterapia Virtual consiste en la aplicación de corriente de media frecuencia que se modula, permitiendo la penetraciónde los activos. El tratamiento se aplica en 2 zonas localizadas (brazos, cartucheras, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal + Hidratación", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Es necesario eliminar las células muertas de la piel de nuestro cuerpo para lograr una piel mucho más suave, luminosa y elástica. Además, con este servicio incluimos un tratamiento de hidratación, que permitirá nutrir en profundidad tu piel tras el peeling corporal."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Limpia tu piel en profundidad gracias a este peeling facial: eliminamos las células muertas consiguiendo aclarar la piel y disimular las posibles manchas y demás marquitas en tu rostro. ¡El resultado te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia - 30 Minutos", 
+            "duration": 1800, 
+            "price": "23 € ", 
+            "description": "La Presoterapia consiste en la sucesiva compresión y descompresión en abdomen y piernas, mejorando la circulación. Gracias a ello sentirás tus piernas más ligeras. El tratamiento dura 30 minutos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 5400, 
+            "price": "67 € ", 
+            "description": "Mejora la circulación , reduce la sensación de piernas cansadas y hace frente a la celulitis, evitando la retención de líquidos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tinte de Pestañas", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Lograras ver tus pestañas mucho mas densas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Cavitación - Sesión Completa", 
+            "duration": 3600, 
+            "price": "78 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en la totalidad del cuerpo y dura 60 minutos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Cavitación - Sesión Parcial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "La Cavitación consiste en la aplicación de ultrasonidos que deshacen los nódulos de grasa gracias a la ruptura de microburbujas. Se acompaña de presoterapia o masaje manual. El tratamiento se aplica en 2 zonas localizadas (brazos, cartucheras, abdomen o piernas) y dura 45 minutos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Exfoliación Con Microdermoabrasión", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "El tratamiento te permitirá eliminar todas las impurezas de la piel a la vez que le aporta luminosidad. El tratamiento consta de: Desmaquillado + tónico + microdermoabrasión (exfoliación del rostro con punta de diamante), y para finalizar la aplicación de una crema hidratante."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Extensiones De Pestañas - 80 Extensiones", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este servicio, realizado con seda asiática, te permitirá lucir una mirada discreta y natural, potenciando el efecto de tus pestañas. De forma laboriosa, las extensiones se van colocando pelo a palo para lograr el efecto más natural. Este servicio incluye la colocación de 80 extensiones."
+        }
+    ]
+}

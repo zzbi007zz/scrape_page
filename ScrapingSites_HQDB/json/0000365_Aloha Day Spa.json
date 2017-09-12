@@ -1,0 +1,307 @@
+{
+    "adid": null, 
+    "name": "Aloha Day Spa", 
+    "name_of_contact": "Aloha Day Spa", 
+    "scrape_page": "https://www.bucmi.com/alohadayspa", 
+    "business_website": "https://www.bucmi.com/alohadayspa", 
+    "areas_covered": null, 
+    "description": "Centro de estética y peluquería Aloha Day Spa fue creado en 1999 por un equipo de profesionales con la intención de ofrecer a sus clientes los mejores tratamientos personalizados. Queremos siempre el bienestar de sus clientes. Ven a conocernos a Aravaca.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020135155587786.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636020135187621545.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "7", 
+    "hqdb_review_score": "8,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Marroquina, 5", 
+    "city": "Madrid", 
+    "zipcode": "28023", 
+    "formatted_address": "C/ Marroquina, 5, Madrid, 28023", 
+    "country": "es", 
+    "office_number": "913571453", 
+    "office_number2": null, 
+    "mobile_number": "640640356", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4595239000", 
+    "longitude": "-3.7806605000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636020410364971427.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Diseño De Cejas", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Las cejas son fundamentales para mantener la armonía del rostro. Descubre cuál es el diseño ideal para ti. Las ceras que utilizamos son ceras tibias y de baja fusión. ¡Reserva ya tu cita online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Sanea tus puntas y moldea tu pelo de la mejor manera con el asesoramiento de los mejores profesionales. Incluye el lavado con champú, corte de pelo y un acabado perfecto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Tratamiento personalizado cuyo objetivo es restaurar y mejorar las defensas naturales de las células contra los radicales libres, mediante la estimulación de algunos sistemas enzimáticos protectores."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Sistema de alisado no químico, que inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "250 € ", 
+            "description": "Sistema de alisado no químico. Inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Lavar Y Peinar", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Déjate asesorar y cambia el color de tu pelo mostrando así más afinidad con tu personalidad y estilo. Incluye lavado con champú específico, color en pelo entero y peinado. ¡Reserva tu cita online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Incluye lavar, cortar y peinar. ¡Sanea y moldea tu melena para que brille en todo su esplendor! En Aloha Day Spa daremos siempre con tu estilo para reforzarlo y sacarte el mayor partido."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Niño", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Sanea el pelo y escoge el corte que mejor le quede a su cara para que sea el más guapo. Incluye el lavado del pelo con champú específico. ¡Reserva ya tu cita online con nosotros!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el lavado con champú y el peinado. Péinate y siéntete guapa. Un pelo bonito y cuidado marca la diferencia. Saldrás con un pelo reluciente de la peluquería."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinar", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Incluye mechas, lavar y peinar. Consigue dar luz a tu rostro y así endulzar los rasgos de tu cara. Pack ideal para reforzar tu imagen."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Y Tto Capilar Ácido Hialurónico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El servicio incluye el lavado, el peinado y por último el tratamiento de ácido hialurónico. Prueba la nueva terapia antiencrespamiento y disfruta de un pelo bonito y manejable."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Y Tto Capilar De Fango Detox", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Incluye lavar, peinar y Tratamiento desintoxicante que elimina metales y residuos del cuero cabelludo y del pelo. Cuidamos tu cabello en Aloha Day Spa con productos de calidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Sanea tus puntas y moldea tu pelo de la mejor manera con el asesoramiento de los mejores profesionales. Incluye el lavado con champú, corte de pelo y un acabado perfecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Sistema de alisado no químico, que inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Keratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "250 € ", 
+            "description": "Sistema de alisado no químico. Inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Lavar Y Peinar", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Déjate asesorar y cambia el color de tu pelo mostrando así más afinidad con tu personalidad y estilo. Incluye lavado con champú específico, color en pelo entero y peinado. ¡Reserva tu cita online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Incluye lavar, cortar y peinar. ¡Sanea y moldea tu melena para que brille en todo su esplendor! En Aloha Day Spa daremos siempre con tu estilo para reforzarlo y sacarte el mayor partido."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Niño", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Sanea el pelo y escoge el corte que mejor le quede a su cara para que sea el más guapo. Incluye el lavado del pelo con champú específico. ¡Reserva ya tu cita online con nosotros!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el lavado con champú y el peinado. Péinate y siéntete guapa. Un pelo bonito y cuidado marca la diferencia. Saldrás con un pelo reluciente de la peluquería."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Y Peinar", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Incluye mechas, lavar y peinar. Consigue dar luz a tu rostro y así endulzar los rasgos de tu cara. Pack ideal para reforzar tu imagen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinar Y Tto Capilar Ácido Hialurónico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El servicio incluye el lavado, el peinado y por último el tratamiento de ácido hialurónico. Prueba la nueva terapia antiencrespamiento y disfruta de un pelo bonito y manejable."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinar Y Tto Capilar De Fango Detox", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Incluye lavar, peinar y Tratamiento desintoxicante que elimina metales y residuos del cuero cabelludo y del pelo. Cuidamos tu cabello en Aloha Day Spa con productos de calidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Sanea tus puntas y moldea tu pelo de la mejor manera con el asesoramiento de los mejores profesionales. Incluye el lavado con champú, corte de pelo y un acabado perfecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bronceado Caña De Azúcar Corporal", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "Natural Bronze una alternativa ideal para conseguir un bronceado perfecto sin exponernos a los rayos uva. Aplicamos una fina capa de solución bronceadora a la piel dejándola suave y bronceada durante una semana."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Sistema de alisado no químico, que inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "250 € ", 
+            "description": "Sistema de alisado no químico. Inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Lavar Y Peinar", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Déjate asesorar y cambia el color de tu pelo mostrando así más afinidad con tu personalidad y estilo. Incluye lavado con champú específico, color en pelo entero y peinado. ¡Reserva tu cita online!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Incluye lavar, cortar y peinar. ¡Sanea y moldea tu melena para que brille en todo su esplendor! En Aloha Day Spa daremos siempre con tu estilo para reforzarlo y sacarte el mayor partido."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Sistema de alisado no químico, que inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Keratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "250 € ", 
+            "description": "Sistema de alisado no químico. Inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 5400, 
+            "price": "200 € ", 
+            "description": "Sistema de alisado no químico, que inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Keratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "250 € ", 
+            "description": "Sistema de alisado no químico. Inyecta queratina en el interior de la cutícula del cabello, reduciendo hasta el 95% del encrespamiento y rizo del cabello, dejándolo suave, brillante y sedoso incluso en cabellos coloreados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color, Lavar Y Peinar", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Déjate asesorar y cambia el color de tu pelo mostrando así más afinidad con tu personalidad y estilo. Incluye lavado con champú específico, color en pelo entero y peinado. ¡Reserva tu cita online!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cortar Y Peinar", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Incluye lavar, cortar y peinar. ¡Sanea y moldea tu melena para que brille en todo su esplendor! En Aloha Day Spa daremos siempre con tu estilo para reforzarlo y sacarte el mayor partido."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Niño", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Sanea el pelo y escoge el corte que mejor le quede a su cara para que sea el más guapo. Incluye el lavado del pelo con champú específico. ¡Reserva ya tu cita online con nosotros!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El servicio incluye el lavado con champú y el peinado. Péinate y siéntete guapa. Un pelo bonito y cuidado marca la diferencia. Saldrás con un pelo reluciente de la peluquería."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Y Peinar", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Incluye mechas, lavar y peinar. Consigue dar luz a tu rostro y así endulzar los rasgos de tu cara. Pack ideal para reforzar tu imagen."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peinar Y Tto Capilar Ácido Hialurónico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El servicio incluye el lavado, el peinado y por último el tratamiento de ácido hialurónico. Prueba la nueva terapia antiencrespamiento y disfruta de un pelo bonito y manejable."
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "adid": null, 
+    "name": "Monica", 
+    "name_of_contact": "Monica", 
+    "scrape_page": "https://www.bucmi.com/monica", 
+    "business_website": "https://www.bucmi.com/monica", 
+    "areas_covered": null, 
+    "description": "En Peluquería y Estética Mónica somos especialistas en tu cuidado. Situada en Oviedo, encontrarás lo último en peinados y tendencias de moda, además de servicios de estética como depilación, manicura o pedicura. ¡Ven a visitarnos y no te arrepentirás!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635513202500632920.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635621188294070764.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Rosal, 39", 
+    "city": "Oviedo", 
+    "zipcode": "33008", 
+    "formatted_address": "C/ Rosal, 39, Oviedo, 33008", 
+    "country": "es", 
+    "office_number": "985206014", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3563226000", 
+    "longitude": "-5.8356536999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810741464894881.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "¡Sanea tu pelo con este servicio que incluye el lavado y el corte, siempre en manos de los mejores profesionales y por un precio increíble! El servicio no incluye el peinado. Podrás escoger el corte que más te guste, siempre de acorde con tu estilo y personalidad. Estarás en todo momento asesorada por nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "11,5 € ", 
+            "description": "¡Luce un peinado para cualquier evento especial por un precio increíble! ¿Estás cansada ya de tu monótona melena y quieres lucir perfecta? ¡Ven a nuestro centro y confía en nuestro equipo de profesionales! El servicio incluye el lavado y peinado. ¿A qué estás esperando para reservar? ¡El resultado será perfecto, no dejes que te lo cuenten! Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado y el baño de color! No incluye el peinado. Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "30,5 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado, el baño de color y el peinado con definición! Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "29,5 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado, el baño de color y el peinado con definición! Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado, el baño de color y el peinado con definición! Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "30,5 € ", 
+            "description": "¡Repasa tus raíces y consigue que tu pelo vuelva a lucir sano y cuidado! Conseguirás de esta forma unificar tu color que tanto te gustaba. ¡El aspecto descuidado ya será pasado! El servicio incluye el lavado, tinte de raíz y el peinado con definición, siempre en manos de nuestro equipo de profesionales. No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder? Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "29,5 € ", 
+            "description": "¡Repasa tus raíces y consigue que tu pelo vuelva a lucir sano y cuidado! Conseguirás de esta forma unificar tu color que tanto te gustaba. ¡El aspecto descuidado ya será pasado! El servicio incluye el lavado, tinte de raíz y el peinado con definición, siempre en manos de nuestro equipo de profesionales. No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder? Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "¡Repasa tus raíces y consigue que tu pelo vuelva a lucir sano y cuidado! Conseguirás de esta forma unificar tu color que tanto te gustaba. ¡El aspecto descuidado ya será pasado! El servicio incluye el lavado, tinte de raíz y el peinado con definición, siempre en manos de nuestro equipo de profesionales. No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder? Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Media Melena", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "¡Aprovecha este pack de lavado, corte y peinado para sorprender con tu nuevo look por un precio increíble! ¡Porque cuidarse no cuesta dinero y en nuestro centro lo sabemos! Elige el corte que más vaya contigo, con tu estilo y personalidad: desde los más clásicos hasta las nuevas tendencias. ¡No esperes más y reserva ya tu cita cómodamente online a través de Bucmi.com! Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "¡Aprovecha este pack de lavado, corte y peinado para sorprender con tu nuevo look por un precio increíble! ¡Porque cuidarse no cuesta dinero y en nuestro centro lo sabemos! Elige el corte que más vaya contigo, con tu estilo y personalidad: desde los más clásicos hasta las nuevas tendencias. ¡No esperes más y reserva ya tu cita cómodamente online a través de Bucmi.com! Precio para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "¡Aprovecha este pack de lavado, corte y peinado para sorprender con tu nuevo look por un precio increíble! ¡Porque cuidarse no cuesta dinero y en nuestro centro lo sabemos! Elige el corte que más vaya contigo, con tu estilo y personalidad: desde los más clásicos hasta las nuevas tendencias. ¡No esperes más y reserva ya tu cita cómodamente online a través de Bucmi.com! Precio para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡Sanea tu pelo con este servicio que incluye el lavado y el corte, siempre en manos de los mejores profesionales y por un precio increíble! El servicio no incluye el peinado. Podrás escoger el corte que más te guste, siempre de acorde con tu estilo y personalidad. Estarás en todo momento asesorado por nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "11,5 € ", 
+            "description": "¡Sanea tu pelo con este servicio que incluye el lavado y el corte, siempre en manos de los mejores profesionales y por un precio increíble! El servicio no incluye el peinado. Podrás escoger el corte que más te guste, siempre de acorde con tu estilo y personalidad. Estarás en todo momento asesorada por nuestro equipo de profesionales. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Las mechas están de moda. Además, te darán ese toque de color y luminosidad que estabas buscando para tu melena. Este servicio que incluye el lavado, las mechas y el secado al aire. Nuestros profesionales cuidarán tu pelo y, como siempre, al mejor precio. ¿Quieres sorprender con un aspecto renovado? ¡Reserva ya tu cita cómodamente online y te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "45,5 € ", 
+            "description": "Las mechas están de moda. Además, te darán ese toque de color y luminosidad que estabas buscando para tu melena. Este servicio que incluye el lavado, las mechas y peinado con definición. Nuestros profesionales cuidarán tu pelo y, como siempre, al mejor precio. ¿Quieres sorprender con un aspecto renovado? ¡Reserva ya tu cita cómodamente online y te encantarán los resultados! Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "44,5 € ", 
+            "description": "Las mechas están de moda. Además, te darán ese toque de color y luminosidad que estabas buscando para tu melena. Este servicio que incluye el lavado, las mechas y peinado con definición. Nuestros profesionales cuidarán tu pelo y, como siempre, al mejor precio. ¿Quieres sorprender con un aspecto renovado? ¡Reserva ya tu cita cómodamente online y te encantarán los resultados! Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "46,5 € ", 
+            "description": "Las mechas están de moda. Además, te darán ese toque de color y luminosidad que estabas buscando para tu melena. Este servicio que incluye el lavado, las mechas y peinado con definición. Nuestros profesionales cuidarán tu pelo y, como siempre, al mejor precio. ¿Quieres sorprender con un aspecto renovado? ¡Reserva ya tu cita cómodamente online y te encantarán los resultados! Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Media Melena", 
+            "duration": 2700, 
+            "price": "34 € ", 
+            "description": "¡Da volumen a tu melena con este servicio y luce un look increíble a manos de los profesionales de Mónica Peluquería y Estética! ¿Estás cansado de una melena monótona y quieres ser el verdadero centro de atención? Disfruta de este moldeado con la mejor técnica. Los resultados serán muy visibles. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! Precio para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Pelo Corto", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¡Da volumen a tu melena con este servicio y luce un look increíble a manos de los profesionales de Mónica Peluquería y Estética! ¿Estás cansado de una melena monótona y quieres ser el verdadero centro de atención? Disfruta de este moldeado con la mejor técnica. Los resultados serán muy visibles. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! Precio para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeador Pelo Largo", 
+            "duration": 2700, 
+            "price": "39,5 € ", 
+            "description": "¡Da volumen a tu melena con este servicio y luce un look increíble a manos de los profesionales de Mónica Peluquería y Estética! ¿Estás cansado de una melena monótona y quieres ser el verdadero centro de atención? Disfruta de este moldeado con la mejor técnica. Los resultados serán muy visibles. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! Precio para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "10,5 € ", 
+            "description": "¡Luce un peinado para cualquier evento especial por un precio increíble! ¿Estás cansada ya de tu monótona melena y quieres lucir perfecta? ¡Ven a nuestro centro y confía en nuestro equipo de profesionales! El servicio incluye el lavado y peinado. ¿A qué estás esperando para reservar? ¡El resultado será perfecto, no dejes que te lo cuenten! Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "12,5 € ", 
+            "description": "¡Luce un peinado para cualquier evento especial por un precio increíble! ¿Estás cansada ya de tu monótona melena y quieres lucir perfecta? ¡Ven a nuestro centro y confía en nuestro equipo de profesionales! El servicio incluye el lavado y peinado. ¿A qué estás esperando para reservar? ¡El resultado será perfecto, no dejes que te lo cuenten! Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Sin Amoniaco", 
+            "duration": 3600, 
+            "price": "22,5 € ", 
+            "description": "¿Cansada de un color triste y apagado? Mónica Peluquería y Estética te ofrece un tinte natural, sin amoniaco ni alérgenos, ideal para lucir un pelo sano y nada artificial. ¡Podrás sorprender con un look renovado! El servicio incluye el lavado y el tinte, pero no el peinado. ¡Reserva ya cómodamente online y te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Sin Amoniaco Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "¿Cansada de un color triste y apagado? Mónica Peluquería y Estética te ofrece un tinte natural, sin amoniaco ni alérgenos, ideal para lucir un pelo sano y nada artificial. ¡Podrás sorprender con un look renovado! El servicio incluye el lavado, el tinte y el peinado con definición. ¡Reserva ya cómodamente online y te encantarán los resultados! Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Sin Amoniaco Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "33 € ", 
+            "description": "¿Cansada de un color triste y apagado? Mónica Peluquería y Estética te ofrece un tinte natural, sin amoniaco ni alérgenos, ideal para lucir un pelo sano y nada artificial. ¡Podrás sorprender con un look renovado! El servicio incluye el lavado, el tinte y el peinado con definición. ¡Reserva ya cómodamente online y te encantarán los resultados! Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Sin Amoniaco Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "¿Cansada de un color triste y apagado? Mónica Peluquería y Estética te ofrece un tinte natural, sin amoniaco ni alérgenos, ideal para lucir un pelo sano y nada artificial. ¡Podrás sorprender con un look renovado! El servicio incluye el lavado, el tinte y el peinado con definición. ¡Reserva ya cómodamente online y te encantarán los resultados! Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "¡Repasa tus raíces y consigue que tu pelo vuelva a lucir sano y cuidado! Conseguirás de esta forma unificar tu color que tanto te gustaba. ¡El aspecto descuidado ya será pasado! El servicio incluye el lavado, tinte de raíz y secado al aire. No incluye peinado. No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "11,5 € ", 
+            "description": "¡Luce un peinado para cualquier evento especial por un precio increíble! ¿Estás cansada ya de tu monótona melena y quieres lucir perfecta? ¡Ven a nuestro centro y confía en nuestro equipo de profesionales! El servicio incluye el lavado y peinado. ¿A qué estás esperando para reservar? ¡El resultado será perfecto, no dejes que te lo cuenten! Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado y el baño de color! No incluye el peinado. Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño De Color Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "30,5 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado, el baño de color y el peinado con definición! Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "19 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado y el baño de color! No incluye el peinado. Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Baño De Color Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "30,5 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado, el baño de color y el peinado con definición! Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Baño De Color Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "29,5 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado, el baño de color y el peinado con definición! Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo corto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Baño De Color Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "31,5 € ", 
+            "description": "¡Dale un toque de color a tu pelo con este servicio que incluye el lavado, el baño de color y el peinado con definición! Nuestros profesionales cuidarán tu pelo y al mejor precio. Podrás lucir así una melena con mucho más brillo y luminosidad, siempre en las mejores manos. Ven a nuestro centro y saldrás mucho más embellecida. ¡Reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "30,5 € ", 
+            "description": "¡Repasa tus raíces y consigue que tu pelo vuelva a lucir sano y cuidado! Conseguirás de esta forma unificar tu color que tanto te gustaba. ¡El aspecto descuidado ya será pasado! El servicio incluye el lavado, tinte de raíz y el peinado con definición, siempre en manos de nuestro equipo de profesionales. No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! ¿Te lo vas a perder? Precio indicado para media melena."
+        }
+    ]
+}

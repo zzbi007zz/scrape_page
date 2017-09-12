@@ -1,0 +1,98 @@
+{
+    "adid": null, 
+    "name": "Instituto de Belleza Feli", 
+    "name_of_contact": "Instituto de Belleza Feli", 
+    "scrape_page": "https://www.bucmi.com/feli", 
+    "business_website": "https://www.bucmi.com/feli", 
+    "areas_covered": null, 
+    "description": "Especialistas en el cuidado de tu pelo. En Instituto de belleza Feli nuestro principal objetivo eres tu. Trato personalizado siempre con los mejores productos de peluquería. Reserva nuestros cortes de pelo, peinados de tendencia.. Estamos en Carabanchel", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654045322712697.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654045340526268.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654045359903041.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Baleares, 10", 
+    "city": "Madrid", 
+    "zipcode": "28019", 
+    "formatted_address": "C/ Baleares, 10, Madrid, 28019", 
+    "country": "es", 
+    "office_number": "914600290", 
+    "office_number2": null, 
+    "mobile_number": "622259409", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3953414000", 
+    "longitude": "-3.7136746999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971846922043153.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar + Cortar + Peinar", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "El servicio incluye lavado con champú específico para tu tipo de cabello, corte a elegir asesorado por nuestros profesionales y peinado a elegir. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar + Teñir + Peinar", 
+            "duration": 5400, 
+            "price": "24,3 € ", 
+            "description": "El servicio incluye tinte color a elegir, lavado con champú específico para tu tipo de cabello y peinado a elegir. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar + Peinar", 
+            "duration": 2700, 
+            "price": "9,3 € ", 
+            "description": "El servicio incluye lavado con champú específico para tu tipo de cabello y peinado. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "Olvídate de una vez de tus problemas capilares. Tratamiento para la caída del cabello, grasa o caspa. Se hace primero un análisis con microscopia electrónica gratuito. El tratamiento se realiza con rayo láser."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado + peinado", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Luce unos rizos perfectos. El servicio incluye lavado con champú específico para tu tipo de cabello, el moldeado y peinado a elegir. No incluye mascarilla ni crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar + Cortar + Peinar", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "El servicio incluye lavado con champú específico para tu tipo de cabello, corte a elegir asesorado por nuestros profesionales y peinado a elegir. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar + Teñir + Peinar", 
+            "duration": 5400, 
+            "price": "24,3 € ", 
+            "description": "El servicio incluye tinte color a elegir, lavado con champú específico para tu tipo de cabello y peinado a elegir. No incluye mascarilla o crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar + Peinar", 
+            "duration": 2700, 
+            "price": "9,3 € ", 
+            "description": "El servicio incluye lavado con champú específico para tu tipo de cabello y peinado. No incluye mascarilla o crema."
+        }
+    ]
+}

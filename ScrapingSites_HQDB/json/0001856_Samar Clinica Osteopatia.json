@@ -1,0 +1,106 @@
+{
+    "adid": null, 
+    "name": "Samar Clínica Osteopatía", 
+    "name_of_contact": "Samar Clínica Osteopatía", 
+    "scrape_page": "https://www.bucmi.com/samarclinicaosteopatia", 
+    "business_website": "https://www.bucmi.com/samarclinicaosteopatia", 
+    "areas_covered": null, 
+    "description": "Somos un centro osteopatía con más de 25 años de experiencia en Valladolid en el que trabajamos de forma profesional osteopatía, acupuntura y masajes tanto deportivos como relajantes. Tu bienestar es nuesrto único objetivo", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816558457516140.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816558554859445.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816558571265612.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816558593457995.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Picones, 3", 
+    "city": "Valladolid", 
+    "zipcode": "47012", 
+    "formatted_address": "C/ Picones, 3, Valladolid, 47012", 
+    "country": "es", 
+    "office_number": "983295642", 
+    "office_number2": null, 
+    "mobile_number": "660649019", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6455347000", 
+    "longitude": "-4.7096407000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961527625281364.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Acupuntura", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "La acupuntura es una medicina alternativa procedente de China en la cual a través de la inserción de agujas finas en la piel en puntos claves se alivian distintos dolores y se pueden tratar una gran cantidad de enfermedades"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Masaje con el que conseguirás tanto poder mejor tu rendimiento deportivo, previniendo y evitando lesiones, como conseguir una rehabilitación más rápida de cualquier sesión. Consigue tener tu cuerpo listo para cualquier reto"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El cuerpo es capaz de elaborar sus propios remedios contra las enfermedades con la ayuda de masajes y la manipulación de articulaciones. Ponte en manos de nuestros profesionales para tratar tus dolencias y que no vuelvan a ser un problema"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¿Estresado? Date un respiro y recibe un masaje relajante con el que te podrás evadir de todo durante una hora pudiendo elegir entre un masaje con velas calientes, californiano, con piedras calientes o craneal entre otros"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexología Podal", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En la planta de los pies se encuentran puntos reflejos que conectan con todo el cuerpo por lo que través de su estimulación se pueden tratar un sinfín de dolencias y enfermedades como doleres de espalda o cuello, asma, cefale, estreñimiento..."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Masaje con el que conseguirás tanto poder mejor tu rendimiento deportivo, previniendo y evitando lesiones, como conseguir una rehabilitación más rápida de cualquier sesión. Consigue tener tu cuerpo listo para cualquier reto"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El cuerpo es capaz de elaborar sus propios remedios contra las enfermedades con la ayuda de masajes y la manipulación de articulaciones. Ponte en manos de nuestros profesionales para tratar tus dolencias y que no vuelvan a ser un problema"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¿Estresado? Date un respiro y recibe un masaje relajante con el que te podrás evadir de todo durante una hora pudiendo elegir entre un masaje con velas calientes, californiano, con piedras calientes o craneal entre otros"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Reflexología Podal", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En la planta de los pies se encuentran puntos reflejos que conectan con todo el cuerpo por lo que través de su estimulación se pueden tratar un sinfín de dolencias y enfermedades como doleres de espalda o cuello, asma, cefale, estreñimiento..."
+        }
+    ]
+}

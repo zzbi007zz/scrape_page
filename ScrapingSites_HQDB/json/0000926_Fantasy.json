@@ -1,0 +1,220 @@
+{
+    "adid": null, 
+    "name": "Fantasy", 
+    "name_of_contact": "Fantasy", 
+    "scrape_page": "https://www.bucmi.com/fantasy", 
+    "business_website": "https://www.bucmi.com/fantasy", 
+    "areas_covered": null, 
+    "description": "Fantasy es un salón de peluquería y estética innovador y diferente al resto. Nos encontramos en la zona de Vinateros, en Madrid. Trabajamos con un único objetivo: hacerte sentir bien y que te veas mucho más guapa. ¡No lo dudes más y ven a conocernos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220612798194332.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220612823037779.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220612844600169.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220612885537375.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220613933497921.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636220614373807007.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Torquemada, 19", 
+    "city": "Madrid", 
+    "zipcode": "28030", 
+    "formatted_address": "C/ Torquemada, 19, Madrid, 28030", 
+    "country": "es", 
+    "office_number": "912424197", 
+    "office_number2": null, 
+    "mobile_number": "610546088", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4034704000", 
+    "longitude": "-3.6487022999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636220616436134796.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¿Te gustaría lucir en tus manos un esmaltado perfecto durante mucho más tiempo? ¡Reserva nuestra manicura permanente! El esmaltado permanente no se agrieta y se mantiene perfecto durante mínimo tres semanas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial, Depilación Cejas Y Labio", 
+            "duration": 3600, 
+            "price": "25,7 € ", 
+            "description": "¡Reserva nuestro pack facial! Podrás disfrutar de una higiene facial que incluye: el desmaquillado de la piel, limpieza con extracción, mascarilla y masaje. Además, también te depilamos las cejas y el labio superior. ¡Estarás preparada para cualquier ocasión!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "11,1 € ", 
+            "description": "¿A qué esperas para lucir un corte de pelo con estilo? ¡Reserva este servicio! Incluye lavado, masaje capilar y peinado con productos de acabado. Te encantará la profesionalidad de nuestros expertos peluqueros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Permanente Pestañas", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "¡Incrementa el poder de tu mirada reservando nuestro tinte y permanente de pestañas! Gracias a este servicio conseguirás una mira mucho más intensa y perfecta. Este servicio tiene una duración de hasta 3 semanas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,7 € ", 
+            "description": "¿Te apetece un corte de pelo? ¡Reserva nuestro servicio de corte y peinado para pelo corto! Está incluido el lavado con champú, sin mascarilla. Nuestros profesionales se encargarán de realizarte el corte que siempre has soñado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "19,1 € ", 
+            "description": "¡Reserva nuestro servicio de corte y peinado para tu pelo largo! En el servicio está incluido el corte, lavado con champú, sin mascarilla, y el peinado. En caso de pelo extralargo, es posible que se cobre un suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Medio", 
+            "duration": 3600, 
+            "price": "18,3 € ", 
+            "description": "¿Necesitas un corte de pelo? ¡Reserva nuestro servicio de corte y peinado en media melena! Durante el servicio está incluido el corte, lavado con champú específico, sin mascarilla, y el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "11,1 € ", 
+            "description": "¿A qué esperas para lucir un corte de pelo con estilo? ¡Reserva este servicio! Incluye lavado, masaje capilar y peinado con productos de acabado. Te encantará la profesionalidad de nuestros expertos peluqueros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Extensiones Pelo Natural", 
+            "duration": 3600, 
+            "price": "116 € ", 
+            "description": "¿Quieres lucir una melena más larga y con más volumen? ¡Reserva nuestras extensiones de pelo natural! Incluye tres tiras de extensiones de pelo 100% natural. Dependiendo de la cantidad de pelo, el precio puede tener un suplemento que se abonará en el centro. Se colocan con grapas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar Pelo Corto", 
+            "duration": 5400, 
+            "price": "43,6 € ", 
+            "description": "¿Te gustaría cambiar de look? ¡Reserva nuestro pack de peluquería! Incluye mechas, corte (con lavado en el que se incluye champú específico) y peinado en pelo corto. ¡No lo dudes más y ven a conocer a nuestros profesionales!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "47,35 € ", 
+            "description": "¡Reserva nuestro maravilloso pack! Gracias a este servicio podrás disfrutar de corte, mechas y peinado para pelo largo. Incluye el lavado con champú especifico. Puedes conllevar suplemento en el precio en el caso de pelo extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Cortar Y Peinar Pelo Medio", 
+            "duration": 5400, 
+            "price": "45,4 € ", 
+            "description": "¿A qué esperas para reservar nuestro completo pack para cambiar de look? Este servicio incluye mechas, corte y peinado en media melena. Incluye el lavado con champú específico, según el tipo de pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia", 
+            "duration": 3600, 
+            "price": "196 € ", 
+            "description": "¡No te la juegues en un día tan especial! ¡Reserva nuestro pack especial para novia! Incluye: prueba de peinado, peinado de novia, prueba de maquillaje, maquillaje novia, depilación labio y cejas, tratamiento restructurarte del cabello y manicura completa francesa (no esmalte permanente)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Keratina Natural", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¿Te gustaría alisar y mejorar el aspecto de tu melena? ¡Reserva nuestro tratamiento de keratina 100% natural! Gracias a este servicio conseguimos eliminar el encrespamiento, alisar, reparar y dar fuerza a tu cabello. Además, incluye pack de mantenimiento para realizar en tu casa. Consiste en un champú de 500ml y mascarilla 200ml de la misma marca que el tratamiento. De esta forma el pelo se mantiene liso y perfecto durante más tiempo. Este servicio es para todos los largos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,7 € ", 
+            "description": "¿Te apetece un corte de pelo? ¡Reserva nuestro servicio de corte y peinado para pelo corto! Está incluido el lavado con champú, sin mascarilla. Nuestros profesionales se encargarán de realizarte el corte que siempre has soñado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "19,1 € ", 
+            "description": "¡Reserva nuestro servicio de corte y peinado para tu pelo largo! En el servicio está incluido el corte, lavado con champú, sin mascarilla, y el peinado. En caso de pelo extralargo, es posible que se cobre un suplemento en el salón."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cortar Y Peinar Pelo Medio", 
+            "duration": 3600, 
+            "price": "18,3 € ", 
+            "description": "¿Necesitas un corte de pelo? ¡Reserva nuestro servicio de corte y peinado en media melena! Durante el servicio está incluido el corte, lavado con champú específico, sin mascarilla, y el peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "11,1 € ", 
+            "description": "¿A qué esperas para lucir un corte de pelo con estilo? ¡Reserva este servicio! Incluye lavado, masaje capilar y peinado con productos de acabado. Te encantará la profesionalidad de nuestros expertos peluqueros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones Pelo Natural", 
+            "duration": 3600, 
+            "price": "116 € ", 
+            "description": "¿Quieres lucir una melena más larga y con más volumen? ¡Reserva nuestras extensiones de pelo natural! Incluye tres tiras de extensiones de pelo 100% natural. Dependiendo de la cantidad de pelo, el precio puede tener un suplemento que se abonará en el centro. Se colocan con grapas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas, Cortar Y Peinar Pelo Corto", 
+            "duration": 5400, 
+            "price": "43,6 € ", 
+            "description": "¿Te gustaría cambiar de look? ¡Reserva nuestro pack de peluquería! Incluye mechas, corte (con lavado en el que se incluye champú específico) y peinado en pelo corto. ¡No lo dudes más y ven a conocer a nuestros profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas, Cortar Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "47,35 € ", 
+            "description": "¡Reserva nuestro maravilloso pack! Gracias a este servicio podrás disfrutar de corte, mechas y peinado para pelo largo. Incluye el lavado con champú especifico. Puedes conllevar suplemento en el precio en el caso de pelo extralargo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,7 € ", 
+            "description": "¿Te apetece un corte de pelo? ¡Reserva nuestro servicio de corte y peinado para pelo corto! Está incluido el lavado con champú, sin mascarilla. Nuestros profesionales se encargarán de realizarte el corte que siempre has soñado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "19,1 € ", 
+            "description": "¡Reserva nuestro servicio de corte y peinado para tu pelo largo! En el servicio está incluido el corte, lavado con champú, sin mascarilla, y el peinado. En caso de pelo extralargo, es posible que se cobre un suplemento en el salón."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cortar Y Peinar Pelo Medio", 
+            "duration": 3600, 
+            "price": "18,3 € ", 
+            "description": "¿Necesitas un corte de pelo? ¡Reserva nuestro servicio de corte y peinado en media melena! Durante el servicio está incluido el corte, lavado con champú específico, sin mascarilla, y el peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,7 € ", 
+            "description": "¿Te apetece un corte de pelo? ¡Reserva nuestro servicio de corte y peinado para pelo corto! Está incluido el lavado con champú, sin mascarilla. Nuestros profesionales se encargarán de realizarte el corte que siempre has soñado."
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "adid": null, 
+    "name": "Academia de Peluqueria San Isidro", 
+    "name_of_contact": "Academia de Peluqueria San Isidro", 
+    "scrape_page": "https://www.bucmi.com/sanisidro", 
+    "business_website": "https://www.bucmi.com/sanisidro", 
+    "areas_covered": null, 
+    "description": "Prestigiosa academia de peluquería en la que se realizan cursos de peluquería altamente valorados, además de dar servicio al público, de alta calidad ya que no se escatima en nada para que el servicio sea perfecto y siempre supervisado por los expertos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677317647401746.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677338125272192.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Hermosilla, 60", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Hermosilla, 60, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "914714617", 
+    "office_number2": null, 
+    "mobile_number": "663359941", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3920525000", 
+    "longitude": "-3.7245728999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971964686862493.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Caballero", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "El servicio incluye corte a elegir, siempre asesorado por nuestros profesionales, lavado y productos de acabado. ¡Los hombres también se cuidan y quieren estar a la última!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color En Raiz Media Melena", 
+            "duration": 5400, 
+            "price": "14 € ", 
+            "description": "El servicio incluye el tinte en las raíces, color a elegir, lavado con champú específico para tu tipo de cabello, mascarilla y peinado. Válido para media melena. El servicio tiene un suplemento de 5€ para raíces de más de 2 meses."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento De Botox Media Melena", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Tratamiento especialmente diseñado para reestructurar el cabello y darle suavidad. Duración aproximada de 1 mes. Válido para media melena. El servicio incluye el tratamiento de botox, lavado y peinado a elegir."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raiz Pelo Corto", 
+            "duration": 3600, 
+            "price": "12,6 € ", 
+            "description": "El servicio incluye el tinte en las raíces, color a elegir, lavado con champú específico para tu tipo de cabello, mascarilla y peinado. Válido para pelo corto. El servicio tiene un suplemento de 5€ para raíces de más de 2 meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raiz Pelo Largo", 
+            "duration": 5400, 
+            "price": "16 € ", 
+            "description": "El servicio incluye el tinte en las raíces, color a elegir, lavado con champú específico para tu tipo de cabello, mascarilla y peinado. Válido para pelo largo. El servicio tiene un suplemento de 5€ para raíces de más de 2 meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Caballero", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "El servicio incluye corte a elegir, siempre asesorado por nuestros profesionales, lavado y productos de acabado. ¡Los hombres también se cuidan y quieren estar a la última!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Botox Pelo Corto", 
+            "duration": 2700, 
+            "price": "10 € ", 
+            "description": "Tratamiento especialmente diseñado para reestructurar el cabello y darle suavidad. Duración aproximada de 1 mes. Válido para pelo corto. El servicio incluye el tratamiento de botox, lavado y peinado a elegir."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Botox Pelo Largo", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Tratamiento especialmente diseñado para reestructurar el cabello y darle suavidad. Duración aproximada de 1 mes. Válido para pelo largo. El servicio incluye el tratamiento de botox, lavado y peinado a elegir."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raiz Media Melena", 
+            "duration": 5400, 
+            "price": "14 € ", 
+            "description": "El servicio incluye el tinte en las raíces, color a elegir, lavado con champú específico para tu tipo de cabello, mascarilla y peinado. Válido para media melena. El servicio tiene un suplemento de 5€ para raíces de más de 2 meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Botox Media Melena", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Tratamiento especialmente diseñado para reestructurar el cabello y darle suavidad. Duración aproximada de 1 mes. Válido para media melena. El servicio incluye el tratamiento de botox, lavado y peinado a elegir."
+        }
+    ]
+}

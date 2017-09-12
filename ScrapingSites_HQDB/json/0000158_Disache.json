@@ -1,0 +1,240 @@
+{
+    "adid": null, 
+    "name": "Disache", 
+    "name_of_contact": "Disache", 
+    "scrape_page": "https://www.bucmi.com/disache", 
+    "business_website": "https://www.bucmi.com/disache", 
+    "areas_covered": null, 
+    "description": "Centro de peluquería y estética situado en Tetuán, Madrid. Ven a conocernos y podrás disfrutar de unas promociones estupendas además de un trato a nuestros clientes inmejorables. Servicios de masaje, tratamientos de Keratina, cirugía plástica capilar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635724890643311371.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635724890698321187.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815367846425236.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815367865800221.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635815367930643735.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "18", 
+    "hqdb_review_score": "8,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Berruguete, 27", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Berruguete, 27, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "913150403", 
+    "office_number2": null, 
+    "mobile_number": "603604836", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4665530000", 
+    "longitude": "-3.6966751999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811968631600651.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial A Elegir", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Tratamiento Vitamina C, antiarrugas o firmeza. El servicio incluye el tratamiento completo con masaje facial. Incluye: Desmaquillado, tonificado, ácido glicólico para hacer más penetrable la piel, masaje con principio activo y mascarilla."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje De Piernas Circulatorio", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Servicio exclusivo para eliminar los problemas circulatorios y tratar la pesadez, inflamación de las piernas.. realizado con masaje aceite esencial o crema fría."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 3600, 
+            "price": "19,8 € ", 
+            "description": "El servicio de color y peinado es para pelo medio. El servicio incluye lavado con champú específico, mascarilla para un peinado perfecto, productos de acabado y por último el peinado, luce un acabado perfecto con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 900, 
+            "price": "7,25 € ", 
+            "description": "En el servicio está incluido el lavado del cabello con champú específico y por último los productos de acabado para salir de la peluquería como nuevo. ¡Reserva ya online con nosotros!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Hidratación Keratina", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El precio incluye champú especial con Keratina, tratamiento con calor y sérum. Aporta a tu cabello volumen, cuerpo y brillo. Reserva ya online en nuestro centro de peluquería y estética."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar: Cirugía Plástica", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El servicio consiste en una recuperación del cabello para evitar tijeras. Se lava el pelo con champú, se envuelve el cabello en plástico y se le da calor. Luego secado a mano y plancha."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,7 € ", 
+            "description": "El servicio incluye el color y peinado para pelo corto. Se incluye lavado con champú específico y mascarilla y por último se termina con productos de acabado, luce un acabado perfecto con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "El servicio de color y peinado es para mujeres con pelo largo. El servicio incluye lavado con champú específico, mascarilla y por último los productos de acabado, luce un peinado perfecto con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 3600, 
+            "price": "19,8 € ", 
+            "description": "El servicio de color y peinado es para pelo medio. El servicio incluye lavado con champú específico, mascarilla para un peinado perfecto, productos de acabado y por último el peinado, luce un acabado perfecto con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Mechas Y Peinado", 
+            "duration": 9000, 
+            "price": "39 € ", 
+            "description": "En el servicio está incluido el lavado con champú y mascarilla, el tinte de pelo a tu gusto, las mechas que más vayan contigo y por último el peinado con productos de acabado y con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Y Corte De Pelo Corto", 
+            "duration": 1800, 
+            "price": "17,7 € ", 
+            "description": "El servicio incluye el lavado con champú específico, el corte de pelo de mujer cabello corto y por último el peinado, luce un acabado perfecto con nuestras planchas GHD. Reserva online en nuestro centro de peluquería y estética."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Y Corte De Pelo Largo", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "El servicio incluye el lavado de la melena larga con champú específico, el corte de pelo para chica y por último el peinado que te guste y/o aconsejado por nuestros peluqueros profesionales, luce un acabado perfecto con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Y Corte De Pelo Medio", 
+            "duration": 1800, 
+            "price": "19,8 € ", 
+            "description": "El servicio incluye el lavado del cabello medio con champú específico, el corte de pelo para mujer y por último el peinado a desear. Acabados perfectos con nuestras planchas GHD. ¡Reserva online en centro de peluquería y estética Disache!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Media Melena", 
+            "duration": 14400, 
+            "price": "120 € ", 
+            "description": "Consigue eliminar el encrespamiento de tu melena aportando un extra de brillo y suavidad a tu melena con este alisado brasileño con keratina y aceite de argán. El servicio es solo válido para media melena, en el caso de que tu pelo sea de un largo superior al indicado se abonará un extra en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 900, 
+            "price": "7,25 € ", 
+            "description": "En el servicio está incluido el lavado del cabello con champú específico y por último los productos de acabado para salir de la peluquería como nuevo. ¡Reserva ya online con nosotros!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "El servicio incluye el lavado de la melena con champú específico y por último el recogido que más te guste. ¡Reserva ya online en nuestro centro de peluquería y estética Disache!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 1800, 
+            "price": "9,75 € ", 
+            "description": "El servicio incluye el lavado del cabello con champú específico y por último el corte de mujer a elegir y/o aconsejado por nuestros peluqueros profesionales. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Especial Novias", 
+            "duration": 5400, 
+            "price": "100 € ", 
+            "description": "Consta de una prueba de recogido de novia, y por último una sesión última de recogido final y maquillaje. La duración de la sesión el día de la prueba es sobre 1 hora y media o 2 horas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Hidratación Keratina", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "El precio incluye champú especial con Keratina, tratamiento con calor y sérum. Aporta a tu cabello volumen, cuerpo y brillo. Reserva ya online en nuestro centro de peluquería y estética."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar: Cirugía Plástica", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El servicio consiste en una recuperación del cabello para evitar tijeras. Se lava el pelo con champú, se envuelve el cabello en plástico y se le da calor. Luego secado a mano y plancha."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,7 € ", 
+            "description": "El servicio incluye el color y peinado para pelo corto. Se incluye lavado con champú específico y mascarilla y por último se termina con productos de acabado, luce un acabado perfecto con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "El servicio de color y peinado es para mujeres con pelo largo. El servicio incluye lavado con champú específico, mascarilla y por último los productos de acabado, luce un peinado perfecto con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado Pelo Medio", 
+            "duration": 3600, 
+            "price": "19,8 € ", 
+            "description": "El servicio de color y peinado es para pelo medio. El servicio incluye lavado con champú específico, mascarilla para un peinado perfecto, productos de acabado y por último el peinado, luce un acabado perfecto con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Mechas Y Peinado", 
+            "duration": 9000, 
+            "price": "39 € ", 
+            "description": "En el servicio está incluido el lavado con champú y mascarilla, el tinte de pelo a tu gusto, las mechas que más vayan contigo y por último el peinado con productos de acabado y con nuestras planchas GHD."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peinado Y Corte De Pelo Corto", 
+            "duration": 1800, 
+            "price": "17,7 € ", 
+            "description": "El servicio incluye el lavado con champú específico, el corte de pelo de mujer cabello corto y por último el peinado, luce un acabado perfecto con nuestras planchas GHD. Reserva online en nuestro centro de peluquería y estética."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Capilar: Cirugía Plástica", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El servicio consiste en una recuperación del cabello para evitar tijeras. Se lava el pelo con champú, se envuelve el cabello en plástico y se le da calor. Luego secado a mano y plancha."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Capilar: Cirugía Plástica", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "El servicio consiste en una recuperación del cabello para evitar tijeras. Se lava el pelo con champú, se envuelve el cabello en plástico y se le da calor. Luego secado a mano y plancha."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,7 € ", 
+            "description": "El servicio incluye el color y peinado para pelo corto. Se incluye lavado con champú específico y mascarilla y por último se termina con productos de acabado, luce un acabado perfecto con nuestras planchas GHD."
+        }
+    ]
+}

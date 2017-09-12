@@ -1,0 +1,314 @@
+{
+    "adid": null, 
+    "name": "Urban Haircut", 
+    "name_of_contact": "Urban Haircut", 
+    "scrape_page": "https://www.bucmi.com/urbanhaircut", 
+    "business_website": "https://www.bucmi.com/urbanhaircut", 
+    "areas_covered": null, 
+    "description": "Tu salón de Belleza en el centro de Alicante. Ven a disfrutar de nuestros tratamientos con las técnicas más novedosas del sector. Ponte en nuestras manos y realízate un corte de pelo asesorado, color o manicura. Reserva ahora tu cita online con Bucmi.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635939228447987965.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635939229045076670.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635939229196336415.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635939229286336078.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636032285993539763.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636032286104216188.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636032286166877433.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636032286227207916.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636032286407695110.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "12", 
+    "hqdb_review_score": "9,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Alicante", 
+    "zipcode": "03005", 
+    "formatted_address": "Alicante, 03001, Alicante, 03009, Alicante, 03005", 
+    "country": "es", 
+    "office_number": "865681795", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "38.3458268000", 
+    "longitude": "-0.4951677000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636032289756709868.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Anima tu mirada de la mano de los mejores profesionales. Consigue una mirada de cine en cualquier momento gracias a este servicio. Ahora podrás lucir unas pestañas largas sin necesidad de máscara de pestañas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Biologico Largo", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Biologico Medio(Hasta Los Hombros)", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Biologico Pelo Corto", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cejas Y Labio Superior", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Con este servicio de depilación podrás eliminar el incómodo vello del rostro, olvídate de su presencia en tan solo 15 minutos. Intensifica tu mirada gracias a esta depilación de cejas que realizamos con pinzas para una mayor precisión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Piernas Enteras, Ingles, Cejas Y Axilas", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Con este completo pack podrás decirle adiós al vello. Este servicio de depilación con cera se realiza en piernas completas, cejas, ingles y, además ¡te regalamos las axilas! Disfruta de una piel suave y sedosa por más tiempo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Pubis Completo", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Elimina ese vello tan molesto con nuestro servicio de depilación con cera. El servicio se realiza en pubis completo. Servicio unisex. Olvídate del vello en tu zona íntima durante una semana gracias a este servicio que realizamos con cera caliente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 1800, 
+            "price": "6,5 € ", 
+            "description": "Si te gusta que tus manos hablen bien de ti, aprovecha este servicio de manicura básica y da color a tus uñas. El servicio incluye limado y esmaltado con el color que prefieras a elegir entre una amplia gama."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Maquillaje Novia", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "El día de la boda es muy especial, en ocasión incluso un momento esperado durante años, y por eso los detalles se miran bajo lupa para que todos estén perfectos, también se mira y elije el estilismo de la novia, en esta ocasión vamos a tocar una parte muy importante, el maquillaje. Buscamos cual es el mejor maquillaje adaptándolo a nuestra novia,cual es el estilo que más encaja y lo realizamos bien en casa o en nuestro propio centro, recomendamos una o varias pruebas antes."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Y Peinado", 
+            "duration": 2700, 
+            "price": "41 € ", 
+            "description": "Si quieres aportar dinamismo y movimiento a tu melena, potenciando su color, este servicio de mechas a plata es para ti. El servicio incluye lavado, mechas a plata y peinado asesorado por nuestro equipo profesional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Recogido Novia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Somos especialistas en hacer que la novia deslumbre a todos el día de su boda, utilizamos las últimas técnicas en peinados. También te diseñamos y colocamos tu tocado. Nuestros servicos y recomendaciones son:- Prueba de Novia con aplicaciones de Tocados hasta dar con el adecuado, normalmente siempre es necesario mínimo 1 prueba."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "8 € ", 
+            "description": "Luce unas pestañas de cine sin necesidad de utilizar máscara de pestañas. Olvídate de maquillar tus pestañas con este tinte de pestañas. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Sanea tu melena y dale un giro a tu look luciendo ese corte de moda que siempre quisiste llevar. El servicio incluye lavado, corte y peinado asesorado por nuestros profesionales: te aconsejarán sobre qué estilo potenciará tus rasgos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Biologico Largo", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Biologico Medio(Hasta Los Hombros)", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Biologico Pelo Corto", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "En Urban Haircut podrás lucir una melena perfecta, unificando el tono de tu cabello. El servicio incluye lavado, color y peinado asesorado. Hora podrás lucir el color que siempre has querido de la mano de los mejores profesionales del sector."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Hay infinidad de cortes de pelo para caballero, pero solo uno es para ti. Ponte en manos de nuestro equipo profesional, te asesorará para que te lleves un corte de moda adecuado a tu estilo. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "¿Te gusta que tu cabello luzca sano y cuidado todos los días? Con este servicio de lavado y peinado, podrás disfrutar de una melena perfecta con el servicio realizado por nuestro mejor equipo. Consigue el peinado perfecto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje Novia", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "El día de la boda es muy especial, en ocasión incluso un momento esperado durante años, y por eso los detalles se miran bajo lupa para que todos estén perfectos, también se mira y elije el estilismo de la novia, en esta ocasión vamos a tocar una parte muy importante, el maquillaje. Buscamos cual es el mejor maquillaje adaptándolo a nuestra novia,cual es el estilo que más encaja y lo realizamos bien en casa o en nuestro propio centro, recomendamos una o varias pruebas antes."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado", 
+            "duration": 2700, 
+            "price": "41 € ", 
+            "description": "Si quieres aportar dinamismo y movimiento a tu melena, potenciando su color, este servicio de mechas a plata es para ti. El servicio incluye lavado, mechas a plata y peinado asesorado por nuestro equipo profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Medio Recogido", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Déjate asesorar por nuestros profesionales y luce un peinado impecable para esa ocasión especial: todos los ojos estarán puestos en tu vestido, en tu maquillaje y, por supuesto: ¡en tu peinado! No lo dudes y disfruta de este medio recogido."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Novia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Somos especialistas en hacer que la novia deslumbre a todos el día de su boda, utilizamos las últimas técnicas en peinados. También te diseñamos y colocamos tu tocado. Nuestros servicos y recomendaciones son:- Prueba de Novia con aplicaciones de Tocados hasta dar con el adecuado, normalmente siempre es necesario mínimo 1 prueba."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogidos", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Déjate asesorar por nuestros profesionales y luce un peinado impecable para esa ocasión especial: todos los ojos estarán puestos en tu vestido, en tu maquillaje y, por supuesto: ¡en tu peinado! No lo dudes y disfruta de este recogido completo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Sanea tu melena y dale un giro a tu look luciendo ese corte de moda que siempre quisiste llevar. El servicio incluye lavado, corte y peinado asesorado por nuestros profesionales: te aconsejarán sobre qué estilo potenciará tus rasgos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Biologico Largo", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Biologico Medio(Hasta Los Hombros)", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Biologico Pelo Corto", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "En Urban Haircut podrás lucir una melena perfecta, unificando el tono de tu cabello. El servicio incluye lavado, color y peinado asesorado. Hora podrás lucir el color que siempre has querido de la mano de los mejores profesionales del sector."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Biologico Largo", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Biologico Medio(Hasta Los Hombros)", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Biologico Largo", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Biologico Medio(Hasta Los Hombros)", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Biologico Pelo Corto", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "One step es un tratamiento innovador para la reconstrucción y alisado del cabello. En un único paso alisa, nutre y devuelve el brillo a toda clase de cabellos, sin malos olores, vapores ni lágrimas para el cliente ni el profesional. Un tratamiento cómodo y efectivo que gracias a su nanotecnología a base de aminoácidos y proteínas garantiza el 100% del alisado en toda clase de cabellos finos, gruesos, rizos y con nervio incluso el cabello afro.Cuida tu cabello y gánale la batalla ante el encrespamiento"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "En Urban Haircut podrás lucir una melena perfecta, unificando el tono de tu cabello. El servicio incluye lavado, color y peinado asesorado. Hora podrás lucir el color que siempre has querido de la mano de los mejores profesionales del sector."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Hombre", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Hay infinidad de cortes de pelo para caballero, pero solo uno es para ti. Ponte en manos de nuestro equipo profesional, te asesorará para que te lleves un corte de moda adecuado a tu estilo. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "¿Te gusta que tu cabello luzca sano y cuidado todos los días? Con este servicio de lavado y peinado, podrás disfrutar de una melena perfecta con el servicio realizado por nuestro mejor equipo. Consigue el peinado perfecto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje Novia", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "El día de la boda es muy especial, en ocasión incluso un momento esperado durante años, y por eso los detalles se miran bajo lupa para que todos estén perfectos, también se mira y elije el estilismo de la novia, en esta ocasión vamos a tocar una parte muy importante, el maquillaje. Buscamos cual es el mejor maquillaje adaptándolo a nuestra novia,cual es el estilo que más encaja y lo realizamos bien en casa o en nuestro propio centro, recomendamos una o varias pruebas antes."
+        }
+    ]
+}

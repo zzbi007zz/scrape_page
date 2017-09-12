@@ -1,0 +1,111 @@
+{
+    "adid": null, 
+    "name": "Distrito 08", 
+    "name_of_contact": "Distrito 08", 
+    "scrape_page": "https://www.bucmi.com/distrito08", 
+    "business_website": "https://www.bucmi.com/distrito08", 
+    "areas_covered": null, 
+    "description": "Nuevo concepto de belleza y bienestar en Agüelles, un espacio exclusivo y moderno donde poder relajarte y disfrutar mientras cuidamos de ti. Ven a conocer nuestras instalaciones así como todos los servicios que ofrecemos. No esperes más y reserva on line", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581786045755.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581804327023.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581824796058.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581841983165.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581859170537.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581881826707.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581900732900.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581919482861.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941581940738707.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ferraz, 13", 
+    "city": "Madrid", 
+    "zipcode": "28008", 
+    "formatted_address": "C/ Ferraz, 13, Madrid, 28008", 
+    "country": "es", 
+    "office_number": "912978931", 
+    "office_number2": null, 
+    "mobile_number": "662634798", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4265323000", 
+    "longitude": "-3.7178412000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635941833882147052.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Ingles Y Axilas", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Reserva este pack y elimina el vello de tus axilas y tu zona íntima con esta depilación que se realiza con cera tibia o caliente, dependiendo de la zona, para eliminar el pelo de raíz."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El tinte te ayudará a realzar tus pestañas sin necesidad de usar máscara de pestañas y gracias a la permanente daremos una forma curvada a la pestaña."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Con Esmaltado Permanente", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Empezamos limando las uñas, se retiran las cutículas, exfoliación de durezas de los pies. Seguimos con un masaje para conseguir un mayor efecto de manos y pies suaves y nutridos y finalizamos con esmaltado permanente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El tinte te ayudará a realzar tus pestañas sin necesidad de usar máscara de pestañas y gracias a la permanente daremos una forma curvada a la pestaña."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rejuvenecimiento Facial", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Rejuvenece tu rostro con este tratamiento que incluye masaje con radiofrecuencia, tratamiento de hidratación profunda y ampollas de ácido hialurónico."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El tinte te ayudará a realzar tus pestañas sin necesidad de usar máscara de pestañas y gracias a la permanente daremos una forma curvada a la pestaña."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El tinte te ayudará a realzar tus pestañas sin necesidad de usar máscara de pestañas y gracias a la permanente daremos una forma curvada a la pestaña."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Rejuvenecimiento Facial", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Rejuvenece tu rostro con este tratamiento que incluye masaje con radiofrecuencia, tratamiento de hidratación profunda y ampollas de ácido hialurónico."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El tinte te ayudará a realzar tus pestañas sin necesidad de usar máscara de pestañas y gracias a la permanente daremos una forma curvada a la pestaña."
+        }
+    ]
+}

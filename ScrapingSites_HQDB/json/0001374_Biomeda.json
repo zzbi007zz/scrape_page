@@ -1,0 +1,143 @@
+{
+    "adid": null, 
+    "name": "Biomeda", 
+    "name_of_contact": "Biomeda", 
+    "scrape_page": "https://www.bucmi.com/biomeda", 
+    "business_website": "https://www.bucmi.com/biomeda", 
+    "areas_covered": null, 
+    "description": "Tu centro de terapias naturales situado en pleno corazón de Barcelona. Nuestros especialistas te ayudarán tanto física cómo mentalmente a través de nuestras terapias 100% naturales. Ven a descubrir tu nuevo espacio holístico para mejorar tu salud.", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Lepanto, 274", 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "C/ Lepanto, 274, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "932317021", 
+    "office_number2": null, 
+    "mobile_number": "630292370", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3861912000", 
+    "longitude": "2.1612806000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968417411139190.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Nutrición: Test De Intolerancia Alimentaria", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Permite identificar que alimentos son más perjudiciales para la persona. Se estudia más de 150 alimentos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Alternativa: Salud Intestinal", 
+            "duration": 7200, 
+            "price": "80 € ", 
+            "description": "Tener un intestino saludable es esencial si se quiere gozar de una buena salud. Hemos desarrollado una terapia que utiliza un equipo de biorresonancia MORA, para analizar el estado del intestino."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Natural: Detox Completa", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Con esta terapia analizamos los tóxicos medioambientales y metales pesados más frecuentes. Y posterior trabajamos con ellos para eliminarlos del organismo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Natural: Detox Específica", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Esta terapia trabaja a nivel orgánico, se enfoca en los grandes drenadores del cuerpo, el hígado, riñones, intestino y sistema linfático."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Natural: Detox Total", 
+            "duration": 14400, 
+            "price": "160 € ", 
+            "description": "El planteamiento serían 4 sesiones, dejando 15 días entre cada una de las sesiones.-1ª sesión. Detox específica. Se trabaja a nivel orgánico limpiando, hígado, riñones, intestino y linfa. -2ª sesión. Detox universal. Para ir preparando el terreno. -3ª sesión. Detox completa. Identificamos los principales tóxicos medioambientales y metales pesado. -4ª sesión. Detox específica. Para limpiar finalmente los órganos drenadores."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Natural: Detox Universal", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Se realiza utilizando la Biorresonancia MORA para estimular a nivel orgánico el sistema linfático y las resistencias del cuerpo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Ayurvedico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El masaje ayurvédico era utilizado en sus inicios como terapeutico. Eso significa que ayuda al organismo a equilibrarse. La versión de este masaje, trata de equilibrar las energías que existen en el cuerpo. Sin ese orden energético, el cuerpo se desequilibra y enferma. Se utilizan aceites ecológicos de primera presión en frío."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Ayurvedico", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El masaje ayurvédico era utilizado en sus inicios como terapeutico. Eso significa que ayuda al organismo a equilibrarse. La versión de este masaje, trata de equilibrar las energías que existen en el cuerpo. Sin ese orden energético, el cuerpo se desequilibra y enferma. Se utilizan aceites ecológicos de primera presión en frío."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Nutrición: Test De Intolerancia Alimentaria", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Permite identificar que alimentos son más perjudiciales para la persona. Se estudia más de 150 alimentos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Reiki", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "La energía vital está a nuestro alrededor. Cuando los canales internos se bloquean y no permite que circule libremente la energía, es cuando empieza el problema. La imposición de manos es una técnica milenaria y que ayuda al organismo a reequilibrarse."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Moraterapia", 
+            "duration": 7200, 
+            "price": "80 € ", 
+            "description": "Esta terapia da información a nivel sistémico de como se encuentra el organismo. Y por otro lado se realizan tratamientos. Se analizan las alergias, las geopatías, la salud intestinal, el desequilibrio de la flora intestinal, entre otros parámetros."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Salud Intestinal", 
+            "duration": 7200, 
+            "price": "80 € ", 
+            "description": "Tener un intestino saludable es esencial si se quiere gozar de una buena salud. Hemos desarrollado una terapia que utiliza un equipo de biorresonancia MORA, para analizar el estado del intestino."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Natural: Detox Completa", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Con esta terapia analizamos los tóxicos medioambientales y metales pesados más frecuentes. Y posterior trabajamos con ellos para eliminarlos del organismo."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Natural: Detox Específica", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Esta terapia trabaja a nivel orgánico, se enfoca en los grandes drenadores del cuerpo, el hígado, riñones, intestino y sistema linfático."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Natural: Detox Total", 
+            "duration": 14400, 
+            "price": "160 € ", 
+            "description": "El planteamiento serían 4 sesiones, dejando 15 días entre cada una de las sesiones.-1ª sesión. Detox específica. Se trabaja a nivel orgánico limpiando, hígado, riñones, intestino y linfa. -2ª sesión. Detox universal. Para ir preparando el terreno. -3ª sesión. Detox completa. Identificamos los principales tóxicos medioambientales y metales pesado. -4ª sesión. Detox específica. Para limpiar finalmente los órganos drenadores."
+        }
+    ]
+}

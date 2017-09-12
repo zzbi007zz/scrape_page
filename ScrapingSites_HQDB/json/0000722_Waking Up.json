@@ -1,0 +1,91 @@
+{
+    "adid": null, 
+    "name": "Waking Up", 
+    "name_of_contact": "Waking Up", 
+    "scrape_page": "https://www.bucmi.com/wakingup", 
+    "business_website": "https://www.bucmi.com/wakingup", 
+    "areas_covered": null, 
+    "description": "Waking Up es un lugar ideal para ponerse en forma con los mejores profesionales. Nos encontramos en la zona de Almagro, en Madrid, Descubre tratamientos exclusivos en función de las necesidades de cada uno. ¡Somos el lugar ideal para ponerse en forma!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635277162444468022.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635277163258564586.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635277164062500568.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Aracne, 3", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Aracne, 3, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "913199526", 
+    "office_number2": null, 
+    "mobile_number": "673878209", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4306822000", 
+    "longitude": "-3.6904509999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635974633943862956.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Completa Con Oxígeno", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Realza la luminosidad de tu piel con la mejor de las oxigenaciones faciales. Podrás disfrutar de una limpieza profunda de tu piel, además de dejártela super hidratada y oxigenada. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión Entrenamiento Personal Ems", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "EMS simula la manera en que nuestro sistema nervioso central activa el movimiento de los músculos. Tratamiento personalizado. Apto para todo el público. Válido para rehabilitación. Equivale a 5 sesiones entrenamiento normal. Recomendado 1 vez por semana."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa Con Oxígeno", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Realza la luminosidad de tu piel con la mejor de las oxigenaciones faciales. Podrás disfrutar de una limpieza profunda de tu piel, además de dejártela super hidratada y oxigenada. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "La mesoterapia virtual es un tratamiento sin agujas que permite la conducción transdermica de los productos, maximizando su eficacia. Indicado para todo el cuerpo y especialmente para el tratamiento de celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial Y Corporal", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "¡Reserva nuestra radiofrecuencia facial y corporal! Consiste en un tratamiento de la dermis profunda y las capas subcutáneas de la piel que produce la contracción del colágeno, con lo que se consigue tensar la piel, indicado para la flacidez cutánea."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Higiene Facial Completa Con Oxígeno", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Realza la luminosidad de tu piel con la mejor de las oxigenaciones faciales. Podrás disfrutar de una limpieza profunda de tu piel, además de dejártela super hidratada y oxigenada. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "La mesoterapia virtual es un tratamiento sin agujas que permite la conducción transdermica de los productos, maximizando su eficacia. Indicado para todo el cuerpo y especialmente para el tratamiento de celulitis."
+        }
+    ]
+}

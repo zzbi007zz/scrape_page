@@ -1,0 +1,228 @@
+{
+    "adid": null, 
+    "name": "Yale", 
+    "name_of_contact": "Yale", 
+    "scrape_page": "https://www.bucmi.com/centroyale", 
+    "business_website": "https://www.bucmi.com/centroyale", 
+    "areas_covered": null, 
+    "description": "Yale, centro de estética ubicado en el barrio Antiguo de San Sebastían. Trabajamos con la marca de cosmética Secretos del Agua, que combate el desorden celular de la piel. Además realizamos esmaltado de manicura y pedicura permanente y criolipolisis.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635485346675160353.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635485346770792924.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635485346770949046.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635485346772355416.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635485346798138669.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635485348246378593.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635485348404516295.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "9,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Easo, 18", 
+    "city": "Donostia-San Sebastián", 
+    "zipcode": "20008", 
+    "formatted_address": "C/ Easo, 18, Donostia-San Sebastián, 20008", 
+    "country": "es", 
+    "office_number": "943218892", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3143102000", 
+    "longitude": "-2.0016342999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635810741191537652.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Presume de unas manos preciosas durante mucho más tiempo gracias a este servicio de manicura permanente. El servicio se realiza con la marca Shellac, una nueva categoría de producto, se aplica como un esmalte normal, dura como una manicura gel y se elimina en minutos. Protege la uña natural sin dañarla durante 14 días, otorgando un brillo impecable."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "BUCMI EXPERIENCE by Yale: Disfruta de un masaje corporal en manos de grandes profesionales del masaje. Encuentra el momento perfecto para relajarte y reducir el estrés generado en el día a día. Date un capricho y disfrutar del momento gracias a este servicio de masaje corporal. Reserva ya tu cita en nuestro salón y ven a conocernos. ¡Repetirás seguro!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal Completo", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "BUCMI EXPERIENCE by Yale: El pack de masaje más completo que encontrarás en San Sebastián. Disfruta de un masaje facial en manos de grandes profesionales, acompañado de un masaje craneal y de un masaje corporal. Encuentra el momento perfecto para relajarte y reducir el estrés generado en el día a día. Date un capricho y disfrutar del momento. ¡Quién prueba este servicio, repite!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Lpg", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "El lipomasaje es una técnica que moviliza los tejidos de forma integral (conjuntivos, cutáneos y subcutáneos) a través de diversos masajes motorizados por medio de un cabezal con 2 rodillos. el método más eficaz contra las grasas resistentes. Reserva ya tu cita online y ponte en manos de nuestros expertos profesionales. ¡Ven a probarlo!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial, Presoterapia Y Diseño Cejas", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "BUCMI EXPERIENCE by Yale: un servicio PREMIUM para preparar la piel del rostro y conseguir una piel más luminosa; incluye exfoliación y aplicación de cosmética celular para fomentar la regeneración celular. Este tratamiento va acompañado de un tratamiento corporal basado en la presoterapia, con el fin de reducir y eliminar el exceso de la grasa corporal, consigue una silueta más definida. Además, consigue una mirada perfecta diseñada exclusivamente para ti, unas cejas perfectas para completar este servicio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Criolipolisis", 
+            "duration": 2700, 
+            "price": "190 € ", 
+            "description": "La criolipolisis es uno de los métodos mas efectivos a la hora de reducir el exceso de grasa corporal. Consiste en congelar una zona determinada aplicando frío con la finalidad de reducir la grasa corporal de las zonas localizadas. Se realiza con la moderna tecnología del Crioshape. Notarás los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Tto Facial Indiba", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "Reserva online este completo bono de 10 sesiones de tratamiento facial INDIBA destinado a reducir arrugas y líneas de expresión, mejora el aspecto de bolsas y ojeras, consigue un efecto lifting antiedad y ayuda a redefinir el óvalo facial. Notarás los resultados desde el principio. ¡Ahora con la facilidad de la reserva online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Curso De Automaquillaje", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Disfruta de este fantástico curso de automaquillaje para que aprendas a maquillarte como es debido y a sacarte el máximo partido posible. Ponte en manos de nuestros expertos estilistas y déjate asesorar para lucir un rostro perfecto. Reserva ya tu cita cómodamente online a través de Bucmi.com. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Completo", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "El tratamiento de drenaje linfático manual basado en el método Vodder es un tratamiento que consiste en una serie de suaves movimientos manuales realizados por todo el cuerpo con el objetivo de eliminar líquidos y grasas localizadas. Además es un tratamiento que se recomienda a aquellas personas que se acaben de hacer intervenciones quirúrgicas estéticas. Reserva ya tu cita en nuestro centro. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 3600, 
+            "price": "158 € ", 
+            "description": "Consigue una mirada más profunda y a la altura de la alfombra roja gracias a nuestra extensión de pestañas. Colocamos las pestañas pelo a pelo para alargar tu mirada y que sea mucho más profunda y cautivadora. No pierdas esta oportunidad de tener una mirada de cine. ¡Ahora con la facilidad de la reserva online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Lpg", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "El lipomasaje es una técnica que moviliza los tejidos de forma integral (conjuntivos, cutáneos y subcutáneos) a través de diversos masajes motorizados por medio de un cabezal con 2 rodillos. el método más eficaz contra las grasas resistentes. Reserva ya tu cita online y ponte en manos de nuestros expertos profesionales. ¡Ven a probarlo!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Con Aparatología", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Según diagnóstico, adaptaremos el tratamiento corporal a tus metas y necesidades para que por fin consigas lucir esa figura perfecta que tanto deseas. No pierdas la oportunidad y ven a conocernos en el Centro Yale. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Con Radiofrecuencia.", 
+            "duration": 3600, 
+            "price": "85,5 € ", 
+            "description": "Aprovecha esta sesión de Radiofrecuencia facial realizada con alta frecuencia para suavizar las arrugas y rejuvenecer el rostro de la mano de nuestros mejores profesioanles. Mejora, alisa, corrige e hidrata la piel, sin ningún efecto secundario gracias a este trataiento. ¡Ahora con la facilidad de la reserva online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial, Presoterapia Y Diseño Cejas", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "BUCMI EXPERIENCE by Yale: un servicio PREMIUM para preparar la piel del rostro y conseguir una piel más luminosa; incluye exfoliación y aplicación de cosmética celular para fomentar la regeneración celular. Este tratamiento va acompañado de un tratamiento corporal basado en la presoterapia, con el fin de reducir y eliminar el exceso de la grasa corporal, consigue una silueta más definida. Además, consigue una mirada perfecta diseñada exclusivamente para ti, unas cejas perfectas para completar este servicio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamientos Faciales Con Secretos Del Agua", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Disfruta de este servicio de Presoterapia facial de Secretos del Agua (marca de cosmética celular de última generación) para preparar la piel para la nueva estacion del año, en la que consiguirás una piel más luminosa. El servicio incluye una limpieza facial, exfoliación y regeneración de la piel utilizando una cosmética celular. ¡Quien prueba este tratamiento, repite!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Sesión Criolipolisis", 
+            "duration": 2700, 
+            "price": "190 € ", 
+            "description": "La criolipolisis es uno de los métodos mas efectivos a la hora de reducir el exceso de grasa corporal. Consiste en congelar una zona determinada aplicando frío con la finalidad de reducir la grasa corporal de las zonas localizadas. Se realiza con la moderna tecnología del Crioshape. Notarás los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Tto Facial Indiba", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "Reserva online este completo bono de 10 sesiones de tratamiento facial INDIBA destinado a reducir arrugas y líneas de expresión, mejora el aspecto de bolsas y ojeras, consigue un efecto lifting antiedad y ayuda a redefinir el óvalo facial. Notarás los resultados desde el principio. ¡Ahora con la facilidad de la reserva online!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Curso De Automaquillaje", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Disfruta de este fantástico curso de automaquillaje para que aprendas a maquillarte como es debido y a sacarte el máximo partido posible. Ponte en manos de nuestros expertos estilistas y déjate asesorar para lucir un rostro perfecto. Reserva ya tu cita cómodamente online a través de Bucmi.com. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Drenaje Linfático Completo", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "El tratamiento de drenaje linfático manual basado en el método Vodder es un tratamiento que consiste en una serie de suaves movimientos manuales realizados por todo el cuerpo con el objetivo de eliminar líquidos y grasas localizadas. Además es un tratamiento que se recomienda a aquellas personas que se acaben de hacer intervenciones quirúrgicas estéticas. Reserva ya tu cita en nuestro centro. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas", 
+            "duration": 3600, 
+            "price": "158 € ", 
+            "description": "Consigue una mirada más profunda y a la altura de la alfombra roja gracias a nuestra extensión de pestañas. Colocamos las pestañas pelo a pelo para alargar tu mirada y que sea mucho más profunda y cautivadora. No pierdas esta oportunidad de tener una mirada de cine. ¡Ahora con la facilidad de la reserva online a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión Criolipolisis", 
+            "duration": 2700, 
+            "price": "190 € ", 
+            "description": "La criolipolisis es uno de los métodos mas efectivos a la hora de reducir el exceso de grasa corporal. Consiste en congelar una zona determinada aplicando frío con la finalidad de reducir la grasa corporal de las zonas localizadas. Se realiza con la moderna tecnología del Crioshape. Notarás los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Tto Facial Indiba", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "Reserva online este completo bono de 10 sesiones de tratamiento facial INDIBA destinado a reducir arrugas y líneas de expresión, mejora el aspecto de bolsas y ojeras, consigue un efecto lifting antiedad y ayuda a redefinir el óvalo facial. Notarás los resultados desde el principio. ¡Ahora con la facilidad de la reserva online!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Curso De Automaquillaje", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Disfruta de este fantástico curso de automaquillaje para que aprendas a maquillarte como es debido y a sacarte el máximo partido posible. Ponte en manos de nuestros expertos estilistas y déjate asesorar para lucir un rostro perfecto. Reserva ya tu cita cómodamente online a través de Bucmi.com. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Sesión Criolipolisis", 
+            "duration": 2700, 
+            "price": "190 € ", 
+            "description": "La criolipolisis es uno de los métodos mas efectivos a la hora de reducir el exceso de grasa corporal. Consiste en congelar una zona determinada aplicando frío con la finalidad de reducir la grasa corporal de las zonas localizadas. Se realiza con la moderna tecnología del Crioshape. Notarás los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Tto Facial Indiba", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "Reserva online este completo bono de 10 sesiones de tratamiento facial INDIBA destinado a reducir arrugas y líneas de expresión, mejora el aspecto de bolsas y ojeras, consigue un efecto lifting antiedad y ayuda a redefinir el óvalo facial. Notarás los resultados desde el principio. ¡Ahora con la facilidad de la reserva online!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Curso De Automaquillaje", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Disfruta de este fantástico curso de automaquillaje para que aprendas a maquillarte como es debido y a sacarte el máximo partido posible. Ponte en manos de nuestros expertos estilistas y déjate asesorar para lucir un rostro perfecto. Reserva ya tu cita cómodamente online a través de Bucmi.com. ¡No te arrepentirás!"
+        }
+    ]
+}

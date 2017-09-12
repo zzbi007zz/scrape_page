@@ -1,0 +1,128 @@
+{
+    "adid": null, 
+    "name": "Testing Salud", 
+    "name_of_contact": "Testing Salud", 
+    "scrape_page": "https://www.bucmi.com/testingsalud", 
+    "business_website": "https://www.bucmi.com/testingsalud", 
+    "areas_covered": null, 
+    "description": "Testing Salud lo forma un grupo de profesionales especializados con amplia experiencia en el sector Salud y Estética. Contamos con una estructura y capital humano que nos permite dar un enfoque integral y un tratamiento específico a cada cliente.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635773970323399907.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635773970466996329.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635773970515433476.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635773970600129079.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635773970619348096.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46005", 
+    "formatted_address": "Valencia, Valencia, Valencia, 46002, Valencia, 46008, Valencia, 46005", 
+    "country": "es", 
+    "office_number": "961043207", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4617465000", 
+    "longitude": "-0.3674197000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635965916467046217.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Tratamiento Corporal Reductor", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "El bono incluye: 1 sesión de criolipolisis,1 sesión mesoterapia y presoterapia, 1 sesión cavitación y presoterapia, 1 sesión dermolisis y presoterapia, 1 masaje reductor y presoterapia, 1 sesión radiofrecuencia y presoterapia, Pack mantenimiento en casa: drenante (jarabe) y quemador de grasa (pastillas)."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿Te gustaría lucir unas manos perfectas durante más tiempo? Durante el servicio cortamos y limamos las uñas, retiramos cutículas, hidratamos y esmaltamos en el color que más te guste. Este servicio incluye esmalte semipermanente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Semipermanente", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Si quieres tener una pedicura perfecta durante más tiempo, no lo dudes y reserva ahora. Te realizamos un servicio completo para que puedas lucir unos pies cuidados y bonitos. Gracias a nuestros esmaltes semipermanentes tendrás tus pies ideales durante 3 semanas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Con Radiofrecuencia", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "¡Reserva la higiene facial más completa! Podrás lucir un rostro sin impurezas y recuperar la luminosidad de tu piel. Además de la higiene y de la radiofrecuencia, incluimos el tratamiento de oro hidratante para mejorar el aspecto de tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 Sesiones V-Shape Y 5 Sesiones Presoterapia", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "¿A qué esperas para reservar nuestro completo tratamiento reductor? Te ofrecemos 5 sesiones de nuestra máquina V-SHAPE que realiza cinco diferentes tecnologías para ayudar a reducir la grasa. Combina la vacumterapia, laser de dios lipolítico, cavitación, infrarrojos, radiofrecuencia y rodillos. Además, nuestro bono también incluye 5 sesiones de presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tratamiento Corporal Reductor", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "El bono incluye: 1 sesión de criolipolisis,1 sesión mesoterapia y presoterapia, 1 sesión cavitación y presoterapia, 1 sesión dermolisis y presoterapia, 1 masaje reductor y presoterapia, 1 sesión radiofrecuencia y presoterapia, Pack mantenimiento en casa: drenante (jarabe) y quemador de grasa (pastillas)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Radiofrecuencia", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "¡Reserva la higiene facial más completa! Podrás lucir un rostro sin impurezas y recuperar la luminosidad de tu piel. Además de la higiene y de la radiofrecuencia, incluimos el tratamiento de oro hidratante para mejorar el aspecto de tu piel."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "5 Sesiones V-Shape Y 5 Sesiones Presoterapia", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "¿A qué esperas para reservar nuestro completo tratamiento reductor? Te ofrecemos 5 sesiones de nuestra máquina V-SHAPE que realiza cinco diferentes tecnologías para ayudar a reducir la grasa. Combina la vacumterapia, laser de dios lipolítico, cavitación, infrarrojos, radiofrecuencia y rodillos. Además, nuestro bono también incluye 5 sesiones de presoterapia."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Tratamiento Corporal Reductor", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "El bono incluye: 1 sesión de criolipolisis,1 sesión mesoterapia y presoterapia, 1 sesión cavitación y presoterapia, 1 sesión dermolisis y presoterapia, 1 masaje reductor y presoterapia, 1 sesión radiofrecuencia y presoterapia, Pack mantenimiento en casa: drenante (jarabe) y quemador de grasa (pastillas)."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "5 Sesiones V-Shape Y 5 Sesiones Presoterapia", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "¿A qué esperas para reservar nuestro completo tratamiento reductor? Te ofrecemos 5 sesiones de nuestra máquina V-SHAPE que realiza cinco diferentes tecnologías para ayudar a reducir la grasa. Combina la vacumterapia, laser de dios lipolítico, cavitación, infrarrojos, radiofrecuencia y rodillos. Además, nuestro bono también incluye 5 sesiones de presoterapia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "5 Sesiones V-Shape Y 5 Sesiones Presoterapia", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "¿A qué esperas para reservar nuestro completo tratamiento reductor? Te ofrecemos 5 sesiones de nuestra máquina V-SHAPE que realiza cinco diferentes tecnologías para ayudar a reducir la grasa. Combina la vacumterapia, laser de dios lipolítico, cavitación, infrarrojos, radiofrecuencia y rodillos. Además, nuestro bono también incluye 5 sesiones de presoterapia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Tratamiento Corporal Reductor", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "El bono incluye: 1 sesión de criolipolisis,1 sesión mesoterapia y presoterapia, 1 sesión cavitación y presoterapia, 1 sesión dermolisis y presoterapia, 1 masaje reductor y presoterapia, 1 sesión radiofrecuencia y presoterapia, Pack mantenimiento en casa: drenante (jarabe) y quemador de grasa (pastillas)."
+        }
+    ]
+}

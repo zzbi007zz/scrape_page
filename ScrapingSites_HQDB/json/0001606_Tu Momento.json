@@ -1,0 +1,165 @@
+{
+    "adid": null, 
+    "name": "Tu Momento", 
+    "name_of_contact": "Tu Momento", 
+    "scrape_page": "https://www.bucmi.com/tumomento", 
+    "business_website": "https://www.bucmi.com/tumomento", 
+    "areas_covered": null, 
+    "description": "Tu Momento es un centro de estética ubicado en Son Rapinya, en Palma de Mallorca, que cuenta con tratamientos faciales y corporales así como manicuras y pedicuras... Ven a conocer nuestras instalaciones y te encantará el resultado desde la primera sesión", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635621868022819923.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635621868043759309.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635621868053447561.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635621868064698329.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821426423245747.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821426666897884.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635821427126439913.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Trafalgar, 23", 
+    "city": "Palma de Mallorca", 
+    "zipcode": "07013", 
+    "formatted_address": "C/ Trafalgar, 23, Palma de Mallorca, 07013", 
+    "country": "es", 
+    "office_number": "971792447", 
+    "office_number2": null, 
+    "mobile_number": "674334381", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.5879582000", 
+    "longitude": "2.6135282000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635863973355238001.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Tu piel quedará nutrida y libre de impurezas gracias a la completa higiene facial de Tu Momento que incluye peeling y desmaquillado de la piel, extracción con vapor, tónico relajante y aplicación de mascarilla purificante con un ligero masaje facial. Vivirás una experiencia única gracias a Bucmi.com. ¡Purifica tu rostro con este exclusivo servicio de higiene facial!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Disfruta de unas manos perfectas durante más tiempo gracias a nuestra manicura completa con esmalatado permanente. Elige el color que más te guste entre nuestra gama de esmaltes permanentes y nosotros nos encargaremos de hacerte una manicura perfecta. Este servicio incluye: limado, retirada de cutículas, hidratar la piel y esmaltar. Reserva ya tu cita, ¡manos perfectas más tiempo!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Spa", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Disfruta en Tu Momento de la pedicura más relajante. Mima tus pies gracias a este servicio de pedicura spa, que incluye: limamos y cortamos las uñas, eliminamos las durezas y cutículas, realizamos un peeling con envoltura de parafina y esmaltamos en el color que elijas entre nuestra gama de esmaltes. Reserva ya tu cita, ¡vivirás una experiencia única!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje De Novia Y Prueba Gratuita", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Asesoramiento donde resaltaremos un maquillaje que te acompañará para ser protagonista de tu día. Este servicio incluye: prueba gratuita de maquillaje, para que el día de tu boda solo te tengas que relajar y poner en nuestras manos. Serás la novia más guapa gracias a Tu Momento. Reserva ya con Bucmi.com, ¡luce un maquillaje perfecto adecuado a tu rostro!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Novia Y Prueba Gratuita", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Asesoramiento donde resaltaremos un maquillaje que te acompañará para ser protagonista de tu día. Este servicio incluye: prueba gratuita de maquillaje, para que el día de tu boda solo te tengas que relajar y poner en nuestras manos. Serás la novia más guapa gracias a Tu Momento. Reserva ya con Bucmi.com, ¡luce un maquillaje perfecto adecuado a tu rostro!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Novia Y Prueba Gratuita", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Asesoramiento donde resaltaremos un maquillaje que te acompañará para ser protagonista de tu día. Este servicio incluye: prueba gratuita de maquillaje, para que el día de tu boda solo te tengas que relajar y poner en nuestras manos. Serás la novia más guapa gracias a Tu Momento. Reserva ya con Bucmi.com, ¡luce un maquillaje perfecto adecuado a tu rostro!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Tto Corporal Dermosucción", 
+            "duration": 1800, 
+            "price": "380 € ", 
+            "description": "Servicio que reduce el volumen y mejorará la textura de la piel en tan sólo unas sesiones. Elimina definitivamente la celulitis con este tratamiento. La dermosucción consigue eliminar la grasa localizada de cualquier parte de nuestro cuerpo, consigue eliminar la grasa, la celulitis y las células muertas. Ponte en manos de nuestros profesionales del centro Tu Momento. Este servicio incluye un bono de 10 sesiones. ¡Reserva ya tu cita!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Curso Automaquillaje 2 Personas", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "¿Te gusta el maquillaje pero no sabes muy bien como emplearlo en tu rostro para sacarle así el mejor partido? Con este servicio para dos personas os enseñaremos a sacaros el mejor partido, diciéndoos lo que más os favorece. Las clases son impartidas por nuestros mejores profesionales del centro Tu Momento. Reserva ya tu cita, ¡encuentra tu propio estilo y aprende trucos de maquillaje!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Curso Automaquillaje 1 Persona", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "¿Te gusta el maquillaje pero no sabes muy bien como emplearlo en tu rostro para sacarle así el mejor partido? Con este servicio para una persona te enseñaremos a sacarte el mejor partido, diciéndote lo que más te favorece. Las clases son impartidas por nuestros mejores profesionales del centro Tu Momento. Reserva ya tu cita, ¡encuentra tu propio estilo y aprende trucos de maquillaje!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Tu piel quedará nutrida y libre de impurezas gracias a la completa higiene facial de Tu Momento que incluye peeling y desmaquillado de la piel, extracción con vapor, tónico relajante y aplicación de mascarilla purificante con un ligero masaje facial. Vivirás una experiencia única gracias a Bucmi.com. ¡Purifica tu rostro con este exclusivo servicio de higiene facial!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Tu mirada será más penetrante y cautivadora gracias al tinte y permanente de pestañas de Tu Momento. Este servicio incluye: el tiente de pestañas con el que conseguimos unas pestañas negras y la permanente que le da un volumen espectacular. Reserva ya tu cita, ¡lucirás una mirada de cine al más puro estilo de Hollywood!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Dermosucción", 
+            "duration": 2700, 
+            "price": "38 € ", 
+            "description": "Servicio que reduce el volumen y mejorará la textura de la piel en tan sólo unas sesiones. Elimina definitivamente la celulitis con este tratamiento. La dermosucción consigue eliminar la grasa localizada de cualquier parte de nuestro cuerpo, consigue eliminar la grasa, la celulitis y las células muertas. Ponte en manos de nuestros profesionales del centro Tu Momento. Este servicio incluye una sesión de dermosucción. ¡Reserva ya tu cita!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Rejuvenecimiento Natural", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Comenzamos el servicio desmaquillando la piel de tu rostro, realizamos un peeling, tratamiento linfoenergetic, 5 arcillas (tratamiento basado en los 5 elementos de la medicina China) y masaje. Con este servicio que realizamos en nuestro centro Tu Momento, reafirmamos la piel de tu rostro a la vez que se ve más rejuvenecida. Reserva ya tu cita, ¡piel rejuvenecida sin cirugía!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje De Novia Y Prueba Gratuita", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Asesoramiento donde resaltaremos un maquillaje que te acompañará para ser protagonista de tu día. Este servicio incluye: prueba gratuita de maquillaje, para que el día de tu boda solo te tengas que relajar y poner en nuestras manos. Serás la novia más guapa gracias a Tu Momento. Reserva ya con Bucmi.com, ¡luce un maquillaje perfecto adecuado a tu rostro!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje De Novia Y Prueba Gratuita", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Asesoramiento donde resaltaremos un maquillaje que te acompañará para ser protagonista de tu día. Este servicio incluye: prueba gratuita de maquillaje, para que el día de tu boda solo te tengas que relajar y poner en nuestras manos. Serás la novia más guapa gracias a Tu Momento. Reserva ya con Bucmi.com, ¡luce un maquillaje perfecto adecuado a tu rostro!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Tto Corporal Dermosucción", 
+            "duration": 1800, 
+            "price": "380 € ", 
+            "description": "Servicio que reduce el volumen y mejorará la textura de la piel en tan sólo unas sesiones. Elimina definitivamente la celulitis con este tratamiento. La dermosucción consigue eliminar la grasa localizada de cualquier parte de nuestro cuerpo, consigue eliminar la grasa, la celulitis y las células muertas. Ponte en manos de nuestros profesionales del centro Tu Momento. Este servicio incluye un bono de 10 sesiones. ¡Reserva ya tu cita!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Curso Automaquillaje 2 Personas", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "¿Te gusta el maquillaje pero no sabes muy bien como emplearlo en tu rostro para sacarle así el mejor partido? Con este servicio para dos personas os enseñaremos a sacaros el mejor partido, diciéndoos lo que más os favorece. Las clases son impartidas por nuestros mejores profesionales del centro Tu Momento. Reserva ya tu cita, ¡encuentra tu propio estilo y aprende trucos de maquillaje!"
+        }
+    ]
+}

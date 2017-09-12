@@ -1,0 +1,149 @@
+{
+    "adid": null, 
+    "name": "Mi Isla", 
+    "name_of_contact": "Mi Isla", 
+    "scrape_page": "https://www.bucmi.com/mi-isla", 
+    "business_website": "https://www.bucmi.com/mi-isla", 
+    "areas_covered": null, 
+    "description": "Mi Isla es un centro de belleza ubicado en el barrio de Sant Andreu, en Barcelona. Aquí te ofreceremos todo lo que necesitas para sentirte bien por fuera y por dentro. No esperes más para reservar cualquiera de nuestros increíbles tratamientos de belleza", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102351336386866.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102351366229986.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102351398416882.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102351486071275.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102351923718516.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "8,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bartrina, 15", 
+    "city": "Barcelona", 
+    "zipcode": "08030", 
+    "formatted_address": "C/ Bartrina, 15, Barcelona, 08030", 
+    "country": "es", 
+    "office_number": "930106723", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4406230000", 
+    "longitude": "2.1867234999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636102376441651793.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si sientes tu piel apagada y sin vida, es el momento de reservar tu cita en Mi Isla y disfrutar de una ritual completo de higiene facial con productos de primera calidad y adaptados a la necesidad de tu piel.Sentirás como tu piel se recupera y recobra toda su luz y brillo natural.Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Para lucir de un esmaltado impecable por más tiempo disponemos de este servicio de manicura permanente.El servicio consta del limado de la uña natural de la forma deseada y esmaltado permanente del color que tu quieras. Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mesoterapia Facial", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "En Mi Isla ponemos a tu disposición de este servicio de mesoterapia facial, para que presumas de una piel joven y luminosa.Se trata de la aplicación de un roller dermal skin que favorece la absorción de los principios activos aplicados para la regeneración celular que restablecen y reactivan las capacidades funcionales de la piel. No dejes que te lo cuenten y reserva tu cita cómodamente en Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "En nuestro centro puedes elegir entre masaje descontracturante,relajante,circulatorio,drenaje linfático,anticelulitico o reaformante y también si lo deseas localizado o en cuerpo entero. Ponte en manos de nuestros profesionales y disfruta de unos minutos para ti."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Si estás buscando el tratamiento indicado para combatir celulitis, la retención de liquidos y las deficiencias circulatorias, tenemos lo que necesitas. Se trata de una sesión de presoterapia con la que reactivar el sistema linfático y favorecer la eliminación de toxinas de una forma natural. Pruébalo, querrás repetir."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si sientes tu piel apagada y sin vida, es el momento de reservar tu cita en Mi Isla y disfrutar de una ritual completo de higiene facial con productos de primera calidad y adaptados a la necesidad de tu piel.Sentirás como tu piel se recupera y recobra toda su luz y brillo natural.Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Facial", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "En Mi Isla ponemos a tu disposición de este servicio de mesoterapia facial, para que presumas de una piel joven y luminosa.Se trata de la aplicación de un roller dermal skin que favorece la absorción de los principios activos aplicados para la regeneración celular que restablecen y reactivan las capacidades funcionales de la piel. No dejes que te lo cuenten y reserva tu cita cómodamente en Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Cejas", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "¡Reserva nuestro servicio de maquillaje semipermanente! Te ofrecemos nuestra micropigmentación de cejas para que puedas rellenar las partes con menos vello o definir la forma de tu ceja."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Labio", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "¡Corrige las imperfecciones de tus labios reservando nuestro servicio de micropigmentación! Podemos aumentar el grosor de tus labios y la definición de estos. No lo pienses más y prueba el maquillaje permanente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Linea Superior O Inferior Ojos", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "¡Lleva siempre tus ojos arreglados gracias a este servicio! La micropigmentación es el maquillaje permanente. Si reservas podrás elegir entre realizarte la línea superior o inferior de tus ojos. ¡No lo dudes más y reserva ahora cómodamente a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Ojos", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "¡Luce unos ojos siempre perfectos y maquillados reservando nuestro servicio de micropigmentación! Incluye la zona de la línea superior y también la línea inferior de los ojos. Presume de un delineado permanente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "En nuestro centro puedes elegir entre masaje descontracturante,relajante,circulatorio,drenaje linfático,anticelulitico o reaformante y también si lo deseas localizado o en cuerpo entero. Ponte en manos de nuestros profesionales y disfruta de unos minutos para ti."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Si estás buscando el tratamiento indicado para combatir celulitis, la retención de liquidos y las deficiencias circulatorias, tenemos lo que necesitas. Se trata de una sesión de presoterapia con la que reactivar el sistema linfático y favorecer la eliminación de toxinas de una forma natural. Pruébalo, querrás repetir."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si sientes tu piel apagada y sin vida, es el momento de reservar tu cita en Mi Isla y disfrutar de una ritual completo de higiene facial con productos de primera calidad y adaptados a la necesidad de tu piel.Sentirás como tu piel se recupera y recobra toda su luz y brillo natural.Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "En nuestro centro puedes elegir entre masaje descontracturante,relajante,circulatorio,drenaje linfático,anticelulitico o reaformante y también si lo deseas localizado o en cuerpo entero. Ponte en manos de nuestros profesionales y disfruta de unos minutos para ti."
+        }
+    ]
+}

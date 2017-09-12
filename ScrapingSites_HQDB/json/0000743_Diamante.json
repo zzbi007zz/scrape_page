@@ -1,0 +1,154 @@
+{
+    "adid": null, 
+    "name": "Diamante", 
+    "name_of_contact": "Diamante", 
+    "scrape_page": "https://www.bucmi.com/diamante", 
+    "business_website": "https://www.bucmi.com/diamante", 
+    "areas_covered": null, 
+    "description": "Centro de Peluquería de Orcasitas donde encontrarás los profesionales que cambiarán tu estilo y te sacarán el mayor partido posible.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816328042123404.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816328095873218.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816328128373428.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ordicia, 27", 
+    "city": "Madrid", 
+    "zipcode": "28041", 
+    "formatted_address": "C/ Ordicia, 27, Madrid, 28041", 
+    "country": "es", 
+    "office_number": "917464631", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3665525000", 
+    "longitude": "-3.7143160000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635972062975051117.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Presoterapia", 
+            "duration": 1800, 
+            "price": "75 € ", 
+            "description": "Reduce volumen y elimina la grasa localizada con este bono de cinco sesiones de presoterapia, para conseguir lucir una figura perfecta."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Con Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "59 € ", 
+            "description": "El tratamiento de Ácido Hialurónico con principios activos, aportará a tu cabello el brillo y luminosidad que necesita para lucir una melena perfecta. El servicio incluye el tratamiento completo y lavado con champú especifico."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Con Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "59 € ", 
+            "description": "El tratamiento de Ácido Hialurónico con principios activos, aportará a tu cabello el brillo y luminosidad que necesita para lucir una melena perfecta. El servicio incluye el tratamiento completo y lavado con champú especifico."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Cabello Largo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si quieres cambiar tu look o simplemente necesitas cubrir esa raíz o canas tan molestas, ponte en nuestras manos con este servicio. Realizamos color, lavado con champú y secado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Cabello Medio", 
+            "duration": 3600, 
+            "price": "22,2 € ", 
+            "description": "Atrévete con un cambio de color para tu cabello, siempre bajo el asesoramiento de los mejores estilistas. Lucirás una melena más brillante y llena de color. Realizamos color con asesoramiento personalizado, lavado con champú especifico y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Pelo Corto", 
+            "duration": 3600, 
+            "price": "18,75 € ", 
+            "description": "¿Estás pensando en un cambio de color para tu cabello? Atrévete, y ponte en nuestras manos para dar a tu cabello un toque de color y luz. El servicio incluye color con asesoramiento, lavado con champú y secado al aire o secador. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Ponte en las mejores manos para ese corte de pelo que siempre has querido, o simplemente para sanear tus puntas. El servicio incluye lavado con champú especifico y corte. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Te asesoramos en todo momento para dar con el look que más va contigo y con tu estilismo. Realizamos corte de pelo, lavado con champú especifico y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "31 € ", 
+            "description": "El pack de belleza más completo para tí, de las manos de las mejores profesionales. Realizamos corte de pelo personalizado con asesoramiento, lavado con champú y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Cabello Corto Y Medio", 
+            "duration": 3600, 
+            "price": "23,75 € ", 
+            "description": "Con las mechas conseguirás dar más luminosidad y brillo a tu cabello, además de aportar un toque de color. El servicio incluye mechas con asesoramiento personalizado, lavado con champú y secado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Largo", 
+            "duration": 7200, 
+            "price": "27,8 € ", 
+            "description": "Ponte en nuestras manos para un cambio de look super natural. Con las mechas conseguirás dar color y brillo a tu cabello y lucir una melena más luminosa. El servicio incluye asesoramiento personalizado, mechas, lavado con champú y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "En Diamante tenemos un fabuloso pack de belleza para ti, te asesoramos acerca del estilismo que más va contigo. Realizamos corte, lavado con champú y peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar Con Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "59 € ", 
+            "description": "El tratamiento de Ácido Hialurónico con principios activos, aportará a tu cabello el brillo y luminosidad que necesita para lucir una melena perfecta. El servicio incluye el tratamiento completo y lavado con champú especifico."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Capilar Con Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "59 € ", 
+            "description": "El tratamiento de Ácido Hialurónico con principios activos, aportará a tu cabello el brillo y luminosidad que necesita para lucir una melena perfecta. El servicio incluye el tratamiento completo y lavado con champú especifico."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Cabello Largo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si quieres cambiar tu look o simplemente necesitas cubrir esa raíz o canas tan molestas, ponte en nuestras manos con este servicio. Realizamos color, lavado con champú y secado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Cabello Medio", 
+            "duration": 3600, 
+            "price": "22,2 € ", 
+            "description": "Atrévete con un cambio de color para tu cabello, siempre bajo el asesoramiento de los mejores estilistas. Lucirás una melena más brillante y llena de color. Realizamos color con asesoramiento personalizado, lavado con champú especifico y secado."
+        }
+    ]
+}

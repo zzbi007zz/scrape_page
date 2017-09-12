@@ -1,0 +1,103 @@
+{
+    "adid": null, 
+    "name": "Sensebene Montecarmelo", 
+    "name_of_contact": "Sensebene Montecarmelo", 
+    "scrape_page": "https://www.bucmi.com/sensebenemonte", 
+    "business_website": "https://www.bucmi.com/sensebenemonte", 
+    "areas_covered": null, 
+    "description": "El centro de estética Sensebene situado en Montecarmelo, Madrid, ofrece tratamientos faciales para devolver la luminosidad y lucir más joven. Además de tratamientos corporales para reducir volumen y reafirmar la piel. No esperes más y reserva tu cita.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635878673847319383.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635881162993367067.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635881163007164843.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635881163041757280.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635881163058036390.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635881163074774730.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635881163121714012.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635881163139243980.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "7,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28049", 
+    "formatted_address": "Madrid, 28049", 
+    "country": "es", 
+    "office_number": "913075921", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.5020100000", 
+    "longitude": "-3.7054699999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635973770791244270.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Déjate mimar y luce una piel mucho más limpia, suave y brillante. En el servicio realizamos desmaquillado, extracción, exfoliación, hidratación, mascarilla y masaje."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Masaje Relajante de una hora de la mano de los mejores profesionales del sector, elimina el estrés causado en tu día a día y relájate en Sensebene ."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Anti-Edad", 
+            "duration": 5400, 
+            "price": "59 € ", 
+            "description": "Tratamiento reparador e iluminador con microdermoabrasión y oxigeno, disfruta de un cutis mucho más limpio, suave y libre de imperfecciones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "265 € ", 
+            "description": "Rejuvenece la piel de tu rostro con este fantástico bono de radiofrecuencia facial conseguirás recuperar la tersura de tu rostro y elimina los signos de la edad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "486 € ", 
+            "description": "Tratamiento Reafirmante Corporal en el que se incluye, cavitación, presoterapia y plataforma vibratoria. Elimina la grasa localizada con este increíble bono de 6 sesiones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Déjate mimar y luce una piel mucho más limpia, suave y brillante. En el servicio realizamos desmaquillado, extracción, exfoliación, hidratación, mascarilla y masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Anti-Edad", 
+            "duration": 5400, 
+            "price": "59 € ", 
+            "description": "Tratamiento reparador e iluminador con microdermoabrasión y oxigeno, disfruta de un cutis mucho más limpio, suave y libre de imperfecciones."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "265 € ", 
+            "description": "Rejuvenece la piel de tu rostro con este fantástico bono de radiofrecuencia facial conseguirás recuperar la tersura de tu rostro y elimina los signos de la edad."
+        }
+    ]
+}

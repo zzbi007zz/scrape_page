@@ -1,0 +1,131 @@
+{
+    "adid": null, 
+    "name": "Beauty Station", 
+    "name_of_contact": "Beauty Station", 
+    "scrape_page": "https://www.bucmi.com/beauty-station", 
+    "business_website": "https://www.bucmi.com/beauty-station", 
+    "areas_covered": null, 
+    "description": "Un espacio en el corazón de Chueca donde relajarse y disfrutar del cuidado y mimo personal. Trabajamos exclusivamente con Paul Mitchell. Te invitamos a descubrir un concepto diferente en peluquería, donde cuidar tu cabello es nuestra primera meta.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636205162203354904.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636205162237885083.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636205162258353319.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636205162277571517.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636205162298195977.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636205162326320176.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636205162345694630.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636205203956089012.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "Madrid, 28011, Madrid, 28008, Madrid, 28029, Madrid, 28037, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "915214496", 
+    "office_number2": null, 
+    "mobile_number": "664249522", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4203075000", 
+    "longitude": "-3.6984608999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636205209734839408.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Con Asesoramiento Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "En Beauty Station te asesoraremos escuchando tus ideas y guiándote hacia el estilo que deseas. En nuestro corte de cabello incluimos un primer shampoo de limpieza profunda,el segundo shampoo que será de tratamiento adecuado a cada tipo de cabello, con un agradable masaje craneal y acondicionador. Se procederá al secado para realizar las definiciones del corte en seco y por último se realizará el peinado que incluye los productos de finalizado. Trabajamos con productos 100% naturales de Paul Mitchell."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Hombre Con Peeling Capilar", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Te asesoraremos en la elección del estilo,realizando el pre corte en seco con máquina o tijera, según tu gusto. Un primer shampoo de limpieza profunda,Peeling Capilar que realizaremos con Hair and Scalp Treatment de Paul Mitchell, un exfoliante a base de menta pipérita, manteca de karite y otros ingredientes naturales.Un segundo shampoo de tratamiento y acondicionador para hidratar y nutrir. Por último, realizamos las definiciones del corte en seco y se procederá al peinado con gel, cera o lo que prefieras"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Balayage, Bain De Charme, Sellado Y Peinado", 
+            "duration": 10800, 
+            "price": "114 € ", 
+            "description": "Balayage al estilo francés, diseñado para tu melena y montado con papel térmico poroso que no daña ni contamina tu cabello, utilizamos decoloraciones sin amoniaco y con protección capilar. Shampoo de limpieza profunda y Bain de Charme, que matizará el cabello con el tono que hayas elegido, Segundo shampoo con tratamiento para realzar el color, sellado, nutrición e hidratación con mascarillas adecuadas a cada tipo de cabello. Procederemos al secado y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Sellado Y Peinado Media Medio", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "Crearemos un color único y personalizado para ti de nuestra coloración sin amoniaco Shine de Paul Mitchell o si lo prefieres elige XG permanente. un primer shampoo Post Color que fijará el color y sellará la fibra capilar para que tu color dure y brille por más tiempo, un segundo shampoo de tratamiento para realzar el color, por último un sellado, que significa una pequeña nutrición e hidratación con mascarillas adecuadas a cada tipo de cabello. Procederemos al secado y peinado con productos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar, Tto.Swith On, Sellado Y Peinado", 
+            "duration": 5400, 
+            "price": "89 € ", 
+            "description": "Diagnostico personalizado con tu corte y luego reavivamos tu color con nuestra fórmula secreta y exclusiva con ingredientes naturales de Paul Mitchell. Primer shampoo de limpieza profunda preparando el cabello para el tratamiento Switch On a base de Color Mask, aceite de Marula, nutrición y shampoo Post Color que sellará y cerrará la cutícula del cabello reforzando el brillo y el cuerpo capilar. Por último acondicionador y peinado con productos de acabado. Incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Con Asesoramiento Color Y Peinado Pelo Corto", 
+            "duration": 7200, 
+            "price": "94 € ", 
+            "description": "Contamos con una extensa carta de color de nuestra exclusiva línea de Paul Mitchell. Incluye un primer shampoo Post Color que fijará el color y sellará la fibra capilar para que tu color dure y brille por más tiempo, luego un segundo shampoo de tratamiento para realzar el color y facilitar el peinado, por último realizaremos un sellado, nutrición e hidratación con mascarillas adecuadas a cada tipo de cabello. Luego procederemos al corte, secado y peinado, con productos de acabado. Incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Con Asesoramiento Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "En Beauty Station te asesoraremos escuchando tus ideas y guiándote hacia el estilo que deseas. En nuestro corte de cabello incluimos un primer shampoo de limpieza profunda,el segundo shampoo que será de tratamiento adecuado a cada tipo de cabello, con un agradable masaje craneal y acondicionador. Se procederá al secado para realizar las definiciones del corte en seco y por último se realizará el peinado que incluye los productos de finalizado. Trabajamos con productos 100% naturales de Paul Mitchell."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Hombre Con Peeling Capilar", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Te asesoraremos en la elección del estilo,realizando el pre corte en seco con máquina o tijera, según tu gusto. Un primer shampoo de limpieza profunda,Peeling Capilar que realizaremos con Hair and Scalp Treatment de Paul Mitchell, un exfoliante a base de menta pipérita, manteca de karite y otros ingredientes naturales.Un segundo shampoo de tratamiento y acondicionador para hidratar y nutrir. Por último, realizamos las definiciones del corte en seco y se procederá al peinado con gel, cera o lo que prefieras"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage, Bain De Charme, Sellado Y Peinado", 
+            "duration": 10800, 
+            "price": "114 € ", 
+            "description": "Balayage al estilo francés, diseñado para tu melena y montado con papel térmico poroso que no daña ni contamina tu cabello, utilizamos decoloraciones sin amoniaco y con protección capilar. Shampoo de limpieza profunda y Bain de Charme, que matizará el cabello con el tono que hayas elegido, Segundo shampoo con tratamiento para realzar el color, sellado, nutrición e hidratación con mascarillas adecuadas a cada tipo de cabello. Procederemos al secado y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peeling, Tto. Capilar Nutricion, Brillo Y Peinar M", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "Servicio indicado para media melena. Comienza con un shampoo de limpieza profunda que prepara tu cabello para el Peeling Capilar, exfoliando tu cuero cabelludo y equilibrando el PH con un suave masaje.Un segundo champú, nutrición personalizada a tu tipo de cabello combinando las diferentes mascarillas de nuestra exclusiva línea Paul Mitchell, calor indirecto y suave durante 20 minutos aproximadamente. Luego procederemos secado y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Capilar Sense & Repair Marula Oil Con Lavado", 
+            "duration": 7200, 
+            "price": "71 € ", 
+            "description": "Repara la fibra dañada,hidratando en profundidad y aportando antioxidantes que regeneran la fibra de tu cabello. 5 Fases: Caricias de Marula, un baño de aceite puro 100% prensado en frío, que dejaremos que el cabello absorba, luego procederemos al lavado y acondicionado con un suave masaje impregnaremos en pequeños mechones de cabello el mask que le aportaremos 15 minutos de calor indirecto para que penetre en lo más profundo del cabello. Por último colocaremos un bálsamo protector ayuda a desenredar."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Color, Sellado Y Peinado Media Medio", 
+            "duration": 5400, 
+            "price": "64 € ", 
+            "description": "Crearemos un color único y personalizado para ti de nuestra coloración sin amoniaco Shine de Paul Mitchell o si lo prefieres elige XG permanente. un primer shampoo Post Color que fijará el color y sellará la fibra capilar para que tu color dure y brille por más tiempo, un segundo shampoo de tratamiento para realzar el color, por último un sellado, que significa una pequeña nutrición e hidratación con mascarillas adecuadas a cada tipo de cabello. Procederemos al secado y peinado con productos."
+        }
+    ]
+}

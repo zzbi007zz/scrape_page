@@ -1,0 +1,228 @@
+{
+    "adid": null, 
+    "name": "Agadu", 
+    "name_of_contact": "Agadu", 
+    "scrape_page": "https://www.bucmi.com/agadu", 
+    "business_website": "https://www.bucmi.com/agadu", 
+    "areas_covered": null, 
+    "description": "Centro de Peluqueria y Estética innovador y con exclusividad única al cliente, situado en Vallecas. Estamos especializados en recogidos y técnicas de color, mechas y matizado. Reserva con nosotros cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023732071085285.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023732073117051.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023732076398205.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023732075929426.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023732079210916.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023732078898413.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023732081874051.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "10", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28038", 
+    "formatted_address": "Madrid, 28006, Madrid, 28009, Madrid, 28034, Madrid, 28002, Madrid, Madrid, Madrid, 28006, Madrid, 28038", 
+    "country": "es", 
+    "office_number": "913801013", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3879800000", 
+    "longitude": "-3.6454200000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636023732521397934.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Microdermoabrasion Con Punta De Diamante", 
+            "duration": 2700, 
+            "price": "19 € ", 
+            "description": "La Microdermoabrasion con punta de diamante es una terapia de exfoliación controlada, precisa y progresiva de la capa cornea de la piel de modo que se retiran las celulas muertas de la superficie de la piel, promoviendo la recuperación y el desarrollo de una piel mas saludable y de aparencia mas juvenil.resultados visibles dsd la primera sesión, Procedimiento, leche limpiadora,exfoliante, microdermoabrasión, masaje relajante, mascarilla calmante y crema con protección solar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal Y Masaje Cuerpo Entero", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Relájate y disfruta durante una hora con un peeling coorporal en todo el cuerpo con el que eliminamos todas las pieles muertas, para despúes relajarte con un masaje relajante. Los resultados una piel suave, hidratada ideal en esta época del año."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "El servicio incluye corte, lavado, champú especifico. Dejate asesorar por nuestros peluqueros y atrévete a un cambio de look."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "9,5 € ", 
+            "description": "El servicio incluye corte para cualquier largo, lavado, champú especifico, el acondicionador o mascarilla no van incluídos, tendrán un coste adicional de 2 y tres euros que se abonará en el salón."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial Completa", 
+            "duration": 5400, 
+            "price": "24 € ", 
+            "description": "Cuida tu piel con esta limpieza completa. El servicio incluye desmaquillado, tónico,peeling, vapor, extracción, masaje, mascarilla y crema hidratante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "El servicio incluye corte, lavado, champú especifico. Dejate asesorar por nuestros peluqueros y atrévete a un cambio de look."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "9,5 € ", 
+            "description": "El servicio incluye corte para cualquier largo, lavado, champú especifico, el acondicionador o mascarilla no van incluídos, tendrán un coste adicional de 2 y tres euros que se abonará en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Melena Y Peinado", 
+            "duration": 7200, 
+            "price": "42 € ", 
+            "description": "Mechas de plata con decoloración o tinte melena hasta hombro, seguido de un relajante lavado del cabello con un champú especifico y se aplicara después una mascarilla de Keratina con un masaje craneal,para después acabar con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Corto Y Peinado", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Mechas de plata con decoloración o tinte, después un relajante lavado del cabello con champú específico, seguidamente se aplicara una mascarilla de Keratina con un masaje craneal y acabamos con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Pelo Largo Y Peinado", 
+            "duration": 9000, 
+            "price": "52 € ", 
+            "description": "Mechas con plata con decoloración o tinte pelo largo si la melena es excesivamente larga se cobrara un suplemento de 5 euros en el salón. Después relájate con un lavado del cabello con un champú específico seguido de la aplicación de una mascarilla de Keratína con un masaje craneal y acabamos con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "24,5 € ", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte, lavado, champú especifico y peinado con secador. Apto para cabello medio, el acondicionador y mascarilla tienen un importe de dos y tres euros que se abonarán en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "22,5 € ", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte, lavado, champú especifico y peinado con secador. El acondicionador y mascarilla no van incluídos, tienen un coste de dos y tres euros que se abonarán en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "29 € ", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte para cabello largo, lavado, champú especifico y peinado con secador. El acondicionador y mascarilla no van incluidos en el precio, tienen un coste de dos y tres euros que se abonarán en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "El servicio incluye corte, lavado, champú especifico. Dejate asesorar por nuestros peluqueros y atrévete a un cambio de look."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "9,5 € ", 
+            "description": "El servicio incluye corte para cualquier largo, lavado, champú especifico, el acondicionador o mascarilla no van incluídos, tendrán un coste adicional de 2 y tres euros que se abonará en el salón."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Media Melena Y Peinado", 
+            "duration": 7200, 
+            "price": "42 € ", 
+            "description": "Mechas de plata con decoloración o tinte melena hasta hombro, seguido de un relajante lavado del cabello con un champú especifico y se aplicara después una mascarilla de Keratina con un masaje craneal,para después acabar con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Pelo Corto Y Peinado", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Mechas de plata con decoloración o tinte, después un relajante lavado del cabello con champú específico, seguidamente se aplicara una mascarilla de Keratina con un masaje craneal y acabamos con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Pelo Largo Y Peinado", 
+            "duration": 9000, 
+            "price": "52 € ", 
+            "description": "Mechas con plata con decoloración o tinte pelo largo si la melena es excesivamente larga se cobrara un suplemento de 5 euros en el salón. Después relájate con un lavado del cabello con un champú específico seguido de la aplicación de una mascarilla de Keratína con un masaje craneal y acabamos con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "El servicio incluye corte, lavado, champú especifico. Dejate asesorar por nuestros peluqueros y atrévete a un cambio de look."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "9,5 € ", 
+            "description": "El servicio incluye corte para cualquier largo, lavado, champú especifico, el acondicionador o mascarilla no van incluídos, tendrán un coste adicional de 2 y tres euros que se abonará en el salón."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Media Melena Y Peinado", 
+            "duration": 7200, 
+            "price": "42 € ", 
+            "description": "Mechas de plata con decoloración o tinte melena hasta hombro, seguido de un relajante lavado del cabello con un champú especifico y se aplicara después una mascarilla de Keratina con un masaje craneal,para después acabar con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Pelo Corto Y Peinado", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Mechas de plata con decoloración o tinte, después un relajante lavado del cabello con champú específico, seguidamente se aplicara una mascarilla de Keratina con un masaje craneal y acabamos con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Pelo Largo Y Peinado", 
+            "duration": 9000, 
+            "price": "52 € ", 
+            "description": "Mechas con plata con decoloración o tinte pelo largo si la melena es excesivamente larga se cobrara un suplemento de 5 euros en el salón. Después relájate con un lavado del cabello con un champú específico seguido de la aplicación de una mascarilla de Keratína con un masaje craneal y acabamos con un peinado con secador de mano."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "24,5 € ", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte, lavado, champú especifico y peinado con secador. Apto para cabello medio, el acondicionador y mascarilla tienen un importe de dos y tres euros que se abonarán en el salón."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "22,5 € ", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte, lavado, champú especifico y peinado con secador. El acondicionador y mascarilla no van incluídos, tienen un coste de dos y tres euros que se abonarán en el salón."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Peinado Pelo Largo", 
+            "duration": 7200, 
+            "price": "29 € ", 
+            "description": "Unifica el color de tu cabello. El servicio incluye tinte para cabello largo, lavado, champú especifico y peinado con secador. El acondicionador y mascarilla no van incluidos en el precio, tienen un coste de dos y tres euros que se abonarán en el centro."
+        }
+    ]
+}

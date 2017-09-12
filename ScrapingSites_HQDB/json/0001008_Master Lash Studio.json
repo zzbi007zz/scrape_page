@@ -1,0 +1,199 @@
+{
+    "adid": null, 
+    "name": "Master Lash Studio", 
+    "name_of_contact": "Master Lash Studio", 
+    "scrape_page": "https://www.bucmi.com/masterlash", 
+    "business_website": "https://www.bucmi.com/masterlash", 
+    "areas_covered": null, 
+    "description": "Master Lash Studio es un salón de belleza situado en la calle Diputació 189, en el Eixample de Barcelona y en la zona Sant Antoni. Fundado por la estilistas de la mirada Deborah Heras y especializado en tratamientos para la mirada ubicado en pleno bario de Sant Antoni. Su equipo profesional cuenta con más de 8 años de experiencia en tratamientos específicos como extensiones de pestañas naturales, con volumen extra de 2D a 9D, lifting de pestañas, tinte y permanente de pestañas, alisado de cejas, tinte para cejas o diseño de cejas. Su especialidad son las extensiones de pestañas y cuentan con una técnica propia desarrollada por la propia Deborah Heras, que permite aplicar más extensiones en menos tiempo y con una mayor duración.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636316575343600762.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636316575352976095.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636316575362038651.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636316575371882544.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636316575379382595.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636316575389226445.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "16", 
+    "hqdb_review_score": "9,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08011", 
+    "formatted_address": "Barcelona, 08011", 
+    "country": "es", 
+    "office_number": null, 
+    "office_number2": null, 
+    "mobile_number": "628212402", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3855442000", 
+    "longitude": "2.1604052000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636316589084030002.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Volumen 2D", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "Consigue más volumen en tus pestañas para lucir una mirada perfecta en todo momento. Impacta con la mirada con este volumen de pestañas 2D. Sea el evento que sea, serás la reina de la fiesta. No te preocupes más por la máscara de pestañas. ¡Ponte en manos de un cualificado equipo de profesionales y reserva ya tu cita cómodamente online a través de Bucmi.com! Saldrás encantada con los resultados. ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Volumen 3D A 6D", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Consigue más volumen en tus pestañas para lucir una mirada perfecta en todo momento. Impacta con la mirada, con este volumen de pestañas 3D. Sea el evento que sea, serás la reina de la fiesta. No te preocupes más por la máscara de pestañas. ¡Ponte en manos de un cualificado equipo de profesionales y reserva ya tu cita cómodamente online a través de Bucmi.com! Saldrás encantada con los resultados. ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensión De Pestañas Lash Weekend", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "Luce una mirada de cine con la técnica de volumen de extensión de pestañas. Consiste en la extensión desde la mitad del ojo al extremo. Olvídate de recurrir a la máscara de pestañas para tener unas pestañas de impacto, ahora unas pestañas más bonitas y pobladas. Es la técnica elegida por todas las celebrities. ¿Quieres probar su secreto? Disfruta de una mirada penetrante y cautivadora. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lifting De Pestañas", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Salón de Belleza Master Lash Studio y ponte en manos de nuestros mejores profesionales. Luce unas pestañas envidiables y disfruta de una mirada seductora. Realza los rasgos de tu rostro con nuestro servicio. Consistirá en un alargamiento de tu propia pestaña. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte De Cejas Con Henna Natural", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este tratamiento realizado con henna natural asesorado por nuestros profesionales. Si has cambiado el tono de tu melena y no quieres que haya un excesivo contraste o si por lo contrario te gusta que tus cejas marquen tus facciones, atrévete con este tinte natural. Incluye también la depilación de las mismas. ¡Anímate, estarás en manos de un buen equipo de profesionales! ¿A qué estás esperando? ¡Haz tu reserva cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Cejas Con Henna Natural", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este tratamiento realizado con henna natural asesorado por nuestros profesionales. Si has cambiado el tono de tu melena y no quieres que haya un excesivo contraste o si por lo contrario te gusta que tus cejas marquen tus facciones, atrévete con este tinte natural. Incluye también la depilación de las mismas. ¡Anímate, estarás en manos de un buen equipo de profesionales! ¿A qué estás esperando? ¡Haz tu reserva cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Volumen 2D", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "Consigue más volumen en tus pestañas para lucir una mirada perfecta en todo momento. Impacta con la mirada con este volumen de pestañas 2D. Sea el evento que sea, serás la reina de la fiesta. No te preocupes más por la máscara de pestañas. ¡Ponte en manos de un cualificado equipo de profesionales y reserva ya tu cita cómodamente online a través de Bucmi.com! Saldrás encantada con los resultados. ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Volumen 3D A 6D", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Consigue más volumen en tus pestañas para lucir una mirada perfecta en todo momento. Impacta con la mirada, con este volumen de pestañas 3D. Sea el evento que sea, serás la reina de la fiesta. No te preocupes más por la máscara de pestañas. ¡Ponte en manos de un cualificado equipo de profesionales y reserva ya tu cita cómodamente online a través de Bucmi.com! Saldrás encantada con los resultados. ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Cejas", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Servicio dedicado para aquellas personas que tienen las cejas rizadas o muy pobladas y tiene que perder tiempo que peinarlas.... Gracias al alisado lucirás siempre unas cejas perfectas. El cuidado de éstas es esencial, ya que marcan la personalidad de un rostro. De esta manera...¡ no te molestes en peinarte las cejas ! Te encantará el resultado. ¡Reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas Gold", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Luce una mirada de cine con la técnica clásica de extensión de pestañas pelo a pelo. Olvídate de recurrir a la máscara de pestañas para tener unas pestañas de impacto, ahora unas pestañas más bonitas y pobladas. Es la técnica elegida por todas las celebrities. ¿Quieres probar su secreto? No lo dudes y ¡reserva ya tu cita cómodamente online a través de Bucmi.com! El resultado será verdaderamente espectacular. ¡Serás el centro de atención allá donde vayas!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas Lash Weekend", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "Luce una mirada de cine con la técnica de volumen de extensión de pestañas. Consiste en la extensión desde la mitad del ojo al extremo. Olvídate de recurrir a la máscara de pestañas para tener unas pestañas de impacto, ahora unas pestañas más bonitas y pobladas. Es la técnica elegida por todas las celebrities. ¿Quieres probar su secreto? Disfruta de una mirada penetrante y cautivadora. Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas Platinum", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Luce una mirada de cine con la técnica clásica de extensión de pestañas pelo a pelo. Olvídate de recurrir a la máscara de pestañas para tener unas pestañas de impacto, ahora unas pestañas más bonitas y pobladas. Unas pestañas mucho más impresionantes, ideales para acudir a un evento importante. ¡Confía en nuestro equipo de profesionales, que trabajarán con la mejor técnica! No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Para Hombres", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "A los hombres también les gusta cuidarse y estar guapos por eso ven a tu Salón de Belleza Master Lash Studio y ponte en manos de nuestros mejores profesionales. Luce una mirada penetrante y cautivadora gracias a tus nuevas extensiones de pestañas. Disfruta de una mirada seductora. Da volumen a tus ojos. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Estarás perfecto!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Volumen 6D A 9D", 
+            "duration": 14400, 
+            "price": "180 € ", 
+            "description": "Consigue más volumen en tus pestañas para lucir una mirada perfecta en todo momento. Impacta con la mirada, con este volumen de pestañas 6D. Sea el evento que sea, serás la reina de la fiesta. No te preocupes más por la máscara de pestañas. ¡Ponte en manos de un cualificado equipo de profesionales y reserva ya tu cita cómodamente online a través de Bucmi.com! Saldrás encantada con los resultados. ¿Te lo vas a perder?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting De Pestañas", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Salón de Belleza Master Lash Studio y ponte en manos de nuestros mejores profesionales. Luce unas pestañas envidiables y disfruta de una mirada seductora. Realza los rasgos de tu rostro con nuestro servicio. Consistirá en un alargamiento de tu propia pestaña. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Retirar Extensiones De Pestañas", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "También retiramos las extensiones de pestañas, incluso si las traes de otros salones, todo con la mayor delicadeza. Si quieres retirar las extensiones de pestañas es aconsejable que lo hagan los profesionales, así no dañarás tus propias pestañas y párpados. ¡Ponte en las mejores manos y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Cejas Con Henna Natural", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este tratamiento realizado con henna natural asesorado por nuestros profesionales. Si has cambiado el tono de tu melena y no quieres que haya un excesivo contraste o si por lo contrario te gusta que tus cejas marquen tus facciones, atrévete con este tinte natural. Incluye también la depilación de las mismas. ¡Anímate, estarás en manos de un buen equipo de profesionales! ¿A qué estás esperando? ¡Haz tu reserva cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Olvídate de la máscara de pestañas por un tiempo con el tratamiento de tinte para pestañas. A base de a henna natural , para ayudar así a cuidar y mimar las pestañas para que no sufran durante el tratamiento. Lucirás unas pestañas realzadas y una mirada impactante. Una mirada intensa siempre en manos de nuestro equipo de profesionales. ¿A qué esperas? ¡Haz tu reserva cómodamente online a través de Bucmi.com! Saldrás encantada con el resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Olvídate de la máscara de pestañas por un tiempo con el tratamiento de tinte para pestañas. Cuidamos y mimamos las pestañas para que no sufran durante el tratamiento. Con la permanente ayudamos a que tus pestañas luzcan más curvadas. Lucirás unas pestañas realzadas y una mirada impactante. ¡Llamarás la atención allá donde vayas! Duración del efecto de unas 3 semanas, ideal en tu día a día. ¡No lo dudes y reserva ya tu cita cómodamente online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Gracias a la permanente daremos una forma curvada perfecta a tus pestañas. Realza tu mirada aportando un toque de luminosidad y profundidad. Aporta un toque muy natural. ¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Salón de Belleza Master Lash Studio y ponte en manos de nuestros mejores profesionales. Luce una mirada penetrante y seductora. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Cejas Con Henna Natural", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Este tratamiento realizado con henna natural asesorado por nuestros profesionales. Si has cambiado el tono de tu melena y no quieres que haya un excesivo contraste o si por lo contrario te gusta que tus cejas marquen tus facciones, atrévete con este tinte natural. Incluye también la depilación de las mismas. ¡Anímate, estarás en manos de un buen equipo de profesionales! ¿A qué estás esperando? ¡Haz tu reserva cómodamente online a través de Bucmi.com!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas Volumen 2D", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "Consigue más volumen en tus pestañas para lucir una mirada perfecta en todo momento. Impacta con la mirada con este volumen de pestañas 2D. Sea el evento que sea, serás la reina de la fiesta. No te preocupes más por la máscara de pestañas. ¡Ponte en manos de un cualificado equipo de profesionales y reserva ya tu cita cómodamente online a través de Bucmi.com! Saldrás encantada con los resultados. ¿Te lo vas a perder?"
+        }
+    ]
+}

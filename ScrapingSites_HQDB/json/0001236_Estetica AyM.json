@@ -1,0 +1,106 @@
+{
+    "adid": null, 
+    "name": "Estética AyM", 
+    "name_of_contact": "Estética AyM", 
+    "scrape_page": "https://www.bucmi.com/esteticaaym", 
+    "business_website": "https://www.bucmi.com/esteticaaym", 
+    "areas_covered": null, 
+    "description": "Estética AyM es tu centro de belleza en la Ciudad Condal. Podrás encontrar una variedad de servicios de peluquería: alisados, mechas, cortes de última tendencia, coloración... Todo con la mayor profesionalidad y un trato exclusivo. ¡Ven a conocernos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996832024187529.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996832047781191.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996832066221951.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635996832084190609.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Industria, 142", 
+    "city": "Barcelona", 
+    "zipcode": "08027", 
+    "formatted_address": "C/ Industria, 142, Barcelona, 08027", 
+    "country": "es", 
+    "office_number": "935277425", 
+    "office_number2": null, 
+    "mobile_number": "615861296", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4166823000", 
+    "longitude": "2.1850289999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635997123065318805.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Keratina Brasileño", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¡Gana la batalla al encrespamiento! Ven a nuestro centro y disfruta de este servicio de alisado de Keratina brasileño de mano de los mejores expertos. Disfruta de una melena lisa, suave hidratada y libre de encrespamiento no deseado. ¡Notarás la diferencia! Ideal para todo tipo de cabellos. Reserva ya tu cita cómodamente online. Te pondrás en las mejores manos. Además, utilizamos productos de primeras marcas. ¡No esperes más y reserva ya cómodamente online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Japonés", 
+            "duration": 10800, 
+            "price": "160 € ", 
+            "description": "Si quieres disfrutar de una melena completamente lisa, ven a nuestro centro y prueba nuestro servicio de alisado japonés. El alisado de los alisados por excelencia. Disfruta de un pelo liso, lacio y suave las 24 horas del día. Sal de la ducha, de la playa, baila bajo la lluvia y todo con el pelo 100% liso. ¡Notarás la diferencia! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Brasileño", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¡Gana la batalla al encrespamiento! Ven a nuestro centro y disfruta de este servicio de alisado de Keratina brasileño de mano de los mejores expertos. Disfruta de una melena lisa, suave hidratada y libre de encrespamiento no deseado. ¡Notarás la diferencia! Ideal para todo tipo de cabellos. Reserva ya tu cita cómodamente online. Te pondrás en las mejores manos. Además, utilizamos productos de primeras marcas. ¡No esperes más y reserva ya cómodamente online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés", 
+            "duration": 10800, 
+            "price": "160 € ", 
+            "description": "Si quieres disfrutar de una melena completamente lisa, ven a nuestro centro y prueba nuestro servicio de alisado japonés. El alisado de los alisados por excelencia. Disfruta de un pelo liso, lacio y suave las 24 horas del día. Sal de la ducha, de la playa, baila bajo la lluvia y todo con el pelo 100% liso. ¡Notarás la diferencia! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Ácido Hialurónico", 
+            "duration": 7200, 
+            "price": "89 € ", 
+            "description": "¡Descubre el nuevo y revolucionario alisado que te ofrecemos en Estética A&M! Tratamiento indicado para todo tipo de melenas, que además de alisar nutre en profundidad tu cabello. Resultados duraderos y visibles desde el primer momento. Podrás así lucir una melena mucho más bonita y cuidada. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Utilizamos productos de primera calidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Color", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "¿Estás cansada de tu color triste y apagado y quieres sorprender con una imagen distinta? Reserva ya este servicio que incluye un corte asesorado por nuestros profesionales y la aplicación del color. No incluye el peinado. Utilizamos productos de primeras marcas. Los cortes y colores más clásicos o los más atrevidos, siempre lo que tu decidas. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Color Y Brushing", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "¿Estás cansada de tu color triste y apagado y quieres sorprender con una imagen distinta? Reserva ya este servicio que incluye un corte asesorado por nuestros profesionales y la aplicación del color y el marcado o brushing. Utilizamos productos de primeras marcas. Los cortes y colores más clásicos o los más atrevidos, siempre lo que tu decidas. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Mechas Balayage, Matiz Y Brushing", 
+            "duration": 7200, 
+            "price": "49 € ", 
+            "description": "Nuestro centro está al tanto de las últimas tendencias. Por ello, te ofrecemos un auténtica pack exclusivo para tu cabello que incluye el corte asesorado por nuestro equipo de profesionales. el matiz, las mechas balayage y el marcado o brushing, con el que comprobarás los increíbles resultados. ¡Sorprende con tu nueva imagen y reserva ya este servicio cómodamente online! Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Matiz Y Brushing", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "Las mechas te proporcionarán la luminosidad o el toque de color que estás buscando para tu melena. Por ello, te ofrecemos un auténtico pack exclusivo para tu cabello que incluye el matiz, las mechas normales y el marcado o brushing, con el que comprobarás los increíbles resultados. ¡Sorprende con tu nueva imagen y reserva ya este servicio cómodamente online! Te encantará el resultado."
+        }
+    ]
+}

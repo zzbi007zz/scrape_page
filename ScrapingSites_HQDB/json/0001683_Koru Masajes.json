@@ -1,0 +1,112 @@
+{
+    "adid": null, 
+    "name": "Koru Masajes", 
+    "name_of_contact": "Koru Masajes", 
+    "scrape_page": "https://www.bucmi.com/korumasajes", 
+    "business_website": "https://www.bucmi.com/korumasajes", 
+    "areas_covered": null, 
+    "description": "Koru es un centro de masajes especializados para evocar tu crecimiento personal y la evolución de tu consciencia, situado en el centro de Sevilla. Cuenta con los mejores profesionales de masajes y naturopatía. Pon tu salud postural en nuestras manos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635863979346563696.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635863979362188667.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635863979368751151.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Sevilla", 
+    "zipcode": "41002", 
+    "formatted_address": "Sevilla, 41010, Sevilla, 41008, Sevilla, 41006, Sevilla, Sevilla, Sevilla, Sevilla, Sevilla, 41002", 
+    "country": "es", 
+    "office_number": "954354495", 
+    "office_number2": null, 
+    "mobile_number": "637459531", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.3972227000", 
+    "longitude": "-6.0007024000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962321614058234.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Circulatorio", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "¿Piernas cansadas o con mala circulación? Ponte en nuestras manos. Activaremos el riego saguineo y linfático para que te sientas descansada y puedas mejorar tu sistema circulatorio. Masaje de 50 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Con este masaje descontracturante de 50 minutos devolverás la elasticidad muscular, calmando el dolor generado por las contracturas que se generán por posturas incorrectas o estrés. No dejes que las molestias y contracturas te paren."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "A través de presiones suaves y pases largos, crearemos un efecto de bienestar y relax en el organismo. Te olvidarás de todo el estrés diario y alcanzarás una profunda relajación. Masaje de 50 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reductor con Maderoterapia", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "Consigue reducir peso dehaciéndote de esa antiestética grasa localizada y reafirmar tu piel de la forma más placentera posible a través de un masaje de 50 minutos en el cual se aprovechan los beneficios de la maderoterapia para que el resultado sea más efectivo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Circulatorio", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "¿Piernas cansadas o con mala circulación? Ponte en nuestras manos. Activaremos el riego saguineo y linfático para que te sientas descansada y puedas mejorar tu sistema circulatorio. Masaje de 50 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Reductor con Maderoterapia", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "Consigue reducir peso dehaciéndote de esa antiestética grasa localizada y reafirmar tu piel de la forma más placentera posible a través de un masaje de 50 minutos en el cual se aprovechan los beneficios de la maderoterapia para que el resultado sea más efectivo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Circulatorio", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "¿Piernas cansadas o con mala circulación? Ponte en nuestras manos. Activaremos el riego saguineo y linfático para que te sientas descansada y puedas mejorar tu sistema circulatorio. Masaje de 50 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Cielo y Tierra", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Completo masaje que combina masaje en cabeza y pies, conseguirás equilibrar cuerpo y mente. Te encantará nuestro masaje de 50 minutos Cielo y Tierra haciéndote sentir relajada. Regálate un momento para ti."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Combinado", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Si tienes dolencias musculares a la vez que un aguantas un gran estrés, nuestro masaje combinado de 50 minutos es el masaje perfecto para ti. Aliviará distintas dolencias musculares que tengas y relajará tu mente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Facial con Piedras de Jade", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Disminuye tus dolencias de cabeza con nuestro masaje facial con Piedras de Jade de 50 minutos, el cual además de aliviar tus dolencias tiene un efecto reafirmante en la piel y reduce tensión consiguiendo el máximo relax."
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "adid": null, 
+    "name": "Sur Peluqueros", 
+    "name_of_contact": "Sur Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/surpeluqueros", 
+    "business_website": "https://www.bucmi.com/surpeluqueros", 
+    "areas_covered": null, 
+    "description": "Especializados en servicios de peluquería como cortes de pelo, mechas y tratamientos de keratina. Nos interesa tu comodidad y que todos los servicios sean de tu gusto. Te esperamos, no esperes más y reserva ahora tu cita online con Bucmi.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790624024418596.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790624173636841.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635790624190825707.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Sevilla", 
+    "zipcode": "Sevilla", 
+    "formatted_address": "Sevilla, 41010, Sevilla, 41008, Sevilla, 41006, Sevilla, Sevilla, Sevilla, Sevilla", 
+    "country": "es", 
+    "office_number": "954354495", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.3996688000", 
+    "longitude": "-5.9702346999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962313705510650.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Disfruta de un servicio completo de lavado y corte asesorado por nuestros profesionales. Incluye lavado con champú de tratamiento para darle una hidratación superior."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Y Peinado Mujer", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Dale personalidad o definición a tu pelo con un servicio de corte asesorado por nuestros estilistas y peinado. El servicio incluye lavado con champú de hidratación y aplicación de tratamiento hidratante, ademas de todos los productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Y Peinado", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Potencia el brillo de tu melena con unas mechas en Sur Peluqueros, el servicio incluye mechas, peinar, más tratamiento de hidratación para dar mayor vitalidad a tu melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Disfruta de un servicio completo de lavado y corte asesorado por nuestros profesionales. Incluye lavado con champú de tratamiento para darle una hidratación superior."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Media Melena", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "Luce una melena más estilizada con este tratamiento reductor de volumen con keratina. Apto para largo de pelo hasta los hombros. Olvídate de la plancha"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Pelo Corto", 
+            "duration": 7200, 
+            "price": "110 € ", 
+            "description": "Reduce el volumen de tu melena encrespada con este tratamiento de keratina. Apto para largo de pelo hasta la barbilla. Ahora podrás olvidarte de estar frente al espejo horas intentando domar tu melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Tu pelo parecerá aún más largo y estilizado con este tratamiento de keratina reductor de volumen. Servicio apto para melenas con un largo por debajo de los hombros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Mujer", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Dale personalidad o definición a tu pelo con un servicio de corte asesorado por nuestros estilistas y peinado. El servicio incluye lavado con champú de hidratación y aplicación de tratamiento hidratante, ademas de todos los productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Potencia el brillo de tu melena con unas mechas en Sur Peluqueros, el servicio incluye mechas, peinar, más tratamiento de hidratación para dar mayor vitalidad a tu melena."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Disfruta de un servicio completo de lavado y corte asesorado por nuestros profesionales. Incluye lavado con champú de tratamiento para darle una hidratación superior."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Keratina Media Melena", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "Luce una melena más estilizada con este tratamiento reductor de volumen con keratina. Apto para largo de pelo hasta los hombros. Olvídate de la plancha"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Keratina Pelo Corto", 
+            "duration": 7200, 
+            "price": "110 € ", 
+            "description": "Reduce el volumen de tu melena encrespada con este tratamiento de keratina. Apto para largo de pelo hasta la barbilla. Ahora podrás olvidarte de estar frente al espejo horas intentando domar tu melena."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Tu pelo parecerá aún más largo y estilizado con este tratamiento de keratina reductor de volumen. Servicio apto para melenas con un largo por debajo de los hombros."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Y Peinado Mujer", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Dale personalidad o definición a tu pelo con un servicio de corte asesorado por nuestros estilistas y peinado. El servicio incluye lavado con champú de hidratación y aplicación de tratamiento hidratante, ademas de todos los productos de acabado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Y Peinado", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Potencia el brillo de tu melena con unas mechas en Sur Peluqueros, el servicio incluye mechas, peinar, más tratamiento de hidratación para dar mayor vitalidad a tu melena."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Labio Superior", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Elimina el vello de tu labio superior gracias a la depilación con cera tibia para conseguir retirar el pelo de raíz. Reserva ahora online con Bucmi.com."
+        }
+    ]
+}

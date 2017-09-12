@@ -1,0 +1,243 @@
+{
+    "adid": null, 
+    "name": "Aleida Clínica Médico Estética", 
+    "name_of_contact": "Aleida Clínica Médico Estética", 
+    "scrape_page": "https://www.bucmi.com/clinicaaleida", 
+    "business_website": "https://www.bucmi.com/clinicaaleida", 
+    "areas_covered": null, 
+    "description": "Clínica Aleida es un centro de estética que garantiza los más altos estándares de calidad mediante la utilización de las técnicas más avanzadas y los mejores productos.Consulta de diagnóstico gratuita.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635900229851744176.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635900230079476691.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635900230872018612.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635900231325296008.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635900232450163957.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635900232929812482.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635900233783810816.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635900260017243425.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28016", 
+    "formatted_address": "Madrid, 28016", 
+    "country": "es", 
+    "office_number": "910833817", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4531938000", 
+    "longitude": "-3.6811591000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635974566366397463.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "5 Sesiones D.Láser Piernas Compl, Ingles Y Axilas", 
+            "duration": 3600, 
+            "price": "450 € ", 
+            "description": "¿ Quieres olvidarte de la depilación para siempre a un precio irresistible? Elimina ese vello que te sobra con estas 5 sesiones de depilación láser. El servicio incluye depilación de piernas enteras, ingles y axilas. Luce una piel suave y sedosa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 Sesiones Depilación Láser Ingles Y Axilas", 
+            "duration": 1800, 
+            "price": "200 € ", 
+            "description": "Olvídate de la depilación dolorosa y los tirones. Disfruta de este pack de 5 sesiones de depilación láser para ingles y axilas. Luce una piel suave y sedosa y olvídate del vello que te sobra. Precio para 5 sesiones. Consultar con su profesional si requiere de más sesiones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "5 Sesiones Depilación Láser Diodo Zona Pequeña", 
+            "duration": 900, 
+            "price": "80 € ", 
+            "description": "Olvídate de la depilación para siempre con estas 5 sesiones de depilación laser a escoger una zona pequeña que incluye: mentón, manos, labio superior, entrecejo, patillas, linea alba, nuca, zona perianal y pies."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Bono Completo Bono Especial Eventos", 
+            "duration": 14400, 
+            "price": "199 € ", 
+            "description": "El tratamiento de belleza más completo. En Clínica Aleida te ofrecemos un BONO ESPECIAL EVENTOS para que puedas ponerte guapa a un precio increíble. Este bono incluye: manicura spa con esmaltado permanente, pedicura spa con esmaltado permanente, higiene facial completa con punta de diamante y radiofrecuencia facial, un tratamiento facial iluminador ( REGENERING CASMARA) y un peeling corporal con hidratación. Ven a disfrutar de este bono a un precio INCREÍBLE! No te resistirás."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa Y Sesion Radiofrecuencia", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Ven a Clínica Aleida y cuida de tu piel con esta higiene facial completa. El servicio incluye higiene facial con punta de diamante, hidratación profunda y radiofrecuencia facial. Recupera la luminosidad de tu rostro. Pruebalo y no te arrepentirás."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Oxigeno O Vitamina C", 
+            "duration": 3600, 
+            "price": "230 € ", 
+            "description": "Recupera la elasticidad y la hidratación natural de tu piel con este tratamiento facial con Oxigeno o Vitamina C con Mascara LED. Ponte en manos de nuestros expertos en belleza y saca el máximo partido a tu rostro. Conseguirás lucir una piel suave, luminosa e hidratada en tan sólo una sesión. Precio por 4 sesiones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentacion De Eye Liner", 
+            "duration": 900, 
+            "price": "120 € ", 
+            "description": "Diseño de línea ojo inferior o superior. Consiste en pigmentar la línea del ojo superior o inferior a elegir, consiguiendo de esta forma un maquillaje permanente. Servicio prestado por medicos"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Casmara Longevity", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Disfruta de un tratamiento antiedad con la tecnología más avanzada del mercado de las manos de nuestros expertos profesionales. Con este tratamiento facial CASMARA LONGEVITY recupera la elasticidad y el tono natural de tu piel, reduce los signos del paso del tiempo y rellena arrugas estimulando el colágeno natural de tu piel. Ponte en manos de nuestros profesionales, quedarás encantada con el resultado. Precio por sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Casmara Regenereting", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿ Quieres experimientar el lujo para tu piel con los tratamientos de CASMARA? Déjate asesorar por nuestros expertos profesionales. Con este tratamiento facial CASMARA REGENERETING regenera las células de tu rostro y estimula de forma natural la regeneración de la piel . Reduce los signos del paso del tiempo, rellena arrugas y elimina las impurezas de forma natural . Ponte en manos de nuestros profesionales, quedarás encantada con el resultado. Precio por sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal con Hidratación Profunda", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¿ Quieres una piel suave y sedosa? Ven a Clínica Aleida y disfruta de este peeling corporal indicado para eliminar todas las células muertas de tu piel y ayudar a la regeneración celular. Consigue una hidratación profunda y luce una piel suave, luminosa e hidratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "6 Sesiones Tto Reductor Envolturas Corporales", 
+            "duration": 3600, 
+            "price": "308 € ", 
+            "description": "Disfruta de este bono de 6 sesiones de envolturas corporales. Déjate asesorar por nuestros expertos en belleza y moldea tu figura con la técnica más natural. Elige entre envolturas reductoras, anticelulíticas o reafirmante y consigue una piel suave, luminosa e hidratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "285 € ", 
+            "description": "Gracias a este tratamiento facial, conseguirás lucir un rostro mucho más rejuvenecido, luminoso y terso. Este bono incluye 5 sesiones de radiofrecuencia facial. Reserva ya tu bono y luce un rostro perfecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Presoterapía 5 Sesiones", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Moldea tu figura y reduce volumen con este bono de 5 sesiones de cavitación y presoterapia o electroestimulación. Ayuda a eliminar la retención de líquidos, reducir la celulítis y la grasa acumulada en las zonas más conflictivas del cuerpo. Precio por 5 sesiones de 1 hora combinado terapia activa y pasiva. Pruebalo y comprueba los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Punta De Diamante", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "La higiene facial en cabina constituye uno de los pilares básicos para el cuidado de la piel. Los profesionales de Clínica Aleida diseñarán el tratamiento que mejor se adapta a cada caso para conseguir una piel libre de impurezas y con un tono más uniforme."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microblanding Cejas Completas", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Luce unas cejas naturales, con esta técnica de maquillaje permanente de ultima generación. Diseño de cejas pelo a pelo. Servicio prestado por médicos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microblanding Iluminador Parpado", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "Ilumina tu mirada con la ultima técnica en España en maquillaje permanente, resultados naturales.En Clinica Aleida este servicio es prestado por médicos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microblanding Relleno De Cejas", 
+            "duration": 1800, 
+            "price": "180 € ", 
+            "description": "Luce unas cejas naturales, ultima técnica dentro de la industria del maquillaje permanente en la creación de diseño de cejas pelo a pelo. Servicio prestado por médicos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Bono Completo Bono Especial Eventos", 
+            "duration": 14400, 
+            "price": "199 € ", 
+            "description": "El tratamiento de belleza más completo. En Clínica Aleida te ofrecemos un BONO ESPECIAL EVENTOS para que puedas ponerte guapa a un precio increíble. Este bono incluye: manicura spa con esmaltado permanente, pedicura spa con esmaltado permanente, higiene facial completa con punta de diamante y radiofrecuencia facial, un tratamiento facial iluminador ( REGENERING CASMARA) y un peeling corporal con hidratación. Ven a disfrutar de este bono a un precio INCREÍBLE! No te resistirás."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Casmara Anti Acné", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿ Necesitas eliminar el acné y las impurezas de la piel? Prueba nuestro tratamiento facial CASMARA específico Anti Acné. Limpia y elimina la suciedad y las impurezas de la piel para evitar el crecimiento y la extensión del acné en tu rostro. Elimínalo de forma definitiva. Precio sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Casmara Luxury Gold", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "En Clínica Aleida te ofrecemos los tratamientos más revolucionarios para tu piel. Déjate asesorar por nuestros expertos profesionales. Con este tratamiento facial CASMARA LUXURY GOLD podrás experimentar el lujo en tu piel. El tratamiento te ayuda a reducir los signos del paso del tiempo,hidrata la piel, regenera las células del rostro, rellena arrugas y devuelve a la piel su tonalidad y suavidad natural. Pruebalo y no te arrepentirás. Precio por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Completa Y Sesion Radiofrecuencia", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Ven a Clínica Aleida y cuida de tu piel con esta higiene facial completa. El servicio incluye higiene facial con punta de diamante, hidratación profunda y radiofrecuencia facial. Recupera la luminosidad de tu rostro. Pruebalo y no te arrepentirás."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Oxigeno O Vitamina C", 
+            "duration": 3600, 
+            "price": "230 € ", 
+            "description": "Recupera la elasticidad y la hidratación natural de tu piel con este tratamiento facial con Oxigeno o Vitamina C con Mascara LED. Ponte en manos de nuestros expertos en belleza y saca el máximo partido a tu rostro. Conseguirás lucir una piel suave, luminosa e hidratada en tan sólo una sesión. Precio por 4 sesiones."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentacion De Eye Liner", 
+            "duration": 900, 
+            "price": "120 € ", 
+            "description": "Diseño de línea ojo inferior o superior. Consiste en pigmentar la línea del ojo superior o inferior a elegir, consiguiendo de esta forma un maquillaje permanente. Servicio prestado por medicos"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Casmara Longevity", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Disfruta de un tratamiento antiedad con la tecnología más avanzada del mercado de las manos de nuestros expertos profesionales. Con este tratamiento facial CASMARA LONGEVITY recupera la elasticidad y el tono natural de tu piel, reduce los signos del paso del tiempo y rellena arrugas estimulando el colágeno natural de tu piel. Ponte en manos de nuestros profesionales, quedarás encantada con el resultado. Precio por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Casmara Regenereting", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿ Quieres experimientar el lujo para tu piel con los tratamientos de CASMARA? Déjate asesorar por nuestros expertos profesionales. Con este tratamiento facial CASMARA REGENERETING regenera las células de tu rostro y estimula de forma natural la regeneración de la piel . Reduce los signos del paso del tiempo, rellena arrugas y elimina las impurezas de forma natural . Ponte en manos de nuestros profesionales, quedarás encantada con el resultado. Precio por sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal con Hidratación Profunda", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¿ Quieres una piel suave y sedosa? Ven a Clínica Aleida y disfruta de este peeling corporal indicado para eliminar todas las células muertas de tu piel y ayudar a la regeneración celular. Consigue una hidratación profunda y luce una piel suave, luminosa e hidratada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "6 Sesiones Tto Reductor Envolturas Corporales", 
+            "duration": 3600, 
+            "price": "308 € ", 
+            "description": "Disfruta de este bono de 6 sesiones de envolturas corporales. Déjate asesorar por nuestros expertos en belleza y moldea tu figura con la técnica más natural. Elige entre envolturas reductoras, anticelulíticas o reafirmante y consigue una piel suave, luminosa e hidratada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "285 € ", 
+            "description": "Gracias a este tratamiento facial, conseguirás lucir un rostro mucho más rejuvenecido, luminoso y terso. Este bono incluye 5 sesiones de radiofrecuencia facial. Reserva ya tu bono y luce un rostro perfecto."
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "adid": null, 
+    "name": "Solnatura", 
+    "name_of_contact": "Solnatura", 
+    "scrape_page": "https://www.bucmi.com/solnatura", 
+    "business_website": "https://www.bucmi.com/solnatura", 
+    "areas_covered": null, 
+    "description": "Solnatura es un centro de referencia dedicado a la salud natural y a la nutrición avanzada, ubicado en el Barrio de Salamanca en Madrid. Contamos con especialistas cualificados en naturopatía y nutrición, además de una amplia experiencia en el sector.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636093858088010655.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636093858089573408.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636093858090979669.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636093858091448403.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636117138513544492.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636117138525106643.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636117138553543672.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28001", 
+    "formatted_address": "Madrid, 28001, Madrid, 28009, Madrid, 28001, Madrid, 28001", 
+    "country": "es", 
+    "office_number": "913131409", 
+    "office_number2": null, 
+    "mobile_number": "673787321", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4218282000", 
+    "longitude": "-3.6864037000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636093858869397219.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 6 Masajes 50 Min", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "Para la obtención de mejores resultados de la tecnica del quiromasaje no dudes en reservar este bono de 6 masajes de 50 minutos con los que aliviarás todas tus molestias y sentirás como tu cuerpo recobra toda su energía. Valido para cualquier tipo de masaje"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Metamórfico", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Es el servicio ideal para obtener relax y eliminar bloqueos energéticos. Se trata de una terapia indicada para todas las edades,especialmente indicada para niños y bebes,durante el embarazo, en casos de estrés,depresión o ansiedad entre otros sintomas. El masaje metamórfico ayuda a liberar y aliviar la tensión mental y emocional que conduce a la relajación fisica y ayuda a la autocuración del organismo. El masaje se aplica en pies,manos y cabeza.Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflexología Podal", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Para personas que busquen encontrar el relax y activar la energía.Resultados magníficos frente a cargas musculares, molestias digestivas,trastornos linfáticos o problemas de movilidad articular.Se trata de la estimulación de puntos sobre los pies,cuya presión produce efectos específicos en otras partes del cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Indicado para personas con problemas de retención de líquidos.Se trata de un protocolo completo de maniobras destindas a drenar o desplazar la linfa que por el cualquier motivo patológico se encuentre estancada para su evacución normal. Se aplica en piernas, espalda o manos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Indicado para personas con problemas de retención de líquidos.Se trata de un protocolo completo de maniobras destindas a drenar o desplazar la linfa que por el cualquier motivo patológico se encuentre estancada para su evacución normal. Se aplica en piernas, espalda o manos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Se trata del servicio ideal si tienes lesiones o contracturas localizadas. En Solnatura ponemos a tu disposición la mejor manera de mejorar el rendimiento y el cuidado del deportista, diseñado para prevenir y evitar lesiones así como la pronta recuperación de las mismas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Quiromasaje", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Conoce los beneficios del quiromasaje y reserva tu cita para disfrutar de ellos. El quiromasaje trata y previene malestar, dolencias musculare, mejores el funcionamiento de las articulaciones, aumentando el riego sanguíneo y favoreciendo la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Quiromasaje", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Conoce los beneficios del quiromasaje y reserva tu cita para disfrutar de ellos. El quiromasaje trata y previene malestar, dolencias musculare, mejores el funcionamiento de las articulaciones, aumentando el riego sanguíneo y favoreciendo la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Metamórfico", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Es el servicio ideal para obtener relax y eliminar bloqueos energéticos. Se trata de una terapia indicada para todas las edades,especialmente indicada para niños y bebes,durante el embarazo, en casos de estrés,depresión o ansiedad entre otros sintomas. El masaje metamórfico ayuda a liberar y aliviar la tensión mental y emocional que conduce a la relajación fisica y ayuda a la autocuración del organismo. El masaje se aplica en pies,manos y cabeza.Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Indicado para personas con problemas de retención de líquidos.Se trata de un protocolo completo de maniobras destindas a drenar o desplazar la linfa que por el cualquier motivo patológico se encuentre estancada para su evacución normal. Se aplica en piernas, espalda o manos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Deportivo", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Se trata del servicio ideal si tienes lesiones o contracturas localizadas. En Solnatura ponemos a tu disposición la mejor manera de mejorar el rendimiento y el cuidado del deportista, diseñado para prevenir y evitar lesiones así como la pronta recuperación de las mismas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Quiromasaje", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Conoce los beneficios del quiromasaje y reserva tu cita para disfrutar de ellos. El quiromasaje trata y previene malestar, dolencias musculare, mejores el funcionamiento de las articulaciones, aumentando el riego sanguíneo y favoreciendo la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Quiromasaje", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Conoce los beneficios del quiromasaje y reserva tu cita para disfrutar de ellos. El quiromasaje trata y previene malestar, dolencias musculare, mejores el funcionamiento de las articulaciones, aumentando el riego sanguíneo y favoreciendo la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Metamórfico", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Es el servicio ideal para obtener relax y eliminar bloqueos energéticos. Se trata de una terapia indicada para todas las edades,especialmente indicada para niños y bebes,durante el embarazo, en casos de estrés,depresión o ansiedad entre otros sintomas. El masaje metamórfico ayuda a liberar y aliviar la tensión mental y emocional que conduce a la relajación fisica y ayuda a la autocuración del organismo. El masaje se aplica en pies,manos y cabeza.Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Indicado para personas con problemas de retención de líquidos.Se trata de un protocolo completo de maniobras destindas a drenar o desplazar la linfa que por el cualquier motivo patológico se encuentre estancada para su evacución normal. Se aplica en piernas, espalda o manos."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Masaje Deportivo", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Se trata del servicio ideal si tienes lesiones o contracturas localizadas. En Solnatura ponemos a tu disposición la mejor manera de mejorar el rendimiento y el cuidado del deportista, diseñado para prevenir y evitar lesiones así como la pronta recuperación de las mismas."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Quiromasaje", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Conoce los beneficios del quiromasaje y reserva tu cita para disfrutar de ellos. El quiromasaje trata y previene malestar, dolencias musculare, mejores el funcionamiento de las articulaciones, aumentando el riego sanguíneo y favoreciendo la eliminación de toxinas."
+        }
+    ]
+}

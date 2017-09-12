@@ -1,0 +1,229 @@
+{
+    "adid": null, 
+    "name": "Piu Bella Madrid", 
+    "name_of_contact": "Piu Bella Madrid", 
+    "scrape_page": "https://www.bucmi.com/piubellamadrid", 
+    "business_website": "https://www.bucmi.com/piubellamadrid", 
+    "areas_covered": null, 
+    "description": "Piu Bella es tu centro de belleza ubicado en el barrio de Arroyo del Fresno, que gracias a nuestros expertos profesionales, te cuidaremos y mimaremos mientras te ponemos guapa. Disfruta de nuestras higienes faciales, tratamientos faciales, presoterapias.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963211360423542.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963211363555684.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963211364810659.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963211365123171.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963211364187585.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963211365904402.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963211366373155.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963211368560806.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "6,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Zipaquira, 12", 
+    "city": "Madrid", 
+    "zipcode": "28035", 
+    "formatted_address": "C/ Zipaquira, 12, Madrid, 28035", 
+    "country": "es", 
+    "office_number": "913764446", 
+    "office_number2": null, 
+    "mobile_number": "671863366", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4865904000", 
+    "longitude": "-3.7193666000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963255006175838.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Realizamos un diagnóstico previo y utilizamos el tratamiento más adecuado para cada tipo de piel, diferenciando entre pieles jóvenes, maduras, secas, grasas, deshidratadas... y siempre con productos de primeras marca. Cuida tu cutis con nuestro tratamiento de higiene facial y elimina la suciedad acumulada del día a día."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Radiofrecuencia Corporal O Facial", 
+            "duration": 2700, 
+            "price": "52 € ", 
+            "description": "Está indicado para reafirmar y tonificar cualquier zona, facial o corporal, actuando también como reductor de celulitis edematosa y fibrosa, piel de naranja y retención de líquidos. Podrás elegir si lo prefieres corporal o facial. ¡Descúbre Piu Bella!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antiedad Coolifting", 
+            "duration": 1800, 
+            "price": "69 € ", 
+            "description": "Coolifting Rejuvenecimiento Facial ExpressVen a conocer esta novedosa técnica de rejuvenecimiento. El Coolifting consiste en la aplicación con pistola una combinación de frío, alta presión y CO2, con un cocktail de potentes principios activos nebulizados, consiguiendo un espectacular efecto lifting + masaje final para facilitar la absorción de los activos. Super efectivo rellenando pequeñas arrugas del contorno de ojos, frente, entrecejo, mejillas y zona labial. No lo dudes, saldrás fascinada!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Iluminador Vitamina C", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Primer tratamiento profesional anti-edad que contrarresta los efectos negativos de la glicación cutánea: inhibe la formación de los A.G.E.’s y acelera la descomposición de los ya existentes, eliminando el “efecto kusumi” (tono cetrino en la piel).Multi-corrección anti-edad: Firmeza y densidad, uniformidad y luminosidad inmediata, elasticidad, hidratación y tersura."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Personalizado Più Bella", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Un tratamiento específico para tu piel diseñado sobre un diagnóstico previo en cabina. Combinando un serum facial anti-edad formulado con Matrixil y Silicio Orgánico, pensado para tratar los efectos del paso del tiempo en el rostro, cuello y escote, con los concentrados especialmente seleccionados por el profesional. Descúbre ya tu tratamiento de Piu Bella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Facial Personalizado Più Bella", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Un tratamiento específico para tu piel diseñado sobre un diagnóstico previo en cabina. Combinando un serum facial anti-edad formulado con Matrixil y Silicio Orgánico, pensado para tratar los efectos del paso del tiempo en el rostro, cuello y escote, con los concentrados especialmente seleccionados por el profesional. Descúbre ya tu tratamiento de Piu Bella."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Personalizado Più Bella", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Un tratamiento específico para tu piel diseñado sobre un diagnóstico previo en cabina. Combinando un serum facial anti-edad formulado con Matrixil y Silicio Orgánico, pensado para tratar los efectos del paso del tiempo en el rostro, cuello y escote, con los concentrados especialmente seleccionados por el profesional. Descúbre ya tu tratamiento de Piu Bella."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Con esta sesión de presoterapia conseguirás eliminar la celulitis acumulada en tu cuerpo y además reducir volumen para así lucir una figura perfecta. ¡Reserva ya tu tratamiento corporal! En Piu Bella te asesoraremos en todo lo que necesites."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Royal Jelly", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Avanzado tratamiento profesional en cabina que promueve con éxito la cohesión epidérmica, restituyendo así la “resiliencia cutánea” y haciendo posible que la epidermis se enfrente con integridad al desafío diario del estrés externo.La piel queda nutrida, reconstituida y revitalizada profundamente, a la vez que con firmeza y luminosidad.Recomendado enPieles que estén sometidas a agresiones externas como radiación ultravioleta, atmósferas contaminadas, humedad ambiental, depilación, higiene diaria…Cual"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Realizamos un diagnóstico previo y utilizamos el tratamiento más adecuado para cada tipo de piel, diferenciando entre pieles jóvenes, maduras, secas, grasas, deshidratadas... y siempre con productos de primeras marca. Cuida tu cutis con nuestro tratamiento de higiene facial y elimina la suciedad acumulada del día a día."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tto Corporal Anticelulítico", 
+            "duration": 9000, 
+            "price": "485 € ", 
+            "description": "Pack ideal para eliminar esos kilitos de más consiguiendo un beneficio en donde eliminarás la celulitis de tu cuerpo. El servicio consta de 3 sesiones cavitación y 6 sesiones de presoterapia, 3 masajes anticeluíticos y 3 sesiones de mesoterapia. Se realiza en 6 días el servicio. ¿Lo vas a dejar escapar? Aprovecha esta súper promoción."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "La cavitación es una técnica avanzada anticelulítica, un tratamiento no invasivo que actúa sobre la grasa localizada. Mediante ondas ultrasónicas moduladas se atacan desde el interior las células adiposas que conforman la grasa acumulada. ¿Qué beneficios tiene la cavitación?Eliminación de la grasa acumulada.Mejora la circulación.Elimina toxinas.Aumenta el tono. Aumenta la elasticidad de los tejidos. La presoterapia es un masaje linfático mecanizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 2700, 
+            "price": "42 € ", 
+            "description": "El drenaje linfático estimula el sistema linfático, lo que favorece las piernas cansadas, la retención de líquidos con este masaje manual de drenaje. Reserva online ya tu tratamiento en Bucmi.com y benefíciate de sus efectos. ¿Todavía no lo conoces?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Ultrasonidos", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Desmaquillado, tonificado, ultrasonidos para limpiar impurezas, aplicación de mascarilla, aplicación de crema y lifting con la crema elegida según su tipo de piel. En Piu Bella intentaremos en todo momento asesorarte y atender a todas tus necesidades."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Láser Metabólico Más Presoterapia", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Una técnica novedosa e indolora con efecto lipolítico para acabar con los problemas de la adiposidad localizada. Elimina esos bultitos de grasa que quedan encapsulados en nuestra piel y la celulitis acumulada en zonas especificas de tu cuerpo. Con la presoterapia haremos que el efecto sea completo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal O Facial", 
+            "duration": 2700, 
+            "price": "52 € ", 
+            "description": "Está indicado para reafirmar y tonificar cualquier zona, facial o corporal, actuando también como reductor de celulitis edematosa y fibrosa, piel de naranja y retención de líquidos. Podrás elegir si lo prefieres corporal o facial. ¡Descúbre Piu Bella!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Coolifting", 
+            "duration": 1800, 
+            "price": "69 € ", 
+            "description": "Coolifting Rejuvenecimiento Facial ExpressVen a conocer esta novedosa técnica de rejuvenecimiento. El Coolifting consiste en la aplicación con pistola una combinación de frío, alta presión y CO2, con un cocktail de potentes principios activos nebulizados, consiguiendo un espectacular efecto lifting + masaje final para facilitar la absorción de los activos. Super efectivo rellenando pequeñas arrugas del contorno de ojos, frente, entrecejo, mejillas y zona labial. No lo dudes, saldrás fascinada!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Anti-Manchas", 
+            "duration": 5400, 
+            "price": "69 € ", 
+            "description": "Tratamiento Facial Anti-Manchas: TimExpert White de Germaine de Capuccini, conseguirás que las manchas se desvanezcan poco a poco, disminuyendo su número, tamaño e intensidad. La tez se tornará más clara, luminosa y su tono se unifica."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Iluminador Vitamina C", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Primer tratamiento profesional anti-edad que contrarresta los efectos negativos de la glicación cutánea: inhibe la formación de los A.G.E.’s y acelera la descomposición de los ya existentes, eliminando el “efecto kusumi” (tono cetrino en la piel).Multi-corrección anti-edad: Firmeza y densidad, uniformidad y luminosidad inmediata, elasticidad, hidratación y tersura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Nuskin", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Tratamiento Facial Nu Skin: Ilumina, rejuvenece y recupera volumen.Luce rostro fresco y luminoso con este tratamiento facial aplicado con galvánica. Consiste en una limpieza inicial muy efectiva, posterior tratamiento de hidratación e iluminación y finalmente tratamiento de relleno de arrugas. Rejuvenece tu rostro y recupera el volumen de tu piel!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Personalizado Più Bella", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Un tratamiento específico para tu piel diseñado sobre un diagnóstico previo en cabina. Combinando un serum facial anti-edad formulado con Matrixil y Silicio Orgánico, pensado para tratar los efectos del paso del tiempo en el rostro, cuello y escote, con los concentrados especialmente seleccionados por el profesional. Descúbre ya tu tratamiento de Piu Bella."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Con esta sesión de presoterapia conseguirás eliminar la celulitis acumulada en tu cuerpo y además reducir volumen para así lucir una figura perfecta. ¡Reserva ya tu tratamiento corporal! En Piu Bella te asesoraremos en todo lo que necesites."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Royal Jelly", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Avanzado tratamiento profesional en cabina que promueve con éxito la cohesión epidérmica, restituyendo así la “resiliencia cutánea” y haciendo posible que la epidermis se enfrente con integridad al desafío diario del estrés externo.La piel queda nutrida, reconstituida y revitalizada profundamente, a la vez que con firmeza y luminosidad.Recomendado enPieles que estén sometidas a agresiones externas como radiación ultravioleta, atmósferas contaminadas, humedad ambiental, depilación, higiene diaria…Cual"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Realizamos un diagnóstico previo y utilizamos el tratamiento más adecuado para cada tipo de piel, diferenciando entre pieles jóvenes, maduras, secas, grasas, deshidratadas... y siempre con productos de primeras marca. Cuida tu cutis con nuestro tratamiento de higiene facial y elimina la suciedad acumulada del día a día."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Tto Corporal Anticelulítico", 
+            "duration": 9000, 
+            "price": "485 € ", 
+            "description": "Pack ideal para eliminar esos kilitos de más consiguiendo un beneficio en donde eliminarás la celulitis de tu cuerpo. El servicio consta de 3 sesiones cavitación y 6 sesiones de presoterapia, 3 masajes anticeluíticos y 3 sesiones de mesoterapia. Se realiza en 6 días el servicio. ¿Lo vas a dejar escapar? Aprovecha esta súper promoción."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "La cavitación es una técnica avanzada anticelulítica, un tratamiento no invasivo que actúa sobre la grasa localizada. Mediante ondas ultrasónicas moduladas se atacan desde el interior las células adiposas que conforman la grasa acumulada. ¿Qué beneficios tiene la cavitación?Eliminación de la grasa acumulada.Mejora la circulación.Elimina toxinas.Aumenta el tono. Aumenta la elasticidad de los tejidos. La presoterapia es un masaje linfático mecanizado."
+        }
+    ]
+}

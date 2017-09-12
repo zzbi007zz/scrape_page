@@ -1,0 +1,150 @@
+{
+    "adid": null, 
+    "name": "Medical Estética", 
+    "name_of_contact": "Medical Estética", 
+    "scrape_page": "https://www.bucmi.com/aesthetic", 
+    "business_website": "https://www.bucmi.com/aesthetic", 
+    "areas_covered": null, 
+    "description": "Centro de estética en Granada que cuenta con personal altamente cualificado y equipamiento de última tecnología. Especializados en tratamientos corporales, faciales y depilación láser.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615790946933325.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615791001625078.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615791023814571.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615791051014822.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615791081017164.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615791115560297.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Olimpia, 3", 
+    "city": "Granada", 
+    "zipcode": "Granada", 
+    "formatted_address": "C/ Olimpia, 3, Granada, Granada", 
+    "country": "es", 
+    "office_number": "958292969", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1850400000", 
+    "longitude": "-3.6049699999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962372454725472.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Depilación Láser Diodo Zona Grande Y Pequeña", 
+            "duration": 5400, 
+            "price": "600 € ", 
+            "description": "Elimina ese vello tan molesto de esas zonas grandes como espalda, tórax completo, piernas completas, brazos completos, etc. y de una de las zonas pequeñas que elijas, ingles, axilas, línea alba etc. Aprovecha este bono de 5 sesiones de cada una de estas zonas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Depilación Laser Zona Mediana Y Pequeña", 
+            "duration": 7200, 
+            "price": "300 € ", 
+            "description": "Pack de 5 sesiones depilacion laser zona media + REGALO bono de 5 sesiones de depilacion pequeña. Incluye: zonas medianas como brazos medios, ingles brasileñas, tórax, medias piernas, etc. + REGALO DE BONO 5 SESIONES pequeñas como las axilas, ingles normales, línea alba, etc"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Sesiones Cavitación", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Con este bono de 6 sesiones podrás conseguir moldear tu figura y eliminar esa celulitis y grasa localizada tan molesta que desde hace tiempo te querias deshacer."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Relleno Labios Ácido Hialurónico", 
+            "duration": 3600, 
+            "price": "295 € ", 
+            "description": "Dale volumen a tus labios de la forma más natural, mediante pequeñas filtraciones de ácido hialurónico. A partir de ahora lucirás sonrisa perfecta y super natural."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Cavitación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Tratamiento corporal reductor que se realiza mediante aparatología que realiza movimientos circulares que ayudan y facilitan la eliminación de la celulitis y grasa localizada, para que después pueda ser expulsada por nuestro cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El servicio incluye el desmaquillado de la piel, limpieza con extracción con punta de diamante que elimina las impurezas de la piel, mascarilla y masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 6 Sesiones Cavitación", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Con este bono de 6 sesiones podrás conseguir moldear tu figura y eliminar esa celulitis y grasa localizada tan molesta que desde hace tiempo te querias deshacer."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Relleno Labios Ácido Hialurónico", 
+            "duration": 3600, 
+            "price": "295 € ", 
+            "description": "Dale volumen a tus labios de la forma más natural, mediante pequeñas filtraciones de ácido hialurónico. A partir de ahora lucirás sonrisa perfecta y super natural."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Sesión De Cavitación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Tratamiento corporal reductor que se realiza mediante aparatología que realiza movimientos circulares que ayudan y facilitan la eliminación de la celulitis y grasa localizada, para que después pueda ser expulsada por nuestro cuerpo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El servicio incluye el desmaquillado de la piel, limpieza con extracción con punta de diamante que elimina las impurezas de la piel, mascarilla y masaje facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Depilación Láser Diodo Zona Grande Y Pequeña", 
+            "duration": 5400, 
+            "price": "600 € ", 
+            "description": "Elimina ese vello tan molesto de esas zonas grandes como espalda, tórax completo, piernas completas, brazos completos, etc. y de una de las zonas pequeñas que elijas, ingles, axilas, línea alba etc. Aprovecha este bono de 5 sesiones de cada una de estas zonas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Depilación Láser Diodo Zona Mini", 
+            "duration": 1800, 
+            "price": "75 € ", 
+            "description": "5 Sesiones para eliminar ese vello tan molesto de esas zonas mini como el labio superior, el entrecejo, dedos, etc."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Depilación Láser Diodo Zona Pequeña", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Elimina ese vello tan molesto de esas zonas pequeñas como las axilas, ingles normales, línea alba, etc Aprovecha este bono de 5 sesiones."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Diodo Zona Mediana", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Elimina ese vello tan molesto de esas zonas medianas como brazos medios, ingles brasileñas, tórax, medias piernas"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Depilación Laser Zona Mediana Y Pequeña", 
+            "duration": 7200, 
+            "price": "300 € ", 
+            "description": "Pack de 5 sesiones depilacion laser zona media + REGALO bono de 5 sesiones de depilacion pequeña. Incluye: zonas medianas como brazos medios, ingles brasileñas, tórax, medias piernas, etc. + REGALO DE BONO 5 SESIONES pequeñas como las axilas, ingles normales, línea alba, etc"
+        }
+    ]
+}

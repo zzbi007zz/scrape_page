@@ -1,0 +1,533 @@
+{
+    "adid": null, 
+    "name": "Hair Simon Estética", 
+    "name_of_contact": "Hair Simon Estética", 
+    "scrape_page": "https://www.bucmi.com/hairsimonestetica", 
+    "business_website": "https://www.bucmi.com/hairsimonestetica", 
+    "areas_covered": null, 
+    "description": "En Hair Simon Estética te ofrecemos un trato exclusivo y personalizado, en manos de los mejores profesionales. Podrás encontrar una variedad de servicios de estética, con productos de primera calidad. ¡Ven a visitarnos, te esperamos en Gracia, Barcelona!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979971165507598.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979971511995857.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979971838944564.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979971931601408.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979972009098704.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979972049227468.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979972105125673.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979972108205264.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979972257020446.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979972334467647.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635979972342557307.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pallars, 375", 
+    "city": "Barcelona", 
+    "zipcode": "08012", 
+    "formatted_address": "C/ Pallars, 375, Barcelona, 08012", 
+    "country": "es", 
+    "office_number": "933176347", 
+    "office_number2": null, 
+    "mobile_number": "684330474", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4034399000", 
+    "longitude": "2.1610230999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635979809756499995.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Gold", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "Presume de manos bonitas y cuidadas con nosotros. En Hair Simón Estética somos expertos en hacer que te sientas divina. Disfruta de una manicura completa con esmaltado a tu gusto. Atrévete con los colores más de moda y presume de manicura más que perfecta. El servicio incluye limar, cortar, esmaltar y masaje con hidratación. ¡Porque unas manos bonitas y cuidadas serán una buena carta de presentación!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante Con Ventosas", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Este tipo de masaje fija su atención en descargar la tensión acumulada, se aplica de forma lenta y con una presión firme y progresiva.Lo más importante a la hora de realizar este tipo de masajes es actuar sobre los puntos de tensión del receptor, realizando las maniobras en las áreas de tensión, que principalmente se ubican en la espalda, músculo trapecio, paravertebrales y musculatura maxilo facial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal Y Masaje Relajante", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Disfruta de 60 minutos para ti. Date un capricho y ven a nuestro centro. Te ofrecemos nuestro servicio de peeling corporal para que presumas de piel hidratada, libre de impurezas, combinado con un agradable masaje relajante, que te hará sentir como nuev@. Conseguirás así una piel suave y sedosa, con el que estarás preparado también para el bronceado. ¡No lo dudes y reserva ya este servicio en Bucmi, sin complicación ninguna!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "19 € ", 
+            "description": "DI ADIOS A LOS RULOS, NO MAS RULOS NI PEGAMENTO, PRUEBA LA NUEVA FORMA DE PERMANENTE, LUCE UNA MIRADA ORIGINAL DURANTE 3 MESES APROXIMADAMENTE."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Lucir la mirada que siempre has deseado, ahora es muy fácil. Ven a Hair Simon Estética y déjate mimar. Conseguiremos unos resultados naturales, visibles y duraderos. Durante 3 meses aproximadamente. Dale fuerza e intensidad a tu mirada con el tinte de pestañas mientras con la permanente conseguimos la curva perfecta para hacer tu mirada aún más irresistible. ¡Estarás ideal!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Reafirmante Más Presoterapia", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En Hair Simon Estética contamos con lo último en aparatología. Te ofrecemos este tratamiento corporal reafirmante combinado con presoterapia, con el que podrás y tonificar tu cuerpo, eliminando esa odiada celulitis. No lo dudes y confía en nuestros profesionales que trabajarán para que, desde la primera sesión, experimentes los resultados. ¡No lo dudes y reserva ya este servicio cómodamente online! Presume de una piel más tersa, con 0 complejos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Reductor Más Alga Terapia", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Piel de naranja: Desde su aparición la celulitis puede ir evolucionando hasta en convertirse en una celulitis instaurada que requiere de un tratamiento especifico, por esta razón este tratamiento viene especialmente ideado para actuar con mayor eficacia en los casos de celulitis localizada. Este tratamiento consta de 30 minutos de masaje localizado con aceite especial para celuliti con aceites esenciales y luego la aplicación de un emplasto de algas reductoras-anticelulitis-reafirmante."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Reductor Más Presoterapia", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En Hair Simon Estética contamos con lo último en aparatología. Te ofrecemos este tratamiento corporal adelgazante combinado con presoterapia, con el que podrás adelgazar, y tonificar tu cuerpo, eliminando esa odiada celulitis. No lo dudes y confía en nuestros profesionales que trabajarán para que, desde la primera sesión, experimentes los resultados. ¡No lo dudes y reserva ya este servicio cómodamente online! Presume de cuerpo esta temporada, con 0 complejos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Corporal Lipolitico Reductor Más Presoterapia", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Tratamiento que favorece la eliminación de lípidos y toxinas en exceso, difumina el aspecto acolchado de la piel y definiendo la silueta. Ese tratamiento esta indicado en pieles que presentan un aspecto visual de Piel de naranja. El tratamiento consta de 30 minutos de masaje en el cual aplicaremos una crema especifica quema grasa y con aceite especial anicelulitico a base de aceites esenciales para eliminar la grasa + 30 min de presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene De Espalda Con Extracción", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Limpiaremos la zona con leche limpiadora de Rosas. Retiramos con agua y esponjas.Luego tonificaremos con Hidrolato de Rosas. Realizamos un exfoliación y trabajaremos con finalidad de desprender y arrastrar las células de la capa cornea y dejamos actuar unos 5 minutos aproximadamente.Aplicaremos aceite de Cálendula con Rosa de Mosqueta y aceite esencial de Manzanilla para extraer los puntos negros o granos pustulosos y en caso de necesidad pondremos arcilla para bajar inflamación o secar granos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Express", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Tratamiento facial express, adaptado a cada tipología. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Hombre", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Higiene facial para hombres. Presume de piel sana y cuidada de la mano de los mejores profesionales. En Hair Simón Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Jóvenes 12 A 17 Años", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Servicio indicado para jóvenes entre 12 y 17 años. Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros jóvenes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Premium", 
+            "duration": 5400, 
+            "price": "29,5 € ", 
+            "description": "Tratamiento facial personalizado, adaptado a cada tipología. Incluye tratamiento del cuello y la zona del escote. Muy relajante, nada agresivo para la piel. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán, oligoelementos, arcillas naturales, barro del Mar Muerto, productos de primeras marcas de la cosm"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal Reductor O Reafirmante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Con este masaje corporal reductor o reafirmante, conseguirás lucir un cuerpo mucho más esbelto. Confía en nuestro equipo de profesionales que trabajarán para conseguir un resulto increíble. Se masajeará la zona localizada para conseguir eliminar volumen y que la piel sea mucho más tersa. ¡No lo dudes y reserva ya este servicio en Bucmi, con toda comodidad y sin ninguna complicación! Notarás el resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Con Aromaterapia", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Localizado Con Aromaterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Localizado Más Masaje", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Masaje Relajante", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Disfruta de 60 minutos para ti. Date un capricho y ven a nuestro centro. Te ofrecemos nuestro servicio de peeling corporal para que presumas de piel hidratada, libre de impurezas, combinado con un agradable masaje relajante, que te hará sentir como nuev@. Conseguirás así una piel suave y sedosa, con el que estarás preparado también para el bronceado. ¡No lo dudes y reserva ya este servicio en Bucmi, sin complicación ninguna!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "19 € ", 
+            "description": "DI ADIOS A LOS RULOS, NO MAS RULOS NI PEGAMENTO, PRUEBA LA NUEVA FORMA DE PERMANENTE, LUCE UNA MIRADA ORIGINAL DURANTE 3 MESES APROXIMADAMENTE."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Lucir la mirada que siempre has deseado, ahora es muy fácil. Ven a Hair Simon Estética y déjate mimar. Conseguiremos unos resultados naturales, visibles y duraderos. Durante 3 meses aproximadamente. Dale fuerza e intensidad a tu mirada con el tinte de pestañas mientras con la permanente conseguimos la curva perfecta para hacer tu mirada aún más irresistible. ¡Estarás ideal!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "En Hair Simon Estética contamos con lo último en aparatología. Te ofrecemos este tratamiento de presoterapia en el que podrás adelgazar, mejorar la circulación y tonificar tu cuerpo, eliminando esa odiada celulitis. No lo dudes y confía en nuestros profesionales que trabajarán para que, desde la primera sesión, experimentes los resultados. ¡No lo dudes y reserva ya este servicio cómodamente online! Presume de cuerpo esta temporada, con 0 complejos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Ven a relajarte durante 15 minutos aplicaremos el tinte a escoger por usted y mientras disfruta de musicoterapia con aromaterapia durante unos minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reafirmante Más Presoterapia", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En Hair Simon Estética contamos con lo último en aparatología. Te ofrecemos este tratamiento corporal reafirmante combinado con presoterapia, con el que podrás y tonificar tu cuerpo, eliminando esa odiada celulitis. No lo dudes y confía en nuestros profesionales que trabajarán para que, desde la primera sesión, experimentes los resultados. ¡No lo dudes y reserva ya este servicio cómodamente online! Presume de una piel más tersa, con 0 complejos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Más Alga Terapia", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Piel de naranja: Desde su aparición la celulitis puede ir evolucionando hasta en convertirse en una celulitis instaurada que requiere de un tratamiento especifico, por esta razón este tratamiento viene especialmente ideado para actuar con mayor eficacia en los casos de celulitis localizada. Este tratamiento consta de 30 minutos de masaje localizado con aceite especial para celuliti con aceites esenciales y luego la aplicación de un emplasto de algas reductoras-anticelulitis-reafirmante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor Más Presoterapia", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En Hair Simon Estética contamos con lo último en aparatología. Te ofrecemos este tratamiento corporal adelgazante combinado con presoterapia, con el que podrás adelgazar, y tonificar tu cuerpo, eliminando esa odiada celulitis. No lo dudes y confía en nuestros profesionales que trabajarán para que, desde la primera sesión, experimentes los resultados. ¡No lo dudes y reserva ya este servicio cómodamente online! Presume de cuerpo esta temporada, con 0 complejos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Lipolitico Reductor Más Presoterapia", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Tratamiento que favorece la eliminación de lípidos y toxinas en exceso, difumina el aspecto acolchado de la piel y definiendo la silueta. Ese tratamiento esta indicado en pieles que presentan un aspecto visual de Piel de naranja. El tratamiento consta de 30 minutos de masaje en el cual aplicaremos una crema especifica quema grasa y con aceite especial anicelulitico a base de aceites esenciales para eliminar la grasa + 30 min de presoterapia."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene De Espalda Con Extracción", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Limpiaremos la zona con leche limpiadora de Rosas. Retiramos con agua y esponjas.Luego tonificaremos con Hidrolato de Rosas. Realizamos un exfoliación y trabajaremos con finalidad de desprender y arrastrar las células de la capa cornea y dejamos actuar unos 5 minutos aproximadamente.Aplicaremos aceite de Cálendula con Rosa de Mosqueta y aceite esencial de Manzanilla para extraer los puntos negros o granos pustulosos y en caso de necesidad pondremos arcilla para bajar inflamación o secar granos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Express", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Tratamiento facial express, adaptado a cada tipología. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Hombre", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Higiene facial para hombres. Presume de piel sana y cuidada de la mano de los mejores profesionales. En Hair Simón Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Jóvenes 12 A 17 Años", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Servicio indicado para jóvenes entre 12 y 17 años. Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros jóvenes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Premium", 
+            "duration": 5400, 
+            "price": "29,5 € ", 
+            "description": "Tratamiento facial personalizado, adaptado a cada tipología. Incluye tratamiento del cuello y la zona del escote. Muy relajante, nada agresivo para la piel. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán, oligoelementos, arcillas naturales, barro del Mar Muerto, productos de primeras marcas de la cosm"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje Corporal Reductor O Reafirmante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Con este masaje corporal reductor o reafirmante, conseguirás lucir un cuerpo mucho más esbelto. Confía en nuestro equipo de profesionales que trabajarán para conseguir un resulto increíble. Se masajeará la zona localizada para conseguir eliminar volumen y que la piel sea mucho más tersa. ¡No lo dudes y reserva ya este servicio en Bucmi, con toda comodidad y sin ninguna complicación! Notarás el resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Con Aromaterapia", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Localizado Con Aromaterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Localizado Más Masaje", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene De Espalda Con Extracción", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Limpiaremos la zona con leche limpiadora de Rosas. Retiramos con agua y esponjas.Luego tonificaremos con Hidrolato de Rosas. Realizamos un exfoliación y trabajaremos con finalidad de desprender y arrastrar las células de la capa cornea y dejamos actuar unos 5 minutos aproximadamente.Aplicaremos aceite de Cálendula con Rosa de Mosqueta y aceite esencial de Manzanilla para extraer los puntos negros o granos pustulosos y en caso de necesidad pondremos arcilla para bajar inflamación o secar granos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Express", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Tratamiento facial express, adaptado a cada tipología. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Hombre", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Higiene facial para hombres. Presume de piel sana y cuidada de la mano de los mejores profesionales. En Hair Simón Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Jóvenes 12 A 17 Años", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Servicio indicado para jóvenes entre 12 y 17 años. Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros jóvenes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Premium", 
+            "duration": 5400, 
+            "price": "29,5 € ", 
+            "description": "Tratamiento facial personalizado, adaptado a cada tipología. Incluye tratamiento del cuello y la zona del escote. Muy relajante, nada agresivo para la piel. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán, oligoelementos, arcillas naturales, barro del Mar Muerto, productos de primeras marcas de la cosm"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Corporal Reductor O Reafirmante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Con este masaje corporal reductor o reafirmante, conseguirás lucir un cuerpo mucho más esbelto. Confía en nuestro equipo de profesionales que trabajarán para conseguir un resulto increíble. Se masajeará la zona localizada para conseguir eliminar volumen y que la piel sea mucho más tersa. ¡No lo dudes y reserva ya este servicio en Bucmi, con toda comodidad y sin ninguna complicación! Notarás el resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal Con Aromaterapia", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal Localizado Con Aromaterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene De Espalda Con Extracción", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Limpiaremos la zona con leche limpiadora de Rosas. Retiramos con agua y esponjas.Luego tonificaremos con Hidrolato de Rosas. Realizamos un exfoliación y trabajaremos con finalidad de desprender y arrastrar las células de la capa cornea y dejamos actuar unos 5 minutos aproximadamente.Aplicaremos aceite de Cálendula con Rosa de Mosqueta y aceite esencial de Manzanilla para extraer los puntos negros o granos pustulosos y en caso de necesidad pondremos arcilla para bajar inflamación o secar granos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Express", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Tratamiento facial express, adaptado a cada tipología. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Hombre", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Higiene facial para hombres. Presume de piel sana y cuidada de la mano de los mejores profesionales. En Hair Simón Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Jóvenes 12 A 17 Años", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Servicio indicado para jóvenes entre 12 y 17 años. Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros jóvenes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Premium", 
+            "duration": 5400, 
+            "price": "29,5 € ", 
+            "description": "Tratamiento facial personalizado, adaptado a cada tipología. Incluye tratamiento del cuello y la zona del escote. Muy relajante, nada agresivo para la piel. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán, oligoelementos, arcillas naturales, barro del Mar Muerto, productos de primeras marcas de la cosm"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Corporal Reductor O Reafirmante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Con este masaje corporal reductor o reafirmante, conseguirás lucir un cuerpo mucho más esbelto. Confía en nuestro equipo de profesionales que trabajarán para conseguir un resulto increíble. Se masajeará la zona localizada para conseguir eliminar volumen y que la piel sea mucho más tersa. ¡No lo dudes y reserva ya este servicio en Bucmi, con toda comodidad y sin ninguna complicación! Notarás el resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Con Aromaterapia", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Localizado Con Aromaterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Localizado Más Masaje", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Es interesante saber que el peeling está echo a base de té verde, este producto tiene un gran poder para una limpieza en profundidad, eliminar la piel y células muertas, y de esta manera obtener una piel brillante, es idóneo para trabajar en pieles sensible."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Y Masaje Relajante", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Disfruta de 60 minutos para ti. Date un capricho y ven a nuestro centro. Te ofrecemos nuestro servicio de peeling corporal para que presumas de piel hidratada, libre de impurezas, combinado con un agradable masaje relajante, que te hará sentir como nuev@. Conseguirás así una piel suave y sedosa, con el que estarás preparado también para el bronceado. ¡No lo dudes y reserva ya este servicio en Bucmi, sin complicación ninguna!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "19 € ", 
+            "description": "DI ADIOS A LOS RULOS, NO MAS RULOS NI PEGAMENTO, PRUEBA LA NUEVA FORMA DE PERMANENTE, LUCE UNA MIRADA ORIGINAL DURANTE 3 MESES APROXIMADAMENTE."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Lucir la mirada que siempre has deseado, ahora es muy fácil. Ven a Hair Simon Estética y déjate mimar. Conseguiremos unos resultados naturales, visibles y duraderos. Durante 3 meses aproximadamente. Dale fuerza e intensidad a tu mirada con el tinte de pestañas mientras con la permanente conseguimos la curva perfecta para hacer tu mirada aún más irresistible. ¡Estarás ideal!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "En Hair Simon Estética contamos con lo último en aparatología. Te ofrecemos este tratamiento de presoterapia en el que podrás adelgazar, mejorar la circulación y tonificar tu cuerpo, eliminando esa odiada celulitis. No lo dudes y confía en nuestros profesionales que trabajarán para que, desde la primera sesión, experimentes los resultados. ¡No lo dudes y reserva ya este servicio cómodamente online! Presume de cuerpo esta temporada, con 0 complejos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Ven a relajarte durante 15 minutos aplicaremos el tinte a escoger por usted y mientras disfruta de musicoterapia con aromaterapia durante unos minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Reafirmante Más Presoterapia", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En Hair Simon Estética contamos con lo último en aparatología. Te ofrecemos este tratamiento corporal reafirmante combinado con presoterapia, con el que podrás y tonificar tu cuerpo, eliminando esa odiada celulitis. No lo dudes y confía en nuestros profesionales que trabajarán para que, desde la primera sesión, experimentes los resultados. ¡No lo dudes y reserva ya este servicio cómodamente online! Presume de una piel más tersa, con 0 complejos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Higiene De Espalda Con Extracción", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Limpiaremos la zona con leche limpiadora de Rosas. Retiramos con agua y esponjas.Luego tonificaremos con Hidrolato de Rosas. Realizamos un exfoliación y trabajaremos con finalidad de desprender y arrastrar las células de la capa cornea y dejamos actuar unos 5 minutos aproximadamente.Aplicaremos aceite de Cálendula con Rosa de Mosqueta y aceite esencial de Manzanilla para extraer los puntos negros o granos pustulosos y en caso de necesidad pondremos arcilla para bajar inflamación o secar granos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Higiene Facial Básica", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Presume de piel sana y cuidada de la mano de los mejores profesionales. En HairSimon Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Higiene Facial Express", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "Tratamiento facial express, adaptado a cada tipología. Todos los productos que empleamos son ecológicos certificados, los aceites esenciales son obtenidos por destilación, presión en frió de las plantas, tallos o frutos.Tratamiento facial realizado con aceites esenciales puros, aceite de rosa mosqueta, argán."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Higiene Facial Hombre", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Higiene facial para hombres. Presume de piel sana y cuidada de la mano de los mejores profesionales. En Hair Simón Estética nos gusta mimar a nuestros clientes, por eso te ofrecemos la higiene facial más completa al alcance de tu mano. 60 minutos de desconexión y relax mientras nuestros estilistas ponen tu piel a punto consiguiendo unos resultados óptimos. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Higiene De Espalda Con Extracción", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Limpiaremos la zona con leche limpiadora de Rosas. Retiramos con agua y esponjas.Luego tonificaremos con Hidrolato de Rosas. Realizamos un exfoliación y trabajaremos con finalidad de desprender y arrastrar las células de la capa cornea y dejamos actuar unos 5 minutos aproximadamente.Aplicaremos aceite de Cálendula con Rosa de Mosqueta y aceite esencial de Manzanilla para extraer los puntos negros o granos pustulosos y en caso de necesidad pondremos arcilla para bajar inflamación o secar granos."
+        }
+    ]
+}

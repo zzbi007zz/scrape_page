@@ -1,0 +1,202 @@
+{
+    "adid": null, 
+    "name": "GyG", 
+    "name_of_contact": "GyG", 
+    "scrape_page": "https://www.bucmi.com/gandgpeluqueros", 
+    "business_website": "https://www.bucmi.com/gandgpeluqueros", 
+    "areas_covered": null, 
+    "description": "En metro Colombia, G&G es tu peluquería, centro de estética y masajes. Encontrarás un lugar moderno y creativo donde disfrutar de los mejores productos y de un servicio 10. ¡Visítanos y comprueba los increíbles resultados! ¡Tu bienestar es lo primero!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567147959423.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567149209607.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567152179061.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567150304135.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567155148609.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567155773594.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567156242351.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567153273610.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954567152492328.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Lagasca, 72", 
+    "city": "Madrid", 
+    "zipcode": "28016", 
+    "formatted_address": "C/ Lagasca, 72, Madrid, 28016", 
+    "country": "es", 
+    "office_number": "913593825", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4583125000", 
+    "longitude": "-3.6754025999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971994257515367.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "21,5 € ", 
+            "description": "El servicio incluye lavado del cabello y asesoría de imagen para descubrir el corte de pelo que más se ajusta a tus facciones. El precio es válido para pelo corto, media melena, pelo largo y extralargo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Al Óleo", 
+            "duration": 1800, 
+            "price": "38,5 € ", 
+            "description": "Tinte 100% natural, máxima duración y cero daño al cabello. Consigue un brillo espectacular, colores muy cálidos y naturales. Incluye lavado dermocapilar y un secado para comprobar el resultado. Además, de regalo una limpieza facial express."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Caballero", 
+            "duration": 1800, 
+            "price": "15,8 € ", 
+            "description": "¡Los hombres también pueden presumir de su melena! G&G te ofrece este servicio que incluye lavado y secado. ¡Reserva ya y no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño Color Con Barros O Henna", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "El centro te ofrece este novedoso tratamiento que incluye lavado dermocapilar, color protección y barro compuesto por extractos de planta. ¡Reserva ya y consigue de regalo una limpieza facial express!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño Color Con Barros O Henna Y Peinado", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El centro te ofrece este novedoso tratamiento que incluye lavado dermocapilar, color protección, barro compuesto por extractos de planta y peinado. ¡Reserva ya y consigue de regalo una limpieza facial express!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Con Oleo Y Barro", 
+            "duration": 5400, 
+            "price": "68,5 € ", 
+            "description": "Este servicio incluye tinte al oleo 100% natural, lavado dermocapilar, barro y color protección. Reserva ya este servicio y tu cabello conseguirá un brillo y salud jamás vista. Además, de regalo una limpieza facial express."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Con Óleo/Barro Y Peinado", 
+            "duration": 5400, 
+            "price": "82 € ", 
+            "description": "Este servicio incluye tinte al oleo 100% natural, lavado dermocapilar, barro, color protección y peinado. Reserva ya este servicio y tu cabello conseguirá un brillo y salud jamás vista. Además, de regalo una limpieza facial express."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Y Loción", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Reserva este servicio que incluye lavado, corte y peinado y loción por un precio increíble. Este servicio es válido para pelo corto, media melena, pelo largo y extralargo. ¡Consigue un look espectacular con los mejores profesionales!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar, Mechas Y Peinado", 
+            "duration": 7200, 
+            "price": "76,8 € ", 
+            "description": "Las mechas son ahora tendencia. ¡Dale un toque de color y brillo a tu melena! Además, incluye el servicio de corte y peinado para estar totalmente perfecta. El precio del servicio es válido tanto para pelo corto, media melena y pelo largo y extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Mujer", 
+            "duration": 2700, 
+            "price": "21,5 € ", 
+            "description": "El servicio incluye lavado del cabello y asesoría de imagen para descubrir el corte de pelo que más se ajusta a tus facciones. El precio es válido para pelo corto, media melena, pelo largo y extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "41,8 € ", 
+            "description": "Las mechas son ahora tendencia. ¡Dale un toque de color y brillo a tu melena! Despigmentación con productos naturales, 0% daño al cabello. El precio del servicio es válido tanto para pelo corto, media melena y pelo largo y extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Y Lavado Dermocapilar", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "¡Consigue un aspecto envidiable por muy poco dinero! El servicio incluye lavado dermocapilar y peinado tanto para pelo corto, media melena, pelo Largo y extralargo. No incluye loción."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Sesión Maquillaje Novias", 
+            "duration": 3600, 
+            "price": "50,9 € ", 
+            "description": "¡Ya dicen que la novia es la más guapa de la fiesta! En G&G lo reafirmamos con este servicio de maquillaje de novias que incluye un asesoramiento del profesional y productos siempre de primeras marcas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "¿Cansad@ de un color triste y apagado? Los profesionales de G&G te ofrecen este servicio de color siempre con primeras marcas. Coloración tradicional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Al Óleo", 
+            "duration": 1800, 
+            "price": "38,5 € ", 
+            "description": "Tinte 100% natural, máxima duración y cero daño al cabello. Consigue un brillo espectacular, colores muy cálidos y naturales. Incluye lavado dermocapilar y un secado para comprobar el resultado. Además, de regalo una limpieza facial express."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Al Óleo Y Peinado", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "Tinte 100% natural, máxima duración y cero daño al cabello. Consigue un brillo espectacular, colores muy cálidos y naturales. Incluye lavado dermocapilar y peinado. Además, de regalo una limpieza facial express."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Peinado", 
+            "duration": 5400, 
+            "price": "35,5 € ", 
+            "description": "¿Cansad@ de un color triste y apagado? Los profesionales de G&G te ofrecen este servicio de color siempre con primeras marcas y además peinado. Coloración tradicional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Dermocapilar", 
+            "duration": 900, 
+            "price": "8,5 € ", 
+            "description": "Este servicio se basa en la destoxinación del cuero cabelludo, librándolo de acrilatos, silicona y parabenos. Devolviéndoles la máxima oxigenación natural al cabello y máximo brillo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Caballero", 
+            "duration": 1800, 
+            "price": "15,8 € ", 
+            "description": "¡Los hombres también pueden presumir de su melena! G&G te ofrece este servicio que incluye lavado y secado. ¡Reserva ya y no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Baño Color Con Barros O Henna", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "El centro te ofrece este novedoso tratamiento que incluye lavado dermocapilar, color protección y barro compuesto por extractos de planta. ¡Reserva ya y consigue de regalo una limpieza facial express!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Baño Color Con Barros O Henna Y Peinado", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El centro te ofrece este novedoso tratamiento que incluye lavado dermocapilar, color protección, barro compuesto por extractos de planta y peinado. ¡Reserva ya y consigue de regalo una limpieza facial express!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño Color Con Barros O Henna", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "El centro te ofrece este novedoso tratamiento que incluye lavado dermocapilar, color protección y barro compuesto por extractos de planta. ¡Reserva ya y consigue de regalo una limpieza facial express!"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "adid": null, 
+    "name": "Silvia Ribes Estilistas", 
+    "name_of_contact": "Silvia Ribes Estilistas", 
+    "scrape_page": "https://www.bucmi.com/silvia-ribes-estilistas", 
+    "business_website": "https://www.bucmi.com/silvia-ribes-estilistas", 
+    "areas_covered": null, 
+    "description": "Silvia Ribes Estilistas es un salón de peluquería ubicado en Valencia. Te ofrecemos el mejor resultado en cada uno de nuestros servicios. Disponemos de grandes profesionales especializados. ¡Reserva ahora! En nuestro centro te sentirás cómoda y relajada.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636105688807295255.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636105688865262799.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636105688925886544.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636105689029322004.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636105689111195347.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636105689178693915.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "46013", 
+    "formatted_address": "Valencia, 46007, Valencia, Valencia, Valencia, 46005, Valencia, 46020, Valencia, 46007, Valencia, 46001, Valencia, 46007, Valencia, 46013", 
+    "country": "es", 
+    "office_number": "963440861", 
+    "office_number2": null, 
+    "mobile_number": "622744079", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4535613000", 
+    "longitude": "-0.3713488999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636089559042371706.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Californianas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Súmate al movimiento mechas y reserva tu cita en Silvia Ribes para presumir de unas mechas de moda y de lo más favorecedor. Dale luz y movimiento a tu cabello con este servicio. No incluye peinado. No lo dudes y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Si estás pensando en cambiar el color de tu cabello, estás en el centro adecuado. En Silvia Ribes somos coloristas profesionales que te asesoraremos para que elijas el color que mejor se adapte a ti. Trabajamos por conseguir los resultados más favorecedores. El servicio no incluye peinado. Te encantará."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Recogido Novia", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "Para ese día tan especial en el que lo más importante es lucir como una auténtica estrella, ven a conocernos. El precio incluye prueba previa en la que no cesamos de buscar el look más favorecedor para ti. Confía en nosotros, no te arrepentirás."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "En nuestro salón sabemos que acudir a la peluquería no es solo cosa de chicas y por eso te dedicamos un espacio solo para vosotros. Tanto si te atreves con los cortes más de moda como si prefieres continuar con tu look actual, este es tu centro. El servicio incluye lavado y productos de acabado. Reserva tu cita ya y ven a conocernos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 2700, 
+            "price": "14 € ", 
+            "description": "Todo cambio de look comienza con un buen corte de pelo y en nuestro centro cuentas con el asesoramiento personalizado de los estilistas para que luzcas el look favorecedor y ajustado a tus gustos. El servicio no incluye lavado. Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Súmate al movimiento mechas y reserva tu cita en Silvia Ribes para presumir de unas mechas de moda y de lo más favorecedor. Dale luz y movimiento a tu cabello con este servicio. No incluye peinado. No lo dudes y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "¿Te apetece lucir perfecta para una ocasión especial? ¡Reserva nuestro servicio de peinado! Nuestros profesionales en peluquería se encargarán de realizarte el peinado que deseas. Incluye el lavado y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¡Luce el peinado que más te guste reservando este servicio! Estarás perfecta para cualquier ocasión. Incluye el lavado y productos de acabado. Este servicio es exclusivo para pelo largo, en caso de tener más cantidad de pelo puede conllevar un suplemento a pagar en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Medio", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Para estar perfecta en cualquier momento y para cualquier ocasión reserva tu cita en nuestro salón y luce un peinado brillante, duradero y favorecedor en pocos minutos y muy cerca de ti. Querrás repetir. Servicio exclusivo para media melena, en caso de tener un largo superior se cobrará un suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¿Tienes un evento especial y te gustaría estar perfecta? ¡Reserva este servicio y no te la juegues con tu peinado! Nuestros peluqueros profesionales te ayudarán en todo lo que necesites para que salgas perfecta de nuestro centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Si te apetece lucir un semirecogido, ahora puedes reservar este servicio! Nuestros profesionales en peluquería te asesoraran y te aconsejarán en todo lo que necesites para conseguir el semirecogido que más se adapte a ti."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Si estás pensando en cambiar el color de tu cabello, estás en el centro adecuado. En Silvia Ribes somos coloristas profesionales que te asesoraremos para que elijas el color que mejor se adapte a ti. Trabajamos por conseguir los resultados más favorecedores. El servicio no incluye peinado. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Novia", 
+            "duration": 5400, 
+            "price": "110 € ", 
+            "description": "Para ese día tan especial en el que lo más importante es lucir como una auténtica estrella, ven a conocernos. El precio incluye prueba previa en la que no cesamos de buscar el look más favorecedor para ti. Confía en nosotros, no te arrepentirás."
+        }
+    ]
+}

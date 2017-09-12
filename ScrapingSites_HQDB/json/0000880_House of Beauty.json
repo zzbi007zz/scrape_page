@@ -1,0 +1,115 @@
+{
+    "adid": null, 
+    "name": "House of Beauty", 
+    "name_of_contact": "House of Beauty", 
+    "scrape_page": "https://www.bucmi.com/houseofbeauty", 
+    "business_website": "https://www.bucmi.com/houseofbeauty", 
+    "areas_covered": null, 
+    "description": "Un espacio concebido para el relax y el bienestar, diseñado para el descanso del cuerpo y la serenidad de la mente.", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28001", 
+    "formatted_address": "Madrid, Madrid, Madrid, 28001", 
+    "country": "es", 
+    "office_number": "915753528", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4281568000", 
+    "longitude": "-3.6860391999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635841522035361365.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "La presoterapia es un tratamiento para mejorar la circulación en las extremidades. Precio por sesión. Mejorará tu circulación y así como a reducir la celulitis."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Con este servicio resultarás con una pedicura completa que incluye el limado, la retiración de cutículas y la hidratación y esmaltado de uñas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono De 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "La presoterapia es un tratamiento para mejorar la circulación en las extremidades. Precio por 5 sesiones. Mejorará tu circulación y así como a reducir la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono De 5 Sesiones Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "El bono incluye 5 sesiones de radiofrecuencia. Quita la grasa de manera localizada. La radiofrecuencia consiste en aplicar energía que penetra a través de la piel para depositarla en zonas profundas de la dermis. Tratamiento anticelulítico y reafirmante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "La presoterapia es un tratamiento para mejorar la circulación en las extremidades. Precio por sesión. Mejorará tu circulación y así como a reducir la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Quita la grasa de manera localizada. La radiofrecuencia consiste en aplicar energía que penetra a través de la piel para depositarla en zonas profundas de la dermis. Tratamiento anticelulítico y reafirmante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono De 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "La presoterapia es un tratamiento para mejorar la circulación en las extremidades. Precio por 5 sesiones. Mejorará tu circulación y así como a reducir la celulitis."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono De 5 Sesiones Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "El bono incluye 5 sesiones de radiofrecuencia. Quita la grasa de manera localizada. La radiofrecuencia consiste en aplicar energía que penetra a través de la piel para depositarla en zonas profundas de la dermis. Tratamiento anticelulítico y reafirmante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono De 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "La presoterapia es un tratamiento para mejorar la circulación en las extremidades. Precio por 5 sesiones. Mejorará tu circulación y así como a reducir la celulitis."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono De 5 Sesiones Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "El bono incluye 5 sesiones de radiofrecuencia. Quita la grasa de manera localizada. La radiofrecuencia consiste en aplicar energía que penetra a través de la piel para depositarla en zonas profundas de la dermis. Tratamiento anticelulítico y reafirmante."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono De 5 Sesiones Presoterapia", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "La presoterapia es un tratamiento para mejorar la circulación en las extremidades. Precio por 5 sesiones. Mejorará tu circulación y así como a reducir la celulitis."
+        }
+    ]
+}

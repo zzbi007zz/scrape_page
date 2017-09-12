@@ -1,0 +1,220 @@
+{
+    "adid": null, 
+    "name": "Roshni Beauty", 
+    "name_of_contact": "Roshni Beauty", 
+    "scrape_page": "https://www.bucmi.com/roshnibeauty", 
+    "business_website": "https://www.bucmi.com/roshnibeauty", 
+    "areas_covered": null, 
+    "description": "Ven a conocer Roshni Beauty centro de estética donde realizamos tratamientos como: depilación con hilo, masajes faciales y corporales, depilación con cera, manicura, pedicura, pestañas y muchos más. Descubre tu centro cercano en la zona de Ventas.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963141049817467.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963141054504940.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963141051067450.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963141055911203.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963141054504940.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963141053723705.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Nogales, 7", 
+    "city": "Madrid", 
+    "zipcode": "28017", 
+    "formatted_address": "C/ Nogales, 7, Madrid, 28017", 
+    "country": "es", 
+    "office_number": "915755034", 
+    "office_number2": null, 
+    "mobile_number": "662051140", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4242719000", 
+    "longitude": "-3.6543672999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963258086284766.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cejas Con Hilo", 
+            "duration": 900, 
+            "price": "7 € ", 
+            "description": "Consigue un diseño de cejas bien definido con la novedosa depilación con hilo. Tu mirada tendrá más personalidad, con este sistema menos doloroso y agresivo que los métodos tradicionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Labio Con Hilo", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Elimina el molesto vello facial con nuestra depilación con hilo. Un novedoso método de depilación facial, menos agresivo y doloroso que otros métodos tradicionales, como la cera."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Depilación Cejas Y Labio Con Hilo", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Tu rostro estará perfecto con nuestra depilación de cejas y labio superior, realizada con hilo. Este sistema de depilación es mucho menos dañino para tu piel que otros métodos tradicionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Limpieza De Cutis Y Masaje De 30 Minutos", 
+            "duration": 7200, 
+            "price": "48 € ", 
+            "description": "Relájate completamente con un tratamiento facial y otro corporal. En este caso, incluimos una limpieza facial completa y un masaje de espalda de media hora."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza de Cutis y Masaje Ayurveda", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Tu rostro se verá más joven y saludable con nuestra higiene facial completa, acompañada de un masaje ayurveda. Incluye desmaquillado, exfoliación, apertura de poros y extracción (mecánica o química), masaje ayurveda (tonificante y relajante) y mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Aporta luz y cuida la piel de tu cutis con nuestra limpieza facial profunda. Incluye desmaquillado, exfoliación, apertura de poros y extracción, peeling,masaje y mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Limpieza De Cutis Y Masaje De 30 Minutos", 
+            "duration": 7200, 
+            "price": "48 € ", 
+            "description": "Relájate completamente con un tratamiento facial y otro corporal. En este caso, incluimos una limpieza facial completa y un masaje de espalda de media hora."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "El servicio de permanente de pestañas ayuda a dar curvatura a la pestaña acompañado del color del tinte que resaltará aún más tu mirada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Elige el tratamiento que mejor te convenga según tus necesidades y disfruta de un tratamiento específico para ti. Elige entre un tratamiento facial hidratante, oxigenante, anti-envejecimiento, despigmentante, reafirmante, etc. Para un tratamiento en concreto, consulta con el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza de Cutis y Masaje Ayurveda", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Tu rostro se verá más joven y saludable con nuestra higiene facial completa, acompañada de un masaje ayurveda. Incluye desmaquillado, exfoliación, apertura de poros y extracción (mecánica o química), masaje ayurveda (tonificante y relajante) y mascarilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Aporta luz y cuida la piel de tu cutis con nuestra limpieza facial profunda. Incluye desmaquillado, exfoliación, apertura de poros y extracción, peeling,masaje y mascarilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Limpieza De Cutis Y Masaje De 30 Minutos", 
+            "duration": 7200, 
+            "price": "48 € ", 
+            "description": "Relájate completamente con un tratamiento facial y otro corporal. En este caso, incluimos una limpieza facial completa y un masaje de espalda de media hora."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza de Cutis y Masaje Ayurveda", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Tu rostro se verá más joven y saludable con nuestra higiene facial completa, acompañada de un masaje ayurveda. Incluye desmaquillado, exfoliación, apertura de poros y extracción (mecánica o química), masaje ayurveda (tonificante y relajante) y mascarilla."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza De Cutis", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Aporta luz y cuida la piel de tu cutis con nuestra limpieza facial profunda. Incluye desmaquillado, exfoliación, apertura de poros y extracción, peeling,masaje y mascarilla."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Limpieza De Cutis Y Masaje De 30 Minutos", 
+            "duration": 7200, 
+            "price": "48 € ", 
+            "description": "Relájate completamente con un tratamiento facial y otro corporal. En este caso, incluimos una limpieza facial completa y un masaje de espalda de media hora."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza de Cutis y Masaje Ayurveda", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Tu rostro se verá más joven y saludable con nuestra higiene facial completa, acompañada de un masaje ayurveda. Incluye desmaquillado, exfoliación, apertura de poros y extracción (mecánica o química), masaje ayurveda (tonificante y relajante) y mascarilla."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Aporta luz y cuida la piel de tu cutis con nuestra limpieza facial profunda. Incluye desmaquillado, exfoliación, apertura de poros y extracción, peeling,masaje y mascarilla."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Limpieza De Cutis Y Masaje De 30 Minutos", 
+            "duration": 7200, 
+            "price": "48 € ", 
+            "description": "Relájate completamente con un tratamiento facial y otro corporal. En este caso, incluimos una limpieza facial completa y un masaje de espalda de media hora."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "El servicio de permanente de pestañas ayuda a dar curvatura a la pestaña acompañado del color del tinte que resaltará aún más tu mirada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Elige el tratamiento que mejor te convenga según tus necesidades y disfruta de un tratamiento específico para ti. Elige entre un tratamiento facial hidratante, oxigenante, anti-envejecimiento, despigmentante, reafirmante, etc. Para un tratamiento en concreto, consulta con el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Básica", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Quitar esmalte, limado de uñas, retirar cutículas, hidratar y esmaltado. Disfruta de unas uñas bonitas!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Permanente", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Quitar esmalte, limar, retirar cutículas, masaje y esmaltado permanente. Disfruta de unas uñas bonitas durante más tiempo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Completa", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Servicio que incliye cortar, limar, retirar cuticula, tratamiento de durezas, exfolición, hidratación y masaje, finalizando con esmaltado del color que prefieras."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza de Cutis y Masaje Ayurveda", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Tu rostro se verá más joven y saludable con nuestra higiene facial completa, acompañada de un masaje ayurveda. Incluye desmaquillado, exfoliación, apertura de poros y extracción (mecánica o química), masaje ayurveda (tonificante y relajante) y mascarilla."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Relajante Corporal 1 Hora", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Déjate envolver por el ambiente de relajación que generamos a tu alrededor y una serenidad interna total, con nuestro masaje relajante de una hora de duración."
+        }
+    ]
+}

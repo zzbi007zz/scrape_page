@@ -1,0 +1,323 @@
+{
+    "adid": null, 
+    "name": "3 Clinic Urgell", 
+    "name_of_contact": "3 Clinic Urgell", 
+    "scrape_page": "https://www.bucmi.com/3clinicurgell", 
+    "business_website": "https://www.bucmi.com/3clinicurgell", 
+    "areas_covered": null, 
+    "description": "3Clinic Urgell es un centro de estética Avanzada de Belleza, Salud y Bienestar con servicios de gran calidad y grandes profesionales que te harán sentir como nunca. Elige el tratamiento que más te apetezca y ven a visitarnos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635968329818564070.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635968329818844071.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635968329819373819.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635968329821204134.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "7,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cartagena, 222", 
+    "city": "Barcelona", 
+    "zipcode": "08036", 
+    "formatted_address": "C/ Cartagena, 222, Barcelona, 08036", 
+    "country": "es", 
+    "office_number": "931254825", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3894386000", 
+    "longitude": "2.1491542999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968426505188114.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño De Cejas", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Consigue unas cejas bien definidas con esta depilación al método tradicional, realizada con cera caliente y tibia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Ingles Normales", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Ingles bien depiladas durante más tiempo que con otros métodos tradicionales con esta depilación al método tradicional realizada con cera caliente y tibia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Normal", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Utilizamos nuestras manos para muchas tareas, en las que son el foco de atención de muchas miradas. Por eso te ofrecemos esta manicura completa normal y esmaltado de color o brillo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Confía en esta tecnología basada en un tratamiento mediante presión y combate con este servicio patologías como la retención de líquidos, edemas, varices o mala circulación."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Relaja cuerpo y mente con este masaje manual de una hora. Te sentirás en una nube de tranquilidad y reposo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Blanqueamiento Dental", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Consigue una sonrisa deslumbrante vayas donde vayas, gracias a este tratamiento estético de blanqueamiento dental profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3Ss Tratamiento Reductor Completo", 
+            "duration": 900, 
+            "price": "135 € ", 
+            "description": "Aprovecha este bono de 3 sesiones completas de tratamiento reductor con cavitación o radiofrecuencia ( a elegir ), presoterapia y envoltura con cóctel slim-reductor drenante. Un tratamiento completísimo que te prepara para lucir tipazo este verano, además de conseguir una piel tersa te relajarás y disfrutarás de lo lindo. No esperes más para reservar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5Ss Tratamientos Faciales Y Corporales", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "¡Ya puedes hacerte con 5 tratamientos variados por un precio inmejorable! El servicios incluye: Masaje Relajante o Reductor 30min + Manicura + Depilación Ingles, Axilas y Labios + Presoterapia + Higiene Facial con Dermoabrasión. Puedes hacértelos cuando quieras."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento para eliminar la grasa que se encuentra en determinados sitios del cuerpo. Con este servicio se transformará en un estado líquido, y de esta manera se conseguirá eliminar de nuestro cuerpo a través de vías urinarias."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Fotorejuvenecimiento Facial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Consigue una piel aterciolelada, más suave y con mucho mejor aspecto en tu cutis y la zona del escote, con la tecnología Lerox. ¡Piel irresistible al tacto!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Renovamos tu piel con esta técnica de dermoabrasión. Consiste en una técnica que retira la piel envejecida mediante un proceso de pulido , dando lugar a nuevas células de la piel. Se obtienen resultados similares a los de un peeling facial, la piel se vuelve más suave, joven y limpia. Mejora la apariencia de la piel, ayudando a las lineas de expresión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Con Masaje Hidratante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Pack de servicio corporales con el que dejarás tu piel como nueva. Incluye un peeling que cuida y sanea tu piel al mismo tiempo, y un masaje que te ayudará a relajarte mientras hidratas tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Y Masaje Hidratación", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Tu piel estará más radiante que nunda con este pack de tratamientos faciales compuesto por un peeling que limpia de impurezas y un masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Ahorra minutos en el maquillaje con una permanente de pestañas. Obtendrás unas pestañas más largas, definidas e impactantes. ¡No podrás dejar de mirarte en el espejo!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Tratamiento en el que mediante con las ondas electromagnéticas que sirven para luchar contra la celulitis y la flacidez."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Fórmula de efecto rimel en las pestañas para obtener unas pestañas más oscuras. La duración aproximada es de 6 semanas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Confía en esta tecnología basada en un tratamiento mediante presión y combate con este servicio patologías como la retención de líquidos, edemas, varices o mala circulación."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Blanqueamiento Dental", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Consigue una sonrisa deslumbrante vayas donde vayas, gracias a este tratamiento estético de blanqueamiento dental profesional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 3Ss Tratamiento Reductor Completo", 
+            "duration": 900, 
+            "price": "135 € ", 
+            "description": "Aprovecha este bono de 3 sesiones completas de tratamiento reductor con cavitación o radiofrecuencia ( a elegir ), presoterapia y envoltura con cóctel slim-reductor drenante. Un tratamiento completísimo que te prepara para lucir tipazo este verano, además de conseguir una piel tersa te relajarás y disfrutarás de lo lindo. No esperes más para reservar."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 5Ss Tratamientos Faciales Y Corporales", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "¡Ya puedes hacerte con 5 tratamientos variados por un precio inmejorable! El servicios incluye: Masaje Relajante o Reductor 30min + Manicura + Depilación Ingles, Axilas y Labios + Presoterapia + Higiene Facial con Dermoabrasión. Puedes hacértelos cuando quieras."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento para eliminar la grasa que se encuentra en determinados sitios del cuerpo. Con este servicio se transformará en un estado líquido, y de esta manera se conseguirá eliminar de nuestro cuerpo a través de vías urinarias."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Fotorejuvenecimiento Facial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Consigue una piel aterciolelada, más suave y con mucho mejor aspecto en tu cutis y la zona del escote, con la tecnología Lerox. ¡Piel irresistible al tacto!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Renovamos tu piel con esta técnica de dermoabrasión. Consiste en una técnica que retira la piel envejecida mediante un proceso de pulido , dando lugar a nuevas células de la piel. Se obtienen resultados similares a los de un peeling facial, la piel se vuelve más suave, joven y limpia. Mejora la apariencia de la piel, ayudando a las lineas de expresión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Blanqueamiento Dental", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Consigue una sonrisa deslumbrante vayas donde vayas, gracias a este tratamiento estético de blanqueamiento dental profesional."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3Ss Tratamiento Reductor Completo", 
+            "duration": 900, 
+            "price": "135 € ", 
+            "description": "Aprovecha este bono de 3 sesiones completas de tratamiento reductor con cavitación o radiofrecuencia ( a elegir ), presoterapia y envoltura con cóctel slim-reductor drenante. Un tratamiento completísimo que te prepara para lucir tipazo este verano, además de conseguir una piel tersa te relajarás y disfrutarás de lo lindo. No esperes más para reservar."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Blanqueamiento Dental", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Consigue una sonrisa deslumbrante vayas donde vayas, gracias a este tratamiento estético de blanqueamiento dental profesional."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 3Ss Tratamiento Reductor Completo", 
+            "duration": 900, 
+            "price": "135 € ", 
+            "description": "Aprovecha este bono de 3 sesiones completas de tratamiento reductor con cavitación o radiofrecuencia ( a elegir ), presoterapia y envoltura con cóctel slim-reductor drenante. Un tratamiento completísimo que te prepara para lucir tipazo este verano, además de conseguir una piel tersa te relajarás y disfrutarás de lo lindo. No esperes más para reservar."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5Ss Tratamientos Faciales Y Corporales", 
+            "duration": 10800, 
+            "price": "120 € ", 
+            "description": "¡Ya puedes hacerte con 5 tratamientos variados por un precio inmejorable! El servicios incluye: Masaje Relajante o Reductor 30min + Manicura + Depilación Ingles, Axilas y Labios + Presoterapia + Higiene Facial con Dermoabrasión. Puedes hacértelos cuando quieras."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento para eliminar la grasa que se encuentra en determinados sitios del cuerpo. Con este servicio se transformará en un estado líquido, y de esta manera se conseguirá eliminar de nuestro cuerpo a través de vías urinarias."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Fotorejuvenecimiento Facial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Consigue una piel aterciolelada, más suave y con mucho mejor aspecto en tu cutis y la zona del escote, con la tecnología Lerox. ¡Piel irresistible al tacto!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Microdermoabrasión Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Renovamos tu piel con esta técnica de dermoabrasión. Consiste en una técnica que retira la piel envejecida mediante un proceso de pulido , dando lugar a nuevas células de la piel. Se obtienen resultados similares a los de un peeling facial, la piel se vuelve más suave, joven y limpia. Mejora la apariencia de la piel, ayudando a las lineas de expresión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Con Masaje Hidratante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Pack de servicio corporales con el que dejarás tu piel como nueva. Incluye un peeling que cuida y sanea tu piel al mismo tiempo, y un masaje que te ayudará a relajarte mientras hidratas tu piel."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial Y Masaje Hidratación", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Tu piel estará más radiante que nunda con este pack de tratamientos faciales compuesto por un peeling que limpia de impurezas y un masaje relajante e hidratante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Permanente De Pestañas", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Ahorra minutos en el maquillaje con una permanente de pestañas. Obtendrás unas pestañas más largas, definidas e impactantes. ¡No podrás dejar de mirarte en el espejo!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Tratamiento en el que mediante con las ondas electromagnéticas que sirven para luchar contra la celulitis y la flacidez."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Fórmula de efecto rimel en las pestañas para obtener unas pestañas más oscuras. La duración aproximada es de 6 semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Confía en esta tecnología basada en un tratamiento mediante presión y combate con este servicio patologías como la retención de líquidos, edemas, varices o mala circulación."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limar Y Pintar", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "¿No tienes tiempo, pero quieres tener us uñas perfectas? Tenemos la solución. Te ofrecemos esta manicura express de 15 minutos que incluye limar y esmaltado de color normal, para tener unas uñas bonitas en poco tiempo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Normal Y Francesa", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Relaja tus uñas y dales un mejor aspecto con este servicio de manicura normal y esmaltado al estilo francesa. ¡El esmalte que nunca falla!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Shellac Color", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Relájate con una manicura permanente de la marca SHELLAC. Elije de nuestra gama de colores y presume de uñas bonitas durante varias semanas."
+        }
+    ]
+}

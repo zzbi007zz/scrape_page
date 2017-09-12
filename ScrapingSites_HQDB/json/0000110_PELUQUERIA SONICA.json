@@ -1,0 +1,345 @@
+{
+    "adid": null, 
+    "name": "PELUQUERIA SÓNICA", 
+    "name_of_contact": "PELUQUERIA SÓNICA", 
+    "scrape_page": "https://www.bucmi.com/peluqueriasonica", 
+    "business_website": "https://www.bucmi.com/peluqueriasonica", 
+    "areas_covered": null, 
+    "description": "Peluquería Sónica es uno de los salones de peluquería y estética clásicos del barrio de Chueca, situada en la calle Travesía Belén 3 de Madrid, concretamente. Un centro moderno a la par que vintage, en el que se realizan una amplia variedad de servicios de peluquería: cortes asesorados, coloraciones, mechas, baños de color, decoloraciones, desrizados, keratinas y tratamientos capilares. Para conseguir los mejores acabados utilizan productos de firmas como Alfaparf Milano y Matrix. Además, su equipo se mantiene al día de los tratamientos más innovadores y las últimas tendencias tanto en corte como en coloración.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635932001195528095.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635932001240059506.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635932001264454551.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635932001318829388.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635932001335391890.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "27", 
+    "hqdb_review_score": "8,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "Madrid, 28004", 
+    "country": "es", 
+    "office_number": "913196157", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4240828999", 
+    "longitude": "-3.6965381999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636295164447229145.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Y Peinado", 
+            "duration": 3600, 
+            "price": "35,5 € ", 
+            "description": "Corte de pelo y peinado, asesorada por el equipo de expertos en imagen del centro. El servicio incluye lavado, crema, el peinado con definición y producto de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Wear Y Peinar", 
+            "duration": 5400, 
+            "price": "49,25 € ", 
+            "description": "Baño de color natural para conseguir un bonito reflejo sin aclarado de base (tinte sin amoníaco). Si se desea aclarar un poco, es posible conseguir aclarar el pelo de hasta 2 tonos. Este servicio incluye lavado,crema y producto de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Cambio De Imagen Y Peinado", 
+            "duration": 2700, 
+            "price": "45,5 € ", 
+            "description": "Corte de pelo para cambio de imagen espectacular asesorado por los profesionales del centro. Para presumir de melena bonita, cuidada, y totalmente a la moda. El servicio incluye asesoramiento en el corte, lavado, crema, peinado y producto de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Californianas Monocolor Y Secado Rápido", 
+            "duration": 7200, 
+            "price": "73,75 € ", 
+            "description": "Servicio para dar color a tu cabello de medios a puntas. Es posible elegir: tono, intensidad y si quieres que sean marcadas o tipo reflejo. Este servicio incluye asesoramiento, matización si fuera necesario, lavado, hidratación, secado rápido y producto de acabado. No incluye ni peinado ni tinte. Si fuera necesario, consultar en el centro para un posible suplemento el mismo día de la cita."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mantenimiento Tto. Capilar Olaplex Y Peinado", 
+            "duration": 3600, 
+            "price": "55,5 € ", 
+            "description": "Este tratamiento, podrás solicitarlo, siempre que hayas pasado con anterioridad por el salón a realizar tu primer tratamiento OLAPLEX. Para seguir luciendo una melena cuidada, sedosa y muy luminosa. Incluye peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Olaplex Y Peinado", 
+            "duration": 3600, 
+            "price": "100,5 € ", 
+            "description": "Tratamiento de ultima generación, que ayuda a reconstruir el cabello maltratado química o mecánicamente (secador, planchas) aportando al cabello fuerza, estructura e integridad. El precio incluye peinado y un tratamiento de mantenimiento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Desrizado Con Pro-Keratin Pelo Corto Y Peinado", 
+            "duration": 3600, 
+            "price": "37,5 € ", 
+            "description": "Este tratamiento de desrizado en frío para pelo corto es ideal para reducir el volumen y el encrespamiento del cabello, relajando tu rizo natural de forma permanente. El servicio incluye una hidratación y un peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Desrizado Con Pro-Keratin Media Melena Y Peinado", 
+            "duration": 3600, 
+            "price": "54,5 € ", 
+            "description": "Este desrizado en frío es ideal para reducir el volumen del cabello y el encrespamiento, relajando tu rizo natural de forma permanente. El servicio incluye una hidratación de la melena y un peinado, para lucir un pelo suave y cuidado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Y Peinado", 
+            "duration": 3600, 
+            "price": "35,5 € ", 
+            "description": "Corte de pelo y peinado, asesorada por el equipo de expertos en imagen del centro. El servicio incluye lavado, crema, el peinado con definición y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Wear Y Peinar", 
+            "duration": 5400, 
+            "price": "49,25 € ", 
+            "description": "Baño de color natural para conseguir un bonito reflejo sin aclarado de base (tinte sin amoníaco). Si se desea aclarar un poco, es posible conseguir aclarar el pelo de hasta 2 tonos. Este servicio incluye lavado,crema y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Wear, Corte Y Secado Rápido", 
+            "duration": 5400, 
+            "price": "63,25 € ", 
+            "description": "Baño de color totalmente natural para un bonito reflejo sin aclarado de base. Si se desea aclarar un poco, es posible aclararlo hasta 2 tonos. Este servicio incluye lavado, crema, color wear, corte y secado rápido."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Champú Purificante Hombre", 
+            "duration": 1800, 
+            "price": "20,5 € ", 
+            "description": "Servicio de lavado con champú específico y un corte de pelo asesorado por los profesionales del centro, para que cada cliente saque el mayor partido a su imagen. El servicio incluye lavado con champú indicado para tipificar y refrescar el cuero cabelludo, asesoramiento en el corte, peinado y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Cambio De Imagen Y Peinado", 
+            "duration": 2700, 
+            "price": "45,5 € ", 
+            "description": "Corte de pelo para cambio de imagen espectacular asesorado por los profesionales del centro. Para presumir de melena bonita, cuidada, y totalmente a la moda. El servicio incluye asesoramiento en el corte, lavado, crema, peinado y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Mujer Y Secado Rápido", 
+            "duration": 2700, 
+            "price": "32,5 € ", 
+            "description": "Corte de pelo asesorada por los expertos del centro, y un pequeño toque de secador para estar perfecta. El servicio incluye también un agradable lavado y crema."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Mechas Californianas Y Secado Rápido", 
+            "duration": 9000, 
+            "price": "97,75 € ", 
+            "description": "En este pack están incluidos: asesoramiento, matización si fuera necesario, lavado, hidratación, secado rápido y producto de acabado. Para una melena con un toque de color y luz. No está incluido el tinte: si fuera necesario, habrá que abonarlo a parte en caja el día en que se realiza."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Mechas Californianas Y Secado Rápido", 
+            "duration": 9000, 
+            "price": "97,75 € ", 
+            "description": "Este pack incluye: asesoramiento, matiz si fuera necesario, lavado, hidratación, secado rápido y producto de acabado. No incluye el tinte: si fuera necesario, habrá que abonarlo a parte en caja el día en que se realiza. ¡Para un look a la última!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Mechas Dobles Y Secado Rápido", 
+            "duration": 10800, 
+            "price": "101,5 € ", 
+            "description": "Este pack incluye asesoramiento, matizado si fuera necesario, lavado, hidratación, secado rápido y producto de acabado. No incluye el tinte: si fuera necesario, habría que abonarlo aparte en caja el día en que se realiza. Para una melena luminosa y despampanante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Tratamiento De Hidratacion Y Peinado", 
+            "duration": 3600, 
+            "price": "41,5 € ", 
+            "description": "El servicio incluye corte de pelo asesorado por nuestros profesionales, tratamiento de hidratacion y peinado con definición. Para una melena sana, cuidada y a la moda."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Tratamiento Keratin Therapy,Lavar Y Peinar", 
+            "duration": 5400, 
+            "price": "74 € ", 
+            "description": "Este pack exclusivo incluye: corte de pelo con asesoramiento de nuestros profesionales, tratamiento Keratin Therapy Lisse Design Flexible para disminuir el encrespamiento del cabello durante dos meses, peinado y champú de mantenimiento de 250ml de regalo. Para una melena sana y brillante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Decoloración Con Matizado, Corte Y Peinado", 
+            "duration": 9000, 
+            "price": "102 € ", 
+            "description": "Este servicio incluye asesoramiento por nuestro equipo de profesionales, lavado con reconstrucción capilar, matizado, corte, peinado y producto de acabado para lucir una melena increíble."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Decoloración Media Melena Y Secado Rápido", 
+            "duration": 5400, 
+            "price": "79,5 € ", 
+            "description": "Este servicio incluye asesoramiento por nuestro equipo de profesionales, lavado con reconstrucción capilar, matizado de media melena, secado rápido y producto de acabado para lucir una melena increíble. El tratamiento no incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Decoloración Pelo Corto Y Secado Rápido", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Este servicio incluye asesoramiento, lavado con hidratación, decoloración de pelo corto, secado rápido y producto de acabado. Para lucir moderna."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Decoloración Pelo Largo Y Secado Rápido", 
+            "duration": 5400, 
+            "price": "72 € ", 
+            "description": "Este servicio incluye asesoramiento, lavado con hidratación, matizado de pelo largo, secado rápido y producto de acabado. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Desrizado Japonés Pro-Keratin Y Peinado Medio", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "Desrizado japonés ideal para conseguir melena con brillo, un liso perfecto y permanente. El servicio incluye una hidratación y peinado con definición. Para lucir una melena sana y cuidada."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Desrizado Japonés Pro-Keratin Y Peinado Pelo Largo", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Desrizado japonés ideal para conseguir una melena con brillo, un liso perfecto y permanente. El servicio incluye una hidratación y peinado con definición. Duración exacta: 120 minutos. Para lucir un pelazo cuidado y sano."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas (Bicolor) Y Secado Rápido", 
+            "duration": 7200, 
+            "price": "77,75 € ", 
+            "description": "Este servicio incluye asesoramiento,mechas de dos tonos, lavado, hidratación, secado rápido y producto de acabado. No incluye ni peinado ni tinte, si fuera necesario, habría que abonarlo a parte en caja el día realizado.Reserva ya tu cita cómodamente online a través de Bucmi.com y saldrás encantada de nuestro exclusivo centro. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Clásicas Bicolor Y Secado Rápido", 
+            "duration": 7200, 
+            "price": "68,25 € ", 
+            "description": "Tratamiento de mechas clásicas bicolor para conseguir una melena con luz y del color perfecto. Este servicio incluye: asesoramiento, matización si fuera necesario, lavado, hidratación, secado rápido y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Clásicas Monocolor Y Secado Rápido", 
+            "duration": 7200, 
+            "price": "64,25 € ", 
+            "description": "Tratamiento de mechas clásicas monocolor para una melena con luz y el color perfecto. Este servicio incluye: asesoramiento, matización si fuera necesario, lavado, hidratación, secado rápido y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Clásicas Tricolor Y Secado Rápido", 
+            "duration": 3600, 
+            "price": "69,25 € ", 
+            "description": "Mechas clásicas tricolor para conseguir la luz y el color que estás buscando para tu melena. Este servicio incluye: asesoramiento, matización si fuera necesario, lavado, hidratación, secado rápido y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Dobles (Monocolor) Y Secado Rápido.", 
+            "duration": 9000, 
+            "price": "82,5 € ", 
+            "description": "Este servicio incluye: asesoramiento, matizado si fuera necesario, hidratación, secadora rápido y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "Este servicio de peinado incluye el lavado, aplicación de crema y producto de acabado. Ideal para tu día a día o para cualquier evento especial."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "Este servicio de peinado para pelo corto incluye el lavado, aplicación de crema y producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "18,5 € ", 
+            "description": "Este servicio de peinado incluye el lavado, aplicación de crema y producto de acabado. Ideal para lucir una melena envidiable en tu día a día o en cualquier evento especial."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Corte Y Peinado", 
+            "duration": 5400, 
+            "price": "66,25 € ", 
+            "description": "Este servicio completo incluye asesoramiento por nuestro equipo de profesionales, lavado, hidratación, peinado rápido y producto de acabado. Tratamiento con productos de primera calidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Mechas Californianas Y Secado Rápido", 
+            "duration": 10800, 
+            "price": "103,75 € ", 
+            "description": "Este servicio incluye: asesoramiento, matización si fuera necesario lavado, hidratación y secado rápido. Un pack de color para tu melena con un tinte y unas mechas californianas: para una melena fresca y luminosa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina,Lavar Y Peinar Media Melena", 
+            "duration": 7200, 
+            "price": "105 € ", 
+            "description": "Pack exclusivo que incluye un tratamiento Keratin Therapy Lisse Design, peinado con definición y champú de mantenimiento de regalo de 250 ml. Tratamiento de Keratina libre de formaldeidos, para aportar a tu cabello peso, permeabilidad, engrosamiento y brillo durante tres meses, quedando más liso y fácil de peinar. Precio indicado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina,Lavar Y Peinar Pelo Corto", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Pack exclusivo que incluye un tratamiento Keratin Therapy Lisse Design, peinado con definición y champú de mantenimiento de regalo de 250 ml. Tratamiento de Keratina libre de formaldeidos, para aportar a tu cabello peso, permeabilidad, engrosamiento y brillo durante tres meses, quedando más liso y fácil de peinar. Precio indicado para pelo corto. ."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina,Lavar Y Peinar Pelo Largo", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "Pack exclusivo que incluye un tratamiento Keratin Therapy Lisse Design, peinado con definición y champú de mantenimiento de regalo de 250 ml. Tratamiento de Keratina libre de formaldeidos, para aportar a tu cabello peso, permeabilidad, engrosamiento y brillo durante tres meses, quedando más liso y fácil de peinar. Precio indicado para pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Desrizado Con Pro-Keratin Pelo Largo Y Peinado", 
+            "duration": 5400, 
+            "price": "68,5 € ", 
+            "description": "Este desrizado en frío es ideal para reducir el volumen y el encrespamiento del cabello, relajando tu rizo natural de forma permanente. El servicio incluye una hidratación de la melena y un peinado: para lucir un pelo suave y cuidado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Cambio De Imagen, Desrizado Y Secado", 
+            "duration": 5400, 
+            "price": "86,25 € ", 
+            "description": "Pack perfecto para cambio de imagen, si se desea una melena menos voluminosa y un pelo menos rizado. Asesoramiento personalizado por nuestros profesionales, para potenciar al máximo los rasgos de cada cliente y permitirle lucir una melena libre de encrespamiento y rizos rebeldes. Incluye lavado, corte asesorado, dilatación, desrizado,y productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Monocolor Y Secado Rápido", 
+            "duration": 7200, 
+            "price": "73,75 € ", 
+            "description": "Servicio para dar color a tu cabello de medios a puntas. Es posible elegir: tono, intensidad y si quieres que sean marcadas o tipo reflejo. Este servicio incluye asesoramiento, matización si fuera necesario, lavado, hidratación, secado rápido y producto de acabado. No incluye ni peinado ni tinte. Si fuera necesario, consultar en el centro para un posible suplemento el mismo día de la cita."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mantenimiento Tto. Capilar Olaplex Y Peinado", 
+            "duration": 3600, 
+            "price": "55,5 € ", 
+            "description": "Este tratamiento, podrás solicitarlo, siempre que hayas pasado con anterioridad por el salón a realizar tu primer tratamiento OLAPLEX. Para seguir luciendo una melena cuidada, sedosa y muy luminosa. Incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Olaplex Y Peinado", 
+            "duration": 3600, 
+            "price": "100,5 € ", 
+            "description": "Tratamiento de ultima generación, que ayuda a reconstruir el cabello maltratado química o mecánicamente (secador, planchas) aportando al cabello fuerza, estructura e integridad. El precio incluye peinado y un tratamiento de mantenimiento."
+        }
+    ]
+}

@@ -1,0 +1,343 @@
+{
+    "adid": null, 
+    "name": "Estetica Allende", 
+    "name_of_contact": "Estetica Allende", 
+    "scrape_page": "https://www.bucmi.com/esteticallende", 
+    "business_website": "https://www.bucmi.com/esteticallende", 
+    "areas_covered": null, 
+    "description": "Estética Allende es un centro de belleza ubicado en Donosti, que gracias a nuestro trato personalizado, hará que combines ponerte guapa con conseguir un bienestar de cuerpo y mente. Disfruta de nuestros masajes, tratamientos faciales... y te encantará.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635887157183379818.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635887157202442295.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635887157223385040.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Soraluze, 3", 
+    "city": "Donostia-San Sebastián", 
+    "zipcode": "20003", 
+    "formatted_address": "C/ Soraluze, 3, Donostia-San Sebastián, 20003", 
+    "country": "es", 
+    "office_number": "943467949", 
+    "office_number2": null, 
+    "mobile_number": "693805159", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3250310000", 
+    "longitude": "-1.9837035000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635884514948868397.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Disfruta de 50 minutos de masaje relajante para que consigas desconectar de tu día a día y recargar las pilas. Ven y nosotros te cuidaremos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflexoterapia", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Reflexoterapia con SlenderPro olvídate de la ansiedad, el estrés, la depresión y deja que tu cuerpo se relaje o active dependiendo de tus necesidades ademas incluye peeling con crema exclusiva de aloe vera y sales del Himalaya. La sesión tiene una duración de 50 minutos. Técnica novedosa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Especial Novi@S", 
+            "duration": 10800, 
+            "price": "540 € ", 
+            "description": "Tratamiento personalizado, para 2 personas, novi@s,madrinas y padrinos para reducir el estres y relajarse, aconsejado unos dias antes de la boda para descansar y ponernos guapos, incluye electroterapia con reflexologia , lifting facial y corporal el tratamiento completo dura tres horas incluye crema hidratante con proteinas de seda y sales del Himalaya que ademas de hidratar y nutrir la piel, nos producira un peeling y limpieza de todo el cuerpo dejando la piel radiante y suave ademas de moldear y afinar"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Luxury 3 Horas", 
+            "duration": 10800, 
+            "price": "239,9 € ", 
+            "description": "Masaje personalizado efectos anti-edad, reparador, adelgazan te, drenan te de los pies a la cabeza,incluye lifting facial con masaje rejuvenecedor, lifting corporal efecto moldeador y sesión de reflexologia podal con peeling total"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Luxury 90 Minutos", 
+            "duration": 5400, 
+            "price": "119,9 € ", 
+            "description": "Masaje de 90 minutos personalizado, con exfoliacion completa y masaje con aparatologia efecto lifting corporal y facial o recuperador ideal para regalar salud y bienestar el dia la madre, cumpleaños a los amigos estresados"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Elevación De Senos", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Lifting de senos, en el que realizamos también recolocación de espalda y senos mediante masaje tonificador y corrector de postura. La sesión tiene una duración de 50 minutos y se hace con aparatologia SlenderPro en una sesion se puede elevar y centrar hasta 4 centimetros los senos.Ven a probar y disfruta de una espalda como nueva."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Expres Primavera Exfoliante", 
+            "duration": 1800, 
+            "price": "29,9 € ", 
+            "description": "Preparate para el sol con un peeling natural de sales del himalaya y aloe vera, incluye masaje corporal y facial con exfoliacion, hidratacion con proteinas de seda ."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Reductor Completo 45M", 
+            "duration": 2700, 
+            "price": "39,9 € ", 
+            "description": "Si quieres ver resultados en tu figura, no lo dudes y prueba nuestro tratamiento corporal reductor realizado con nuestra aparatologia SlenderPro que depende de que necesitemos conseguir lo utilizaremos como: reductor, anticelulitico, tonificante, hidratante, relajación, especial contracturas y lesiones antiguas. El tratamiento dura 45 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Corporal Otoño Invierno Pieles Maduras", 
+            "duration": 1800, 
+            "price": "29,9 € ", 
+            "description": "Masaje con exfoliacion de crema con sales del Himalaya, aloe vera y arnica para exfoliar y mejorar las articulaciones de las personas con pieles maduras"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Especial Novi@S", 
+            "duration": 10800, 
+            "price": "540 € ", 
+            "description": "Tratamiento personalizado, para 2 personas, novi@s,madrinas y padrinos para reducir el estres y relajarse, aconsejado unos dias antes de la boda para descansar y ponernos guapos, incluye electroterapia con reflexologia , lifting facial y corporal el tratamiento completo dura tres horas incluye crema hidratante con proteinas de seda y sales del Himalaya que ademas de hidratar y nutrir la piel, nos producira un peeling y limpieza de todo el cuerpo dejando la piel radiante y suave ademas de moldear y afinar"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Especial Novi@S", 
+            "duration": 10800, 
+            "price": "540 € ", 
+            "description": "Tratamiento personalizado, para 2 personas, novi@s,madrinas y padrinos para reducir el estres y relajarse, aconsejado unos dias antes de la boda para descansar y ponernos guapos, incluye electroterapia con reflexologia , lifting facial y corporal el tratamiento completo dura tres horas incluye crema hidratante con proteinas de seda y sales del Himalaya que ademas de hidratar y nutrir la piel, nos producira un peeling y limpieza de todo el cuerpo dejando la piel radiante y suave ademas de moldear y afinar"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Facial Sin Cirugía", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Lifting facial con SlenderPro rejuvenecimiento en una sola sesión unos años menos. La duración del la sesión es de 50 minutos. Si quieres probar un tratamiento realmente efectivo no lo dudes y ven a probarlo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Reductor Lifting Corporal", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Remodela tu figura gracias a este Lifting corporal desde tus pies hasta tu cintura sesión de 50 minutos de duración. Lograrás ver grandes resultados gracias a nuestra técnica, realizado con aparatología SlenderPro"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10+2 Sesiones Tratamiento Facial Hidratante 30M", 
+            "duration": 1800, 
+            "price": "299 € ", 
+            "description": "Gracias a nuestra aparatología de última generación Slender Pro, disfrutarás de una piel del rostro hidratada y tonificada. Reserva un ratito para ti y date un capricho a la vez que te cuidas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10+2 Sesiones Tratamiento Facial Hidratante 45M", 
+            "duration": 2700, 
+            "price": "399 € ", 
+            "description": "Gracias a nuestra aparatología de última generación Slender Pro, disfrutarás de una piel del rostro hidratada y tonificada. Reserva un ratito para ti y date un capricho a la vez que te cuidas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10+2 Sesiones Tto Corporal Elevación Senos", 
+            "duration": 3600, 
+            "price": "499 € ", 
+            "description": "Lifting de senos, en el que realizamos también recolocación de espalda y senos mediante masaje tonificador y corrector de postura. La sesión tiene una duración de 50 minutos y se hace con aparatologia SlenderPro en una sesion se puede elevar y centrar hasta 4 centimetros los senos.Ven a probar y disfruta de una espalda como nueva."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10+2 Sesiones Tto Corporal Reductor 45M", 
+            "duration": 2700, 
+            "price": "399 € ", 
+            "description": "Si quieres ver resultados en tu figura, no lo dudes y prueba nuestro tratamiento corporal reductor realizado con nuestra aparatologia SlenderPro que depende de que necesitemos conseguir lo utilizaremos como: reductor, anticelulitico, tonificante, hidratante, relajación, especial contracturas y lesiones antiguas. El tratamiento dura 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10+2 Sesiones Tto Corporal Reductor Completo 30M", 
+            "duration": 1800, 
+            "price": "299 € ", 
+            "description": "Tratamiento corporal reductor realizado con nuestra aparatologia SlenderPro que depende de que necesitemos conseguir lo utilizaremos como: reductor, anticelulitico, tonificante, hidratante, relajación, especial contracturas y lesiones antiguas. El tratamiento dura 25 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10+2 Sesiones Drenaje Linfático 30M", 
+            "duration": 1800, 
+            "price": "299 € ", 
+            "description": "Servicio ideal para mejorar tus problemas de circulación de las extremidades a la vez que tonificas la piel de tu cuerpo para reafirmarla y eliminar esa celulitis tan molesta. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10+2 Sesiones Drenaje Linfático 45M", 
+            "duration": 2700, 
+            "price": "399 € ", 
+            "description": "Servicio ideal para mejorar tus problemas de circulación de las extremidades a la vez que tonificas la piel de tu cuerpo para reafirmarla y eliminar esa celulitis tan molesta. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tto Corporal 10+2 Sesiones Lifting", 
+            "duration": 3600, 
+            "price": "799 € ", 
+            "description": "Remodela tu figura gracias a este Lifting corporal desde tus pies hasta tu cintura sesión de 50 minutos de duración. Lograrás ver grandes resultados gracias a nuestra técnica, realizado con aparatología SlenderPro"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tto Facial 10+2 Lifting Sin Cirugía", 
+            "duration": 3600, 
+            "price": "399 € ", 
+            "description": "Lifting facial con SlenderPro rejuvenecimiento en una sola sesión unos años menos. La duración del la sesión es de 50 minutos. Si quieres probar un tratamiento realmente efectivo no lo dudes y ven a probarlo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático 30M", 
+            "duration": 1800, 
+            "price": "29,9 € ", 
+            "description": "Servicio ideal para mejorar tus problemas de circulación de las extremidades a la vez que tonificas la piel de tu cuerpo para reafirmarla y eliminar esa celulitis tan molesta. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático 45M", 
+            "duration": 2700, 
+            "price": "39,9 € ", 
+            "description": "Servicio ideal para mejorar tus problemas de circulación de las extremidades a la vez que tonificas la piel de tu cuerpo para reafirmarla y eliminar esa celulitis tan molesta. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lifting Facial Y Corporal 1 Hora", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "En una hora tendras dos esteticistas y masajistas para realizarte dos estupendos tratamientos completos facial antiarrugas o antiacne mas un lifting reductor corporal, incluye peeling facial y corporal con sales del Himalaya y proteinas de seda ademas de un estupendo moldeado de cara y cuerpo con nuestro equipo Slender-pro.Rejuveneceremos tu rostro y tu cuerpo"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Elevación De Senos", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Lifting de senos, en el que realizamos también recolocación de espalda y senos mediante masaje tonificador y corrector de postura. La sesión tiene una duración de 50 minutos y se hace con aparatologia SlenderPro en una sesion se puede elevar y centrar hasta 4 centimetros los senos.Ven a probar y disfruta de una espalda como nueva."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Expres Primavera Exfoliante", 
+            "duration": 1800, 
+            "price": "29,9 € ", 
+            "description": "Preparate para el sol con un peeling natural de sales del himalaya y aloe vera, incluye masaje corporal y facial con exfoliacion, hidratacion con proteinas de seda ."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Completo", 
+            "duration": 1800, 
+            "price": "29,9 € ", 
+            "description": "Tratamiento corporal reductor realizado con nuestra aparatologia SlenderPro que depende de que necesitemos conseguir lo utilizaremos como: reductor, anticelulitico, tonificante, hidratante, relajación, especial contracturas y lesiones antiguas. El tratamiento dura 25 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Completo 45M", 
+            "duration": 2700, 
+            "price": "39,9 € ", 
+            "description": "Si quieres ver resultados en tu figura, no lo dudes y prueba nuestro tratamiento corporal reductor realizado con nuestra aparatologia SlenderPro que depende de que necesitemos conseguir lo utilizaremos como: reductor, anticelulitico, tonificante, hidratante, relajación, especial contracturas y lesiones antiguas. El tratamiento dura 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidratante 30M", 
+            "duration": 1800, 
+            "price": "29,9 € ", 
+            "description": "Gracias a nuestra aparatología de última generación Slender Pro, disfrutarás de una piel del rostro hidratada y tonificada. Reserva un ratito para ti y date un capricho a la vez que te cuidas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidratante 45M", 
+            "duration": 2700, 
+            "price": "39,9 € ", 
+            "description": "Gracias a nuestra aparatología de última generación Slender Pro, disfrutarás de una piel del rostro hidratada y tonificada. Reserva un ratito para ti y date un capricho a la vez que te cuidas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Especial Novi@S", 
+            "duration": 10800, 
+            "price": "540 € ", 
+            "description": "Tratamiento personalizado, para 2 personas, novi@s,madrinas y padrinos para reducir el estres y relajarse, aconsejado unos dias antes de la boda para descansar y ponernos guapos, incluye electroterapia con reflexologia , lifting facial y corporal el tratamiento completo dura tres horas incluye crema hidratante con proteinas de seda y sales del Himalaya que ademas de hidratar y nutrir la piel, nos producira un peeling y limpieza de todo el cuerpo dejando la piel radiante y suave ademas de moldear y afinar"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Lifting Facial Sin Cirugía", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Lifting facial con SlenderPro rejuvenecimiento en una sola sesión unos años menos. La duración del la sesión es de 50 minutos. Si quieres probar un tratamiento realmente efectivo no lo dudes y ven a probarlo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto Corporal Reductor Lifting Corporal", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Remodela tu figura gracias a este Lifting corporal desde tus pies hasta tu cintura sesión de 50 minutos de duración. Lograrás ver grandes resultados gracias a nuestra técnica, realizado con aparatología SlenderPro"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10+2 Sesiones Tratamiento Facial Hidratante 30M", 
+            "duration": 1800, 
+            "price": "299 € ", 
+            "description": "Gracias a nuestra aparatología de última generación Slender Pro, disfrutarás de una piel del rostro hidratada y tonificada. Reserva un ratito para ti y date un capricho a la vez que te cuidas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10+2 Sesiones Tratamiento Facial Hidratante 45M", 
+            "duration": 2700, 
+            "price": "399 € ", 
+            "description": "Gracias a nuestra aparatología de última generación Slender Pro, disfrutarás de una piel del rostro hidratada y tonificada. Reserva un ratito para ti y date un capricho a la vez que te cuidas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10+2 Sesiones Tto Corporal Elevación Senos", 
+            "duration": 3600, 
+            "price": "499 € ", 
+            "description": "Lifting de senos, en el que realizamos también recolocación de espalda y senos mediante masaje tonificador y corrector de postura. La sesión tiene una duración de 50 minutos y se hace con aparatologia SlenderPro en una sesion se puede elevar y centrar hasta 4 centimetros los senos.Ven a probar y disfruta de una espalda como nueva."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10+2 Sesiones Tto Corporal Reductor 45M", 
+            "duration": 2700, 
+            "price": "399 € ", 
+            "description": "Si quieres ver resultados en tu figura, no lo dudes y prueba nuestro tratamiento corporal reductor realizado con nuestra aparatologia SlenderPro que depende de que necesitemos conseguir lo utilizaremos como: reductor, anticelulitico, tonificante, hidratante, relajación, especial contracturas y lesiones antiguas. El tratamiento dura 45 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10+2 Sesiones Tto Corporal Reductor Completo 30M", 
+            "duration": 1800, 
+            "price": "299 € ", 
+            "description": "Tratamiento corporal reductor realizado con nuestra aparatologia SlenderPro que depende de que necesitemos conseguir lo utilizaremos como: reductor, anticelulitico, tonificante, hidratante, relajación, especial contracturas y lesiones antiguas. El tratamiento dura 25 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10+2 Sesiones Drenaje Linfático 30M", 
+            "duration": 1800, 
+            "price": "299 € ", 
+            "description": "Servicio ideal para mejorar tus problemas de circulación de las extremidades a la vez que tonificas la piel de tu cuerpo para reafirmarla y eliminar esa celulitis tan molesta. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Especial Novi@S", 
+            "duration": 10800, 
+            "price": "540 € ", 
+            "description": "Tratamiento personalizado, para 2 personas, novi@s,madrinas y padrinos para reducir el estres y relajarse, aconsejado unos dias antes de la boda para descansar y ponernos guapos, incluye electroterapia con reflexologia , lifting facial y corporal el tratamiento completo dura tres horas incluye crema hidratante con proteinas de seda y sales del Himalaya que ademas de hidratar y nutrir la piel, nos producira un peeling y limpieza de todo el cuerpo dejando la piel radiante y suave ademas de moldear y afinar"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Lifting Facial Sin Cirugía", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Lifting facial con SlenderPro rejuvenecimiento en una sola sesión unos años menos. La duración del la sesión es de 50 minutos. Si quieres probar un tratamiento realmente efectivo no lo dudes y ven a probarlo."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Tto Corporal Reductor Lifting Corporal", 
+            "duration": 3600, 
+            "price": "79,9 € ", 
+            "description": "Remodela tu figura gracias a este Lifting corporal desde tus pies hasta tu cintura sesión de 50 minutos de duración. Lograrás ver grandes resultados gracias a nuestra técnica, realizado con aparatología SlenderPro"
+        }
+    ]
+}

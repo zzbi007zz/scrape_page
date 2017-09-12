@@ -1,0 +1,293 @@
+{
+    "adid": null, 
+    "name": "L. Daza peluqueros", 
+    "name_of_contact": "L. Daza peluqueros", 
+    "scrape_page": "https://www.bucmi.com/dazapeluqueros", 
+    "business_website": "https://www.bucmi.com/dazapeluqueros", 
+    "areas_covered": null, 
+    "description": "Salón de peluquería y belleza en Vicálvaro. Ven a conocer nuestros tratamientos y ponte en mano de los mejores profesionales para estar siempre guapa y brillar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810389775007250.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810389776725965.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "9,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Hermosilla, 60", 
+    "city": "Madrid", 
+    "zipcode": "28032", 
+    "formatted_address": "C/ Hermosilla, 60, Madrid, 28032", 
+    "country": "es", 
+    "office_number": "917763417", 
+    "office_number2": null, 
+    "mobile_number": "663359941", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4063731000", 
+    "longitude": "-3.6083525000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811969935133138.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Japones Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Consulte con su profesional para melenas extralargas. El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Japones Pelo Medio", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos mas rebeldes. Consulte con su profesional para melenas extralargas.El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Cavitacion", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Circuito de 30 min cavitacion mas 30 min presoterapia,destruye la grasa localizada u mejora tu circulación"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar Y Peinar Pelo Medio", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Servicio de peinado mujer para media melena. Conseguirás encontrar el look que más va contigo, de la mano de nuestros profesionales. Incluye el corte, lavado y peinado con forma."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fotodepilación Ingles Y Axilas Mas Labio", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Fotodepilacion,indolora,efectiva y segura,olvidate del vello gracias a nuestro sistema de depilación"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lifting Facial Cirugía, Radiofrecuencia Trifasi", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Lifting facial sin cirugía, resultados inmejorables sin dañar a tu salud mas un tratamiento de regalo,llama y consultanos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japones Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Consulte con su profesional para melenas extralargas. El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japones Pelo Medio", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos mas rebeldes. Consulte con su profesional para melenas extralargas.El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japones Pelo Largo", 
+            "duration": 10800, 
+            "price": "300 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos mas rebeldes. Consulte con su profesional para melenas extralargas.El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Servicio de color y peinado mujer. Posible suplementos para pelo extralargo. Cambia de look de la mano de L. Daza."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Servicio de peinado mujer para cabellos cortos. Incluye el corte, lavado y peinado con forma y asesoramiento personalizado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Servicio de peinado mujer para melenas largas. Incluye el corte, lavado y peinado con forma."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Medio", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Servicio de peinado mujer para media melena. Conseguirás encontrar el look que más va contigo, de la mano de nuestros profesionales. Incluye el corte, lavado y peinado con forma."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Disfruta de un corte con estilo gracias al asesoramiento de nuestros peluqueros de alta experiencia de Daza y tu look seguirá las últimas tendencias. Incluye lavado y peinado para que salgas perfecto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Disfruta de un corte con estilo gracias al asesoramiento de nuestros peluqueros de alta experiencia de Daza y tu look seguirá las últimas tendencias. Incluye lavado con champú y acondicionador pero no incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Media Melena", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce unas mechas envidiables y déjate asesorar por los mejores profesionales para dar brillo y luminosidad a tu pelo. El servicio también incluye peinado paras salir perfecta!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Pelo Largo", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Luce unas mechas envidiables y déjate asesorar por los mejores profesionales.El servicio también incluye peinado paras salir perfecta."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar De Belleza 2", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "circuito de peluqueria y belleza.elige entre nuestras combinacionesy disfruta de 8 serviciosa un precio nunca visto"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Japones Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Consulte con su profesional para melenas extralargas. El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Japones Pelo Medio", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos mas rebeldes. Consulte con su profesional para melenas extralargas.El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Japones Pelo Largo", 
+            "duration": 10800, 
+            "price": "300 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos mas rebeldes. Consulte con su profesional para melenas extralargas.El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Servicio de color y peinado mujer. Posible suplementos para pelo extralargo. Cambia de look de la mano de L. Daza."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Servicio de peinado mujer para cabellos cortos. Incluye el corte, lavado y peinado con forma y asesoramiento personalizado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Servicio de peinado mujer para melenas largas. Incluye el corte, lavado y peinado con forma."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cortar Y Peinar Pelo Medio", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Servicio de peinado mujer para media melena. Conseguirás encontrar el look que más va contigo, de la mano de nuestros profesionales. Incluye el corte, lavado y peinado con forma."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Disfruta de un corte con estilo gracias al asesoramiento de nuestros peluqueros de alta experiencia de Daza y tu look seguirá las últimas tendencias. Incluye lavado y peinado para que salgas perfecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Disfruta de un corte con estilo gracias al asesoramiento de nuestros peluqueros de alta experiencia de Daza y tu look seguirá las últimas tendencias. Incluye lavado con champú y acondicionador pero no incluye peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Californianas Media Melena", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce unas mechas envidiables y déjate asesorar por los mejores profesionales para dar brillo y luminosidad a tu pelo. El servicio también incluye peinado paras salir perfecta!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Japones Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Consulte con su profesional para melenas extralargas. El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Japones Pelo Medio", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos mas rebeldes. Consulte con su profesional para melenas extralargas.El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Japones Pelo Corto", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Consulte con su profesional para melenas extralargas. El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Japones Pelo Medio", 
+            "duration": 9000, 
+            "price": "150 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos mas rebeldes. Consulte con su profesional para melenas extralargas.El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Japones Pelo Largo", 
+            "duration": 10800, 
+            "price": "300 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos mas rebeldes. Consulte con su profesional para melenas extralargas.El servicio también incluye el peinado para lucir perfecta!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Servicio de color y peinado mujer. Posible suplementos para pelo extralargo. Cambia de look de la mano de L. Daza."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Servicio de peinado mujer para cabellos cortos. Incluye el corte, lavado y peinado con forma y asesoramiento personalizado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Servicio de peinado mujer para melenas largas. Incluye el corte, lavado y peinado con forma."
+        }
+    ]
+}

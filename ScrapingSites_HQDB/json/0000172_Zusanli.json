@@ -1,0 +1,103 @@
+{
+    "adid": null, 
+    "name": "Zusanli", 
+    "name_of_contact": "Zusanli", 
+    "scrape_page": "https://www.bucmi.com/zusanli", 
+    "business_website": "https://www.bucmi.com/zusanli", 
+    "areas_covered": null, 
+    "description": "Zusanli es un Centro de Terapias Naturales situado en pleno centro de Madrid. Estamos cerca de la parada de metro de Sol. Reserva en nuestro centro, podrás disfrutar de una conexión contigo mismo en un espacio único y agradable. ¡Relájate con nosotros!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635747967620037531.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635747967640037181.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635747967710349735.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635747967711130966.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635747967873016588.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635747967907238348.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635747968250679450.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635747968510945093.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "9,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Esparteros, 8", 
+    "city": "Madrid", 
+    "zipcode": "28012", 
+    "formatted_address": "C/ Esparteros, 8, Madrid, 28012", 
+    "country": "es", 
+    "office_number": "915233606", 
+    "office_number2": null, 
+    "mobile_number": "646041958", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4159158000", 
+    "longitude": "-3.7052496999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970410756428.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Masaje relajante muscular así como descontracturante con efecto antiflamatorio. Hoy en día, 7 de 10 personas tiene problemas en la zona alta de la espalda, provocados por malas posturas, tensión y estrés. El masaje se realizará en camilla, futón o silla. Si la espalda está muy contracturada, la técnica de masaje manual se complementaría con la aplicación de ventosas, acupuntura y moxas. La duración aproximada del masaje son unos 30 minutos, más el correspondiente tiempo de reposo del paciente"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Shiatsu Zen", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Restaura el equilibrio energético: el cuerpo físico, la mente y las emociones están unidos. Mejora trastornos emocionales como insomnio, ansiedad, depresión, trastornos digestivos, mejora el sistema circulatorio y trastornos musculo-esqueléticos... Shiatsu es una técnica manual japonesa que se realiza sobre un futón en el suelo, las manipulaciones consisten en presiones y rotaciones. El masaje tiene una duración aproximada de unos 45 minutos más su correspondiente tiempo de reposo al finalizar la sesión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Primeras Sesiones Acupuntura", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Tratamiento contra molestias, dolencias, malestar, problemas circulatorios, insomnio, ansiedad, estrés, etc. Cuando un cliente se realiza un tratamiento de acupuntura, es aconsejable que se hagan tres sesiones seguidas la primera semana y luego una semanal (dos si la lesión del paciente lo requiere). Reserva en Bucmi más barato tus tres primeras sesiones de acupuntura. La primera sesión tiene una duración de 60 minutos (se realiza ficha al paciente), las siguientes serán más cortas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Masaje relajante muscular así como descontracturante con efecto antiflamatorio. Hoy en día, 7 de 10 personas tiene problemas en la zona alta de la espalda, provocados por malas posturas, tensión y estrés. El masaje se realizará en camilla, futón o silla. Si la espalda está muy contracturada, la técnica de masaje manual se complementaría con la aplicación de ventosas, acupuntura y moxas. La duración aproximada del masaje son unos 30 minutos, más el correspondiente tiempo de reposo del paciente"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Shiatsu Zen", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Restaura el equilibrio energético: el cuerpo físico, la mente y las emociones están unidos. Mejora trastornos emocionales como insomnio, ansiedad, depresión, trastornos digestivos, mejora el sistema circulatorio y trastornos musculo-esqueléticos... Shiatsu es una técnica manual japonesa que se realiza sobre un futón en el suelo, las manipulaciones consisten en presiones y rotaciones. El masaje tiene una duración aproximada de unos 45 minutos más su correspondiente tiempo de reposo al finalizar la sesión."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Descontracturante", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Masaje relajante muscular así como descontracturante con efecto antiflamatorio. Hoy en día, 7 de 10 personas tiene problemas en la zona alta de la espalda, provocados por malas posturas, tensión y estrés. El masaje se realizará en camilla, futón o silla. Si la espalda está muy contracturada, la técnica de masaje manual se complementaría con la aplicación de ventosas, acupuntura y moxas. La duración aproximada del masaje son unos 30 minutos, más el correspondiente tiempo de reposo del paciente"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Shiatsu Zen", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Restaura el equilibrio energético: el cuerpo físico, la mente y las emociones están unidos. Mejora trastornos emocionales como insomnio, ansiedad, depresión, trastornos digestivos, mejora el sistema circulatorio y trastornos musculo-esqueléticos... Shiatsu es una técnica manual japonesa que se realiza sobre un futón en el suelo, las manipulaciones consisten en presiones y rotaciones. El masaje tiene una duración aproximada de unos 45 minutos más su correspondiente tiempo de reposo al finalizar la sesión."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 3 Primeras Sesiones Acupuntura", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Tratamiento contra molestias, dolencias, malestar, problemas circulatorios, insomnio, ansiedad, estrés, etc. Cuando un cliente se realiza un tratamiento de acupuntura, es aconsejable que se hagan tres sesiones seguidas la primera semana y luego una semanal (dos si la lesión del paciente lo requiere). Reserva en Bucmi más barato tus tres primeras sesiones de acupuntura. La primera sesión tiene una duración de 60 minutos (se realiza ficha al paciente), las siguientes serán más cortas."
+        }
+    ]
+}

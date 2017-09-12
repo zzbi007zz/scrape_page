@@ -1,0 +1,259 @@
+{
+    "adid": null, 
+    "name": "Le PoP", 
+    "name_of_contact": "Le PoP", 
+    "scrape_page": "https://www.bucmi.com/lepop", 
+    "business_website": "https://www.bucmi.com/lepop", 
+    "areas_covered": null, 
+    "description": "Peluqueria situado cerca del Hospital de la Santa Creu i Sant Pau. Disfrutarás de servicios de estilismo, maquillaje, cortes de tendencia y tratamientos capilares. Somos Freelance en trabajos en T.V. Si aún no nos conoces ven a conocer Le PoP Perruquers.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635791373291609202.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635791373364577703.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792917304734500.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "7", 
+    "hqdb_review_score": "9,1", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Corsega, 117", 
+    "city": "Barcelona", 
+    "zipcode": "08026", 
+    "formatted_address": "C/ Corsega, 117, Barcelona, 08026", 
+    "country": "es", 
+    "office_number": "934563392", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4140021000", 
+    "longitude": "2.1808144000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636057319598545555.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Keratina Pelo Largo", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Tratamiento de keratina para aportar nutrición al cabello, además de recuperar la keratina natural que se deteriora con el paso del tiempo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Keratina Pelo Corto", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Disponemos de servicios exclusivos para no desperdicies de la oportunidad de embellecer tu pelo. Tratamiento de keratina para aportar nutrición al cabello, además de recuperar la keratina natural que se deteriora con el paso del tiempo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Keratina Media Melena", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Tratamiento de keratina con propiedades nutrientes para el cabello, además de recuperar la keratina natural que se deteriora con el paso del tiempo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento De Celulas Madre Y Queratina", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento regenerador de la fibra capilar devolviendo al tallo la resistencia del cabello natural.A base de CELULAS MADRE que reactivan y QUERATINA que repara y reconstruye en profundidad."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Maquillaje Y Recogido", 
+            "duration": 5400, 
+            "price": "59,95 € ", 
+            "description": "Dos trabajos unidos para un perfecto estilismo personalizado.El maquillaje incluye ampolla flash.Perfecto para cualquier evento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Californianas", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "Luce una mechas californianas degradadas... al puro estilo surfero. El servicio incluye mechas, lavado con champú especifico. No incluye peinado. Regalamos un tratamiento regenerador para tu pelo con tu primera reserva en Bucmi."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Novias", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "Servicio dedicado exclusivo para la novia para que puedas sentirte perfecta para el día más especial de tu vida. Incluye: Prueba de maquillaje y prueba de peinado donde nuestros estilistas te diseñarán un look que mejor te sienta y maquillaje final y peinado final."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Para Mujer Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "32,95 € ", 
+            "description": "Disfruta de nuestros cortes de moda del centro Le PoP. El servicio incluye lavado con champú específico según el tipo de pelo, corte de moda y peinado.."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés Pelo Corto", 
+            "duration": 7200, 
+            "price": "250 € ", 
+            "description": "Disfruta de un alisado japonés que te dejará el pelo lacio como una tabla. El servicio incluye lavado y el alisado japonés. Saldrás con el pelo liso liso liso..."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés Media Melena", 
+            "duration": 9000, 
+            "price": "350 € ", 
+            "description": "Si lo que te apetece es tener un alisado al estilo japonés. El servicio incluye lavado y el alisado japonés. ¡Saldrás de la peluquería con el pelo lacio!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Keratina Pelo Largo", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Tratamiento de keratina para aportar nutrición al cabello, además de recuperar la keratina natural que se deteriora con el paso del tiempo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Keratina Pelo Corto", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Disponemos de servicios exclusivos para no desperdicies de la oportunidad de embellecer tu pelo. Tratamiento de keratina para aportar nutrición al cabello, además de recuperar la keratina natural que se deteriora con el paso del tiempo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Japonés Pelo Largo", 
+            "duration": 9000, 
+            "price": "480 € ", 
+            "description": "Disfruta de un alisado japonés que te dejará el pelo liso como una tabla. El servicio incluye lavado y el alisado japonés. ¡Saldrás con brillante y lacio!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Keratina Media Melena", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Tratamiento de keratina con propiedades nutrientes para el cabello, además de recuperar la keratina natural que se deteriora con el paso del tiempo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Celulas Madre Y Queratina", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Tratamiento regenerador de la fibra capilar devolviendo al tallo la resistencia del cabello natural.A base de CELULAS MADRE que reactivan y QUERATINA que repara y reconstruye en profundidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raíz Y Peinado", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¡Iguala el color de tu cabello! El servicio incluye color, lavado con champú especifico y peinado.Precio para cualquier medida de cabello. Regalamos un tratamiento regenerador para tu pelo con tu primera reserva en Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Ven a conocer nuestra peluquería. Encontrarás cortes de pelo variados y adaptados siempre a cada cliente. Incluye corte, lavado, corte de pelo y acabado. ¡Estás en buenas manos!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 2700, 
+            "price": "17,5 € ", 
+            "description": "Corte de pelo de mujer, siempre te asesoraremos con mucho gusto. El servicio incluye: lavado y champú, corte realizado por nuestros especialistas. No incluye peinado. Regalamos un tratamiento regenerador para tu pelo con tu primera reserva en Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "35,5 € ", 
+            "description": "Si aún no has probado nuestro servicio, no te arrepentirás. Nuestros estilistas estarán contigo al 100%. El servicio incluye lavado con champú específico según el tipo de pelo, corte de moda y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje Y Recogido", 
+            "duration": 5400, 
+            "price": "59,95 € ", 
+            "description": "Dos trabajos unidos para un perfecto estilismo personalizado.El maquillaje incluye ampolla flash.Perfecto para cualquier evento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 5400, 
+            "price": "26 € ", 
+            "description": "Luce una mechas californianas degradadas... al puro estilo surfero. El servicio incluye mechas, lavado con champú especifico. No incluye peinado. Regalamos un tratamiento regenerador para tu pelo con tu primera reserva en Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado/ Pack", 
+            "duration": 7200, 
+            "price": "64,95 € ", 
+            "description": "PROMOCION que incluye mechas con la técnica que la clienta elija (bien seran mechas de plata, degradado, reflejos...) corte de pelo enfocado a tu look, lavado con champú especifico y peinado.Regalamos un tratamiento regenerador para tu pelo con tu primera reserva en Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Extralargo", 
+            "duration": 3600, 
+            "price": "21 € ", 
+            "description": "Servicio de peluquería que incluye el lavado y el peinado en pelo extralargo. Te Regalamos un tratamiento regenerador para tu pelo con tu primera reserva en Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 1800, 
+            "price": "19,5 € ", 
+            "description": "Servicio de peluquería que incluye el lavado y el peinado en pelo media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Servicio de peluquería que incluye el lavado y el peinado en pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "21 € ", 
+            "description": "Servicio de peluquería que incluye el lavado y el peinado en pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 900, 
+            "price": "38 € ", 
+            "description": "Preparacion del peinado y recogido adaptado a tu estilo y acorde a los complementos,muy personalizado y creativo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novias", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "Servicio dedicado exclusivo para la novia para que puedas sentirte perfecta para el día más especial de tu vida. Incluye: Prueba de maquillaje y prueba de peinado donde nuestros estilistas te diseñarán un look que mejor te sienta y maquillaje final y peinado final."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Para Mujer Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "32,95 € ", 
+            "description": "Disfruta de nuestros cortes de moda del centro Le PoP. El servicio incluye lavado con champú específico según el tipo de pelo, corte de moda y peinado.."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Japonés Pelo Corto", 
+            "duration": 7200, 
+            "price": "250 € ", 
+            "description": "Disfruta de un alisado japonés que te dejará el pelo lacio como una tabla. El servicio incluye lavado y el alisado japonés. Saldrás con el pelo liso liso liso..."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Japonés Media Melena", 
+            "duration": 9000, 
+            "price": "350 € ", 
+            "description": "Si lo que te apetece es tener un alisado al estilo japonés. El servicio incluye lavado y el alisado japonés. ¡Saldrás de la peluquería con el pelo lacio!"
+        }
+    ]
+}

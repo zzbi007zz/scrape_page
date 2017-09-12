@@ -1,0 +1,744 @@
+{
+    "adid": null, 
+    "name": "Benestar Calvet", 
+    "name_of_contact": "Benestar Calvet", 
+    "scrape_page": "https://www.bucmi.com/benestarcalvet", 
+    "business_website": "https://www.bucmi.com/benestarcalvet", 
+    "areas_covered": null, 
+    "description": "Disfrutarás de unas instalaciones cómodas y bien comunicadas, espacios pensados para que puedas relajarte y sentirte cuidada. Disfruta de nuestros tratamientos faciales y corporales de Benestar en Sarria - Sant Gervasi y te encantará el resultado.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635685040029489332.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635685045154440694.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635685064879300378.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635685067922392475.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635685071436808243.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "9", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Numancia, 129", 
+    "city": "Barcelona", 
+    "zipcode": "08021", 
+    "formatted_address": "C/ Numancia, 129, Barcelona, 08021", 
+    "country": "es", 
+    "office_number": "932023263", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3935351000", 
+    "longitude": "2.1454404999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966841121103753.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Caliente En Piernas Enteras", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Luce unas piernas sin vello con la depilación con cera caliente. Olvídate del vello durante semanas en manos de profesionales de la estética y la belleza."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Con Tratamiento Específico", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "Comenzamos con el desmaquillado para seguir con la exfoliación, el vapor, la extracción, aplicación de principios activos, la crema específica, mascarilla específica y crema finalizadora. Todos los productos irán acorde con el tipo de piel, pudiendo aplicarse tratamiento de vitamina C, colágeno o regeneración."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Con Esmaltado", 
+            "duration": 1800, 
+            "price": "21,5 € ", 
+            "description": "Ponte en manos de profesionales de la belleza y luce unas uñas espectaculares con una manicura con esmaltado o francesa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Masaje del tejido profundo que ayuda a tonificar y desintoxicar áreas propensas a la celulitis"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Hidratación Facial Con Mascara Modelante", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento facial, limpia, exfolia e hidrata. La Máscara de Algas aporta hidratación a la vez que desintoxica la piel. Además, al estar en formato alginato (plástica) ejerce una acción oclusiva favoreciendo la penetración de los principios activos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Peeling E Hidratación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Exfoliación natural con la Esponja de Luffa seguida de un masaje realizado con el Aceite de Almedras. Un masaje enérgico realizado con esponja de Luffa predispone la piel para absorber más rápidamente los principios activos de los cosméticos que apliquemos posteriormente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Elimina la grasa localizada con el tratamiento corporal de cavitación con una duración de 40 minutos junto con un tratamiento de presoterapia de 25 minutos de duración."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal Reafirmante", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Exfoliación corporal con sales hidratantes seguido de un masaje hidratante y reafirmante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene De Espalda", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Higiene de Espalda Profunda. Limpieza, exfoliación, vapor, extracción, masaje, mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Benestar", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Te ayudamos a mantener intacta tu belleza con un completísimo tratamiento facial de última generación que dará luz a tu cutis eliminando cualquier imperfección.."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Hidratación", 
+            "duration": 3600, 
+            "price": "57 € ", 
+            "description": "La higiene facial realizada en cabina por una profesional es un básico de la estética por sí misma pues una piel bella debe estar limpia y además porque es el paso previo imprescindible antes de todo tratamiento específico facial o antiaging."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Tratamiento Específico", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "Comenzamos con el desmaquillado para seguir con la exfoliación, el vapor, la extracción, aplicación de principios activos, la crema específica, mascarilla específica y crema finalizadora. Todos los productos irán acorde con el tipo de piel, pudiendo aplicarse tratamiento de vitamina C, colágeno o regeneración."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Personalizada Con Trat. Antiaging", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Tratamiento Facial de 70' . Se trata de una higiene facial personalizada seguida de una apatología facial, pudiendo escoger entre: Mesoterapia Virtual, Radiofrecuencia..."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Masaje del tejido profundo que ayuda a tonificar y desintoxicar áreas propensas a la celulitis"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Masaje del tejido profundo que ayuda a tonificar y desintoxicar áreas propensas a la celulitis. La duración del servicio es de 40 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal Circulario", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "Masaje de presión media que combina pasos de drenaje linfático manual y circulatorios, con masaje sueco. Ideal para piernas cansadas, con problemas circulatorios y/o tensión muscular. Se puede combinar con presoterapia para potenciar resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Facial Drenaje Linfático", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Tratamiento facial alternativo a la mesoterapia tradicional para la introducción de principios activos. Efectos: Hidratación profunda de la piel. Luminosidad. Efecto flash. Regeneración celular."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "61 € ", 
+            "description": "Elimina las impurezas y células muertas y reduce el efecto de las cicatrices y arrugas con la microdermoabrasión. Se trata de un peeling poco agresivo con el que conseguirás una tez suave, limpia y joven."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Con Luffa Y Masaje Aceite Argán", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento corporal con esponja natural de Luffa para eliminar las células muertas de la piel y activar el riego sanguíneo seguido de masaje con aceite de Argán con propiedades regenerantes e hidratantes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Corporal", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Con este tratamiento corporal podrás reducir o eliminar la celulitis, reducir la hinchazón e inflamación y aliviar la fatiga de las piernas. Cuida tu cuerpo con nuestros profesionales. Este servicio tiene una duración de 25 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Reafirmación de la piel. Redefinición del óvalo facial. Técnica no quirúrgica que se basa en un sistema de múltiples frecuencias atérmicas que combina distintas ondas de calor, que permite obtener de forma fácil, resultados rápidos y duraderos sobre la piel, sin dolor y sin necesidad de aplicar anestesia. Actúa sobre la piel a nivel de dermis profunda y capas subdérmicas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Cavitación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Las ondas de cavitación crean en el líquido intersticial una innumerable cantidad de micro-burbujas que se agrandan paulatinamente. Este agrandamiento progresivo culmina con la implosión de las burbujas. Esta implosión genera ondas de choque que a su vez causan la destrucción de las células grasas.Con ello conseguimos transformar la grasa en una sustancia líquida que eliminaremos de manera natural a través del sistema linfático"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Cryolipolisis", 
+            "duration": 1800, 
+            "price": "130 € ", 
+            "description": "La Cryolipólisis es un nuevo método no invasivo de reducción de grasa en áreas corporales localizadas como el abdomen, los flancos, las cartucheras, cara interna de las rodillas, la espalda."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Electrolipo", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Reducción de volumen mediante Luz láser de diodo de baja intendidad y Bioestimulación"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Jamutrón", 
+            "duration": 2700, 
+            "price": "31 € ", 
+            "description": "Se basa en un flujo mínimo de corrientes bio-eléctricas que producen un movimiento muscular específico que aprovechamos como terapia, para actuar sobre el cuerpo a nivel metabólico, realizando un trabajo a tres niveles: Linfático, contra la celulitis y reafirmando músculo y tejido."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Jamutrón Con Masaje", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Se basa en un flujo mínimo de corrientes bio-eléctricas que producen un movimiento muscular específico que aprovechamos como terapia, para actuar sobre el cuerpo a nivel metabólico, realizando un trabajo a tres niveles: Linfático, contra la celulitis y reafirmando músculo y tejido."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Lipolaser 2 Zonas", 
+            "duration": 1800, 
+            "price": "70 € ", 
+            "description": "El tratamiento ofrece beneficios tales como la reducción de volumen mediante luz, estimula el metabolismo de la grasa de forma natural, remodela la silueta de forma rápida, segura y eficaz, y sus efectos son visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Mímate", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "El tratamiento es un mimo para la piel del cuerpo. Combina los beneficios propios del masaje con las características propias de las envolturas frutales. Ideal para reglar o para regalarse a sí mismo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Oro Líquido", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Exfoliación corporal con azúcar moreno y masaje con aceite de Argán."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Presoterapia", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "La presoterapia es un método terapéutico natural que, a través de un masaje realizado mediante presiones aeróbicas, estimula la circulación mediante la aplicación de presiones sobre las distintas partes del cuerpo. Ayuda a tratar la celulitis, moldear el cuerpo y eliminar toxinas; al mismo tiempo que corrige distintas alteraciones del sistema circulatorio. Se complementa perfectamente con otras técnicas para atacar más en profundad estos problemas estéticos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Presoterapia Con Masaje", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "La presoterapia es un método terapéutico natural que, a través de un masaje realizado mediante presiones aeróbicas, estimula la circulación mediante la aplicación de presiones sobre las distintas partes del cuerpo. Ayuda a tratar la celulitis, moldear el cuerpo y eliminar toxinas; al mismo tiempo que corrige distintas alteraciones del sistema circulatorio. Se complementa perfectamente con otras técnicas para atacar más en profundad estos problemas estéticos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "33 € ", 
+            "description": "La radiofrecuencia es un tipo de emisión dentro del espectro de ondas electromagnéticas que está comprendida entre los infrarrojos y las ondas largas. El objetivo en el campo de la estética es llegar a producir un efecto térmico sin ser ablativo. Para ello se usan las radiofrecuenas de onda media y de onda corta. Este calentamiento se consigue gracias al movimiento rotacional de las moléculas de agua en campos electromagnéticos. Las moléculas de agua producen un efecto mecánico (fricción) que se convierte e"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Radiofrecuencia", 
+            "duration": 2700, 
+            "price": "43 € ", 
+            "description": "La radiofrecuencia es un tipo de emisión dentro del espectro de ondas electromagnéticas que está comprendida entre los infrarrojos y las ondas largas. El objetivo en el campo de la estética es llegar a producir un efecto térmico sin ser ablativo. Para ello se usan las radiofrecuenas de onda media y de onda corta. Este calentamiento se consigue gracias al movimiento rotacional de las moléculas de agua en campos electromagnéticos. Las moléculas de agua producen un efecto mecánico (fricción) que se convierte e"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "53 € ", 
+            "description": "La radiofrecuencia es un tipo de emisión dentro del espectro de ondas electromagnéticas que está comprendida entre los infrarrojos y las ondas largas. El objetivo en el campo de la estética es llegar a producir un efecto térmico sin ser ablativo. Para ello se usan las radiofrecuenas de onda media y de onda corta. Este calentamiento se consigue gracias al movimiento rotacional de las moléculas de agua en campos electromagnéticos. Las moléculas de agua producen un efecto mecánico (fricción) que se convierte e"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Acné", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Protocolo para tratar el acné comedoniano y el acné inflamatorio mediante ácidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Ácido Glicólico", 
+            "duration": 1800, 
+            "price": "67 € ", 
+            "description": "Con este compuesto podrás aclarar las machas en tu cuello, escote y rostro, así como reducir las arrugas finas. Cuida tu piel con los expertos en el ámbito de la estética."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Con Oxígeno Puro", 
+            "duration": 3600, 
+            "price": "67 € ", 
+            "description": "Rejuvenece tu piel con el tratamiento con oxígeno puro. Tu piel conseguirá hidratación, elasticidad y tersura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Contorno Ojos", 
+            "duration": 2700, 
+            "price": "52 € ", 
+            "description": "Tratamiento cutáneo con oxígeno-estimulación. Haz que tu piel respire. Sus propiedades están más que comprobadas y es el tratamiento de moda entre celebrities, como Madonna. Conseguirás una piel de alfombra roja: luminosa, hidratada y oxigenada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial De Belleza", 
+            "duration": 1800, 
+            "price": "26 € ", 
+            "description": "Tratamientos Faciales para realizar entre los intervalos en el tiempo de las Higienes Faciales. La realización de estos tratamientos, además de ofrecernos su particular acción, ayudan a mantener la piel limpia más tiempo.También, algunos de ellos, son ideales para realizar en ocasiones especiales. Cuando se desea lucir una piel más bella y no es oportuno y/o necesario realizar la Higiene Facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidratante Con Velo De Colágeno", 
+            "duration": 3600, 
+            "price": "53 € ", 
+            "description": "Este servicio se trata de una hidratación profunda con el que conseguirás un efecto iluminador y regenerador gracias al Velo de Colágeno y la Vitamina C Pura. Presume de una piel cuidada y sana con profesionales en estética y belleza."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidratante De Algas Marinas", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "Con este tratamiento con algas marinas conseguirás una tez con efecto tensor y modelante. Siéntete guapa y presume de una piel hidratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidravit", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Exfoliación con biopeeling seguido de una hidratación con vitaminas y aloe vera."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Rejuvenecimiento Dermico Ellipse", 
+            "duration": 1800, 
+            "price": "130 € ", 
+            "description": "Tratamiento facial indicado para todo tipo de pieles. Activa el propio colágeno de la piel, consiguiendo una regeneración celular. Eliminación de manchas solares. Con varias sesiones conseguiremos un aspecto más rejuvenecido."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Hidratación Facial Con Mascara Modelante", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento facial, limpia, exfolia e hidrata. La Máscara de Algas aporta hidratación a la vez que desintoxica la piel. Además, al estar en formato alginato (plástica) ejerce una acción oclusiva favoreciendo la penetración de los principios activos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Peeling E Hidratación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Exfoliación natural con la Esponja de Luffa seguida de un masaje realizado con el Aceite de Almedras. Un masaje enérgico realizado con esponja de Luffa predispone la piel para absorber más rápidamente los principios activos de los cosméticos que apliquemos posteriormente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Elimina la grasa localizada con el tratamiento corporal de cavitación con una duración de 40 minutos junto con un tratamiento de presoterapia de 25 minutos de duración."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Corporal Reafirmante", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Exfoliación corporal con sales hidratantes seguido de un masaje hidratante y reafirmante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene De Espalda", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Higiene de Espalda Profunda. Limpieza, exfoliación, vapor, extracción, masaje, mascarilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Benestar", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Te ayudamos a mantener intacta tu belleza con un completísimo tratamiento facial de última generación que dará luz a tu cutis eliminando cualquier imperfección.."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Con Hidratación", 
+            "duration": 3600, 
+            "price": "57 € ", 
+            "description": "La higiene facial realizada en cabina por una profesional es un básico de la estética por sí misma pues una piel bella debe estar limpia y además porque es el paso previo imprescindible antes de todo tratamiento específico facial o antiaging."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Con Tratamiento Específico", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "Comenzamos con el desmaquillado para seguir con la exfoliación, el vapor, la extracción, aplicación de principios activos, la crema específica, mascarilla específica y crema finalizadora. Todos los productos irán acorde con el tipo de piel, pudiendo aplicarse tratamiento de vitamina C, colágeno o regeneración."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Hidratación Facial Con Mascara Modelante", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento facial, limpia, exfolia e hidrata. La Máscara de Algas aporta hidratación a la vez que desintoxica la piel. Además, al estar en formato alginato (plástica) ejerce una acción oclusiva favoreciendo la penetración de los principios activos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Peeling E Hidratación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Exfoliación natural con la Esponja de Luffa seguida de un masaje realizado con el Aceite de Almedras. Un masaje enérgico realizado con esponja de Luffa predispone la piel para absorber más rápidamente los principios activos de los cosméticos que apliquemos posteriormente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Elimina la grasa localizada con el tratamiento corporal de cavitación con una duración de 40 minutos junto con un tratamiento de presoterapia de 25 minutos de duración."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Exfoliación Corporal Reafirmante", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Exfoliación corporal con sales hidratantes seguido de un masaje hidratante y reafirmante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene De Espalda", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Higiene de Espalda Profunda. Limpieza, exfoliación, vapor, extracción, masaje, mascarilla."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Benestar", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Te ayudamos a mantener intacta tu belleza con un completísimo tratamiento facial de última generación que dará luz a tu cutis eliminando cualquier imperfección.."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Con Hidratación", 
+            "duration": 3600, 
+            "price": "57 € ", 
+            "description": "La higiene facial realizada en cabina por una profesional es un básico de la estética por sí misma pues una piel bella debe estar limpia y además porque es el paso previo imprescindible antes de todo tratamiento específico facial o antiaging."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Con Tratamiento Específico", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "Comenzamos con el desmaquillado para seguir con la exfoliación, el vapor, la extracción, aplicación de principios activos, la crema específica, mascarilla específica y crema finalizadora. Todos los productos irán acorde con el tipo de piel, pudiendo aplicarse tratamiento de vitamina C, colágeno o regeneración."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Personalizada Con Trat. Antiaging", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Tratamiento Facial de 70' . Se trata de una higiene facial personalizada seguida de una apatología facial, pudiendo escoger entre: Mesoterapia Virtual, Radiofrecuencia..."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Masaje del tejido profundo que ayuda a tonificar y desintoxicar áreas propensas a la celulitis"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Masaje del tejido profundo que ayuda a tonificar y desintoxicar áreas propensas a la celulitis. La duración del servicio es de 40 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Corporal Circulario", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "Masaje de presión media que combina pasos de drenaje linfático manual y circulatorios, con masaje sueco. Ideal para piernas cansadas, con problemas circulatorios y/o tensión muscular. Se puede combinar con presoterapia para potenciar resultados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Corporal Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Corporal Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Facial Drenaje Linfático", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Tratamiento facial alternativo a la mesoterapia tradicional para la introducción de principios activos. Efectos: Hidratación profunda de la piel. Luminosidad. Efecto flash. Regeneración celular."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "61 € ", 
+            "description": "Elimina las impurezas y células muertas y reduce el efecto de las cicatrices y arrugas con la microdermoabrasión. Se trata de un peeling poco agresivo con el que conseguirás una tez suave, limpia y joven."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal Con Luffa Y Masaje Aceite Argán", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento corporal con esponja natural de Luffa para eliminar las células muertas de la piel y activar el riego sanguíneo seguido de masaje con aceite de Argán con propiedades regenerantes e hidratantes."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia Corporal", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Con este tratamiento corporal podrás reducir o eliminar la celulitis, reducir la hinchazón e inflamación y aliviar la fatiga de las piernas. Cuida tu cuerpo con nuestros profesionales. Este servicio tiene una duración de 25 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Reafirmación de la piel. Redefinición del óvalo facial. Técnica no quirúrgica que se basa en un sistema de múltiples frecuencias atérmicas que combina distintas ondas de calor, que permite obtener de forma fácil, resultados rápidos y duraderos sobre la piel, sin dolor y sin necesidad de aplicar anestesia. Actúa sobre la piel a nivel de dermis profunda y capas subdérmicas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Cavitación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Las ondas de cavitación crean en el líquido intersticial una innumerable cantidad de micro-burbujas que se agrandan paulatinamente. Este agrandamiento progresivo culmina con la implosión de las burbujas. Esta implosión genera ondas de choque que a su vez causan la destrucción de las células grasas.Con ello conseguimos transformar la grasa en una sustancia líquida que eliminaremos de manera natural a través del sistema linfático"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Cryolipolisis", 
+            "duration": 1800, 
+            "price": "130 € ", 
+            "description": "La Cryolipólisis es un nuevo método no invasivo de reducción de grasa en áreas corporales localizadas como el abdomen, los flancos, las cartucheras, cara interna de las rodillas, la espalda."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Electrolipo", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Reducción de volumen mediante Luz láser de diodo de baja intendidad y Bioestimulación"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Jamutrón", 
+            "duration": 2700, 
+            "price": "31 € ", 
+            "description": "Se basa en un flujo mínimo de corrientes bio-eléctricas que producen un movimiento muscular específico que aprovechamos como terapia, para actuar sobre el cuerpo a nivel metabólico, realizando un trabajo a tres niveles: Linfático, contra la celulitis y reafirmando músculo y tejido."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Jamutrón Con Masaje", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Se basa en un flujo mínimo de corrientes bio-eléctricas que producen un movimiento muscular específico que aprovechamos como terapia, para actuar sobre el cuerpo a nivel metabólico, realizando un trabajo a tres niveles: Linfático, contra la celulitis y reafirmando músculo y tejido."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Lipolaser 2 Zonas", 
+            "duration": 1800, 
+            "price": "70 € ", 
+            "description": "El tratamiento ofrece beneficios tales como la reducción de volumen mediante luz, estimula el metabolismo de la grasa de forma natural, remodela la silueta de forma rápida, segura y eficaz, y sus efectos son visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Mímate", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "El tratamiento es un mimo para la piel del cuerpo. Combina los beneficios propios del masaje con las características propias de las envolturas frutales. Ideal para reglar o para regalarse a sí mismo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Oro Líquido", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Exfoliación corporal con azúcar moreno y masaje con aceite de Argán."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Presoterapia", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "La presoterapia es un método terapéutico natural que, a través de un masaje realizado mediante presiones aeróbicas, estimula la circulación mediante la aplicación de presiones sobre las distintas partes del cuerpo. Ayuda a tratar la celulitis, moldear el cuerpo y eliminar toxinas; al mismo tiempo que corrige distintas alteraciones del sistema circulatorio. Se complementa perfectamente con otras técnicas para atacar más en profundad estos problemas estéticos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Presoterapia Con Masaje", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "La presoterapia es un método terapéutico natural que, a través de un masaje realizado mediante presiones aeróbicas, estimula la circulación mediante la aplicación de presiones sobre las distintas partes del cuerpo. Ayuda a tratar la celulitis, moldear el cuerpo y eliminar toxinas; al mismo tiempo que corrige distintas alteraciones del sistema circulatorio. Se complementa perfectamente con otras técnicas para atacar más en profundad estos problemas estéticos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "33 € ", 
+            "description": "La radiofrecuencia es un tipo de emisión dentro del espectro de ondas electromagnéticas que está comprendida entre los infrarrojos y las ondas largas. El objetivo en el campo de la estética es llegar a producir un efecto térmico sin ser ablativo. Para ello se usan las radiofrecuenas de onda media y de onda corta. Este calentamiento se consigue gracias al movimiento rotacional de las moléculas de agua en campos electromagnéticos. Las moléculas de agua producen un efecto mecánico (fricción) que se convierte e"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Hidratación Facial Con Mascara Modelante", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento facial, limpia, exfolia e hidrata. La Máscara de Algas aporta hidratación a la vez que desintoxica la piel. Además, al estar en formato alginato (plástica) ejerce una acción oclusiva favoreciendo la penetración de los principios activos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Peeling E Hidratación", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Exfoliación natural con la Esponja de Luffa seguida de un masaje realizado con el Aceite de Almedras. Un masaje enérgico realizado con esponja de Luffa predispone la piel para absorber más rápidamente los principios activos de los cosméticos que apliquemos posteriormente."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Elimina la grasa localizada con el tratamiento corporal de cavitación con una duración de 40 minutos junto con un tratamiento de presoterapia de 25 minutos de duración."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Exfoliación Corporal Reafirmante", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Exfoliación corporal con sales hidratantes seguido de un masaje hidratante y reafirmante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene De Espalda", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "Higiene de Espalda Profunda. Limpieza, exfoliación, vapor, extracción, masaje, mascarilla."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Benestar", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Te ayudamos a mantener intacta tu belleza con un completísimo tratamiento facial de última generación que dará luz a tu cutis eliminando cualquier imperfección.."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Hidratación", 
+            "duration": 3600, 
+            "price": "57 € ", 
+            "description": "La higiene facial realizada en cabina por una profesional es un básico de la estética por sí misma pues una piel bella debe estar limpia y además porque es el paso previo imprescindible antes de todo tratamiento específico facial o antiaging."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Tratamiento Específico", 
+            "duration": 3600, 
+            "price": "46,5 € ", 
+            "description": "Comenzamos con el desmaquillado para seguir con la exfoliación, el vapor, la extracción, aplicación de principios activos, la crema específica, mascarilla específica y crema finalizadora. Todos los productos irán acorde con el tipo de piel, pudiendo aplicarse tratamiento de vitamina C, colágeno o regeneración."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Personalizada Con Trat. Antiaging", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Tratamiento Facial de 70' . Se trata de una higiene facial personalizada seguida de una apatología facial, pudiendo escoger entre: Mesoterapia Virtual, Radiofrecuencia..."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Masaje del tejido profundo que ayuda a tonificar y desintoxicar áreas propensas a la celulitis"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Masaje del tejido profundo que ayuda a tonificar y desintoxicar áreas propensas a la celulitis. La duración del servicio es de 40 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Corporal Circulario", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "Masaje de presión media que combina pasos de drenaje linfático manual y circulatorios, con masaje sueco. Ideal para piernas cansadas, con problemas circulatorios y/o tensión muscular. Se puede combinar con presoterapia para potenciar resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Corporal Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Corporal Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Facial Drenaje Linfático", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Manipulaciones especificas que movilizan la linfa consiguiendo mejorar la retención de líquidos, favoreciendo la eliminación de toxinas. Ideal para post-operatorios y problemas de varices. Combinado con la presoterapia potenciamos su resultado."
+        }
+    ]
+}

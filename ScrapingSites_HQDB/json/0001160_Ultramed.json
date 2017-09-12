@@ -1,0 +1,108 @@
+{
+    "adid": null, 
+    "name": "Ultramed", 
+    "name_of_contact": "Ultramed", 
+    "scrape_page": "https://www.bucmi.com/ultramed", 
+    "business_website": "https://www.bucmi.com/ultramed", 
+    "areas_covered": null, 
+    "description": "Centro especializado en terapias naturales. En Ultramed encontrarás un espacio de tranquilidad y confort. Ofrecemos tratamientos alternativos que van más alla de la medicina tradicional, tenemos más de 18 años de experiencia, te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810321732666203.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810321776728559.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810321816885666.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810321898916671.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810321998449821.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635810322032043449.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08009", 
+    "formatted_address": "Barcelona, 08028, Barcelona, Barcelona, Barcelona, 08009", 
+    "country": "es", 
+    "office_number": "934879648", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3938860000", 
+    "longitude": "2.1714835000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968331036902162.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Reflexología", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Te sentirás como nuevo después de disfrutar de este servicio de masaje mediante la técnica de la reflexología. Relájate al mismo tiempo que te libras de las molestias corporales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante O Descontracturante", 
+            "duration": 1800, 
+            "price": "37 € ", 
+            "description": "Ponte en manos de nuestros especialistas del masaje para librarte del estrés, la tensión y las contracturas con un masaje relajante o descontracturante a elegir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Acupuntura", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Consiste en insertar una serie de agujas muy finas en la piel del paciente, a distintas profundidades, para estimular puntos específicos del cuerpo, con el fin de restaurar el flujo y equilibrio de energía en el interior del organismo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Se denomina drenaje linfático manual a la técnica que activa la movilización de líquidos de los tejidos, mejorando estados acumulativos, procurando la mejor captación de estos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Se denomina drenaje linfático manual a la técnica que activa la movilización de líquidos de los tejidos, mejorando estados acumulativos, procurando la mejor captación de estos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexología", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Te sentirás como nuevo después de disfrutar de este servicio de masaje mediante la técnica de la reflexología. Relájate al mismo tiempo que te libras de las molestias corporales."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante O Descontracturante", 
+            "duration": 1800, 
+            "price": "37 € ", 
+            "description": "Ponte en manos de nuestros especialistas del masaje para librarte del estrés, la tensión y las contracturas con un masaje relajante o descontracturante a elegir."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Neurosedante", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Técnicas manuales realizadas con presión con aceites esenciales. Relaja tu sistema neurológico y el resto de tu cuerpo en menos de una hora."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Se denomina drenaje linfático manual a la técnica que activa la movilización de líquidos de los tejidos, mejorando estados acumulativos, procurando la mejor captación de estos."
+        }
+    ]
+}

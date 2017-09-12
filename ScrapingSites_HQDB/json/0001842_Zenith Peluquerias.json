@@ -1,0 +1,237 @@
+{
+    "adid": null, 
+    "name": "Zenith Peluquerías", 
+    "name_of_contact": "Zenith Peluquerías", 
+    "scrape_page": "https://www.bucmi.com/peluqueriaszenith", 
+    "business_website": "https://www.bucmi.com/peluqueriaszenith", 
+    "areas_covered": null, 
+    "description": "Peluquería Unisex en Valladolid, profesionales con años de experiencia en todo tipo de peinados, cortes o tintes para todo tipo de usuarios. Somos especialistas en recogidos y peinados de novia, para que luzcas perfecta y sin preocupaciones. Te esperamos", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635530305746250889.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635851784195298361.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "13", 
+    "hqdb_review_score": "9,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Paraiso, 10", 
+    "city": "Valladolid", 
+    "zipcode": "47003", 
+    "formatted_address": "C/ Paraiso, 10, Valladolid, 47003", 
+    "country": "es", 
+    "office_number": "983203703", 
+    "office_number2": null, 
+    "mobile_number": "647681387", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6543001000", 
+    "longitude": "-4.7208213999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961610742649071.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Moldeado Pelo Corto", 
+            "duration": 3600, 
+            "price": "24,6 € ", 
+            "description": "Este tipo de permanente suave te permite crear unas ondas totalmente naturales . Se realiza poniendo menos moldes y con un grosor y tamaño mayor creando unas ondas más bonitas, abiertas y con un aspecto muy natural. Incluye lavado y peinado liso."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "16,7 € ", 
+            "description": "Saca un mejor partido a tu melena y luce un bonito cabello con este peinado para pelo corto , dónde trabajamos el cabello para dejarlo más dócil , suelto y con personalidad. El servicio además incluye el lavado y el peinado con puntas arriba y espuma para fijar. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Baño De Color Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,3 € ", 
+            "description": "Un baño de color, el servicio perfecto si quieres cambiar de look sutilmente o quieres cubrir esas nuevas canas que has descubierto en tu melena. Opta por un color natural para dar brillo a tu melena o arriesga un poquito más con un color más atrevido e impacta con tu nuevo cambio de look. El servicio incluye lavado y peinado liso"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Media Melena", 
+            "duration": 7200, 
+            "price": "73,75 € ", 
+            "description": "Disfruta de una melena lisa, manejable en el peinado y sin encrespamiento gracias a nuestro completo servicio de alisado, en el que domarás tus rizos de una manera eficaz y sin dañar tu cabello. Haz tu reserva en Peluquería Zenith y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Pelo Corto", 
+            "duration": 5400, 
+            "price": "61,25 € ", 
+            "description": "Disfruta de una melena lisa, manejable en el peinado y sin encrespamiento gracias a nuestro completo servicio de alisado, en el que domarás tus rizos de una manera eficaz y sin dañar tu cabello. Haz tu reserva en Peluquería Zenith y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Pelo Extralargo", 
+            "duration": 9000, 
+            "price": "130 € ", 
+            "description": "Disfruta de una melena lisa, manejable en el peinado y sin encrespamiento gracias a nuestro completo servicio de alisado, en el que domarás tus rizos de una manera eficaz y sin dañar tu cabello. Haz tu reserva en Peluquería Zenith y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Pelo Largo", 
+            "duration": 9000, 
+            "price": "86,25 € ", 
+            "description": "Disfruta de una melena lisa, manejable en el peinado y sin encrespamiento gracias a nuestro completo servicio de alisado, en el que domarás tus rizos de una manera eficaz y sin dañar tu cabello. Haz tu reserva en Peluquería Zenith y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Pelo Corto Completo", 
+            "duration": 3600, 
+            "price": "24,5 € ", 
+            "description": "Un baño de color, el servicio perfecto si quieres cambiar de look sutilmente o quieres cubrir esas nuevas canas que has descubierto en tu melena. Opta por un color natural para dar brillo a tu melena o arriesga un poquito más con un color más atrevido e impacta con tu nuevo cambio de look. El servicio incluye lavado, peinado con forma y producto necesario"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Pelo Largo", 
+            "duration": 3600, 
+            "price": "23,3 € ", 
+            "description": "Un baño de color, el servicio perfecto si quieres cambiar de look sutilmente o quieres cubrir esas nuevas canas que has descubierto en tu melena. Opta por un color natural para dar brillo a tu melena o arriesga un poquito más con un color más atrevido e impacta con tu nuevo cambio de look. El servicio incluye lavado y peinado liso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Pelo Largo Completo", 
+            "duration": 3600, 
+            "price": "30,5 € ", 
+            "description": "Un baño de color, el servicio perfecto si quieres cambiar de look sutilmente o quieres cubrir esas nuevas canas que has descubierto en tu melena. Opta por un color natural para dar brillo a tu melena o arriesga un poquito más con un color más atrevido e impacta con tu nuevo cambio de look. El servicio incluye lavado, peinado con forma y producto necesario"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Con Peinado", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¿Unas mechas de lo más chic? Estas son las mechas que buscabas. Aplicamos un productos de puntas a medios creando un degradado potente aportando luz a tu rostro. El servicio incluye lavado con mechas y peinado liso. En caso de pelo extralargo consulte con el profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Corto Un Color Con Peinado", 
+            "duration": 5400, 
+            "price": "27,2 € ", 
+            "description": "Unas mechas aportan luminosidad y vida a tu cabello, además de ser un servicio de total tendencia, Puedes escoger más o menos cantidad y decantarte por una mecha más gruesa o fina dependiendo el resultado que pretendas conseguir. El servicio incluye el lavado las mechas de plata y el peinado liso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Largo Un Color Con Peinado", 
+            "duration": 7200, 
+            "price": "39,1 € ", 
+            "description": "Unas mechas aportan luminosidad y vida a tu cabello, además de ser un servicio de total tendencia, Puedes escoger más o menos cantidad y decantarte por una mecha más gruesa o fina dependiendo el resultado que pretendas conseguir. El servicio incluye el lavado las mechas de plata y el peinado liso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Media Melena Un Color", 
+            "duration": 5400, 
+            "price": "29,9 € ", 
+            "description": "Unas mechas aportan luminosidad y vida a tu cabello, además de ser un servicio de total tendencia, Puedes escoger más o menos cantidad y decantarte por una mecha más gruesa o fina dependiendo el resultado que pretendas conseguir. El servicio incluye el lavado las mechas de plata y el peinado liso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Pelo Corto", 
+            "duration": 3600, 
+            "price": "24,6 € ", 
+            "description": "Este tipo de permanente suave te permite crear unas ondas totalmente naturales . Se realiza poniendo menos moldes y con un grosor y tamaño mayor creando unas ondas más bonitas, abiertas y con un aspecto muy natural. Incluye lavado y peinado liso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Pelo Corto Completo", 
+            "duration": 3600, 
+            "price": "31,8 € ", 
+            "description": "¡Descubre las ondas de moda! Este tipo de permanente suave te permite crear unas ondas totalmente naturales . Se realiza poniendo menos moldes y con un grosor y tamaño mayor creando unas ondas más bonitas, abiertas y con un aspecto muy natural. El servicio incluye lavado, peinado con forma y producto necesario."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Pelo Largo", 
+            "duration": 3600, 
+            "price": "37,4 € ", 
+            "description": "Decídete por un look de total tendencia. Este tipo de permanente suave te permite crear unas ondas totalmente naturales . Se realiza poniendo menos moldes y con un grosor y tamaño mayor creando unas ondas más bonitas, abiertas y con un aspecto muy natural. Incluye lavado y peinado liso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Pelo Largo Completo", 
+            "duration": 3600, 
+            "price": "44,6 € ", 
+            "description": "¿Quieres conseguir unas ondas de revista?Este tipo de permanente suave te permite crear unas ondas totalmente naturales . Se realiza poniendo menos moldes y con un grosor y tamaño mayor creando unas ondas más bonitas, abiertas y con un aspecto muy natural. El servicio incluye lavado, peinado con forma y producto necesario."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Pelo Muy Largo", 
+            "duration": 3600, 
+            "price": "43,1 € ", 
+            "description": "Unas ondas que causarán furor. Este tipo de permanente suave te permite crear unas ondas totalmente naturales . Se realiza poniendo menos moldes y con un grosor y tamaño mayor creando unas ondas más bonitas, abiertas y con un aspecto muy natural. Incluye lavado y peinado liso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Pelo Muy Largo Completo", 
+            "duration": 3600, 
+            "price": "50,3 € ", 
+            "description": "¿Un look de lo más chic? Este tipo de permanente suave te permite crear unas ondas totalmente naturales . Se realiza poniendo menos moldes y con un grosor y tamaño mayor creando unas ondas más bonitas, abiertas y con un aspecto muy natural. El servicio incluye lavado, peinado con forma y producto necesario."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "20,3 € ", 
+            "description": "Saca un mejor partido a tu melena y luce un bonito cabello con este peinado para pelo largo , dónde trabajamos el cabello para dejarlo más dócil , suelto y con personalidad. El servicio además incluye el lavado y el peinado con puntas arriba y espuma para fijar. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Media Melena", 
+            "duration": 2700, 
+            "price": "18,4 € ", 
+            "description": "Saca un mejor partido a tu melena y luce un bonito cabello con este peinado para media melena , dónde trabajamos el cabello para dejarlo más dócil , suelto y con personalidad. El servicio además incluye el lavado y el peinado con puntas arriba y espuma para fijar. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 7200, 
+            "price": "36,4 € ", 
+            "description": "¿Tienes un evento especial?¿Quieres lucir un look diferente e impresionar a todos? Arriesga un poco más y decídete por un recogido completo, realizado por nuestros profesionales quienes te asesorarán para que el recogido se adapte totalmente a tus gustos y estilo. El servicio incluye lavado, productos y aparatologia necesaria."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "¿Tienes un evento especial?¿Quieres lucir un look diferente e impresionar a todos? Decídete por un semirecogido realizado por nuestros profesionales quienes te asesorarán para que el semirecogido se adapte totalmente a tus gustos y estilo. El servicio incluye lavado, productos y aparatologia necesaria."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Raíz Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,9 € ", 
+            "description": "Renueva tu color con este servicio de tinte raíz en pelo largo. Puedes mejorar tu look y lucir una melena perfecta. No esperes más, este servicio incluye lavado y peinado liso , para que salgas estupenda de nuestro centro lista para cualquier ocasión. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Raíz Pelo Largo", 
+            "duration": 5400, 
+            "price": "19 € ", 
+            "description": "Renueva tu color con este servicio de tinte raíz en pelo largo. Puedes mejorar tu look y lucir una melena perfecta. No esperes más, este servicio incluye lavado y peinado liso , para que salgas estupenda de nuestro centro lista para cualquier ocasión. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "16,7 € ", 
+            "description": "Saca un mejor partido a tu melena y luce un bonito cabello con este peinado para pelo corto , dónde trabajamos el cabello para dejarlo más dócil , suelto y con personalidad. El servicio además incluye el lavado y el peinado con puntas arriba y espuma para fijar. Reserva ya con Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Pelo Corto", 
+            "duration": 3600, 
+            "price": "17,3 € ", 
+            "description": "Un baño de color, el servicio perfecto si quieres cambiar de look sutilmente o quieres cubrir esas nuevas canas que has descubierto en tu melena. Opta por un color natural para dar brillo a tu melena o arriesga un poquito más con un color más atrevido e impacta con tu nuevo cambio de look. El servicio incluye lavado y peinado liso"
+        }
+    ]
+}

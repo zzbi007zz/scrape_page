@@ -1,0 +1,107 @@
+{
+    "adid": null, 
+    "name": "Onlyou Barcelona", 
+    "name_of_contact": "Onlyou Barcelona", 
+    "scrape_page": "https://www.bucmi.com/onlyou-barcelona", 
+    "business_website": "https://www.bucmi.com/onlyou-barcelona", 
+    "areas_covered": null, 
+    "description": "El centro de peluquería y estética Onlyou situado en Sant Andreu, Barcelona, ofrece gran variedad de cortes de pelo, color, mechas, higienes faciales, depilaciones, además de servicios de uñas tales como manicuras y pedicuras. Reserva ahora online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102384948508239.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102385515684237.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102385553183410.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102385603963635.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636102385627400729.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "7,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bartrina, 15", 
+    "city": "Barcelona", 
+    "zipcode": "08027", 
+    "formatted_address": "C/ Bartrina, 15, Barcelona, 08027", 
+    "country": "es", 
+    "office_number": "935356826", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4247714000", 
+    "longitude": "2.1843668999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636102387223617819.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Y Tratamiento Facial Acné", 
+            "duration": 5400, 
+            "price": "95 € ", 
+            "description": "Renueva la piel de tu cutis y ofrécele un tratamiento renovador y ahorra reservando nuestro pack en promoción. Incluye diagnostico de la piel, desmaquillado, exfoliación, tonificación, peeling, extracción de puntos negros, comedones e impurezas, tonificación, mascarilla e hidratación, además de un tratamiento facial a elegir según las necesidades de tu piel (RE-EQUILIBRIUM, OXYGEN)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Hidratación + Peinar", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Un look corto debe mantener ese largo perfecto para deslumbrar. Mantenlo así con nuestro corte y peinado para pelo corto (por la nuca). incluye lavado con champú y crema suavizante y mascarilla especifica según tratamiento escogido, el corte de pelo y el peinado. Incluye producto de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Hidratacion + Peinar Media Melena", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Si tu media melena necesita un retoque para recuperar el movimiento y el estilo puedes reservar ahora nuestro corte de pelo también online. Incluye lavado con champú y crema suavizante y mascarilla especifica según el tratamiento que desee realizar,corte, peinado y producto de acabado. Válido para media melena hasta los hombros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Hidratacion Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Las melenas largas son muy potentes, pero si te apetece un cambio hazlo con la seguridad de estar en las mejores manos. Al reservar este servicio disfrutarás de un lavado completo (champú y crema suavizante y mascarilla especifica), un corte de pelo según tus preferencias y un peinado con productos de acabado. Válido para pelo largo por debajo de los hombros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Hidratación + Peinar", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Un look corto debe mantener ese largo perfecto para deslumbrar. Mantenlo así con nuestro corte y peinado para pelo corto (por la nuca). incluye lavado con champú y crema suavizante y mascarilla especifica según tratamiento escogido, el corte de pelo y el peinado. Incluye producto de acabado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Hidratacion + Peinar Media Melena", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Si tu media melena necesita un retoque para recuperar el movimiento y el estilo puedes reservar ahora nuestro corte de pelo también online. Incluye lavado con champú y crema suavizante y mascarilla especifica según el tratamiento que desee realizar,corte, peinado y producto de acabado. Válido para media melena hasta los hombros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Hidratacion Y Peinar Pelo Largo", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Las melenas largas son muy potentes, pero si te apetece un cambio hazlo con la seguridad de estar en las mejores manos. Al reservar este servicio disfrutarás de un lavado completo (champú y crema suavizante y mascarilla especifica), un corte de pelo según tus preferencias y un peinado con productos de acabado. Válido para pelo largo por debajo de los hombros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Hidratación + Peinar", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Un look corto debe mantener ese largo perfecto para deslumbrar. Mantenlo así con nuestro corte y peinado para pelo corto (por la nuca). incluye lavado con champú y crema suavizante y mascarilla especifica según tratamiento escogido, el corte de pelo y el peinado. Incluye producto de acabado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Hidratacion + Peinar Media Melena", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Si tu media melena necesita un retoque para recuperar el movimiento y el estilo puedes reservar ahora nuestro corte de pelo también online. Incluye lavado con champú y crema suavizante y mascarilla especifica según el tratamiento que desee realizar,corte, peinado y producto de acabado. Válido para media melena hasta los hombros."
+        }
+    ]
+}

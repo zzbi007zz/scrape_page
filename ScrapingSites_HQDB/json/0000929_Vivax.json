@@ -1,0 +1,92 @@
+{
+    "adid": null, 
+    "name": "Vivax", 
+    "name_of_contact": "Vivax", 
+    "scrape_page": "https://www.bucmi.com/vivax", 
+    "business_website": "https://www.bucmi.com/vivax", 
+    "areas_covered": null, 
+    "description": "Vivax es un centro dedicado a la fisioterapia y la podología desde hace más de 10 años. Contamos con profesionales colegiados y con gran experiencia. Te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635864700098255577.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635864700121068030.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635864700135288820.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635864700151382539.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28027", 
+    "formatted_address": "Madrid, 28027", 
+    "country": "es", 
+    "office_number": "917413192", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4462734000", 
+    "longitude": "-3.6438611999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908738143497072.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Osteopatía", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Es una terapia manual que tiene como objetivo reequilibrar y armonizar los distintos sistemas del cuerpo humano además normaliza los fluidos y las diversos músculos y ligamentos. Para más información, consulte con el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Fisioterapia", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "La fisioterapia es un tratamiento, para tratar cualquier dolencia o lesión. Realizamos masaje en una zona localizada del cuerpo para aliviar ese dolor. Ahorra tiempo y reserva tu cita online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Quiropodia", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Tratamiento podal completo para tratar cualquier patología o problema. Realizamos limado, retirada de cutículas, tratamiento de durezas, uñas encarnadas e hidratación. ¡Reserva tu cita online!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Quiropodia", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Tratamiento podal completo para tratar cualquier patología o problema. Realizamos limado, retirada de cutículas, tratamiento de durezas, uñas encarnadas e hidratación. ¡Reserva tu cita online!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Prepara tu cuerpo para una sesión deportiva y previene posibles lesiones con una sesión de nuestro masaje deportivo de una hora de duración. Ahorra tiempo y reserva ya tu cita online."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Elimina tus tensiones después de un duro día de trabajo, de las manos de los mejores profesionales. Deja que eliminemos ese estrés acumulado mediante este masaje descontracturante de una hora."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Osteopatía", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Es una terapia manual que tiene como objetivo reequilibrar y armonizar los distintos sistemas del cuerpo humano además normaliza los fluidos y las diversos músculos y ligamentos. Para más información, consulte con el centro."
+        }
+    ]
+}

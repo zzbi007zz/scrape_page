@@ -1,0 +1,170 @@
+{
+    "adid": null, 
+    "name": "Peluquerias", 
+    "name_of_contact": "Peluquerias", 
+    "scrape_page": "https://www.bucmi.com/pelucuatrocaminos", 
+    "business_website": "https://www.bucmi.com/pelucuatrocaminos", 
+    "areas_covered": null, 
+    "description": "En Cuatro Caminos, peluquería de confianza, innovadora y con una amplia experiencia en el sector. Podrás contar con todos los tratamientos básicos y más especializados para caballeros. Disfruta de la comodidad de un centro especializado sólo para él.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008335390102658.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008335393071642.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008335414680213.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008335455479466.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008335453916992.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Humanitarias, 23", 
+    "city": "Madrid", 
+    "zipcode": "28020", 
+    "formatted_address": "C/ Humanitarias, 23, Madrid, 28020", 
+    "country": "es", 
+    "office_number": "915550039", 
+    "office_number2": null, 
+    "mobile_number": "602099631", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4491735000", 
+    "longitude": "-3.7028797000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008336275474935.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Jubilado", 
+            "duration": 1800, 
+            "price": "5 € ", 
+            "description": "Peluquería Cuatro Caminos no se olvida vosotros y ofrece este precio especial para señores jubilados. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Niño", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Los más peques también quieren ir a la moda. Confía en los profesionales y corta el pelo a tus hijos por sólo 6 euros. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Hombre", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Lleva siempre tu corte de pelo perfecto o se más atrevido y arriesga por un cambio de look radical, siempre asesorado por los profesionales. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo Largo Hombre", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "Lleva siempre tu corte de pelo perfecto o se más atrevido y arriesga por un cambio de look radical, siempre asesorado por los profesionales. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "Luce el corte de pelo que elijas siempre asesorado por nuestros profesionales. El servicio incluye el corte a elegir, el peinado y los productos de acabado. No incluye lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "5 € ", 
+            "description": "¿Por qué no lucir un look elegante con barba? Ten una barba siempre perfecta y cuidada gracias a los profesionales de Peluquería Cuatro Caminos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Barba", 
+            "duration": 1800, 
+            "price": "5 € ", 
+            "description": "Consigue un afeitado perfecto realizado con el instrumento mas adecuado según tu tipo de barba y de piel. ¡Se un verdadero gentleman y luce un aspecto elegante!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "10 € ", 
+            "description": "Luce una barba y un afeitado perfecto asesorado por nuestros profesionales y utilizando el instrumento más adecuado según tu tipo de barba y el diseño que prefieras."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Afeitado De Barba", 
+            "duration": 3600, 
+            "price": "11 € ", 
+            "description": "Lleva siempre tu corte de pelo perfecto o se más atrevido y arriesga por un cambio de look radical, siempre asesorado por los profesionales. El servicio no incluye lavado porque el corte se realiza en seco. Incluye afeitado de barba."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 3600, 
+            "price": "11 € ", 
+            "description": "Lleva siempre tu corte de pelo perfecto o se más atrevido y arriesga por un cambio de look radical, siempre asesorado por los profesionales. El servicio no incluye lavado porque el corte serealiza en seco. Incluye arreglo de barba."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Jubilado", 
+            "duration": 1800, 
+            "price": "5 € ", 
+            "description": "Peluquería Cuatro Caminos no se olvida vosotros y ofrece este precio especial para señores jubilados. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Niño", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Los más peques también quieren ir a la moda. Confía en los profesionales y corta el pelo a tus hijos por sólo 6 euros. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Peinado Y Afeitado De Barba", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "Luce el corte de pelo que elijas siempre asesorado por nuestros profesionales. El servicio incluye el corte a elegir, el peinado y los productos de acabado. No incluye lavado. Incluye el afeitado de barba."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Peinado Y Arreglo De Barba", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "Luce el corte de pelo que elijas siempre asesorado por nuestros profesionales. El servicio incluye el corte a elegir, el peinado y los productos de acabado. No incluye lavado. Incluye el arreglo de barba."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Hombre", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Lleva siempre tu corte de pelo perfecto o se más atrevido y arriesga por un cambio de look radical, siempre asesorado por los profesionales. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Largo Hombre", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "Lleva siempre tu corte de pelo perfecto o se más atrevido y arriesga por un cambio de look radical, siempre asesorado por los profesionales. El servicio no incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado", 
+            "duration": 3600, 
+            "price": "10 € ", 
+            "description": "Luce el corte de pelo que elijas siempre asesorado por nuestros profesionales. El servicio incluye el corte a elegir, el peinado y los productos de acabado. No incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "5 € ", 
+            "description": "¿Por qué no lucir un look elegante con barba? Ten una barba siempre perfecta y cuidada gracias a los profesionales de Peluquería Cuatro Caminos."
+        }
+    ]
+}

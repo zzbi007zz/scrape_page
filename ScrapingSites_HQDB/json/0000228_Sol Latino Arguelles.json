@@ -1,0 +1,327 @@
+{
+    "adid": null, 
+    "name": "Sol Latino Argüelles", 
+    "name_of_contact": "Sol Latino Argüelles", 
+    "scrape_page": "https://www.bucmi.com/sollatinoarguelles", 
+    "business_website": "https://www.bucmi.com/sollatinoarguelles", 
+    "areas_covered": null, 
+    "description": "En Sol Latino disponemos de 4 solarium intensivo horizontal, 1 solarium normal horizontal, 1 solarium normal vertical y 1 solarium normal facial, total 7 cabinas de solarium y 6 cabinas de estética. Ofrecemos el mejor servicio en belleza y bienestar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654837606817446.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654837633694459.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654837697136925.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635654837718076358.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677167794706804.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677167933637540.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677168018644160.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677168069650414.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "21", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28008", 
+    "formatted_address": "Madrid, 28044, Madrid, Madrid, Madrid, 28043, Madrid, 28031, Madrid, 28007, Madrid, 28005, Madrid, Madrid, Madrid, 28033, Madrid, Madrid, Madrid, 28008", 
+    "country": "es", 
+    "office_number": "915482844", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4298283000", 
+    "longitude": "-3.7192880000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635972742269154623.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Especial Solarium Intensivo", 
+            "duration": 3600, 
+            "price": "84 € ", 
+            "description": "Sol Latino te ofrece en exclusiva un súper Bono de solarium para que disfrutes de un bronceado seguro, bonito y eficaz. El servicio incluye 76 minutos en las cabinas intensivas, para que lo uses cuando y como quieras. No caduca."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Especial Solarium Normal", 
+            "duration": 3600, 
+            "price": "84 € ", 
+            "description": "Sol Latino te ofrece en exclusiva un súper Bono de solarium para que disfrutes de un bronceado seguro, bonito y eficaz. El servicio incluye 88 minutos en las cabinas normales, para que lo uses cuando y como quieras. No caduca."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "En función de las necesidades de los clientes, la limpieza de cutis puede ser más o menos profunda, pero ante todo se adaptará el tratamiento al tipo de piel. Para proporcionar a la piel el descanso que necesita, un equipo de profesionales ayudará los clientes a obtener el resultado requerido. El servicio incluye el desmaquillado de la piel, limpieza con extracción, mascarilla y masaje, todo con productos de Alqvimia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Solarium Intensivo (10 Min)", 
+            "duration": 900, 
+            "price": "11 € ", 
+            "description": "Luce una piel más bronceada con 10 minutos de solarium intensivo en las mejores máquinas intensivas profesionales. Para más información, consulte con el centro. Recomendado para pieles bronceadas o morenas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Solarium Normal (10 Min)", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "10 minutos de solarium normal, obtendrás un moreno sin marcas, totalmente homogéneo de forma responsable. Recomendado para pieles blancas o primeras exposiciones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 8 Sesiones Tratamiento Facial Iluminador", 
+            "duration": 1800, 
+            "price": "720 € ", 
+            "description": "Este Bono de 8 sesiones incluye 8 tratamientos faciales para iluminar y dar vida a la piel del rostro. Gracias a una formula 100% natural que respecta el cutis aún el más sensible, la piel aparecerá relajada, más joven y suave."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Faciales Antiedad", 
+            "duration": 3600, 
+            "price": "480 € ", 
+            "description": "Este bono incluye 4 sesiones de tratamientos faciales antiedad que se ajusta a la piel madura y con líneas de expresión. Para este tratamiento se utilizan productos de alta calidad de la línea Alqvimia para un rejuvenecimiento inmediato."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Tto. Reductor/Reafirmante /Anticel", 
+            "duration": 3600, 
+            "price": "480 € ", 
+            "description": "Este bono incluye 4 sesiones de tratamientos Corporal, reafirmante o anticelulítico de una duración de 60 minutos. El tratamiento se adaptará a las necesidades de los clientes para conseguir los resultados requeridos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Tto. Reductor/Reafirmante /Anticel", 
+            "duration": 1800, 
+            "price": "360 € ", 
+            "description": "Este bono de 4 sesiones incluye un tratamiento Reductor, Reafirmante o Anticelulítico que ayuda a reducir la grasa y la retención de líquidos. Las 4 sesiones aportaran resultados concretos y visibles."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Especial Solarium Intensivo", 
+            "duration": 3600, 
+            "price": "84 € ", 
+            "description": "Sol Latino te ofrece en exclusiva un súper Bono de solarium para que disfrutes de un bronceado seguro, bonito y eficaz. El servicio incluye 76 minutos en las cabinas intensivas, para que lo uses cuando y como quieras. No caduca."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Especial Solarium Normal", 
+            "duration": 3600, 
+            "price": "84 € ", 
+            "description": "Sol Latino te ofrece en exclusiva un súper Bono de solarium para que disfrutes de un bronceado seguro, bonito y eficaz. El servicio incluye 88 minutos en las cabinas normales, para que lo uses cuando y como quieras. No caduca."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "En función de las necesidades de los clientes, la limpieza de cutis puede ser más o menos profunda, pero ante todo se adaptará el tratamiento al tipo de piel. Para proporcionar a la piel el descanso que necesita, un equipo de profesionales ayudará los clientes a obtener el resultado requerido. El servicio incluye el desmaquillado de la piel, limpieza con extracción, mascarilla y masaje, todo con productos de Alqvimia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling E Hidratación Corporal", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este tratamiento incluye un peeling corporal para eliminar las células muertas que conforman la parte exterior de la epidermis de la piel para que esta se vuelva mucho más joven, tersa y limpia. El tratamiento de una duración de 45 minutos se termina con un masaje y una hidratación completa del cutis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "La presoterapia es un tratamiento corporal que se utiliza normalmente para reducir o eliminar la celulitis. Con este tratamiento ayudarás a favorecer la circulación y a disminuir la retención de líquidos. Además tiene un componente estético muy bueno, combate los focos localizados de grasa para que luzcas una piel mucho más tersa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Solarium Intensivo (10 Min)", 
+            "duration": 900, 
+            "price": "11 € ", 
+            "description": "Luce una piel más bronceada con 10 minutos de solarium intensivo en las mejores máquinas intensivas profesionales. Para más información, consulte con el centro. Recomendado para pieles bronceadas o morenas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Solarium Intensivo (12 Min)", 
+            "duration": 900, 
+            "price": "13,2 € ", 
+            "description": "12 minutos de solarium intensivo en las mejores máquinas intensivas profesionales. Para más información, consulte con el centro. Recomendado para pieles bronceadas o morenas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Solarium Intensivo (15 Min)", 
+            "duration": 900, 
+            "price": "15,5 € ", 
+            "description": "15 minutos de solarium intensivo en las mejores máquinas intensivas profesionales. Para más información, consulte con el centro. Recomendado para pieles bronceadas o morenas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Solarium Normal (10 Min)", 
+            "duration": 900, 
+            "price": "9,5 € ", 
+            "description": "10 minutos de solarium normal, obtendrás un moreno sin marcas, totalmente homogéneo de forma responsable. Recomendado para pieles blancas o primeras exposiciones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Solarium Normal (12 Min)", 
+            "duration": 900, 
+            "price": "11,4 € ", 
+            "description": "12 minutos de solarium normal, obtendrás un moreno sin marcas, totalmente homogéneo de forma responsable. Recomendado para pieles blancas o primeras exposiciones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Solarium Normal (15 Min)", 
+            "duration": 900, 
+            "price": "14,25 € ", 
+            "description": "15 minutos de solarium normal, obtendrás un moreno sin marcas, totalmente homogéneo de forma responsable. Recomendado para pieles blancas o primeras exposiciones."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Para rejuvenecer la piel del rostro y para un efecto tensor inmediato, este tratamiento antiedad nutre la piel en profundidad para eliminar líneas de expresión y el paso del tiempo. El centro utiliza productos de máxima calidad de origen 100% natural para respetar la piel más sensible."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Iluminador", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "Este tratamiento específico para el rostro tiene un efecto hidratante e iluminador gracias a los principios contenidos. Esta fórmula natural llena el rostro de nueva luz, atenúa progresivamente los signos visibles del envejecimiento cutáneo y el cutis recupera tersura y equilibrio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Reductor, Reafirmante O Anticel.30Min", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "Un tratamiento corporal excepcional para remodelar el cuerpo y darle elasticidad. Un tratamiento de 30 minutos realizado basándose sobre las necesidades de los clientes. Para reducir la masa grasa y la celulitis más rápidamente el centro ofrece la máxima profesionalidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Reductor, Reafirmante O Anticel.60Min", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Se puede elegir entre un tratamiento Reductor, Reafirmante o Anticelulítico de una duración de 60 minutos según las necesidades de cada cliente. Para reducir la grasa abdominal o la celulitis y obtener un cuerpo perfecto, este es el tratamiento más indicado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Corporal Busto Push Up", 
+            "duration": 1800, 
+            "price": "80 € ", 
+            "description": "El pecho es una de las partes más delicadas del cuerpo femenino. El embarazo, la lactancia y los cambios bruscos de peso hacen que los senos caigan y pierdan su forma original. Este tratamiento de 30 minutos, gracias a una aparatología de última generación, ayuda a revitalizar y remodelar el busto."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 8 Sesiones Tratamiento Facial Iluminador", 
+            "duration": 1800, 
+            "price": "720 € ", 
+            "description": "Este Bono de 8 sesiones incluye 8 tratamientos faciales para iluminar y dar vida a la piel del rostro. Gracias a una formula 100% natural que respecta el cutis aún el más sensible, la piel aparecerá relajada, más joven y suave."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Sesiones Faciales Antiedad", 
+            "duration": 3600, 
+            "price": "480 € ", 
+            "description": "Este bono incluye 4 sesiones de tratamientos faciales antiedad que se ajusta a la piel madura y con líneas de expresión. Para este tratamiento se utilizan productos de alta calidad de la línea Alqvimia para un rejuvenecimiento inmediato."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Sesiones Tto. Reductor/Reafirmante /Anticel", 
+            "duration": 3600, 
+            "price": "480 € ", 
+            "description": "Este bono incluye 4 sesiones de tratamientos Corporal, reafirmante o anticelulítico de una duración de 60 minutos. El tratamiento se adaptará a las necesidades de los clientes para conseguir los resultados requeridos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Sesiones Tto. Reductor/Reafirmante /Anticel", 
+            "duration": 1800, 
+            "price": "360 € ", 
+            "description": "Este bono de 4 sesiones incluye un tratamiento Reductor, Reafirmante o Anticelulítico que ayuda a reducir la grasa y la retención de líquidos. Las 4 sesiones aportaran resultados concretos y visibles."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 8 Sesiones Tratamiento Facial Iluminador", 
+            "duration": 1800, 
+            "price": "720 € ", 
+            "description": "Este Bono de 8 sesiones incluye 8 tratamientos faciales para iluminar y dar vida a la piel del rostro. Gracias a una formula 100% natural que respecta el cutis aún el más sensible, la piel aparecerá relajada, más joven y suave."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 4 Sesiones Faciales Antiedad", 
+            "duration": 3600, 
+            "price": "480 € ", 
+            "description": "Este bono incluye 4 sesiones de tratamientos faciales antiedad que se ajusta a la piel madura y con líneas de expresión. Para este tratamiento se utilizan productos de alta calidad de la línea Alqvimia para un rejuvenecimiento inmediato."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 4 Sesiones Tto. Reductor/Reafirmante /Anticel", 
+            "duration": 3600, 
+            "price": "480 € ", 
+            "description": "Este bono incluye 4 sesiones de tratamientos Corporal, reafirmante o anticelulítico de una duración de 60 minutos. El tratamiento se adaptará a las necesidades de los clientes para conseguir los resultados requeridos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 4 Sesiones Tto. Reductor/Reafirmante /Anticel", 
+            "duration": 1800, 
+            "price": "360 € ", 
+            "description": "Este bono de 4 sesiones incluye un tratamiento Reductor, Reafirmante o Anticelulítico que ayuda a reducir la grasa y la retención de líquidos. Las 4 sesiones aportaran resultados concretos y visibles."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Especial Solarium Intensivo", 
+            "duration": 3600, 
+            "price": "84 € ", 
+            "description": "Sol Latino te ofrece en exclusiva un súper Bono de solarium para que disfrutes de un bronceado seguro, bonito y eficaz. El servicio incluye 76 minutos en las cabinas intensivas, para que lo uses cuando y como quieras. No caduca."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Especial Solarium Normal", 
+            "duration": 3600, 
+            "price": "84 € ", 
+            "description": "Sol Latino te ofrece en exclusiva un súper Bono de solarium para que disfrutes de un bronceado seguro, bonito y eficaz. El servicio incluye 88 minutos en las cabinas normales, para que lo uses cuando y como quieras. No caduca."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "En función de las necesidades de los clientes, la limpieza de cutis puede ser más o menos profunda, pero ante todo se adaptará el tratamiento al tipo de piel. Para proporcionar a la piel el descanso que necesita, un equipo de profesionales ayudará los clientes a obtener el resultado requerido. El servicio incluye el desmaquillado de la piel, limpieza con extracción, mascarilla y masaje, todo con productos de Alqvimia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling E Hidratación Corporal", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Este tratamiento incluye un peeling corporal para eliminar las células muertas que conforman la parte exterior de la epidermis de la piel para que esta se vuelva mucho más joven, tersa y limpia. El tratamiento de una duración de 45 minutos se termina con un masaje y una hidratación completa del cutis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "La presoterapia es un tratamiento corporal que se utiliza normalmente para reducir o eliminar la celulitis. Con este tratamiento ayudarás a favorecer la circulación y a disminuir la retención de líquidos. Además tiene un componente estético muy bueno, combate los focos localizados de grasa para que luzcas una piel mucho más tersa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Solarium Intensivo (10 Min)", 
+            "duration": 900, 
+            "price": "11 € ", 
+            "description": "Luce una piel más bronceada con 10 minutos de solarium intensivo en las mejores máquinas intensivas profesionales. Para más información, consulte con el centro. Recomendado para pieles bronceadas o morenas."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Bono 8 Sesiones Tratamiento Facial Iluminador", 
+            "duration": 1800, 
+            "price": "720 € ", 
+            "description": "Este Bono de 8 sesiones incluye 8 tratamientos faciales para iluminar y dar vida a la piel del rostro. Gracias a una formula 100% natural que respecta el cutis aún el más sensible, la piel aparecerá relajada, más joven y suave."
+        }
+    ]
+}

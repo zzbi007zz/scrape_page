@@ -1,0 +1,115 @@
+{
+    "adid": null, 
+    "name": "Arte Español Fuencarral", 
+    "name_of_contact": "Arte Español Fuencarral", 
+    "scrape_page": "https://www.bucmi.com/arteespañolfuencarral", 
+    "business_website": null, 
+    "areas_covered": null, 
+    "description": "Cadena de peluquerías donde te asesorarán sobre tu imagen. Realizamos gran variedad de servicios con una buena relación en la calidad y en los precios. Reserva con nosotros en Fuencarral, y descubre la gran variedad de ventajas que te ofrecemos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017720971666999.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017720972760857.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017720976512488.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017720977293796.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017720978387629.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636017720979169193.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Trafalgar, 16", 
+    "city": "Madrid", 
+    "zipcode": "28034", 
+    "formatted_address": "C/ Trafalgar, 16, Madrid, 28034", 
+    "country": "es", 
+    "office_number": "910826899", 
+    "office_number2": null, 
+    "mobile_number": "649961803", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4958902000", 
+    "longitude": "-3.6876631000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636017721628639819.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "9,9 € ", 
+            "description": "El servicio incluye corte en seco, asesorado por nuestros profesionales conseguiremos ese look que tanto deseas. No incluye lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "8,9 € ", 
+            "description": "El servicio incluye lavado con champú y peinado con secador. Prepárate para ese día tan especial de la mano de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer", 
+            "duration": 2700, 
+            "price": "9,9 € ", 
+            "description": "El servicio incluye lavado con champú y corte. Ven a visitarnos si quieres cambiar tu look. ¡No te lo pienses más y reserva tu cita online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "En nuestro servicio de Mechas se incluye lavado con champú y mechas, el servicio ideal si quieres devolver la luminosidad a tu cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Cambio de Color", 
+            "duration": 3600, 
+            "price": "16,8 € ", 
+            "description": "El servicio incluye lavado con champú y tinte cambio color. No incluye peinado, para finalizar el servicio realizamos secado natural."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "9,9 € ", 
+            "description": "El servicio incluye corte en seco, asesorado por nuestros profesionales conseguiremos ese look que tanto deseas. No incluye lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte, Corte y Peinado", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "El servicio incluye, Lavado, tinte, corte y peinado, el pack perfecto para que estés aún más guapa."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte y Peinado", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "El servicio incluye, lavado, mechas, corte y peinado, dale un nuevo aire a tu pelo con este servicio."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "8,9 € ", 
+            "description": "El servicio incluye lavado con champú y peinado con secador. Prepárate para ese día tan especial de la mano de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 2700, 
+            "price": "9,9 € ", 
+            "description": "El servicio incluye lavado con champú y corte. Ven a visitarnos si quieres cambiar tu look. ¡No te lo pienses más y reserva tu cita online!"
+        }
+    ]
+}

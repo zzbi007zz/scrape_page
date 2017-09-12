@@ -1,0 +1,183 @@
+{
+    "adid": null, 
+    "name": "Silvia Suárez", 
+    "name_of_contact": "Silvia Suárez", 
+    "scrape_page": "https://www.bucmi.com/silviasuarez", 
+    "business_website": "https://www.bucmi.com/silviasuarez", 
+    "areas_covered": null, 
+    "description": "Silvia Suarez, centro de peluquería y estética situado en Oviedo a unos metros de la Plaza Paz en donde podrás realizarte todo tipo de tratamientos capilares, los cortes de pelo de vanguardia, color, etc. Siéntete bien por dentro y por fuera.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635845818941030743.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635845818972436895.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635845818998558288.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635845819040901911.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Oviedo", 
+    "zipcode": "33006", 
+    "formatted_address": "Oviedo, 33009, Oviedo, 33002, Oviedo, 33013, Oviedo, 33007, Oviedo, 33006", 
+    "country": "es", 
+    "office_number": "985259539", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3569800000", 
+    "longitude": "-5.8572400000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635918439840569592.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Novia", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Nuestro pack de novias incluye: limpieza facial, maquillaje, tratamiento capilar de brillo, recogido o peinado especial, manicura y pedicura permanente shellac. Para este servicio se debe consultar previamente con el centro, ya que no se pueden realizar todos estos servicios en el mismo día."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Peluquería: 5 Peinados, 5 Tto Capilares...", 
+            "duration": 3600, 
+            "price": "68,9 € ", 
+            "description": "Nuestro bono de peluquería incluye: 5 lavados con champú específico y productos de tocador, 5 peinados y un tratamiento capilar, de la marca Monti Bello, a elegir entre los siguientes: nutritivo, hidratante, volumen, brillo y antirrotura."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Protector Antirrotura", 
+            "duration": 3600, 
+            "price": "28,9 € ", 
+            "description": "Prueba nuestro revolucionario sistema protector antirrotura que combate el daño producido por los procesos químicos. ¡Se acabó la sensación de un cabello debilitado! Ahora podemos dar coloración, o decolorar, cuantas veces queramos sin dañar nuestra melena. Incluye la aplicación del tratamiento Silatlex, lavado con champú específico, mascarilla neutralizante y peinado habitual. Este precio solo incluye pelo corto o medio, en caso de tener un largo superior se cobrará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Balayage", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "¿Quieres lucir este verano un cabello con luz y brillo? ¡Reserva en el salón Silvia Suarez! Con la técnica de las mechas balayage conseguirás una melena con luz propia. El 80% de las actrices ya se han apuntado a esta nueva técnica de coloración. Incluye las mechas, según el cabello y deseo del cliente, lavado con champú neutro y secado natural. Para todos los largos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Nutritivo Personalizado", 
+            "duration": 3600, 
+            "price": "24,9 € ", 
+            "description": "¿Notas tu pelo seco, sin brillo o sin vida? Cuida y sanéalo con nuestro tratamiento capilar nutritivo personalizado. Lavamos con un champú específico, aplicamos un bálsamo y mascarilla, aplicamos un tratamiento de choque y aplicamos un producto de peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Nuestro pack de novias incluye: limpieza facial, maquillaje, tratamiento capilar de brillo, recogido o peinado especial, manicura y pedicura permanente shellac. Para este servicio se debe consultar previamente con el centro, ya que no se pueden realizar todos estos servicios en el mismo día."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Alisador Media Melena", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "Descubre el tratamiento alisador de Morphosse Montibello, basado en productos naturales sin formol, y consigue una melena libre de encrespamiento y de esas ondas rebeldes que tanto te cuesta domar. Este servicio esta indicado para medias melenas o cortas, hasta los hombros. Para pelo más largo, consulta con el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bono Peluquería: 5 Peinados, 5 Tto Capilares...", 
+            "duration": 3600, 
+            "price": "68,9 € ", 
+            "description": "Nuestro bono de peluquería incluye: 5 lavados con champú específico y productos de tocador, 5 peinados y un tratamiento capilar, de la marca Monti Bello, a elegir entre los siguientes: nutritivo, hidratante, volumen, brillo y antirrotura."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Boda Invitadas", 
+            "duration": 9000, 
+            "price": "63 € ", 
+            "description": "¡Reserva nuestro pack de boda pensado para las invitadas! Este servicio incluye: maquillaje con ampolla flash para que dure todo el día, manicura completa con esmaltado normal en el color que más te guste, lavado y peinado especial o recogido."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Protector Antirrotura", 
+            "duration": 3600, 
+            "price": "28,9 € ", 
+            "description": "Prueba nuestro revolucionario sistema protector antirrotura que combate el daño producido por los procesos químicos. ¡Se acabó la sensación de un cabello debilitado! Ahora podemos dar coloración, o decolorar, cuantas veces queramos sin dañar nuestra melena. Incluye la aplicación del tratamiento Silatlex, lavado con champú específico, mascarilla neutralizante y peinado habitual. Este precio solo incluye pelo corto o medio, en caso de tener un largo superior se cobrará un suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Sin Amoniaco Y Peinar", 
+            "duration": 5400, 
+            "price": "27,75 € ", 
+            "description": "¿Buscas una coloración menos agresiva y más natural? Pues nuestro servicio de color sin amoniaco y peinado es para ti. Disfruta de una coloración menos dañina para tu pelo, el lavado con champú y el peinado con productos de acabado, que incluye este servicio. Para todo tipo de largos de pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinar", 
+            "duration": 5400, 
+            "price": "26,75 € ", 
+            "description": "Dale vida y luz a tu rostro con un cambio de color, más natural o más atrevido, gracias a nuestro servicio de tinte y peinado. Incluye aplicación de tinte convencional, lavado con champú y peinado con productos de acabado. Apto para todo tipo de largos de pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar", 
+            "duration": 2700, 
+            "price": "21,4 € ", 
+            "description": "Redefine la forma de tu corte favorito o atrévete con un cambio más arriesgado, contando con el asesoramiento de nuestros estilistas, gracias a nuestro servicio de corte y peinado. Incluye lavado con un producto de lavado (cualquier otro producto extra se cobrará en el centro a parte), corte y peinado-marcado. Servicio válido para medias melenas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar", 
+            "duration": 1800, 
+            "price": "9,1 € ", 
+            "description": "¿A quién no le gusta que le peinen en la peluquería? Disfruta de un peinado perfecto para cualquier ocasión o evento, más o menos especial, con nuestro servicio de lavado y peinado. Incluye lavado con champú y peinado. Cualquier otro producto extra se abonará en el centro, a parte."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage", 
+            "duration": 7200, 
+            "price": "44 € ", 
+            "description": "¿Quieres lucir este verano un cabello con luz y brillo? ¡Reserva en el salón Silvia Suarez! Con la técnica de las mechas balayage conseguirás una melena con luz propia. El 80% de las actrices ya se han apuntado a esta nueva técnica de coloración. Incluye las mechas, según el cabello y deseo del cliente, lavado con champú neutro y secado natural. Para todos los largos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas O Reflejos", 
+            "duration": 7200, 
+            "price": "33,9 € ", 
+            "description": "Ilumina tú cabello aplicándote unas mechas .Da luminosidad a tú melena. Consigue un look perfecto sin dañar el cabello .Confia tú melena a los mejores profesionales .Mechas sin amoniaco más naturales. El precio incluye peinado natural. Para todo tipo de largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Prueba Novia", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Nuestra prueba de novias incluye el peinado (todo tipo de peinado especial o recogido), maquillaje con fijador y una manicura exprés en la que limamos y esmaltamos las uñas con esmalte normal, no incluye permanente."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Bótox Capilar", 
+            "duration": 3600, 
+            "price": "24,9 € ", 
+            "description": "Consigue más cuerpo y volumen en tu pelo con nuestro tratamiento capilar de bótox. Utilizamos productos naturales, como el colágeno, el aceite de argán, la keratina o el ácido hialurónico, para no dañar el cabello. Esta especialmente indicado para cabello fino."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Nutritivo Personalizado", 
+            "duration": 3600, 
+            "price": "24,9 € ", 
+            "description": "¿Notas tu pelo seco, sin brillo o sin vida? Cuida y sanéalo con nuestro tratamiento capilar nutritivo personalizado. Lavamos con un champú específico, aplicamos un bálsamo y mascarilla, aplicamos un tratamiento de choque y aplicamos un producto de peinado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Novia", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Nuestro pack de novias incluye: limpieza facial, maquillaje, tratamiento capilar de brillo, recogido o peinado especial, manicura y pedicura permanente shellac. Para este servicio se debe consultar previamente con el centro, ya que no se pueden realizar todos estos servicios en el mismo día."
+        }
+    ]
+}

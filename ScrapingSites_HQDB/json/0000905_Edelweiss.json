@@ -1,0 +1,105 @@
+{
+    "adid": null, 
+    "name": "Edelweiss", 
+    "name_of_contact": "Edelweiss", 
+    "scrape_page": "https://www.bucmi.com/edelweiss", 
+    "business_website": "https://www.bucmi.com/edelweiss", 
+    "areas_covered": null, 
+    "description": "Centro de estética y terapias naturales especializado en osteopatía, terapias holísticas y belleza. Tenemos un gran variedad de tratamientos y terapias naturales. Nos preocupa tu bienestar, tu salud y el cuidado de tu cuerpo. Te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635857943761592878.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635857943775967459.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635857943791748739.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "12", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Galileo, 21", 
+    "city": "Madrid", 
+    "zipcode": "28015", 
+    "formatted_address": "C/ Galileo, 21, Madrid, 28015", 
+    "country": "es", 
+    "office_number": "915930670", 
+    "office_number2": null, 
+    "mobile_number": "603693804", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4320119000", 
+    "longitude": "-3.7105093000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908665539562004.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En el servicio está incluido el desmaquillado de la piel, limpieza con extracción, mascarilla y por último un masaje facial. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales Edelweiss"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El masaje es sinónimo de relajación, es el momento que el cuerpo aprovecha para reconstituirse, para aliviar el dolor, la sobrecarga."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reafirmante Facial", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "El servicio incluye una sesión de radiofrecuencia, electroestimulación, colágeno y ácido hialurónico. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En el servicio está incluido el desmaquillado de la piel, limpieza con extracción, mascarilla y por último un masaje facial. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales Edelweiss"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "El servicio incluye una sesión combinada de presoterapia y vacumterapia. Es un tratamiento reductor eficaz desde la primera sesión. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales Edelwiss."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Reafirmante Facial", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "El servicio incluye una sesión de radiofrecuencia, electroestimulación, colágeno y ácido hialurónico. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "En el servicio está incluido el desmaquillado de la piel, limpieza con extracción, mascarilla y por último un masaje facial. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales Edelweiss"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Reductor", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "El servicio incluye una sesión combinada de presoterapia y vacumterapia. Es un tratamiento reductor eficaz desde la primera sesión. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales Edelwiss."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Reafirmante Facial", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "El servicio incluye una sesión de radiofrecuencia, electroestimulación, colágeno y ácido hialurónico. Ahora ya puedes reservar online en nuestro centro de estética y terapias naturales."
+        }
+    ]
+}

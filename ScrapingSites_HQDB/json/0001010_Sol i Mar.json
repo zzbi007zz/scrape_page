@@ -1,0 +1,185 @@
+{
+    "adid": null, 
+    "name": "Sol i Mar", 
+    "name_of_contact": "Sol i Mar", 
+    "scrape_page": "https://www.bucmi.com/solimar", 
+    "business_website": "https://www.bucmi.com/solimar", 
+    "areas_covered": null, 
+    "description": "Centro de Estética en Sant Andreu que cuenta con tratamientos corporales, faciales y de bienestar con maquinaria de alta gama. Déjate asesorar por los mejores profesionales y reserva nuestros cortes de tendencias, mechas a la última, tintes de alta gama.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635928978111383847.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635928978201544568.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635928978242714261.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635928978611185677.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635928980364022570.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635928980840186045.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "14", 
+    "hqdb_review_score": "8,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08030", 
+    "formatted_address": "Barcelona, 08011, Barcelona, 08034, Barcelona, 08030", 
+    "country": "es", 
+    "office_number": "933114868", 
+    "office_number2": null, 
+    "mobile_number": "628212402", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4340119000", 
+    "longitude": "2.1898541000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966813654948711.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Sesión de 30 minutos de presoterapia que sirve para drenar,reafirmar, tonificar, mejorar la circulación y aumentar el drenaje linfático."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Facial Express", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Un tratamiento exprés de belleza facial en tres pasos: Limpieza profunda de la piel con peeling, exfoliante y mascarilla hidratante, con productos de la marca Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Piernas, Axilas E Ingles Brasileñas", 
+            "duration": 1800, 
+            "price": "31,2 € ", 
+            "description": "Elimina ese vello tan molesto con este pack de depilación con cera en axilas, ingles brasileñas y piernas enteras. Podrás estar perfecta en cualquier época del año: despídete del vello durante semanas y disfruta de una piel suave."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "1 Sesion Rayos Uva", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "¿Quién dijo que solo podíamos estar bronceados en verano? Con este servicio conseguirás un bonito tono en tu piel: uniforme y dorado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Completa", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "¡Uno de nuestros packs más beauty! El servicio incluye tratamiento de durezas para el caso de los pies, retirada de cutículas, limado de uñas y esmaltado con una amplía gama de colores de la marca Crisnail."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con este completo servicio conseguirás una mirada de cine: rizamos tus pestañas hasta el infinito con nuestra permanente y le damos ese color intenso que buscas con el tinte. Olvídate del Rimmel y del rizapestañas: perfecta recién levantada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El servicio incluye cavitación para romper la grasa localizada y presoterapia con gel especial drenante para eliminar esa celulitis tan molesta. Conseguirás estilizar tu figura, reducir centímetros y conseguir una silueta firme y definida con los productos Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Sesión de 30 minutos de presoterapia que sirve para drenar,reafirmar, tonificar, mejorar la circulación y aumentar el drenaje linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Express", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Un tratamiento exprés de belleza facial en tres pasos: Limpieza profunda de la piel con peeling, exfoliante y mascarilla hidratante, con productos de la marca Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "1 Sesion Rayos Uva", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "¿Quién dijo que solo podíamos estar bronceados en verano? Con este servicio conseguirás un bonito tono en tu piel: uniforme y dorado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Con este completo servicio conseguirás eliminar la retención de líquidos y luchar contra la mala circulación. Te sentirás mejor tras someterte a esta sesión de 45 minutos de masaje linfático con productos de Germaine de Capuccini. No te lo pienses y apúntate."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Con este servicio podrás aliviar todo el estrés acumulado en tu día a día. Desconecta de tu rutina y encuentra el bienestar que buscas. Podrás elegir entre masaje relajante o descontracturante con productos de Germaine de Capuccini. La duración del servicio es de 60 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Con Hidratación Completa", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Gracias a nuestro peeling corporal podrás renovar tu piel en profundidad: conseguirás un resultado suave, terso y libre de cualquier tipo de impureza y células muertas. Además, para conseguir una piel nutrida y luminosa, te aplicamos hidratación en la totalidad del cuerpo, con poductos de Germaine de Capuccini. Con este servicio te sentirás completamente renovada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Con este completo servicio conseguirás una mirada de cine: rizamos tus pestañas hasta el infinito con nuestra permanente y le damos ese color intenso que buscas con el tinte. Olvídate del Rimmel y del rizapestañas: perfecta recién levantada."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El servicio incluye cavitación para romper la grasa localizada y presoterapia con gel especial drenante para eliminar esa celulitis tan molesta. Conseguirás estilizar tu figura, reducir centímetros y conseguir una silueta firme y definida con los productos Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Sesión de 30 minutos de presoterapia que sirve para drenar,reafirmar, tonificar, mejorar la circulación y aumentar el drenaje linfático."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tto Facial Express", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Un tratamiento exprés de belleza facial en tres pasos: Limpieza profunda de la piel con peeling, exfoliante y mascarilla hidratante, con productos de la marca Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El servicio incluye cavitación para romper la grasa localizada y presoterapia con gel especial drenante para eliminar esa celulitis tan molesta. Conseguirás estilizar tu figura, reducir centímetros y conseguir una silueta firme y definida con los productos Germaine de Capuccini."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Sesión de 30 minutos de presoterapia que sirve para drenar,reafirmar, tonificar, mejorar la circulación y aumentar el drenaje linfático."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación Y Presoterapia", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "El servicio incluye cavitación para romper la grasa localizada y presoterapia con gel especial drenante para eliminar esa celulitis tan molesta. Conseguirás estilizar tu figura, reducir centímetros y conseguir una silueta firme y definida con los productos Germaine de Capuccini."
+        }
+    ]
+}

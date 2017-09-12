@@ -1,0 +1,106 @@
+{
+    "adid": null, 
+    "name": "Carlos Peluqueros", 
+    "name_of_contact": "Carlos Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/carlospeluqueros", 
+    "business_website": "https://www.bucmi.com/carlospeluqueros", 
+    "areas_covered": null, 
+    "description": "Peluquería de Caballeros en Quintana, Madrid. Carlos Peluqueros es un salón clásico pero con productos de última categoría y la mejor calidad. Entre sus servicios incluyen tratamientos anticaída Kerastase. Consulta presupuesto sin compromiso.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635864707183964835.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635864707203809495.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635864707227246664.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635864707252246969.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Torquemada, 19", 
+    "city": "Madrid", 
+    "zipcode": "28027", 
+    "formatted_address": "C/ Torquemada, 19, Madrid, 28027", 
+    "country": "es", 
+    "office_number": "913267611", 
+    "office_number2": null, 
+    "mobile_number": "610546088", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4370315000", 
+    "longitude": "-3.6526741000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908138989841134.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Chico", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Corte de pelo a manos de grandes profesionales y por un precio inmejorable. Incluye lavado con champú y acabado de la casa American Crew o Vella."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo A Cepillo", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Corte de pelo estilo cepillo, cuadrado y con los bordes redondeados con maquinilla. Corte preciso y muy demandado. Incluye peinado con productos de acabado American Crew o Vella."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Arreglo Barba", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Aprovecha esta oferta de corte y arreglo de barba por sólo 17 euros. El servicio incluye el corte, lavado con champú, acabado (productos American Crew o Vella) y arreglo de la barba."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Realizamos el afeitado con navaja para un acabado perfecto y aplicamos productos de la mejor calidad. ¡Afeitarse con Carlos Peluqueros es una apuesta segura!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "7 € ", 
+            "description": "Arreglo a tijera o maquinilla, dependiendo de las necesidades del cliente, y perfilamos a navaja para dejar un acabado perfecto. La barba ya no es sinónimo de dejadez."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chico", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Corte de pelo a manos de grandes profesionales y por un precio inmejorable. Incluye lavado con champú y acabado de la casa American Crew o Vella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo A Cepillo", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Corte de pelo estilo cepillo, cuadrado y con los bordes redondeados con maquinilla. Corte preciso y muy demandado. Incluye peinado con productos de acabado American Crew o Vella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Corte Y Lavado", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "El pack más completo de peluquería para hombre. Cubre tu cana con un tinte y aprovecha para cortarte el pelo. Incluye el color, corte y lavado con productos de acabado de la casa Wella."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Arreglo Barba", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Aprovecha esta oferta de corte y arreglo de barba por sólo 17 euros. El servicio incluye el corte, lavado con champú, acabado (productos American Crew o Vella) y arreglo de la barba."
+        }
+    ]
+}

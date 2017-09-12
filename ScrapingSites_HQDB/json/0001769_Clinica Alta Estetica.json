@@ -1,0 +1,135 @@
+{
+    "adid": null, 
+    "name": "Clínica Alta Estética", 
+    "name_of_contact": "Clínica Alta Estética", 
+    "scrape_page": "https://www.bucmi.com/altaestetica", 
+    "business_website": "https://www.bucmi.com/altaestetica", 
+    "areas_covered": null, 
+    "description": "Clínica Alta Estética está ubicado en el centro de la ciudad de Valencia. Somos líderes en el sector de la medicina estética y cirugía. Te ofrecemos los mejores tratamientos realizados por profesionales altamente cualificados. ¡Ven a conocernos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636029091130710740.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636029091240128293.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636029091366416231.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636029092265931226.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636029092598253344.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "Valencia", 
+    "formatted_address": "Valencia, 46007, Valencia, Valencia", 
+    "country": "es", 
+    "office_number": "963511181", 
+    "office_number2": null, 
+    "mobile_number": "606106876", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4656636000", 
+    "longitude": "-0.3770580000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636029623092711132.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "240 € ", 
+            "description": "Consigue eliminar la grasa localizada y mejorar la flacidez de la piel. La mesoterapia consiste en la infiltración de sustancias homeopáticas reductoras de la grasa, reafirmantes o diuréticas en el tejido subcutáneo para mejorar la circulación. ¿A qué esperas a estar perfecta?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "50 € ", 
+            "description": "Consigue eliminar la grasa localizada y mejorar la flacidez de la piel. La mesoterapia consiste en la infiltración de sustancias homeopáticas reductoras de la grasa, reafirmantes o diuréticas en el tejido subcutáneo para mejorar la circulación."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Eliminación Varices", 
+            "duration": 900, 
+            "price": "110 € ", 
+            "description": "Este tratamiento consiste en la infiltración de una sustancia química, mediante inyecciones en las venas con varices, de forma que provoca la cicatrización y reabsorción de la misma. La variz tratada ya no vuelve a aparecer. La sesión tiene una duración de 20 minutos. Utilizamos esclerosis con micro espuma para la eliminación de varices sin cirugía."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Botox Facial 1 Zona", 
+            "duration": 900, 
+            "price": "199 € ", 
+            "description": "Consigue corregir las arrugas con la toxina botulínica o botox conocido comúnmente, mejora la expresión del tercio superior de la cara, rejuveneciendo el aspecto del rostro con un resultado muy natural y sin alterar su expresividad. Duración de cada sesión de 20 minutos"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 Ss Tto Corporal Elimación Varices Sin Cirugía", 
+            "duration": 900, 
+            "price": "450 € ", 
+            "description": "Esclerosis con micro espuma para la eliminación de varices sin cirugía. Consiste en la infiltración de una sustancia química, mediante inyecciones en las venas con varices, de forma que provoca la cicatrización y re-absorción de la misma. La variz tratada ya no vuelve a aparecer. 20 minutos de duración cada sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Carboxiterapia Facial O Corporal", 
+            "duration": 900, 
+            "price": "240 € ", 
+            "description": "Con este servicio consigue tratar los problemas de flacidez, estrías, celulitis, pequeñas arrugas, etc. La carboxiterapia consiste en la administración subcutánea de dióxido de carbono (CO2) mediante micro-inyecciones localizadas con una aparatología especial. En el área facial sirve para tratar: frente, ojeras, área periocular, cuello, escote, papada.. En el área corporal se puede tratar: cara interna de los brazos, manos abdomen, cara interna de los muslos, cara interna de las rodillas. 20 minutos sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "240 € ", 
+            "description": "Consigue eliminar la grasa localizada y mejorar la flacidez de la piel. La mesoterapia consiste en la infiltración de sustancias homeopáticas reductoras de la grasa, reafirmantes o diuréticas en el tejido subcutáneo para mejorar la circulación. ¿A qué esperas a estar perfecta?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carboxiterapia Corporal O Facial", 
+            "duration": 900, 
+            "price": "50 € ", 
+            "description": "Con este servicio consigue tratar los problemas de flacidez, estrías, celulitis, pequeñas arrugas, etc. La carboxiterapia consiste en la administración subcutánea de dióxido de carbono (CO2) mediante micro-inyecciones localizadas con una aparatología especial. En el área facial sirve para tratar: frente, ojeras, área periocular, cuello, escote, papada. En el área corporal se puede tratar: cara interna de los brazos, manos abdomen, cara interna de los muslos, cara interna de las rodillas. 20 minutos sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "50 € ", 
+            "description": "Consigue eliminar la grasa localizada y mejorar la flacidez de la piel. La mesoterapia consiste en la infiltración de sustancias homeopáticas reductoras de la grasa, reafirmantes o diuréticas en el tejido subcutáneo para mejorar la circulación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Facial Con Cóctel De Vitaminas", 
+            "duration": 900, 
+            "price": "150 € ", 
+            "description": "Quieres rejuvenecer el cutis a través de la estimulación de las células de la piel.. En función de la necesidad de cada paciente, se le administrarán diferentes cócteles de vitaminas que favorecen la tonificación y la reafirmación de la piel. Duración de la sesión de 20 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Botox Facial 2 Zonas", 
+            "duration": 900, 
+            "price": "299 € ", 
+            "description": "Reserva este servicio y conseguirás corregir las arrugas gracias a la toxina botulínica, o botox conocido comúnmente. Mejora la expresión del tercio superior de la cara, rejuveneciendo el aspecto del rostro con un resultado muy natural y sin alterar su expresividad. Duración de cada sesión de 20 minutos. Incluye dos zonas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Botox Facial 3 Zonas", 
+            "duration": 900, 
+            "price": "399 € ", 
+            "description": "Reserva este servicio y conseguirás corregir las arrugas gracias a la toxina botulínica, o botox conocido comúnmente. Mejora la expresión del tercio superior de la cara, rejuveneciendo el aspecto del rostro con un resultado muy natural y sin alterar su expresividad. Incluye tres zonas. Duración de cada sesión de 20 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Eliminación Varices", 
+            "duration": 900, 
+            "price": "110 € ", 
+            "description": "Este tratamiento consiste en la infiltración de una sustancia química, mediante inyecciones en las venas con varices, de forma que provoca la cicatrización y reabsorción de la misma. La variz tratada ya no vuelve a aparecer. La sesión tiene una duración de 20 minutos. Utilizamos esclerosis con micro espuma para la eliminación de varices sin cirugía."
+        }
+    ]
+}

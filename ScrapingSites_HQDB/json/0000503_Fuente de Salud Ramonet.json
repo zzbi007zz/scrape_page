@@ -1,0 +1,103 @@
+{
+    "adid": null, 
+    "name": "Fuente de Salud Ramonet", 
+    "name_of_contact": "Fuente de Salud Ramonet", 
+    "scrape_page": "https://www.bucmi.com/saludramonet", 
+    "business_website": "https://www.bucmi.com/saludramonet", 
+    "areas_covered": null, 
+    "description": "El centro de fisioterapia y fitness, situado en Pinar del Rey, cuenta con tratamientos de osteopatía y entrenamientos totalmente personalizados para ayudarte a estar en forma. Contamos con las últimas tecnologías del mundo del fitness.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818024696330909.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818024734612096.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818024753067632.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818024770428345.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818024785116058.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818024813896628.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818024835482718.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635818024866590212.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Almonacid, 25", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Almonacid, 25, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "917668664", 
+    "office_number2": null, 
+    "mobile_number": "691344533", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4693070999", 
+    "longitude": "-3.6626905000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970150757196.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Entrenamiento Personal. Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "420 € ", 
+            "description": "Entrenamiento para personas acostumbradas a hacer ejercicio. El servicio se adapta y se controla individualmente. Incluye tabla de ejercicios, que se irá cambiando según el progreso, medición del indice de grasa corporal y dieta personalizada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Osteopatía", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Con este bono de osteopatía manual, podrás combatir cualquier dolor muscular, reducirás todo tipo de molestia por lesiones y te ayudará a la eliminación de líquidos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Osteopatía", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Con este bono de osteopatía manual, podrás combatir cualquier dolor muscular, reducirás todo tipo de molestia por lesiones y te ayudará a la eliminación de líquidos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Terapia manual que ayuda a eliminar el dolor de la zona localizada, corrige y ayuda recuperar lesiones musculo-esqueléticas y patologías orgánicas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 5 Sesiones Osteopatía", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Con este bono de osteopatía manual, podrás combatir cualquier dolor muscular, reducirás todo tipo de molestia por lesiones y te ayudará a la eliminación de líquidos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Osteopatía", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Terapia manual que ayuda a eliminar el dolor de la zona localizada, corrige y ayuda recuperar lesiones musculo-esqueléticas y patologías orgánicas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Entrenamiento Personal Principiantes. 20 Sesiones", 
+            "duration": 3600, 
+            "price": "1000 € ", 
+            "description": "Bono de 20 sesiones para realizar entrenamientos personalizados para personas no acostumbradas a hacer ejercicio. El servicio se adapta y se controla individualmente. Incluye tabla de ejercicios, que se irá adaptando al progreso, medición del indice de grasa corporal, dieta personalizada, vídeo tutorial y monitor."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Entrenamiento Personal. Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "420 € ", 
+            "description": "Entrenamiento para personas acostumbradas a hacer ejercicio. El servicio se adapta y se controla individualmente. Incluye tabla de ejercicios, que se irá cambiando según el progreso, medición del indice de grasa corporal y dieta personalizada."
+        }
+    ]
+}

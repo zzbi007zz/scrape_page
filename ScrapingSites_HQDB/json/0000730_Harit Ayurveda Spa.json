@@ -1,0 +1,140 @@
+{
+    "adid": null, 
+    "name": "Harit Ayurveda Spa", 
+    "name_of_contact": "Harit Ayurveda Spa", 
+    "scrape_page": "https://www.bucmi.com/haritayurvedaspa", 
+    "business_website": "https://www.bucmi.com/haritayurvedaspa", 
+    "areas_covered": null, 
+    "description": "El primer y único centro de Salud Ayurveda Maharishi en España desde 1999. Situado en Madrid y acreditado por la Fundación Internacional Maharishi. El Sistema Védico de Salud Maharishi es la manera más completa para cuidar y nutrir tu cuerpo y mente.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635575427525069958.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635587383943360215.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635587383963361871.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Orense, 9", 
+    "city": "Madrid", 
+    "zipcode": "28020", 
+    "formatted_address": "C/ Orense, 9, Madrid, 28020", 
+    "country": "es", 
+    "office_number": "915345755", 
+    "office_number2": null, 
+    "mobile_number": "622259409", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4477139000", 
+    "longitude": "-3.6956549999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635935459186439879.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Ss Terapia Natural De Luz Con Gemas", 
+            "duration": 3600, 
+            "price": "170 € ", 
+            "description": "Bono de 3 sesiones. La terapia de luz ya se está utilizando en hospitales y clínicas como un tratamiento aceptado para muchos trastornos del sueño y del estado de ánimo, incluyendo depresión y desequilibrios emocionales; y para enfermedades específicas de la piel, alergias entre otras muchas. Tratamiento basado en la aplicación de 13 piedras preciosas y gemas de gran calidad con cualidades nutritivas y de orden. Restaura el equilibrio y la salud de cuerpo y mente. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante Revitalizante (Vishesh Y Swedana)", 
+            "duration": 5400, 
+            "price": "138 € ", 
+            "description": "Masaje tonificante sincronizado entre dos técnicos con una menor cantidad de aceite de sésamo y realizado con una mayor presión, combinado con un baño de vapor con plantas ayurvédicas para suavizar permitiendo la eliminación de las impurezas. ¡No lo dudes y reserva ya este servicio con nosotros en Bucmi! Notarás increíbles resultados. Duración exacta del servicio 80 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 2 Ss. Tto. Corporal Abhyanga", 
+            "duration": 3600, 
+            "price": "174 € ", 
+            "description": "La piel en todas sus terminaciones nerviosas está íntimamente conectada con el cerebro. El masaje de aceite o abhyanga es muy relajante, tanto para el cuerpo como para la mente. Es muy relajante, elimina la fatiga y el estrés. Equilibra el sistema nervioso. Mejora la vista. Lubrica músculos y articulaciones. Fortalece y rejuvenece los tejidos. ¡No lo dudes y reserva ya este bono de 2 sesiones con Bucmi! Consigue una piel más joven a un precio increíble."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Tto. Corporales A Elegir", 
+            "duration": 3600, 
+            "price": "262 € ", 
+            "description": "¿Quieres probar distintos tratamientos que ofrece nuestro centro? Entonces este es tu servicio. Puedes combinar entre el tratamiento de Abhyanga, Vishesh o Garshan, según las necesidades de cada cliente. ¡No lo dudes y ponte en manos de nuestros profesionales con experiencia! Reserva ya en Bucmi y no te arrepentirás."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Otros Masajes: Shirodhara Con Shiroabhyanga", 
+            "duration": 2700, 
+            "price": "109 € ", 
+            "description": "El Shirodhara consiste en un suave y fino chorro de aceite templado que cae sobre la frente. Es uno de los tratamientos más placenteros y relajantes que uno pueda experimentar. Una vez terminado el tratamiento la persona que lo ha recibido tiene un brillo especial en los ojos y la piel, y una leve sonrisa que refleja la serenidad que siente. Este tratamiento tranquiliza la mente y es muy relajante para el sistema nervioso, ideal para problemas de insomnio o de ansiedad.¡Saldrás como nuev@ de nuestro centro!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Anticelulítico Garshan", 
+            "duration": 3600, 
+            "price": "87 € ", 
+            "description": "Reduce la celulitis y mejora la circulación con este tratamiento anticelulítico Garshan que contiene un efecto desintoxicante, anticelulítico y adelgazante. Masaje con guantes de seda salvaje. Aumenta la energía y el ritmo metabólico. También mejora la circulación, reduce el peso y elimina impurezas que pueden causar problemas como la celulitis. Se continúa con un masaje de aceite. ¡Reserva ya en Bucmi y notarás los increíbles resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Corporal Abhyanga", 
+            "duration": 3600, 
+            "price": "87 € ", 
+            "description": "La piel en todas sus terminaciones nerviosas está íntimamente conectada con el cerebro. El masaje de aceite o abhyanga es muy relajante, tanto para el cuerpo como para la mente. Es muy relajante, elimina la fatiga y el estrés. Equilibra el sistema nervioso. Mejora la vista. Lubrica músculos y articulaciones. Fortalece y rejuvenece los tejidos. ¡No lo dudes y reserva ya este tratamiento con Bucmi! Consigue una piel más joven a un precio increíble."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Corporal Exfoliante Udvarthana", 
+            "duration": 5400, 
+            "price": "161 € ", 
+            "description": "Tratamiento exfoliante realizado con una pasta natural hecha con cebada, aceite de sésamo y plantas ayurvédicas purificantes. Proporciona suavidad y brillo a la piel. Estimula y fortalece los tejidos. Elimina las toxinas, la celulitis y el exceso de grasa. Mejora la circulación, alivia la pesadez, los picores, el exceso de sudor. Produce las enzimas responsables de los procesos metabólicos de la piel, por lo que ésta adquiere un aspecto más sano. Está recomendado para personas con exceso de peso."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 2 Ss. Tto. Corporal Abhyanga", 
+            "duration": 3600, 
+            "price": "174 € ", 
+            "description": "La piel en todas sus terminaciones nerviosas está íntimamente conectada con el cerebro. El masaje de aceite o abhyanga es muy relajante, tanto para el cuerpo como para la mente. Es muy relajante, elimina la fatiga y el estrés. Equilibra el sistema nervioso. Mejora la vista. Lubrica músculos y articulaciones. Fortalece y rejuvenece los tejidos. ¡No lo dudes y reserva ya este bono de 2 sesiones con Bucmi! Consigue una piel más joven a un precio increíble."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Tto. Corporales A Elegir", 
+            "duration": 3600, 
+            "price": "262 € ", 
+            "description": "¿Quieres probar distintos tratamientos que ofrece nuestro centro? Entonces este es tu servicio. Puedes combinar entre el tratamiento de Abhyanga, Vishesh o Garshan, según las necesidades de cada cliente. ¡No lo dudes y ponte en manos de nuestros profesionales con experiencia! Reserva ya en Bucmi y no te arrepentirás."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Otros Masajes: Shirodhara Con Shiroabhyanga", 
+            "duration": 2700, 
+            "price": "109 € ", 
+            "description": "El Shirodhara consiste en un suave y fino chorro de aceite templado que cae sobre la frente. Es uno de los tratamientos más placenteros y relajantes que uno pueda experimentar. Una vez terminado el tratamiento la persona que lo ha recibido tiene un brillo especial en los ojos y la piel, y una leve sonrisa que refleja la serenidad que siente. Este tratamiento tranquiliza la mente y es muy relajante para el sistema nervioso, ideal para problemas de insomnio o de ansiedad.¡Saldrás como nuev@ de nuestro centro!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Anticelulítico Garshan", 
+            "duration": 3600, 
+            "price": "87 € ", 
+            "description": "Reduce la celulitis y mejora la circulación con este tratamiento anticelulítico Garshan que contiene un efecto desintoxicante, anticelulítico y adelgazante. Masaje con guantes de seda salvaje. Aumenta la energía y el ritmo metabólico. También mejora la circulación, reduce el peso y elimina impurezas que pueden causar problemas como la celulitis. Se continúa con un masaje de aceite. ¡Reserva ya en Bucmi y notarás los increíbles resultados!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto. Corporal Abhyanga", 
+            "duration": 3600, 
+            "price": "87 € ", 
+            "description": "La piel en todas sus terminaciones nerviosas está íntimamente conectada con el cerebro. El masaje de aceite o abhyanga es muy relajante, tanto para el cuerpo como para la mente. Es muy relajante, elimina la fatiga y el estrés. Equilibra el sistema nervioso. Mejora la vista. Lubrica músculos y articulaciones. Fortalece y rejuvenece los tejidos. ¡No lo dudes y reserva ya este tratamiento con Bucmi! Consigue una piel más joven a un precio increíble."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 2 Ss. Tto. Corporal Abhyanga", 
+            "duration": 3600, 
+            "price": "174 € ", 
+            "description": "La piel en todas sus terminaciones nerviosas está íntimamente conectada con el cerebro. El masaje de aceite o abhyanga es muy relajante, tanto para el cuerpo como para la mente. Es muy relajante, elimina la fatiga y el estrés. Equilibra el sistema nervioso. Mejora la vista. Lubrica músculos y articulaciones. Fortalece y rejuvenece los tejidos. ¡No lo dudes y reserva ya este bono de 2 sesiones con Bucmi! Consigue una piel más joven a un precio increíble."
+        }
+    ]
+}

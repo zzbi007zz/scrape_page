@@ -1,0 +1,128 @@
+{
+    "adid": null, 
+    "name": "Equilibrium Institut", 
+    "name_of_contact": "Equilibrium Institut", 
+    "scrape_page": "https://www.bucmi.com/equilibriumbcn", 
+    "business_website": "https://www.bucmi.com/equilibriumbcn", 
+    "areas_covered": null, 
+    "description": "Equilibrium es un Instituto de terapias naturales en Eixample que combina tratamientos para conseguir un bienestar físico y mental. Dejate asesorar por profesionales de amplia experiencia en el sector. También cuentan con servicio a domicilio.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635693622335880756.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635693622354944724.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635693622372291743.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635693622389012149.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635693622404481740.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Loreto, 2", 
+    "city": "Barcelona", 
+    "zipcode": "08015", 
+    "formatted_address": "C/ Loreto, 2, Barcelona, 08015", 
+    "country": "es", 
+    "office_number": "935125487", 
+    "office_number2": null, 
+    "mobile_number": "605426626", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3810414000", 
+    "longitude": "2.1593172000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968403966795199.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Acupuntura Bono 5 Sesiones", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Terapia que mejora todo tipo de dolencias a través de la aplicación de agujas en los puntos reflejos del cuerpo. Se incluye material estéril individual."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Flores De Bach Bono 5 Sesiones", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Las Flores de Bach es una terapia natural, vibracional o energética que hará que consigas un equilibrio tanto físico como mental."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Rehabilitación Espalda 10 Sesiones", 
+            "duration": 2700, 
+            "price": "500 € ", 
+            "description": "Partimos de la causa de este dolor y lo tratamos con la desactivación de puntos irritados con digitopresión suave, masaje terapéutico con productos naturales, acupuntura sin agujas y sin dolor, activación por calor y soporte con fisioterapia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Rehabilitación Espalda 10 Sesiones", 
+            "duration": 2700, 
+            "price": "500 € ", 
+            "description": "Partimos de la causa de este dolor y lo tratamos con la desactivación de puntos irritados con digitopresión suave, masaje terapéutico con productos naturales, acupuntura sin agujas y sin dolor, activación por calor y soporte con fisioterapia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Rehabilitación Espalda Dolor", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Partimos de la causa de este dolor y lo tratamos con la desactivación de puntos irritados con digitopresión suave, masaje terapéutico con productos naturales, acupuntura sin agujas y sin dolor, activación por calor y soporte con fisioterapia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Rehabilitación Espalda Primera Visita", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Partimos de la causa de este dolor y lo tratamos con la desactivación de puntos irritados con digitopresión suave, masaje terapéutico con productos naturales, acupuntura sin agujas y sin dolor, activación por calor y soporte con fisioterapia."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Rehabilitación Espalda 10 Sesiones", 
+            "duration": 2700, 
+            "price": "500 € ", 
+            "description": "Partimos de la causa de este dolor y lo tratamos con la desactivación de puntos irritados con digitopresión suave, masaje terapéutico con productos naturales, acupuntura sin agujas y sin dolor, activación por calor y soporte con fisioterapia."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Rehabilitación Espalda Dolor", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Partimos de la causa de este dolor y lo tratamos con la desactivación de puntos irritados con digitopresión suave, masaje terapéutico con productos naturales, acupuntura sin agujas y sin dolor, activación por calor y soporte con fisioterapia."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Rehabilitación Espalda Primera Visita", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Partimos de la causa de este dolor y lo tratamos con la desactivación de puntos irritados con digitopresión suave, masaje terapéutico con productos naturales, acupuntura sin agujas y sin dolor, activación por calor y soporte con fisioterapia."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Acupuntura", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Terapia que mejora todo tipo de dolencias a través de la aplicación de agujas en los puntos reflejos del cuerpo. Se incluye material estéril individual."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Acupuntura Primera Visita", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Terapia que mejora todo tipo de dolencias a través de la aplicación de agujas en los puntos reflejos del cuerpo. Se incluye material estéril individual. En la primera visita hay un diagnóstico previo."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Acupuntura Bono 5 Sesiones", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Terapia que mejora todo tipo de dolencias a través de la aplicación de agujas en los puntos reflejos del cuerpo. Se incluye material estéril individual."
+        }
+    ]
+}

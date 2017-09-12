@@ -1,0 +1,127 @@
+{
+    "adid": null, 
+    "name": "ARTPEL", 
+    "name_of_contact": "ARTPEL", 
+    "scrape_page": "https://www.bucmi.com/artpel", 
+    "business_website": "https://www.bucmi.com/artpel", 
+    "areas_covered": null, 
+    "description": "En ARTPEL te ofrecemos la más amplia gama de servicios de peluquería para cuidar de tu pelo como se merece. Situados en el corazón del barrio de salamanca de Madrid, nuestros profesionales te asesorarán para sacar el máximo partido a tu cabello.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005607095281485.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005607099812726.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005607101687721.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636005607104970279.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28001", 
+    "formatted_address": "Madrid, 28027, Madrid, 28001", 
+    "country": "es", 
+    "office_number": "915764711", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4217241000", 
+    "longitude": "-3.6876342000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636005608513381437.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "31 € ", 
+            "description": "Disfruta de un corte de pelo 100% asesorado por nuestros profesionales y un arreglo de barba acurado. En ARTPEL nuestra prioridad son nuestros clientes, ven a disfrutar de un servicio personalizado y consigue un look actual y con estilo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 6 Sesiones Tratamiento Capilar Anticaída", 
+            "duration": 1800, 
+            "price": "210 € ", 
+            "description": "Disfruta de este bono de 6 sesiones de tratamiento capilar anticaída. Indicado tanto para hombres como para mujeres. Fortalece tu pelo desde la raíz y evita la caída del mismo. Ven a probarlo, notarás los resultados."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte asesorado por nuestros estilistas para sacar el máximo partido a tu pelo. El servicio incluye lavado con hidratación y secado natural. No incluye peinado, consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "31 € ", 
+            "description": "Disfruta de un corte de pelo 100% asesorado por nuestros profesionales y un arreglo de barba acurado. En ARTPEL nuestra prioridad son nuestros clientes, ven a disfrutar de un servicio personalizado y consigue un look actual y con estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bono 6 Sesiones Tratamiento Capilar Anticaída", 
+            "duration": 1800, 
+            "price": "210 € ", 
+            "description": "Disfruta de este bono de 6 sesiones de tratamiento capilar anticaída. Indicado tanto para hombres como para mujeres. Fortalece tu pelo desde la raíz y evita la caída del mismo. Ven a probarlo, notarás los resultados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento capilar anticaída UNISEX", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Tratamiento capilar UNISEX indicado para evitar la caída del cabello tanto en hombres como en mujeres. Ideal para los cambios de estación del año. Refuerza la fibra capilar y mantiene tu pelo suave y sedoso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo", 
+            "duration": 3600, 
+            "price": "44 € ", 
+            "description": "Unifica el tono de tu melena y atrévete con los colores de esta temporada. En ARTPEL te asesoramos para conseguir sacar el máximo partido a tu pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "¿Cansado de llevar siempre el mismo corte de pelo? En ARTPEL nuestros estilistas te afrecen un servicio 100% personalizado para conseguir un cambio de look acorde con tu estilo. Incluye lavado con hidratación y secado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado", 
+            "duration": 3600, 
+            "price": "41 € ", 
+            "description": "¿Quieres un cambio de look? En ARTPEL encontrarás a los mejores estilistas del barrio de Salamanca para encontrar el look que más se ajuste a tu personalidad. El servicio incluye lavado con hidratación, corte asesorado y peinado. Saldrás perfecta."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte asesorado por nuestros estilistas para sacar el máximo partido a tu pelo. El servicio incluye lavado con hidratación y secado natural. No incluye peinado, consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "31 € ", 
+            "description": "Disfruta de un corte de pelo 100% asesorado por nuestros profesionales y un arreglo de barba acurado. En ARTPEL nuestra prioridad son nuestros clientes, ven a disfrutar de un servicio personalizado y consigue un look actual y con estilo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 6 Sesiones Tratamiento Capilar Anticaída", 
+            "duration": 1800, 
+            "price": "210 € ", 
+            "description": "Disfruta de este bono de 6 sesiones de tratamiento capilar anticaída. Indicado tanto para hombres como para mujeres. Fortalece tu pelo desde la raíz y evita la caída del mismo. Ven a probarlo, notarás los resultados."
+        }
+    ]
+}

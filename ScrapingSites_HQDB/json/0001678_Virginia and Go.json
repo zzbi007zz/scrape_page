@@ -1,0 +1,105 @@
+{
+    "adid": null, 
+    "name": "Virginia and Go", 
+    "name_of_contact": "Virginia and Go", 
+    "scrape_page": "https://www.bucmi.com/virginiandgo", 
+    "business_website": "https://www.bucmi.com/virginiandgo", 
+    "areas_covered": null, 
+    "description": "Peluquería Viginia and Go cuenta con 16 años de experiencia. En nuestro centro descubrirás un concepto de peluquería diferente. Ven a conocer las nuevas tendencias y a probar los nuevos tratamientos, tratamos con productos 100% L'oreal. Te asesoraremos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677268561510247.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677268561979068.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635677268562291558.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Sevilla", 
+    "zipcode": "41010", 
+    "formatted_address": "Sevilla, 41010", 
+    "country": "es", 
+    "office_number": "954047998", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.3801808000", 
+    "longitude": "-5.9996843999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962322956554963.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "En el servicio está incluido el lavado del pelo con champú normal, un masaje capilar relajante y revitalizante, el corte de pelo que más te guste y que más vaya contigo y por último un texturizante. Reserva ya tu cita online y podrás ahorrar tiempo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Californianas", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "El servicio consta de champú de tratamiento, mechas californianas, crema nutritiva y desenredante y por último el peinado que más te guste y que más vaya contigo. Se realizará con una decoloración suave con ceramidas, una decoloración que respeta el cabello."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer Y Peinado", 
+            "duration": 3600, 
+            "price": "27,9 € ", 
+            "description": "El servicio consta de lavado del pelo con champú normal, un masaje capilar relajante y revitalizante, el corte de pelo, y por último el peinado que más te guste y que más vaya contigo. Podrás conseguir un bonito cambio de look con un peinado temporada."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "En el servicio está incluido el lavado del pelo con champú normal, un masaje capilar relajante y revitalizante, el corte de pelo que más te guste y que más vaya contigo y por último un texturizante. Reserva ya tu cita online y podrás ahorrar tiempo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Toques De Luz) Y Peinado", 
+            "duration": 2700, 
+            "price": "27,9 € ", 
+            "description": "El servicio consta de unas mechas de toques de luz, que consisten en unas mechas internas que darán luz a tu rostro de manera natural y sin mechas superficiales, para que no se produzca efecto raíz. ¡Reserva ya tu cita online!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "El servicio consta de champú de tratamiento, mechas californianas, crema nutritiva y desenredante y por último el peinado que más te guste y que más vaya contigo. Se realizará con una decoloración suave con ceramidas, una decoloración que respeta el cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Elaborado", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Gracias a este servicio podrás disfrutar de diversos tipos de recogidos, por ejemplo, encontrarás trenzados, rellenos, extensiones, etc, para poder lucir peinados atractivos y diferentes. Ahora ya podrás reservar tu cita online y así ahorrar tiempo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Y Peinado", 
+            "duration": 3600, 
+            "price": "27,9 € ", 
+            "description": "El servicio consta de lavado del pelo con champú normal, un masaje capilar relajante y revitalizante, el corte de pelo, y por último el peinado que más te guste y que más vaya contigo. Podrás conseguir un bonito cambio de look con un peinado temporada."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Inoa", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "El servicio consta de lavado con champú Inoa, color Inoa, tratamiento y por último el peinado. El servicio Inoa es la coloración estrella de L'oreal que aportará una máxima cobertura y durabilidad a tu cabello, aportando brillo respetando la fibra capilar."
+        }
+    ]
+}

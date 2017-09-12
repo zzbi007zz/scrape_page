@@ -1,0 +1,140 @@
+{
+    "adid": null, 
+    "name": "Star Beauty", 
+    "name_of_contact": "Star Beauty", 
+    "scrape_page": "https://www.bucmi.com/starbeauty", 
+    "business_website": "https://www.bucmi.com/starbeauty", 
+    "areas_covered": null, 
+    "description": "El centro de estética Star Beauty situado en Tetuán - Estrecho, Madrid, ofrece una amplia variedad de tratamientos faciales y corporales para sentirte bien por dentro y por fuera. Además de servicios de uñas tales como manicuras y pedicuras.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635937495506145950.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635937495563959399.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635938060758728254.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "7", 
+    "hqdb_review_score": "9,1", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pechuan, 14", 
+    "city": "Madrid", 
+    "zipcode": "28039", 
+    "formatted_address": "C/ Pechuan, 14, Madrid, 28039", 
+    "country": "es", 
+    "office_number": "915701034", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4579592000", 
+    "longitude": "-3.7026002000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635938060160726756.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Te realizamos una limpieza facial en base a las necesidades de tu piel, para que tenga un aspecto cuidado, saludable y bonito. Durante este tratamiento te desmaquillamos, te realizamos el peeling, abrimos poros, realizamos la extracción, aplicamos mascarilla y crema hidratante."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Nuestras manos dicen mucho de nosotros. No las descuides y ven a visitarnos a Star Beauty para que te las cuidemos como se merecen. Te realizamos una manicura completa (cortar, limar, cutículas), te las hidratamos y te aplicamos esmaltado normal en el color que más te apetezca."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Te realizamos una limpieza facial en base a las necesidades de tu piel, para que tenga un aspecto cuidado, saludable y bonito. Durante este tratamiento te desmaquillamos, te realizamos el peeling, abrimos poros, realizamos la extracción, aplicamos mascarilla y crema hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Drenaje linfático, activa circulación sanguínea, ayuda a disminuir la celulitis, alivia el dolor y la inflamación proporcionando un confort inmediato."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Pasas muchas horas sentada estudiando o trabajando? Si no tienes tiempo para hacer deporte probablemente notes tus piernas cargadas y con molestias, provocadas por la mañana circulación. En Star Beauty puedes ponerle remedio con nuestra sesión de presoterapia de media hora. Notarás tus piernas más ligeras y con menos molestias."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Aún no conoces el tinte y la permanente para pestañas? Si te da pereza lo de tener que aplicarte la máscara de pestañas a diario y utilizar el rizador, con este servicio podrás olvidarte de ello y mantener tu mirada perfecta durante semanas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Vela Y Presoterapia", 
+            "duration": 3600, 
+            "price": "85 € ", 
+            "description": "Tratamiento con vacunterapia, radiofrecuencia e infrarrojos, para remodelar y perder la celulitis. La presoterapia es para activar circulación y drenaje lunfático."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Te realizamos una limpieza facial en base a las necesidades de tu piel, para que tenga un aspecto cuidado, saludable y bonito. Durante este tratamiento te desmaquillamos, te realizamos el peeling, abrimos poros, realizamos la extracción, aplicamos mascarilla y crema hidratante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Drenaje linfático, activa circulación sanguínea, ayuda a disminuir la celulitis, alivia el dolor y la inflamación proporcionando un confort inmediato."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Pasas muchas horas sentada estudiando o trabajando? Si no tienes tiempo para hacer deporte probablemente notes tus piernas cargadas y con molestias, provocadas por la mañana circulación. En Star Beauty puedes ponerle remedio con nuestra sesión de presoterapia de media hora. Notarás tus piernas más ligeras y con menos molestias."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Aún no conoces el tinte y la permanente para pestañas? Si te da pereza lo de tener que aplicarte la máscara de pestañas a diario y utilizar el rizador, con este servicio podrás olvidarte de ello y mantener tu mirada perfecta durante semanas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Te realizamos una limpieza facial en base a las necesidades de tu piel, para que tenga un aspecto cuidado, saludable y bonito. Durante este tratamiento te desmaquillamos, te realizamos el peeling, abrimos poros, realizamos la extracción, aplicamos mascarilla y crema hidratante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Drenaje linfático, activa circulación sanguínea, ayuda a disminuir la celulitis, alivia el dolor y la inflamación proporcionando un confort inmediato."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Pasas muchas horas sentada estudiando o trabajando? Si no tienes tiempo para hacer deporte probablemente notes tus piernas cargadas y con molestias, provocadas por la mañana circulación. En Star Beauty puedes ponerle remedio con nuestra sesión de presoterapia de media hora. Notarás tus piernas más ligeras y con menos molestias."
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "adid": null, 
+    "name": "Passaro Longares Zaragoza", 
+    "name_of_contact": "Passaro Longares Zaragoza", 
+    "scrape_page": "https://www.bucmi.com/passaro", 
+    "business_website": "https://www.bucmi.com/passaro", 
+    "areas_covered": null, 
+    "description": "Peluquería dedicada en exclusiva hacia el hombre.Un espacio personal para el hombre. Disfruta de nuestra zona de ocio con PS3, zona infantil con dibujos animados y lavacabezas con masaje Shiatshu. Estamos ubicados en el barrio de Jesús. Haz ya tu reserva", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491575925657967.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491575951285010.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491575985350208.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491575997851200.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491576079732702.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635491576092858744.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "Zaragoza", 
+    "formatted_address": "Zaragoza, Zaragoza", 
+    "country": "es", 
+    "office_number": "876162334", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6585417999", 
+    "longitude": "-0.8654444000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635984957874152040.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Afeitado Premium", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Disfruta de un afeitado clásico con navaja con todos los cuidados que necesites. Servicio exclusivo para el hombre. Conseguirás una piel suave gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Lavado en sillón de masajes relajantes, corte, marcado patillas, aclarado y peinado. Servicio exclusivo para el hombre. Conseguirás un corte con estilo gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cejas Hombre", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "¡Estilizamos tus cejas! Depilación realizada con cera. Servicio exclusivo para el hombre. Conseguirás unas cejas acorde a tus facciones gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bono 10 Cortes De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "140 € ", 
+            "description": "Aprovecha este bono y ahorra en cortes de pelo! El corte incluye lavado en sillón de masajes relajantes, corte, marcado de patillas, aclarado y peinado. Servicio exclusivo para el hombre. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Premium", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Disfruta de un afeitado clásico con navaja con todos los cuidados que necesites. Servicio exclusivo para el hombre. Conseguirás una piel suave gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo Barba Premium", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Utilizamos productos específicos y toalla de agua caliente. Todos los cuidados que necesites, los ponemos a tu disposición. Servicio exclusivo para el hombre. Conseguirás una barba perfecta gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Lavado en sillón de masajes relajantes, corte, marcado patillas, aclarado y peinado. Servicio exclusivo para el hombre. Conseguirás un corte con estilo gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Afeitado De Barba", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "Lavado en sillón de masajes relajantes, corte, marcado patillas, aclarado y peinado; y afeitado de barba. Servicio exclusivo para el hombre. Conseguirás un corte con estilo gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Lavado en sillón de masajes relajantes, corte, marcado patillas, aclarado y peinado; y arreglo de barba. Servicio exclusivo para el hombre. Conseguirás un corte con estilo gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Depilación Cejas", 
+            "duration": 2700, 
+            "price": "19 € ", 
+            "description": "Lavado en sillón de masajes relajantes, corte, marcado patillas, aclarado y peinado; y además incluye depilación de cejas. Servicio exclusivo para el hombre. Conseguirás un corte con estilo gracias a nuestros expertos profesionales de Passaró. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Cortes De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "140 € ", 
+            "description": "Aprovecha este bono y ahorra en cortes de pelo! El corte incluye lavado en sillón de masajes relajantes, corte, marcado de patillas, aclarado y peinado. Servicio exclusivo para el hombre. No te arrepentirás del resultado."
+        }
+    ]
+}

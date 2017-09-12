@@ -1,0 +1,137 @@
+{
+    "adid": null, 
+    "name": "Arte Vida Suites & Spa", 
+    "name_of_contact": "Arte Vida Suites & Spa", 
+    "scrape_page": "https://www.bucmi.com/artevidaspa", 
+    "business_website": "https://www.bucmi.com/artevidaspa", 
+    "areas_covered": null, 
+    "description": "Arte Vida Suites & Spa se trata de un oasis de tranquilidad en pleno Granada. Este Spa es la alternativa perfecta para poner mejorar tu estancia en la ciudad y darte un capricho después de tus largas jornadas de turismo, esquí, compras, senderismo.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635576217412926506.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635576217419176674.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635576217489494984.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635576217506071842.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635576217517479093.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635576217541230807.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635576217582489728.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Delfin, 3", 
+    "city": "Granada", 
+    "zipcode": "18009", 
+    "formatted_address": "C/ Delfin, 3, Granada, 18009", 
+    "country": "es", 
+    "office_number": "958215665", 
+    "office_number2": null, 
+    "mobile_number": "685390866", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1740700000", 
+    "longitude": "-3.5973799999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962391312237887.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Circuito Termal Artevida", 
+            "duration": 3600, 
+            "price": "15 € ", 
+            "description": "Relájate y disfruta con nuestro circuito especial. Incluye: Sauna, ducha biotérmica de cromoterapia, baño turco, jacuzzi y cascada de agua. ¡Una combinación irresistible que no puedes dejar pasar! El servicio tiene una duración aproximada de 1 hora ."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Hidratante O Personalizada", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Este tratamiento es especifico dependiendo del tipo de piel y las necesidades de la clienta. Realizamos exfoliación, mascarilla e hidratación."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Circuito Termal Y Masaje 30 Min", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Relájate y disfruta de un circuito termal de 1 hora, en nuestras instalaciones, pasando por la sauna, ducha biotérmica de cromoterápia, baño turco, jacuzzi y cascada de agua, finaliza el tratamiento con un masaje relajante de 30 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfático", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Drenaje linfático manual de 30 minutos que favorece la movilización de líquidos y la eliminación de las sustancias de deshecho del organismo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático 45 Min", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Únete a los beneficios que aporta nuestro drenaje linfático, favoreciendo la movilización de líquidos y la eliminación de las sustancias de deshecho del organismo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Elimina la celulitis y la grasa localizada con este masaje manual realizado por nuestros mejores profesionales. Elimina la piel de naranja de tus piernas o de la zona que elijas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Hidratación Corporal: Ducha Vichy", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Tratamiento corporal completo en el cual realizamos exfoliación para eliminar todas las células muertas de la piel, envoltura e hidratación con masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidratante O Personalizada", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Este tratamiento es especifico dependiendo del tipo de piel y las necesidades de la clienta. Realizamos exfoliación, mascarilla e hidratación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Drenaje linfático manual de 30 minutos que favorece la movilización de líquidos y la eliminación de las sustancias de deshecho del organismo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático 45 Min", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Únete a los beneficios que aporta nuestro drenaje linfático, favoreciendo la movilización de líquidos y la eliminación de las sustancias de deshecho del organismo."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Drenaje Linfático 45 Min", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Únete a los beneficios que aporta nuestro drenaje linfático, favoreciendo la movilización de líquidos y la eliminación de las sustancias de deshecho del organismo."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Elimina la celulitis y la grasa localizada con este masaje manual realizado por nuestros mejores profesionales. Elimina la piel de naranja de tus piernas o de la zona que elijas."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tto Hidratación Corporal: Ducha Vichy", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Tratamiento corporal completo en el cual realizamos exfoliación para eliminar todas las células muertas de la piel, envoltura e hidratación con masaje."
+        }
+    ]
+}

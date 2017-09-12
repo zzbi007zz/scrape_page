@@ -1,0 +1,198 @@
+{
+    "adid": null, 
+    "name": "Clinica Le Lab", 
+    "name_of_contact": "Clinica Le Lab", 
+    "scrape_page": "https://www.bucmi.com/lelab", 
+    "business_website": "https://www.bucmi.com/lelab", 
+    "areas_covered": null, 
+    "description": "En LE LAB damos un servicio integral a los consumidores de productos estéticos y belleza en el barrio de Salamanca. Medicina Estética, Entrenamientos Personales, Estética Avanzada y Nutrición todo coordinado por un mismo equipo y sin salir del centro.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041828074058217.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041828077027204.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041828077183462.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041828080308712.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636041828081402553.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Espronceda, 43", 
+    "city": "Madrid", 
+    "zipcode": "28006", 
+    "formatted_address": "C/ Espronceda, 43, Madrid, 28006", 
+    "country": "es", 
+    "office_number": "910703309", 
+    "office_number2": null, 
+    "mobile_number": "666179126", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4347451999", 
+    "longitude": "-3.6761114999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636041828888803047.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Piernas Ligeras Y Tonificadas", 
+            "duration": 3600, 
+            "price": "370 € ", 
+            "description": "Tratamiento indicado para mejorar la circulación y tonificar las piernas. 4 sesiones de Dermoplastia + 4 sesiones de Presoterapia"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Ultrasónica Y Carboxiterapia Facial", 
+            "duration": 2700, 
+            "price": "129 € ", 
+            "description": "Tratamiento facial completo. Prepararemos la piel con una higiene facial para mejorar los resultados de la Carboxiterapia, aumentando el flujo sanguíneo y el aporte de oxígeno a los tejidos. De esta manera estimulamos a generación de colágeno y elastina en la piel"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Remodelante Corporal 360º", 
+            "duration": 5400, 
+            "price": "450 € ", 
+            "description": "3 sesiones de Radiofrecuencia + 3sesiones de dermoplastia+ 3 sesiones de presoterapia. Combina la Radiofrecuencia con las Ondas de Choque y Potencia los resultados con el drenaje linfático."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Prx T-33 + Higiene Facial Ultrasónica", 
+            "duration": 3600, 
+            "price": "190 € ", 
+            "description": "Novedoso tratamiento médico de biorrevitalización sin agujas, el PRX-T33. Estimula nuestro propio colágeno sin necesidad de sufrir los tan molestos pinchazos, es decir, sin agujas. Indicado para tratar la flacidez facial y corporal, mejora las estrías, el melasma y las cicatrices de acné. Incluye Higiene Facial de Regalo ( Peeling Ultrasónico)"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Healthy Slimming", 
+            "duration": 5400, 
+            "price": "565 € ", 
+            "description": "Aprovéchate de este paquete combinado para perder peso de una forma rápida y sana. Puedes elegir entre 4 sesiones de Carboxiterapia ó 4 sesiones de Mesoterapia, más 4 sesiones de Presoterapia reforzadas con 2 sesiones de Nutrición ."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Corporal Summer Slim", 
+            "duration": 5400, 
+            "price": "495 € ", 
+            "description": "Tratamiento Remodelante y Reafirmante. Combinación de 4 sesiones de Carboxiterapia + 4 sesiones de Radiofrecuencia ó Dermoplastia. En un mes notarás el cambio."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Hidratación Facial Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "RECUPERA E HIDRATA TU PIEL: Hidratación Facial Intensa para devolver luz a tu piel con ÁCIDO HILURÓNICO NO RETICULADO 1 VIAL"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Body Sculpting Detox", 
+            "duration": 5400, 
+            "price": "375 € ", 
+            "description": "Tratamiento Remodelante, 4 sesiones de Carboxiterapia ó 4 Mesoterapia corporal (según necesidades) + 4 sesiones de Presoterapia. En un mes notarás la diferencia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Microneedling", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Terapia de inducción de Colágeno con Factores de Crecimiento/Dmae"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Piernas Ligeras Y Tonificadas", 
+            "duration": 3600, 
+            "price": "370 € ", 
+            "description": "Tratamiento indicado para mejorar la circulación y tonificar las piernas. 4 sesiones de Dermoplastia + 4 sesiones de Presoterapia"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Ultrasónica Y Carboxiterapia Facial", 
+            "duration": 2700, 
+            "price": "129 € ", 
+            "description": "Tratamiento facial completo. Prepararemos la piel con una higiene facial para mejorar los resultados de la Carboxiterapia, aumentando el flujo sanguíneo y el aporte de oxígeno a los tejidos. De esta manera estimulamos a generación de colágeno y elastina en la piel"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 S. Carboxiterapia Corporal+2S Presoterapia", 
+            "duration": 1800, 
+            "price": "425 € ", 
+            "description": "Aprovecha este bono de 5 sesiones y consigue una oxigenación de los tejidos por medio de la aplicación de Dióxido de Carbono procurando una mejoría notable en la flacidez cutánea, las estrías y el aspecto de la piel de naranja. APROVECHA ESTA OFERTA CON 2 SESIONES DE PRESOTERAPIA DE REGALO!!!!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Remodelante Corporal 360º", 
+            "duration": 5400, 
+            "price": "450 € ", 
+            "description": "3 sesiones de Radiofrecuencia + 3sesiones de dermoplastia+ 3 sesiones de presoterapia. Combina la Radiofrecuencia con las Ondas de Choque y Potencia los resultados con el drenaje linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Prx T-33 + Higiene Facial Ultrasónica", 
+            "duration": 3600, 
+            "price": "190 € ", 
+            "description": "Novedoso tratamiento médico de biorrevitalización sin agujas, el PRX-T33. Estimula nuestro propio colágeno sin necesidad de sufrir los tan molestos pinchazos, es decir, sin agujas. Indicado para tratar la flacidez facial y corporal, mejora las estrías, el melasma y las cicatrices de acné. Incluye Higiene Facial de Regalo ( Peeling Ultrasónico)"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Healthy Slimming", 
+            "duration": 5400, 
+            "price": "565 € ", 
+            "description": "Aprovéchate de este paquete combinado para perder peso de una forma rápida y sana. Puedes elegir entre 4 sesiones de Carboxiterapia ó 4 sesiones de Mesoterapia, más 4 sesiones de Presoterapia reforzadas con 2 sesiones de Nutrición ."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Summer Slim", 
+            "duration": 5400, 
+            "price": "495 € ", 
+            "description": "Tratamiento Remodelante y Reafirmante. Combinación de 4 sesiones de Carboxiterapia + 4 sesiones de Radiofrecuencia ó Dermoplastia. En un mes notarás el cambio."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Hidratación Facial Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "RECUPERA E HIDRATA TU PIEL: Hidratación Facial Intensa para devolver luz a tu piel con ÁCIDO HILURÓNICO NO RETICULADO 1 VIAL"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Body Sculpting Detox", 
+            "duration": 5400, 
+            "price": "375 € ", 
+            "description": "Tratamiento Remodelante, 4 sesiones de Carboxiterapia ó 4 Mesoterapia corporal (según necesidades) + 4 sesiones de Presoterapia. En un mes notarás la diferencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Presoterapia", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Consigue mejorar la circulación y evitar la retención de líquidos mediante el drenaje linfático. Bono de cinco sesiones"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Ultrasónica Punta De Diamante", 
+            "duration": 900, 
+            "price": "65 € ", 
+            "description": "Sistema de higiene y regeneración cutánea en profundidad que actúa mediante ondas de ultrasonidos facilitando la extracción de impurezas, de forma agradable e indolora"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Revitalizante Vita-C", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "Tratamiento dirigido a pieles apagadas o desvitalizadas tras el invierno que necesitan un toque extra de luminosidad e hidratación."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Piernas Ligeras Y Tonificadas", 
+            "duration": 3600, 
+            "price": "370 € ", 
+            "description": "Tratamiento indicado para mejorar la circulación y tonificar las piernas. 4 sesiones de Dermoplastia + 4 sesiones de Presoterapia"
+        }
+    ]
+}

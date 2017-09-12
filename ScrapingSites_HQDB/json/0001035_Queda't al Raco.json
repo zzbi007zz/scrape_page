@@ -1,0 +1,142 @@
+{
+    "adid": null, 
+    "name": "Queda't al Racó", 
+    "name_of_contact": "Queda't al Racó", 
+    "scrape_page": "https://www.bucmi.com/quedatalraco", 
+    "business_website": "https://www.bucmi.com/quedatalraco", 
+    "areas_covered": null, 
+    "description": "Queda't al Racó es un centro de Estética en pleno centro de Barcelona, dedicado al cuidado de la belleza y bienestar. Ofrecemos un Servicio Personalizado, con profesionalidad y sin prisas. Disfrutarás de servicios como manicura, higiene facial, pedicura.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636268396236004091.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636268396246160125.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636268396267565819.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636268396280377996.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636268396293814989.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "7", 
+    "hqdb_review_score": "9,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Nicaragua, 86", 
+    "city": "Barcelona", 
+    "zipcode": "08029", 
+    "formatted_address": "C/ Nicaragua, 86, Barcelona, 08029", 
+    "country": "es", 
+    "office_number": "931244450", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3903928000", 
+    "longitude": "2.1393709000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636268397659403295.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Anticelulítico", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Tratamiento corporal anticelulítico en zona localizada, en el que combinamos el uso manual y de aparatología, además también bambuterapia, masaje realizado con cañas de bambú. Si quieres librarte de esa piel de naranja no lo dudes y ven a vernos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Uñas De Gel", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Porque la calidad es lo importante, te ofrecemos un servicio con expertas en uñas de gel. No esperes más y reserva ahora tu servicio online con Bucmi, podrás elegir entre una amplia variedad de colores."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene facial completa", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Piel limpia y sin impurezas, en nuestro centro es posible, no lo dudes y ven a vernos. Incluye: Limpieza, tónico, vapor de ozono, extracción de impurezas de forma manual, mascarilla, alta frecuencia para cerrar los poros y masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling De Espalda", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "PEELING DE ESPALDA, la dejaremos libre de impurezas para que puedas lucirla en verano.1. aplicaremos un tónico2. exfoliaremos con un peeling apropiado para el tipo de piel3. masaje con aceite esencial de Almendra"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Anticelulítico", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Tratamiento corporal anticelulítico en zona localizada, en el que combinamos el uso manual y de aparatología, además también bambuterapia, masaje realizado con cañas de bambú. Si quieres librarte de esa piel de naranja no lo dudes y ven a vernos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene facial completa", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Piel limpia y sin impurezas, en nuestro centro es posible, no lo dudes y ven a vernos. Incluye: Limpieza, tónico, vapor de ozono, extracción de impurezas de forma manual, mascarilla, alta frecuencia para cerrar los poros y masaje."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling De Espalda", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "PEELING DE ESPALDA, la dejaremos libre de impurezas para que puedas lucirla en verano.1. aplicaremos un tónico2. exfoliaremos con un peeling apropiado para el tipo de piel3. masaje con aceite esencial de Almendra"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Anticelulítico", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Tratamiento corporal anticelulítico en zona localizada, en el que combinamos el uso manual y de aparatología, además también bambuterapia, masaje realizado con cañas de bambú. Si quieres librarte de esa piel de naranja no lo dudes y ven a vernos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Gel Couture", 
+            "duration": 2700, 
+            "price": "17,5 € ", 
+            "description": "La manicura de acabado gel con duración de hasta 12 días sin tener que usar lámpara existe y viene de la mano de Gel Couture de Essie. Cobertura y brillo perfecto gracias al diseño de su pincel y su novedosa fórmula. Además, la retirada de estos esmaltes es muy fácil y solo necesitarás un quitaesmalte convencional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Normal", 
+            "duration": 3600, 
+            "price": "16,5 € ", 
+            "description": "Luce una manicura perfecta de la mano de los mejores profesionales del sector gracias a este servicio. Incluye limado para dar forma a tus uñas, retirada de cutículas y esmaltado del color que prefieres a elegir entre una amplia gama. Reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Consigue una manicura perfecta más tiempo de la mano de los mejores profesionales del sector gracias a esta manicura permanente. El servicio incluye limado, retirada de cutículas y esmaltado del color que prefieras a elegir entre una amplia gama. Reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Vegana", 
+            "duration": 3600, 
+            "price": "16,5 € ", 
+            "description": "Consigue una manicura perfecta de la mano de los mejores profesionales del sector gracias a esta manicura vegana. Utilizamos productos 100% naturales comprometidos con el medio ambiente. No esperes más y reserva ahora tu cita online de la forma más fácil a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Gel Couture", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "La pedicura de acabado gel con duración de hasta 12 días sin tener que usar lámpara existe y viene de la mano de Gel Couture de Essie. Combina una cobertura perfecta gracias al diseño de su pincel y su fórmula innovadora para que consigas unas uñas ultra glossy y con un brillo intenso. Además, la retirada de estos esmaltes es muy fácil y solo necesitarás un quitaesmalte convencional."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene facial completa", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Piel limpia y sin impurezas, en nuestro centro es posible, no lo dudes y ven a vernos. Incluye: Limpieza, tónico, vapor de ozono, extracción de impurezas de forma manual, mascarilla, alta frecuencia para cerrar los poros y masaje."
+        }
+    ]
+}

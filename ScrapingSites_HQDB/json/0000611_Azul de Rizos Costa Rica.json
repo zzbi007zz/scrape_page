@@ -1,0 +1,131 @@
+{
+    "adid": null, 
+    "name": "Azul de Rizos Costa Rica", 
+    "name_of_contact": "Azul de Rizos Costa Rica", 
+    "scrape_page": "https://www.bucmi.com/rizoscostarica", 
+    "business_website": "https://www.bucmi.com/rizoscostarica", 
+    "areas_covered": null, 
+    "description": "Azul de Rizos es una cadena de salones de belleza, pertenecientes a la popular firma de Rizos, donde se dedican en exclusiva a la belleza de sus clientes, con el mejor trato y en unas instalaciones agradables. ¡Ven a conocer nuestro salón de Colombia!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954564414597245.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954564414284728.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954564415222238.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954564415847237.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954564416159736.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954564419597230.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954564421315970.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954564421940973.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Menorca, 20", 
+    "city": "Madrid", 
+    "zipcode": "28016", 
+    "formatted_address": "C/ Menorca, 20, Madrid, 28016", 
+    "country": "es", 
+    "office_number": "913594838", 
+    "office_number2": null, 
+    "mobile_number": "722763812", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4583093000", 
+    "longitude": "-3.6739814000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635954582911418268.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Corte Y Peinado", 
+            "duration": 5400, 
+            "price": "57 € ", 
+            "description": "El pack perfecto para renovar tu cabello con las ultimas tendencias en color y corte. ¡Ven a darte un cambio! Incluye el lavado con champú de tratamiento y locion de peinado. Todos los productos utilizados son de loreal profesional"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "¿Aburrida de tu melena? ¿Te apetece darle un toque divertido a tu estilo? Reserva nuestro completo servicio de coloración y escoge entre nuestra gama de colores o déjate asesorar por nuestros estilistas de Azul de Rizos. Incluye lavado con champu tratamiento . Todos los productos utilizados son loreal profesional"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les preocupa su belleza. Disfruta de nuestros cortes de tendencia y déjate llevar por nuestros expertos estilistas. El servicio incluye el corte asesorado, lavado y productos de acabado para el peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Quieres sanear tus puntas? ¿O darle un nuevo toque a tu melena? Ven a Azul de Rizos y nuestros estilistas adaptarán tu corte a tu estilo y personalidad para que luzcas un look a la moda. Incluye el corte, el lavado con champú especifico , locion de peinado loreal y el peinado"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Y Peinado", 
+            "duration": 7200, 
+            "price": "59,5 € ", 
+            "description": "¿Sientes tu pelo apagado? ¿Echas de menos como te lo deja el sol en verano? Ven a Azul de Rizos y disfruta de nuestro servicio de mechas para poder iluminar tu melena. El servicio incluye lavado con champú loreal . Para finalizar, incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado", 
+            "duration": 5400, 
+            "price": "57 € ", 
+            "description": "El pack perfecto para renovar tu cabello con las ultimas tendencias en color y corte. ¡Ven a darte un cambio! Incluye el lavado con champú de tratamiento y locion de peinado. Todos los productos utilizados son de loreal profesional"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado", 
+            "duration": 7200, 
+            "price": "79,5 € ", 
+            "description": "Reserva este pack completo de belleza para tu pelo y consigue lucir un pelo suave, luminoso y lleno de vida. ¡Ya es hora de que le des un toque de luz a tu melena para aportarle movimiento! El servicio incluye el lavado con champú especifico y locion de peinado de loreal"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "¿Aburrida de tu melena? ¿Te apetece darle un toque divertido a tu estilo? Reserva nuestro completo servicio de coloración y escoge entre nuestra gama de colores o déjate asesorar por nuestros estilistas de Azul de Rizos. Incluye lavado con champu tratamiento . Todos los productos utilizados son loreal profesional"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les preocupa su belleza. Disfruta de nuestros cortes de tendencia y déjate llevar por nuestros expertos estilistas. El servicio incluye el corte asesorado, lavado y productos de acabado para el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Quieres sanear tus puntas? ¿O darle un nuevo toque a tu melena? Ven a Azul de Rizos y nuestros estilistas adaptarán tu corte a tu estilo y personalidad para que luzcas un look a la moda. Incluye el corte, el lavado con champú especifico , locion de peinado loreal y el peinado"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado", 
+            "duration": 7200, 
+            "price": "59,5 € ", 
+            "description": "¿Sientes tu pelo apagado? ¿Echas de menos como te lo deja el sol en verano? Ven a Azul de Rizos y disfruta de nuestro servicio de mechas para poder iluminar tu melena. El servicio incluye lavado con champú loreal . Para finalizar, incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado", 
+            "duration": 1800, 
+            "price": "15,5 € ", 
+            "description": "SI tienes una cita importante, que te ha surgido de repente, y quieres ir perfecta; o simplemente, te cuesta apañarte con el secador y la plancha, y te apetece verte guapa, ven a Azul de Rizos y disfruta de nuestro tradicional servicio de lavar y peinar. ¡Te encantará el resultado!"
+        }
+    ]
+}

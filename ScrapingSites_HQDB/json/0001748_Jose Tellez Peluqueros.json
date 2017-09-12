@@ -1,0 +1,170 @@
+{
+    "adid": null, 
+    "name": "José Téllez Peluqueros", 
+    "name_of_contact": "José Téllez Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/josetellezpeluqueros", 
+    "business_website": "https://www.bucmi.com/josetellezpeluqueros", 
+    "areas_covered": null, 
+    "description": "Jose Tellez Peluqueros es un centro de belleza capilar donde podrás encontrar los últimos cortes de tendencia, mechas, coloraciones... Todo ello en un ambiente familiar de la mano de profesionales expertos. Ven a conocer nuestro centro de Mestalla.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792257252515879.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792257276422124.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792257490043186.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792257580199200.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635792257850388269.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valencia", 
+    "zipcode": "Valencia", 
+    "formatted_address": "Valencia, Valencia", 
+    "country": "es", 
+    "office_number": "963891959", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "39.4701896000", 
+    "longitude": "-0.3559652000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635965728725698787.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "El servicio incluye el lavado de cabello, corte y peinado final. Serás asesorado pon los mejores profesionales. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Balayage", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Técnica moderna y muy de moda en la actualidad. Da luz a tu pelo gracias a estas mechas Balayage, con ellas no tendrás raíz aunque te crezca el cabello. Déjate asesorar por nuestros profesionales. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Media Melena / Pelo Largo", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Peinado para cabello medio o largo. Incluye lavado con acondicionador. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¿Cambio de imagen? ¿Color apagado con el tiempo? Este servicio de color cumplirá todas tus expectativas. Elige tu tono entre nuestra gama de tonos de alta calidad. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Elimina las raíces gracias a este servicio de color. Tras el tratamiento, si no decide peinarse, le quitaremos la humedad del cabello con secador. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "El servicio incluye el lavado de cabello, corte y peinado final. Serás asesorado pon los mejores profesionales. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer (Sanear)", 
+            "duration": 900, 
+            "price": "13 € ", 
+            "description": "Sanea tu cabello, algo que es tan necesario y a la vez tan temido. ¡Confía en nosotros, no tendrás miedo de nuevo a cortarte las puntas! El servicio no incluye el lavado, serian dos euros y se abonaría en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "Corte de pelo José Tellez, con mi asesoramiento profesional. Duración de unos 20 minutos, el lavado tiene un coste extra de dos euros.En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Da vida y color a tu cabello con nuestras mechas, realizadas con papel de plata. Elije el tono o tonos que quieras y deja que te asesoremos. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Técnica moderna y muy de moda en la actualidad. Da luz a tu pelo gracias a estas mechas Balayage, con ellas no tendrás raíz aunque te crezca el cabello. Déjate asesorar por nuestros profesionales. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena / Pelo Largo", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Peinado para cabello medio o largo. Incluye lavado con acondicionador. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Con nuestro peinado para cabello, te veras perfecta, hazte el de siempre o puedes optar por innovar. Incluye lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Cellophanes Pelo Corto", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Tratamiento capilar de la casa Sebastian, que aporta máximo brillo a nuestro cabello y sella las cuticulas, frente agentes externos. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Cellophanes Pelo Medio O Largo", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Aporta brillo a tu cabello y sella las cutilas de este, con este tratamiento para cabello medio o largo de Sebastian. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hydre Sebastian Pelo Corto", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Hydre Sebastian para cabello corto. Con este tratamiento conseguirás una hidratación profunda, devolviendo la elasticidad a tu cabello. En José Téllez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hydre Sebastian Pelo Largo", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Indicado para cabello medios y largos, con este tratamiento, aportarás brillo y toda la elasticidad perdida. Consiste en un concentrado de mascarilla que se deja aplicar con calor."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Penetraitt Pelo Corto", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Tratamiento de la marca Sebastian, proporciona una nutrición profunda, engrosa el cabello y previene su rotura. Este servicio es para cabello corto. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Penetraitt Pelo Largo", 
+            "duration": 1800, 
+            "price": "22 € ", 
+            "description": "Tratamiento capilar Penetraitt de Sebastian, nutre tu melena en profundidad, engrosa el cabello y previene su rotura. Para cabello medio o largo. En Jose Tellez cuentan con un equipo de profesionales que te asesoraran e intentaran ayudarte a encontrar el mejor estilo."
+        }
+    ]
+}

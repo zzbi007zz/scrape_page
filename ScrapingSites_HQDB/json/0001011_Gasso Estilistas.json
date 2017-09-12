@@ -1,0 +1,397 @@
+{
+    "adid": null, 
+    "name": "Gasso Estilistas", 
+    "name_of_contact": "Gasso Estilistas", 
+    "scrape_page": "https://www.bucmi.com/gassoestilistas", 
+    "business_website": "https://www.bucmi.com/gassoestilistas", 
+    "areas_covered": null, 
+    "description": "Peluquería y estética unisex situado en Horta Guinardo. Ofrecemos una amplia gama de servicios y tratamientos específicos para el cabello, rostro y cuerpo,con productos de Wella SP, Babor y Gerard's y realizados por un creativo equipo de estilistas", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635786025937646110.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635786025998270818.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635786026010770775.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635786026026083218.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635786026042177417.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635786026670792718.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635786026736573723.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635786278230421697.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08027", 
+    "formatted_address": "Barcelona, 08011, Barcelona, 08034, Barcelona, 08030, Barcelona, 08027", 
+    "country": "es", 
+    "office_number": "933526545", 
+    "office_number2": null, 
+    "mobile_number": "628212402", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4247089000", 
+    "longitude": "2.1774609000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966701599123417.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Completo, Corte, Brushing Y Acabado Final", 
+            "duration": 7200, 
+            "price": "58,8 € ", 
+            "description": "Servicio completo que incluye diagnóstico previo, corte personalizado y asesorado por el estilista.Color Total: incluidos cambios de color. Lavado con masaje capilar y BRUSHING con Producto final. Cabello medio, para extralargo consultar profesional. Saldrás realmente estupenda de nuestro salón Gasso Estilistas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "El servicio incluye diagnóstico previo,corte personalizado y asesorado por el estilista, lavado con masaje capilar y producto de acabado final de SP Men. ¡Desde un estilo clásico al más vanguardista! Este servicio es exclusivo para el hombre,porque a nosotros también nos preocupa nuestra imagen."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Mujer Cambio De Imagen", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "Dale un nuevo look a tu cabello, con este servicio que incluye diagnóstico previo, un corte personalizado y asesorado por el estilista. No incluye lavado y secado. En nuestra peluquería disponemos de especialistas que te asesorán en todo momento. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Mujer,Brushing Y Producto Final", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "En nuestra peluquería Gasso, encontrarás siempre un asesoramiento de 10. El servicio incluye: diagnóstico previo,corte personalizado y asesorado por el estilista, lavado con masaje capilar y BRUSHING con Producto final. Cabello medio, para extralargo consultar profesional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Ingles Normales O Axilas", 
+            "duration": 900, 
+            "price": "4,9 € ", 
+            "description": "Elimina ese vello tan molesto de la zona de ingles normales o axilas, gracias a esta sesión profesional de depilación con cera. Ponte en las manos de nuestros expertos esteticistas de Gasso Estilistas y disfruta de una piel más suave y libre de vello por un par de semanas. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Piernas Enteras Mujer", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Elimina ese vello tan molesto de la zona de piernas enteras gracias a esta sesión profesional de depilación con cera. Ponte en las manos de nuestros expertos esteticistas de Gasso Estilistas y disfruta de una piel más suave y libre de vello por un par de semanas. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Profunda", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Tratamiento facial que elimina las células muertas de la piel. Incluye limpieza y desmaquillado de la piel, extracción de impurezas, mascarilla de la marca de alta cosmética de Babor y masaje final. La piel del rostro adquiere un aspecto más trasparente, traslúcido, limpio y lozano. De esta manera la piel se verá sana, fina y no grasa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 2700, 
+            "price": "13,5 € ", 
+            "description": "El servicio incluye retirada de cutículas, limado de uñas, masaje de manos y esmaltado en una amplía gama de colores. Conseguirás unas manos bonitas y de aspecto cuidado gracias a nuestros expertos esteticistas de Gasso Estilistas. Ven a conocernos y conoce nuestra paleta de coloraciones."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal Relajante", 
+            "duration": 3600, 
+            "price": "36,5 € ", 
+            "description": "Masaje corporal enriquecido con aceites esenciales. La combinación de las maniobras de masaje y la aromaterapia no te dejará indiferente. Conoce las manos de nuestra quiromasajista profesional y disfruta de un oasis de relajación para tu cuerpo y tu mente. No lo dejes escapar, te sorprenderá."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Completa, Masaje De Pies Y Esmaltado", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "El servicio incluye tratamiento de durezas, retirada de cutículas, limado de uñas, y esmaltado en una amplía gama de colores. Podrás lucir unos pies de infarto gracias a nuestros expertos esteticistas de Gasso Estilistas. Reserva ya con Bucmi.com y no te arrepentirás de los resultados. Te encantará."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Quiromasaje Descontracturante", 
+            "duration": 1800, 
+            "price": "26 € ", 
+            "description": "Disfruta de un quiromasaje profesional, ideal para descontracturar tu cuerpo y relajarte. El servicio tiene una duración aproximada de 30 minutos de duración. Guarda un espacio para ti en tu apretada agenda y sal totalmente renovado gracias a nuestros expertos terapeutas de Gasso Estilistas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflexología Podal", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "La Reflexología Podal es una técnica manual en la que se trabaja sobre diferentes puntos de presión en el pie. Estas presiones actúan sobre zonas reflejas repartidas por todo el cuerpo. Esta técnica reduce el estrés y favorece el equilibrio del organismo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Tratamiento Facial Power C+ de Skeyndor. Prueba en tu piel el efecto revitalizante y antioxidante de la vitamina C en altas concentraciones. Esta lucha contra los radicales libres y devuelve a tu rostro la luminosidad y vitalidad que necesita."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia Peluquería", 
+            "duration": 14400, 
+            "price": "235 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Prueba Maquillaje, Prueba Recogido, Brushing, Productos (120´)Brushing, Velo Seda (shine finish), Recogido día Boda, Productos de acabado, Ajuste de Tocado, Maquillaje día Boda y Bottle Flash."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novio Peluquería Y Estética", 
+            "duration": 10800, 
+            "price": "132 € ", 
+            "description": "Pack novio de peluquería y estética para estar en perfecta forma el día más especial. Incluye: asesoramiento y corte de cabello, Higiene facial , manicura y dep. cejas. Masaje 50´ BAMBOO (energético, defatigante, descontracturante) ó Masaje Relajante. ¡Y preocúpate de otros asuntos para ese día!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo, Corte, Brushing Y Acabado Final", 
+            "duration": 7200, 
+            "price": "58,8 € ", 
+            "description": "Servicio completo que incluye diagnóstico previo, corte personalizado y asesorado por el estilista.Color Total: incluidos cambios de color. Lavado con masaje capilar y BRUSHING con Producto final. Cabello medio, para extralargo consultar profesional. Saldrás realmente estupenda de nuestro salón Gasso Estilistas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia Estética", 
+            "duration": 14400, 
+            "price": "225 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Higiene facial profunda, dep. piernas enteras,axilas,cejas,ingles y labio. Mascarilla black MASK,. Manicura y pedicura completa semi permanente, peeling de sales del Mar Muerto y tratamiento DERMASHINE 60`:Peeling antiedad de nueva generación, renovación celular dermatológico. Resultado “luz intensa”, potenciado por la presencia de las partículas de diamante, se suma el del tonificante y tensor efecto lifting."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Media Melena", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Unifica el color de tu cabello gracias a este LUMINOSO baño de color . Válido para medias melenas, si el pelo es extralargo consulte posible suplemento con el profesional. Incluye lavado con champú SP Wella pero no incluye el peinado. Reserva ya en nuestro salón y ponte en manos de nuestros estilistas. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Pelo Corto", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "Unifica el color de tu cabello gracias a este LUMINOSO baño de color que dejará tu melena más brillante y llena de vida .Melenas cortas. Incluye lavado con champú SP Wella pero no incluye el peinado. Reserva ya en nuestro salón y ponte en manos de nuestros estilistas. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Pelo Largo", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "Unifica el color de tu cabello gracias a este LUMINOSO baño de color . Melenas largas, si tienes una melena extralarga consulta posible suplemento en el salón. Incluye lavado con champú SP Wella pero no incluye el peinado. Reserva ya en nuestro salón y ponte en manos de nuestros estilistas. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Ilumina Wella Pelo Corto", 
+            "duration": 1800, 
+            "price": "28,8 € ", 
+            "description": "Resalta la luz natural de tu cabello y eleva su brillo hasta un nuevo nivel de luminosidad. Válido para cabello corto. Incluye lavado con champú SP Wella pero no incluye el peinado. ¿A qué esperas para darle una nueva vida a tu melena? Haz tu reserva gracias a Bucmi.com y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Ilumina Wella Pelo Largo", 
+            "duration": 2700, 
+            "price": "31,5 € ", 
+            "description": "Resalta la luz natural de tu cabello y eleva su brillo hasta un nuevo nivel de luminosidad. Válido para cabello medio (largo), para extra largo consultar a profesional. Incluye lavado con champú SP Wella pero no incluye el peinado. ¿A qué esperas para darle una nueva vida a tu melena? Haz tu reserva gracias a Bucmi.com y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Ilumina Wella Raiz Pelo Corto", 
+            "duration": 1800, 
+            "price": "24,5 € ", 
+            "description": "Resalta la luz natural de tu cabello y eleva su brillo hasta un nuevo nivel de luminosidad. Válido para cabello corto (raiz), para largo consultar a profesional. Incluye lavado con champú SP Wella pero no incluye el peinado. ¿A qué esperas para darle una nueva vida a tu melena? Haz tu reserva gracias a Bucmi.com y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Ilumina Wella Raíz Pelo Largo", 
+            "duration": 2700, 
+            "price": "34 € ", 
+            "description": "Resalta la luz natural de tu cabello y eleva su brillo hasta un nuevo nivel de luminosidad. Válido para cabello largo. Incluye lavado con champú SP Wella pero no incluye el peinado. ¿A qué esperas para darle una nueva vida a tu melena? Haz tu reserva gracias a Bucmi.com y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raiz, Corte, Secado E Hidratación", 
+            "duration": 7200, 
+            "price": "49 € ", 
+            "description": "Servicio completo que incluye diagnóstico previo, corte personalizado y asesorado por el estilista, color en raíz para igualar con tu tonalidad. No incluye el color completo ni cambios de color. Incluye: Lavado con masaje capilar y secado con Producto final. Cabello medio, para extralargo consultar profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "El servicio incluye diagnóstico previo,corte personalizado y asesorado por el estilista, lavado con masaje capilar y producto de acabado final de SP Men. ¡Desde un estilo clásico al más vanguardista! Este servicio es exclusivo para el hombre,porque a nosotros también nos preocupa nuestra imagen."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer Cambio De Imagen", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "Dale un nuevo look a tu cabello, con este servicio que incluye diagnóstico previo, un corte personalizado y asesorado por el estilista. No incluye lavado y secado. En nuestra peluquería disponemos de especialistas que te asesorán en todo momento. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer,Brushing Y Producto Final", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "En nuestra peluquería Gasso, encontrarás siempre un asesoramiento de 10. El servicio incluye: diagnóstico previo,corte personalizado y asesorado por el estilista, lavado con masaje capilar y BRUSHING con Producto final. Cabello medio, para extralargo consultar profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer,Secado Y Producto Final", 
+            "duration": 2700, 
+            "price": "28,7 € ", 
+            "description": "Disfruta de nuestros diferentes cortes de pelo realizado por nuestros especialistas de Gasso. ¡Dale cambio de look a tu pelo! Este servicio incluye un diagnóstico previo asesorado por profesionales, lavado con masaje capilar y secado, corte personalizado y Producto final."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Extensiones De Pelo 100% Natural", 
+            "duration": 10800, 
+            "price": "245 € ", 
+            "description": "Luce extensiones de cabello 100% natural de 1ª calidad (KODIGO 4) de aprox. 90cm de largo. Conseguirás una melena más larga de una forma natural gracias a este completo servicio de Gasso Estilistas. El efecto quedará muy natural, como si fuera tu propio pelo natural. Reserva ya con Bucmi.com y no te arrepentirás."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Y Secado", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "Da un aire de verano a tu cabello con las mechas californianas y añade nuevo look a tu imagen. Incluye lavado con masaje capilar y secado. No esperes más y reserva en Gasso Estilistas este servicio para que luzcas el look de moda de este año. Te encantará tu nueva imagen."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Hombre, Corte Y Color Gray Shading", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Difumina y atenúa las canas, color natural sin efecto raíz en 5´"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Novia Peluquería", 
+            "duration": 14400, 
+            "price": "235 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Prueba Maquillaje, Prueba Recogido, Brushing, Productos (120´)Brushing, Velo Seda (shine finish), Recogido día Boda, Productos de acabado, Ajuste de Tocado, Maquillaje día Boda y Bottle Flash."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Novio Peluquería Y Estética", 
+            "duration": 10800, 
+            "price": "132 € ", 
+            "description": "Pack novio de peluquería y estética para estar en perfecta forma el día más especial. Incluye: asesoramiento y corte de cabello, Higiene facial , manicura y dep. cejas. Masaje 50´ BAMBOO (energético, defatigante, descontracturante) ó Masaje Relajante. ¡Y preocúpate de otros asuntos para ese día!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Completo, Corte, Brushing Y Acabado Final", 
+            "duration": 7200, 
+            "price": "58,8 € ", 
+            "description": "Servicio completo que incluye diagnóstico previo, corte personalizado y asesorado por el estilista.Color Total: incluidos cambios de color. Lavado con masaje capilar y BRUSHING con Producto final. Cabello medio, para extralargo consultar profesional. Saldrás realmente estupenda de nuestro salón Gasso Estilistas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Novia Estética", 
+            "duration": 14400, 
+            "price": "225 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Higiene facial profunda, dep. piernas enteras,axilas,cejas,ingles y labio. Mascarilla black MASK,. Manicura y pedicura completa semi permanente, peeling de sales del Mar Muerto y tratamiento DERMASHINE 60`:Peeling antiedad de nueva generación, renovación celular dermatológico. Resultado “luz intensa”, potenciado por la presencia de las partículas de diamante, se suma el del tonificante y tensor efecto lifting."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Baño De Color Media Melena", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Unifica el color de tu cabello gracias a este LUMINOSO baño de color . Válido para medias melenas, si el pelo es extralargo consulte posible suplemento con el profesional. Incluye lavado con champú SP Wella pero no incluye el peinado. Reserva ya en nuestro salón y ponte en manos de nuestros estilistas. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Baño De Color Pelo Corto", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "Unifica el color de tu cabello gracias a este LUMINOSO baño de color que dejará tu melena más brillante y llena de vida .Melenas cortas. Incluye lavado con champú SP Wella pero no incluye el peinado. Reserva ya en nuestro salón y ponte en manos de nuestros estilistas. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Baño De Color Pelo Largo", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "Unifica el color de tu cabello gracias a este LUMINOSO baño de color . Melenas largas, si tienes una melena extralarga consulta posible suplemento en el salón. Incluye lavado con champú SP Wella pero no incluye el peinado. Reserva ya en nuestro salón y ponte en manos de nuestros estilistas. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Ilumina Wella Pelo Corto", 
+            "duration": 1800, 
+            "price": "28,8 € ", 
+            "description": "Resalta la luz natural de tu cabello y eleva su brillo hasta un nuevo nivel de luminosidad. Válido para cabello corto. Incluye lavado con champú SP Wella pero no incluye el peinado. ¿A qué esperas para darle una nueva vida a tu melena? Haz tu reserva gracias a Bucmi.com y te encantará el resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Novia Peluquería", 
+            "duration": 14400, 
+            "price": "235 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Prueba Maquillaje, Prueba Recogido, Brushing, Productos (120´)Brushing, Velo Seda (shine finish), Recogido día Boda, Productos de acabado, Ajuste de Tocado, Maquillaje día Boda y Bottle Flash."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Novio Peluquería Y Estética", 
+            "duration": 10800, 
+            "price": "132 € ", 
+            "description": "Pack novio de peluquería y estética para estar en perfecta forma el día más especial. Incluye: asesoramiento y corte de cabello, Higiene facial , manicura y dep. cejas. Masaje 50´ BAMBOO (energético, defatigante, descontracturante) ó Masaje Relajante. ¡Y preocúpate de otros asuntos para ese día!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Novia Peluquería", 
+            "duration": 14400, 
+            "price": "235 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Prueba Maquillaje, Prueba Recogido, Brushing, Productos (120´)Brushing, Velo Seda (shine finish), Recogido día Boda, Productos de acabado, Ajuste de Tocado, Maquillaje día Boda y Bottle Flash."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Novio Peluquería Y Estética", 
+            "duration": 10800, 
+            "price": "132 € ", 
+            "description": "Pack novio de peluquería y estética para estar en perfecta forma el día más especial. Incluye: asesoramiento y corte de cabello, Higiene facial , manicura y dep. cejas. Masaje 50´ BAMBOO (energético, defatigante, descontracturante) ó Masaje Relajante. ¡Y preocúpate de otros asuntos para ese día!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Color Completo, Corte, Brushing Y Acabado Final", 
+            "duration": 7200, 
+            "price": "58,8 € ", 
+            "description": "Servicio completo que incluye diagnóstico previo, corte personalizado y asesorado por el estilista.Color Total: incluidos cambios de color. Lavado con masaje capilar y BRUSHING con Producto final. Cabello medio, para extralargo consultar profesional. Saldrás realmente estupenda de nuestro salón Gasso Estilistas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Novia Estética", 
+            "duration": 14400, 
+            "price": "225 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Higiene facial profunda, dep. piernas enteras,axilas,cejas,ingles y labio. Mascarilla black MASK,. Manicura y pedicura completa semi permanente, peeling de sales del Mar Muerto y tratamiento DERMASHINE 60`:Peeling antiedad de nueva generación, renovación celular dermatológico. Resultado “luz intensa”, potenciado por la presencia de las partículas de diamante, se suma el del tonificante y tensor efecto lifting."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Novia Peluquería", 
+            "duration": 14400, 
+            "price": "235 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Prueba Maquillaje, Prueba Recogido, Brushing, Productos (120´)Brushing, Velo Seda (shine finish), Recogido día Boda, Productos de acabado, Ajuste de Tocado, Maquillaje día Boda y Bottle Flash."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Novio Peluquería Y Estética", 
+            "duration": 10800, 
+            "price": "132 € ", 
+            "description": "Pack novio de peluquería y estética para estar en perfecta forma el día más especial. Incluye: asesoramiento y corte de cabello, Higiene facial , manicura y dep. cejas. Masaje 50´ BAMBOO (energético, defatigante, descontracturante) ó Masaje Relajante. ¡Y preocúpate de otros asuntos para ese día!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Completo, Corte, Brushing Y Acabado Final", 
+            "duration": 7200, 
+            "price": "58,8 € ", 
+            "description": "Servicio completo que incluye diagnóstico previo, corte personalizado y asesorado por el estilista.Color Total: incluidos cambios de color. Lavado con masaje capilar y BRUSHING con Producto final. Cabello medio, para extralargo consultar profesional. Saldrás realmente estupenda de nuestro salón Gasso Estilistas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Novia Estética", 
+            "duration": 14400, 
+            "price": "225 € ", 
+            "description": "Pack de novia para que estés perfecta el día más especial. Incluye: Higiene facial profunda, dep. piernas enteras,axilas,cejas,ingles y labio. Mascarilla black MASK,. Manicura y pedicura completa semi permanente, peeling de sales del Mar Muerto y tratamiento DERMASHINE 60`:Peeling antiedad de nueva generación, renovación celular dermatológico. Resultado “luz intensa”, potenciado por la presencia de las partículas de diamante, se suma el del tonificante y tensor efecto lifting."
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "adid": null, 
+    "name": "Spai Verd", 
+    "name_of_contact": "Spai Verd", 
+    "scrape_page": "https://www.bucmi.com/spaiverd", 
+    "business_website": "https://www.bucmi.com/spaiverd", 
+    "areas_covered": null, 
+    "description": "Spai Verd es un centro estético y farmacia ubicada en Barcelona en la Plaça de Sant Agustí Vell, 11, en plena Ciutat Vella, entre el Arc de Triomf, el Mercat de Santa Caterina y el Born, a dos pasos del Parc de la Ciutadella. Spaiverd cuenta con profesionales altamente cualificados, que trabajan con la mejor tecnología y con cosmética de lujo 100% natural, como Alqvimia, libre de parabenos y con certificado ecológico. Aquí podrás disfrutar de tratamientos de belleza corporales reductores, faciales para el cuidado de la piel, de depilación láser Flash Xpress, y en su un área de salud, de servicios de fisioterapia, dietética y homeopatía, flores de Bach y masajes.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635605473806032241.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635605473811504247.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635605473820411307.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635605473823067756.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635605473831974685.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635605473839787748.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635605473841350357.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "10", 
+    "hqdb_review_score": "9,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Numancia, 129", 
+    "city": "Barcelona", 
+    "zipcode": "08003", 
+    "formatted_address": "C/ Numancia, 129, Barcelona, 08003", 
+    "country": "es", 
+    "office_number": "933198507", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3881036000", 
+    "longitude": "2.1806914000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966856661539445.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Con Peeling Ultrasónico", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Nuestra higiene facial, a diferencia de la tradicional en la que se emplea el vapor, se lleva a cabo mediante una paleta ultrasónica, que emite ondas de ultrasonidos, y al aplicarla sobre la dermis,facilita la extracción de impurezas y apertura de los poros. Se trata de un sistema revolucionario que presenta en otras ventajas que es menos agresivo para la piel, no es doloroso y no causa enrojecimiento en las zonas tratadas"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Y Tratamiento Con Vitamina C", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Recupera la firmeza de tu cutis con este pack de tratamientos faciales. Incluye una higiene facial completa con peeling, extracción, aparatología, hidratación y mascarilla de Vitamina C, que gracias a sus propiedades nutritivas, devuelve a tu rostro luminosidad y suavidad, aportando un aspecto mucho más rejuvenecedor. Descubre las propiedades estéticas de la Vitamina C. ¡Te sorprenderá! Reserva ya tu higiene y déjate mimar por nuestras profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "Todo un clásico que sigue los pasos indispensables para lucir unas manos impecables: limado de uñas, eliminación de cutículas, hidratación, esmaltado al gusto y…¡listo! Un lujo asequible que dura hasta una semana. Ahora lucir unas manos y unas uñas perfectas es más fácil que nunca, con solo 3 clicks, consigue tu reserva y déjate mimar por nuestras profesionales para que el resultado sea lo realmente necesitas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Alfa-Hidroxiácidos", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Porque cuidarse está a la orden del día, que mejor manera que ponerse en mano de los mejores profesionales con las últimas tecnologías del mercado.Descubre las propiedades de los Alfa-Hidroxiácidos y reduce las arrugas finas y superficiales, así como los daños provocados por el sol y el paso del tiempo. Se trata de una exfoliación poco agresiva con la piel, que tiene un efecto prolongado y duradero en el tiempo y rejuvenece tu piel y tu rostro de manera visible."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Este tratamiento, que consiste en la aplicación de ondas electromágneticas, tiene propiedades reafirmantes y también anticelulíticas. Resulta ideal para aquellas personas que quieran tratar la flacidez en piernas, abdomen o, incluso brazos. Empleamos cosmética de alto nivel para todos nuestros tratamientos para así, contribuir a una mejora de los resultados y conseguir mejoras el aspecto de la zona tratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Cavitación Y Presoterapia", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Si lo que necesitas es tratar esos acúmulos de grasas que tanto preocupan en zonas como cartucheras o abdomen, no lo dudes, este es tu tratamiento. Además, lo combinamos a la vez con sesión de presoterapia para ayudar al drenaje de las grasas, previamente tratadas con la cavitación. A partir de ahora, la celulitis y grasa localizada ya no será un problema para ti. ¡Reserva ya tu cita en Bucmi y comienza tu tratamiento!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Tratamiento Corporal Lpg", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "El LPG es una tecnología patentada indicada para remodelar el cuerpo y mejorar su contorno.Se trata de un equipo con un cabezal compuesto por dos rodillos que el terapeuta desplaza por el cuerpo del cliente, a fin de tratar en una misma sesión, las grasas localizadas, la celulitis y la reafirmación del tejido. Resulta completamente indolora y sus efectos están garantizados. ¡Reserva ya tu sesión y comenzarás a ver los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Peeling Ultrasónico", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Nuestra higiene facial, a diferencia de la tradicional en la que se emplea el vapor, se lleva a cabo mediante una paleta ultrasónica, que emite ondas de ultrasonidos, y al aplicarla sobre la dermis,facilita la extracción de impurezas y apertura de los poros. Se trata de un sistema revolucionario que presenta en otras ventajas que es menos agresivo para la piel, no es doloroso y no causa enrojecimiento en las zonas tratadas"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Velo De Colágeno", 
+            "duration": 7200, 
+            "price": "85 € ", 
+            "description": "A nuestra higiene facial con espátula ultrasónica, le añadimos como tratamiento sublime, el velo de colágeno. Se trata de una máscara de finisimas fibras de colágeno puro (las mismas que se pueden hallar en la dermis) que mantiene la piel hidratada, sana y rejuvenecida. El tratamiento lo que consigue es tensionar y rehidratar la piel. Las finas arrugas se difuminan y la piel luce resplandeciente. Se lleva a cabo aplicando sobre la piel una mascarilla de colágeno liofilizado que se deja en exposición 30 min"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Tratamiento Con Vitamina C", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Recupera la firmeza de tu cutis con este pack de tratamientos faciales. Incluye una higiene facial completa con peeling, extracción, aparatología, hidratación y mascarilla de Vitamina C, que gracias a sus propiedades nutritivas, devuelve a tu rostro luminosidad y suavidad, aportando un aspecto mucho más rejuvenecedor. Descubre las propiedades estéticas de la Vitamina C. ¡Te sorprenderá! Reserva ya tu higiene y déjate mimar por nuestras profesionales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Los tratamientos de higiene facial son aplicables tanto en mujeres como hombres. La limpieza de cutis es el primer paso para lucir una piel saludable y joven y mejorar el aspecto general de la piel. El servicio incluye peeling facial, extracción de impurezas, hidratación, mascarilla y masaje final. ¡Empieza ya a cuidar tu piel y te sentirás mucho mejor tanto por dentro como por fuera! Reserva tu cita en Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Contra el paso del tiempo no hay ningún remedio, pero gracias a la ciencia y a los avances en estética facial, puedes evitar sus efectos en tu rostro.La radiofrecuencia facial te permitirá rejuvenecer tu cutis y conseguir unos resultados visibles, que aportarán tu rostro un aspecto mucho más rejuvenecido y una mejor nutrición. ¡No lo dudes más! Empieza a cuidar tu cutis y conseguirás ver los resultados en la primera sesión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Facial Alfa-Hidroxiácidos", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Porque cuidarse está a la orden del día, que mejor manera que ponerse en mano de los mejores profesionales con las últimas tecnologías del mercado.Descubre las propiedades de los Alfa-Hidroxiácidos y reduce las arrugas finas y superficiales, así como los daños provocados por el sol y el paso del tiempo. Se trata de una exfoliación poco agresiva con la piel, que tiene un efecto prolongado y duradero en el tiempo y rejuvenece tu piel y tu rostro de manera visible."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Este tratamiento, que consiste en la aplicación de ondas electromágneticas, tiene propiedades reafirmantes y también anticelulíticas. Resulta ideal para aquellas personas que quieran tratar la flacidez en piernas, abdomen o, incluso brazos. Empleamos cosmética de alto nivel para todos nuestros tratamientos para así, contribuir a una mejora de los resultados y conseguir mejoras el aspecto de la zona tratada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial Alfa-Hidroxiácidos", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Porque cuidarse está a la orden del día, que mejor manera que ponerse en mano de los mejores profesionales con las últimas tecnologías del mercado.Descubre las propiedades de los Alfa-Hidroxiácidos y reduce las arrugas finas y superficiales, así como los daños provocados por el sol y el paso del tiempo. Se trata de una exfoliación poco agresiva con la piel, que tiene un efecto prolongado y duradero en el tiempo y rejuvenece tu piel y tu rostro de manera visible."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Este tratamiento, que consiste en la aplicación de ondas electromágneticas, tiene propiedades reafirmantes y también anticelulíticas. Resulta ideal para aquellas personas que quieran tratar la flacidez en piernas, abdomen o, incluso brazos. Empleamos cosmética de alto nivel para todos nuestros tratamientos para así, contribuir a una mejora de los resultados y conseguir mejoras el aspecto de la zona tratada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Sesión Cavitación Y Presoterapia", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Si lo que necesitas es tratar esos acúmulos de grasas que tanto preocupan en zonas como cartucheras o abdomen, no lo dudes, este es tu tratamiento. Además, lo combinamos a la vez con sesión de presoterapia para ayudar al drenaje de las grasas, previamente tratadas con la cavitación. A partir de ahora, la celulitis y grasa localizada ya no será un problema para ti. ¡Reserva ya tu cita en Bucmi y comienza tu tratamiento!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Sesión Tratamiento Corporal Lpg", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "El LPG es una tecnología patentada indicada para remodelar el cuerpo y mejorar su contorno.Se trata de un equipo con un cabezal compuesto por dos rodillos que el terapeuta desplaza por el cuerpo del cliente, a fin de tratar en una misma sesión, las grasas localizadas, la celulitis y la reafirmación del tejido. Resulta completamente indolora y sus efectos están garantizados. ¡Reserva ya tu sesión y comenzarás a ver los resultados!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Peeling Ultrasónico", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Nuestra higiene facial, a diferencia de la tradicional en la que se emplea el vapor, se lleva a cabo mediante una paleta ultrasónica, que emite ondas de ultrasonidos, y al aplicarla sobre la dermis,facilita la extracción de impurezas y apertura de los poros. Se trata de un sistema revolucionario que presenta en otras ventajas que es menos agresivo para la piel, no es doloroso y no causa enrojecimiento en las zonas tratadas"
+        }
+    ]
+}

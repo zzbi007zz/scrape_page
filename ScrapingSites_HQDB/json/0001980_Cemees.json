@@ -1,0 +1,118 @@
+{
+    "adid": null, 
+    "name": "Cemees", 
+    "name_of_contact": "Cemees", 
+    "scrape_page": "https://www.bucmi.com/cemees", 
+    "business_website": "https://www.bucmi.com/cemees", 
+    "areas_covered": null, 
+    "description": "Cemees es tu centro de estética en pleno casco antiguo de Zaragoza. ¡Déjate cuidar por grandes profesionales y disfruta de tratamientos de mesoterapia, presoterapia o microdermoabrasión entre muchos otros servicios! Cuerpo sano, mente sana.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635907272228371902.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635907272279018284.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "50004", 
+    "formatted_address": "Zaragoza, Zaragoza, Zaragoza, 50008, Zaragoza, 50004", 
+    "country": "es", 
+    "office_number": "876164223", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6521411000", 
+    "longitude": "-0.8847604000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636072150591284454.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 2700, 
+            "price": "175 € ", 
+            "description": "Multiplica los efectos de este beneficioso tratamiento anticelulítico con nuestro bono de 5 sesiones. Tras disfrutar de todas ellas, notarás como se remodela tu figura, reduciendo volumen y tonificando tu cuerpo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Sesiones Tratamiento Corporal Hidrolinfa", 
+            "duration": 1800, 
+            "price": "75 € ", 
+            "description": "Disfruta de hasta tres sesiones de nuestro tratamiento de Hidrolinfa y benefíciate de todos sus efectos positivos de forma continuada. Conseguirás un equilibrio físico y emocional, activando las funciones energéticas, además de mejorar la circulación, la retención de líquidos y la celulitis. ¡Un tratamiento súper completo!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Presoterapia Ballancer", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Consigue efectos aún más notables con nuestro bono de 5 sesiones de presoterapia Ballance. Tras varias sesiones notarás tus piernas mucho más ligeras, con una notable mejora del drenaje linfático. Si lo combinas con dieta saludable y algo de ejercicio notarás incluso una reducción de grasa localizada y volumen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Tratamiento Corporal Reductor", 
+            "duration": 2700, 
+            "price": "175 € ", 
+            "description": "Multiplica los efectos de este beneficioso tratamiento anticelulítico con nuestro bono de 5 sesiones. Tras disfrutar de todas ellas, notarás como se remodela tu figura, reduciendo volumen y tonificando tu cuerpo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Sesiones Tratamiento Corporal Hidrolinfa", 
+            "duration": 1800, 
+            "price": "75 € ", 
+            "description": "Disfruta de hasta tres sesiones de nuestro tratamiento de Hidrolinfa y benefíciate de todos sus efectos positivos de forma continuada. Conseguirás un equilibrio físico y emocional, activando las funciones energéticas, además de mejorar la circulación, la retención de líquidos y la celulitis. ¡Un tratamiento súper completo!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmante Hidrolinfa", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Te sorprenderán los múltiples beneficios de la hidrolinfa. Consigue estimular las funciones energéticas de nuetsro cuerpo, desintoxinado, reequilibrándonos física y emocionalmente, mejorando la circulación y la retención de líquidos, además de mejorar el sueño o reducir la celulítis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Orbicular Ojos", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Regenera las celulas de la piel y consigue un efecto tensor específico para el contorno de los ojos con nuestro tratamiento. Primero desmaquillamos, después tonificamos, realizamos una microexfoliación y un masaje especifico en el contorno de los ojos, aplicamos un vial con células vegetales en esta zona y terminamos realizando un masaje facial, aplicando mascarilla y crema."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Presoterapia Ballancer", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Consigue efectos aún más notables con nuestro bono de 5 sesiones de presoterapia Ballance. Tras varias sesiones notarás tus piernas mucho más ligeras, con una notable mejora del drenaje linfático. Si lo combinas con dieta saludable y algo de ejercicio notarás incluso una reducción de grasa localizada y volumen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Facial Punta De Diamante", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Recupera la luminosidad de tu rostro y elimina las imperfecciones de manchas y poros sucios, gracias a nuestro tratamiento facial de microdermoabrasión con punta de diamante. Primero te desmaquillamos y limpiamos el cutis, tonificamos la piel, aplicamos la microdermoabrasión, realizamos un masaje craneo-facial con aceites esenciales según tus necesidades y aplicamos una mascarilla plástica específica, además de la crema final."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión Presoterapia Ballancer", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Descarga la pesadez de tus piernas con nuestra sesión de presoterapia Ballancer. Este tipo de presoterapia de alta gama ofrece un efecto drenaje linfático real, que te ayudará a mejorar la circulación, la retención de líquidos y la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Láser Lipolítico", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "¿Conoces el láser lipolítico? Se trata de un tratamiento anticelilítico basado en un láser de baja intensidad que transmite unas micro-corriente que reducen, modela y tonifica tu cuerpo. Incluye la sesión de láser lipolítico y de presoterapia."
+        }
+    ]
+}

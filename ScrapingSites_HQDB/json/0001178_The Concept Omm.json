@@ -1,0 +1,113 @@
+{
+    "adid": null, 
+    "name": "The Concept Omm", 
+    "name_of_contact": "The Concept Omm", 
+    "scrape_page": "https://www.bucmi.com/theconcept", 
+    "business_website": "https://www.bucmi.com/theconcept", 
+    "areas_covered": null, 
+    "description": "THE CONCEPT espacio íntimo que permite un trato totalmente personalizado. Somos especialístas en color, tintes biorgánicos y tratamientos hidratantes para tu cabello. Trabajamos con productos exclusivos y 100% BIO. ??????? ?? - ??????", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636227742560140672.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636227742576702998.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636227742611858727.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636227742636546260.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08008", 
+    "formatted_address": "Barcelona, 08008", 
+    "country": "es", 
+    "office_number": "934454952", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3961052999", 
+    "longitude": "2.1605461999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636227745975426771.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Biorganic Color Therapy Y Blowdry", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Coloración a base de Aloe Vera, TeaTreeOil y Karite Butter. En el servicio está incluido el color biorgánico y el peinado para todo tipo de larguras."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Blowdry", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Corte de mujer con servicio de blowdry incluido. El corte es asesorado siempre a la vanguardia de las tendencias en peluquería. Cada clienta es única y queremos que te sientas especial tanto con tu corte como con tu peinado en un espacio único e íntimo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Satush O Balayage Y Blowdry", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "¡Aporta a tu cabello luz propia! Nueva técnica de coloración y reflejos, que no deja raíz, dejando un efecto natural de variación de tonos que se va aclarando paulatinamente hacia las puntas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Biorganic Color Therapy Y Blowdry", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Coloración a base de Aloe Vera, TeaTreeOil y Karite Butter. En el servicio está incluido el color biorgánico y el peinado para todo tipo de larguras."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Spa Blow Dry", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Cuida tu cabello con nuestro tratamiento spa blow Dry. Consigue desconectar y ponerte guapa en manos de nuestros estilistas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Dejate asesorar por los mejores profesionales para darle a tu cabello un toque más personal."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Brushlight Look Total: Corte Y Color", 
+            "duration": 5400, 
+            "price": "190 € ", 
+            "description": "El servicio incluye color, corte y brushing. ¡Luce un cabello bonito y con estilo!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Blowdry", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Corte de mujer con servicio de blowdry incluido. El corte es asesorado siempre a la vanguardia de las tendencias en peluquería. Cada clienta es única y queremos que te sientas especial tanto con tu corte como con tu peinado en un espacio único e íntimo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Satush O Balayage Y Blowdry", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "¡Aporta a tu cabello luz propia! Nueva técnica de coloración y reflejos, que no deja raíz, dejando un efecto natural de variación de tonos que se va aclarando paulatinamente hacia las puntas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Biorganic Color Therapy Y Blowdry", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "Coloración a base de Aloe Vera, TeaTreeOil y Karite Butter. En el servicio está incluido el color biorgánico y el peinado para todo tipo de larguras."
+        }
+    ]
+}

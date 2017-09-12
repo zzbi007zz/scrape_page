@@ -1,0 +1,151 @@
+{
+    "adid": null, 
+    "name": "Mostacho", 
+    "name_of_contact": "Mostacho", 
+    "scrape_page": "https://www.bucmi.com/mostacho", 
+    "business_website": "https://www.bucmi.com/mostacho", 
+    "areas_covered": null, 
+    "description": "Mostacho, tu peluquería de confianza en pleno barrio de Tetuán. Mantener contenta a nuestra clientela es uno de nuestros principales objetivo. Marcas de primera categoría apoyan nuestro trabajo.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008287687993339.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008287709271380.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008287709427412.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008287716621346.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008287721933394.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008287722870892.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636008287729433684.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "7,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Humanitarias, 23", 
+    "city": "Madrid", 
+    "zipcode": "28039", 
+    "formatted_address": "C/ Humanitarias, 23, Madrid, 28039", 
+    "country": "es", 
+    "office_number": "913117133", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4555174000", 
+    "longitude": "-3.7042974999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636008288285851951.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "10,9 € ", 
+            "description": "Los cortes que están revolucionando, ahora a tu alcance, ven a la pelu Mostacho y déjate asesorar por los mejores profesionales. El servicio incluye corte y lavado con champú especifico. No incluye peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "51 € ", 
+            "description": "Luce unas mechas para dar color y brillo a tu cabello, te asesoramos acerca del tono que más va con tu color natural y contigo. El servicio incluye lavado, mechas, corte y peinado brushing."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10,9 € ", 
+            "description": "Corte de pelo para él, elige entre un corte clásico o lo último que esta creando tendencia. Ponte en nuestras manos. Incluye corte y lavado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "10,9 € ", 
+            "description": "Los cortes que están revolucionando, ahora a tu alcance, ven a la pelu Mostacho y déjate asesorar por los mejores profesionales. El servicio incluye corte y lavado con champú especifico. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Niño", 
+            "duration": 900, 
+            "price": "8,9 € ", 
+            "description": "Pon a tu hijo en las mejores manos para que ese corte de pelo sea lo más divertido y entretenido posible para él/ella. El servicio incluye corte y lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "51 € ", 
+            "description": "Luce unas mechas para dar color y brillo a tu cabello, te asesoramos acerca del tono que más va con tu color natural y contigo. El servicio incluye lavado, mechas, corte y peinado brushing."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "37,1 € ", 
+            "description": "El pack de belleza más completo para tu cabello, de las manos de los mejores estilistas. El servicio incluye lavado, corte, tinte completo y peinado brushing para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Corte Y Peinado Pelo Medio Largo", 
+            "duration": 7200, 
+            "price": "37,8 € ", 
+            "description": "Pack completo de color con corte y peinado brushing. Pack para atrevidas que quieren un cambio de look o para las clásicas que quieren retocar su corte y su color."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte Y Peinado Pelo Medio Largo", 
+            "duration": 7200, 
+            "price": "55,8 € ", 
+            "description": "Pack completo de mechas con el corte y el peinado brushing incluido. Servicio indicado para media melena, pelo largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "8,6 € ", 
+            "description": "¿Se presenta una ocasión especial? Ponte en manos de los mejores profesionales para dar con el peinado que más va contigo. El servicio incluye lavado y peinado brushing."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Transparencias, Corte Y Peinado", 
+            "duration": 3600, 
+            "price": "42,8 € ", 
+            "description": "¿Quieres lucir unos reflejos naturales en el cabello? Reserva este servicio en el que se incluyen las transparencias, corte de pelo con asesoramiento de nuestros profesionales, lavado y peinado con brushing."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Keratina", 
+            "duration": 7200, 
+            "price": "80 € ", 
+            "description": "Tratamiento de keratina que da brillo y suavidad a tu cabello además de eliminar el encrespamiento y dejarlo liso de manera permanente durante al menos 4 meses."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Capilar Botox Y Peinado Corto", 
+            "duration": 3600, 
+            "price": "24,7 € ", 
+            "description": "Tratamiento capilar de hidratación Botox con fijado de plancha. Hidrata desde la raíz a la punta y ayuda a regenerar el cabello. El procedimiento es 20 minutos de exposición y dos aclarados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Capilar Botox Y Peinado Medio Largo", 
+            "duration": 2700, 
+            "price": "30,2 € ", 
+            "description": "Tratamiento capilar de hidratación Botox con fijado de plancha. Hidrata desde la raíz a la punta y ayuda a regenerar el cabello. El procedimiento es 20 minutos de exposición y dos aclarados. Servicio para media melena, pelo largo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10,9 € ", 
+            "description": "Corte de pelo para él, elige entre un corte clásico o lo último que esta creando tendencia. Ponte en nuestras manos. Incluye corte y lavado con productos de acabado."
+        }
+    ]
+}

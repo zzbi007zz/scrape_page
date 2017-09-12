@@ -1,0 +1,110 @@
+{
+    "adid": null, 
+    "name": "Balneario Aguaimas", 
+    "name_of_contact": "Balneario Aguaimas", 
+    "scrape_page": "https://www.bucmi.com/aguaimas", 
+    "business_website": "https://www.bucmi.com/aguaimas", 
+    "areas_covered": null, 
+    "description": "Aguai+ es un balneario spa de Madrid en el que te ofrecemos un extenso catálogo de tratamientos para mejorar tu salud por medio de circuitos de agua, masajes, dietética, fotorrejuvenecimiento y los mejores tratamientos de belleza. ¡Visítanos en Madrid!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526862921131915.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526862964104096.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526863025202648.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526863055673841.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526863177871059.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526863240219727.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526863289286112.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635526863490395847.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "8", 
+    "hqdb_review_score": "7,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28043", 
+    "formatted_address": "Madrid, 28043", 
+    "country": "es", 
+    "office_number": "912812725", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4656856000", 
+    "longitude": "-3.6307719999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636095571454349607.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Piel De Seda", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Haz retroceder a tu piel en el tiempo y estimula de manera natural la creación de colágeno y elastina. Este tratamiento facial incluye peeling que favorece la elasticidad y firmeza de la piel, mascarilla con proteínas de seda y oro y masaje reafirmante con crema de caviar. En nuestro centro contamos con productos de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¡Porque la edad es sólo un número y en nuestro centro lo sabemos! ¿A qué estás esperandoF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Chocolaterapia 2 Personas", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Imagina la sensación de envolver tu cuerpo en chocolate caliente y darte un masaje con aroma de coco, fresa, vainilla o violeta... Además de relajarte, aportas a tu cuerpo propiedades antioxidantes, tonificantes, drenantes y revitalizantes. ¡Conseguirás así una piel perfecta, ideal para cualquier temporada del año! Aprovecha las propiedades del chocolate y disfruta de ese momento de relajación con la persona que tu elijas. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.comF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Piel De Seda", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Haz retroceder a tu piel en el tiempo y estimula de manera natural la creación de colágeno y elastina. Este tratamiento facial incluye peeling que favorece la elasticidad y firmeza de la piel, mascarilla con proteínas de seda y oro y masaje reafirmante con crema de caviar. En nuestro centro contamos con productos de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¡Porque la edad es sólo un número y en nuestro centro lo sabemos! ¿A qué estás esperandoF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Piel De Seda", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Haz retroceder a tu piel en el tiempo y estimula de manera natural la creación de colágeno y elastina. Este tratamiento facial incluye peeling que favorece la elasticidad y firmeza de la piel, mascarilla con proteínas de seda y oro y masaje reafirmante con crema de caviar. En nuestro centro contamos con productos de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¡Porque la edad es sólo un número y en nuestro centro lo sabemos! ¿A qué estás esperandoF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Chocolaterapia 2 Personas", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Imagina la sensación de envolver tu cuerpo en chocolate caliente y darte un masaje con aroma de coco, fresa, vainilla o violeta... Además de relajarte, aportas a tu cuerpo propiedades antioxidantes, tonificantes, drenantes y revitalizantes. ¡Conseguirás así una piel perfecta, ideal para cualquier temporada del año! Aprovecha las propiedades del chocolate y disfruta de ese momento de relajación con la persona que tu elijas. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.comF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Sensaciones 50 Min", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje lleno de sensaciones con una duración de 50 minutos. Todo ello incluye un masaje de cañas de Bambú en piernas (25 min) con aceites esenciales que favorece la relajación, reactiva la circulación y combate la celulitis; y masaje de velas en espalda (25 min) realizado a la luz de las velas. Un auténtico pack con el que saldrás como nuevo de nuestro centro. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¿A qué estás esperando? ¡No dejes que te lo cuentenF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia 50 Min", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "El tratamiento manual o con aparatología especializado que te proponemos en las sesiones de fisioterapia previenen, recuperan, readaptan y rehabilitan tu cuerpo en multitud de patologías y dolencias: ciáticas, lumbalgias, esguinces, tendinitis. Todo ello en manos de nuestro equipo de profesionales. ¡Conseguirás así mejorar tu calidad de vida diaria! No lo pienses más y reserva ya tu cita cómodamente online a través de Bucmi.com. ¿A qué estás esperando? ¡No dejes que te lo cuenten! Duración de 50 minutos.F"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Tratamiento Facial Piel De Seda", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Haz retroceder a tu piel en el tiempo y estimula de manera natural la creación de colágeno y elastina. Este tratamiento facial incluye peeling que favorece la elasticidad y firmeza de la piel, mascarilla con proteínas de seda y oro y masaje reafirmante con crema de caviar. En nuestro centro contamos con productos de primera calidad. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.com! ¡Porque la edad es sólo un número y en nuestro centro lo sabemos! ¿A qué estás esperandoF"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Chocolaterapia 2 Personas", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Imagina la sensación de envolver tu cuerpo en chocolate caliente y darte un masaje con aroma de coco, fresa, vainilla o violeta... Además de relajarte, aportas a tu cuerpo propiedades antioxidantes, tonificantes, drenantes y revitalizantes. ¡Conseguirás así una piel perfecta, ideal para cualquier temporada del año! Aprovecha las propiedades del chocolate y disfruta de ese momento de relajación con la persona que tu elijas. ¡No lo dudes y reserva ya tu cita cómodamente online a través de Bucmi.comF"
+        }
+    ]
+}

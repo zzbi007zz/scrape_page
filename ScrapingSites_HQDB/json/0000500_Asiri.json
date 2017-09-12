@@ -1,0 +1,148 @@
+{
+    "adid": null, 
+    "name": "Asiri", 
+    "name_of_contact": "Asiri", 
+    "scrape_page": "https://www.bucmi.com/asiri", 
+    "business_website": "https://www.bucmi.com/asiri", 
+    "areas_covered": null, 
+    "description": "Asiri es una clínica privada de fisioterapia, rehabilitación y pilates ubicada en Chamberí, Madrid. Máxima calidad, atención personalizada y de confianza desde el primer contacto. Ambiente acogedor con fisioterapeutas colegiados altamente cualificados", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859429056961859.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859429088063004.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859429110094162.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859429131501803.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28015", 
+    "formatted_address": "Madrid, 28038, Madrid, 28015", 
+    "country": "es", 
+    "office_number": "914770142", 
+    "office_number2": null, 
+    "mobile_number": "691344533", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4384036000", 
+    "longitude": "-3.7142853000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908133016742947.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Sesiones Fisioterapia 50M", 
+            "duration": 2700, 
+            "price": "180 € ", 
+            "description": "¡Aprovecha nuestro bono de 5 sesiones de fisioterapia! Este servicio se basa en un tratamiento personalizado de diferentes patologías tales como: cervicalgias, lumbalgias, ciáticas, problemas discales, tendinitis, contracturas. La duración de la sesión es de 50 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Pilates 50 Min", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "¡Reserva nuestra sesión de pilates individual! Consiste en un entrenamiento personal a la medida de tus necesidades llevado a cabo por nuestros terapeutas expertos. Cada sesión tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Sesiones Individuales De Pilates 50 Min", 
+            "duration": 2700, 
+            "price": "350 € ", 
+            "description": "Disfruta de este bono de 10 sesiones. Pilates Individuales Un entrenamiento personal de Pilates a la medida de tus necesidades llevado a cabo por terapeutas expertos. La sesión tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Fisioterapia 50 Min", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Tratamiento personalizado de diferentes patologías tales como: cervicalgias, lumbalgias, ciáticas, problemas discales, tendinitis, contracturas. Cada sesión tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Osteopatia 50M", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Bono de 10 sesiones de osteopatía de 50 minutos de duración cada sesión. Técnicas manuales encaminadas a la reestructuración del paciente, tanto a nivel del sistema estructural como a nivel viscero-craneal."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Fisioterapia 30 Min", 
+            "duration": 1800, 
+            "price": "110 € ", 
+            "description": "¿Sueles padecer algún tipo de molestia o dolor muscular? ¡Entonces tienes que reservar este bono de 5 sesiones de fisioterapia! Con este servicio te olvidarás de los dolores producidos por lesiones. Cada sesión tiene una duración de media hora."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Fisioterapia 50M", 
+            "duration": 2700, 
+            "price": "180 € ", 
+            "description": "¡Aprovecha nuestro bono de 5 sesiones de fisioterapia! Este servicio se basa en un tratamiento personalizado de diferentes patologías tales como: cervicalgias, lumbalgias, ciáticas, problemas discales, tendinitis, contracturas. La duración de la sesión es de 50 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Fisioterapia 30 Min", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¡Si tienes una lesión o algún tipo de molestias musculares este es tu servicio! Reserva nuestra sesión de fisioterapia de media hora y estarás en manos de nuestros profesionales altamente cualificados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Fisioterapia 50 Min", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "En función de la capacidad funcional del paciente se plantearan unos objetivos terapéuticos y se diseñara un plan de tratamiento específico utilizando los medios propios y exclusivos de su disciplina.Pueden ser deportivos, respiratoria, osteopatia... Cada sesión tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Rehabilitación Colectiva 50 Min", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Bono de 10 sesiones de rehabilitación colectiva de 50 minutos de duración cada sesión. Estos bonos son unipersonales y tienen una validez de seis meses desde su adquisición. Las sesiones colectivas se realizan en un gimnasio en un horario reducido y con un mínimo de dos personas. Consúltanos sin compromiso."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 20 Sesiones Rehabilitación Privada 50 Min", 
+            "duration": 2700, 
+            "price": "560 € ", 
+            "description": "Bono de 20 sesiones de rehabilitación en sesión privada de 50 minutos de duración cada sesión. Estos bonos son unipersonales y tienen una validez de seis meses desde su adquisición"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Completo 75 Min", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "¿A qué esperas para reservar nuestro masaje más completo? Este masaje se realiza en las zonas de la espalda y las piernas. La duración del servicio tiene una duración de 75 minutos. ¡Reserva y relájate!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión Osteopatía 50 Min", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "¿Quieres eliminar las dolencias de tu cuerpo? ¡Reserva nuestra sesión de osteopatía! Está técnica se basa en masajes manual y manipulación de las articulaciones con el objetivo de que el cuerpo se recupere. El servicio tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 10 Sesiones Fisioterapia 50 Min", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Tratamiento personalizado de diferentes patologías tales como: cervicalgias, lumbalgias, ciáticas, problemas discales, tendinitis, contracturas. Cada sesión tiene una duración de 50 minutos."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 10 Sesiones Osteopatia 50M", 
+            "duration": 2700, 
+            "price": "400 € ", 
+            "description": "Bono de 10 sesiones de osteopatía de 50 minutos de duración cada sesión. Técnicas manuales encaminadas a la reestructuración del paciente, tanto a nivel del sistema estructural como a nivel viscero-craneal."
+        }
+    ]
+}

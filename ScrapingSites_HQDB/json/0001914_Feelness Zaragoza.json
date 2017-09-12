@@ -1,0 +1,93 @@
+{
+    "adid": null, 
+    "name": "Feelness Zaragoza", 
+    "name_of_contact": "Feelness Zaragoza", 
+    "scrape_page": "https://www.bucmi.com/feelnesszgz", 
+    "business_website": "https://www.bucmi.com/feelnesszgz", 
+    "areas_covered": null, 
+    "description": "Centro de fitness en Zaragoza que cuenta con servicios de electroestimulación, nutrición y quiromasaje. Disfruta de nuestra última técnica en electroestimulación con equipo en seco y sin cables, ya que conectamos a través de bluetooth.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635730131196534135.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635730131220130102.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635730131273415453.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635730131501714425.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635859755729526499.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "Zaragoza", 
+    "formatted_address": "Zaragoza, Zaragoza, Zaragoza, 50018, Zaragoza, 50013, Zaragoza, 50018, Zaragoza, 50004, Zaragoza, 50004, Zaragoza, Zaragoza", 
+    "country": "es", 
+    "office_number": "976965125", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6455724000", 
+    "longitude": "-0.8930944999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635955437513338304.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 4 Sesiones De Nutrición", 
+            "duration": 2700, 
+            "price": "100 € ", 
+            "description": "Consigue la dieta más adecuada a tu metabolismo gracias a esta sesión de nutrición. En tu primera sesión, se hará una entrevista previa para hacerte la mejor dieta."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 4 Sesiones De Quiromasaje", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Elimina las dolencias de las zonas localizadas del cuerpo gracias a este quiromasaje y di adiós al estrés diario."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Sesiones De Quiromasaje", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Elimina las dolencias de las zonas localizadas del cuerpo gracias a este quiromasaje y di adiós al estrés diario."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión Quiromasaje", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Elimina las dolencias de las zonas localizadas del cuerpo gracias a este quiromasaje y di adiós al estrés diario."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 4 Sesiones De Quiromasaje", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "Elimina las dolencias de las zonas localizadas del cuerpo gracias a este quiromasaje y di adiós al estrés diario."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesión Quiromasaje", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Elimina las dolencias de las zonas localizadas del cuerpo gracias a este quiromasaje y di adiós al estrés diario."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesión de Electroestimulación", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Ponte en forma con el último sistema revolucionario de electroestimulación en seco y sin cables gracias a la conexión vía bluetooth. Entrena mucho más cómodo y con total libertad de movimiento."
+        }
+    ]
+}

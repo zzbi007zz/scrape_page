@@ -1,0 +1,135 @@
+{
+    "adid": null, 
+    "name": "micromedical", 
+    "name_of_contact": "micromedical", 
+    "scrape_page": "https://www.bucmi.com/micromedical", 
+    "business_website": "https://www.bucmi.com/micromedical", 
+    "areas_covered": null, 
+    "description": "Somos un Centro Médico y Estético en el que cada día queremos dar la mejor atención a nuestros pacientes y clientes. Tenemos un servicio de asesoramiento gratuito tanto a nivel oncológico como quirúrgico. Confía en nuestra profesionalidad y cuidados.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636138576657029580.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636138576697185011.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636138576751715225.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636138576809995236.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636138576887649837.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08017", 
+    "formatted_address": "Barcelona, 08021, Barcelona, 08003, Barcelona, 08011, Barcelona, 08021, Barcelona, 08017", 
+    "country": "es", 
+    "office_number": "934884743", 
+    "office_number2": null, 
+    "mobile_number": "626035302", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4030671000", 
+    "longitude": "2.1276140999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636138577767475496.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Infiltración Reafirmante Facial Con Skinpen", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "No dejes que el paso del tiempo deje rastros en tu piel, y reserva tu cita ya. Ponte en manos de los mejores profesionales en diferentes tipos de tratamiento según las necesidades de tu piel. Tratamientos oxigenantes y de Vit. C para que tu rostro recobre toda su luz y vitalidad natural."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Infiltración Vitaminas Efecto Tensor", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Si estás buscando un tratamiento efectivo para rejuvenecer tu rostro tienes que conocer los beneficios de la utilización del derma roller, con el que se reactiva la circulación sanguinea y potencia la absorción de la cosmetica aplicada, además de atenuar arrugas y aportar a tu rostro un aspecto jugoso y muy luminoso."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Micropigmentación Capilar", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Si la calvicie supone un problema, no lo dudes y reserva tu cita ya para rejuvenecer y recuperar tu imagen de una forma fácil y cómoda. Consigue con esta técnica el efecto rapado de tendencia y tan atractivo. Ideal también para pigmentar cicatrices en el cuero cabelludo. Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Micropigmentación Facial", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Redefine los rasgos naturales de tu rostro que el paso del tiempo difumina.Se trata de un servicio no doloroso, con resultados duraderos de 2 a 5 años. Podemos resaltar de manera natural los puntos importantes y determinantes del rostro,tanto las cejas, los ojos y los labios dando armonía, elegancia, feminidad y juventud a tus rasgos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Micropigmentación Médica 3D", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "En nuestro centro somos especialistas en mircopigmentación oncologica con la que podemos trabajar en el dibujo de la areola de una mama reconstruida.Se trata de una técnica especial para dar relieve visual y conseguir un efecto realista. No dejes que te lo cuenten y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5Ss. Tto Personalizado Post-Quirurgico", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "No dejes pasar la oportunidad de trabajar en la recuperación de la zona recientemente intervenida de manos del equipo profesional para recuperarte de la mejor manera posible.Se trata de una sesión de drenaje linfático manual seguida de una hidratación profunda de la zona intervenida para que tu piel sufra lo menos posible y recupere su aspecto y tersura natural. El bono consta de 5 servicios que podrás disfrutar como tu quieras, siguiendo siempre las pautas de nuestro equipo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Si notas tus piernas cansadas y con mala circulación, tenemos el tratamiento que necesitas. Este tratamiento consta de una combinación de técnicas manuales con las que desbloquear le sistema linfático y facilitar la evación de manera natural. Es un tratamiento que requiere constancia para que sus resultados sean óptimos. Ideal para post-operatorios o embarazos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Infiltración Reafirmante Facial Con Skinpen", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "No dejes que el paso del tiempo deje rastros en tu piel, y reserva tu cita ya. Ponte en manos de los mejores profesionales en diferentes tipos de tratamiento según las necesidades de tu piel. Tratamientos oxigenantes y de Vit. C para que tu rostro recobre toda su luz y vitalidad natural."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Infiltración Vitaminas Efecto Tensor", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Si estás buscando un tratamiento efectivo para rejuvenecer tu rostro tienes que conocer los beneficios de la utilización del derma roller, con el que se reactiva la circulación sanguinea y potencia la absorción de la cosmetica aplicada, además de atenuar arrugas y aportar a tu rostro un aspecto jugoso y muy luminoso."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Capilar", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Si la calvicie supone un problema, no lo dudes y reserva tu cita ya para rejuvenecer y recuperar tu imagen de una forma fácil y cómoda. Consigue con esta técnica el efecto rapado de tendencia y tan atractivo. Ideal también para pigmentar cicatrices en el cuero cabelludo. Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Facial", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "Redefine los rasgos naturales de tu rostro que el paso del tiempo difumina.Se trata de un servicio no doloroso, con resultados duraderos de 2 a 5 años. Podemos resaltar de manera natural los puntos importantes y determinantes del rostro,tanto las cejas, los ojos y los labios dando armonía, elegancia, feminidad y juventud a tus rasgos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación Médica 3D", 
+            "duration": 3600, 
+            "price": "175 € ", 
+            "description": "En nuestro centro somos especialistas en mircopigmentación oncologica con la que podemos trabajar en el dibujo de la areola de una mama reconstruida.Se trata de una técnica especial para dar relieve visual y conseguir un efecto realista. No dejes que te lo cuenten y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Personalizado Post-Quirurgico", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Si recientemente has sufrido una intervención quirugica, es el momento de reservar tu cita con nosotros y ponerte en manos de los profesionales para recuperarte de la mejor manera posible.Se trata de una sesión de drenaje linfático manual seguida de una hidratación profunda de la zona intervenida para que tu piel sufra lo menos posible y recupere su aspecto y tersura natural."
+        }
+    ]
+}

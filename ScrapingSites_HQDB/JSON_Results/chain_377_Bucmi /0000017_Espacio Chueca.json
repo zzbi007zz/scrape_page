@@ -1,0 +1,761 @@
+{
+    "adid": null, 
+    "name": "Espacio Chueca", 
+    "name_of_contact": "Espacio Chueca", 
+    "scrape_page": "https://www.bucmi.com/espaciochuecasalon", 
+    "business_website": "https://www.bucmi.com/espaciochuecasalon", 
+    "areas_covered": null, 
+    "description": "Espacio Chueca es tu Salón de Belleza situado en el barrio Justicia de Madrid. Encontrarás un espacio único en el que podrás relajarte y disfrutar de nuestros masajes. Realizamos tratamientos corporales y vivirás una experiencia inolvidable. ¡Visítanos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285768885985.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285770760911.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285770448395.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285772638005.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285767948420.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285770604658.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285773263003.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963285774513063.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "126", 
+    "hqdb_review_score": "8,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pelayo, 7", 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "C/ Pelayo, 7, Madrid, 28004", 
+    "country": "es", 
+    "office_number": "915324634", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4221320000", 
+    "longitude": "-3.6990207000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963286425515777.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Corte de Pelo para Hombre con lavado y peinado. ¿Quieres cambiar de look? ¿O dar un nuevo aire a tu imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales.. Disfruta de tu nuevo corte de pelo y de la experiencia en nuestro centro.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a conocernos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte para mujer: ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminosidad. Devuelve a tu pelo su naturalidad.Incluye lavado y secado.El tiempo de 45 minutos es una estimación. Reserva tu cita cómodame mediante Bucmi."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Mujer Y Tratamiento Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Este servicio incluye: corte de pelo y un tratamiento de hidratación. ¿Tienes una melena castigada y apagada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Luce una melena mucho más fuerte, suave y cuidada. Además con nuestro tratamiento de hidratación tu cabello recobrará su brillo y luminosidad natural. Todo con productos L'oréal Profesional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Reductor Y Anticelulítico", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "¿Quieres lucir una figura tonificada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis. Reduce y remodela. Gracias a este masaje corporal conseguimos reducir el volumen. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Balayage Para Pelo Corto", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. ¡Nunca pasan de moda y el resultado es de lo más natural! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Facial Bio De Rejuvenecimiento", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Un tratamiento concentrado con Brote de Haya que borra el paso del tiempo…Modelaje Divino con el Aceite Bluffante con té Verde... estimulación de los puntos anti-edad del rostro. La mascarilla Suprema « Moelleux au Rosier Muscat » nutre y reafirma. Este tratamiento tonifica, alisa las líneas de expresión, reestructura la piel… El óvalo mejora y las arrugas disminuyen.Cada tratamiento se personaliza con los cosméticos Bio Oxalia ¡Su esteticista se adapta a las necesidades de su piel!, reserva tu cita online"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Basica", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Manicura clásica: Si buscas cuidar tus manos, darle color y tienes poco tiempo, no lo dudes este servicio te encantara, incluye: limado, retirada cutículas, esmaltado (ESSIE CND, VINYLUX CND o MASGLO) Toma en cuenta que estos servicios no incluyen retirada de esmaltado permanente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Basica Semipermanente", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "¿Quieres lucir unas uñas cuidadas y bonitas? Ponte en nuestras manos Y luce unas uñas coloridas durante mas tiempo, incluye: limado, retirada de cutículas, esmaltado con tu color preferido de la marca CND Vinylux y cremita en las manos. No se levantan ni se agrietan. Te durarán perfectas mínimo 3 semanas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manipedi Basica", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Luce perfecta este verano, con este pack completo para manos y pies, incluye retirada de cutículas y durezas, limado, y esmaltado con el color que mas te guste de la marca CND Vinylux. Luce unas manos y pies suaves e hidratados. Tus manos son muy importantes y dicen mucho de ti. Prepara tus pies para lucirlos perfectos durante todo el año. Presume de unas uñas bonitas, cuidadas y coloridas. Reserva tu cita online en Bucmi.com. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manipedi Basica Semipermanente", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce pies y manos llenos de color durante más tiempo, con el esmaltado permanente de la marca CND Vinylux podrás presumir de uñas llenas de color durante más de 3 semanas, prepárate para el verano y reserva con nosotros. Luce unas manos y pies suaves e hidratados. Tus manos son muy importantes y dicen mucho de ti. Presume de unas uñas bonitas, cuidadas y coloridas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Clasica", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "¡Disfruta de la pedicura de siempre! Luce unos pies radiantes y presume de uñas bonitas Incluye: limado, retirada de cutículas, quitar durezas y esmaltado del color que mas te guste con la marca CND Vinylux. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional. . Prepara tus pies para lucirlos perfectos durante todo el año. Reserva tu cita online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Clasica Semipermanente", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Tus pies listos en un minuto y tus uñas siempre apunto,mantén los pies preparados en cualquier época del año. Incluye: limado, retirada de cutículas, quitar durezas y esmaltado del color que mas te guste de la marca CND Vinylux. No se levantan ni se agrietan. Te durarán perfectas mínimo 3 semanas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Spa", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Regálate un momento de mimo y cuidado para tus pies,no lo dudes y ponte en manos de nuestros profesionales, incluye: limado,tratamiento de cutículas con torno , exfoliación, eliminación de durezas, masaje y esmaltado de la marca CND Vinylux. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional. Prepara tus pies para lucirlos perfectos durante todo el año. Reserva tu cita online en Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "¿Necesitas aliviar la tensión y el estrés acumulado? Disfruta de este masaje descontracturante energético de cuerpo entero o zona concreta a tratar. Reduce los niveles de estrés y tensión acumulada provocada por el ajetreo de la vida diaria. Indicado para tratar dolencias de zonas concretas, malas posturas, etc."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Completo L´Oreal", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El baño de color está elaborado con ingredientes vegetales, por lo que el pelo no sufre ningún tipo de daño ni se ve sometido a agentes agresivos. Además, aporta una fuerza y brillo espectacular. Si estás buscando una solución temporal, que consiga devolver la intensidad e hidratación a tu cabello, incluso si no tienes canas. Puedes usar tu baño de color simplemente para intensificar tu tono natural, sin cambiar de imagen de modo sustancial. En caso de melena larga se aplicara suplemento"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar Y Peinado Melena Corta", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar Y Peinado Melena Media", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Inoa", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Coloración de oxidación sin amoniaco. Sin olor. Cobertura hasta el 100% en cabellos blancos. Confort óptimo del cuero cabelludo. Hasta 6 semanas de hidratación y nutrición intensas. Incluye además asesoramiento de nuestro estilista, lavado y quitar humedad. En caso de tener una melena larga se aplicara un suplemento en el salón. Luce una melena uniforme, suave e hidratada. Disfruta de un pelo con mucho brillo y luminosidad. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Corte de Pelo para Hombre con lavado y peinado. ¿Quieres cambiar de look? ¿O dar un nuevo aire a tu imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales.. Disfruta de tu nuevo corte de pelo y de la experiencia en nuestro centro.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a conocernos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Este servicio incluye: corte de pelo y arreglo de barba. ¿Quieres lucir un nuevo cambio de imagen? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Además, nuestro esteticista realizará un arreglo de barba perfecto y adaptado a tus gustos y a las facciones de tu rostro. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Corte para mujer: ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminosidad. Devuelve a tu pelo su naturalidad.Incluye lavado y secado.El tiempo de 45 minutos es una estimación. Reserva tu cita cómodame mediante Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Y Tratamiento Hidratación", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Este servicio incluye: corte de pelo y un tratamiento de hidratación. ¿Tienes una melena castigada y apagada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Te asesorarán en todo momento y adaptarán tu nuevo corte de pelo a tus gustos y personalidad. Luce una melena mucho más fuerte, suave y cuidada. Además con nuestro tratamiento de hidratación tu cabello recobrará su brillo y luminosidad natural. Todo con productos L'oréal Profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado", 
+            "duration": 5400, 
+            "price": "53 € ", 
+            "description": "Servicio de Corte y Peinado, asesorado por nuestros profesionales conseguiremos que te sientas más guapa que nunca. ¿Quieres cambiar tu look? ¿O simplemente sanear tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte e manos de nuestros mejores profesionales. Luce una melena fuerte, sana y sedosa. Disfruta de un cabello con mucho más brillo y luminoso. Todo con productos L'oréal Profesional. Reserva tu cita cómodamente online a través de Bucmi.com. La melena larga tendra suplemento"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Tto. Anticaida Chico", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Este tratamiento esta indicado para cuero cabelludo y/o cabello frágil y fino o con tendencia a la caída. incluye : tratamiento, corte,peinado y un par de ampollas para seguir el tratamiento en casa"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Para Pelo Corto", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. ¡Nunca pasan de moda y el resultado es de lo más natural! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Y Tratamiento De Hidratación", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "Luce una melena mas sedosa y brillante gracias al tratamiento de hidratación que se realiza con productos L`Oreal y peinado de la forma que más te guste sea liso o con ondas, siéntete mas guapa que nunca. ¿Tienes una cita especial o un evento y no sabes que hacer con tu melena? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. ¡Tu pelo mucho más hidratado y nutrido!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Hidratación L´Oreal", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Recupera el brillo de tu melena, disfruta del tratamiento de hidratacion L´oreal expréss a base de aceite de coco . ¿Notas tu melena apagada y sin brillo? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce un cabello suave, súper hidratado y nutrido. Devuelve a tu melena su vitalidad natural.Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Bótox Capilar Y Peinado Melena Larga", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Recupera tu pelo dañado y luce una melena sedosa y saludable gracias al bótox capilar, Ponte en las manos de los mejores estilistas de Espacio Chueca Salón y disfruta de una melena llena de vida. Disfruta de un pelo con mucho más volumen y densidad, incluye el peinado. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Chico", 
+            "duration": 3600, 
+            "price": "22 € ", 
+            "description": "Atrévete con los colores de esta temporada para cambiar tu look, incluye : asesoramiento, lavado, tinte y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Servicio de cobertura total del pelo, incluye lavado con productos especiales de color y un secado natural. ¿Quieres lucir un nuevo cambio de look? Te asesorarán en todo momento. Luce una melena uniforme, suave e hidratada. Disfruta de un pelo con mucho brillo y luminosidad. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! En caso de tener melena larga se aplicara un suplemeto"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raíz", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Servicio de tinte con amoniaco que cubre totalmente las canas, incluye lavado con productos especiales de color y un secado natural. ¿Ya es hora de retocar el color de tu cabello? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color En Raíz Inoa", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Coloración de oxidación sin amoniaco. Sin olor. Cobertura hasta el 100% en cabellos blancos. Confort óptimo del cuero cabelludo. Hasta 6 semanas de hidratación y nutrición intensas. incluye ademas asesoramiento de nuestro estilista, lavado y secado. Luce una melena uniforme, suave e hidratada. . Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Matiz", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "El complemento ideal e indispensable para tus mechas. Reserva ambos servicios y consigue una melena mas brillante. ¿Quieres lucir una melena uniforme y con mucha luminosidad? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Presume de una melena con mucho brillo y luminosidad, gracias a la combinación de tus mechas con el matiz para dejar tu melena mucho más uniforme. Reserva tu cita online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Melena Extralarga", 
+            "duration": 7200, 
+            "price": "94 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, no incluye matiz. ¿Quieres lucir un look a la última?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Para Media Melena", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte,incluye el PH bonder de REDKEN para proteger tu pelo de la decoloración, no incluye matiz. ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Presume de una melena con mucho brillo y luminosidad. ¡Nunca pasan de moda y el resultado es de lo más natural!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage Para Pelo Largo", 
+            "duration": 5400, 
+            "price": "75 € ", 
+            "description": "Disfruta la ultima tendencia en mechas consiguiendo colores extremadamente creativos. Permite poner luz allí donde se necesita, favoreciendo el corte, incluimos el PH bonder de REDKEN para proteger tu pelo de la decoloración no incluye matiz ¿Quieres lucir un look a la última? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Presume de una melena con mucho brillo y luminosidad. ¡Nunca pasan de moda y el resultado es de lo más natural!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Para Pelo Corto", 
+            "duration": 2700, 
+            "price": "14 € ", 
+            "description": "Reserva online y siéntete diferente con el peinado que prefieras: melena lisa o con ondas, luce estupenda en todo momento, el peinado incluye lavado y crema. Pregunta por el servicio de FLASH CARE de L´Oreal que mas se ajuste a tu pelo.. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Para Pelo Largo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Reserva online y siéntete diferente con el peinado que prefieras: melena lisa o con ondas, luce estupenda en todo momento, el peinado incluye lavado y crema. Pregunta por el servicio de FLASH CARE de L´Oreal que mas se ajuste a tu pelo.. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Extralargo", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Reserva online y siéntete diferente con el peinado que prefieras: melena lisa o con ondas, luce estupenda en todo momento, el peinado incluye lavado y crema. Pregunta por el servicio de FLASH CARE de L´Oreal que mas se ajuste a tu pelo.. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Medio", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Reserva online y siéntete diferente con el peinado que prefieras: melena lisa o con ondas, luce estupenda en todo momento, el peinado incluye lavado y crema. Pregunta por el servicio de FLASH CARE de L´Oreal que mas se ajuste a tu pelo.. Luce una melena con mucho brillo y luminosidad. Presume de un peinado favorecedor y a tu gusto. Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "¿Tienes una fiesta especial? ¿Una boda a la que quieres ir increíble? Pues no lo dudes más y reserva en nuestro centro.Nuestro completo recogido, donde previamente lavaremos tu melena para preparar el pelo, y posteriormente nos encargaremos de hacerte un estiloso recogido acorde al look que vayas a llevar y a tus gustos.El servicio incluye lavado y productos de styling L´oreal"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¿Tienes un evento especial?¿Quieres lucir un look diferente e impresionar a todos? Decídete por un semirecogido realizado por nuestros profesionales quienes te asesorarán para que el semirecogido se adapte totalmente a tus gustos y estilo. El servicio incluye lavado y productos de styling L´oreal"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfatico Manual", 
+            "duration": 1800, 
+            "price": "39 € ", 
+            "description": "El drenaje linfático manual es una técnica que se realiza con las manos a través de movimientos muy suaves, lentos y repetitivos que favorecen la circulación de la linfa, mejorando así cuadros edematosos, inflamaciones y retenciones de líquidos orgánicos. Limpia tu organismo de toxinas y te ayuda a recuperar el peso ideal. Especialmente recomendable en tratamientos post-parto y post-liposucción."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliacion Corporal", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "Sabias que es recomendable que te hagas un peeling corporal al menos dos veces al año, antes del verano para prepararlo y conseguir un bronceado perfecto, duradero y uniforme. También se recomienda hacer otro al finalizar la temporada de sol para sanar, equilibrar, suavizar e hidratar tu piel y paliar los daños provocados por los rayos uva. ¿Te gustaría tener una piel perfecta durante todo el año? Gracias a nuestros productos Nirvana y nuestro equipo lo conseguirás. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulitico + Presoterapia", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "Primero realizarán un masaje drenante con aceite localizado en la zona deseada y luego la presoterapia, un drenaje linfático mecanizado que reduce la celulitis y mejora la circulación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Con Maderoterapia + Presoterapia", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "Sabes que tu cuerpo puede ofrecer mucho más de sí, Te lo ponemos más fácil que nunca con estas sesiones reductoras en ESPACIO CHUECA Elimina los centímetros que te sobran, haz desaparecer la celulitis, tonifica y reafirma tu piel y moldea tu figura con la maderoterapia, el masaje anticelulítico y la presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reductor Y Anticelulítico", 
+            "duration": 1800, 
+            "price": "38 € ", 
+            "description": "¿Quieres lucir una figura tonificada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis. Reduce y remodela. Gracias a este masaje corporal conseguimos reducir el volumen. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Con el tinte para pestañas no tendrás que recurrir a máscaras que resecan y deterioran la pestaña. Hazte un tinte de pestañas y para dar volumen, densidad o para intensificar el color de tus pestañas. Tendrás una mirada intensa y llena de color. ¡Disfruta de unos ojos más grandes y luminosos! Luce una mirada seductora y atractiva. Dí adiós a tu máscara de pestañas. Potencia, realza e intensifica tu mirada. Reserva tu cita online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Bio De Hidratacion Profunda", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Dejese seducir por este tratamiento Cocooning especialmente creado para rellenar la piel, nutrirla e hidratarla de manera intensa... Ácido hialurónico, Aloe vera, Cártamo, Karite, Extractos de azucar, Vainilla, Rosa... Este tratamiento aporta suavidad, untuosidad, tecnicidad para garantizar un confort óptimo a la piel...Cada tratamiento se personaliza con los cosméticos Bio Oxalia ¡Su esteticista se adapta a las necesidades de su pielUn ritual diferente en Espacio Chueca. Reserva tu cita cómodamente onlin"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Bio De Rejuvenecimiento", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Un tratamiento concentrado con Brote de Haya que borra el paso del tiempo…Modelaje Divino con el Aceite Bluffante con té Verde... estimulación de los puntos anti-edad del rostro. La mascarilla Suprema « Moelleux au Rosier Muscat » nutre y reafirma. Este tratamiento tonifica, alisa las líneas de expresión, reestructura la piel… El óvalo mejora y las arrugas disminuyen.Cada tratamiento se personaliza con los cosméticos Bio Oxalia ¡Su esteticista se adapta a las necesidades de su piel!, reserva tu cita online"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliacion Corporal Y Masaje", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Sabías que es recomendable que te hagas un peeling corporal al menos dos veces al año? Antes del verano para prepararlo y conseguir un bronceado perfecto, duradero y uniforme. También se recomienda hacer otro al finalizar la temporada de sol para sanar, equilibrar, suavizar e hidratar tu piel y paliar los daños provocados por los rayos uva. ¿te gustaría tener una piel perfecta durante todo el año?Gracias a nuestros productos Nirvana y nuestro equipo lo conseguirás. ¡Querrás repetir!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial Bio Con Microdermobrasion", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si buscas algo más efectivo que una simple exfoliación facial, apuesta por la limpieza facial BIO realizada con nuestro Tratamiento con Punta de Diamante. Notarás cómo disminuyen las manchas faciales, las imperfecciones, puntos negros y tu piel luce un aspecto más joven.Productos OXALIA, productos eficaces con una alta concentración en principios activos,productos e ingredientes no testados en animales y certificados ecológicos con más de 50% de ingredientos BIO"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial Bio Express", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "Si lo que buscas es un tratamiento facial express pero efectivo que hidrate tu piel y luche contra los signos del paso del tiempo aportando resplandor y confort no lo dudes mas, reserva mediante un clic!Productos OXALIA, productos eficaces con una alta concentración en principios activos,productos e ingredientes no testados en animales y certificados ecológicos con más de 50% de ingredientos BIOUn ritual diferente con productos naturales, una invitación a la ternura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reductor Con Maderoterapia", 
+            "duration": 1800, 
+            "price": "42 € ", 
+            "description": "Luce un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis. Reduce y remodela. Gracias a este masaje corporal conseguimos reducir el volumen. No esperes más y reserva ahora online."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "Luce una mirada sensual y natural, la permanente de pestañas te dará el efecto curvado que estás buscando, olvídate del dañino rizador de pestañas. ¿Quieres presumir de una mirada penetrante y cautivadora? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce una mirada seductora y atractiva. Potencia, realza e intensifica tu mirada. Reserva tu cita online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesion De Presoterapia", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "Este tratamiento te ayudara a eliminar o reducir la apariencia de la piel de naranja . Luce un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis.También: Alivia la pesadez de piernas o fatiga muscular de ahí que sea utilizado por deportistas profesionales,Favorece la prevención y eliminación de episodios venosos como varices,Reduce la hinchazón e inflamación de las extremidades inferiores."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "¿Quieres reducir volumen y eliminar grasa localizada? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Podrás lograr reducir con el masaje en la zona para movilizar la grasa y la celulitis, y la envoltura contiene principios activos Adelgazantes y Reafirmantes que potencian la efectividad del tratamiento. Luce un cuerpo tonificado y realza tu figura. Dí adiós a la grasa localizada y la celulitis. Reafirma, remodela y reduce. Reserva tu cita en Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Espacio Semipermanente", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Luce unas manos envidiables con nuestro tratamiento ESPACIO, tendrás las manos suaves y sanas. Nuestro equipo de profesionales te cuidarán para que salgas como nueva del centro, incluye : limado, retirada e hidratación de cutícula, exfoliación, esmaltado de la marca CND Vinylux y tratamiento de parafina.No incluye retirada de esmaltado permanente, tiene un coste adicional y tarda aproximadamente 15 minutos adicionales por lo cual os pedimos que nos aviséis si fuese el caso, gracias."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Spa", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Disfruta de unas manos absolutamente perfectas, ven a disfrutar de una espacio preparado para ti, incluye: limado, tratamiento cutículas con torno, exfoliación y esmaltado (ESSIE, CND VINYLUX o MASGLO) y un relajante masaje. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará Toma en cuenta que estos servicios no incluyen retirada de esmaltado permanente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Espacio", 
+            "duration": 5400, 
+            "price": "46 € ", 
+            "description": "¿A qué esperas para darte un capricho relajándote con nuestra pedicura ESPACIO? Se inicia con el limado, eliminación de cutículas con torno, tratamiento de exfoliación, una mascarilla, un masaje muy especial y esmaltar con tu color preferido de la marca CND Vinylux."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Espacio Semipermanente", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "¿A qué esperas para darte un capricho relajándote con nuestra pedicura ESPACIO? Se inicia con el limado, eliminación de cutículas con torno, tratamiento de exfoliación, una mascarilla, un masaje muy especial Y esmaltar con tu color preferido de la marca CND Vinylux."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Basica", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "Manicura clásica: Si buscas cuidar tus manos, darle color y tienes poco tiempo, no lo dudes este servicio te encantara, incluye: limado, retirada cutículas, esmaltado (ESSIE CND, VINYLUX CND o MASGLO) Toma en cuenta que estos servicios no incluyen retirada de esmaltado permanente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Basica Semipermanente", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "¿Quieres lucir unas uñas cuidadas y bonitas? Ponte en nuestras manos Y luce unas uñas coloridas durante mas tiempo, incluye: limado, retirada de cutículas, esmaltado con tu color preferido de la marca CND Vinylux y cremita en las manos. No se levantan ni se agrietan. Te durarán perfectas mínimo 3 semanas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Espacio", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Cuida tus manos con este tratamiento, te mimaremos y haremos que disfrutes una experiencia diferente, incluye: limado, retirada e hidratación de cutícula, exfoliación, esmaltado (ESSIE, CND VINYLUX o MASGLO) tratamiento de parafina y un masaje. Toma en cuenta que estos servicios no incluyen retirada de esmaltado permanente."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Express Semipermanente", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "Luce uñas bonitas durante mas tiempo, incluye: limado y esmaltado semipermanente en el color que mas te guste."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Spa Semipermanete", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Presume de unas uñas perfectas con nuestra manicura spa, disfruta de unas manos bonitas y cuidadas por mas tiempo, incluye: limado, retirada de cutículas con torno, exfoliación, esmaltado del color a elegir y masaje."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manipedi Basica", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Luce perfecta este verano, con este pack completo para manos y pies, incluye retirada de cutículas y durezas, limado, y esmaltado con el color que mas te guste de la marca CND Vinylux. Luce unas manos y pies suaves e hidratados. Tus manos son muy importantes y dicen mucho de ti. Prepara tus pies para lucirlos perfectos durante todo el año. Presume de unas uñas bonitas, cuidadas y coloridas. Reserva tu cita online en Bucmi.com. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manipedi Basica Semipermanente", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce pies y manos llenos de color durante más tiempo, con el esmaltado permanente de la marca CND Vinylux podrás presumir de uñas llenas de color durante más de 3 semanas, prepárate para el verano y reserva con nosotros. Luce unas manos y pies suaves e hidratados. Tus manos son muy importantes y dicen mucho de ti. Presume de unas uñas bonitas, cuidadas y coloridas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manipedi Spa", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce perfecta este verano, con este pack completo para manos y pies, incluye retirada de cutículas y durezas, limado, hidratación, exfoliación, un relajante masaje y esmaltado con el color que más te guste de la marca CND Vinylux. Luce unas manos y pies suaves e hidratados. Tus manos son muy importantes y dicen mucho de ti. No incluye la retirada de permanente o uñas,tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manipedi Spa Semipermanente", 
+            "duration": 7200, 
+            "price": "61 € ", 
+            "description": "Regálate un momento de mimo y cuidado para tus pies,No lo dudes y ponte en manos de nuestros profesionales, incluye: limado,tratamiento de cutículas con torno, exfoliación, eliminación de durezas, masaje y esmaltado . Disfruta de unas manos bonitas y cuidadas por mas tiempo, incluye: limado, retirada de cutículas con torno, exfoliación, esmaltado del color a elegir y masaje."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Clasica", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "¡Disfruta de la pedicura de siempre! Luce unos pies radiantes y presume de uñas bonitas Incluye: limado, retirada de cutículas, quitar durezas y esmaltado del color que mas te guste con la marca CND Vinylux. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional. . Prepara tus pies para lucirlos perfectos durante todo el año. Reserva tu cita online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Clasica Semipermanente", 
+            "duration": 3600, 
+            "price": "27 € ", 
+            "description": "Tus pies listos en un minuto y tus uñas siempre apunto,mantén los pies preparados en cualquier época del año. Incluye: limado, retirada de cutículas, quitar durezas y esmaltado del color que mas te guste de la marca CND Vinylux. No se levantan ni se agrietan. Te durarán perfectas mínimo 3 semanas. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Spa", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Regálate un momento de mimo y cuidado para tus pies,no lo dudes y ponte en manos de nuestros profesionales, incluye: limado,tratamiento de cutículas con torno , exfoliación, eliminación de durezas, masaje y esmaltado de la marca CND Vinylux. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional. Prepara tus pies para lucirlos perfectos durante todo el año. Reserva tu cita online en Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pedicura Spa Semipermanente", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Regálate un momento de mimo y cuidado para tus pies. No lo dudes y ponte en manos de nuestros profesionales, incluye: limado,tratamiento de cutículas con torno, exfoliación, eliminación de durezas, masaje y esmaltado de la marca CND Vinylux. No incluye la retirada de permanente o uñas, tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Craneal", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Líbrate del estrés con un masaje muy relajante, aplicado en la zona craneal, en un ambiente de relajación y armonía, que te ayudará a diluir el estrés. Ideal para quienes no disponen de mucho tiempo pero quieren cuidarse. El masaje dura 25 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Facial", 
+            "duration": 1800, 
+            "price": "29 € ", 
+            "description": "Masaje que se realiza con aceites u ampollas según tu tipo de piel ! Ponte en las manos de nuestros expertos esteticistas y disfruta de unos resultados increíbles desde el principio. No lo dudes más y haz clic. No te arrepentirás de los resultados"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Con Piedras Calientes", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Descubre nuevas sensaciones con este masaje con piedras calientes.Las piedras de origen volcánico son ricas en hierro y magnesio. El calor provoca un incremento en el flujo sanguino favoreciendo la curación de la piel dañada así como la producción de endorfinas que calman el dolor.En este tratamiento se utilizan piedras calientes y frías para masajear el cuerpo, sin que estas quemen, hagan daño o molesten. Ayuda a aliviar el estrés, el insomnio y la ansiedad."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante De 30 Minutos", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "Este masaje descontracturante permitirá aliviar la rigidez y las tensiones que se acumulan en tu cuerpo. Consigue recuperar el bienestar perdido, dirigido sobre todo al tratamiento de la zona de dolor o contractura, aunque es importante también tratar las cadenas musculares relacionadas y la causa del dolor."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante De 30 Minutos", 
+            "duration": 1800, 
+            "price": "27 € ", 
+            "description": "Masaje relajante de 30 minutos de duración, elimina el estrés de tu día a día. ¿Quieres olvidarte de las preocupaciones y el estrés causado por la rutina diaria? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Disfruta de está experiencia en nuestro centro! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Relajante De 60 Minutos", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de un gran momento de relax y bienestar. ¿Quieres olvidarte de las preocupaciones y el estrés causado por la rutina diaria? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Disfruta de está experiencia en nuestro centro. Relájate y olvídate de todas las preocupaciones al menos durante 1 hora. ¡Tómate un respiro! ¡Te lo mereces! Reserva tu cita cómodamente online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflexologia Podal", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "La reflexología podal busca alentar los procesos naturales de curación del cuerpo, mediante la aplicación de presión en puntos reflejos de los pies que restauran el equilibrio natural del cuerpo. Aplicada en los pies, es una terapia que puede ayudar tanto a prevenir diferentes síntomas y dolencias como para conseguir un equilibrio físico y mental. Pretende ser relajante, aliviar el estrés, activar la circulación sanguínea, aflojar las contracturas, mejorar la calidad del sueño, activar el sistema inmunológi"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "¿Necesitas aliviar la tensión y el estrés acumulado? Disfruta de este masaje descontracturante energético de cuerpo entero o zona concreta a tratar. Reduce los niveles de estrés y tensión acumulada provocada por el ajetreo de la vida diaria. Indicado para tratar dolencias de zonas concretas, malas posturas, etc."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación De Axilas", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación de axilas. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion De Gluteos", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación de glúteos. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion De Ingles Brasileña", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación de ingles brasileñas. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación De Pubis", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación integral del pubis y zona perianal . Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas..Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Brazos", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación desde la muñeca al hombro. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Espalda", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Te depilaremos desde los lumbares hasta el cuello. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Cera Piernas Enteras Mujer", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Este servicio consiste en la depilación con cera de las piernas completas para mujer. ¿Quieres lucir unas piernas libres de vello molesto de una vez por todas? Ven a tu Salón de Belleza Espacio Chueca y ponte en manos de nuestros mejores profesionales. Luce unas piernas bonitas, suaves y luminosas. Dí adiós al vello durante al menos un par de semanas. Olvídate de depilarte. Disfruta de una piel sedosa e hidratada. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion De Abdomen", 
+            "duration": 900, 
+            "price": "14 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación del abdomen. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion De Cejas", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "Este servicio consiste en limpiar y perfilar la ceja en solo 15 minutos. pruebalo!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación De Ingles Caribeñas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación de ingles caribeñas. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion De Medias Piernas", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación de medias piernas. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación De Muslos", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Ponte en nuestras manos y disfruta de una piel suave y sedosa. Incluye depilación de muslos. Gracias a nuestra cera de un solo uso y a nuestros expertos estilistas de Espacio Chueca podrás olvidarte de la depilación por un par de semanas. Luce una piel suave, hidratada y nutrida. Dí adiós al vello molesto. Tu piel recobrará su brillo y luminosidad natural. Devuelve a tu piel su color y aspecto natural. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Diseño De Cejas", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Estudiaremos tu rostro y daremos un estilo a tus cejas para que creen una mirada más luminosa. Gracias a nuestros expertos estilistas no solo conseguiremos enmarcar tu mirada para que luzca perfecta, si no que potenciaremos tu belleza natural. Luce una mirada penetrante y cautivadora. Dí adiós al vello molesto de tus cejas y realza tu mirada con un diseño que se adapte a tu rostro y facciones. Presume de una mirada atractiva y seductora. Reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Manipedi Spa", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce perfecta este verano, con este pack completo para manos y pies, incluye retirada de cutículas y durezas, limado, hidratación, exfoliación, un relajante masaje y esmaltado con el color que más te guste de la marca CND Vinylux. Luce unas manos y pies suaves e hidratados. Tus manos son muy importantes y dicen mucho de ti. No incluye la retirada de permanente o uñas,tiene un coste y tiempo adicional."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Manipedi Spa Semipermanente", 
+            "duration": 7200, 
+            "price": "61 € ", 
+            "description": "Regálate un momento de mimo y cuidado para tus pies,No lo dudes y ponte en manos de nuestros profesionales, incluye: limado,tratamiento de cutículas con torno, exfoliación, eliminación de durezas, masaje y esmaltado . Disfruta de unas manos bonitas y cuidadas por mas tiempo, incluye: limado, retirada de cutículas con torno, exfoliación, esmaltado del color a elegir y masaje."
+        }, 
+        {
+            "service_category": null, 
+            "service": "Alisado De Keratina Pelo Largo", 
+            "duration": 7200, 
+            "price": "170 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": null, 
+            "service": "Alisado De Keratina Pelo Medio", 
+            "duration": 7200, 
+            "price": "125 € ", 
+            "description": "Olvídate del encrespamiento con la revolución del nuevo tratamiento alisador. 100% libre de formaldehído y aldehídosEl tratamiento comienza con la preparación del cabello. Este es lavado con un champú de limpieza profunda, ayudando a la apertura de la cutícula y preparando el cabello. posteriormente se aplica el tratamiento, permitiendo a las moléculas, penetrar en el cabello en toda la fibra del mismo. El cabello es secado con el secador y planchado minuciosamente, el precio puede variar según el volumen"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Masaje Bioenergético(Lectura De Chakras)", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Ayuda a liberar tu cuerpo y mentede bloqueos físicos y energéticos.Renueva la energía emocional.Desbloquea y limpia la energíavital, regenerando el equilibriofísico-mental.Restablece la circulaciónsanguínea para tus órganos ysistemas."
+        }
+    ]
+}

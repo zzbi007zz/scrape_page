@@ -1,0 +1,132 @@
+{
+    "adid": null, 
+    "name": "Saludmania", 
+    "name_of_contact": "Saludmania", 
+    "scrape_page": "https://www.bucmi.com/saludmania", 
+    "business_website": "https://www.bucmi.com/saludmania", 
+    "areas_covered": null, 
+    "description": "Saludmania es un Centro de Estética en el que encontrarás un espacio en el que relajarte y disfrutar de todos nuestros tratamientos, de la mano de los mejores profesionales.Te ofrecemos una atención exquisita y nos preocupamos por tu belleza. ¡Visítanos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636057513319662376.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636057513320756084.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ardemans, 8", 
+    "city": "Madrid", 
+    "zipcode": "28514", 
+    "formatted_address": "C/ Ardemans, 8, Madrid, 28514", 
+    "country": "es", 
+    "office_number": "918725767", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3545425999", 
+    "longitude": "-3.2647088999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636011672864322265.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Reductor 8 Sesiones", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Se trata de un pack compuesto por 8 sesiones en las que se aplican diferentes tipos de vendas y productos con efectos reductores y drenantes entre otros. Programa las sesiones como tu quieras, siguiendo los consejos de nuestro equipo y prepárate para presumir de silueta. ¿Quieres lucir un cuerpo tonificado y realzar tu figura? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Reduce unas tallas y luce un cuerpo perfecto este verano. Reserva tu cita online ahora."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Con Microdermoabrasión", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Si sientes tu piel apagada y sin vida no dudes que es el momento de reservar tu cita con nosotros y disfrutar de un ritual completo de higiene facial con productos adaptados a tu piel. Además la microdermoabrasión retirará de tu piel todo lo que no necesita y lucirá además de limpia, con su luz y brillo de siempre. Te encantará. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura De Gel", 
+            "duration": 3600, 
+            "price": "38 € ", 
+            "description": "Para estar perfecta en lo que a uñas se refiere, no dudes en pedir tu cita ya en Saludmania y disfrutar del servicio de manicura y pedicura con esmaltado gel del color que te apetezca lucir de nuestra variedad. ¿Quieres lucir unas uñas bonitas, perfectas y bien cuidadas? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Luce unas uñas coloridas, bonitas y perfectas. Tus manos son muy importantes y dicen mucho de ti. Prepara tus pies de cara al buen tiempo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Reductor 8 Sesiones", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Se trata de un pack compuesto por 8 sesiones en las que se aplican diferentes tipos de vendas y productos con efectos reductores y drenantes entre otros. Programa las sesiones como tu quieras, siguiendo los consejos de nuestro equipo y prepárate para presumir de silueta. ¿Quieres lucir un cuerpo tonificado y realzar tu figura? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Reduce unas tallas y luce un cuerpo perfecto este verano. Reserva tu cita online ahora."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Microdermoabrasión", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Si sientes tu piel apagada y sin vida no dudes que es el momento de reservar tu cita con nosotros y disfrutar de un ritual completo de higiene facial con productos adaptados a tu piel. Además la microdermoabrasión retirará de tu piel todo lo que no necesita y lucirá además de limpia, con su luz y brillo de siempre. Te encantará. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Con Masaje Relajante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Prepara tu piel para lucir un bonito bronceado eliminando todo lo que no necesita al mismo tiempo que experimentas un grato masaje relajante que te colmará de energía. ¿Quieres lucir una piel suave, hidratada y libre de impurezas? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Luce una piel hidratada, nutrida y suave. Devuelve a tu piel su color y aspecto natural. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Reductor 8 Sesiones", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Se trata de un pack compuesto por 8 sesiones en las que se aplican diferentes tipos de vendas y productos con efectos reductores y drenantes entre otros. Programa las sesiones como tu quieras, siguiendo los consejos de nuestro equipo y prepárate para presumir de silueta. ¿Quieres lucir un cuerpo tonificado y realzar tu figura? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Reduce unas tallas y luce un cuerpo perfecto este verano. Reserva tu cita online ahora."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Con Microdermoabrasión", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Si sientes tu piel apagada y sin vida no dudes que es el momento de reservar tu cita con nosotros y disfrutar de un ritual completo de higiene facial con productos adaptados a tu piel. Además la microdermoabrasión retirará de tu piel todo lo que no necesita y lucirá además de limpia, con su luz y brillo de siempre. Te encantará. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Con Masaje Relajante", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Prepara tu piel para lucir un bonito bronceado eliminando todo lo que no necesita al mismo tiempo que experimentas un grato masaje relajante que te colmará de energía. ¿Quieres lucir una piel suave, hidratada y libre de impurezas? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Luce una piel hidratada, nutrida y suave. Devuelve a tu piel su color y aspecto natural. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura De Gel", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Para lucir una manicura perfecta por más tiempo la opción de esmaltado en gel que en Saludmanía te proponemos es la ideal. Este servicio solo se compone de esmaltado en acabado gel del color que más te guste de nuestra amplia gama. ¿Quieres lucir unas uñas bonitas, perfectas y bien cuidadas? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Luce unas uñas coloridas, bonitas y perfectas. Tus manos son muy importantes y dicen mucho de ti. Reserva tu cita ahora."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Reductor 8 Sesiones", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Se trata de un pack compuesto por 8 sesiones en las que se aplican diferentes tipos de vendas y productos con efectos reductores y drenantes entre otros. Programa las sesiones como tu quieras, siguiendo los consejos de nuestro equipo y prepárate para presumir de silueta. ¿Quieres lucir un cuerpo tonificado y realzar tu figura? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Reduce unas tallas y luce un cuerpo perfecto este verano. Reserva tu cita online ahora."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Con Microdermoabrasión", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Si sientes tu piel apagada y sin vida no dudes que es el momento de reservar tu cita con nosotros y disfrutar de un ritual completo de higiene facial con productos adaptados a tu piel. Además la microdermoabrasión retirará de tu piel todo lo que no necesita y lucirá además de limpia, con su luz y brillo de siempre. Te encantará. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Reductor 8 Sesiones", 
+            "duration": 3600, 
+            "price": "275 € ", 
+            "description": "Se trata de un pack compuesto por 8 sesiones en las que se aplican diferentes tipos de vendas y productos con efectos reductores y drenantes entre otros. Programa las sesiones como tu quieras, siguiendo los consejos de nuestro equipo y prepárate para presumir de silueta. ¿Quieres lucir un cuerpo tonificado y realzar tu figura? Ven a tu Centro de Estética Saludmania y ponte en manos de nuestros mejores profesionales. Reduce unas tallas y luce un cuerpo perfecto este verano. Reserva tu cita online ahora."
+        }
+    ]
+}

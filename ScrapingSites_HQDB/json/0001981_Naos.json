@@ -1,0 +1,111 @@
+{
+    "adid": null, 
+    "name": "Naos", 
+    "name_of_contact": "Naos", 
+    "scrape_page": "https://www.bucmi.com/naoszaragoza", 
+    "business_website": "https://www.bucmi.com/naoszaragoza", 
+    "areas_covered": null, 
+    "description": "Naos es un salón de belleza, ubicado en pleno barrio de Parque de Roma, en Zaragoza, que cuenta con múltiples tratamientos para tu cuidado y belleza. Ven a probar nuestra depilación láser, higienes faciales, sesiones de rayos UVA... ¡y te encantará!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635955615004670489.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635955615007170853.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "Zaragoza", 
+    "formatted_address": "Zaragoza, Zaragoza, Zaragoza, 50008, Zaragoza, 50004, Zaragoza, Zaragoza", 
+    "country": "es", 
+    "office_number": "976338154", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6513822000", 
+    "longitude": "-0.9034513999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636072146304953641.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 S Láser Diódo Zona Pequeña", 
+            "duration": 900, 
+            "price": "100 € ", 
+            "description": "Elimina tu vello en centro Naos. Utilizamos el sistema con Láser Diódo, técnica que terminará con tu vello de forma definitiva. Olvídate de decir no puedo ponerme eso porque no estoy depilada... Incluye 5 sesiones en ingles o axilas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si quieres una piel limpia de impurezas y sana. En centro de belleza Naos, te realizaremos esta completa higiene facial. Incluye limpieza de rostro, peeling, vapor de ozono para realizar extracción, mascarilla, masaje y crema final."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Microdermoabrasión Con Punta De Diamante E Higiene", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "El tratamiento de dermoabrasión es realizado con aparatología, logra retirar la capa superficial del rostro, lo que elimina pequeñas arruguitas y manchas. Te renueva la piel, mejorando su aspecto, su luz. Además incluimos higiene para que tu resultado sea de 10."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "30 € ", 
+            "description": "Si quieres broncearte, tal vez porque tienes algún evento, o simplemente porque te apetece verte morenita. Ven a Naos, hemos preparado este Bono de 10 sesiones de bronceado. Dependiendo de tu fototipo de piel, la duración de las sesiones puede variar, siendo unos 8 minutos de media cada una."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si quieres una piel limpia de impurezas y sana. En centro de belleza Naos, te realizaremos esta completa higiene facial. Incluye limpieza de rostro, peeling, vapor de ozono para realizar extracción, mascarilla, masaje y crema final."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Con Punta De Diamante E Higiene", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "El tratamiento de dermoabrasión es realizado con aparatología, logra retirar la capa superficial del rostro, lo que elimina pequeñas arruguitas y manchas. Te renueva la piel, mejorando su aspecto, su luz. Además incluimos higiene para que tu resultado sea de 10."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Criolipolisis", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Tratamietno corporal reductor, en el que se emplea cabezales de NITROGEN, los cuales generan un efecto de vacío al succionar la piel, disminuyen el flujo sanguíneo de la zona, dejan el tejido graso inmóvil, y parcialmente aislado del resto de los tejidos para protegerlos y evitar dañarlos. Después la grasa es eliminada por la vía linfática."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "30 € ", 
+            "description": "Si quieres broncearte, tal vez porque tienes algún evento, o simplemente porque te apetece verte morenita. Ven a Naos, hemos preparado este Bono de 10 sesiones de bronceado. Dependiendo de tu fototipo de piel, la duración de las sesiones puede variar, siendo unos 8 minutos de media cada una."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Completa", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si quieres una piel limpia de impurezas y sana. En centro de belleza Naos, te realizaremos esta completa higiene facial. Incluye limpieza de rostro, peeling, vapor de ozono para realizar extracción, mascarilla, masaje y crema final."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Microdermoabrasión Con Punta De Diamante E Higiene", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "El tratamiento de dermoabrasión es realizado con aparatología, logra retirar la capa superficial del rostro, lo que elimina pequeñas arruguitas y manchas. Te renueva la piel, mejorando su aspecto, su luz. Además incluimos higiene para que tu resultado sea de 10."
+        }
+    ]
+}

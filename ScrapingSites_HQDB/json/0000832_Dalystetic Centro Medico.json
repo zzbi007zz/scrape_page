@@ -1,0 +1,216 @@
+{
+    "adid": null, 
+    "name": "Dalystetic Centro Médico", 
+    "name_of_contact": "Dalystetic Centro Médico", 
+    "scrape_page": "https://www.bucmi.com/dalystetic", 
+    "business_website": "https://www.bucmi.com/dalystetic", 
+    "areas_covered": null, 
+    "description": "Dalystetic es un centro médico estético ubicado en la zona de Chamberí, en Madrid. En nuestra clínica ofrecemos de diferentes tratamientos de medicina estética, depilación láser y tratamientos de cabina. Disponemos de las últimas tecnologías médicas.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003123909662996.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636003123977162790.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ardemans, 8", 
+    "city": "Madrid", 
+    "zipcode": "28003", 
+    "formatted_address": "C/ Ardemans, 8, Madrid, 28003", 
+    "country": "es", 
+    "office_number": "915491388", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4388764000", 
+    "longitude": "-3.7115555000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636021097526138309.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Eliminación De Tatuaje Pequeño", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "¿Te gustaría eliminar un tatuaje? ¡Reserva este servicio! Podrás deshacerte de ese tatuaje que ya no querías ver más en tu cuerpo. Incluye la eliminación de tatuaje de tamaño pequeño. Se realiza mediante la plataforma láser Harmony. ¡Notarás los resultados con cada sesión!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Facial Rejuvenecedor", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Consiste en un tratamiento biorevitalizante con inducción de colágeno y efecto antiaging. También incluye infiltración de ácido Hialurónico, antioxidantes y reafirmantes. Se realiza en cinco puntos. Utilizamos el dispositivo médico: Peeling PRX-T33."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Reductor Aqualix", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "La Intralipoterapia Aqualix consiste en una técnica indicada en el tratamiento no quirúrgico de las adiposidades localizadas. Durante el tratamiento se utilizan agujas específicas, sin necesidad de anestesia previa, ya que el servicio es totalmente indoloro. Incluye un vial."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Láser Harmony", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Este novedoso y exclusivo láser estimula la generación de nuevas células que reemplazarán la piel envejecida y dañada por la acción de luz solar. Los resultados son espectaculares desde la primera sesión. ¿A qué esperas para probar nuestra plataforma láser Harmony resurfacing?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Mesoterapia Corporal", 
+            "duration": 1800, 
+            "price": "500 € ", 
+            "description": "La mesoterapia corporal es una técnica que consiste en aplicar microinyecciones de vitaminas y diferentes principios activos, para reducir la flacidez de la piel y eliminar la celulitis localizada. ¡Aprovecha este bono 10 sesiones y reserva ahora! Cada sesión tiene una duración de 30 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Sesiones Radiofrecuencia Facial Exilis", 
+            "duration": 1800, 
+            "price": "250 € ", 
+            "description": "Tratamiento reafirmarte facial que estimula la producción de colágeno, desde la primera sesión notarás la piel más tersa percibiendo una reducción de las arrugas. Además Exilis es una tecnología que llega a las capas más profundas de la piel y reduce el tiempo de sesiones y tratamiento. A que esperas y ven a probarlo!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling facial Reafirmante", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Consiste en la irritación controlada de la superficie de la piel, a través de sustancias químicas o procedimientos físicos, cuyo fin es producir la eliminación parcial o total de las capas superficiales siendo estas reemplazadas posteriormente por nuevas capaz, dejando así una piel renovada, oxigenada, tersa y reafirmada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "5 Sesiones Ondas De Choque Y 5 Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "400 € ", 
+            "description": "¡Reserva nuestro bono contra la celulitis y las estrías! Consiste en un bono de 5 sesiones X-WAVE (Ondas de Choque médicas) y 5 sesiones de radiofrecuencia EXILIS. Cada sesión tiene una duración de 30 minutos. Es un tratamiento no invasivo para la eliminación de la grasa localizada y celulitis, combinado con la reafirmación de la piel tratada con radiofrecuencia médica."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 2 Sesiones Tto Corporal Flacidez Brazos", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Este servicio incluye dos sesiones de radiofrecuencia médica exilis y dos sesiones de mesoterapia reafirmante. Con este tratamiento conseguirás reafirmar tus brazos gracias a la potencia de la última tecnología no invasiva y de las microinyecciones de mesoterapia tradicional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Eliminación De Tatuaje Grande", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "¿Tienes un tatuaje que preferirías no haberte hecho nunca? ¡Tenemos la solución! Reserva nuestro servicio de eliminación de tatuaje de tamaño grande. Se realiza mediante la plataforma láser Harmony. ¡Confía en la profesionalidad médica de nuestra clínica!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Eliminación De Tatuaje Pequeño", 
+            "duration": 1800, 
+            "price": "100 € ", 
+            "description": "¿Te gustaría eliminar un tatuaje? ¡Reserva este servicio! Podrás deshacerte de ese tatuaje que ya no querías ver más en tu cuerpo. Incluye la eliminación de tatuaje de tamaño pequeño. Se realiza mediante la plataforma láser Harmony. ¡Notarás los resultados con cada sesión!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Rejuvenecedor", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Consiste en un tratamiento biorevitalizante con inducción de colágeno y efecto antiaging. También incluye infiltración de ácido Hialurónico, antioxidantes y reafirmantes. Se realiza en cinco puntos. Utilizamos el dispositivo médico: Peeling PRX-T33."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Aqualix", 
+            "duration": 1800, 
+            "price": "85 € ", 
+            "description": "La Intralipoterapia Aqualix consiste en una técnica indicada en el tratamiento no quirúrgico de las adiposidades localizadas. Durante el tratamiento se utilizan agujas específicas, sin necesidad de anestesia previa, ya que el servicio es totalmente indoloro. Incluye un vial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Aqualix", 
+            "duration": 1800, 
+            "price": "160 € ", 
+            "description": "¿Te gustaría eliminar la grasa localizada sin pasar por el quirófano? ¡Reserva este servicio! La Intralipoterapia Aqualix es una técnica indicada en el tratamiento no quirúrgico de las adiposidades localizadas, se utilizan agujas específicas. Además, no necesita anestesia previa, ya que es totalmente indoloro. Incluye 2 viales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor Aqualix", 
+            "duration": 1800, 
+            "price": "240 € ", 
+            "description": "¿Todavía no has probado nuestro tratamiento aqualix? ¡Reserva ahora! Es una técnica indicada en el tratamiento no quirúrgico de las adiposidades localizadas en el que se utilizan agujas específicas. No necesita anestesia previa, ya que es totalmente indoloro. Incluye 3 viales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "280 € ", 
+            "description": "Este tratamiento consiste en una inyección local de ácido hialurónico. Está indicado para depresiones cutáneas, arrugas, surcos y cicatrices. Estas intervenciones también permiten el aumento o remodelación de ciertas zonas faciales, como pómulos, mentón, labio o nariz. Incluye un vial de ácido hialurónico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "500 € ", 
+            "description": "¿Te gustaría corregir las depresiones cutáneas, arrugas, surcos y cicatrices? ¡Reserva este servicio! Además, estas intervenciones también permiten el aumento o remodelación de ciertas zonas faciales, como pómulos, mentón, labio o nariz. Incluye dos viales de ácido hialurónico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Bótox", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "El Botox es el tratamiento idóneo para eliminar las arrugas de expresión, relajando los músculos que al contraerse intervienen en su formación. Actúa de forma selectiva sobre la zona dominante del músculo, relajando la expresión del rostro sin perder la expresividad personal. Incluye sólo una zona a tratar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Láser Harmony", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Este novedoso y exclusivo láser estimula la generación de nuevas células que reemplazarán la piel envejecida y dañada por la acción de luz solar. Los resultados son espectaculares desde la primera sesión. ¿A qué esperas para probar nuestra plataforma láser Harmony resurfacing?"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Mesoterapia Corporal", 
+            "duration": 1800, 
+            "price": "500 € ", 
+            "description": "La mesoterapia corporal es una técnica que consiste en aplicar microinyecciones de vitaminas y diferentes principios activos, para reducir la flacidez de la piel y eliminar la celulitis localizada. ¡Aprovecha este bono 10 sesiones y reserva ahora! Cada sesión tiene una duración de 30 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Mesoterapia Corporal", 
+            "duration": 1800, 
+            "price": "500 € ", 
+            "description": "La mesoterapia corporal es una técnica que consiste en aplicar microinyecciones de vitaminas y diferentes principios activos, para reducir la flacidez de la piel y eliminar la celulitis localizada. ¡Aprovecha este bono 10 sesiones y reserva ahora! Cada sesión tiene una duración de 30 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 3 Sesiones Radiofrecuencia Facial Exilis", 
+            "duration": 1800, 
+            "price": "250 € ", 
+            "description": "Tratamiento reafirmarte facial que estimula la producción de colágeno, desde la primera sesión notarás la piel más tersa percibiendo una reducción de las arrugas. Además Exilis es una tecnología que llega a las capas más profundas de la piel y reduce el tiempo de sesiones y tratamiento. A que esperas y ven a probarlo!."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling facial Reafirmante", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Consiste en la irritación controlada de la superficie de la piel, a través de sustancias químicas o procedimientos físicos, cuyo fin es producir la eliminación parcial o total de las capas superficiales siendo estas reemplazadas posteriormente por nuevas capaz, dejando así una piel renovada, oxigenada, tersa y reafirmada."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "5 Sesiones Ondas De Choque Y 5 Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "400 € ", 
+            "description": "¡Reserva nuestro bono contra la celulitis y las estrías! Consiste en un bono de 5 sesiones X-WAVE (Ondas de Choque médicas) y 5 sesiones de radiofrecuencia EXILIS. Cada sesión tiene una duración de 30 minutos. Es un tratamiento no invasivo para la eliminación de la grasa localizada y celulitis, combinado con la reafirmación de la piel tratada con radiofrecuencia médica."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 2 Sesiones Tto Corporal Flacidez Brazos", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Este servicio incluye dos sesiones de radiofrecuencia médica exilis y dos sesiones de mesoterapia reafirmante. Con este tratamiento conseguirás reafirmar tus brazos gracias a la potencia de la última tecnología no invasiva y de las microinyecciones de mesoterapia tradicional."
+        }
+    ]
+}

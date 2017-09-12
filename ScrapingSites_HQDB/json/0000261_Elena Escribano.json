@@ -1,0 +1,191 @@
+{
+    "adid": null, 
+    "name": "Elena Escribano", 
+    "name_of_contact": "Elena Escribano", 
+    "scrape_page": "https://www.bucmi.com/elenaescribano", 
+    "business_website": "https://www.bucmi.com/elenaescribano", 
+    "areas_covered": null, 
+    "description": "Tu salón de belleza en Madrid: déjate mimar y asesorar por los mejores profesionales, para estar siempre guapa por dentro y por fuera. Ven a visitarnos y a conocer nuestros tratamiento exclusivos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930345132371576.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930345148152706.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930345164715161.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930345205652539.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930345223626936.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "6", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28008", 
+    "formatted_address": "Madrid, 28020, Madrid, 28003, Madrid, 28008", 
+    "country": "es", 
+    "office_number": "915492041", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4308349999", 
+    "longitude": "-3.7212835000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635930353735027251.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Balayage Pelo Largo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¡Las mechas más de moda ya a tu alcance! Ilumina y da brillo a tu pelo de la manera más natural, gracias a nuestras mechas balayage. El servicio incluye mechas, lavado con champú y peinado, todo bajo el asesoramiento personalizado de nuestros profesionales. La longitud de pelo largo se entiende a partir de los hombros. En caso de que nuestros peluqueros consideren que tienes el pelo extralargo, se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Peinado Y Tratamiento Pelo Medio", 
+            "duration": 7200, 
+            "price": "52,4 € ", 
+            "description": "Ponte guapa de las manos de nuestros profesionales, y déjate asesoras para un cambio de color del cabello. El servicio incluye color de la marca Ilumina, lavado con champú y tratamiento específico y peinado. Se considera media melena hasta el hombre, después de esta zona ya es cabello largo. En caso de escoger un largo que no es el tuyo, se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Balayage Pelo Corto", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce una melena mucho más luminosa gracias a esta nueva técnica de mechas para tu cabello. El servicio incluye mechas, lavado con champú y peinado. El pelo medio se entiende hasta los hombros, en caso de que el cabello pase este límite se considera largo y habrá que abonar un suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Balayage Pelo Largo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¡Las mechas más de moda ya a tu alcance! Ilumina y da brillo a tu pelo de la manera más natural, gracias a nuestras mechas balayage. El servicio incluye mechas, lavado con champú y peinado, todo bajo el asesoramiento personalizado de nuestros profesionales. La longitud de pelo largo se entiende a partir de los hombros. En caso de que nuestros peluqueros consideren que tienes el pelo extralargo, se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Peinado Y Tratamiento Pelo Corto", 
+            "duration": 7200, 
+            "price": "43,9 € ", 
+            "description": "Coloración realizada con la gama de productos de la marca Ilumina. Da color a tu cabello de la mano de los mejores profesionales. El servicio incluye color, lavado con champú y tratamiento específico y peinado. En caso de tener otro largo, se cobrará suplemento en el centro. Consideramos pelo corto hasta la oreja.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Peinado Y Tratamiento Pelo Medio", 
+            "duration": 7200, 
+            "price": "52,4 € ", 
+            "description": "Ponte guapa de las manos de nuestros profesionales, y déjate asesoras para un cambio de color del cabello. El servicio incluye color de la marca Ilumina, lavado con champú y tratamiento específico y peinado. Se considera media melena hasta el hombre, después de esta zona ya es cabello largo. En caso de escoger un largo que no es el tuyo, se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Hombre", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Ven a conocernos y ponte en las manos de los mejores profesionales, para conseguir ese corte de pelo que tanto te favorece. El servicio incluye corte, lavado y acabado.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Los cortes más de moda, de la mano de los mejores profesionales. Si te apetece un cambio de look o simplemente necesitas sanear tu cabello, ven a visitarnos y te asesoramos en todo momento. El servicio incluye corte y lavado. No incluye peinado.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "28,5 € ", 
+            "description": "Con este pack conseguirás lucir una cabello perfecto y saneado. El servicio incluye corte con asesoramiento, lavado y peinado. La longitud del cabello corto se entiende hasta la oreja, a partir de la oreja se considera media melena, o largo si sobrepasa los hombros. Si no se cumple el largo indicado en el servicio se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 1800, 
+            "price": "35,5 € ", 
+            "description": "Disfruta de este pack de belleza completo, para conseguir un pelo sano y perfecto, de la mano de las mejores profesionales. El servicio incluye corte personalizado, lavado y peinado. El pelo largo se considera a partir de los hombros, en caso de tener el pelo extralargo se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Medio", 
+            "duration": 1800, 
+            "price": "33,9 € ", 
+            "description": "El pack de belleza para estar guapa y lucir una melena ideal. Realizamos corte de pelo con asesoramiento personalizado, lavado y peinado. La media melena se entiende hasta los hombros, a partir de esta zona se considera pelo largo. En caso de pasar este límite se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Balayage Pelo Corto", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce una melena mucho más luminosa gracias a esta nueva técnica de mechas para tu cabello. El servicio incluye mechas, lavado con champú y peinado. El pelo medio se entiende hasta los hombros, en caso de que el cabello pase este límite se considera largo y habrá que abonar un suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Balayage Pelo Largo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¡Las mechas más de moda ya a tu alcance! Ilumina y da brillo a tu pelo de la manera más natural, gracias a nuestras mechas balayage. El servicio incluye mechas, lavado con champú y peinado, todo bajo el asesoramiento personalizado de nuestros profesionales. La longitud de pelo largo se entiende a partir de los hombros. En caso de que nuestros peluqueros consideren que tienes el pelo extralargo, se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Peinado Y Tratamiento Pelo Corto", 
+            "duration": 7200, 
+            "price": "43,9 € ", 
+            "description": "Coloración realizada con la gama de productos de la marca Ilumina. Da color a tu cabello de la mano de los mejores profesionales. El servicio incluye color, lavado con champú y tratamiento específico y peinado. En caso de tener otro largo, se cobrará suplemento en el centro. Consideramos pelo corto hasta la oreja.R"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color, Peinado Y Tratamiento Pelo Medio", 
+            "duration": 7200, 
+            "price": "52,4 € ", 
+            "description": "Ponte guapa de las manos de nuestros profesionales, y déjate asesoras para un cambio de color del cabello. El servicio incluye color de la marca Ilumina, lavado con champú y tratamiento específico y peinado. Se considera media melena hasta el hombre, después de esta zona ya es cabello largo. En caso de escoger un largo que no es el tuyo, se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Balayage Pelo Corto", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce una melena mucho más luminosa gracias a esta nueva técnica de mechas para tu cabello. El servicio incluye mechas, lavado con champú y peinado. El pelo medio se entiende hasta los hombros, en caso de que el cabello pase este límite se considera largo y habrá que abonar un suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Balayage Pelo Largo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¡Las mechas más de moda ya a tu alcance! Ilumina y da brillo a tu pelo de la manera más natural, gracias a nuestras mechas balayage. El servicio incluye mechas, lavado con champú y peinado, todo bajo el asesoramiento personalizado de nuestros profesionales. La longitud de pelo largo se entiende a partir de los hombros. En caso de que nuestros peluqueros consideren que tienes el pelo extralargo, se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Peinado Y Tratamiento Pelo Corto", 
+            "duration": 7200, 
+            "price": "43,9 € ", 
+            "description": "Coloración realizada con la gama de productos de la marca Ilumina. Da color a tu cabello de la mano de los mejores profesionales. El servicio incluye color, lavado con champú y tratamiento específico y peinado. En caso de tener otro largo, se cobrará suplemento en el centro. Consideramos pelo corto hasta la oreja.R"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color, Peinado Y Tratamiento Pelo Medio", 
+            "duration": 7200, 
+            "price": "52,4 € ", 
+            "description": "Ponte guapa de las manos de nuestros profesionales, y déjate asesoras para un cambio de color del cabello. El servicio incluye color de la marca Ilumina, lavado con champú y tratamiento específico y peinado. Se considera media melena hasta el hombre, después de esta zona ya es cabello largo. En caso de escoger un largo que no es el tuyo, se cobrará suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Balayage Pelo Corto", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce una melena mucho más luminosa gracias a esta nueva técnica de mechas para tu cabello. El servicio incluye mechas, lavado con champú y peinado. El pelo medio se entiende hasta los hombros, en caso de que el cabello pase este límite se considera largo y habrá que abonar un suplemento en el centro.R"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Balayage Pelo Largo", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "¡Las mechas más de moda ya a tu alcance! Ilumina y da brillo a tu pelo de la manera más natural, gracias a nuestras mechas balayage. El servicio incluye mechas, lavado con champú y peinado, todo bajo el asesoramiento personalizado de nuestros profesionales. La longitud de pelo largo se entiende a partir de los hombros. En caso de que nuestros peluqueros consideren que tienes el pelo extralargo, se cobrará suplemento en el centro.R"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "adid": null, 
+    "name": "AureaFisio", 
+    "name_of_contact": "AureaFisio", 
+    "scrape_page": "https://www.bucmi.com/aureafisio", 
+    "business_website": "https://www.bucmi.com/aureafisio", 
+    "areas_covered": null, 
+    "description": "Dentro de la clínica AureaDent, nos encontramos con un espacio dedicado a solucionar problemas posturales y a generar patrones de movimiento óptimos y eficientes. Nuestro centro se encuentra en el barrio de Sant Gervasi. ¡Repetirás seguro!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635711696077454621.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635711696091361872.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "7", 
+    "hqdb_review_score": "9,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Valles, 67", 
+    "city": "Barcelona", 
+    "zipcode": "08022", 
+    "formatted_address": "C/ Valles, 67, Barcelona, 08022", 
+    "country": "es", 
+    "office_number": "934340737", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4012608000", 
+    "longitude": "2.1344716999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635968399325195121.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si el deporte es lo tuyo, somos tu centro y éste tu servicio. Con nuestro masaje deportivo podrás prevenir las posibles lesiones y preparar tus articulaciones y musculatura para una jornada intensiva de actividad."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Fisioterapia Del Atm (Primera Visita)", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Tratamiento de Articulación Temporomandibular. Desbloqueo de mandíbula, tratamiento del bruxismo, cefaleas, dolores cervicales crónicos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Tras ese pésimo y estresante día de trabajo, acude a nuestro centro y prueba el masaje descontracturante. Elimina tus tensiones y relájate para afrontar la semana con toda la energía."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si el deporte es lo tuyo, somos tu centro y éste tu servicio. Con nuestro masaje deportivo podrás prevenir las posibles lesiones y preparar tus articulaciones y musculatura para una jornada intensiva de actividad."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Fisioterapia (Primera Visita)", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Utilizamos una terapia que elimina la dolencia de la zona localizada. Tratamientos basados en Terapia Manual. Además somos especialistas en problemas de espalda (cervicalgias, lumbalgias, hernias discales, escoliosis). Reserva ya y volverás seguro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia Del Atm (Primera Visita)", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Tratamiento de Articulación Temporomandibular. Desbloqueo de mandíbula, tratamiento del bruxismo, cefaleas, dolores cervicales crónicos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Tras ese pésimo y estresante día de trabajo, acude a nuestro centro y prueba el masaje descontracturante. Elimina tus tensiones y relájate para afrontar la semana con toda la energía."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si el deporte es lo tuyo, somos tu centro y éste tu servicio. Con nuestro masaje deportivo podrás prevenir las posibles lesiones y preparar tus articulaciones y musculatura para una jornada intensiva de actividad."
+        }
+    ]
+}

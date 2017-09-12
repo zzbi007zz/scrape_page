@@ -1,0 +1,111 @@
+{
+    "adid": null, 
+    "name": "Zael Peluqueria", 
+    "name_of_contact": "Zael Peluqueria", 
+    "scrape_page": "https://www.bucmi.com/zaelpelu", 
+    "business_website": "https://www.bucmi.com/zaelpelu", 
+    "areas_covered": null, 
+    "description": "Peluquería y estética en el barrio de Gracia, Barcelona, cuentan con tratamientos de última generación y asesoramiento personalizado de parte de nuestros profesionales. Reserva nuestras mechas de moda, coloraciones de calidad, cortes de tendencia...", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635622837567092193.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635622837599751014.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "7,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "Barcelona, Barcelona, Barcelona, 08012, Barcelona, 08006, Barcelona, Barcelona, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "931881219", 
+    "office_number2": null, 
+    "mobile_number": "673087496", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3999931000", 
+    "longitude": "2.1705687999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966705450370962.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas, Lavar, Peinar Y Corte", 
+            "duration": 5400, 
+            "price": "59,5 € ", 
+            "description": "Mechas a elegir entre normales o californianas, para mechas bicolor consultar suplemento con el profesional. El servicio incluye también lavado, corte y peinado asesorado. Para cabellos extralargos consulte con su profesional."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "El servicio incluye corte, lavado y peinado con productos de acabado de Kerastase"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Shellac Manicura", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "El servicio incluye limado de uñas, retirada de cutículas y esmaltado de la marca Shellac."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Lavar, Peinar Y Corte", 
+            "duration": 5400, 
+            "price": "59,5 € ", 
+            "description": "Mechas a elegir entre normales o californianas, para mechas bicolor consultar suplemento con el profesional. El servicio incluye también lavado, corte y peinado asesorado. Para cabellos extralargos consulte con su profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño", 
+            "duration": 9000, 
+            "price": "85 € ", 
+            "description": "Elimina el encrespamiento de tu pelo. Indicado para todo tipo de cabellos. Consulte con su profesional por posibles suplementos para cabello extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina", 
+            "duration": 7200, 
+            "price": "95 € ", 
+            "description": "Elimina el encrespamiento de tu pelo. Indicado para todo tipo de cabellos. Consulte con su profesional por posibles suplementos para cabello extralargo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "El servicio incluye corte, lavado y peinado con productos de acabado de Kerastase"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Lavar Y Peinar", 
+            "duration": 2700, 
+            "price": "22 € ", 
+            "description": "El servicio incluye corte, lavado y peinado asesorado con productos de acabado de Kerastase"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas, Lavar, Peinar Y Corte", 
+            "duration": 5400, 
+            "price": "59,5 € ", 
+            "description": "Mechas a elegir entre normales o californianas, para mechas bicolor consultar suplemento con el profesional. El servicio incluye también lavado, corte y peinado asesorado. Para cabellos extralargos consulte con su profesional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño", 
+            "duration": 9000, 
+            "price": "85 € ", 
+            "description": "Elimina el encrespamiento de tu pelo. Indicado para todo tipo de cabellos. Consulte con su profesional por posibles suplementos para cabello extralargo."
+        }
+    ]
+}

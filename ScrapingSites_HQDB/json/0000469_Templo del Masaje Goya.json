@@ -1,0 +1,189 @@
+{
+    "adid": null, 
+    "name": "Templo del Masaje Goya", 
+    "name_of_contact": "Templo del Masaje Goya", 
+    "scrape_page": "https://www.bucmi.com/templodelmasajegoya", 
+    "business_website": "https://www.bucmi.com/templodelmasajegoya", 
+    "areas_covered": null, 
+    "description": "En el Templo del Masaje, situado en Goya, disfrutarás de los mejores especialistas que cuidarán tu salud, belleza y bienestar. Contamos con una amplia gama de servicios, tanto masajes como tratamientos. Ven a conocernos y reserva ahora on line.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365567948482.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365594042214.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365612361852.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365631580088.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365648182082.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365670747286.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365691216299.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365755662604.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365779725032.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924365800662469.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "8,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "914010166", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4237103000", 
+    "longitude": "-3.6701938999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635973780889207156.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Completas", 
+            "duration": 5400, 
+            "price": "57,75 € ", 
+            "description": "Incluye limado, tratamiento de cutículas, baño de manos, masaje relajante en las manos, y esmaltado a elegir. Y para tus pies baño, corte y limado de uñas, eliminación de durezas, masaje relajante de pies y esmaltado a elegir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje A Elegir 40 Minutos", 
+            "duration": 2700, 
+            "price": "36,75 € ", 
+            "description": "Masaje de 40 minutos a elegir entre: masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia De Higiene Facial Con Masaje 40 Minutos", 
+            "duration": 5400, 
+            "price": "78,75 € ", 
+            "description": "Disfruta de una limpieza facial que incluye: desmaquillado, tonificado, peeling con extracción, mascarilla, crema y masaje a elegir de 40 min."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Luce unas manos perfectas con esta maricura completa. El servicio incluye limado, tratamiento de cutículas, baño de manos, masaje relajante en las manos, y esmaltado a elegir."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Completa", 
+            "duration": 5400, 
+            "price": "36,75 € ", 
+            "description": "Luce unos pies perfectos con esta pedicura completa. El servicio incluye baño de pies, corte y limado de uñas, eliminación de durezas, masaje relajante de pies y esmaltado a elegir. El servicio dura 1 hora y 15 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje a elegir 20 minutos", 
+            "duration": 1800, 
+            "price": "18,4 € ", 
+            "description": "Masaje de 20 minutos a elegir entre masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje a elegir 60 minutos", 
+            "duration": 3600, 
+            "price": "49,9 € ", 
+            "description": "Masaje de 60 minutos. Válido para masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "2 Masajes Corporales A Elegir 40 Minutos", 
+            "duration": 2700, 
+            "price": "73,5 € ", 
+            "description": "El servicio incluye dos masajes corporales de 40 minutos a elegir entre: masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "2 Masajes Corporales A Elegir De 60 Minutos", 
+            "duration": 3600, 
+            "price": "99,8 € ", 
+            "description": "El servicio incluye dos masajes corporales de 60 minutos a elegir entre: masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje A Elegir 40 Minutos", 
+            "duration": 2700, 
+            "price": "36,75 € ", 
+            "description": "Masaje de 40 minutos a elegir entre: masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Terapia De Higiene Facial", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Terapia de higiene y preparación tisular personalizada.Se realiza un diagnóstico personal para conocer los hábitos de la persona y se realiza la limpieza facial con los productos adecuados. Se recomienda realizarlo una vez al mes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Terapia De Higiene Facial Con Masaje 40 Minutos", 
+            "duration": 5400, 
+            "price": "78,75 € ", 
+            "description": "Disfruta de una limpieza facial que incluye: desmaquillado, tonificado, peeling con extracción, mascarilla, crema y masaje a elegir de 40 min."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje a elegir 20 minutos", 
+            "duration": 1800, 
+            "price": "18,4 € ", 
+            "description": "Masaje de 20 minutos a elegir entre masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje a elegir 60 minutos", 
+            "duration": 3600, 
+            "price": "49,9 € ", 
+            "description": "Masaje de 60 minutos. Válido para masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "2 Masajes Corporales A Elegir 40 Minutos", 
+            "duration": 2700, 
+            "price": "73,5 € ", 
+            "description": "El servicio incluye dos masajes corporales de 40 minutos a elegir entre: masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje a elegir 20 minutos", 
+            "duration": 1800, 
+            "price": "18,4 € ", 
+            "description": "Masaje de 20 minutos a elegir entre masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje a elegir 60 minutos", 
+            "duration": 3600, 
+            "price": "49,9 € ", 
+            "description": "Masaje de 60 minutos. Válido para masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "2 Masajes Corporales A Elegir 40 Minutos", 
+            "duration": 2700, 
+            "price": "73,5 € ", 
+            "description": "El servicio incluye dos masajes corporales de 40 minutos a elegir entre: masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "2 Masajes Corporales A Elegir De 60 Minutos", 
+            "duration": 3600, 
+            "price": "99,8 € ", 
+            "description": "El servicio incluye dos masajes corporales de 60 minutos a elegir entre: masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje A Elegir 40 Minutos", 
+            "duration": 2700, 
+            "price": "36,75 € ", 
+            "description": "Masaje de 40 minutos a elegir entre: masaje relajante, craneofacial, circulatorio, neurosedante, anticelulítico, reflexología podal o drenaje linfático."
+        }
+    ]
+}

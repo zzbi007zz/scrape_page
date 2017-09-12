@@ -1,0 +1,506 @@
+{
+    "adid": null, 
+    "name": "Tropical Sol", 
+    "name_of_contact": "Tropical Sol", 
+    "scrape_page": "https://www.bucmi.com/tropicalsol", 
+    "business_website": "https://www.bucmi.com/tropicalsol", 
+    "areas_covered": null, 
+    "description": "Tropical Sol es tu centro de estética en Oviedo. Nuestro cualificado equipo de profesionales te mimarán para que te sientas como en casa. Ofrecemos servicios una variedad de servicios de estética, entre las cuales el bronceado. ¡No lo dudes y visítanos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635949409963282021.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635949410060177075.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635949410287231822.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635949410364423030.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635949410407397087.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "10", 
+    "hqdb_review_score": "9,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Oviedo", 
+    "zipcode": "33013", 
+    "formatted_address": "Oviedo, 33013, Oviedo, 33013", 
+    "country": "es", 
+    "office_number": "984990958", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3611833000", 
+    "longitude": "-5.8665942000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635950442428433079.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial Y Pack Skeyndor", 
+            "duration": 3600, 
+            "price": "109 € ", 
+            "description": "Disfruta de una limpieza facial y un pack skeyndor que incluye serum , aceite reparador y un neceser ..No dudes en llamarnos para más información."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensión De Pestañas", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "En Tropical Sol haremos que tengas una mirada seductora gracias a nuestro servicio de extensiones de pestañas de seda que colocamos pelo a pelo sobre la pestaña."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Limpieza facial completa que incluye desmaquillado, peeling, paleta ultrasonica, ampolla, mascarilla y masaje. Todos los productos de alta calidad de skeyndor a utilizar estarán a adaptados a tu tipo de piel. ¡Luce un rostro suave y libre de impurezas por un precio increíble!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Esmaltado Semipermanente", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "En nuestro centro somos expertos en el cuidado de tu cuerpo. Ven a Tropical Sol y potenciaremos la belleza de tus pies y manos gracias a nuestro servicio de manicura completa con esmaltado semipermanente, siempre de la mano de las mejores marcas. Olvídate durante semanas de retocar tu esmalte de uñas y luce unas manos perfectas en todo momento. El servicio incluye manicura completa (limado, retirada de cutículas y pieles,masaje hidratante final) y esmaltado permanente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Uñas Acrílica O Gel (Nuevas)", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "¿Quieres lucir unas uñas envidiables? ¿No consigues una uñas larga y definida? No te preocupes. Reserva ya esta manicura acrílica o gel y consigue las uñas que deseas por un precio increíble. Nuestro equipo de profesionales está altamente cualificado y conseguirán el resultado que tu esperas. (Puedes elegir el color o colores y diseños que mas te gusten, por el mismo precio)"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cejas", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "¡Olvídate del vello con este servicio de depilación con cera o pinzas en cejas por el increíble precio de 5 euros! ¡Porque tu cuidado es lo más importante! Incluye el diseño de cejas, asesorado por las mejores profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Piernas Hombre", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "¡Olvídate del vello con este servicio de depilación masculina con cera tibia o caliente en piernas enteras por el increíble precio de 16 euros! ¡Porque los hombres también se depilan!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Completa", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Todos sabemos la gran importancia que tienen nuestros pies en nuestro día, por eso, en nuestro centro nos gusta mimarlos y devolverles la belleza y el cuidado que se merecen. Te ofrecemos nuestro servicio de pedicura completa que incluye limado, retirada de pieles y cutículas, esmaltado a tu gusto y masaje hidratante final. DIsfruta de la estupenda comodidad de unos pies bonitos y cuidados."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal + Hidratación", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Peeling corporal, ideal para ir preparando la llegada del verano y los rallos del sol. Consigue una piel libre de exceso de pieles muertas, suave y sedosa gracias a nuestros expertos esteticistas de Tropical Sol."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Facial Secuencial Multicapa (Skeyndor)", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Depmapeel pro, es el primer peeling secuencial multicapa. Este servicio trata de 2 sesiones de tratamiento en cabina y 2 cremas para casa. La nueva generación de peeling cosmeceutico que trata de forma inmediata las imperfecciones cutáneas. 5 técnicas de peeling para una piel nueva: microabrasivo, sonico, encimatico, acido y biologico."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Solarium: 6 Sesiones Bronceado", 
+            "duration": 900, 
+            "price": "25 € ", 
+            "description": "Si eres de esas personas que les cuesta coger el color con rapidez, o quieres lucir un bronceado espectacular para un evento concreto, ven a Tropical Sol. Disponemos de 2 lámparas vérticales y una horizontal para tu mayor comodidad. Disfruta de este maravilloso bono de 6 sesiones de 6 a 12 minutos de duración cada una y ¡Lucirás un bronceado envidiale!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje De Novia, Ampolla Y Prueba", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? Si reservas este servicio de maquillaje de novia, te incluye la prueba y el maquillaje para el día de la celebración con Ampolla. No te la juegues en una ocasión tan importante y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje Novia (Prueba)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? .No te la juegues en una ocasión tan importante y haz una prueba y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Novia, Ampolla Y Prueba", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? Si reservas este servicio de maquillaje de novia, te incluye la prueba y el maquillaje para el día de la celebración con Ampolla. No te la juegues en una ocasión tan importante y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Novia (Prueba)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? .No te la juegues en una ocasión tan importante y haz una prueba y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial Y Pack Skeyndor", 
+            "duration": 3600, 
+            "price": "109 € ", 
+            "description": "Disfruta de una limpieza facial y un pack skeyndor que incluye serum , aceite reparador y un neceser ..No dudes en llamarnos para más información."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "En Tropical Sol haremos que tengas una mirada seductora gracias a nuestro servicio de extensiones de pestañas de seda que colocamos pelo a pelo sobre la pestaña."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extension De Pestañas (Mantenimiento)", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "En Tropical Sol haremos que tengas una mirada seductora gracias a nuestro servicio de extensiones de pestañas de seda que colocamos pelo a pelo sobre la pestaña."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Limpieza facial completa que incluye desmaquillado, peeling, paleta ultrasonica, ampolla, mascarilla y masaje. Todos los productos de alta calidad de skeyndor a utilizar estarán a adaptados a tu tipo de piel. ¡Luce un rostro suave y libre de impurezas por un precio increíble!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Envolturas Corporales", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Déjate llevar por nuestras delicadas envolturas corporales que te ayudarán a combatir problemas típicos de la piel. Lo último en estética natural. Mejora la circulación, alivia el dolor muscular, mejora el acné, desintoxica el cuerpo y ayuda en la eliminación de tejidos adiposos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Dia Y Ampolla", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Disfruta de una sesión de maquillaje de día, para conseguir potenciar los rasgos de tu rostro y ponerte guap@ para cualquier ocasión. Utilizamos productos de primera calidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Noche Y Ampolla", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Disfruta de una sesión de maquillaje de noche, para conseguir potenciar los rasgos de tu rostro y ponerte guap@ para cualquier ocasión. Utilizamos productos de primera calidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Novia, Ampolla Y Prueba", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? Si reservas este servicio de maquillaje de novia, te incluye la prueba y el maquillaje para el día de la celebración con Ampolla. No te la juegues en una ocasión tan importante y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Novia (Prueba)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? .No te la juegues en una ocasión tan importante y haz una prueba y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal + Hidratación", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Peeling corporal, ideal para ir preparando la llegada del verano y los rallos del sol. Consigue una piel libre de exceso de pieles muertas, suave y sedosa gracias a nuestros expertos esteticistas de Tropical Sol."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "En tropical Sol tratamos tu cuerpo para antes del verano con: peeling para eliminar las células muertas del cuerpo, limpiando las capas exteriores de la piel, justo donde se acumulan las toxinas e impurezas. Envoltura e Hidratación, con un masaje para que su piel quede fresca y joven."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Secuencial Multicapa (Skeyndor)", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Depmapeel pro, es el primer peeling secuencial multicapa. Este servicio trata de 2 sesiones de tratamiento en cabina y 2 cremas para casa. La nueva generación de peeling cosmeceutico que trata de forma inmediata las imperfecciones cutáneas. 5 técnicas de peeling para una piel nueva: microabrasivo, sonico, encimatico, acido y biologico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Solarium: 1 Sesión Bronceado", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Si eres de esas personas que les cuesta coger el color con rapidez, o quieres lucir un bronceado espectacular para un evento concreto. Ven a Tropical Sol. Disponemos de 2 lámparas vérticales y una horizontal para tu mayor comodidad. La sesión tiene una duración de 6 a 18 minutos. ¡Lucirás un bronceado envidiale!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje De Novia, Ampolla Y Prueba", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? Si reservas este servicio de maquillaje de novia, te incluye la prueba y el maquillaje para el día de la celebración con Ampolla. No te la juegues en una ocasión tan importante y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje Novia (Prueba)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? .No te la juegues en una ocasión tan importante y haz una prueba y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Facial Y Pack Skeyndor", 
+            "duration": 3600, 
+            "price": "109 € ", 
+            "description": "Disfruta de una limpieza facial y un pack skeyndor que incluye serum , aceite reparador y un neceser ..No dudes en llamarnos para más información."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "En Tropical Sol haremos que tengas una mirada seductora gracias a nuestro servicio de extensiones de pestañas de seda que colocamos pelo a pelo sobre la pestaña."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extension De Pestañas (Mantenimiento)", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "En Tropical Sol haremos que tengas una mirada seductora gracias a nuestro servicio de extensiones de pestañas de seda que colocamos pelo a pelo sobre la pestaña."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Limpieza facial completa que incluye desmaquillado, peeling, paleta ultrasonica, ampolla, mascarilla y masaje. Todos los productos de alta calidad de skeyndor a utilizar estarán a adaptados a tu tipo de piel. ¡Luce un rostro suave y libre de impurezas por un precio increíble!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Envolturas Corporales", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Déjate llevar por nuestras delicadas envolturas corporales que te ayudarán a combatir problemas típicos de la piel. Lo último en estética natural. Mejora la circulación, alivia el dolor muscular, mejora el acné, desintoxica el cuerpo y ayuda en la eliminación de tejidos adiposos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje De Dia Y Ampolla", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Disfruta de una sesión de maquillaje de día, para conseguir potenciar los rasgos de tu rostro y ponerte guap@ para cualquier ocasión. Utilizamos productos de primera calidad."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje De Noche Y Ampolla", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Disfruta de una sesión de maquillaje de noche, para conseguir potenciar los rasgos de tu rostro y ponerte guap@ para cualquier ocasión. Utilizamos productos de primera calidad."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje De Novia, Ampolla Y Prueba", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? Si reservas este servicio de maquillaje de novia, te incluye la prueba y el maquillaje para el día de la celebración con Ampolla. No te la juegues en una ocasión tan importante y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje Novia (Prueba)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? .No te la juegues en una ocasión tan importante y haz una prueba y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal + Hidratación", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Peeling corporal, ideal para ir preparando la llegada del verano y los rallos del sol. Consigue una piel libre de exceso de pieles muertas, suave y sedosa gracias a nuestros expertos esteticistas de Tropical Sol."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "En tropical Sol tratamos tu cuerpo para antes del verano con: peeling para eliminar las células muertas del cuerpo, limpiando las capas exteriores de la piel, justo donde se acumulan las toxinas e impurezas. Envoltura e Hidratación, con un masaje para que su piel quede fresca y joven."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Facial Secuencial Multicapa (Skeyndor)", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Depmapeel pro, es el primer peeling secuencial multicapa. Este servicio trata de 2 sesiones de tratamiento en cabina y 2 cremas para casa. La nueva generación de peeling cosmeceutico que trata de forma inmediata las imperfecciones cutáneas. 5 técnicas de peeling para una piel nueva: microabrasivo, sonico, encimatico, acido y biologico."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Solarium: 1 Sesión Bronceado", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Si eres de esas personas que les cuesta coger el color con rapidez, o quieres lucir un bronceado espectacular para un evento concreto. Ven a Tropical Sol. Disponemos de 2 lámparas vérticales y una horizontal para tu mayor comodidad. La sesión tiene una duración de 6 a 18 minutos. ¡Lucirás un bronceado envidiale!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Solarium: 12 Sesiones Bronceado", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "Si eres de esas personas que les cuesta coger el color con rapidez, o quieres lucir un bronceado espectacular para un evento concreto, ven a Tropical Sol. Disponemos de 2 lámparas vérticales y una horizontal para tu mayor comodidad. Disfruta de este maravilloso bono de 12 sesiones de 6 a 12 minutos de duración cada una y ¡Lucirás un bronceado envidiale!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Solarium: 6 Sesiones Bronceado", 
+            "duration": 900, 
+            "price": "25 € ", 
+            "description": "Si eres de esas personas que les cuesta coger el color con rapidez, o quieres lucir un bronceado espectacular para un evento concreto, ven a Tropical Sol. Disponemos de 2 lámparas vérticales y una horizontal para tu mayor comodidad. Disfruta de este maravilloso bono de 6 sesiones de 6 a 12 minutos de duración cada una y ¡Lucirás un bronceado envidiale!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Maquillaje De Novia, Ampolla Y Prueba", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? Si reservas este servicio de maquillaje de novia, te incluye la prueba y el maquillaje para el día de la celebración con Ampolla. No te la juegues en una ocasión tan importante y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Maquillaje Novia (Prueba)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? .No te la juegues en una ocasión tan importante y haz una prueba y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza Facial Y Pack Skeyndor", 
+            "duration": 3600, 
+            "price": "109 € ", 
+            "description": "Disfruta de una limpieza facial y un pack skeyndor que incluye serum , aceite reparador y un neceser ..No dudes en llamarnos para más información."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Extensión De Pestañas", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "En Tropical Sol haremos que tengas una mirada seductora gracias a nuestro servicio de extensiones de pestañas de seda que colocamos pelo a pelo sobre la pestaña."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje De Novia, Ampolla Y Prueba", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? Si reservas este servicio de maquillaje de novia, te incluye la prueba y el maquillaje para el día de la celebración con Ampolla. No te la juegues en una ocasión tan importante y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje Novia (Prueba)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? .No te la juegues en una ocasión tan importante y haz una prueba y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Facial Y Pack Skeyndor", 
+            "duration": 3600, 
+            "price": "109 € ", 
+            "description": "Disfruta de una limpieza facial y un pack skeyndor que incluye serum , aceite reparador y un neceser ..No dudes en llamarnos para más información."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensión De Pestañas", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "En Tropical Sol haremos que tengas una mirada seductora gracias a nuestro servicio de extensiones de pestañas de seda que colocamos pelo a pelo sobre la pestaña."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extension De Pestañas (Mantenimiento)", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "En Tropical Sol haremos que tengas una mirada seductora gracias a nuestro servicio de extensiones de pestañas de seda que colocamos pelo a pelo sobre la pestaña."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Limpieza facial completa que incluye desmaquillado, peeling, paleta ultrasonica, ampolla, mascarilla y masaje. Todos los productos de alta calidad de skeyndor a utilizar estarán a adaptados a tu tipo de piel. ¡Luce un rostro suave y libre de impurezas por un precio increíble!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Envolturas Corporales", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Déjate llevar por nuestras delicadas envolturas corporales que te ayudarán a combatir problemas típicos de la piel. Lo último en estética natural. Mejora la circulación, alivia el dolor muscular, mejora el acné, desintoxica el cuerpo y ayuda en la eliminación de tejidos adiposos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje De Dia Y Ampolla", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Disfruta de una sesión de maquillaje de día, para conseguir potenciar los rasgos de tu rostro y ponerte guap@ para cualquier ocasión. Utilizamos productos de primera calidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje De Noche Y Ampolla", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Disfruta de una sesión de maquillaje de noche, para conseguir potenciar los rasgos de tu rostro y ponerte guap@ para cualquier ocasión. Utilizamos productos de primera calidad."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje De Novia, Ampolla Y Prueba", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? Si reservas este servicio de maquillaje de novia, te incluye la prueba y el maquillaje para el día de la celebración con Ampolla. No te la juegues en una ocasión tan importante y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje Novia (Prueba)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir perfecta el día de tu boda? .No te la juegues en una ocasión tan importante y haz una prueba y ponte en manos de una maquilladora profesional."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal + Hidratación", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Peeling corporal, ideal para ir preparando la llegada del verano y los rallos del sol. Consigue una piel libre de exceso de pieles muertas, suave y sedosa gracias a nuestros expertos esteticistas de Tropical Sol."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal E Hidratación", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "En tropical Sol tratamos tu cuerpo para antes del verano con: peeling para eliminar las células muertas del cuerpo, limpiando las capas exteriores de la piel, justo donde se acumulan las toxinas e impurezas. Envoltura e Hidratación, con un masaje para que su piel quede fresca y joven."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial Secuencial Multicapa (Skeyndor)", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Depmapeel pro, es el primer peeling secuencial multicapa. Este servicio trata de 2 sesiones de tratamiento en cabina y 2 cremas para casa. La nueva generación de peeling cosmeceutico que trata de forma inmediata las imperfecciones cutáneas. 5 técnicas de peeling para una piel nueva: microabrasivo, sonico, encimatico, acido y biologico."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Solarium: 1 Sesión Bronceado", 
+            "duration": 900, 
+            "price": "5 € ", 
+            "description": "Si eres de esas personas que les cuesta coger el color con rapidez, o quieres lucir un bronceado espectacular para un evento concreto. Ven a Tropical Sol. Disponemos de 2 lámparas vérticales y una horizontal para tu mayor comodidad. La sesión tiene una duración de 6 a 18 minutos. ¡Lucirás un bronceado envidiale!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Solarium: 12 Sesiones Bronceado", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "Si eres de esas personas que les cuesta coger el color con rapidez, o quieres lucir un bronceado espectacular para un evento concreto, ven a Tropical Sol. Disponemos de 2 lámparas vérticales y una horizontal para tu mayor comodidad. Disfruta de este maravilloso bono de 12 sesiones de 6 a 12 minutos de duración cada una y ¡Lucirás un bronceado envidiale!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Solarium: 6 Sesiones Bronceado", 
+            "duration": 900, 
+            "price": "25 € ", 
+            "description": "Si eres de esas personas que les cuesta coger el color con rapidez, o quieres lucir un bronceado espectacular para un evento concreto, ven a Tropical Sol. Disponemos de 2 lámparas vérticales y una horizontal para tu mayor comodidad. Disfruta de este maravilloso bono de 6 sesiones de 6 a 12 minutos de duración cada una y ¡Lucirás un bronceado envidiale!"
+        }
+    ]
+}

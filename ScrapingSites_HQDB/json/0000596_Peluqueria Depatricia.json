@@ -1,0 +1,165 @@
+{
+    "adid": null, 
+    "name": "Peluquería Depatricia", 
+    "name_of_contact": "Peluquería Depatricia", 
+    "scrape_page": "https://www.bucmi.com/depatricia", 
+    "business_website": "https://www.bucmi.com/depatricia", 
+    "areas_covered": null, 
+    "description": "Depatricia es tu salón de belleza y peluquería ubicado en Mar de Cristal, en Madrid. Disfruta de nuestros cortes de pelo, alisados de keratina, bótox capilar... No pierdas esta oportunidad y reserva online con Bucmi.com. No te arrepentirás del resultado.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920894805036825.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920894832224116.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920894853005299.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920894884728507.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920894908807528.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920894928963710.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920894958963607.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "6,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Zipaquira, 12", 
+    "city": "Madrid", 
+    "zipcode": "28033", 
+    "formatted_address": "C/ Zipaquira, 12, Madrid, 28033", 
+    "country": "es", 
+    "office_number": "913001680", 
+    "office_number2": null, 
+    "mobile_number": "671863366", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4732219000", 
+    "longitude": "-3.6354310000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971822821122304.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Con Ácido Hialurónico Pelo Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Ponte en las manos de lo mejores profesionales y olvida el encrespamiento y los rizos rebeldes. Incluye peinado. Servicio para pelo Corto. Haz ya tu reserva con Bucmi.com y consigue ese pelo liso que tanto deseabas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10,5 € ", 
+            "description": "Si eres hombre y quieres cuidar tu estilo, o quitarte de encima ese aspecto desaliñado,ven a De Patricia y reserva nuestro completo corte de pelo, según las últimas tendencias, que también incluye lavado con champú y peinado con acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Bótox Capilar, Cortar Y Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "32,5 € ", 
+            "description": "¡El pack más completo para cuidar tu melena! Disfruta de este completo servicio que incluye tratamiento de bótox capilar para hidratar tu melena, corte de tendencia, lavado con champú y peinado definido del pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Con Ácido Hialurónico Pelo Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Ponte en las manos de lo mejores profesionales y olvida el encrespamiento y los rizos rebeldes. Incluye peinado. Servicio para pelo Corto. Haz ya tu reserva con Bucmi.com y consigue ese pelo liso que tanto deseabas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Con Ácido Hialurónico Pelo Largo", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Proporciona a tu pelo un liso natural, brillo intenso y textura indescriptible. Incluye peinado. Servicio para pelo Largo. Haz ya tu reserva con Bucmi.com y consigue ese pelo liso que tanto deseabas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Con Ácido Hialurónico Pelo Medio", 
+            "duration": 7200, 
+            "price": "70 € ", 
+            "description": "Con el Ácido Hialurónico proporcionarás reconstrucción y nutrición a tu cabello, no lo dudes más y pruébalo. Incluye peinado. Servicio para pelo Medio. Haz ya tu reserva con Bucmi.com y consigue ese pelo liso que tanto deseabas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10,5 € ", 
+            "description": "Si eres hombre y quieres cuidar tu estilo, o quitarte de encima ese aspecto desaliñado,ven a De Patricia y reserva nuestro completo corte de pelo, según las últimas tendencias, que también incluye lavado con champú y peinado con acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer Pelo Largo", 
+            "duration": 2700, 
+            "price": "14,5 € ", 
+            "description": "Disfruta de cortes de tendencia asesorados por nuestros expertos estilistas de Depatricia, siempre al tanto de las últimas tendencias en looks, para que salgas realmente estupenda de nuestro salón. El servicio incluye el corte de moda y lavado con champú. No incluye mascarillas ni peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo Mujer Pelo Corto", 
+            "duration": 2700, 
+            "price": "12,5 € ", 
+            "description": "Disfruta de cortes de tendencia asesorados por nuestros expertos estilistas de Depatricia, siempre al tanto de las últimas tendencias en looks, para que salgas realmente estupenda de nuestro salón. El servicio incluye el corte de moda y lavado con champú. No incluye mascarillas ni peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Y Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "14 € ", 
+            "description": "¿Tienes un evento especial al que quieres acudir perfecta? ¿Te ha surgido una cita importante a última hora y quieres ir guapa? Pues este es tu servicio estrella. Reserva online en nuestra Peluquería Depatricia nuestro completo servicio de lavado con champú y peinado y sal estupenda del salón. No incluye peinados muy elaborados ni recogidos ni semirecogidos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Y Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "12,5 € ", 
+            "description": "¿Tienes un evento especial al que quieres acudir perfecta? ¿Te ha surgido una cita importante a última hora y quieres ir guapa? Pues este es tu servicio estrella. Reserva online en nuestra Peluquería Depatricia nuestro completo servicio de lavado con champú y peinado y sal estupenda del salón. No incluye peinados muy elaborados ni recogidos ni semirecogidos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Y Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "15,5 € ", 
+            "description": "¿Tienes un evento especial al que quieres acudir perfecta? ¿Te ha surgido una cita importante a última hora y quieres ir guapa? Pues este es tu servicio estrella. Reserva online en nuestra Peluquería Depatricia nuestro completo servicio de lavado con champú y peinado y sal estupenda del salón. No incluye peinados muy elaborados ni recogidos ni semirecogidos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Bótox Capilar, Cortar Y Peinar Media Melena", 
+            "duration": 2700, 
+            "price": "35,9 € ", 
+            "description": "¡El pack más completo para cuidar tu melena! Disfruta de este completo servicio que incluye tratamiento de bótox capilar para hidratar tu melena, corte de tendencia, lavado con champú y peinado definido del pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Bótox Capilar, Cortar Y Peinar Pelo Corto", 
+            "duration": 1800, 
+            "price": "32,5 € ", 
+            "description": "¡El pack más completo para cuidar tu melena! Disfruta de este completo servicio que incluye tratamiento de bótox capilar para hidratar tu melena, corte de tendencia, lavado con champú y peinado definido del pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Bótox Capilar, Cortar Y Peinar Pelo Largo", 
+            "duration": 2700, 
+            "price": "36,9 € ", 
+            "description": "¡El pack más completo para cuidar tu melena! Disfruta de este completo servicio que incluye tratamiento de bótox capilar para hidratar tu melena, corte de tendencia, lavado con champú y peinado definido del pelo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Con Ácido Hialurónico Pelo Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Ponte en las manos de lo mejores profesionales y olvida el encrespamiento y los rizos rebeldes. Incluye peinado. Servicio para pelo Corto. Haz ya tu reserva con Bucmi.com y consigue ese pelo liso que tanto deseabas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Con Ácido Hialurónico Pelo Corto", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Ponte en las manos de lo mejores profesionales y olvida el encrespamiento y los rizos rebeldes. Incluye peinado. Servicio para pelo Corto. Haz ya tu reserva con Bucmi.com y consigue ese pelo liso que tanto deseabas."
+        }
+    ]
+}

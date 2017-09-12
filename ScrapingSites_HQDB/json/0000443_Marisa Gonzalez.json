@@ -1,0 +1,101 @@
+{
+    "adid": null, 
+    "name": "Marisa González", 
+    "name_of_contact": "Marisa González", 
+    "scrape_page": "https://www.bucmi.com/marisagonzalez", 
+    "business_website": "https://www.bucmi.com/marisagonzalez", 
+    "areas_covered": null, 
+    "description": "El Centro de Estética Marisa González se encuentra ubicado en la zona de Sol, Madrid. Al reservar, te obsequiamos con un reloj de silicona disponible en 3 colores: pistacho, azul cielo o violeta. Sólo realizamos servicios a nivel corporal en mujeres.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913254222463334.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913254269181958.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913254305744348.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913254340588097.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913254364494173.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913254392306594.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28013", 
+    "formatted_address": "Madrid, 28005, Madrid, Madrid, Madrid, Madrid, Madrid, 28032, Madrid, 28013", 
+    "country": "es", 
+    "office_number": "917760041", 
+    "office_number2": null, 
+    "mobile_number": "606800754", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4163016000", 
+    "longitude": "-3.7067472999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635913256196559938.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Disfruta de una Limpieza de cutis profunda. Incluye: Limpieza tonificación, eliminación células muertas, vapor con Ozono, eliminación de puntos negros e impurezas, aplicación de Electrodos de Ozono, realización masaje relajante facial, mascarilla específica y aplicación de producto final apropiada para cada persona."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Energético Corporal", 
+            "duration": 5400, 
+            "price": "69 € ", 
+            "description": "Date un capricho y elimina esa carga del día a día manteniendo el equilibrio de la energía del cuerpo y siéntete relajada, con energía y vitalidad. Disfruta del masaje con aceites esenciales a base de lavanda y naranja. Pura inyección de vitaminas. Servicio exclusivo para mujer. No se realiza en hombres."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal De Sandía Y Melón", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "¡Prepara tu piel para la primavera y el buen tiempo! Reserva nuestro exfoliación corporal a base de sandía y melón. Renovamos tu piel a nivel celular mediante nuestro peeling de melón y sandía. Gracias a estas frutas aportamos 3 vitaminas diferentes: C, fomenta la producción de colágeno; A, aumenta la hidratación; B, mantiene los tejidos jóvenes. ¡Disfruta de una extrema suavidad en tu piel! Servicio exclusivo para mujeres."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Disfruta de una Limpieza de cutis profunda. Incluye: Limpieza tonificación, eliminación células muertas, vapor con Ozono, eliminación de puntos negros e impurezas, aplicación de Electrodos de Ozono, realización masaje relajante facial, mascarilla específica y aplicación de producto final apropiada para cada persona."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Y Tratamiento Facial", 
+            "duration": 5400, 
+            "price": "59 € ", 
+            "description": "Mima tu piel con este tratamiento profundo. El servicio incluye: limpieza, tonificación, vapor de ozono, exfoliación, extracción, electrodos con ozono, masaje relajante con aceites esenciales, mascarilla y producto final."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal De Sandía Y Melón", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "¡Prepara tu piel para la primavera y el buen tiempo! Reserva nuestro exfoliación corporal a base de sandía y melón. Renovamos tu piel a nivel celular mediante nuestro peeling de melón y sandía. Gracias a estas frutas aportamos 3 vitaminas diferentes: C, fomenta la producción de colágeno; A, aumenta la hidratación; B, mantiene los tejidos jóvenes. ¡Disfruta de una extrema suavidad en tu piel! Servicio exclusivo para mujeres."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Iluminador A Base De Uva", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "¡Reserva nuestro exclusivo tratamiento preparatorio para la primavera! Está compuesto con extracto 100% de uva. Contiene propiedades altamente antioxidantes, hidratantes y nutritivas. Este tratamiento le aportará a tu rostro una juventud luminosa y una sensación de bienestar en tu piel."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "55 € ", 
+            "description": "Disfruta de una Limpieza de cutis profunda. Incluye: Limpieza tonificación, eliminación células muertas, vapor con Ozono, eliminación de puntos negros e impurezas, aplicación de Electrodos de Ozono, realización masaje relajante facial, mascarilla específica y aplicación de producto final apropiada para cada persona."
+        }
+    ]
+}

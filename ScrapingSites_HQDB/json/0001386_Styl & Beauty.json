@@ -1,0 +1,152 @@
+{
+    "adid": null, 
+    "name": "Styl & Beauty", 
+    "name_of_contact": "Styl & Beauty", 
+    "scrape_page": "https://www.bucmi.com/styl-and-beauty", 
+    "business_website": "https://www.bucmi.com/styl-and-beauty", 
+    "areas_covered": null, 
+    "description": "Ven a conocer el Centro de Estética Styl&Beauty expertos en tratamientos de belleza. Ponte en manos de nuestros mejores profesionales para realizarte todo tipo de tratamientos tanto faciales como corporales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636148246122415868.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Viladomat, 63", 
+    "city": "Barcelona", 
+    "zipcode": "08015", 
+    "formatted_address": "C/ Viladomat, 63, Barcelona, 08015", 
+    "country": "es", 
+    "office_number": "934252363", 
+    "office_number2": null, 
+    "mobile_number": "627934585", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3779690000", 
+    "longitude": "2.1594145999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636148244956033777.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Ponte en manos de nuestros profesionales y prueba nuestras extensiones de pestañas colocadas pelo a pelo en cada una de tus pestañas logrando unos resultados de lo más visibles a la par que naturales. Luce una mirada inigualable, ¡desearás repetir!."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Ven a conocernos, ponte en manos de nuestro equipo de profesionales y presume de una piel limpia y cuidada, con un aspecto sano y bonito. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. Además, incluye depilación de cejas y labio superior, para una mayor satisfacción y unos acabados aún más perfectos. ¡Te encantarán los resultados!."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Con Esmaltado Semipermanente", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Presume de una manicura intacta y perfecta durante semanas gracias a nuestro esmaltado semipermante. Escoge el tono que más va contigo y luce una perfecta manicura durante más tiempo. El servicio incluye limado, retirada de cutículas, esmaltado semipermanente a tu gusto e hidratación. ¡Te encantarán los resultados!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Exfoliación Corporal Con Masaje", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Consigue una piel más suave e hidratada con nuestro tratamiento de exfoliación corporal. Ponte en manos de nuestros profesionales y luce una piel libre de imperfecciones. Para finalizar este tratamiento cuenta con un masaje. Reserva ya tu cita online con nosotros a través de Bucmi.com. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Ponte en manos de nuestros profesionales y prueba nuestras extensiones de pestañas colocadas pelo a pelo en cada una de tus pestañas logrando unos resultados de lo más visibles a la par que naturales. Luce una mirada inigualable, ¡desearás repetir!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Ven a conocernos, ponte en manos de nuestro equipo de profesionales y presume de una piel limpia y cuidada, con un aspecto sano y bonito. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. Además, incluye depilación de cejas y labio superior, para una mayor satisfacción y unos acabados aún más perfectos. ¡Te encantarán los resultados!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Presoterapia", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "Reserva tu sesión de presoterapia si quieres acabar con la celutitis. Este tratamiento corporal de drenaje linfático está aconsejado para remodelar y perfilar el cuerpo así como reducir la retención de líquidos o aliviar el dolor y la inflamación de pierna. No esperes más y reserva ya tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Con el tinte y permanente de pestañas lograrás lucir la mirada que tanto deseas las 24 horas del día, sin necesidad de utilizar máscara de pestañas, rizadores u otros utensilios para conseguir una mirada intensa y con la curva de pestaña que deseas. Pruébalo y ¡te encantarán los resultados!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Ácido Hilaurónico", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Quieres lucir una piel más joven? Ven y prueba nuestro tratamiento facial de ácido hilaurónico. Reduce tus arrugas de una forma más natural y sin necesidad de pasar por el quirófano. Este tratamiento es indicado para reducir las arrugas de expresión. ¡No esperes más y reserva tu cita ya a través de Bucmi.com!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Pieles Grasas", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Reserva ahora nuestro tratamiento facial para pieles grasas que te ayudará a combatir los brillos de tu piel. Con este tratamiento lucirás una piel más suave, radiante e hidratada. No esperes ya y ven a vernos, ¡no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Notas tu piel apagada y sin vida? Este es tu tratamiento ideal. Un tratamiento facial a base de vitamina C, con el que gracias a las propiedades de las vitaminas, lograremos darle a tu piel un aspecto más luminoso y vivo. Resultados visibles y duraderos. Ponte en nuestras manos y ¡presume de un cutis con un aspecto inigualable!."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Exfoliación Corporal Con Masaje", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Consigue una piel más suave e hidratada con nuestro tratamiento de exfoliación corporal. Ponte en manos de nuestros profesionales y luce una piel libre de imperfecciones. Para finalizar este tratamiento cuenta con un masaje. Reserva ya tu cita online con nosotros a través de Bucmi.com. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Ponte en manos de nuestros profesionales y prueba nuestras extensiones de pestañas colocadas pelo a pelo en cada una de tus pestañas logrando unos resultados de lo más visibles a la par que naturales. Luce una mirada inigualable, ¡desearás repetir!."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Ven a conocernos, ponte en manos de nuestro equipo de profesionales y presume de una piel limpia y cuidada, con un aspecto sano y bonito. El servicio incluye limpieza, extracción, peeling, mascarilla e hidratación. Además, incluye depilación de cejas y labio superior, para una mayor satisfacción y unos acabados aún más perfectos. ¡Te encantarán los resultados!."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Exfoliación Corporal Con Masaje", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Consigue una piel más suave e hidratada con nuestro tratamiento de exfoliación corporal. Ponte en manos de nuestros profesionales y luce una piel libre de imperfecciones. Para finalizar este tratamiento cuenta con un masaje. Reserva ya tu cita online con nosotros a través de Bucmi.com. ¡No te arrepentirás!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Exfoliación Corporal Con Masaje", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Consigue una piel más suave e hidratada con nuestro tratamiento de exfoliación corporal. Ponte en manos de nuestros profesionales y luce una piel libre de imperfecciones. Para finalizar este tratamiento cuenta con un masaje. Reserva ya tu cita online con nosotros a través de Bucmi.com. ¡No te arrepentirás!"
+        }
+    ]
+}

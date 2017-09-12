@@ -1,0 +1,530 @@
+{
+    "adid": null, 
+    "name": "L Passage VIP", 
+    "name_of_contact": "L Passage VIP", 
+    "scrape_page": "https://www.bucmi.com/lpassageVIP", 
+    "business_website": "https://www.bucmi.com/lpassageVIP", 
+    "areas_covered": null, 
+    "description": "L' Passage Vip es uno de los salones de belleza más exclusivos de la capital, situado en la calle Núñez de Balboa 95 del barrio de Salamanca de Madrid. Cuenta con un equipo profesional liderado por Gloria, con un amplio espacio de peluquería y dos cabinas de estética, donde reina un ambiente íntimo y de confianza. Para realizar sus tratamientos utilizan firmas de gran calidad como La Bioesthétique, Biologique Recherche, CND Shellac o Salvatore Cosmetics. Ofrecen una amplia gama de servicios de peluquería, tratamientos faciales y corporales, depilación con cera o luz pulsada y masajes. Sus estilistas son expertos en coloración, mechas y alisado, utilizando siempre las técnicas más avanzadas como por ejemplo la innovadora taninoplastia. Además, realizan su trabajo siguiendo un minucioso protocolo que pasa por realizar un diagnóstico inicial personalizado y un seguimiento exhaustivo, que permiten aplicar los pasos y técnicas más adecuados según cada caso.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635814690020514482.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635814690042703042.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635814690070828026.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858852214937835.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858852236033706.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858852256971148.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858852277457945.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636281163925587740.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "46", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ardemans, 40", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Ardemans, 40, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "915756837", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4345384000", 
+    "longitude": "-3.6821224999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636281162510286104.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Semipermanente Shellac", 
+            "duration": 9000, 
+            "price": "75 € ", 
+            "description": "El pack perfecto para tus manos y tus pies. Disfruta de nuestro esmaltado SHELLAC a escoger dentro de nuestra amplia gama de colores o esmaltado francesa. Además, realizamos limado de uñas, retirada de cutículas, durezas, e hidratación. Reserva ahora online. Se abonará un suplemento de 10€ adicionales con esta promoción, en caso de tener que retirar algún esmaltado semipermanente en pies o manos antes de realizar el realizar el servicio."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Estilista Hombre", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Consigue un look a la última gracias al asesoramiento de nuestros profesionales estilistas. El servicio es exclusivo para el hombre e incluye lavado y peinado con definición. Ven a nuestra peluquería y luce el corte que mejor se adapte a tu estilo. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Estilista Mujer", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Saca el mejor partido de tu melena de la mano de los mejores profesionales gracias a este servicio. Incluye un corte de moda recomendado por nuestros expertos estilistas, adaptado a tu estilo y personalidad. No incluye peinado. En caso de desear un peinado consulte en el centro por suplemento y disponibilidad."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Completa", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Deja tu piel libre de impurezas e hidratada con productos de primera calidad. EL servicio incluye preparación de la piel desmaquillándola, extracción y limpieza de poros, tónico refrescante para cerrar los poros y mascarilla final para dejar tu cutis nutrido. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Queratina Media Melena", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Presume de melena siempre perfecta gracias a este alisado de keratina. Gana la batalla al encrespamiento de tu melena con nuestro alisado de queratina sin formol que termina hasta con los rizos más rebeldes. Además, consigue un pelo nutrido, reparado y lleno de vida. Este servicio es válido para medias melenas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Queratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "160 € ", 
+            "description": "Luce la melenaquye siempre has querido de la mano de los mejores profesionales. Quita el encrespamiento a la vez que restructuras tu pelo dañado. Además, da mucho brillo, suavidad, hidratación y mantiene tu volumen natural. El tratamiento dura unos 3 ó 4 meses. Válido para melenas cortas. Reserva ahora tu cita y luce melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Queratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "240 € ", 
+            "description": "El alisado más popular y natural gracias a nuestra queratina de calidad y libre de formol y amoniaco. Doma los rizos más rebeldes de tu melena larga con nuestro alisado. Si tu melena es extralarga se podrá abonar un suplemento en el salón. No esperes más y reserva ahora tu cita online a través de Bucmi y luce melena siempre perfecta."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Taninoplastia Tratamiento Natural", 
+            "duration": 14400, 
+            "price": "340 € ", 
+            "description": "Alisa hasta el 80% o 90% de tu melena. Nuestro alisado libre de formol es compatible con todos los tipos de pelo, incluidos los que presentan mechas rubias. Duración del alisado de 4-5 meses. Se podrá abonar un suplemento en el salón por pelo extralargo o con mucha cantidad. No esperes mas y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de nuestra coloración semipermanente y con productos 100% vegetales para lucir una melena llena de color y brillo sin recurrir a elementos químicos. De esta forma no solo respetamos el medio ambiente sino que también respetamos tu melena. ¡Ideal para nuestras clientes más BIO! Reserva ya online gracias a Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Fussion Y Lavado Y Secado", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce el color de pelo que siempre has querido de la mano de los mejores profesionales del sector gracias a este pack. Puedes escoger entre nuestra coloración permanente o la semipermanente dentro de nuestra gama de colores. No incluye peinado, solo secado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Consigue una coloración perfecta gracias a nuestro servicio de color raíz y luce una melena llena de vida. Nuestros profesionales devolverán la luminosidad a tu melena. Pásate por L Passage VIP y di adiós a esas raíces que tanto te molestan unificando el tono de tu cabello. No esperes más y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Estilista Hombre", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Consigue un look a la última gracias al asesoramiento de nuestros profesionales estilistas. El servicio es exclusivo para el hombre e incluye lavado y peinado con definición. Ven a nuestra peluquería y luce el corte que mejor se adapte a tu estilo. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Estilista Y Mechas", 
+            "duration": 9000, 
+            "price": "86 € ", 
+            "description": "El pack más completo para que la mujer ilumine su melena y le dé un toque de luz. El servicio incluye corte de tendencia y mechas normales. Solo en L Passage VIP podrás sacar el mayor partido de tus rasgos faciales con un corte de pelo totalmente asesorado. Reserva ahora online, no te arrepentirás."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Estilista, Mechas Y Peinar", 
+            "duration": 10800, 
+            "price": "110 € ", 
+            "description": "Aporta un poco de luz a tu melena a la vez que saneas tu puntas con este pack que incluye servicio de mechas normales y peinado. También incluye un corte de tendencia para devolverle la forma a tu melena. Reserva online gracias a Bucmi.com y ponte en las manos de nuestros expertos estilistas. ¡Ven a L Passage VIP y sal lista!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Infantil", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Porque los más peques también necesitan un cuidado adecuado. Tráelos a L Passage VIP y saldrán realmente guapos gracias a nuestro corte de pelo para niños con peinado con acabado. Sacamos el mejor partido de sus rasgos faciales con un corte de pelo juvenil y a la moda. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Juvenil Entre Los 12-18 Años", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "corte para los mas jovenes entre los 12 y los 18 años incluye masaje y lavado. Aprovecha este servicio de corte de pelo totalmente asesorado por nuestros profesionales para sacar el mayor partido de tus rasgos faciales. Este servicio no incluye peinado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Color", 
+            "duration": 7200, 
+            "price": "59 € ", 
+            "description": "Si quieres cambiar el look que has llevado toda la vida en L Passage VIP tenemos la solución. Reserva este pack que incluye corte de pelo y coloración a escoger dentro de nuestra gama de colores. Además, incluye lavado de la melena y secado al natural. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Bicolor", 
+            "duration": 9000, 
+            "price": "69 € ", 
+            "description": "Consigue un look perfecto y a la moda gracias a este servicio de mechas de dos colores. Puedes escoger entre nuestros colores o dejarte asesorar por nuestros estilistas. El servicio incluye lavado y secado al natural (no incluye peinado). En caso de desearlo consulte con el centro por disponibilidad y suplemento. Reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Enteras", 
+            "duration": 9000, 
+            "price": "62 € ", 
+            "description": "Ponte en manos de nuestros mejores profesionales para sacar el mayor partido de tu melena y aportar luz. Te darán un servicio de mechas con el que conseguirás aportar mayor luminosidad a tu cabello, el resultado ¡te encantará! El servicio incluye lavado, mechas enteras y secado al natural. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Medias Mechas", 
+            "duration": 7200, 
+            "price": "45 € ", 
+            "description": "Con nuestro servicio de medias mechas conseguirás aportar luminosidad a tu cabello. Daremos el toque de luz que complemente tu estilo. El servicio incluye lavado, media cabeza de mechas y secado natural. Dale un toque de luz a tu melena de la mano de los mejores profesionales. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Medias Mechas Bicolor", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "Dale un toque de luz a tu melena de la mano de los mejores profesionales del sector gracias a este servicio de mechas en las que utilizamos dos tonalidades. Este servicio se realiza en media cabeza. Aporta brillo y color a tu cabello con este servicio. No esperes más y reserva ahora tu cita online a través de Bucmi.com y luce tu cambio de look."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Extra Largo O Extensiones", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si tienes una cita importante y tu melena es extra larga este es tu servicio ideal. Incluye lavado y peinado con acabado para salir guapa de la peluquería. Este servicio está especialmente indicado para cuando tienes un evento u ocasión especial. Luce perfecta en cualquier momento. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido", 
+            "duration": 7200, 
+            "price": "79 € ", 
+            "description": "¿Tienes una boda? ¿Una fiesta importante? Ven a L Passage VIP y te haremos un recogido acorde a tus facciones y a tu estilo. Reserva en L Passage VIP y saldrás perfecta. Tanto si tienes una ocasión especial o un evento, este es tu servicio, realizamos el recogido perfecto. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Si eres de las que te gusta mantener parte de tu melena suelta, en L Passage VIP nos adaptamos a ti. Nuestros estilistas te asesoran del semirecogido que mejor te siente para que salgas guapa para esa cita importante. Sacamos el mayor partido de tus rasgos. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Spa Hidratacion Capilar", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Recupera la luminosidad y vitalidad en tu cabello. Aporta a tu melena brillo, hidratación y suavidad. Este tratamiento tiene una duración en tu cabell ode unos tres o cuatro lavados. Trabajamos con diferentes productos dependiendo la necesidades que requieras. Incluye lavado y secado al natural. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Estilista Mujer", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "Saca el mejor partido de tu melena de la mano de los mejores profesionales gracias a este servicio. Incluye un corte de moda recomendado por nuestros expertos estilistas, adaptado a tu estilo y personalidad. No incluye peinado. En caso de desear un peinado consulte en el centro por suplemento y disponibilidad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Consigue una melena perfectamente definida, tan difícil de conseguir cuando tu melena es corta, gracias a nuestros estilistas de L Passage VIP. El servicio incluye lavado y secado con productos de acabado. ¡No te lo puedes perder! No esperes más y reserva ahora tu cita online a través de Bucmi.com y luce peinado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Queratina Media Melena", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Presume de melena siempre perfecta gracias a este alisado de keratina. Gana la batalla al encrespamiento de tu melena con nuestro alisado de queratina sin formol que termina hasta con los rizos más rebeldes. Además, consigue un pelo nutrido, reparado y lleno de vida. Este servicio es válido para medias melenas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Queratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "160 € ", 
+            "description": "Luce la melenaquye siempre has querido de la mano de los mejores profesionales. Quita el encrespamiento a la vez que restructuras tu pelo dañado. Además, da mucho brillo, suavidad, hidratación y mantiene tu volumen natural. El tratamiento dura unos 3 ó 4 meses. Válido para melenas cortas. Reserva ahora tu cita y luce melena."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Queratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "240 € ", 
+            "description": "El alisado más popular y natural gracias a nuestra queratina de calidad y libre de formol y amoniaco. Doma los rizos más rebeldes de tu melena larga con nuestro alisado. Si tu melena es extralarga se podrá abonar un suplemento en el salón. No esperes más y reserva ahora tu cita online a través de Bucmi y luce melena siempre perfecta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Taninoplastia Tratamiento Natural", 
+            "duration": 14400, 
+            "price": "340 € ", 
+            "description": "Alisa hasta el 80% o 90% de tu melena. Nuestro alisado libre de formol es compatible con todos los tipos de pelo, incluidos los que presentan mechas rubias. Duración del alisado de 4-5 meses. Se podrá abonar un suplemento en el salón por pelo extralargo o con mucha cantidad. No esperes mas y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de nuestra coloración semipermanente y con productos 100% vegetales para lucir una melena llena de color y brillo sin recurrir a elementos químicos. De esta forma no solo respetamos el medio ambiente sino que también respetamos tu melena. ¡Ideal para nuestras clientes más BIO! Reserva ya online gracias a Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Fussion Y Lavado Y Secado", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce el color de pelo que siempre has querido de la mano de los mejores profesionales del sector gracias a este pack. Puedes escoger entre nuestra coloración permanente o la semipermanente dentro de nuestra gama de colores. No incluye peinado, solo secado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Consigue una coloración perfecta gracias a nuestro servicio de color raíz y luce una melena llena de vida. Nuestros profesionales devolverán la luminosidad a tu melena. Pásate por L Passage VIP y di adiós a esas raíces que tanto te molestan unificando el tono de tu cabello. No esperes más y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Estilista Hombre", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Consigue un look a la última gracias al asesoramiento de nuestros profesionales estilistas. El servicio es exclusivo para el hombre e incluye lavado y peinado con definición. Ven a nuestra peluquería y luce el corte que mejor se adapte a tu estilo. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Estilista Y Mechas", 
+            "duration": 9000, 
+            "price": "86 € ", 
+            "description": "El pack más completo para que la mujer ilumine su melena y le dé un toque de luz. El servicio incluye corte de tendencia y mechas normales. Solo en L Passage VIP podrás sacar el mayor partido de tus rasgos faciales con un corte de pelo totalmente asesorado. Reserva ahora online, no te arrepentirás."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Estilista, Mechas Y Peinar", 
+            "duration": 10800, 
+            "price": "110 € ", 
+            "description": "Aporta un poco de luz a tu melena a la vez que saneas tu puntas con este pack que incluye servicio de mechas normales y peinado. También incluye un corte de tendencia para devolverle la forma a tu melena. Reserva online gracias a Bucmi.com y ponte en las manos de nuestros expertos estilistas. ¡Ven a L Passage VIP y sal lista!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Infantil", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Porque los más peques también necesitan un cuidado adecuado. Tráelos a L Passage VIP y saldrán realmente guapos gracias a nuestro corte de pelo para niños con peinado con acabado. Sacamos el mejor partido de sus rasgos faciales con un corte de pelo juvenil y a la moda. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Juvenil Entre Los 12-18 Años", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "corte para los mas jovenes entre los 12 y los 18 años incluye masaje y lavado. Aprovecha este servicio de corte de pelo totalmente asesorado por nuestros profesionales para sacar el mayor partido de tus rasgos faciales. Este servicio no incluye peinado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Color", 
+            "duration": 7200, 
+            "price": "59 € ", 
+            "description": "Si quieres cambiar el look que has llevado toda la vida en L Passage VIP tenemos la solución. Reserva este pack que incluye corte de pelo y coloración a escoger dentro de nuestra gama de colores. Además, incluye lavado de la melena y secado al natural. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Bicolor", 
+            "duration": 9000, 
+            "price": "69 € ", 
+            "description": "Consigue un look perfecto y a la moda gracias a este servicio de mechas de dos colores. Puedes escoger entre nuestros colores o dejarte asesorar por nuestros estilistas. El servicio incluye lavado y secado al natural (no incluye peinado). En caso de desearlo consulte con el centro por disponibilidad y suplemento. Reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Enteras", 
+            "duration": 9000, 
+            "price": "62 € ", 
+            "description": "Ponte en manos de nuestros mejores profesionales para sacar el mayor partido de tu melena y aportar luz. Te darán un servicio de mechas con el que conseguirás aportar mayor luminosidad a tu cabello, el resultado ¡te encantará! El servicio incluye lavado, mechas enteras y secado al natural. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Medias Mechas", 
+            "duration": 7200, 
+            "price": "45 € ", 
+            "description": "Con nuestro servicio de medias mechas conseguirás aportar luminosidad a tu cabello. Daremos el toque de luz que complemente tu estilo. El servicio incluye lavado, media cabeza de mechas y secado natural. Dale un toque de luz a tu melena de la mano de los mejores profesionales. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Queratina Media Melena", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Presume de melena siempre perfecta gracias a este alisado de keratina. Gana la batalla al encrespamiento de tu melena con nuestro alisado de queratina sin formol que termina hasta con los rizos más rebeldes. Además, consigue un pelo nutrido, reparado y lleno de vida. Este servicio es válido para medias melenas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Queratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "160 € ", 
+            "description": "Luce la melenaquye siempre has querido de la mano de los mejores profesionales. Quita el encrespamiento a la vez que restructuras tu pelo dañado. Además, da mucho brillo, suavidad, hidratación y mantiene tu volumen natural. El tratamiento dura unos 3 ó 4 meses. Válido para melenas cortas. Reserva ahora tu cita y luce melena."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Queratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "240 € ", 
+            "description": "El alisado más popular y natural gracias a nuestra queratina de calidad y libre de formol y amoniaco. Doma los rizos más rebeldes de tu melena larga con nuestro alisado. Si tu melena es extralarga se podrá abonar un suplemento en el salón. No esperes más y reserva ahora tu cita online a través de Bucmi y luce melena siempre perfecta."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Taninoplastia Tratamiento Natural", 
+            "duration": 14400, 
+            "price": "340 € ", 
+            "description": "Alisa hasta el 80% o 90% de tu melena. Nuestro alisado libre de formol es compatible con todos los tipos de pelo, incluidos los que presentan mechas rubias. Duración del alisado de 4-5 meses. Se podrá abonar un suplemento en el salón por pelo extralargo o con mucha cantidad. No esperes mas y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de nuestra coloración semipermanente y con productos 100% vegetales para lucir una melena llena de color y brillo sin recurrir a elementos químicos. De esta forma no solo respetamos el medio ambiente sino que también respetamos tu melena. ¡Ideal para nuestras clientes más BIO! Reserva ya online gracias a Bucmi.com"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Fussion Y Lavado Y Secado", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce el color de pelo que siempre has querido de la mano de los mejores profesionales del sector gracias a este pack. Puedes escoger entre nuestra coloración permanente o la semipermanente dentro de nuestra gama de colores. No incluye peinado, solo secado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Consigue una coloración perfecta gracias a nuestro servicio de color raíz y luce una melena llena de vida. Nuestros profesionales devolverán la luminosidad a tu melena. Pásate por L Passage VIP y di adiós a esas raíces que tanto te molestan unificando el tono de tu cabello. No esperes más y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Estilista Hombre", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Consigue un look a la última gracias al asesoramiento de nuestros profesionales estilistas. El servicio es exclusivo para el hombre e incluye lavado y peinado con definición. Ven a nuestra peluquería y luce el corte que mejor se adapte a tu estilo. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Queratina Media Melena", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Presume de melena siempre perfecta gracias a este alisado de keratina. Gana la batalla al encrespamiento de tu melena con nuestro alisado de queratina sin formol que termina hasta con los rizos más rebeldes. Además, consigue un pelo nutrido, reparado y lleno de vida. Este servicio es válido para medias melenas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Queratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "160 € ", 
+            "description": "Luce la melenaquye siempre has querido de la mano de los mejores profesionales. Quita el encrespamiento a la vez que restructuras tu pelo dañado. Además, da mucho brillo, suavidad, hidratación y mantiene tu volumen natural. El tratamiento dura unos 3 ó 4 meses. Válido para melenas cortas. Reserva ahora tu cita y luce melena."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Queratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "240 € ", 
+            "description": "El alisado más popular y natural gracias a nuestra queratina de calidad y libre de formol y amoniaco. Doma los rizos más rebeldes de tu melena larga con nuestro alisado. Si tu melena es extralarga se podrá abonar un suplemento en el salón. No esperes más y reserva ahora tu cita online a través de Bucmi y luce melena siempre perfecta."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado Taninoplastia Tratamiento Natural", 
+            "duration": 14400, 
+            "price": "340 € ", 
+            "description": "Alisa hasta el 80% o 90% de tu melena. Nuestro alisado libre de formol es compatible con todos los tipos de pelo, incluidos los que presentan mechas rubias. Duración del alisado de 4-5 meses. Se podrá abonar un suplemento en el salón por pelo extralargo o con mucha cantidad. No esperes mas y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Queratina Media Melena", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Presume de melena siempre perfecta gracias a este alisado de keratina. Gana la batalla al encrespamiento de tu melena con nuestro alisado de queratina sin formol que termina hasta con los rizos más rebeldes. Además, consigue un pelo nutrido, reparado y lleno de vida. Este servicio es válido para medias melenas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Queratina Pelo Corto", 
+            "duration": 9000, 
+            "price": "160 € ", 
+            "description": "Luce la melenaquye siempre has querido de la mano de los mejores profesionales. Quita el encrespamiento a la vez que restructuras tu pelo dañado. Además, da mucho brillo, suavidad, hidratación y mantiene tu volumen natural. El tratamiento dura unos 3 ó 4 meses. Válido para melenas cortas. Reserva ahora tu cita y luce melena."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Queratina Pelo Largo", 
+            "duration": 10800, 
+            "price": "240 € ", 
+            "description": "El alisado más popular y natural gracias a nuestra queratina de calidad y libre de formol y amoniaco. Doma los rizos más rebeldes de tu melena larga con nuestro alisado. Si tu melena es extralarga se podrá abonar un suplemento en el salón. No esperes más y reserva ahora tu cita online a través de Bucmi y luce melena siempre perfecta."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Taninoplastia Tratamiento Natural", 
+            "duration": 14400, 
+            "price": "340 € ", 
+            "description": "Alisa hasta el 80% o 90% de tu melena. Nuestro alisado libre de formol es compatible con todos los tipos de pelo, incluidos los que presentan mechas rubias. Duración del alisado de 4-5 meses. Se podrá abonar un suplemento en el salón por pelo extralargo o con mucha cantidad. No esperes mas y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Baño De Color", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Disfruta de nuestra coloración semipermanente y con productos 100% vegetales para lucir una melena llena de color y brillo sin recurrir a elementos químicos. De esta forma no solo respetamos el medio ambiente sino que también respetamos tu melena. ¡Ideal para nuestras clientes más BIO! Reserva ya online gracias a Bucmi.com"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Fussion Y Lavado Y Secado", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce el color de pelo que siempre has querido de la mano de los mejores profesionales del sector gracias a este pack. Puedes escoger entre nuestra coloración permanente o la semipermanente dentro de nuestra gama de colores. No incluye peinado, solo secado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Raíz", 
+            "duration": 5400, 
+            "price": "35 € ", 
+            "description": "Consigue una coloración perfecta gracias a nuestro servicio de color raíz y luce una melena llena de vida. Nuestros profesionales devolverán la luminosidad a tu melena. Pásate por L Passage VIP y di adiós a esas raíces que tanto te molestan unificando el tono de tu cabello. No esperes más y reserva tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Estilista Hombre", 
+            "duration": 2700, 
+            "price": "21 € ", 
+            "description": "Consigue un look a la última gracias al asesoramiento de nuestros profesionales estilistas. El servicio es exclusivo para el hombre e incluye lavado y peinado con definición. Ven a nuestra peluquería y luce el corte que mejor se adapte a tu estilo. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Estilista Y Mechas", 
+            "duration": 9000, 
+            "price": "86 € ", 
+            "description": "El pack más completo para que la mujer ilumine su melena y le dé un toque de luz. El servicio incluye corte de tendencia y mechas normales. Solo en L Passage VIP podrás sacar el mayor partido de tus rasgos faciales con un corte de pelo totalmente asesorado. Reserva ahora online, no te arrepentirás."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Estilista, Mechas Y Peinar", 
+            "duration": 10800, 
+            "price": "110 € ", 
+            "description": "Aporta un poco de luz a tu melena a la vez que saneas tu puntas con este pack que incluye servicio de mechas normales y peinado. También incluye un corte de tendencia para devolverle la forma a tu melena. Reserva online gracias a Bucmi.com y ponte en las manos de nuestros expertos estilistas. ¡Ven a L Passage VIP y sal lista!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Infantil", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Porque los más peques también necesitan un cuidado adecuado. Tráelos a L Passage VIP y saldrán realmente guapos gracias a nuestro corte de pelo para niños con peinado con acabado. Sacamos el mejor partido de sus rasgos faciales con un corte de pelo juvenil y a la moda. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Juvenil Entre Los 12-18 Años", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "corte para los mas jovenes entre los 12 y los 18 años incluye masaje y lavado. Aprovecha este servicio de corte de pelo totalmente asesorado por nuestros profesionales para sacar el mayor partido de tus rasgos faciales. Este servicio no incluye peinado. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Color", 
+            "duration": 7200, 
+            "price": "59 € ", 
+            "description": "Si quieres cambiar el look que has llevado toda la vida en L Passage VIP tenemos la solución. Reserva este pack que incluye corte de pelo y coloración a escoger dentro de nuestra gama de colores. Además, incluye lavado de la melena y secado al natural. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Bicolor", 
+            "duration": 9000, 
+            "price": "69 € ", 
+            "description": "Consigue un look perfecto y a la moda gracias a este servicio de mechas de dos colores. Puedes escoger entre nuestros colores o dejarte asesorar por nuestros estilistas. El servicio incluye lavado y secado al natural (no incluye peinado). En caso de desearlo consulte con el centro por disponibilidad y suplemento. Reserva ahora tu cita online a través de Bucmi.com."
+        }
+    ]
+}

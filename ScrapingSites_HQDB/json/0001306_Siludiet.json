@@ -1,0 +1,168 @@
+{
+    "adid": null, 
+    "name": "Siludiet", 
+    "name_of_contact": "Siludiet", 
+    "scrape_page": "https://www.bucmi.com/siludiet", 
+    "business_website": "https://www.bucmi.com/siludiet", 
+    "areas_covered": null, 
+    "description": "En Siludiet estamos especializado en estética médica. Tenemos un variado abanico de servicios que te ayudarán a conseguir un bienestar pleno y a eliminar esos dolores tan correosos. Te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635629613458712146.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635629613589191087.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635629614030163011.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "8,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Pujades, 8", 
+    "city": "Barcelona", 
+    "zipcode": "08029", 
+    "formatted_address": "C/ Pujades, 8, Barcelona, 08029", 
+    "country": "es", 
+    "office_number": "931703183", 
+    "office_number2": null, 
+    "mobile_number": "629935264", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3855305000", 
+    "longitude": "2.1520083999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966625994813842.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Criolipolisis Dos Zonas", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Confía en la última tecnología para la eliminación eficaz de la celulitis y las grasas localizadas creada por científicos. Este tratamiento acelera el proceso de destrucción de las células grasas al combinar sesiones de frío (criolipólisis) con láseres."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lipolaser Dos Zonas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El lipoláser consiste en una liposucción asistida por un láser de alta precisión y mínimamente invasivo, indicado en la corrección de irregularidades (celulitits) y desproporciones (papada, michelines,cartucheras etc.), en determinadas zonas del cuerpo,"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Corporal Envoltura Algas A Elegir Por Zonas", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Las algas marinas son ricas en proteínas, vitaminas, azúcares y oligoelementos, ideal para reducir la celulitis. Elige 1 zona. Abdomen superior,abdomen inferior,flancos derecho e izquierdos,cartucheras izquierda o derecha, gluteos izquierdo o derecho."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Criolipolisis Dos Zonas", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Confía en la última tecnología para la eliminación eficaz de la celulitis y las grasas localizadas creada por científicos. Este tratamiento acelera el proceso de destrucción de las células grasas al combinar sesiones de frío (criolipólisis) con láseres."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "2 Sesiones Tto Corporal Reductor Lipolaser", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "Una de las técnicas más recientes y con excelentes resultados. Tratamiento reductor no evasivo para reducción de volumen y remodelar la silueta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "2 Radiofrecuencia Reafirmante Facial O Corporal", 
+            "duration": 1800, 
+            "price": "75 € ", 
+            "description": "2 Sesiones radiofrecuencia reafirmante a elegir entre facial y corporal. Estre tratamiento es un tratamiento de belleza que logra reafirmar y rejuvenecer su piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "La presoterapia es capaz de eliminar esa acumulación de grasa en el cuerpo mediante la estimulación física profunda.¿Cómo lo hace? Ejerce dos presiones, la primera, presión activa, rompe las acumulaciones de grasa y la segunda se encarga de hacer circular"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 2700, 
+            "price": "55 € ", 
+            "description": "Encuentra el punto de relajación en las manos de nuestros profesionales gracias a este masaje reductor. A través de un masaje consigue reducir la celulitis y la acumulación de líquidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Completa", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El tratamiento incluye extraccion, exfoliacion, mascarilla de algas mar muerto e hidratacion. El tiempo del servicio es de 25min e 5min de preparación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Vitalasse Y Hidratación", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Completamente personalizado dirigido a cubrir las necesidades de cada piel. Exfoliar, limpiar profundamente los poros, hidratamos y masajeamos mezclando los productos naturales más potentes del mundo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Mima tu piel con una buena limpieza facial de los mejores profesionales. El servicios incluye limpieza, tónico, exfoliación, mascarilla, masaje y hidratación."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Lipolaser Dos Zonas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El lipoláser consiste en una liposucción asistida por un láser de alta precisión y mínimamente invasivo, indicado en la corrección de irregularidades (celulitits) y desproporciones (papada, michelines,cartucheras etc.), en determinadas zonas del cuerpo,"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual Dos Zonas", 
+            "duration": 1800, 
+            "price": "39 € ", 
+            "description": "La mesoterapia es un tratamiento versátil y fácil de combinar con otros tratamientos de Medicina Estética Corporal. La combinación de tratamientos suele ser la mejor baza para obtener un buen resultado y mejorar la piel y combatir la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual Y Presoterapia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Con esta combinación consigues agilizar el sistema linfático y te ayuda a eliminar grasa y reducir celulitis de una manera muy efectiva."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Elimina las arrugas de la edad y tensa tu piel con este tratamiento especial de Navidad. Consigue una tez efecto lifting, sin cirugía."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Dos Zonas", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Con el paso del tiempo, la piel pierde elasticidad. Además, aparece celulitis muy difícil de eliminar en zonas localizadas. La radiofrecuencia elimina ambos problemas de una forma eficaz, además de favorecer la circulación en la zona tratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Envoltura Algas A Elegir Por Zonas", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Las algas marinas son ricas en proteínas, vitaminas, azúcares y oligoelementos, ideal para reducir la celulitis. Elige 1 zona. Abdomen superior,abdomen inferior,flancos derecho e izquierdos,cartucheras izquierda o derecha, gluteos izquierdo o derecho."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Criolipolisis Dos Zonas", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Confía en la última tecnología para la eliminación eficaz de la celulitis y las grasas localizadas creada por científicos. Este tratamiento acelera el proceso de destrucción de las células grasas al combinar sesiones de frío (criolipólisis) con láseres."
+        }
+    ]
+}

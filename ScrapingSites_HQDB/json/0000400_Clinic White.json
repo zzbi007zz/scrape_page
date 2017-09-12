@@ -1,0 +1,100 @@
+{
+    "adid": null, 
+    "name": "Clinic White", 
+    "name_of_contact": "Clinic White", 
+    "scrape_page": "https://www.bucmi.com/clinicwhite", 
+    "business_website": "https://www.bucmi.com/clinicwhite", 
+    "areas_covered": null, 
+    "description": "Clinic White, situado en las ventas, ofrece tratamientos de blanqueamiento dental, limpiezas dentales y todo tipo de tratamientos para el saneamiento de tus dietes y encías. Ven a nuestra clínica dental y saldrás con una sonrisa perfecta.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635993405106847176.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635993405109034683.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635993405111378426.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635993405109659685.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635993405110440997.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28027", 
+    "formatted_address": "Madrid, 28035, Madrid, 28027", 
+    "country": "es", 
+    "office_number": "911159915", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4321018000", 
+    "longitude": "-3.6544661000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635993473427714977.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Blanqueamiento Dental Led", 
+            "duration": 5400, 
+            "price": "395 € ", 
+            "description": "El Blanqueamiento dental led es un tratamiento en clínica de estética dental no invasivo para el paciente y que no daña los dientes y que permite lucir una sonrisa perfecta bonita y atractiva. Incluye limpieza dental."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Blanqueamiento Dental Y Limpieza", 
+            "duration": 7200, 
+            "price": "385 € ", 
+            "description": "Disfruta de este maravilloso pack para lucir una sonrisa de cine. Incluye limpieza dental para conseguir que el producto penetre con mayor facilidad y Blanquamiento Dental con férulas para que lo puedas aplicar en casa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Bucal", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Luce una preciosa sonrisa con esta limpieza bucal realizada por profesionales con años de experiencia. Incluye la revisión de la dentadura, el pulido de los dientes y la fluorización."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Blanqueamiento Dental Led", 
+            "duration": 5400, 
+            "price": "395 € ", 
+            "description": "El Blanqueamiento dental led es un tratamiento en clínica de estética dental no invasivo para el paciente y que no daña los dientes y que permite lucir una sonrisa perfecta bonita y atractiva. Incluye limpieza dental."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Blanqueamiento Dental Y Limpieza", 
+            "duration": 7200, 
+            "price": "385 € ", 
+            "description": "Disfruta de este maravilloso pack para lucir una sonrisa de cine. Incluye limpieza dental para conseguir que el producto penetre con mayor facilidad y Blanquamiento Dental con férulas para que lo puedas aplicar en casa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Duo Blanqueamiento Dental", 
+            "duration": 5400, 
+            "price": "765 € ", 
+            "description": "Incluye revisión general y pulido dental. 2 sesiones de blanqueamiento LED en clínica. Blanqueamiento dental intensivo para realizar en casa con férulas de blanqueamiento hechas a medida y kit de mantenimiento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Blanqueamiento Dental De Férulas", 
+            "duration": 5400, 
+            "price": "370 € ", 
+            "description": "El blanqueamiento con férulas es un tratamiento dental en el que se elaboran unas férulas transparentes a medida donde se aplicará posteriormente un gel blanqueador de peróxido de carbamida. Incluye limpieza dental y kit dental de regalo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Bucal", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Luce una preciosa sonrisa con esta limpieza bucal realizada por profesionales con años de experiencia. Incluye la revisión de la dentadura, el pulido de los dientes y la fluorización."
+        }
+    ]
+}

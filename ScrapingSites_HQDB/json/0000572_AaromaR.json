@@ -1,0 +1,349 @@
+{
+    "adid": null, 
+    "name": "AaromaR", 
+    "name_of_contact": "AaromaR", 
+    "scrape_page": "https://www.bucmi.com/aaromar", 
+    "business_website": "https://www.bucmi.com/aaromar", 
+    "areas_covered": null, 
+    "description": "AAROMAR, centro de uñas y estética cerca del parque de Berlín de Madrid que ofrece tratamientos faciales y corporales, masajes relajantes, maquillaje... Encontrarás tratamientos de calidad con una buena relación calidad - precio. Reserva tu cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077171990422814.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077171992297734.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077171994641310.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077171996984752.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077171997297587.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077171998703803.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077171999953824.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077172001828830.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636077172004328659.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "Madrid, 28027, Madrid, 28001, Madrid, 28003, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "910188091", 
+    "office_number2": null, 
+    "mobile_number": "669599436", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4471049000", 
+    "longitude": "-3.6748631000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635954581175671232.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal Abdomen", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "El masaje reductor de abdomen ayuda a nuestro cuerpo a generar calor, lo que hace que los tejidos adiposos se disuelvan y sea más fácil eliminar las grasas. Masajear la zona abdominal derrite el tejido adiposo, permitiendo que sea eliminado más fácilmente y al aumentar la cantidad de oxígeno en la zona, también se quema esa grasa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Presoterapia Corporal", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La presoterapia no sólo te ayudará a eliminar la celulitis sino también a reducir volumen y eliminar grasa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilacion Cera Medias Piernas", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "Tu piel quedará tersa y suave gracias a nuestros estilista que utilizarán cera tibia o caliente según tu necesidad y gustos. Podrás olvidarte de la depilación por un par de semanas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfatico Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Mejora la circulación y tonifica los órganos internos, lo que facilita la desintoxicación por medio de la vejiga y los intestinos. También es bueno para el sistema cardiovascular, linfático y digestivo, fundamentales para la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Higiene facial completa que incluye: Desmaquillado de la piel, tonico, exfoliante, vapor de ozono, extracción de impurezas, alta fercuencia, mascarilla y masaje final."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis Mas Masaje Corporal", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "1. Permite la oxigenación de la piel.2. Los productos cosméticos destinados a mejorar el aspecto de la piel tienen mayor efectividad.3. Retrasa la aparición de arrugas.4. La piel es más luminosa.5. Ayuda a disminuir la apariencia de cansancio.6. Elimina acné y puntos negros.7. La piel luce más suave y tersa.8. Una piel limpia acepta y muestra mejor el maquillaje."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Servicio de manicura completa, en el que cortamos, limamos uñas, retiramos las cutículas, hidratamos y esmaltamos al color que prefieras o francesa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Permanente", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Servicio de manicura completa, en el que cortamos, limamos uñas, retiramos las cutículas, hidratamos y esmaltamos al color que prefieras o francesa, con pintauñas permanente que dura unas tres semanas perfecto."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Los masajes descontracturantes ayudan a liberar sustancias llamadas endorfinas, hormonas que actúan como los antidepresivos naturales del organismo y que generan en los seres humanos emociones positivas de bienestar y nos ayudan a combatir el dolor."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Conseguimos terminar con problemas musculares, como las contracturas, provocados por una mala postura prolongada, un movimiento brusco o incluso el estrés. 2. Un masaje relajante promueve el aumento de la circulación sanguínea en todo el cuerpo y, como consecuencia, se produce un aumento del aporte de oxígeno en los tejidos y los órganos beneficiando nuestra salud en general."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "La mesoterapia virtual facial permite de rellenar la piel del rostro con el producto sin el uso de las molestosas inyecciones. La piel parece rejuvenecer y queda radiante. Es recomendada para las líneas de expresión, arrugas y piel deshidratada."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Este tratameinto, elimina la primera capa de la piel, logra terminar con pequeñas manchas y arruguitas... Primero se desmaquilla, tonifica y exfolia la piel, después se hace el tratamietno y mascarilla y masaje para el final.Contraindicada en los meses de verano y de mucho sol."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Corporal Manicura Pedicura Y Limpieza De Cuti", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "La piel del rostro es la que está más expuesta al polvo y contaminantes ambientales, factores que la llenan de impurezas, irritan y hacen susceptible al envejecimiento prematuro si no se tiene una higiene adecuada. Por ello, la limpieza facial debe ser imprescindible en tu rutina de belleza."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Completa", 
+            "duration": 3600, 
+            "price": "24 € ", 
+            "description": "Pies suaves y cuidados con esta pedicura completa, que aparte de limado de uñas, retirar cutículas, tratamos las durezas y para finalizar hidratación y esmaltado en francesa o color."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Permanente Completa", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "Si quieres unas uñas brillantes y perfectas por más tiempo y pies suaves y cuidados con esta pedicura completa lo tendrás, aparte de limado de uñas, retirar cutículas, tratamos las durezas y para finalizar hidratación y esmaltado en francesa o color."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Facial Ácido Glicolico Con Tratamiento", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Arma contra las manchas! EL tratamiento especifico segun el tipo de piel y el diagnostico en a cabina como colageno, acido hialuronico,vitaminas A,C y E"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Sesión de Radiofrecuencia facial de 40 minutos de duración, con la que lograrás mejorar el aspecto de la piel, eliminando arrugas y te da un mejor aspecto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitacion", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "La cavitación estética ultrasónica debe entenderse como un tratamiento que ayuda a eliminar la grasa acumulada pero en ningún caso es un tratamiento para la pérdida de peso. Tal como hemos comentado con anterioridad, las personas, especialmente las mujeres, tienden a acumular grasa en zonas específicas del cuerpo y muchas veces esta grasa no puede eliminarse con dietas ni ejercicio. Entonces, después de tanto esfuerzo para estar delgada, ¿tengo que quedarme con la celulitis? No. Las zonas de grasa localizad"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Corporal", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La presoterapia no sólo te ayudará a eliminar la celulitis sino también a reducir volumen y eliminar grasa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfatico Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Mejora la circulación y tonifica los órganos internos, lo que facilita la desintoxicación por medio de la vejiga y los intestinos. También es bueno para el sistema cardiovascular, linfático y digestivo, fundamentales para la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Higiene facial completa que incluye: Desmaquillado de la piel, tonico, exfoliante, vapor de ozono, extracción de impurezas, alta fercuencia, mascarilla y masaje final."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Mas Masaje Corporal", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "1. Permite la oxigenación de la piel.2. Los productos cosméticos destinados a mejorar el aspecto de la piel tienen mayor efectividad.3. Retrasa la aparición de arrugas.4. La piel es más luminosa.5. Ayuda a disminuir la apariencia de cansancio.6. Elimina acné y puntos negros.7. La piel luce más suave y tersa.8. Una piel limpia acepta y muestra mejor el maquillaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "La mesoterapia virtual facial permite de rellenar la piel del rostro con el producto sin el uso de las molestosas inyecciones. La piel parece rejuvenecer y queda radiante. Es recomendada para las líneas de expresión, arrugas y piel deshidratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Este tratameinto, elimina la primera capa de la piel, logra terminar con pequeñas manchas y arruguitas... Primero se desmaquilla, tonifica y exfolia la piel, después se hace el tratamietno y mascarilla y masaje para el final.Contraindicada en los meses de verano y de mucho sol."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Belleza", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "Disfruta de este increíble pack completo para cuidar tu cuerpo. El servicio se realiza en solo dos horas e incluye una manicura y pedicura básica, una limpieza de cutis para aportar luz a tu rosto y una sesión de presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Ácido Glicolico Con Tratamiento", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Arma contra las manchas! EL tratamiento especifico segun el tipo de piel y el diagnostico en a cabina como colageno, acido hialuronico,vitaminas A,C y E"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Luce la mirada con un procedimiento práctico y fácil. Tiene un efecto de 2 meses de duración. Por fin podrás olvidarte de la máscara de pestañas por un tiempo mientras tu mirada será la protagonista de tu belleza."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Sesión de Radiofrecuencia facial de 40 minutos de duración, con la que lograrás mejorar el aspecto de la piel, eliminando arrugas y te da un mejor aspecto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitacion", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "La cavitación estética ultrasónica debe entenderse como un tratamiento que ayuda a eliminar la grasa acumulada pero en ningún caso es un tratamiento para la pérdida de peso. Tal como hemos comentado con anterioridad, las personas, especialmente las mujeres, tienden a acumular grasa en zonas específicas del cuerpo y muchas veces esta grasa no puede eliminarse con dietas ni ejercicio. Entonces, después de tanto esfuerzo para estar delgada, ¿tengo que quedarme con la celulitis? No. Las zonas de grasa localizad"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia Corporal", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La presoterapia no sólo te ayudará a eliminar la celulitis sino también a reducir volumen y eliminar grasa."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Drenaje Linfatico Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Mejora la circulación y tonifica los órganos internos, lo que facilita la desintoxicación por medio de la vejiga y los intestinos. También es bueno para el sistema cardiovascular, linfático y digestivo, fundamentales para la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Higiene facial completa que incluye: Desmaquillado de la piel, tonico, exfoliante, vapor de ozono, extracción de impurezas, alta fercuencia, mascarilla y masaje final."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Mas Masaje Corporal", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "1. Permite la oxigenación de la piel.2. Los productos cosméticos destinados a mejorar el aspecto de la piel tienen mayor efectividad.3. Retrasa la aparición de arrugas.4. La piel es más luminosa.5. Ayuda a disminuir la apariencia de cansancio.6. Elimina acné y puntos negros.7. La piel luce más suave y tersa.8. Una piel limpia acepta y muestra mejor el maquillaje."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Cavitacion", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "La cavitación estética ultrasónica debe entenderse como un tratamiento que ayuda a eliminar la grasa acumulada pero en ningún caso es un tratamiento para la pérdida de peso. Tal como hemos comentado con anterioridad, las personas, especialmente las mujeres, tienden a acumular grasa en zonas específicas del cuerpo y muchas veces esta grasa no puede eliminarse con dietas ni ejercicio. Entonces, después de tanto esfuerzo para estar delgada, ¿tengo que quedarme con la celulitis? No. Las zonas de grasa localizad"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia Corporal", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La presoterapia no sólo te ayudará a eliminar la celulitis sino también a reducir volumen y eliminar grasa."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfatico Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Mejora la circulación y tonifica los órganos internos, lo que facilita la desintoxicación por medio de la vejiga y los intestinos. También es bueno para el sistema cardiovascular, linfático y digestivo, fundamentales para la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Higiene facial completa que incluye: Desmaquillado de la piel, tonico, exfoliante, vapor de ozono, extracción de impurezas, alta fercuencia, mascarilla y masaje final."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitacion", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "La cavitación estética ultrasónica debe entenderse como un tratamiento que ayuda a eliminar la grasa acumulada pero en ningún caso es un tratamiento para la pérdida de peso. Tal como hemos comentado con anterioridad, las personas, especialmente las mujeres, tienden a acumular grasa en zonas específicas del cuerpo y muchas veces esta grasa no puede eliminarse con dietas ni ejercicio. Entonces, después de tanto esfuerzo para estar delgada, ¿tengo que quedarme con la celulitis? No. Las zonas de grasa localizad"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia Corporal", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "La presoterapia no sólo te ayudará a eliminar la celulitis sino también a reducir volumen y eliminar grasa."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Drenaje Linfatico Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Mejora la circulación y tonifica los órganos internos, lo que facilita la desintoxicación por medio de la vejiga y los intestinos. También es bueno para el sistema cardiovascular, linfático y digestivo, fundamentales para la eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Higiene facial completa que incluye: Desmaquillado de la piel, tonico, exfoliante, vapor de ozono, extracción de impurezas, alta fercuencia, mascarilla y masaje final."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis Mas Masaje Corporal", 
+            "duration": 7200, 
+            "price": "50 € ", 
+            "description": "1. Permite la oxigenación de la piel.2. Los productos cosméticos destinados a mejorar el aspecto de la piel tienen mayor efectividad.3. Retrasa la aparición de arrugas.4. La piel es más luminosa.5. Ayuda a disminuir la apariencia de cansancio.6. Elimina acné y puntos negros.7. La piel luce más suave y tersa.8. Una piel limpia acepta y muestra mejor el maquillaje."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Virtual", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "La mesoterapia virtual facial permite de rellenar la piel del rostro con el producto sin el uso de las molestosas inyecciones. La piel parece rejuvenecer y queda radiante. Es recomendada para las líneas de expresión, arrugas y piel deshidratada."
+        }
+    ]
+}

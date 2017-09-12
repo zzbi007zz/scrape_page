@@ -1,0 +1,157 @@
+{
+    "adid": null, 
+    "name": "Caduceo Salud", 
+    "name_of_contact": "Caduceo Salud", 
+    "scrape_page": "https://www.bucmi.com/caduceo", 
+    "business_website": "https://www.bucmi.com/caduceo", 
+    "areas_covered": null, 
+    "description": "Clínica Médico Estética en el centro comercial de El Corte Inglés de Callao en Madrid, cuenta con tratamientos faciales y corporales, así como todo tipo de consultas médicas. Ponte en las manos de nuestros colegiados y verás muy pronto los resultados.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914718579634806.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914718604791118.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914718628228407.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914718655572075.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914718692759469.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914718713540656.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ibiza, 36", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Ibiza, 36, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "917013972", 
+    "office_number2": null, 
+    "mobile_number": "651608361", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4198810000", 
+    "longitude": "-3.7054573000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635914757227525918.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Acupuntura", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Método terapéutico natural procedente de China que consiste en la aplicación de agujas en los puntos reflejos del cuerpo para eliminar todo tipo de dolencias. Se puede realizar para distintos fines, según necesidad del paciente."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mesoterapia", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "Tratamiento que consiste en la inyección de ácido hialunórico y cóctel de vitaminas para eliminar la celulitis localizada. Tus depositos de grasas, se eliminarán con esta técnica."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Terapia Alternativa Neural", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "El objetivo es lograr un equilibrio interno con el que mejorar la salud de las personas, reestablecer la energía vital suprimiendo los síntomas que hacen sentirte mal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "Tratamiento que consiste en la inyección de ácido hialunórico y cóctel de vitaminas para eliminar la celulitis localizada. Tus depositos de grasas, se eliminarán con esta técnica."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Mesoterapia", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "Tratamiento que consiste en la inyección de ácido hialunórico y cóctel de vitaminas para eliminar la celulitis localizada. Tus depositos de grasas, se eliminarán con esta técnica."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Rehabilitación: Traumatología", 
+            "duration": 3600, 
+            "price": "100 € ", 
+            "description": "La sesión incluye diagnóstico previo del paciente y tratamiento personalizado de la lesión del sistema locomotor."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Mesoterapia", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "Tratamiento que consiste en la inyección de ácido hialunórico y cóctel de vitaminas para eliminar la celulitis localizada. Tus depositos de grasas, se eliminarán con esta técnica."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Rehabilitación: Traumatología", 
+            "duration": 3600, 
+            "price": "100 € ", 
+            "description": "La sesión incluye diagnóstico previo del paciente y tratamiento personalizado de la lesión del sistema locomotor."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Rehabilitación: Traumatología Revisión", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "Sesión de seguimiento y revisión de la lesión anteriormente diagnosticada del sistema locomotor. Realizada por un profesional cualificado."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Acupuntura", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Método terapéutico natural procedente de China que consiste en la aplicación de agujas en los puntos reflejos del cuerpo para eliminar todo tipo de dolencias. Se puede realizar para distintos fines, según necesidad del paciente."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa Ginecologo Ecografía Citología", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "Este servicio se realiza por un doctor titulado y experiementado en la materia. Incluye: ecografía útero, ovarios, mamas y citología."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa Neural", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "El objetivo es lograr un equilibrio interno con el que mejorar la salud de las personas, reestablecer la energía vital suprimiendo los síntomas que hacen sentirte mal."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Dermatología", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Si tienes algún problema cutáneo tanto en rostro o cuerpo, puedes consultar con nuestro dermatólogo doctorado. Análisis de las enfermedades de la piel."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Ecografías", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Ecografías por musculo -esquelético o abdominal: roturas, fibrilares, rodilla, hombro, Ecografías por motivos de abdomen: renal, hepática, aorta, bazo, páncreas, abdomen..."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Exploración Mamaria", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Este tratamiento incluye una exploración mamaria, realizado por un doctor titulado y cualificado. Quédate tranquila y ven a vernos..."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Terapia Alternativa: Ginecología", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Incluye: ecografía de utero, ovarios y mamas. Realizado por un doctor cualíficado y con experiencia."
+        }
+    ]
+}

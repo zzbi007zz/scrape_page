@@ -1,0 +1,131 @@
+{
+    "adid": null, 
+    "name": "Atlas Travesía Centro de", 
+    "name_of_contact": "Atlas Travesía Centro de", 
+    "scrape_page": "https://www.bucmi.com/fisioterapiaatlas", 
+    "business_website": "https://www.bucmi.com/fisioterapiaatlas", 
+    "areas_covered": null, 
+    "description": "Centro de fisioterapia Atlas Travesía está especializado en tratamientos de fisioterapia. Está situado en la zona de Carabanchel, y cuenta con precios competitivos y una atención a nuestros clientes exquisita. Si vienes a conocernos, no te arrepentirás.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635617774951207471.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635617774992304456.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635617775000898749.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635617775012618341.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635617775021994227.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635617775033713964.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635617775042308364.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635617775053246509.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "9", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28044", 
+    "formatted_address": "Madrid, 28044", 
+    "country": "es", 
+    "office_number": "910259722", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3678842000", 
+    "longitude": "-3.7577532000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635917539907710804.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Fisioterapia", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Tratamiento de Fisioterapia de una hora de duración. Tratamiento de contracturas, esguinces, tendinitis, roturas fibrilares, fracturas..."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Con esta sesión de masaje descontracturante elimina las contracturas que nos provocan el estrés del día a día. Reserva online en nuestro centro de fisioterapia, estaremos encantados de atenderte."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Eliminar las sobrecargas y agotamientos musculares que suelen ocurrir si eres deportista o en tu trabajo realizas muchos esfuerzos. Masaje profundo, que activa la circulación y reblandece la zona muscular, para un mayor rendimiento laboral o deportivo."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Masajes Descontracturantes O Deportivos", 
+            "duration": 3600, 
+            "price": "67 € ", 
+            "description": "En el servicio está incluido 3 sesiones de masajes descontracturantes o deportivos. Elimina contracturas, sobrecargas y agotamientos musculares. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Masajes Descontracturantes O Deportivos", 
+            "duration": 3600, 
+            "price": "205 € ", 
+            "description": "Elimina contracturas, sobrecargas y agotamientos musculares con este bono de diez sesiones a elegir entre descontracturantes o deportivos. ¡Ven a nuestro centro de fisioterapia!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Tratamiento de Fisioterapia de una hora de duración. Tratamiento de contracturas, esguinces, tendinitis, roturas fibrilares, fracturas..."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Fisioterapia Para Embarazadas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Prepara tu cuerpo para el parto, así como para acelerar tu recuperación posparto. Diseñado para trabajar y reforzar el sistema musculo-esquelético, trabajar la respiración y aprender las mejores posturas para todo el tiempo del embarazo y el parto."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Descontracturante", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Con esta sesión de masaje descontracturante elimina las contracturas que nos provocan el estrés del día a día. Reserva online en nuestro centro de fisioterapia, estaremos encantados de atenderte."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Deportivo", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Eliminar las sobrecargas y agotamientos musculares que suelen ocurrir si eres deportista o en tu trabajo realizas muchos esfuerzos. Masaje profundo, que activa la circulación y reblandece la zona muscular, para un mayor rendimiento laboral o deportivo."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 3 Masajes Descontracturantes O Deportivos", 
+            "duration": 3600, 
+            "price": "67 € ", 
+            "description": "En el servicio está incluido 3 sesiones de masajes descontracturantes o deportivos. Elimina contracturas, sobrecargas y agotamientos musculares. ¡Reserva ya online!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Masajes Descontracturantes O Deportivos", 
+            "duration": 3600, 
+            "price": "205 € ", 
+            "description": "Elimina contracturas, sobrecargas y agotamientos musculares con este bono de diez sesiones a elegir entre descontracturantes o deportivos. ¡Ven a nuestro centro de fisioterapia!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Fisioterapia", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Tratamiento de Fisioterapia de una hora de duración. Tratamiento de contracturas, esguinces, tendinitis, roturas fibrilares, fracturas..."
+        }
+    ]
+}

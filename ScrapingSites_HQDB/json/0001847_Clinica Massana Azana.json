@@ -1,0 +1,114 @@
+{
+    "adid": null, 
+    "name": "Clinica Massana Azaña", 
+    "name_of_contact": "Clinica Massana Azaña", 
+    "scrape_page": "https://www.bucmi.com/massanaazaña", 
+    "business_website": null, 
+    "areas_covered": null, 
+    "description": "En las clínicas Massana encontrarás los últimos tratamientos en medicina estética. Desde la depilación láser más vanguardista hasta los tratamientos capilares más modernos pasando por un sin fin de servicios a tu disposición.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635600411349823067.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635600411397640960.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635600411449228384.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924272469154600.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635924272786366663.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Carbonero, 7", 
+    "city": "Valladolid", 
+    "zipcode": "47016", 
+    "formatted_address": "C/ Carbonero, 7, Valladolid, 47016", 
+    "country": "es", 
+    "office_number": "983386768", 
+    "office_number2": null, 
+    "mobile_number": "647681387", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6363832000", 
+    "longitude": "-4.7640026999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961516552130633.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "49 € ", 
+            "description": "Tratamiento médico. Combate la celulitis y la grasa localizada tratando el edema intersticial y el estrangulamiento de los adipocitos mediante la reestructuración de las fibras de colágeno del tejido conjuntivo. Es un método inyectable por vía subcutánea poco invasivo que da grandes resultados."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antimanchas", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Di adiós a las manchas con el mejor tratamiento médico. Descubre los efectos despigmentantes del laser fraccionado resurfacing.Incluye: Diagnóstico de la piel, Higiene facial, Sesión láser fraccionado Resurfacing y Mascarilla de colágeno & elastina."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial De Lujo", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Llega a Clínicas Massana el elixir de juventud en forma de un tratamiento facial iluminante. Incluye: Diagnóstico facial , Pulverizado purificante con microcristales de corindón, Radiofrecuencia (ideal para personas con flacidez) y ampolla flash colágeno"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Rejuvenicimiento Facial", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Consigue una piel más joven gracias a nuestro completo tratamiento de rejuvenicimiento facial sin cirugía. Consiste en un completo cóctel de vitaminas que atenúa las arrugas, elimina las manchas, quita las marcas de acné y mejora la elasticidad. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "49 € ", 
+            "description": "Tratamiento médico. Combate la celulitis y la grasa localizada tratando el edema intersticial y el estrangulamiento de los adipocitos mediante la reestructuración de las fibras de colágeno del tejido conjuntivo. Es un método inyectable por vía subcutánea poco invasivo que da grandes resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antimanchas", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Di adiós a las manchas con el mejor tratamiento médico. Descubre los efectos despigmentantes del laser fraccionado resurfacing.Incluye: Diagnóstico de la piel, Higiene facial, Sesión láser fraccionado Resurfacing y Mascarilla de colágeno & elastina."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial De Lujo", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Llega a Clínicas Massana el elixir de juventud en forma de un tratamiento facial iluminante. Incluye: Diagnóstico facial , Pulverizado purificante con microcristales de corindón, Radiofrecuencia (ideal para personas con flacidez) y ampolla flash colágeno"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Rejuvenicimiento Facial", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "Consigue una piel más joven gracias a nuestro completo tratamiento de rejuvenicimiento facial sin cirugía. Consiste en un completo cóctel de vitaminas que atenúa las arrugas, elimina las manchas, quita las marcas de acné y mejora la elasticidad. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mesoterapia Corporal", 
+            "duration": 900, 
+            "price": "49 € ", 
+            "description": "Tratamiento médico. Combate la celulitis y la grasa localizada tratando el edema intersticial y el estrangulamiento de los adipocitos mediante la reestructuración de las fibras de colágeno del tejido conjuntivo. Es un método inyectable por vía subcutánea poco invasivo que da grandes resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Antimanchas", 
+            "duration": 2700, 
+            "price": "36 € ", 
+            "description": "Di adiós a las manchas con el mejor tratamiento médico. Descubre los efectos despigmentantes del laser fraccionado resurfacing.Incluye: Diagnóstico de la piel, Higiene facial, Sesión láser fraccionado Resurfacing y Mascarilla de colágeno & elastina."
+        }
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "adid": null, 
+    "name": "Organic Salón", 
+    "name_of_contact": "Organic Salón", 
+    "scrape_page": "https://www.bucmi.com/organicsalon", 
+    "business_website": "https://www.bucmi.com/organicsalon", 
+    "areas_covered": null, 
+    "description": "La peluquería Organic Salón, situada en l'Eixample, Barcelona, ofrece todo tipo de tratamientos para el cuidado del cabello, así como cortes de pelo totalmente personalizados para sacar el mayor partido a los rasgos de tu rostro. Reserva ahora tu cita.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635879426209885472.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635879426355718519.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635879426485593348.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635879426568094693.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635879426588094889.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635879426766978486.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08007", 
+    "formatted_address": "Barcelona, Barcelona, Barcelona, 08036, Barcelona, 08007", 
+    "country": "es", 
+    "office_number": "934122741", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3903796000", 
+    "longitude": "2.1691177000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966687285215699.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Balayage Orgánico Con Secado", 
+            "duration": 10800, 
+            "price": "130 € ", 
+            "description": "Reflejos Orgánicos con aceite de ricino. Los reflejos se trabajan con una crema azulada que evita que se vuelvan amarillentas o rojizas. Además al contener aceite, no se reseca el pelo, hidrata en profundidad. Además, no contiene amoniaco ni derivados. No incluye acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Baño Color Orgánico", 
+            "duration": 5400, 
+            "price": "62 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del pelo. Incluye acondicionador. No incluye secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Coloración Orgánica", 
+            "duration": 5400, 
+            "price": "62 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del pelo. Incluye acondicionador. No incluye secado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Y Secado Señora", 
+            "duration": 3600, 
+            "price": "88 € ", 
+            "description": "Asesoramiento sobre el corte. Análisis de cuero cabelludo y cabello con micro cámara. Lavado con champú orgánico indicado para el cabello, masaje, corte y secado. No incluye acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica Francesa Orgánica", 
+            "duration": 2700, 
+            "price": "34 € ", 
+            "description": "limpieza de manos con desinfectante, limado con limas biodegradables, tratamiento de cutículas, peeling con sales del Himalaya y aceite de aguacate, hidratación con crema de Neem y esmaltado con esmaltes 5 Free HMB."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica Orgánica", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "limpieza de manos con desinfectante, limado con limas biodegradables, tratamiento de cutículas, peeling con sales del Himalaya y aceite de aguacate, hidratación con crema de Neem y esmaltado con esmaltes 5 Free HMB."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Spa Orgánica", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "Limpieza de manos con desinfectante, limado con limas biodegradables, tratamiento de cutículas, peeling con sales del Himalaya y aceites esenciales y de Neem, envoltura e hidratación con crema de Neem y esmaltado con esmaltes 5 Free HMB."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Básica Orgánica", 
+            "duration": 1800, 
+            "price": "37 € ", 
+            "description": "Limpieza de pies con desinfectante, baño en infusión y esencias limado con limas biodegradables, tratamiento de cutículas, peeling con sales del Himalaya y aceite de aguacate, hidratación con crema de Neem y esmaltado con esmaltes 5 Free HMB."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Spa Orgánica", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Limpieza de pies con desinfectante, baño,limado con limas biodegradables, tratamiento de cutículas, peeling con sales del Himalaya y aceites esenciales y de Neem, envoltura e hidratación con crema de Neem y esmaltado con esmaltes 5 Free HMB."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Baba De Caracol Y Secado", 
+            "duration": 3600, 
+            "price": "79 € ", 
+            "description": "Incluye análisis capilar con micro cámara, lavado con champú indicado para el tipo de pelo, secado y tratamiento regenerador para el pelo de baba de caracol. Su aplicación con aerógrafo no deja el cabello pesado ni con residuos. Ideal para devolver la juventud al cabello, brillo, suavidad e hidratación."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar De Aminoácidos Media Melena", 
+            "duration": 9000, 
+            "price": "250 € ", 
+            "description": "Tratamiento de aminoácidos 100% orgánico. Ayuda a devolver al tu melena el brillo perdido, la elasticidad, resistencia y elimina el encrespamiento. Reserva ahora online con Bucmi."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento De Keratina Orgánica Pelo Largo", 
+            "duration": 14400, 
+            "price": "350 € ", 
+            "description": "Tratamiento de Keratina orgánica a base de dicactus, aceite de azaí y aceite de palma, manteca de cupuaçu y aminoácidos. Tu decides si lo quieres liso o mantener tu forma eliminando únicamente el crespo, aporta hidratación, recupera el brillo y la suavidad perdida."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Balayage Orgánico", 
+            "duration": 5400, 
+            "price": "91 € ", 
+            "description": "Reflejos Orgánicos con aceite de ricino. Los reflejos se trabajan con una crema azulada que evita que se vuelvan amarillentas o rojizas. Además al contener aceite, no se reseca el pelo, hidrata en profundidad. Además, no contiene amoniaco ni derivados. No incluye secado, acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Balayage Orgánico Con Secado", 
+            "duration": 10800, 
+            "price": "130 € ", 
+            "description": "Reflejos Orgánicos con aceite de ricino. Los reflejos se trabajan con una crema azulada que evita que se vuelvan amarillentas o rojizas. Además al contener aceite, no se reseca el pelo, hidrata en profundidad. Además, no contiene amoniaco ni derivados. No incluye acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño Color Orgánico", 
+            "duration": 5400, 
+            "price": "62 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del pelo. Incluye acondicionador. No incluye secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño De Color Orgánico Y Secado", 
+            "duration": 7200, 
+            "price": "108 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del cabello y secado. Incluye acondicionador y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Coloración Orgánica", 
+            "duration": 5400, 
+            "price": "62 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del pelo. Incluye acondicionador. No incluye secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Coloración Orgánica Y Secado", 
+            "duration": 7200, 
+            "price": "108 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del cabello y secado. Incluye acondicionador y secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 2700, 
+            "price": "47 € ", 
+            "description": "Asesoramiento sobre el corte. Análisis de cuero cabelludo y cabello con micro cámara. Lavado con champú orgánico indicado para el cabello, masaje y corte de pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "Asesoramiento sobre el corte. Análisis de cuero cabelludo y cabello con micro cámara. Lavado con champú orgánico indicado para el tipo de pelo, masaje y corte. No incluye secado, acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Secado Señora", 
+            "duration": 3600, 
+            "price": "88 € ", 
+            "description": "Asesoramiento sobre el corte. Análisis de cuero cabelludo y cabello con micro cámara. Lavado con champú orgánico indicado para el cabello, masaje, corte y secado. No incluye acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Reflejos Orgánicos Con Peine", 
+            "duration": 5400, 
+            "price": "69 € ", 
+            "description": "Reflejos Orgánicos con aceite de ricino. Los reflejos se trabajan con una crema azulada que evita que se vuelvan amarillentas o rojizas. Además al contener aceite, no se reseca el pelo, hidrata en profundidad. Además, no contiene amoniaco ni derivados. No incluye acondicionador ni mascarilla ni secado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Reflejos Orgánicos Con Peine Y Secado", 
+            "duration": 7200, 
+            "price": "108 € ", 
+            "description": "Reflejos Orgánicos con aceite de ricino. Los reflejos se trabajan con una crema azulada que evita que se vuelvan amarillentas o rojizas. Además al contener aceite, no se reseca el cabello hidrata en profundidad. Además, no contiene amoniaco ni derivados y secado. No incluye acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Secado", 
+            "duration": 2700, 
+            "price": "39 € ", 
+            "description": "Incluye análisis capilar con micro cámara, lavado con el champú más indicado para el tipo de cabello y secado. No incluye ni acondicionador ni mascarilla. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Baba De Caracol Y Secado", 
+            "duration": 3600, 
+            "price": "79 € ", 
+            "description": "Incluye análisis capilar con micro cámara, lavado con champú indicado para el tipo de pelo, secado y tratamiento regenerador para el pelo de baba de caracol. Su aplicación con aerógrafo no deja el cabello pesado ni con residuos. Ideal para devolver la juventud al cabello, brillo, suavidad e hidratación."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Aminoácidos Media Melena", 
+            "duration": 9000, 
+            "price": "250 € ", 
+            "description": "Tratamiento de aminoácidos 100% orgánico. Ayuda a devolver al tu melena el brillo perdido, la elasticidad, resistencia y elimina el encrespamiento. Reserva ahora online con Bucmi."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Aminoácidos Pelo Corto", 
+            "duration": 5400, 
+            "price": "220 € ", 
+            "description": "Tratamiento de aminoácidos 100% orgánico. Ayuda a devolver a tu melena el brillo perdido, elasticidad, resistencia y eliminar el encrespamiento. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Aminoácidos Pelo Largo.", 
+            "duration": 10800, 
+            "price": "300 € ", 
+            "description": "Tratamiento de aminoácidos 100% orgánico. Ayuda a devolver a tu melena el brillo perdido, elasticidad, resistencia y eliminar el encrespamiento. No esperes más y reserva ahora online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Keratina Orgánica Media Melena", 
+            "duration": 9000, 
+            "price": "250 € ", 
+            "description": "Tratamiento de Keratina orgánica a base de dicactus, aceite de azaí y aceite de palma, manteca de cupuaçu y aminoácidos. Tu decides si lo quieres liso o mantener tu forma eliminando únicamente el crespo, aportar hidratación y recuperar el brillo y la suavidad perdida."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Keratina Orgánica Pelo Corto", 
+            "duration": 10800, 
+            "price": "300 € ", 
+            "description": "Tratamiento de keratina orgánica a base de dicactus, aceite de azaí y aceite de palma, manteca de cupuaçu y aminoácidos. Tu decides si lo quieres liso o mantener tu forma eliminando únicamente el crespo, aporta hidratación y recupera el brillo y la suavidad perdida."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Keratina Orgánica Pelo Largo", 
+            "duration": 14400, 
+            "price": "350 € ", 
+            "description": "Tratamiento de Keratina orgánica a base de dicactus, aceite de azaí y aceite de palma, manteca de cupuaçu y aminoácidos. Tu decides si lo quieres liso o mantener tu forma eliminando únicamente el crespo, aporta hidratación, recupera el brillo y la suavidad perdida."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Balayage Orgánico", 
+            "duration": 5400, 
+            "price": "91 € ", 
+            "description": "Reflejos Orgánicos con aceite de ricino. Los reflejos se trabajan con una crema azulada que evita que se vuelvan amarillentas o rojizas. Además al contener aceite, no se reseca el pelo, hidrata en profundidad. Además, no contiene amoniaco ni derivados. No incluye secado, acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Balayage Orgánico Con Secado", 
+            "duration": 10800, 
+            "price": "130 € ", 
+            "description": "Reflejos Orgánicos con aceite de ricino. Los reflejos se trabajan con una crema azulada que evita que se vuelvan amarillentas o rojizas. Además al contener aceite, no se reseca el pelo, hidrata en profundidad. Además, no contiene amoniaco ni derivados. No incluye acondicionador ni mascarilla."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño Color Orgánico", 
+            "duration": 5400, 
+            "price": "62 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del pelo. Incluye acondicionador. No incluye secado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Baño De Color Orgánico Y Secado", 
+            "duration": 7200, 
+            "price": "108 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del cabello y secado. Incluye acondicionador y secado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Coloración Orgánica", 
+            "duration": 5400, 
+            "price": "62 € ", 
+            "description": "Coloración Orgánica en Aceite a base de aceite de argán, calendula y soja. No contiene amoniaco ni derivados. Incluye lavado con champú específico y acondicionador sellador de cutícula del pelo. Incluye acondicionador. No incluye secado."
+        }
+    ]
+}

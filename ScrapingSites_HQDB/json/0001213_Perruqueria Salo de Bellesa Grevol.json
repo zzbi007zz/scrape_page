@@ -1,0 +1,317 @@
+{
+    "adid": null, 
+    "name": "Perruqueria Saló de Bellesa Grèvol", 
+    "name_of_contact": "Perruqueria Saló de Bellesa Grèvol", 
+    "scrape_page": "https://www.bucmi.com/grevol", 
+    "business_website": "https://www.bucmi.com/grevol", 
+    "areas_covered": null, 
+    "description": "Salón de peluquería y estética con más de 28 años de experiencia, especializado en tratamientos de estética. Situado en el corazón del barrio de Les Corts. Se incluye café, té ,agua o copa de cava en todos nuestros servicios. Vive una experiencia única.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913068191571273.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913068205477332.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913068222196037.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913068250008377.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635913068264070839.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "Barcelona, Barcelona, Barcelona, 08036, Barcelona, 08007, Barcelona, 08034, Barcelona, 08029, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "933307259", 
+    "office_number2": null, 
+    "mobile_number": "633676490", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3790881000", 
+    "longitude": "2.1278397999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966690989978110.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Coloración Capilar Sin Amoniaco", 
+            "duration": 3600, 
+            "price": "39,69 € ", 
+            "description": "Coloración capilar: Trabajamos con coloraciones libres de amoníaco. Con todo tipo de coloraciones, con tonos intensos, brillantes y con cobertura 100%. Tonos de tendencia y combinación de pigmentos. Incluye lavado con masaje craneal relajante y secado natural.Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflejos Con Peine", 
+            "duration": 7200, 
+            "price": "49,25 € ", 
+            "description": "Reflejos peine: Ilumina tu melena con reflejos naturales o más marcados. Resalta la belleza de tu cabello con el tono que desees. Incluye lavado con masaje craneal relajante y secado natural.*Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Secado Y Lifting Capilar", 
+            "duration": 3600, 
+            "price": "26,26 € ", 
+            "description": "Secado y lifting capilar: Les ofrecemos un servicio de lavado con masaje craneal relajante y secado, con el secreto de un innovador lifting capilar. Lavaremos con champú de oro líquido y queratina. A continuación, aplicaremos un Lifting capilar, con micro partículas de oro de 24 kilates, queratina, aceite de Argán, aceite de semillas de Lino y vitaminas A, D y E. Un auténtico elixir de belleza. Para finalizar, procederemos al secado.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Anti-Caída Fitoxil", 
+            "duration": 1800, 
+            "price": "35,51 € ", 
+            "description": "Tratamiento Anti-caída: Gracias a la poderosa combinación de principios activos (células madre vegetales, biotina y arginina) aseguramos nutrición y salud para su cabello. Incluye lavado con masaje craneal relajante, mascarilla redensificadora y, para complementar el tratamiento,aplicaremos una vitamina capilar que frenará la caida y recuperará los folículos protegiendo y estimulando el bulbo piloso. Finalizaremos el servicio con secado natural.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Voluminador", 
+            "duration": 1800, 
+            "price": "40,17 € ", 
+            "description": "Tratamiento voluminador: Para cabellos grasos, finos o sin volumen. Contiene Arcilla blanca, leche de arroz rojo, aceite del Árbol del Té, vitamina B-5 y tiene gran poder antiséptico. Regula el exceso de sebo, aporta volumen, brillo y moviemiento.Incluye lavado, masaje craneal relajante, mascarilla, loción voluminadora y secado natural. Para complementar, aplicaremos una fórmula que regula la raíz grasa y trata los largos sensibilizados. *Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Infantil", 
+            "duration": 1800, 
+            "price": "12,83 € ", 
+            "description": "Corte infantil: En Perruqueria Saló de Bellesa Grèvol, el corte para los más pequeños es totalmente mágico. Os apetece descubrir el secreto? Incluye lavado.*Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer", 
+            "duration": 3600, 
+            "price": "44,71 € ", 
+            "description": "Corte mujer: El servicio incluye lavado con masaje craneal relajante , corte asesorado por su profesional y secado natural. Tendremos en cuenta el corte que desea, su tipo de cabello, fisionomía y características personales, para adaptar el corte perfectamente a usted, su profesional le indicará el corte más oportuno dentro de su elección.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Equilibrante.Experience Grevol", 
+            "duration": 5400, 
+            "price": "50,82 € ", 
+            "description": "Consigue un cutis limpio , suave, luminoso , realzando tus facciones y belleza del rostro.Comenzamos limpiando la piel ,y hacemos un diagnóstico que mide la hidratación de la dermis y su absorción de los productos.. Depilamos cejas y labio , exfoliamos con producto encimatico, extracción de barrillos.Despues haremos un completo masaje de cara ,cuello,escote ,hombros y brazos . Mascarilla adecuada a cada tipo de piel .Todo trabajado con la mejor cosmética natural 100% del Doctor Klapp.Piel sana en 90' 😊"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "16,21 € ", 
+            "description": "El servicio incluye, corte/limado, tratamiento de cutículas y corte si se necesita .Hidratacion con , masaje y esmaltado CND Vinylux con secado de 10 minutos .Duracion 7 dias manicura perfecta."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente Shellac", 
+            "duration": 2700, 
+            "price": "36,3 € ", 
+            "description": "Uñas esmaltadas perfectas con brillo durante 15 días.Servicio completo de corte y limado tratamiento de cutículas, hidratación, esmaltado shellac y secado con lámpara de led. La manicura más duradera cuidando la salud de tu uña"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Descontracturante Completo", 
+            "duration": 3600, 
+            "price": "48,4 € ", 
+            "description": "Masaje con aceites esenciales . Activamos circulación sanguínea y linfática. Relajamos músculos y tensiones . Hidratamos la piel en profundidad . Zonas que se trabajan: espalda, piernas , abdomen, brazos , escote y cervicales.Una gran dosis de energía y relax para continuar el resto del dia, el mejor tratamiento pensado para ti. Gracias!! te esperamos!!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Coloración Capilar Sin Amoniaco", 
+            "duration": 3600, 
+            "price": "39,69 € ", 
+            "description": "Coloración capilar: Trabajamos con coloraciones libres de amoníaco. Con todo tipo de coloraciones, con tonos intensos, brillantes y con cobertura 100%. Tonos de tendencia y combinación de pigmentos. Incluye lavado con masaje craneal relajante y secado natural.Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Reflejos Con Peine", 
+            "duration": 7200, 
+            "price": "49,25 € ", 
+            "description": "Reflejos peine: Ilumina tu melena con reflejos naturales o más marcados. Resalta la belleza de tu cabello con el tono que desees. Incluye lavado con masaje craneal relajante y secado natural.*Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Secado Y Lifting Capilar", 
+            "duration": 3600, 
+            "price": "26,26 € ", 
+            "description": "Secado y lifting capilar: Les ofrecemos un servicio de lavado con masaje craneal relajante y secado, con el secreto de un innovador lifting capilar. Lavaremos con champú de oro líquido y queratina. A continuación, aplicaremos un Lifting capilar, con micro partículas de oro de 24 kilates, queratina, aceite de Argán, aceite de semillas de Lino y vitaminas A, D y E. Un auténtico elixir de belleza. Para finalizar, procederemos al secado.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Anti-Caída Fitoxil", 
+            "duration": 1800, 
+            "price": "35,51 € ", 
+            "description": "Tratamiento Anti-caída: Gracias a la poderosa combinación de principios activos (células madre vegetales, biotina y arginina) aseguramos nutrición y salud para su cabello. Incluye lavado con masaje craneal relajante, mascarilla redensificadora y, para complementar el tratamiento,aplicaremos una vitamina capilar que frenará la caida y recuperará los folículos protegiendo y estimulando el bulbo piloso. Finalizaremos el servicio con secado natural.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Voluminador", 
+            "duration": 1800, 
+            "price": "40,17 € ", 
+            "description": "Tratamiento voluminador: Para cabellos grasos, finos o sin volumen. Contiene Arcilla blanca, leche de arroz rojo, aceite del Árbol del Té, vitamina B-5 y tiene gran poder antiséptico. Regula el exceso de sebo, aporta volumen, brillo y moviemiento.Incluye lavado, masaje craneal relajante, mascarilla, loción voluminadora y secado natural. Para complementar, aplicaremos una fórmula que regula la raíz grasa y trata los largos sensibilizados. *Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Secado, Lavado E Hidratación", 
+            "duration": 7200, 
+            "price": "26,26 € ", 
+            "description": "Secado, lavado e hidratación: Le ofrecemos el secado de cabello que más se adapte a usted. Incluye lavado con champú específico para su tipo de cabello con masaje craneal relajante, e hidratación de queratina progresiva (Elite home) que aportará a su cabello rejuvenecimiento, brillo y reequilibración. No incluye planchado ni productos de fijación.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Hidratación Infusión Gold", 
+            "duration": 1800, 
+            "price": "27,65 € ", 
+            "description": "Tratamiento Infusion Gold: Elixir capilar, con oro líquido y queratina pura. Les presentamos un potenciador de brillo y nutrición, una infusión de queratina y oro líquido que rellena, regenera y nutre el cabello. El tratamiento incluye lavado con champú de queratina y oro líquido, masaje craneal rajante, aplicación del tratamiento (fases A y B) y secado natural.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Bótox Capilar", 
+            "duration": 3600, 
+            "price": "50,46 € ", 
+            "description": "Bótox capilar: Les presentamos un rellenador capilar, que aporta textura, brillo y salud a su cabello. Contiene Aceite de Argán, Colágeno natural, Queratina, y ácido hialurónico o salicílico. Además evita el encrespamiento. El tratamiento incluye lavado con champú alcalino, masaje relajante craneal, aplicación y exposición del tratamiento y secado con plancha. Para la eficacia de dicho tratamiento se han de hacer una serie de sesiones continuadas.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Detox", 
+            "duration": 1800, 
+            "price": "38,42 € ", 
+            "description": "Tratamiento Detox: Regulador de caspa y descamación. Consta de una exfoliación fungicida y reguladora, la cual eliminará células muertas y limpiará profundamente, actuando como calmante y desinfectante. Lavaremos con champú anti-caspa, complementandolo con masaje relajante craneal y aplicaremos una vitamina que combatirá la generación de descamación y hará desaparecer durante 6 semanas las partículas. Para finalizar realizaremos secado natural.* Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Elite-Power Plus", 
+            "duration": 3600, 
+            "price": "55,35 € ", 
+            "description": "Elite Power Plus: Novedosa fórmula que convierte su melena en dócil y manejable, reduciendo el tiempo de peinado. El cabello se vuelve más sedoso, con un 100% de brillo y reduce su encrespamiento, gracias a la acción reparadora del oro líquido y la revitalizadora queratina termo-activa.El tratamiento incluye lavado con champú alcalino, masaje craneal, aplicación y exposición del tratamiento, activación del producto y peinado con plancha para finalizar.*Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Keratina: Keratin Flash", 
+            "duration": 1800, 
+            "price": "35,51 € ", 
+            "description": "Keratin Flash: Tratamiento anti-edad, con sistema anti-encrespamiento. Es un concentrado de queratina activada y células madre vegetales. Refuerza el corazón de la fibra capilar, redensificando el cabello, con mucho cuerpo, brillo y sin encrespamiento. Consigue un cabello más joven. Incluye lavado con masaje relajante craneal y secado natural.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar: Miracle Treatment", 
+            "duration": 1800, 
+            "price": "23,66 € ", 
+            "description": "Miracle treatment: Tratamiento reestructurante intensivo, creador de luz natural con sistema termo-nutritivo. Rellena la fibra capilar recuperando el cabello dañado. Sella el corazón de la cutícula con concentrado puro de queratina y células madre vegetales. Llena de vida tu cabello recuperando su espledor. Incluye lavado con masaje craneal relajante y secado natural.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Exfoliación Capilar", 
+            "duration": 1800, 
+            "price": "23,19 € ", 
+            "description": "Tratamiento para la caspa y la descamación. De acción exfoliante, fungicida, reguladora y anti-inflamatoria, con extracto de bardana. Incluye lavado con masaje relajante craneal con aroma a spa y secado natural"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "36,84 € ", 
+            "description": "Corte hombre: Si buscas el estilo más acorde a ti, nuestras profesionales sabrán asesorarte a la perfección con el corte que más se adapte a tus características. Incluye lavado con masaje craneal relajante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Infantil", 
+            "duration": 1800, 
+            "price": "12,83 € ", 
+            "description": "Corte infantil: En Perruqueria Saló de Bellesa Grèvol, el corte para los más pequeños es totalmente mágico. Os apetece descubrir el secreto? Incluye lavado.*Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer", 
+            "duration": 3600, 
+            "price": "44,71 € ", 
+            "description": "Corte mujer: El servicio incluye lavado con masaje craneal relajante , corte asesorado por su profesional y secado natural. Tendremos en cuenta el corte que desea, su tipo de cabello, fisionomía y características personales, para adaptar el corte perfectamente a usted, su profesional le indicará el corte más oportuno dentro de su elección.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Baño Color: Diacolor", 
+            "duration": 3600, 
+            "price": "43,5 € ", 
+            "description": "Diacolor: Tratamiento de brillo duradero y coloración sin amoníaco y reflejos dulces. Si no tienes un exceso de cana y no deseas teñirte, esta es tu coloración. Pigmenta únicamente la cana evitando que se le ves raíz. Incluye lavado con masaje craneal relajante y secado natural.*Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Hombre", 
+            "duration": 900, 
+            "price": "18,09 € ", 
+            "description": "Color Men: Disimula los cabellos blancos en tan solo 5 minutos. Gel colorante sin amoníaco. Resultado natural. Incluye lavado con masaje craneal relajante.Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas A Plata", 
+            "duration": 7200, 
+            "price": "58,02 € ", 
+            "description": "Mechas plata: Contrasta el color de tu melena con unas preciosas mechas potenciadas con papel plata. Incluye lavado con masaje craneal relajante y secado natural.*Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Liso Elástico Flexible", 
+            "duration": 14400, 
+            "price": "174,99 € ", 
+            "description": "Pre-active es una crema alisante capilar que actúa respetando la estructura natural del cabello garantizando un alisado perfecto y sin daños. Aporta al cabello elasticidad y brillo intenso. Su fórmula es capaz de alisar reteniendo la humedad y así evitar la resequedad a la vez que acondiciona su estructura. Controla el volumen. Incluye lavado con masaje craneal relajante, secado y sellado con plancha. *Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Alisado: Kerafusión", 
+            "duration": 3600, 
+            "price": "135,1 € ", 
+            "description": "Kerafusión: Les ofrecemos un alisado natural, que desencrespará su cabello dejándolo brillante, suave y con movimiento. Sus principios activos son: oro líquido, queratina pura y taninos, estos,actúan consiguiendo una reestructuración molecular, que facilitaran la fijación de la nueva forma lisa. El tratamiento incluye lavado con champú dilatador de cutícula, masaje craneal relajante, realización del tratamiento, secado y sellado con plancha.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Coloración Capilar Sin Amoniaco", 
+            "duration": 3600, 
+            "price": "39,69 € ", 
+            "description": "Coloración capilar: Trabajamos con coloraciones libres de amoníaco. Con todo tipo de coloraciones, con tonos intensos, brillantes y con cobertura 100%. Tonos de tendencia y combinación de pigmentos. Incluye lavado con masaje craneal relajante y secado natural.Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Coloración Capilar Sin Amoniaco", 
+            "duration": 3600, 
+            "price": "39,69 € ", 
+            "description": "Coloración capilar: Trabajamos con coloraciones libres de amoníaco. Con todo tipo de coloraciones, con tonos intensos, brillantes y con cobertura 100%. Tonos de tendencia y combinación de pigmentos. Incluye lavado con masaje craneal relajante y secado natural.Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Reflejos Con Peine", 
+            "duration": 7200, 
+            "price": "49,25 € ", 
+            "description": "Reflejos peine: Ilumina tu melena con reflejos naturales o más marcados. Resalta la belleza de tu cabello con el tono que desees. Incluye lavado con masaje craneal relajante y secado natural.*Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Secado Y Lifting Capilar", 
+            "duration": 3600, 
+            "price": "26,26 € ", 
+            "description": "Secado y lifting capilar: Les ofrecemos un servicio de lavado con masaje craneal relajante y secado, con el secreto de un innovador lifting capilar. Lavaremos con champú de oro líquido y queratina. A continuación, aplicaremos un Lifting capilar, con micro partículas de oro de 24 kilates, queratina, aceite de Argán, aceite de semillas de Lino y vitaminas A, D y E. Un auténtico elixir de belleza. Para finalizar, procederemos al secado.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Anti-Caída Fitoxil", 
+            "duration": 1800, 
+            "price": "35,51 € ", 
+            "description": "Tratamiento Anti-caída: Gracias a la poderosa combinación de principios activos (células madre vegetales, biotina y arginina) aseguramos nutrición y salud para su cabello. Incluye lavado con masaje craneal relajante, mascarilla redensificadora y, para complementar el tratamiento,aplicaremos una vitamina capilar que frenará la caida y recuperará los folículos protegiendo y estimulando el bulbo piloso. Finalizaremos el servicio con secado natural.*Consulte con su profesional para posibles suplementos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Coloración Capilar Sin Amoniaco", 
+            "duration": 3600, 
+            "price": "39,69 € ", 
+            "description": "Coloración capilar: Trabajamos con coloraciones libres de amoníaco. Con todo tipo de coloraciones, con tonos intensos, brillantes y con cobertura 100%. Tonos de tendencia y combinación de pigmentos. Incluye lavado con masaje craneal relajante y secado natural.Consulte con su profesional para posibles suplementos"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Reflejos Con Peine", 
+            "duration": 7200, 
+            "price": "49,25 € ", 
+            "description": "Reflejos peine: Ilumina tu melena con reflejos naturales o más marcados. Resalta la belleza de tu cabello con el tono que desees. Incluye lavado con masaje craneal relajante y secado natural.*Consulte con su profesional para posibles suplementos"
+        }
+    ]
+}

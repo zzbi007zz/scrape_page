@@ -1,0 +1,112 @@
+{
+    "adid": null, 
+    "name": "Rehabilitarte", 
+    "name_of_contact": "Rehabilitarte", 
+    "scrape_page": "https://www.bucmi.com/rehabilitarte", 
+    "business_website": "https://www.bucmi.com/rehabilitarte", 
+    "areas_covered": null, 
+    "description": "Rehabilitarte es un Centro de Fisioterapia ubicado en pleno centro de Madrid, concretamente en la zona de Almagro. Disponemos de profesionales altamente cualificados para ayudarte a resolver cualquier tipo de molestia. Nuestro compromiso es tu bienestar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829417318957509.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829417329739422.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635829417351458141.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ordicia, 27", 
+    "city": "Madrid", 
+    "zipcode": "28010", 
+    "formatted_address": "C/ Ordicia, 27, Madrid, 28010", 
+    "country": "es", 
+    "office_number": "915916412", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4360924000", 
+    "longitude": "-3.6983086000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908712981250439.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Fisioterapia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Disponemos del servicio óptimo para lograr tu bienestar, mediante el tratamiento y la prevención de las diversas patologías que pueden afectar a tu salud en el día a día, y para ello contamos con profesionales cualificados y la última tecnología"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Osteopatía", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Reserva nuestra sesión de Osteopatía! Nuestros profesionales te ayudarán a reequilibrar tu organismo. El servicio es una terapia manual integral que consta de Masaje, Estiramientos y Tratamiento de la Fascia."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Rehabilitación Suelo Pélvico Fisioterapia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "La rehabilitación del Suelo Pélvico tiene como objetivo principal el fortalecer toda la musculatura que corresponde a esta parte del cuerpo. De esta forma trataremos la incontinencia urinaria y los problemas ocasionados por la pérdida de tonicidad. Se recomienda para mujeres que han dado a luz recientemente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Fisioterapia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Disponemos del servicio óptimo para lograr tu bienestar, mediante el tratamiento y la prevención de las diversas patologías que pueden afectar a tu salud en el día a día, y para ello contamos con profesionales cualificados y la última tecnología"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Disfunción De Atm Fisioterapia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Cuando aparecen disfunciones en la ATM, pueden existir problemas orofaciales, craneomandibulares o intrínsecos de la musculatura masticatoria. Dependiendo de qué esté afectado, se elegirá el tipo de tratamiento."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Osteopatía", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Reserva nuestra sesión de Osteopatía! Nuestros profesionales te ayudarán a reequilibrar tu organismo. El servicio es una terapia manual integral que consta de Masaje, Estiramientos y Tratamiento de la Fascia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Rehabilitación Suelo Pélvico Fisioterapia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "La rehabilitación del Suelo Pélvico tiene como objetivo principal el fortalecer toda la musculatura que corresponde a esta parte del cuerpo. De esta forma trataremos la incontinencia urinaria y los problemas ocasionados por la pérdida de tonicidad. Se recomienda para mujeres que han dado a luz recientemente."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesión De Fisioterapia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Disponemos del servicio óptimo para lograr tu bienestar, mediante el tratamiento y la prevención de las diversas patologías que pueden afectar a tu salud en el día a día, y para ello contamos con profesionales cualificados y la última tecnología"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Disfunción De Atm Fisioterapia", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Cuando aparecen disfunciones en la ATM, pueden existir problemas orofaciales, craneomandibulares o intrínsecos de la musculatura masticatoria. Dependiendo de qué esté afectado, se elegirá el tipo de tratamiento."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Sesión De Osteopatía", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "¡Reserva nuestra sesión de Osteopatía! Nuestros profesionales te ayudarán a reequilibrar tu organismo. El servicio es una terapia manual integral que consta de Masaje, Estiramientos y Tratamiento de la Fascia."
+        }
+    ]
+}

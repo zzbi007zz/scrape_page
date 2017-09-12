@@ -1,0 +1,137 @@
+{
+    "adid": null, 
+    "name": "L'Etoile", 
+    "name_of_contact": "L'Etoile", 
+    "scrape_page": "https://www.bucmi.com/letoile", 
+    "business_website": "https://www.bucmi.com/letoile", 
+    "areas_covered": null, 
+    "description": "Peluquería unisex en las ventas, ofrece tratamientos capilares, servicios de uñas y diagnósticos personalizados siempre en el mejor ambiente. Ven a conocer nuestras instalaciones y déjate llevar de la mano de los mejores profesionales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858709651037651.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858709684006051.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858709708849727.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858709724162181.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858709739630868.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858709776037026.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858709790412167.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "24", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28028", 
+    "formatted_address": "Madrid, 28028", 
+    "country": "es", 
+    "office_number": "912194939", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4287971000", 
+    "longitude": "-3.6697083000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908688591422261.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Lavado Y Masaje Capilar", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Un total cambio de look con el servicio de color, lavado y masaje capilar. El pack perfecto para relajarte y ponerte guapa. Nuestros profesionales te asesorarán a la hora de elegir un color que se adapte perfectamente a tus facciones, estilo y tono de piel. ¡Reserva ya en Bucmi y te encantará! Calidad al mejor precio. ¡Saldrás del centro con un look increíble!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color, Lavado, Masaje Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "Un total cambio de look con el servicio de color, lavado, masaje capilar y peinado. El pack perfecto para relajarte y ponerte guapa. Nuestros profesionales te asesorarán a la hora de elegir un color que se adapte perfectamente a tus facciones, estilo y tono de piel. Te dejaremos perfecta para cualquier evento. ¡Reserva ya en Bucmi y te encantará! Calidad al mejor precio. ¡Saldrás del centro con un look increíble!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Capilar Ritual Kerastase", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "En función de la necesidades y el diagnóstico de tu cabello, aplicaremos el ritual de fuerza, densidad, color o nutrición. Todos los rituales incluyen lavado, masaje capilar con champú según diagnóstico más aplicación de ampolla vitamínica o de proteínas. No incluye peinado. En total el servicio tiene una duración de 35 minutos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "¿Quieres lucir una melena como la de las celebrities? Prueba con nuestras mechas californianas y hazte un cambio de lo más chic. El servicio no incluye en peinado. Déjate asesorar por uno de nuestros profesionales o bien, trae una idea de casa. Te ayudaremos en todo lo necesario para que salgas la mar de contenta. Las mechas californianas son ahora tendencia. ¡Reserva ya en Bucmi y que no te lo cuenten!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Chemistry Protein Redken Tto. Capilar Hidratación", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "El tratamiento Chemistry Protein System de Redken: reestructura, nutre y repara. Este completo cóctel de vitaminas devuelve la vida a tu cabello, el cual está sometido a las agresiones del día a día. El servicio incluye masaje capilar. No incluye peinado. Duración de 35 minutos. ¡Confía en nuestros profesionales y presume de una melena envidiable por un precio increíble!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Lavado Y Masaje Capilar", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Un total cambio de look con el servicio de color, lavado y masaje capilar. El pack perfecto para relajarte y ponerte guapa. Nuestros profesionales te asesorarán a la hora de elegir un color que se adapte perfectamente a tus facciones, estilo y tono de piel. ¡Reserva ya en Bucmi y te encantará! Calidad al mejor precio. ¡Saldrás del centro con un look increíble!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color, Lavado, Masaje Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "56 € ", 
+            "description": "Un total cambio de look con el servicio de color, lavado, masaje capilar y peinado. El pack perfecto para relajarte y ponerte guapa. Nuestros profesionales te asesorarán a la hora de elegir un color que se adapte perfectamente a tus facciones, estilo y tono de piel. Te dejaremos perfecta para cualquier evento. ¡Reserva ya en Bucmi y te encantará! Calidad al mejor precio. ¡Saldrás del centro con un look increíble!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo, Lavado, Masaje Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "Un total cambio de look con el servicio de corte, lavado, masaje capilar y peinado. El pack perfecto para relajarte y ponerte guapa. Nuestros profesionales te asesorarán con un corte de pelo que se adapte perfectamente a tus facciones, estilo y tono de piel. En el servicio está incluido un masaje capilar durante el lavado. Te encantará. ¡Reserva ya en Bucmi y te encantará! Calidad al mejor precio. ¡Saldrás del centro con un look increíble!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar, Masaje Capilar Y Peinado Ella", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "Si tienes un evento importante, nada mejor que ponerte en manos de nuestro profesionales y olvidarte de preocupaciones. Dedícate a buscar ese vestido perfecto, que del resto nos encargamos nosotros. Con este servicio te asesoraremos para que tu melena sea la envidia de todas las miradas. Además incluimos un masaje capilar para que te relajes y te preocupes sólo de disfrutar."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar, Masaje, Corte De Pelo Y Peinado Para Ella", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "Tanto si tienes un evento importante como si quieres sanear tu melena y lucir un bonito cabello en el día a día, este es tu servicio. El servicio incluye el lavado, corte y el peinado del cabello. Además incluimos un masaje capilar para que te disfrutes de lo lindo. Cambia de look de la mano de los mejores profesionales. ¡Reserva ya en Bucmi y te encantará! Calidad al mejor precio. ¡Saldrás del centro con una imagen increíble!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Bicolor", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "¿Quieres conseguir una melena de lo más actual ?Da color y luz a tu cabello con dos tonos de mechas, conseguirás un efecto natural como tocado por el sol. El resultado será un cabello lleno de movimiento y dinamismo. Este servicio incluye el lavado con champú específico, la aplicación de las mechas y el secado natural. No incluye peinado. ¡Reserva ya en Bucmi y presume de nuevo look!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Enteras", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Da un toque de color a tu melena con unas mechas enteras con un aspecto muy natural. Con este servicio conseguirás aclarar y dar vida a los cabellos más oscuros y apagados. Consigue aportar a tu melena ese toque que te falta para completar tu look. El servicio incluye el lavado con champú específico y la aplicación de las mechas. No incluye el peinado. ¡Reserva ya online y te encantará!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante: Secretos Del Agua", 
+            "duration": 3600, 
+            "price": "21 € ", 
+            "description": "Todos los tratamientos de Secretos del Agua son muy naturales y no contienen ni siliconas ni parabenos. El tratamiento capilar hidratante permite aportar nutrición e hidratación profunda al cabello. Hidrata, cuida y sanea tu cabello con nuestro tratamiento capilar."
+        }
+    ]
+}

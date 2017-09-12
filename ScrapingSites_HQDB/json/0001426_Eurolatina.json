@@ -1,0 +1,139 @@
+{
+    "adid": null, 
+    "name": "Eurolatina", 
+    "name_of_contact": "Eurolatina", 
+    "scrape_page": "https://www.bucmi.com/eurolatina", 
+    "business_website": "https://www.bucmi.com/eurolatina", 
+    "areas_covered": null, 
+    "description": "Disfruta de nuestro salón de belleza Eurolatina y su amplia gama de servicios. Tratamos desde tratamientos de estética como toda la gama de peluquería. Nos gusta verte guapa y queremos que te pongas en nuestras manos y te sientas estupenda. Te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635903009914661704.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635903009949505517.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08027", 
+    "formatted_address": "Barcelona, 08032, Barcelona, Barcelona, Barcelona, 08042, Barcelona, 08006, Barcelona, 08028, Barcelona, 08009, Barcelona, 08029, Barcelona, 08013, Barcelona, 08027", 
+    "country": "es", 
+    "office_number": "935277425", 
+    "office_number2": null, 
+    "mobile_number": "633510292", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4166823000", 
+    "longitude": "2.1850289999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966769142219951.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Completo servicio para que nuestros chicos de Bucmi.com luzcan guapos y con un look definido y cuidado. Incluye el corte de pelo, lavado de la cabeza con ligero masaje craneal y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Empezamos limando las uñas, se retiran las cutículas, hidratamos y esmaltamos del color que prefieras. Podrás presumir de manos como nunca y ser la envidia de tus amigas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Por fin un paquete completo de belleza para tus uñas al mejor precio! Mimaremos tus manos y tus pies gracias a nuestros expertos esteticistas. Solo tendrás que encargarte de escoger el color que prefieras y nosotros nos encargamos de lo demás."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Pelo Extralargo", 
+            "duration": 12600, 
+            "price": "140 € ", 
+            "description": "Conoce las ventajas de este alisado recomendable al 100% para eliminar el encrespamiento y conseguir un pelo liso y suave. Incluye: lavado previo con champú y el propio alisado de keratina."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Corto", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Disfruta de un alisado natural gracias a nuestra keratina libre de formol y otros sulfatos. Incluye lavado previo de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Media Melena Y Largo", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Disfruta de un alisado natural gracias a nuestra keratina libre de formol y otros sulfatos. Incluye lavado previo de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Media Melena", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "El servicio incluye lavar, cortar y peinar para cabellos de longitud media. Perfecto para esa cita o evento que te ha surgido a última hora y al que quieres ir perfecta."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Corto", 
+            "duration": 2700, 
+            "price": "20 € ", 
+            "description": "El servicio incluye lavar, cortar y peinar para cabellos cortos. Es el servicio perfecto para cambiar de look gracias a nuestros expertos estilistas del salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Peinar Pelo Largo", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "El servicio incluye lavar, cortar y peinar para cabellos largos. Es el servicio perfecto para cambiar de look gracias a nuestros expertos estilistas del salón. Si tu melena es extralarga consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Completo servicio para que nuestros chicos de Bucmi.com luzcan guapos y con un look definido y cuidado. Incluye el corte de pelo, lavado de la cabeza con ligero masaje craneal y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina Pelo Extralargo", 
+            "duration": 12600, 
+            "price": "140 € ", 
+            "description": "Conoce las ventajas de este alisado recomendable al 100% para eliminar el encrespamiento y conseguir un pelo liso y suave. Incluye: lavado previo con champú y el propio alisado de keratina."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina Pelo Extralargo", 
+            "duration": 12600, 
+            "price": "140 € ", 
+            "description": "Conoce las ventajas de este alisado recomendable al 100% para eliminar el encrespamiento y conseguir un pelo liso y suave. Incluye: lavado previo con champú y el propio alisado de keratina."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Corto", 
+            "duration": 5400, 
+            "price": "80 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Disfruta de un alisado natural gracias a nuestra keratina libre de formol y otros sulfatos. Incluye lavado previo de la melena."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Keratina Media Melena Y Largo", 
+            "duration": 9000, 
+            "price": "100 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Disfruta de un alisado natural gracias a nuestra keratina libre de formol y otros sulfatos. Incluye lavado previo de la melena."
+        }
+    ]
+}

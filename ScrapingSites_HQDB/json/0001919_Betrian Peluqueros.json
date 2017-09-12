@@ -1,0 +1,102 @@
+{
+    "adid": null, 
+    "name": "Betrian Peluqueros", 
+    "name_of_contact": "Betrian Peluqueros", 
+    "scrape_page": "https://www.bucmi.com/betrian", 
+    "business_website": "https://www.bucmi.com/betrian", 
+    "areas_covered": null, 
+    "description": "Con una ubicación privilegiada, en el centro de Zaragoza, la peluquería Betrián cuenta con servicios adaptados a cada tipo de cliente, con una atención totalmente personalizada y unas instalaciones de lujo. Te esperamos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635738772534114886.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635738772535208632.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635738772533958734.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635738772540990011.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635738772542083489.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635738772545052225.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635738772531146214.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "Zaragoza", 
+    "formatted_address": "Zaragoza, 50008, Zaragoza, Zaragoza", 
+    "country": "es", 
+    "office_number": "976220994", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6484499000", 
+    "longitude": "-0.8832199999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811970735756908.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Pelo De Hombre", 
+            "duration": 1800, 
+            "price": "19,9 € ", 
+            "description": "¡Disfruta de un corte de pelo profesional de menos de nuestros expertos peluqueros! Incluye el corte de pelo asesorado, el lavado del cabello con masaje craneal y productos de acabado. ¡No lo dudes más y reserva ahora!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado", 
+            "duration": 2700, 
+            "price": "65 € ", 
+            "description": "¿Te apetece un cambio de look? ¡Ahora tienes la oportunidad de lucir perfecta reservando en nuestro centro! El servicio incluye el lavado con champú y mascarilla, masaje craneal, el corte de pelo asesorado y el peinado que desees."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño", 
+            "duration": 7200, 
+            "price": "230 € ", 
+            "description": "¡Luce una melena siempre perfecta y sin encrespamiento reservando nuestro alisado brasileño! El tratamiento incluye el lavado del cabello, masaje craneal, mascarilla hidratante y el peinado que más te apetezca lucir."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Personalizado Y Peinado", 
+            "duration": 3600, 
+            "price": "108,9 € ", 
+            "description": "¿Te gustaría mejorar el aspecto y la salud de tu cabello? ¡Reserva este servicio! Te ofrecemos un tratamiento capilar totalmente personalizado, dependiendo de las necesidades de tu pelo. Nuestros profesionales valorarán el tratamiento que más se ajusta a ti. Incluye el lavado y el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "¡Tratamiento indicado para cabellos dañados y encrespados! Gracias a este tratamiento podrás lucir una melena increíblemente sana y brillante. El servicio incluye el lavado con masaje craneal, mascarilla hidratante y peinado final."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz, Peinado Y Tratamiento Capilar", 
+            "duration": 5400, 
+            "price": "78 € ", 
+            "description": "¡Si estás buscando un centro para cubrir tus raíces, acabas de encontrar el salón perfecto para ti! Este servicio incluye el color en raíz, el lavado, tratamiento del color y el peinado final que más te guste."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Pelo De Hombre", 
+            "duration": 1800, 
+            "price": "19,9 € ", 
+            "description": "¡Disfruta de un corte de pelo profesional de menos de nuestros expertos peluqueros! Incluye el corte de pelo asesorado, el lavado del cabello con masaje craneal y productos de acabado. ¡No lo dudes más y reserva ahora!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado", 
+            "duration": 2700, 
+            "price": "65 € ", 
+            "description": "¿Te apetece un cambio de look? ¡Ahora tienes la oportunidad de lucir perfecta reservando en nuestro centro! El servicio incluye el lavado con champú y mascarilla, masaje craneal, el corte de pelo asesorado y el peinado que desees."
+        }
+    ]
+}

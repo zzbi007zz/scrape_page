@@ -1,0 +1,189 @@
+{
+    "adid": null, 
+    "name": "Belleza Zenith", 
+    "name_of_contact": "Belleza Zenith", 
+    "scrape_page": "https://www.bucmi.com/bellezazenith", 
+    "business_website": "https://www.bucmi.com/bellezazenith", 
+    "areas_covered": null, 
+    "description": "Centro compuesto por expertos en Tratamientos Estéticos Corporales y Faciales. Disponemos de tres cabinas y también realizamos servicios de maquillaje de ceremonias y de novias. Disfrutarás de un trato personalizado e increíbles resultados. ¡Conócenos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635539871467590411.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635539871467950769.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635539871469302048.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Paraiso, 10", 
+    "city": "Valladolid", 
+    "zipcode": "47003", 
+    "formatted_address": "C/ Paraiso, 10, Valladolid, 47003", 
+    "country": "es", 
+    "office_number": "983206292", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6543001000", 
+    "longitude": "-4.7208213999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636071252599455542.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Maquillaje Evento Con Aerógrafo", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Si estás buscando un maquillaje resistente para un evento, ven ya a probar nuestro maquillaje con aerógrafo a nuestro centro Zenith. El aerógrafo Temptu es una aparatología que proviene de Estados Unidos, gracias a la cuál podemos conseguir que tu maquillaje esté perfecto incluso aunque sudes. Te asesoramos en todo momento para conseguir el maquillaje que más te favorece, teniendo en cuenta tanto tu rostro como tu look. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Boda Maquillaje Novia Con Aerógrafo Y Dos Pruebas", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Si estás buscando un maquillaje resistente para el día de tu boda, ven ya a probar nuestro maquillaje con aerógrafo a nuestro centro Zenith. El aerógrafo Temptu es una aparatología que proviene de Estados Unidos, gracias a la cuál podemos conseguir que tu maquillaje esté perfecto incluso aunque sudes. Además de maquillarte teniendo en cuenta la forma de tu rostro y tu look, también incluye dos pruebas de maquillaje de novia. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Semipermanente", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¡Tus manos perfectas con el esmalte de larga duración para tus uñas! Este servicio de manicura semipermanente consiste en limado, tratamiento de cutículas y esmaltado semipermanente a escoger entre nuestra variada gama de colores. Tus manos estarán perfectas hasta dos semanas. Si deseas la francesa consulta posible suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Boda Maquillaje Novia Con Aerógrafo Y Dos Pruebas", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Si estás buscando un maquillaje resistente para el día de tu boda, ven ya a probar nuestro maquillaje con aerógrafo a nuestro centro Zenith. El aerógrafo Temptu es una aparatología que proviene de Estados Unidos, gracias a la cuál podemos conseguir que tu maquillaje esté perfecto incluso aunque sudes. Además de maquillarte teniendo en cuenta la forma de tu rostro y tu look, también incluye dos pruebas de maquillaje de novia. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Boda Maquillaje Novia Con Aerógrafo Y Dos Pruebas", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Si estás buscando un maquillaje resistente para el día de tu boda, ven ya a probar nuestro maquillaje con aerógrafo a nuestro centro Zenith. El aerógrafo Temptu es una aparatología que proviene de Estados Unidos, gracias a la cuál podemos conseguir que tu maquillaje esté perfecto incluso aunque sudes. Además de maquillarte teniendo en cuenta la forma de tu rostro y tu look, también incluye dos pruebas de maquillaje de novia. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "2 Sesiones De Adelgazamiento - Novedoso Work It", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Beneficiate de este tratamiento novedoso que incluye dos sesiones de presoterapia y cavitación y que, además, incluye lo último en adelgazamiento: los parches It work, ésta novedosa técnica consiste en una tela impregnada con una fórmula botánica que ayuda a tensar, disminuir y a tonificar la piel en tan sólo 45 minutos. Ayuda a reducir la apariencia de celulitis y la flacidez."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Hidratación Manos Completa", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Aprovecha este tratamiento corporal de hidratación total para manos, que incluye peeling, guante de colágeno durante unos 20 minutos, y que además te damos para que los puedas usar en casa en dos ocasiones más, y por último, una manicura básica. Unas manos perfectas, nutridas y suaves. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Contorno Con Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Estupendo tratamiento de contorno de ojos, para una mirada más bonita reduciendo ojeras, bolsas o arrugas de expresión. Además incluimos un estupendo tinte de pestañas con hasta 21 días de duración, para que estés estupenda en cada ocasión, evento especial simplemente tu día a día. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal 5 Sesiones Piernas Cansadas", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "El servicio lo realizamos con vendas frías y después pasamos a la sesión de presoterapia, que a través de masajes suaves conseguimos activar y mejorar la circulación. Con la combinación de estas técnicas conseguimos reducir volumen y mejorar la circulación. ¡Solo ponte en las manos de los profesionales de nuestro centro Zenith!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal 5 Sesiones Reafirmantes", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Reduce volumen y reafirma dos zonas de tu cuerpo, gracias a este tratamiento reafirmante, que realizamos con placas de gimnasia pasiva para mover el músculo dándole fuerza. De esta forma tonificamos la zona, acabando con la flacidez de tu cuerpo. ¡Olvídate de la flacidez, solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Peeling Corporal", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Estupendo tratamiento para mejorar la piel, elimina las células muertas aportando suavidad y frescura. Está formado por sales muy finas procedentes del Mar Muerto. Con este peeling las células se regeneran con este masaje que previene el envejecimiento cutáneo y estimula la circulación. ¡Solo tienes que ponerte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial 1 Sesión De Retinol", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Consiste en un tratamiento con la finalidad de mejorar la elasticidad natural de la piel y además mantener la hidratación, conseguimos prevenir las arrugas de expresión. Es un método que se basa en la producción del colágeno, mejorando la tersura y regenerando la piel. ¡Solo tienes que ponerte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Peeling Secuencial 2 Sesiones", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Este original y novedoso peeling, consiste en cinco diferentes técnicas de peeling realizado en cabina mejorando las imperfecciones cutáneas, consiguiendo una piel nueva, atenuando arrugas, mejorando el tono de la piel, las manchas o las marcas de acné. ¡Solo tienes que ponerte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Bono 3Ss De Radiofrecuencia", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "Con esta combinación de radiofrecuencia, mesoterapia y cromoterapia dirás adiós a las arrugas, mejorarás emocionalmente y acabarás con la celulitis rejuveneciendo la piel, todo en un mismo servicios. Se trata de un bono de tres sesiones necesarias para su efectividad y resultados visibles, Reserva ya con Bucmi.com, y saldrás encantada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Evento Con Aerógrafo", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Si estás buscando un maquillaje resistente para un evento, ven ya a probar nuestro maquillaje con aerógrafo a nuestro centro Zenith. El aerógrafo Temptu es una aparatología que proviene de Estados Unidos, gracias a la cuál podemos conseguir que tu maquillaje esté perfecto incluso aunque sudes. Te asesoramos en todo momento para conseguir el maquillaje que más te favorece, teniendo en cuenta tanto tu rostro como tu look. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Evento O Fiesta", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Si quieres estar impecable para aquellos días especiales, no dudes en escoger este servicio de maquillaje realizado por nuestras profesionales. Te maquillaremos de acorde a tus gustos, facciones, tipo de piel o look, para que tu maquillaje vaya acorde a tu personalidad. Lista para cualquier ocasión."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Boda Maquillaje Novia Con Aerógrafo Y Dos Pruebas", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Si estás buscando un maquillaje resistente para el día de tu boda, ven ya a probar nuestro maquillaje con aerógrafo a nuestro centro Zenith. El aerógrafo Temptu es una aparatología que proviene de Estados Unidos, gracias a la cuál podemos conseguir que tu maquillaje esté perfecto incluso aunque sudes. Además de maquillarte teniendo en cuenta la forma de tu rostro y tu look, también incluye dos pruebas de maquillaje de novia. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "2 Sesiones De Adelgazamiento - Novedoso Work It", 
+            "duration": 3600, 
+            "price": "130 € ", 
+            "description": "Beneficiate de este tratamiento novedoso que incluye dos sesiones de presoterapia y cavitación y que, además, incluye lo último en adelgazamiento: los parches It work, ésta novedosa técnica consiste en una tela impregnada con una fórmula botánica que ayuda a tensar, disminuir y a tonificar la piel en tan sólo 45 minutos. Ayuda a reducir la apariencia de celulitis y la flacidez."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Hidratación Manos Completa", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Aprovecha este tratamiento corporal de hidratación total para manos, que incluye peeling, guante de colágeno durante unos 20 minutos, y que además te damos para que los puedas usar en casa en dos ocasiones más, y por último, una manicura básica. Unas manos perfectas, nutridas y suaves. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Contorno Con Tinte De Pestañas", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Estupendo tratamiento de contorno de ojos, para una mirada más bonita reduciendo ojeras, bolsas o arrugas de expresión. Además incluimos un estupendo tinte de pestañas con hasta 21 días de duración, para que estés estupenda en cada ocasión, evento especial simplemente tu día a día. ¡Solo ponte en las manos de los profesionales!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal 5 Sesiones Piernas Cansadas", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "El servicio lo realizamos con vendas frías y después pasamos a la sesión de presoterapia, que a través de masajes suaves conseguimos activar y mejorar la circulación. Con la combinación de estas técnicas conseguimos reducir volumen y mejorar la circulación. ¡Solo ponte en las manos de los profesionales de nuestro centro Zenith!"
+        }
+    ]
+}

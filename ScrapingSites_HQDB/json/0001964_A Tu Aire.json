@@ -1,0 +1,343 @@
+{
+    "adid": null, 
+    "name": "A Tu Aire", 
+    "name_of_contact": "A Tu Aire", 
+    "scrape_page": "https://www.bucmi.com/atuairezaragoza", 
+    "business_website": "https://www.bucmi.com/atuairezaragoza", 
+    "areas_covered": null, 
+    "description": "A tu Aire es un salón de belleza ubicado en el Arrabal, que cuenta con servicios de peluqueria ocmo peinados, cortes.... y de estética como manicuras, pedicuras... Vive una experiencia única gracias a nuestro trato personalizado. No te arrepentirás.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636136825337334768.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636136825369365405.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636136825400614786.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Zaragoza", 
+    "zipcode": "50015", 
+    "formatted_address": "Zaragoza, 50005, Zaragoza, 50010, Zaragoza, 50008, Zaragoza, 50005, Zaragoza, 50008, Zaragoza, 50014, Zaragoza, 50015", 
+    "country": "es", 
+    "office_number": "976734467", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6607475000", 
+    "longitude": "-0.8723941000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635955440371354766.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Sesiones Presoterapia", 
+            "duration": 2700, 
+            "price": "100 € ", 
+            "description": "Consigue una silueta más esbelta con nuestro bono de 10 sesiones de presoterapia y plataforma vibratoria. Notarás como mejora tu circulación, se reduce la retención de líquidos y reduces volumen. Incluye 10 sesiones de 45 minutos cada una, a consumir en los dos meses sguientes, a contar desde la fecha de compra del bono."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre Jubilados", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Servicio especial para nuestros hombres jubilados. Disfruta de un corte de tendencia a un precio estupendo gracias a nuestros expertos estilistas de A Tu Aire. Te haremos un corte acorde a tu look y personalidad, lavado con champú y peinado. No incluye productos de styling tipo gomina o cera."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Raíz, Hidratación Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Raíz, Hidratación Y Peinado Corto Y Medio", 
+            "duration": 5400, 
+            "price": "33 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre Jubilados", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Servicio especial para nuestros hombres jubilados. Disfruta de un corte de tendencia a un precio estupendo gracias a nuestros expertos estilistas de A Tu Aire. Te haremos un corte acorde a tu look y personalidad, lavado con champú y peinado. No incluye productos de styling tipo gomina o cera."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Orgánico *Superpotenciador* Pelo Corto", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Orgánico *Superpotenciador* Media Melena", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz, Hidratación Y Peinado Extralargo", 
+            "duration": 7200, 
+            "price": "42 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz, Hidratación Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Orgánico *Superpotenciador* Pelo Largo", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz, Hidratación Y Peinado Corto Y Medio", 
+            "duration": 5400, 
+            "price": "33 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Orgánico Raíz *Nayo*", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Prueba nuestra gama de coloraciones Bemon y disfruta de un color brillante y lleno de vida gracias a la utilización de productos orgánicos de alta gama sobre tu tono natural. El servicio incluye la coloración de gama Nayo y el lavado con champú y mascarilla básica pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Orgánico Raíz *Yo Cond*", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Este servicio consiste en un potenciador natural del color con productos orgánicos. Si quieres que tu melena recupere el brillo perdido este es tu servicio estrella. Incluye la coloración de Bemon, el lavado con champú y mascarilla básica pero no incluye el peinado definido de la melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Orgánico Raíz *Yo Green*", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Esta gama de coloraciones Bemon consiste en una coloración de un tono sobre tu tono natural. Ideal si simplemente quieres darle un ligero cambio a tu melena. El servicio incluye la coloración y el lavado con champú y mascarilla básica, pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Disfruta de un corte de tendencia y a la moda gracias a nuestros expertos estilistas de A Tu Aire. Te haremos un corte acorde a tu look y personalidad, lavado con champú y peinado. No incluye productos de styling tipo gomina o cera."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Disfruta de un corte de tendencia y a la moda gracias a nuestros expertos estilistas de A Tu Aire. Te haremos un corte acorde a tu look y personalidad y lavado con champú y mascarilla básica, pero no incluye el peinado definido del pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Niñ@ Hasta 12 Años", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Tráete al más pequeño de la casa para que también le hagamos un corte de tendencia, que además incluye el lavado del pelo, y que sea el más guay del colegio. ¿A qué estás esperando para que venga a conocernos? Te va a encantar como le dejamos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Maquillaje Novia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Para que ese día no te tengas que ocupar de nada más, reserva online nuestro completo pack de novia de A Tu Aire y estarás estupenda ese día. El servicio el maquillaje de ese día tan señalado. ¡Quedarás estupenda en tus fotos de recuerdo!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Raíz Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "¿Notas tu melena apagada? ¿Quieres darle un toque de luz a tu melena imitando los efectos que el sol deja en tu cabello? Pues reserva en A Tu Aire nuestro completo servicio de mechas para la raíz, de un tono, que además incluye lavado con mascarilla básica, y peinado definido de la melena. Si quieres algún extra en tus mechas (mechas completas, dos tonos, etc.) consulta el suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Raíz Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "¿Notas tu melena apagada? ¿Quieres darle un toque de luz a tu melena imitando los efectos que el sol deja en tu cabello? Pues reserva en A Tu Aire nuestro completo servicio de mechas para la raíz, de un tono, que además incluye lavado con mascarilla básica, y peinado definido de la melena. Si quieres algún extra en tus mechas (mechas completas, dos tonos, etc.) consulta el suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Raíz Y Peinado Pelo Extralargo", 
+            "duration": 7200, 
+            "price": "39 € ", 
+            "description": "¿Notas tu melena apagada? ¿Quieres darle un toque de luz a tu melena imitando los efectos que el sol deja en tu cabello? Pues reserva en A Tu Aire nuestro completo servicio de mechas para la raíz, de un tono, que además incluye lavado con mascarilla básica, y peinado definido de la melena. Si quieres algún extra en tus mechas (mechas completas, dos tonos, etc.) consulta el suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Raíz Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "¿Notas tu melena apagada? ¿Quieres darle un toque de luz a tu melena imitando los efectos que el sol deja en tu cabello? Pues reserva en A Tu Aire nuestro completo servicio de mechas para la raíz, de un tono, que además incluye lavado con mascarilla básica, y peinado definido de la melena. Si quieres algún extra en tus mechas (mechas completas, dos tonos, etc.) consulta el suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novia", 
+            "duration": 9000, 
+            "price": "180 € ", 
+            "description": "Para que ese día no te tengas que ocupar de nada más, reserva online nuestro completo pack de novia de A Tu Aire y estarás estupenda ese día. El servicio incluye la prueba de peinado y de maquillaje y el peinado y maquillaje de ese día tan señalado. ¡Quedarás estupenda en tus fotos de recuerdo!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Media Melena", 
+            "duration": 2700, 
+            "price": "11 € ", 
+            "description": "Consigue una melena perfecta para cualquier ocasión o evento que se pueda presentar un un servicio de peinado asesorado. Incluye lavado con champú y mascarilla básica, peinado y productos de acabado. Este servicio es válido para largos de pelo hasta por encima de los hombros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Novia", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Para que ese día no te tengas que ocupar de nada más, reserva online nuestro completo pack de novia de A Tu Aire y estarás estupenda ese día. El servicio el peinado de ese día tan señalado. ¡Quedarás estupenda en tus fotos de recuerdo!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto", 
+            "duration": 1800, 
+            "price": "9 € ", 
+            "description": "Luce tu look de pelo corto perfecto gracias a nuestro servicio de peinado. Nuestros estilistas te lavarán con champú y mascarilla básica, te peinarán y te aplicarán un producto de acabado para que esté perfecto el máximo tiempo posible. Este servicio es válido para pelo corto 'estilo chico'."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Extralargo", 
+            "duration": 3600, 
+            "price": "14 € ", 
+            "description": "Consigue una melena de cine gracias a los cuidados y un peinado profesional realizado por nuestros estilistas. Incluye lavado con champú y mascarilla básica, peinado y productos de acabado. Este servicio es válido para melenas a partir de la mitad de la espalda o melenas más cortas pero muy densas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 2700, 
+            "price": "13 € ", 
+            "description": "Una melena como la tuya se merece que la mimen y la dejen perfecta las mejores manos posibles. Ven a visitarnos y disfruta de un peinado de la mano de nuestros profesionales. Lavamos el pelo con champú y mascarilla básica, peinamos y aplicamos producto de acabado. Servicio válido para largo de pelo hasta la mitad de la espalda."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Fiesta", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si tienes un evento importante, una cita a la que quieres ir guapa, una fiesta, una boda... lo que sea, no lo dudes más y reserva en A Tu Aire este servicio para que vayas perfecta. Déjate asesorar por nuestros expertos profesionales y no te vas a arrepentir de los resultados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Si tienes un evento importante, una cita a la que quieres ir guapa, una fiesta, una boda... lo que sea, no lo dudes más y reserva en A Tu Aire este servicio para que vayas perfecta. Déjate asesorar por nuestros expertos profesionales y no te vas a arrepentir de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Hombre Jubilados", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Servicio especial para nuestros hombres jubilados. Disfruta de un corte de tendencia a un precio estupendo gracias a nuestros expertos estilistas de A Tu Aire. Te haremos un corte acorde a tu look y personalidad, lavado con champú y peinado. No incluye productos de styling tipo gomina o cera."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Orgánico *Superpotenciador* Pelo Corto", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Orgánico *Superpotenciador* Media Melena", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz, Hidratación Y Peinado Extralargo", 
+            "duration": 7200, 
+            "price": "42 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz, Hidratación Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre Jubilados", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Servicio especial para nuestros hombres jubilados. Disfruta de un corte de tendencia a un precio estupendo gracias a nuestros expertos estilistas de A Tu Aire. Te haremos un corte acorde a tu look y personalidad, lavado con champú y peinado. No incluye productos de styling tipo gomina o cera."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Orgánico *Superpotenciador* Pelo Corto", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Orgánico *Superpotenciador* Media Melena", 
+            "duration": 3600, 
+            "price": "48 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz, Hidratación Y Peinado Extralargo", 
+            "duration": 7200, 
+            "price": "42 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz, Hidratación Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "Disfruta de una coloración uniforme y retoca tu color para que luzca perfecto. Déjate asesorar por nuestros expertos estilistas y no te arrepentirás del resultado. Además de la coloración, lavado con champú y mascarilla básica, y peinado definida de la melena. Aprovecha esta promoción y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Orgánico *Superpotenciador* Pelo Largo", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre Jubilados", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Servicio especial para nuestros hombres jubilados. Disfruta de un corte de tendencia a un precio estupendo gracias a nuestros expertos estilistas de A Tu Aire. Te haremos un corte acorde a tu look y personalidad, lavado con champú y peinado. No incluye productos de styling tipo gomina o cera."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Orgánico *Superpotenciador* Pelo Corto", 
+            "duration": 3600, 
+            "price": "43 € ", 
+            "description": "Este servicio consiste en la combinación de nuestras coloraciones orgánicas de Bemon con lo que se consigue un efecto superpotente de color. Incluye la coloración Nayo, Yo Green y Yo Cond combinadas, el lavado con champú y mascarilla básica pero no el peinado. No lo dudes más y haz tu reserva."
+        }
+    ]
+}

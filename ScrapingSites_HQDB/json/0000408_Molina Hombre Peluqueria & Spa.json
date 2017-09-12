@@ -1,0 +1,136 @@
+{
+    "adid": null, 
+    "name": "Molina Hombre Peluquería & Spa", 
+    "name_of_contact": "Molina Hombre Peluquería & Spa", 
+    "scrape_page": "https://www.bucmi.com/molinacaballeros", 
+    "business_website": "https://www.bucmi.com/molinacaballeros", 
+    "areas_covered": null, 
+    "description": "Molina Peluqueros es un salón en Moratalaz orientado a atender la salud y el bienestar capilar. Contamos con profesionales que diagnostican y tratan las necesidades del cabello. Trabajamos con los mejores productos del mercado y todo con la mejor calidad", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635969204653720872.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635969204653060911.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635969204653961211.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635969204654700277.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635969204652480930.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635969204655870225.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Goya, 30", 
+    "city": "Madrid", 
+    "zipcode": "28030", 
+    "formatted_address": "C/ Goya, 30, Madrid, 28030", 
+    "country": "es", 
+    "office_number": "914309738", 
+    "office_number2": null, 
+    "mobile_number": "640606122", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4096380000", 
+    "longitude": "-3.6491843999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971823852096839.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Afeitado Clásico", 
+            "duration": 1800, 
+            "price": "34,5 € ", 
+            "description": "Disfruta de un afeitado a navaja de la mano de nuestro barber. Una experiencia premium con masaje de cara. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Premium Y Diseño De Barba", 
+            "duration": 3600, 
+            "price": "43,5 € ", 
+            "description": "El cuidado de los detalles, las ganas de ir más allá, nos obligan a diseñar un servicio como éste. Estudio del visajismo y estilo personal para comprender. Diagnóstico del cuero cabelludo para tratar, spa capilar para sublimar y tiempo para cuidar los detalles. Si tienes ganas de una buena experiencia, no te lo pienses más. Contamos con los mejores productos de la mano de American Crew."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Lavado Hombre", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "El servicio incluye, lavado, asesoramiento de imagen, corte de caballero y peinado. Incluye productos de peinado American Crew. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño De Barba", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Da un aspecto cuidado a tu barba gracias a los profesionales de Molina Hombre. Que llevar barba no sea antónimo a elegante. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Matizador Canas Y Corte Hombre", 
+            "duration": 2700, 
+            "price": "34,5 € ", 
+            "description": "Las canas también son tendencia. Asesoramiento de imagen, corte de pelo y matizado de las canas con un acabado muy natural. Lavado con productos de tratamiento L'OREAL y KERASTASE y peinado profesional. Incluye productos de peinado American Crew. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Clásico", 
+            "duration": 1800, 
+            "price": "34,5 € ", 
+            "description": "Disfruta de un afeitado a navaja de la mano de nuestro barber. Una experiencia premium con masaje de cara. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Niño (Hasta 10 Años)", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¡Que tus hijos también se sientan en las últimas tendencias a manos de los profesionales de Molina Hombre! Cada niño tiene su tiempo de corte. No lo dudes y haz tu reserva con Bucmi.com y no te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Premium Y Diseño De Barba", 
+            "duration": 3600, 
+            "price": "43,5 € ", 
+            "description": "El cuidado de los detalles, las ganas de ir más allá, nos obligan a diseñar un servicio como éste. Estudio del visajismo y estilo personal para comprender. Diagnóstico del cuero cabelludo para tratar, spa capilar para sublimar y tiempo para cuidar los detalles. Si tienes ganas de una buena experiencia, no te lo pienses más. Contamos con los mejores productos de la mano de American Crew."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Lavado Hombre", 
+            "duration": 1800, 
+            "price": "21 € ", 
+            "description": "El servicio incluye, lavado, asesoramiento de imagen, corte de caballero y peinado. Incluye productos de peinado American Crew. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Diseño De Barba", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Da un aspecto cuidado a tu barba gracias a los profesionales de Molina Hombre. Que llevar barba no sea antónimo a elegante. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Ritual Spa Capilar Y Corte Hombre", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "El servicio incluye asesoramiento de imagen, corte de caballeros y lavado de cabeza en nuestra zona spa. Sobre un lava cabezas que le recuesta en horizontal y proporciona un masaje en piernas y espalda. Con música relajante y cromoterapia."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "El servicio consiste en un asesoramiento de imagen personalizado, corte de caballero (en seco) y peinado. Incluye productos de peinado American Crew. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Matizador Canas Y Corte Hombre", 
+            "duration": 2700, 
+            "price": "34,5 € ", 
+            "description": "Las canas también son tendencia. Asesoramiento de imagen, corte de pelo y matizado de las canas con un acabado muy natural. Lavado con productos de tratamiento L'OREAL y KERASTASE y peinado profesional. Incluye productos de peinado American Crew. En Molina Peluqueros nos preocupamos del cuidado de la imagen de los hombres desde hace años. ¡Que no se diga que no nos preocupa nuestra imagen!"
+        }
+    ]
+}

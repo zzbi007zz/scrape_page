@@ -1,0 +1,121 @@
+{
+    "adid": null, 
+    "name": "Caleruega y Arte", 
+    "name_of_contact": "Caleruega y Arte", 
+    "scrape_page": "https://www.bucmi.com/caleruegayarte", 
+    "business_website": "https://www.bucmi.com/caleruegayarte", 
+    "areas_covered": null, 
+    "description": "El centro de estética y peluquería Caleruega y Arte situado en Pinar de Chamartín, Madrid, ofrece gran variedad de servicios relacionados con tu melena o incluso servicios de uñas tales como manicuras y pedicuras. No esperes más y reserva tu cita online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636028221644552006.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636028221673772887.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636028221711275751.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636028221734246334.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636028221767067079.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Arte, 18", 
+    "city": "Madrid", 
+    "zipcode": "28033", 
+    "formatted_address": "C/ Arte, 18, Madrid, 28033", 
+    "country": "es", 
+    "office_number": "913838645", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4827778000", 
+    "longitude": "-3.6704027000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636028231234722054.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Mujer Sólo Puntas", 
+            "duration": 900, 
+            "price": "18,8 € ", 
+            "description": "¿Te ha crecido el pelo casi sin darte cuenta y has perdido tu look? Ven a Caleruega y Arte y retocaremos el largo de tu pelo con este servicio de corte para las puntas. Tu largo quedará intacto y tu look volverá a estar perfecto. Incluye lavado con champú y corte. No incluye peinado, si se desea se cobrará a parte en el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Ingles Normales", 
+            "duration": 900, 
+            "price": "6,9 € ", 
+            "description": "La depilación tradicional más duradera es la cera, pero en zonas tan sensibles como las ingles, lo mejor es dejarla en manos de buenas esteticistas. En 10 minutos te realizamos la depilación con cera caliente de ingles normales. ¿A qué esperas para reservar?"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "15,1 € ", 
+            "description": "Si no tienes demasiada maña para hacerte las uñas, deja esta tarea en manos de nuestras especialistas. Damos forma a tus uñas (cortar y limar), tratamos las cutículas y maquillamos tus uñas con el color que prefieras a elegir entre una amplia gama."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte de Pelo para Mujer Cambio de Look", 
+            "duration": 2700, 
+            "price": "27,7 € ", 
+            "description": "¿Te has cansado del pelo largo pero te gusta tu color? Dale un cambio a tu pelo con un corte radical, reservando este servicio de cambio de look. Incluye lavado con champú y corte de pelo asesorado. No incluye peinado. Si se desea peinado se cobrará en el centro aparte."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 2700, 
+            "price": "40,6 € ", 
+            "description": "Sea verano o no, no tienes por qué renunciar a esos matices tan bonitos que crea el sol sobre tu pelo. Consíguelos sea la estación que sea con unas mechas californianas. Te aplicaremos las mechas y te lavaremos el pelo con champú. El servicio no incluye peinado ni hidratación en el lavado, pagándose un extra en el centro en caso de querer incluirlo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Mujer Sólo Puntas", 
+            "duration": 900, 
+            "price": "18,8 € ", 
+            "description": "¿Te ha crecido el pelo casi sin darte cuenta y has perdido tu look? Ven a Caleruega y Arte y retocaremos el largo de tu pelo con este servicio de corte para las puntas. Tu largo quedará intacto y tu look volverá a estar perfecto. Incluye lavado con champú y corte. No incluye peinado, si se desea se cobrará a parte en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte de Pelo para Mujer Cambio de Look", 
+            "duration": 2700, 
+            "price": "27,7 € ", 
+            "description": "¿Te has cansado del pelo largo pero te gusta tu color? Dale un cambio a tu pelo con un corte radical, reservando este servicio de cambio de look. Incluye lavado con champú y corte de pelo asesorado. No incluye peinado. Si se desea peinado se cobrará en el centro aparte."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Californianas", 
+            "duration": 2700, 
+            "price": "40,6 € ", 
+            "description": "Sea verano o no, no tienes por qué renunciar a esos matices tan bonitos que crea el sol sobre tu pelo. Consíguelos sea la estación que sea con unas mechas californianas. Te aplicaremos las mechas y te lavaremos el pelo con champú. El servicio no incluye peinado ni hidratación en el lavado, pagándose un extra en el centro en caso de querer incluirlo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte de Pelo para Mujer Cambio de Look", 
+            "duration": 2700, 
+            "price": "27,7 € ", 
+            "description": "¿Te has cansado del pelo largo pero te gusta tu color? Dale un cambio a tu pelo con un corte radical, reservando este servicio de cambio de look. Incluye lavado con champú y corte de pelo asesorado. No incluye peinado. Si se desea peinado se cobrará en el centro aparte."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas", 
+            "duration": 2700, 
+            "price": "40,6 € ", 
+            "description": "Sea verano o no, no tienes por qué renunciar a esos matices tan bonitos que crea el sol sobre tu pelo. Consíguelos sea la estación que sea con unas mechas californianas. Te aplicaremos las mechas y te lavaremos el pelo con champú. El servicio no incluye peinado ni hidratación en el lavado, pagándose un extra en el centro en caso de querer incluirlo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Para Mujer Sólo Puntas", 
+            "duration": 900, 
+            "price": "18,8 € ", 
+            "description": "¿Te ha crecido el pelo casi sin darte cuenta y has perdido tu look? Ven a Caleruega y Arte y retocaremos el largo de tu pelo con este servicio de corte para las puntas. Tu largo quedará intacto y tu look volverá a estar perfecto. Incluye lavado con champú y corte. No incluye peinado, si se desea se cobrará a parte en el centro."
+        }
+    ]
+}

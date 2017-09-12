@@ -1,0 +1,178 @@
+{
+    "adid": null, 
+    "name": "Ameris", 
+    "name_of_contact": "Ameris", 
+    "scrape_page": "https://www.bucmi.com/peluqueriaameris", 
+    "business_website": "https://www.bucmi.com/peluqueriaameris", 
+    "areas_covered": null, 
+    "description": "En Ameris sabemos que tu tiempo es muy valioso por eso te damos una cita y así puedas ser atendida sin demoras ni esperas, tenemos una atención personalizada para cada uno de nuestros clientes. ¡Ven a conocernos en pleno barrio de Azca y te encantará!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914742015963853.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914742044557236.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914742077994615.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914742100025816.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914742122525749.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635914742141915241.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "3", 
+    "hqdb_review_score": "9,3", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28020", 
+    "formatted_address": "Madrid, 28025, Madrid, 28008, Madrid, 28020", 
+    "country": "es", 
+    "office_number": "915551027", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4491106000", 
+    "longitude": "-3.6965897999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635972056878971347.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "¿Es hora de aplicar el color en tu cabello? En Peluquería Ameris nos aseguramos de que el resultado sea perfecto. Este servicio incluye la coloración y secado final del cabello. Servicio para cualquier largo de cabello, incluye el lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Básica", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Servicio para el cuidado de tus manos. Incluye: limado, cortado de la uña, retirada de cutículas si se desea, esmaltado e hidratación básica. Esmaltado de color o francesa ¡Manos listas en 30 min!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manipedi Shellac", 
+            "duration": 7200, 
+            "price": "75 € ", 
+            "description": "Tus manos y pies perfectos durante más tiempo y al mejor precio. Para tus manos un servicio completo de manicura y lo mismo para tus pies, el servicio incluye el tratamiento de durezas. El esmaltado semipermanente Shellac hará que te olvides de tu manipedi por más tiempo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Secado Natural", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿Es hora de aplicar un cambio en tu cabello? En Peluquería Ameris nos aseguramos de que el resultado sea perfecto. Este servicio incluye el corte y secado natural del cabello. Servicio para cualquier largo de cabello, incluye el lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "¿Es hora de aplicar el color en tu cabello? En Peluquería Ameris nos aseguramos de que el resultado sea perfecto. Este servicio incluye la coloración y secado final del cabello. Servicio para cualquier largo de cabello, incluye el lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Y Peinado", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Tu corte de pelo en manos de los mejores profesionales. El servicio incluye lavar, productos de acondicionado del cabello, corte y peinado. El precio es igual en todos los largos del cabello."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Una mechas perfectamente trabajadas en Peluquería Ameris. El servicio incluye: Lavar y mechas de plata o peine. No incluye peinado, si lavado y acondicionador. Apto para todos los largos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Cualquier Largo", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "El servicio incluye lavado del cabello con productos acondicionadores del cabello y peinado final. Para cabellos extralargos, o que requieran un trabajo especial del cabello se abonará la diferencia en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto. Protocolo De Reconstrucción Capilar", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Quieres lucir un pelo hidratado, cuidado y sano este verano? No lo dudes y reserva ya este tratamiento de reconstrucción capilar que te permitirá lucir una melena envidiable. Sobre todo recomendable para temporadas en las que el pelo se daña fácilmente. Utilizamos productos de primeras marcas. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Express En Raíz", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Tu servicio de coloración en tan solo 10m'. Incluye solo color en raíz, lavado y secado natural. Que el tiempo no sea una excusa. Para pelos muy largos, o que requieran un gran trabajo en el secado se pagará un suplemento en el centro. El lavado y acondicionador van incluidos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Y Secado Natural", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿Es hora de aplicar un cambio en tu cabello? En Peluquería Ameris nos aseguramos de que el resultado sea perfecto. Este servicio incluye el corte y secado natural del cabello. Servicio para cualquier largo de cabello, incluye el lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Secado Natural", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿Es hora de aplicar un cambio en tu cabello? En Peluquería Ameris nos aseguramos de que el resultado sea perfecto. Este servicio incluye el corte y secado natural del cabello. Servicio para cualquier largo de cabello, incluye el lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "¿Es hora de aplicar el color en tu cabello? En Peluquería Ameris nos aseguramos de que el resultado sea perfecto. Este servicio incluye la coloración y secado final del cabello. Servicio para cualquier largo de cabello, incluye el lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Mujer Y Peinado", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Tu corte de pelo en manos de los mejores profesionales. El servicio incluye lavar, productos de acondicionado del cabello, corte y peinado. El precio es igual en todos los largos del cabello."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Una mechas perfectamente trabajadas en Peluquería Ameris. El servicio incluye: Lavar y mechas de plata o peine. No incluye peinado, si lavado y acondicionador. Apto para todos los largos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peinado Cualquier Largo", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "El servicio incluye lavado del cabello con productos acondicionadores del cabello y peinado final. Para cabellos extralargos, o que requieran un trabajo especial del cabello se abonará la diferencia en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Y Secado Natural", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¿Es hora de aplicar un cambio en tu cabello? En Peluquería Ameris nos aseguramos de que el resultado sea perfecto. Este servicio incluye el corte y secado natural del cabello. Servicio para cualquier largo de cabello, incluye el lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Y Peinado", 
+            "duration": 5400, 
+            "price": "42,5 € ", 
+            "description": "¿Es hora de aplicar el color en tu cabello? En Peluquería Ameris nos aseguramos de que el resultado sea perfecto. Este servicio incluye la coloración y secado final del cabello. Servicio para cualquier largo de cabello, incluye el lavado y acondicionador."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Mujer Y Peinado", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Tu corte de pelo en manos de los mejores profesionales. El servicio incluye lavar, productos de acondicionado del cabello, corte y peinado. El precio es igual en todos los largos del cabello."
+        }
+    ]
+}

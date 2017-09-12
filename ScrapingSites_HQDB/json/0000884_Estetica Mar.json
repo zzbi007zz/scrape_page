@@ -1,0 +1,128 @@
+{
+    "adid": null, 
+    "name": "Estética Mar", 
+    "name_of_contact": "Estética Mar", 
+    "scrape_page": "https://www.bucmi.com/esteticamar", 
+    "business_website": "https://www.bucmi.com/esteticamar", 
+    "areas_covered": null, 
+    "description": "Centro de estética Mar es un espacio integral ubicado en la zona de la Castellana, en Madrid. Aquí encontrarás diversos tratamientos faciales y corporales, depilación láser, masajes reductores y anticelulíticos, pedicura, manicura y limpieza de cutis.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635639265204610114.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635639265253676322.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635639265346964859.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635639265449787601.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635639265532606486.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "10", 
+    "hqdb_review_score": "8,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cactus, 32", 
+    "city": "Madrid", 
+    "zipcode": "28006", 
+    "formatted_address": "C/ Cactus, 32, Madrid, 28006", 
+    "country": "es", 
+    "office_number": "915632438", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4359532000", 
+    "longitude": "-3.6812601999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635973752151645120.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Y Peeling Ultrasónico", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "¡Limpia tu rostro en profundidad reservando nuestra higiene facial con peeling ultrasónico! El servicio incluye 2 masajes faciales, al principio y al final de la sesión, peeling con ultrasonidos, vapor ozono, extracción, mascarilla y finalizamos con aceite esencial de romero."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Circulatorio Y Drenaje Linfático Piernas", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "¡Reserva nuestro masaje circulatorio con drenaje linfático para la zona de las piernas! Mejora la eliminación de líquidos retenidos en tus piernas, evita la sensación de pesadez y reduce volumen y celulitis."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Gracias a nuestro servicio de radiofrecuencia facial ayudarás a reducir las arrugas y líneas de expresión. También redefinirás el óvalo facial. Ven a conocernos a nuestro Centro de Estética Mar, ¡no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Peeling Ultrasónico", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "¡Limpia tu rostro en profundidad reservando nuestra higiene facial con peeling ultrasónico! El servicio incluye 2 masajes faciales, al principio y al final de la sesión, peeling con ultrasonidos, vapor ozono, extracción, mascarilla y finalizamos con aceite esencial de romero."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Ss Cavitación Y Presoterapia (1H Y 15Min)", 
+            "duration": 3600, 
+            "price": "250 € ", 
+            "description": "Consigue el cuerpo que siempre has querido de la mano de los mejores profesionales gracias a este bono de 10 sesiones de cavitación y presoterapia. La duración del servicio es de 1 hora y 15 minutos. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Circulatorio Y Drenaje Linfático Piernas", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "¡Reserva nuestro masaje circulatorio con drenaje linfático para la zona de las piernas! Mejora la eliminación de líquidos retenidos en tus piernas, evita la sensación de pesadez y reduce volumen y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "6 Sesiones Láser Rejuvenecimiento Facial", 
+            "duration": 1800, 
+            "price": "180 € ", 
+            "description": "¡Aprovecha nuestro bono de 6 sesiones de nuestro láser de rejuvenecimiento facial! Gracias a este servicio conseguimos reducir las líneas de expresión, redefine el óvalo facial, activa el colágeno y la elastina para una hidratación en profundidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "6 Sesiones Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "150 € ", 
+            "description": "Este servicio ayuda a reducir las líneas de expresión, redefine el óvalo facial, activa el colágeno y la elastina para una hidratación profunda. ¡No lo dudes más y reserva nuestro bono de 6 sesiones de radiofrecuencia para el rostro!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Láser Rejuvenecimiento Facial", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "¿A qué esperas para reservar nuestro láser de rejuvenecimiento facial? Reduce líneas de expresión, redefine el óvalo facial, activa el colágeno y la elastina para una hidratación profunda. ¡Presume de un rostro rejuvenecido!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Gracias a nuestro servicio de radiofrecuencia facial ayudarás a reducir las arrugas y líneas de expresión. También redefinirás el óvalo facial. Ven a conocernos a nuestro Centro de Estética Mar, ¡no te arrepentirás!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Y Peeling Ultrasónico", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "¡Limpia tu rostro en profundidad reservando nuestra higiene facial con peeling ultrasónico! El servicio incluye 2 masajes faciales, al principio y al final de la sesión, peeling con ultrasonidos, vapor ozono, extracción, mascarilla y finalizamos con aceite esencial de romero."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Y Peeling Ultrasónico", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "¡Limpia tu rostro en profundidad reservando nuestra higiene facial con peeling ultrasónico! El servicio incluye 2 masajes faciales, al principio y al final de la sesión, peeling con ultrasonidos, vapor ozono, extracción, mascarilla y finalizamos con aceite esencial de romero."
+        }
+    ]
+}

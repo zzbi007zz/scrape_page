@@ -1,0 +1,331 @@
+{
+    "adid": null, 
+    "name": "Estética Johanna", 
+    "name_of_contact": "Estética Johanna", 
+    "scrape_page": "https://www.bucmi.com/estetica-johanna", 
+    "business_website": "https://www.bucmi.com/estetica-johanna", 
+    "areas_covered": null, 
+    "description": "Estética Johanna es tu centro de belleza en Barcelona. Podrás encontrar una variedad de servicios de estética desde tratamientos faciales, corporales, depilaciones o manicuras. Nos encontramos dentro de Peluquería Botero. Preguntar por Johanna. ¡Conócenos!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636402160183559171.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636402160276857115.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636402160289202488.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636402160329209977.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636402160362028375.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "13", 
+    "hqdb_review_score": "8,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bonavista, 25", 
+    "city": "Barcelona", 
+    "zipcode": "Barcelona", 
+    "formatted_address": "C/ Bonavista, 25, Barcelona, Barcelona", 
+    "country": "es", 
+    "office_number": "932229044", 
+    "office_number2": null, 
+    "mobile_number": "685038283", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4042058000", 
+    "longitude": "2.1715447999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636402163835213798.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Chocolaterapia,+ Masaje De Espalda +Hidratación", 
+            "duration": 3600, 
+            "price": "29,9 € ", 
+            "description": "No hay palabra más agradable de leer que 'chocolaterapia'. 60 minutos de máxima relajación y desconexión, con nuestro maravilloso tratamiento de chocolaterapia, combinado con un masaje de Espalda de un cuarto de hora, relajante y finalizando con una hidratación máxima. Tu piel brillante e hidratada y una relajación mental y corporal inigualable."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Cuerpo Entero Femenina", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Elimina durante semanas el vello corporal que tanto te incomoda. En nuestro centro utilizamos cera templada o cera caliente para obtener unos resultaos inmejorables. Luce una piel libre de vello y con un tacto de lo más suave."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensión De Pestañas Pelo A Pelo.", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Luce una mirada y unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas Pelo a Pelo! disfruta de ella, duras entre 3 a 4 semanas. Se realiza Pelo a Pelo y se aplica la cantidad que se necesite en cada caso. Aprovécha y No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensión De Pestañas Postizas Para Un Evento.", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas postizas. Si tienes un evento o una fiesta disfruta de ellas, Se realiza por grupos de 4 pelitos y se aplica la cantidad que se necesite, es para un evento. Aprovécha nuestra promoción. No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Depilación De Cejas Y Diseño Con Henna", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Le damos el diseño deseado a tus cejas y finalmente definidas con henna, el tratamiento dura entre 10/15 dias."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte De Pestañas Y Diseño De Cejas Con Henna", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "¡Luce tu mirada potenciando la belleza de tus ojos y tus pestañas gracias al efecto del tinte!. Gracias a esta oferta conseguirás tenerlas perfectas sin necesidad de aplicarles rímel, y para finalizar diseñamos y definimos tu cejas con henna. Pide tu cita a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Depilación De Cejas Y Diseño Con Henna", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Le damos el diseño deseado a tus cejas y finalmente definidas con henna, el tratamiento dura entre 10/15 dias."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas Y Diseño De Cejas Con Henna", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "¡Luce tu mirada potenciando la belleza de tus ojos y tus pestañas gracias al efecto del tinte!. Gracias a esta oferta conseguirás tenerlas perfectas sin necesidad de aplicarles rímel, y para finalizar diseñamos y definimos tu cejas con henna. Pide tu cita a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas Pelo A Pelo.", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Luce una mirada y unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas Pelo a Pelo! disfruta de ella, duras entre 3 a 4 semanas. Se realiza Pelo a Pelo y se aplica la cantidad que se necesite en cada caso. Aprovécha y No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas Postizas Para Un Evento.", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas postizas. Si tienes un evento o una fiesta disfruta de ellas, Se realiza por grupos de 4 pelitos y se aplica la cantidad que se necesite, es para un evento. Aprovécha nuestra promoción. No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Completa Unisex.", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Tu piel radiante gracias a nuestra profesionalidad. Disfruta de 45 minutos de relajación mientras ponemos tu piel a punto. Higiene facial completa que incluye limpieza, extracción, peeling, mascarilla hidratante y un breve masaje final. Presume de una piel perfecta, suave y libre de impurezas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis Y Esmaltado De Uñas", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Porque nos gusta que te sientas guapa, te ofrecemos un pack de limpieza de cutis y esmaltado de uñas de las manos. La higiene facial incluye limpieza, extracción, peeling, mascarilla hidratante y masaje final. La manera más agradable, facil y cómoda de lucir una piel perfecta, libre de impurezas y radiante. Elige el tono de esmalte que más va contigo, y ¡presume de manos bonitas!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Día", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "¿Tienes un evento de día y no sabes cómo maquillarte? ¡Te ayudamos y aconsejamos qué maquillaje es el que más se adapta a ti!. No esperes más y reserva ya en Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Noche", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¿Tienes un evento de noche y no sabes cómo maquillarte? Te aconsejamos qué maquillaje es el que más se adapta a ti. ¡Nuestros profesionales te dejarán espectacular!. ¡Podrás ser así la auténtica estrella de la fiesta!. Reserva ya en Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack De 3 Sesiones De Limpieza De Cutis", 
+            "duration": 2700, 
+            "price": "60 € ", 
+            "description": "Tu piel radiante gracias a nuestra profesionalidad. Disfruta de 45 minutos de relajación mientras ponemos tu piel a punto. Higiene facial completa que incluye limpieza, extracción, peeling, mascarilla hidratante y un breve masaje final. Presume de una piel perfecta, suave y libre de impurezas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack De 4 Sesiones De Masaje Anticelulítico", 
+            "duration": 900, 
+            "price": "69 € ", 
+            "description": "Disfruta de este Pack de Masaje anticelulítico de 20 minutos cada sesión, ya que este tratamiento rompe la grasa, moviliza líquidos acumulados y facilita la penetración de las cremas anticelulíticas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Con Sal Del Mar Muerto+Hidratació", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Peeling Corporal. Porque nos gusta mimar a nuestros clientes, por eso, ofrecemos este magnífico servicio de peeling corporal con sales del mar muerto, para poner tu cuerpo a punto e hidratada. Consigue una piel más firme y tersa, gracias a estas sales que activa tu piel y elimina las celulas muertas . ¡Cuerpo más sano de la mano de los mejores profesionales"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Masaje Anticelulítico", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Porque nos gusta mimar a nuestros clientes, por eso, ofrecemos este magnífico peeling corporal y masaje anticelulítico, para poner tu cuerpo a punto. Consigue una piel más firme y tersa, gracias al masaje anticelulítico que activa la circulación y mueve la grasa localizada. ¡Cuerpo más sano de la mano de los mejores profesionales!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Relleno De Extension De Pestañas Pelo A Pelo", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Ven a rellenar tus pestañas postizas, es recomendable volver a visitar a tu profesional cada dos a tres semanas para reponer las pestañas que van perdiéndose y realzar tu mirada. Disfruta de una mirada infinita con unas pestañas efecto mariposa. Llama y pide tu cita!!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rizado Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "26 € ", 
+            "description": "Luce una mirada bonita y seductora. Tener una curvatura perfecta en nuestras pestañas resaltará nuestra belleza natural."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rizado Permanente De Pestañas, Tinte, Diseño Cejas", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¡Luce una mirada de impacto potenciando la belleza de tus ojos y tus pestañas gracias al efecto del tinte y permanente de pestañas!.Gracias a esta oferta de belleza de pestañas conseguirás tenerlas perfectas sin necesidad de aplicarles ningún producto. Y para finalizar, diseñamos y damos forma a tus cejas depilándolas. Reserva tu cita en Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "16 € ", 
+            "description": "¡Luce una mirada natural potenciando la belleza de tus ojos y tus pestañas gracias al efecto del tinte!. Gracias a esta oferta no tienes necesidad de aplicarles ningún producto. ¡Te encantarán!. Reserva ya a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Depilación De Cejas Y Diseño Con Henna", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Le damos el diseño deseado a tus cejas y finalmente definidas con henna, el tratamiento dura entre 10/15 dias."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte De Pestañas Y Diseño De Cejas Con Henna", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "¡Luce tu mirada potenciando la belleza de tus ojos y tus pestañas gracias al efecto del tinte!. Gracias a esta oferta conseguirás tenerlas perfectas sin necesidad de aplicarles rímel, y para finalizar diseñamos y definimos tu cejas con henna. Pide tu cita a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas Pelo A Pelo.", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Luce una mirada y unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas Pelo a Pelo! disfruta de ella, duras entre 3 a 4 semanas. Se realiza Pelo a Pelo y se aplica la cantidad que se necesite en cada caso. Aprovécha y No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas Postizas Para Un Evento.", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas postizas. Si tienes un evento o una fiesta disfruta de ellas, Se realiza por grupos de 4 pelitos y se aplica la cantidad que se necesite, es para un evento. Aprovécha nuestra promoción. No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Completa Unisex.", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Tu piel radiante gracias a nuestra profesionalidad. Disfruta de 45 minutos de relajación mientras ponemos tu piel a punto. Higiene facial completa que incluye limpieza, extracción, peeling, mascarilla hidratante y un breve masaje final. Presume de una piel perfecta, suave y libre de impurezas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza De Cutis Y Esmaltado De Uñas", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Porque nos gusta que te sientas guapa, te ofrecemos un pack de limpieza de cutis y esmaltado de uñas de las manos. La higiene facial incluye limpieza, extracción, peeling, mascarilla hidratante y masaje final. La manera más agradable, facil y cómoda de lucir una piel perfecta, libre de impurezas y radiante. Elige el tono de esmalte que más va contigo, y ¡presume de manos bonitas!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Depilación De Cejas Y Diseño Con Henna", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Le damos el diseño deseado a tus cejas y finalmente definidas con henna, el tratamiento dura entre 10/15 dias."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte De Pestañas Y Diseño De Cejas Con Henna", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "¡Luce tu mirada potenciando la belleza de tus ojos y tus pestañas gracias al efecto del tinte!. Gracias a esta oferta conseguirás tenerlas perfectas sin necesidad de aplicarles rímel, y para finalizar diseñamos y definimos tu cejas con henna. Pide tu cita a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Extensión De Pestañas Pelo A Pelo.", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Luce una mirada y unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas Pelo a Pelo! disfruta de ella, duras entre 3 a 4 semanas. Se realiza Pelo a Pelo y se aplica la cantidad que se necesite en cada caso. Aprovécha y No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Extensión De Pestañas Postizas Para Un Evento.", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas postizas. Si tienes un evento o una fiesta disfruta de ellas, Se realiza por grupos de 4 pelitos y se aplica la cantidad que se necesite, es para un evento. Aprovécha nuestra promoción. No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza De Cutis Completa Unisex.", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Tu piel radiante gracias a nuestra profesionalidad. Disfruta de 45 minutos de relajación mientras ponemos tu piel a punto. Higiene facial completa que incluye limpieza, extracción, peeling, mascarilla hidratante y un breve masaje final. Presume de una piel perfecta, suave y libre de impurezas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación De Cejas Y Diseño Con Henna", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Le damos el diseño deseado a tus cejas y finalmente definidas con henna, el tratamiento dura entre 10/15 dias."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas Y Diseño De Cejas Con Henna", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "¡Luce tu mirada potenciando la belleza de tus ojos y tus pestañas gracias al efecto del tinte!. Gracias a esta oferta conseguirás tenerlas perfectas sin necesidad de aplicarles rímel, y para finalizar diseñamos y definimos tu cejas con henna. Pide tu cita a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensión De Pestañas Pelo A Pelo.", 
+            "duration": 5400, 
+            "price": "49 € ", 
+            "description": "Luce una mirada y unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas Pelo a Pelo! disfruta de ella, duras entre 3 a 4 semanas. Se realiza Pelo a Pelo y se aplica la cantidad que se necesite en cada caso. Aprovécha y No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensión De Pestañas Postizas Para Un Evento.", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Luce unas pestañas más densas y largas, puedes conseguirlo con nuestra extensión de pestañas postizas. Si tienes un evento o una fiesta disfruta de ellas, Se realiza por grupos de 4 pelitos y se aplica la cantidad que se necesite, es para un evento. Aprovécha nuestra promoción. No esperes más!!!!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis Completa Unisex.", 
+            "duration": 2700, 
+            "price": "25 € ", 
+            "description": "Tu piel radiante gracias a nuestra profesionalidad. Disfruta de 45 minutos de relajación mientras ponemos tu piel a punto. Higiene facial completa que incluye limpieza, extracción, peeling, mascarilla hidratante y un breve masaje final. Presume de una piel perfecta, suave y libre de impurezas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis Y Esmaltado De Uñas", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "Porque nos gusta que te sientas guapa, te ofrecemos un pack de limpieza de cutis y esmaltado de uñas de las manos. La higiene facial incluye limpieza, extracción, peeling, mascarilla hidratante y masaje final. La manera más agradable, facil y cómoda de lucir una piel perfecta, libre de impurezas y radiante. Elige el tono de esmalte que más va contigo, y ¡presume de manos bonitas!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje De Día", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "¿Tienes un evento de día y no sabes cómo maquillarte? ¡Te ayudamos y aconsejamos qué maquillaje es el que más se adapta a ti!. No esperes más y reserva ya en Bucmi.com."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Depilación De Cejas Y Diseño Con Henna", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Le damos el diseño deseado a tus cejas y finalmente definidas con henna, el tratamiento dura entre 10/15 dias."
+        }
+    ]
+}

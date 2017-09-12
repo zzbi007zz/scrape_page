@@ -1,0 +1,266 @@
+{
+    "adid": null, 
+    "name": "Lola Romero", 
+    "name_of_contact": "Lola Romero", 
+    "scrape_page": "https://www.bucmi.com/lolaromero", 
+    "business_website": "https://www.bucmi.com/lolaromero", 
+    "areas_covered": null, 
+    "description": "Centro de estética y belleza. Realizamos un amplio y variado abanico de servicios como: Manicura, Pedicuras, Depilaciones, Tratamientos Corporales y Faciales, Masajes Anticeluliticos y Relajantes. Terapias Alternativas, Alineación de Chakras.. etc.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635455148323415457.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635455148324040506.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635455148325290678.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "5", 
+    "hqdb_review_score": "8,8", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Tarrega, 20", 
+    "city": "Barcelona", 
+    "zipcode": "08034", 
+    "formatted_address": "C/ Tarrega, 20, Barcelona, 08034", 
+    "country": "es", 
+    "office_number": "932054288", 
+    "office_number2": null, 
+    "mobile_number": "610106306", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3954283000", 
+    "longitude": "2.1239230999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635967732848743190.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Con Esmaltado", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Manicura y pedicura tradicional, podrás elegir entre nuestra amplia gama de colores! Un servicio que cuidará tus manos y tus pies con un esmaltado único. Si te apetece relajarte, nuestros profesionales te mimarán y cuidarán de cada detalle. Unas uñas ideales en todo momento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 5 Ss Masaje Relajante", 
+            "duration": 3600, 
+            "price": "168 € ", 
+            "description": "Con este Bono de Masaje Relajante, incluimos 5 sesiones y te regalamos una más para que salgas encantado de nuestro centro. Alivia las tensiones y reserva unos minutos para ti.Cada sesión es de 60 minutos de duración. Consulta con el centro como utilizar el bono."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Cuida la piel de tu rostro para eliminar la suciedad acumulada por el día a día. La higiene facial es un básico de la estética por sí misma. Consigue una piel bella y limpia en nuestro centro. ¡Anímate!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje Mujer", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "¿Te gustaría sacarte un mejor partido y lucir un rostro perfecto sea cual sea el evento que tengas? Ponte en manos de los mejores profesionales en nuestro salón, definiremos tus facciones con los tonos que mejor se adapten según tu tono de piel o de cabello. No te preocupes por nada más y déjate asesorar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Hidratación Con Masaje", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio que va a mimar la piel de tu cuerpo. Te dejará con una piel más suave, bien cuidada, y radiante. Tu cuerpo disfrutará aún de una hidratación con masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Olvídate de la máscara de pestañas durante una temporada, luce unas pestañas más rizadas con la permanente de pestañas y unas pestañas más oscuras con el tinte, como si de la mejor máscara de pestañas se tratara. Descubre la comodidad de no tener que apenas maquillarte y estar perfecta en todo momento. Dura aproximadamente un mes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiarrugas", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamos tus arruga, lineas de expresión y signos de cansancio o edad para que no se note el paso del tiempo. Estamos seguros de que notarás la diferencia tras varias sesiones de tratamiento , quedarás estupenda y te habrás quitado varios años de encima. Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento ideal para que tengas una piel cuidada, con aspecto hidratado, joven y luminosa a la vez. Para que tu piel tenga en bienestar que merece. Reserva en Lola Romero, sin duda satisfacerán tus necesidades."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Cuida la piel de tu rostro para eliminar la suciedad acumulada por el día a día. La higiene facial es un básico de la estética por sí misma. Consigue una piel bella y limpia en nuestro centro. ¡Anímate!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje Mujer", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "¿Te gustaría sacarte un mejor partido y lucir un rostro perfecto sea cual sea el evento que tengas? Ponte en manos de los mejores profesionales en nuestro salón, definiremos tus facciones con los tonos que mejor se adapten según tu tono de piel o de cabello. No te preocupes por nada más y déjate asesorar."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Y Hidratación Con Masaje", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio que va a mimar la piel de tu cuerpo. Te dejará con una piel más suave, bien cuidada, y radiante. Tu cuerpo disfrutará aún de una hidratación con masaje."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Olvídate de la máscara de pestañas durante una temporada, luce unas pestañas más rizadas con la permanente de pestañas y unas pestañas más oscuras con el tinte, como si de la mejor máscara de pestañas se tratara. Descubre la comodidad de no tener que apenas maquillarte y estar perfecta en todo momento. Dura aproximadamente un mes."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Antiarrugas", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamos tus arruga, lineas de expresión y signos de cansancio o edad para que no se note el paso del tiempo. Estamos seguros de que notarás la diferencia tras varias sesiones de tratamiento , quedarás estupenda y te habrás quitado varios años de encima. Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento ideal para que tengas una piel cuidada, con aspecto hidratado, joven y luminosa a la vez. Para que tu piel tenga en bienestar que merece. Reserva en Lola Romero, sin duda satisfacerán tus necesidades."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Manicura Básica Con Esmaltado", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "¿Te animas a cuidar tus manos? Manicura tradicional con limado y retirada de cutículas, hidratación y esmaltado (normal) final ¡podrás elegir entre nuestra amplia gama de colores! Unas manos listas perfectas para lucirlas sea cual sea la ocasión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Cuida la piel de tu rostro para eliminar la suciedad acumulada por el día a día. La higiene facial es un básico de la estética por sí misma. Consigue una piel bella y limpia en nuestro centro. ¡Anímate!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Maquillaje Mujer", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "¿Te gustaría sacarte un mejor partido y lucir un rostro perfecto sea cual sea el evento que tengas? Ponte en manos de los mejores profesionales en nuestro salón, definiremos tus facciones con los tonos que mejor se adapten según tu tono de piel o de cabello. No te preocupes por nada más y déjate asesorar."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal Y Hidratación Con Masaje", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio que va a mimar la piel de tu cuerpo. Te dejará con una piel más suave, bien cuidada, y radiante. Tu cuerpo disfrutará aún de una hidratación con masaje."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Olvídate de la máscara de pestañas durante una temporada, luce unas pestañas más rizadas con la permanente de pestañas y unas pestañas más oscuras con el tinte, como si de la mejor máscara de pestañas se tratara. Descubre la comodidad de no tener que apenas maquillarte y estar perfecta en todo momento. Dura aproximadamente un mes."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Cuida la piel de tu rostro para eliminar la suciedad acumulada por el día a día. La higiene facial es un básico de la estética por sí misma. Consigue una piel bella y limpia en nuestro centro. ¡Anímate!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje Mujer", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "¿Te gustaría sacarte un mejor partido y lucir un rostro perfecto sea cual sea el evento que tengas? Ponte en manos de los mejores profesionales en nuestro salón, definiremos tus facciones con los tonos que mejor se adapten según tu tono de piel o de cabello. No te preocupes por nada más y déjate asesorar."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Y Hidratación Con Masaje", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio que va a mimar la piel de tu cuerpo. Te dejará con una piel más suave, bien cuidada, y radiante. Tu cuerpo disfrutará aún de una hidratación con masaje."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Olvídate de la máscara de pestañas durante una temporada, luce unas pestañas más rizadas con la permanente de pestañas y unas pestañas más oscuras con el tinte, como si de la mejor máscara de pestañas se tratara. Descubre la comodidad de no tener que apenas maquillarte y estar perfecta en todo momento. Dura aproximadamente un mes."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Antiarrugas", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamos tus arruga, lineas de expresión y signos de cansancio o edad para que no se note el paso del tiempo. Estamos seguros de que notarás la diferencia tras varias sesiones de tratamiento , quedarás estupenda y te habrás quitado varios años de encima. Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Tratamiento ideal para que tengas una piel cuidada, con aspecto hidratado, joven y luminosa a la vez. Para que tu piel tenga en bienestar que merece. Reserva en Lola Romero, sin duda satisfacerán tus necesidades."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Básica Con Esmaltado", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "¿Te animas a cuidar tus manos? Manicura tradicional con limado y retirada de cutículas, hidratación y esmaltado (normal) final ¡podrás elegir entre nuestra amplia gama de colores! Unas manos listas perfectas para lucirlas sea cual sea la ocasión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Shellac", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Luce unas uñas impecables durante 15 días! Disfruta del shellac de CND, la mejor marca del sector, tanto en manos y pies. Te encantará el resultado, es único y querrás repetir."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Con Esmaltado", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Manicura y pedicura tradicional, podrás elegir entre nuestra amplia gama de colores! Un servicio que cuidará tus manos y tus pies con un esmaltado único. Si te apetece relajarte, nuestros profesionales te mimarán y cuidarán de cada detalle. Unas uñas ideales en todo momento."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura Francesa", 
+            "duration": 3600, 
+            "price": "52 € ", 
+            "description": "Si te gusta la manicura y pedicura más tradicional, fina y elegante, decántate por la manicura francesa. Perfectas y cuidadas, unas uñas más bonitas sin necesidad de recurrir a esmaltes llamativos. Limamos, cortamos, hidratamos, eliminamos cutículas y por último esmaltamos con acabado que te fascinará."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Cuida la piel de tu rostro para eliminar la suciedad acumulada por el día a día. La higiene facial es un básico de la estética por sí misma. Consigue una piel bella y limpia en nuestro centro. ¡Anímate!"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Maquillaje Mujer", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "¿Te gustaría sacarte un mejor partido y lucir un rostro perfecto sea cual sea el evento que tengas? Ponte en manos de los mejores profesionales en nuestro salón, definiremos tus facciones con los tonos que mejor se adapten según tu tono de piel o de cabello. No te preocupes por nada más y déjate asesorar."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Peeling Corporal Y Hidratación Con Masaje", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "El servicio que va a mimar la piel de tu cuerpo. Te dejará con una piel más suave, bien cuidada, y radiante. Tu cuerpo disfrutará aún de una hidratación con masaje."
+        }
+    ]
+}

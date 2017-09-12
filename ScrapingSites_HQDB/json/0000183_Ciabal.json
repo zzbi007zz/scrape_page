@@ -1,0 +1,632 @@
+{
+    "adid": null, 
+    "name": "Ciabal", 
+    "name_of_contact": "Ciabal", 
+    "scrape_page": "https://www.bucmi.com/ciabal", 
+    "business_website": "https://www.bucmi.com/ciabal", 
+    "areas_covered": null, 
+    "description": "Ciabal Wellness Center es un oasis de belleza en la zona de Goya de Madrid. Cristina y Marlene Arana, las responsables de Ciabal Wellness, han decorado este espacio con materiales inocuos para la salud y el medio ambiente: algodones y linos naturales y velas de Maison Trudonel. En este templo beauty podrás saborear las mieles de actos pequeños, inofensivos pero profundamente egoístas como una deluxe manicure, un peeling corporal con thaí oil massage o disfrutar de un ritual reequilibrante mientras te miman durante exquisitos minutos en silencio y te hipnotizan con fragancias alquímicas a base de micronizados de flores, hierbas maceradas con hidrolatos y aceites esenciales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282934634015793.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282934646983926.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282934659796714.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282934675265500.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636282934689327767.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "36", 
+    "hqdb_review_score": "8,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28001", 
+    "formatted_address": "Madrid, Madrid, Madrid, 28029, Madrid, Madrid, Madrid, 28001", 
+    "country": "es", 
+    "office_number": "911377619", 
+    "office_number2": null, 
+    "mobile_number": "636824150", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4256661000", 
+    "longitude": "-3.6773302000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636282935591352016.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal Piedras Calientes 55 Minutos", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Esta terapia combina el masaje terapéutico tradicional con la aplicación de piedras a distintas temperaturas sobre la piel, para facilitar que fluya la energía vital y aliviar así trastornos físicos y emocionales. Mejora las funciones de nuestro organismo, reduce los dolores crónicos y ayuda a equilibrar el sistema nervioso y el circulatorio. Favorece la relajación mediante el correcto flujo de la energía, armonizando cuerpo, mente y espíritu."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Ritual Reequilibrante (85Min)", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Déjate llevar, confía, siente y disfruta. Encuentra la armonía y el equilibrio con nuestro ritual. Aplicamos leche de rosa y caléndula, retiramos con una toallita caliente con aroma, tonificamos con hidrolato de azahar, realizamos un peeling con aceite de almendras y aplicamos envoltura con micronizados de pasiflora y salvia. Incluye además una higiene facial con limpieza, peeling y aceites esenciales, además de un masaje holístico en todo el cuerpo para finalizar."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Mantén tu piel saludable con un buen cuidado, empezando por conocer su estado y necesidades. Con nuestro tratamiento facial Aromatherapy Deluxe estará más luminosa y sana que nunca. Primero realizamos un diagnóstico, acompañado de una infusión de bienvenida. Después realizamos una higiene facial con rosas y caléndula, y un peeling con arcilla verde y cola de caballo. Aplicamos mascarilla y un tratamiento de manos con esmaltado. Después aplicamos aceites esenciales, limpiando y aplicamos serum y crema 24h."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "8 Sstratamiento Facial Vip Purificante (55Min)", 
+            "duration": 3600, 
+            "price": "640 € ", 
+            "description": "8 sesiones de facial Vip Purificante. Higiene con leche limpiadora de rosas y caléndula. Incluye: peeling, mascarilla de arcilla blanca, cola de caballo hojas de salvia, pétalos caléndula, flores de primavera, flores azahar y raíz de lirio. Mientras la dejamos actuar recibirás un masaje de manos. Además del sérum , aplicación de aceites esenciales lavanda, limón, Ylang Ylang, masaje facial, aplicación de hidrolato y crema hidratante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "10 Sesiones Masaje Corporal Anticelulitico (55Min)", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "Para presumir de unas piernas sexys y elegantes de cara al próximo verano le sugerimos el tratamiento anticelulítico que consiste en una limpieza con leche de rosas, seguido de una tonificación con hidrolato de hinojo más peeling acompañado de un masaje, por último le aplicaremos un emplasto de mezcla anticelulítico y finalizamos con un drenaje linfático que contribuirá en la eliminación de las toxinas, la retención de líquido y ese aspecto a piel de naranja tan molesto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Deluxe Y Manicura Ciabal (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Le realizaremos una higiene facial profunda acompañada de peeling y una mascarilla específica para su piel y un masaje unido a aceites esenciales personalizados con sus principios activos ricos en vitaminas y nutrientes para tratar cada tipo de piel de una manera totalmente personalizada. Realizamos también Manicura completa, con peeling y masaje de manos y brazos, y esmaltado semipermenente OPI."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Masaje En Pareja", 
+            "duration": 5400, 
+            "price": "230 € ", 
+            "description": "Disfruta junto a tu pareja de este ritual que consiste en la aplicación del exfoliante con micronizados de hierbas y aceites esenciales personalizados, finalmente le realizaremos un masaje tailandés con aromaterapia, de 45 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Drenaje Linfático 55 Min.", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Tratamiento específico post operatorio indicado para edemas, piernas cansadas y eliminación de toxinas. Muy recomendado para embarazadas. Este servicio es por una sesión de drenaje linfático corporal realizado por nuestros expertos de Ciabal, que tiene una duración de 55 minutos. Haz ya tu reserva online en Bucmi. DDD"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Drenaje Linfático 85 Min.", 
+            "duration": 5400, 
+            "price": "85 € ", 
+            "description": "Tratamiento específico post operatorio indicado para edemas, piernas cansadas y eliminación de toxinas. Muy recomendado para embarazadas. Este servicio es por una sesión de drenaje linfático corporal realizado por nuestros expertos de Ciabal, que tiene una duración de 85 minutos. Haz ya tu reserva online en Bucmi."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmante (55Min)", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Recupera la firmeza y elasticidad de tu piel con nuestro tratamiento reafirmante. Primero realizamos una limpieza, un peeling y tonificamos con hidrolato. Después aplicamos una mascarilla complex con gandioleo, hidrolato de pepino y un masaje reafirmante con aceites específicos, esencia de romero y crema corporal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Ritual Reequilibrante (85Min)", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Déjate llevar, confía, siente y disfruta. Encuentra la armonía y el equilibrio con nuestro ritual. Aplicamos leche de rosa y caléndula, retiramos con una toallita caliente con aroma, tonificamos con hidrolato de azahar, realizamos un peeling con aceite de almendras y aplicamos envoltura con micronizados de pasiflora y salvia. Incluye además una higiene facial con limpieza, peeling y aceites esenciales, además de un masaje holístico en todo el cuerpo para finalizar."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad 3 Sesiones", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Disfrutará de una capacidad de recuperación de su piel, firme e hidratada propia de la juventud con un tratamiento facial ideado para conseguir un resultado que le devolverá la firmeza de su piel. Incluye tres sesiones de 55 minutos. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Aplicamos una combinación de aceites esenciales personalizados con sus principios activos ricos en vitaminas y nutrientes para tratar cada tipo de piel de una manera especial, realizando una limpieza profunda con los distintos micronizados de hierbas y mascarillas se consigue recuperar el tono y la vitalidad de la piel, el contorno de ojos, de labios, cuello y el escote reciben una sesión exclusiva de masajes, mientras actúa la mascarilla recibirá un tratamiento hidratante de manos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Mantén tu piel saludable con un buen cuidado, empezando por conocer su estado y necesidades. Con nuestro tratamiento facial Aromatherapy Deluxe estará más luminosa y sana que nunca. Primero realizamos un diagnóstico, acompañado de una infusión de bienvenida. Después realizamos una higiene facial con rosas y caléndula, y un peeling con arcilla verde y cola de caballo. Aplicamos mascarilla y un tratamiento de manos con esmaltado. Después aplicamos aceites esenciales, limpiando y aplicamos serum y crema 24h."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Contorno De Ojos", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "La clave para conseguir una mirada sin signos de cansancio, saludable y con una luz de juventud lo conseguirás con el tratamiento para contorno de ojos ideado para ti. Reserva ya en Ciabal con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Personalizado 45Min", 
+            "duration": 2700, 
+            "price": "65 € ", 
+            "description": "Biológicamente, una piel limpia es una piel sana y es estéticamente bella, con nuestro tratamiento facial personalizado podrá presumir de una piel bien cuidada. Recomendado especialmente para pieles asfixiadas, con manchas, acné, couperosis, grasas, secas, deshidratadas y opacas. 45min."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Premium Reafirmante", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Limpieza facial con leche de rosas y peeling en conjunto con las técnicas de masaje facial reafirmante aplicando una crema de aguacate y romero finalizando con el serum de aceites esenciales de sándalo, palo de rosa, incienso y enebro. Duración de 70 minutos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Ritual Reequilibrante", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Encuentre la armonía consigo mismo y con la vida, olvídese de los problemas, todo está bien, el equilibrio y la plenitud se apoderan de todo su ser. Déjese llevar, confíe, sienta y disfrute… Es su momento Ritual, le aplicamos leche de rosas y caléndula en todo el cuerpo una vez acabada la limpieza retiramos el producto con una toallita caliente impregnada de aromas, tonificamos todo su cuerpo con hidrolato de azahar, seguidamente le realizamos un peeling con aceite de almendras masajeando suavemente."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Corporal Exfoliación Y Masaje Effleurage", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Para lucir una piel suave, hidratada y luminosa es imprescindible realizarse un peeling para eliminar las células muertas que producen asperezas y avejentan la piel. Este ritual consiste en retirar las impurezas con la leche limpiadora seguidamente se retira con una toallita humedecida e impregnada con aromas de naranja y mandarina, a continuación le aplicamos el exfoliante con micronizados de hierbas y aceites esenciales personalizados, finalmente le realizaremos un masaje muy suave con aceites."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Masaje Thai En Pareja", 
+            "duration": 5400, 
+            "price": "230 € ", 
+            "description": "Este ritual consiste en retirar las impurezas con la leche limpiadora seguidamente se retira con una toallita humedecida e impregnada con aromas de naranja y mandarina, a continuación le aplicamos el exfoliante con micronizados de hierbas y aceites esenciales personalizados, finalmente le realizaremos un masaje tailandés con aceite de almendras unido a AE de palo de rosa, menta. Ylang ylang y canela.Duración de 85 minutos. Precio de las dos personas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Anticelulítico", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Para presumir de unas piernas sexys y elegantes de cara al próximo verano le sugerimos el tratamiento anti celulítico que consiste en una limpieza con leche de rosas, seguido de una tonificación con hidrolato de hinojo más peeling acompañado de un masaje, por último le aplicaremos un emplasto de mezcla anticelulítico y finalizamos con un drenaje linfático que contribuirá en la eliminación de las toxinas, la retención de líquido y ese aspecto a piel de naranja tan molesto."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Antiestrías", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "El tratamiento para las estrías es muy recomendable especialmente para aquellas que no han cicatrizado aún, empezamos aplicando en la zona a tratar el limpiador leche de rosas, después de retirar tonificamos la zona con hidrolato de azahar, seguidamente realizamos el peeling, retirando con agua tonificada, a continuación aplicamos el emplasto de arcilla blanca con aceites esenciales de geranio y ajedrea y micronizado de alholvas, para finalizar aplicamos aceite puro de rosa mosqueta.DDD"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Aromatherapy Ritual Para Dos", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "La aromaterapia es tan antigua como la humanidad, es el arte de utilizar los aceites esenciales para recuperar la salud, la belleza y el bienestar. Los aceites esenciales son líquidos muy volátiles que proceden de la destilación de las plantas medicinales. Este ritual consiste en un tratamiento de rostro, manos con aceites vehiculares y esenciales, maceraciones de micronizados de flores y hierbas combinado con hidrolatos de lavanda, aguas de rosas o Ylang ylang, finalizado con un masaje relajante. 55 min."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Envoltura De Algas Y Masaje", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Este tratamiento está indicado para aquellas personas que quieran reducir esos molestos adipocitos en zonas localizadas del cuerpo, consiste en limpiar la zona a tratar con leche de rosas, seguido de un peeling que se retira con toallas humedecidas e impregnadas de aromas a continuación se le envuelve la zona con algas marinas o un emplasto de hierbas y esencias con propiedades reductoras , mientras dejamos actuar la envoltura usted disfrutará de un masaje capilar o de manos si así lo prefiere.DDD"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Hidratante", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "Recomendado para pieles opacas, secas y deshidratadas. No se pierda esta experiencia en la cual le realizaremos una limpieza profunda de la piel seguido de un peeling a continuación le aplicaremos hidrolato de manzanilla para calmar tonificar la piel, finalmente le impregnaremos todo el cuerpo de una crema hidratante.DDD"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmación De Senos", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Tiene un acontecimiento especial o simplemente quiere lucir unos senos más firmes y bonitos, le sugerimos este tratamiento que le encantará, consiste en una higiene con leche de rosa, hidrolato de romero, seguido de un peeling acompañado de aceite de almendras y emplasto complex RS, se retira con hidrolato de hamamelis y finalizamos con un masaje unido a aceite especifico para reafirmación de senos.DDD"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmante (55Min)", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "La flacidez es uno de los signos más evidentes de que se está llevando una vida sedentaria y poco activa. La huella que va dejando en el cuerpo se traduce en estropear la silueta y de dar un aspecto de dejadez corporal. No entiende de edades.El origen de la perdida de la firmeza y elasticidad de la piel y la fibra muscular es el exceso de grasa en zonas del cuerpo, pérdida de peso, mala alimentación por diversas causas. En conjunto con una dieta equilibrada, prácticas regulares de ejercicios."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmante 5 Sesiones", 
+            "duration": 3600, 
+            "price": "450 € ", 
+            "description": "Multiplica los efectos de nuestro tratamiento corporal con nuestro bono de 5 sesiones. Con una dieta equilibrada y ejercicio conseguirás combatir la flacidez corporal. Cada sesión incluye limpieza, peeling y tonificación con hidrolato, mascarilla complex con gandioleo, hidrolato de pepino y un masaje reafirmante con aceites específicos, esencia de romero y crema corporal."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Express 25 Minutos", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Pensado para todos tipos de pieles con productos específicos para lograr un buen resultado en poco tiempo. Duración de 25 minutos aproximadamente. ¿A qué estás esperando para hacer tu reserva? No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vip Purificante", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "-10 minutos de Bienvenida se le ofrece una taza de infusión y galletas artesanales diet. Seguidamente se le realiza la evaluación de la piel.-10 minutos de higiene facial más peeling-15 minutos mascarilla, mientras la dejamos actuar usted recibirá un masaje de craneal o de manos-20 minutos, aplicación de aceites esenciales ( lavanda, limón, Ylang Ylang, Almendra dulce) masaje facial drenante y detoxificante con piedras volcánicas -5 minutos de finalización: Se retira restos de aceites y mascarilla."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Para Dos Personas: Aromatherapy Ritua", 
+            "duration": 3600, 
+            "price": "140 € ", 
+            "description": "La aromaterapia es tan antigua como la humanidad, es el arte de utilizar los aceites esenciales para recuperar la salud, la belleza y el bienestar. Los aceites esenciales son líquidos muy volátiles que proceden de la destilación de las plantas medicinales. Este ritual consiste en un tratamiento de rostro, manos con aceites vehiculares y esenciales, maceraciones de micronizados de flores y hierbas combinado con hidrolatos de lavanda, aguas de rosas o Ylang ylang, finalizado con un masaje relajante. 55min."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial, Peeling Corporal,Masaje Ayurvédico", 
+            "duration": 7200, 
+            "price": "130 € ", 
+            "description": "La clave de una piel saludable es una buena higiene facial con leche limpiadora de rosas y calendula con una exfoliación con micronizado de rosas acompañado de aceites esenciales personalizados, se finaliza con la aplicación del hidrolato de rosas y una crema hidratante enriquecida con rosa mosqueta, naranja y pomelo, peeling corporal y masaje ayurvédico."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "8 Sstratamiento Facial Vip Purificante (55Min)", 
+            "duration": 3600, 
+            "price": "640 € ", 
+            "description": "8 sesiones de facial Vip Purificante. Higiene con leche limpiadora de rosas y caléndula. Incluye: peeling, mascarilla de arcilla blanca, cola de caballo hojas de salvia, pétalos caléndula, flores de primavera, flores azahar y raíz de lirio. Mientras la dejamos actuar recibirás un masaje de manos. Además del sérum , aplicación de aceites esenciales lavanda, limón, Ylang Ylang, masaje facial, aplicación de hidrolato y crema hidratante."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "10 Sesiones Masaje Corporal Anticelulitico (55Min)", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "Para presumir de unas piernas sexys y elegantes de cara al próximo verano le sugerimos el tratamiento anticelulítico que consiste en una limpieza con leche de rosas, seguido de una tonificación con hidrolato de hinojo más peeling acompañado de un masaje, por último le aplicaremos un emplasto de mezcla anticelulítico y finalizamos con un drenaje linfático que contribuirá en la eliminación de las toxinas, la retención de líquido y ese aspecto a piel de naranja tan molesto."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Deluxe Y Manicura Ciabal (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Le realizaremos una higiene facial profunda acompañada de peeling y una mascarilla específica para su piel y un masaje unido a aceites esenciales personalizados con sus principios activos ricos en vitaminas y nutrientes para tratar cada tipo de piel de una manera totalmente personalizada. Realizamos también Manicura completa, con peeling y masaje de manos y brazos, y esmaltado semipermenente OPI."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Y Masaje En Pareja", 
+            "duration": 5400, 
+            "price": "230 € ", 
+            "description": "Disfruta junto a tu pareja de este ritual que consiste en la aplicación del exfoliante con micronizados de hierbas y aceites esenciales personalizados, finalmente le realizaremos un masaje tailandés con aromaterapia, de 45 minutos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Drenaje Linfático 55 Min.", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Tratamiento específico post operatorio indicado para edemas, piernas cansadas y eliminación de toxinas. Muy recomendado para embarazadas. Este servicio es por una sesión de drenaje linfático corporal realizado por nuestros expertos de Ciabal, que tiene una duración de 55 minutos. Haz ya tu reserva online en Bucmi. DDD"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Drenaje Linfático 85 Min.", 
+            "duration": 5400, 
+            "price": "85 € ", 
+            "description": "Tratamiento específico post operatorio indicado para edemas, piernas cansadas y eliminación de toxinas. Muy recomendado para embarazadas. Este servicio es por una sesión de drenaje linfático corporal realizado por nuestros expertos de Ciabal, que tiene una duración de 85 minutos. Haz ya tu reserva online en Bucmi."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Reafirmante (55Min)", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Recupera la firmeza y elasticidad de tu piel con nuestro tratamiento reafirmante. Primero realizamos una limpieza, un peeling y tonificamos con hidrolato. Después aplicamos una mascarilla complex con gandioleo, hidrolato de pepino y un masaje reafirmante con aceites específicos, esencia de romero y crema corporal."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Corporal Ritual Reequilibrante (85Min)", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Déjate llevar, confía, siente y disfruta. Encuentra la armonía y el equilibrio con nuestro ritual. Aplicamos leche de rosa y caléndula, retiramos con una toallita caliente con aroma, tonificamos con hidrolato de azahar, realizamos un peeling con aceite de almendras y aplicamos envoltura con micronizados de pasiflora y salvia. Incluye además una higiene facial con limpieza, peeling y aceites esenciales, además de un masaje holístico en todo el cuerpo para finalizar."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Antiedad 3 Sesiones", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Disfrutará de una capacidad de recuperación de su piel, firme e hidratada propia de la juventud con un tratamiento facial ideado para conseguir un resultado que le devolverá la firmeza de su piel. Incluye tres sesiones de 55 minutos. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Aplicamos una combinación de aceites esenciales personalizados con sus principios activos ricos en vitaminas y nutrientes para tratar cada tipo de piel de una manera especial, realizando una limpieza profunda con los distintos micronizados de hierbas y mascarillas se consigue recuperar el tono y la vitalidad de la piel, el contorno de ojos, de labios, cuello y el escote reciben una sesión exclusiva de masajes, mientras actúa la mascarilla recibirá un tratamiento hidratante de manos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Mantén tu piel saludable con un buen cuidado, empezando por conocer su estado y necesidades. Con nuestro tratamiento facial Aromatherapy Deluxe estará más luminosa y sana que nunca. Primero realizamos un diagnóstico, acompañado de una infusión de bienvenida. Después realizamos una higiene facial con rosas y caléndula, y un peeling con arcilla verde y cola de caballo. Aplicamos mascarilla y un tratamiento de manos con esmaltado. Después aplicamos aceites esenciales, limpiando y aplicamos serum y crema 24h."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Contorno De Ojos", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "La clave para conseguir una mirada sin signos de cansancio, saludable y con una luz de juventud lo conseguirás con el tratamiento para contorno de ojos ideado para ti. Reserva ya en Ciabal con Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Personalizado 45Min", 
+            "duration": 2700, 
+            "price": "65 € ", 
+            "description": "Biológicamente, una piel limpia es una piel sana y es estéticamente bella, con nuestro tratamiento facial personalizado podrá presumir de una piel bien cuidada. Recomendado especialmente para pieles asfixiadas, con manchas, acné, couperosis, grasas, secas, deshidratadas y opacas. 45min."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Premium Reafirmante", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Limpieza facial con leche de rosas y peeling en conjunto con las técnicas de masaje facial reafirmante aplicando una crema de aguacate y romero finalizando con el serum de aceites esenciales de sándalo, palo de rosa, incienso y enebro. Duración de 70 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "8 Sstratamiento Facial Vip Purificante (55Min)", 
+            "duration": 3600, 
+            "price": "640 € ", 
+            "description": "8 sesiones de facial Vip Purificante. Higiene con leche limpiadora de rosas y caléndula. Incluye: peeling, mascarilla de arcilla blanca, cola de caballo hojas de salvia, pétalos caléndula, flores de primavera, flores azahar y raíz de lirio. Mientras la dejamos actuar recibirás un masaje de manos. Además del sérum , aplicación de aceites esenciales lavanda, limón, Ylang Ylang, masaje facial, aplicación de hidrolato y crema hidratante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "10 Sesiones Masaje Corporal Anticelulitico (55Min)", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "Para presumir de unas piernas sexys y elegantes de cara al próximo verano le sugerimos el tratamiento anticelulítico que consiste en una limpieza con leche de rosas, seguido de una tonificación con hidrolato de hinojo más peeling acompañado de un masaje, por último le aplicaremos un emplasto de mezcla anticelulítico y finalizamos con un drenaje linfático que contribuirá en la eliminación de las toxinas, la retención de líquido y ese aspecto a piel de naranja tan molesto."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Deluxe Y Manicura Ciabal (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Le realizaremos una higiene facial profunda acompañada de peeling y una mascarilla específica para su piel y un masaje unido a aceites esenciales personalizados con sus principios activos ricos en vitaminas y nutrientes para tratar cada tipo de piel de una manera totalmente personalizada. Realizamos también Manicura completa, con peeling y masaje de manos y brazos, y esmaltado semipermenente OPI."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal Y Masaje En Pareja", 
+            "duration": 5400, 
+            "price": "230 € ", 
+            "description": "Disfruta junto a tu pareja de este ritual que consiste en la aplicación del exfoliante con micronizados de hierbas y aceites esenciales personalizados, finalmente le realizaremos un masaje tailandés con aromaterapia, de 45 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Drenaje Linfático 55 Min.", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Tratamiento específico post operatorio indicado para edemas, piernas cansadas y eliminación de toxinas. Muy recomendado para embarazadas. Este servicio es por una sesión de drenaje linfático corporal realizado por nuestros expertos de Ciabal, que tiene una duración de 55 minutos. Haz ya tu reserva online en Bucmi. DDD"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Drenaje Linfático 85 Min.", 
+            "duration": 5400, 
+            "price": "85 € ", 
+            "description": "Tratamiento específico post operatorio indicado para edemas, piernas cansadas y eliminación de toxinas. Muy recomendado para embarazadas. Este servicio es por una sesión de drenaje linfático corporal realizado por nuestros expertos de Ciabal, que tiene una duración de 85 minutos. Haz ya tu reserva online en Bucmi."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Reafirmante (55Min)", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Recupera la firmeza y elasticidad de tu piel con nuestro tratamiento reafirmante. Primero realizamos una limpieza, un peeling y tonificamos con hidrolato. Después aplicamos una mascarilla complex con gandioleo, hidrolato de pepino y un masaje reafirmante con aceites específicos, esencia de romero y crema corporal."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Ritual Reequilibrante (85Min)", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Déjate llevar, confía, siente y disfruta. Encuentra la armonía y el equilibrio con nuestro ritual. Aplicamos leche de rosa y caléndula, retiramos con una toallita caliente con aroma, tonificamos con hidrolato de azahar, realizamos un peeling con aceite de almendras y aplicamos envoltura con micronizados de pasiflora y salvia. Incluye además una higiene facial con limpieza, peeling y aceites esenciales, además de un masaje holístico en todo el cuerpo para finalizar."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Antiedad 3 Sesiones", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Disfrutará de una capacidad de recuperación de su piel, firme e hidratada propia de la juventud con un tratamiento facial ideado para conseguir un resultado que le devolverá la firmeza de su piel. Incluye tres sesiones de 55 minutos. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Aplicamos una combinación de aceites esenciales personalizados con sus principios activos ricos en vitaminas y nutrientes para tratar cada tipo de piel de una manera especial, realizando una limpieza profunda con los distintos micronizados de hierbas y mascarillas se consigue recuperar el tono y la vitalidad de la piel, el contorno de ojos, de labios, cuello y el escote reciben una sesión exclusiva de masajes, mientras actúa la mascarilla recibirá un tratamiento hidratante de manos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Mantén tu piel saludable con un buen cuidado, empezando por conocer su estado y necesidades. Con nuestro tratamiento facial Aromatherapy Deluxe estará más luminosa y sana que nunca. Primero realizamos un diagnóstico, acompañado de una infusión de bienvenida. Después realizamos una higiene facial con rosas y caléndula, y un peeling con arcilla verde y cola de caballo. Aplicamos mascarilla y un tratamiento de manos con esmaltado. Después aplicamos aceites esenciales, limpiando y aplicamos serum y crema 24h."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Contorno De Ojos", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "La clave para conseguir una mirada sin signos de cansancio, saludable y con una luz de juventud lo conseguirás con el tratamiento para contorno de ojos ideado para ti. Reserva ya en Ciabal con Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Personalizado 45Min", 
+            "duration": 2700, 
+            "price": "65 € ", 
+            "description": "Biológicamente, una piel limpia es una piel sana y es estéticamente bella, con nuestro tratamiento facial personalizado podrá presumir de una piel bien cuidada. Recomendado especialmente para pieles asfixiadas, con manchas, acné, couperosis, grasas, secas, deshidratadas y opacas. 45min."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Premium Reafirmante", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Limpieza facial con leche de rosas y peeling en conjunto con las técnicas de masaje facial reafirmante aplicando una crema de aguacate y romero finalizando con el serum de aceites esenciales de sándalo, palo de rosa, incienso y enebro. Duración de 70 minutos."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto Corporal Ritual Reequilibrante", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Encuentre la armonía consigo mismo y con la vida, olvídese de los problemas, todo está bien, el equilibrio y la plenitud se apoderan de todo su ser. Déjese llevar, confíe, sienta y disfrute… Es su momento Ritual, le aplicamos leche de rosas y caléndula en todo el cuerpo una vez acabada la limpieza retiramos el producto con una toallita caliente impregnada de aromas, tonificamos todo su cuerpo con hidrolato de azahar, seguidamente le realizamos un peeling con aceite de almendras masajeando suavemente."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto. Corporal Exfoliación Y Masaje Effleurage", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Para lucir una piel suave, hidratada y luminosa es imprescindible realizarse un peeling para eliminar las células muertas que producen asperezas y avejentan la piel. Este ritual consiste en retirar las impurezas con la leche limpiadora seguidamente se retira con una toallita humedecida e impregnada con aromas de naranja y mandarina, a continuación le aplicamos el exfoliante con micronizados de hierbas y aceites esenciales personalizados, finalmente le realizaremos un masaje muy suave con aceites."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal Y Masaje Thai En Pareja", 
+            "duration": 5400, 
+            "price": "230 € ", 
+            "description": "Este ritual consiste en retirar las impurezas con la leche limpiadora seguidamente se retira con una toallita humedecida e impregnada con aromas de naranja y mandarina, a continuación le aplicamos el exfoliante con micronizados de hierbas y aceites esenciales personalizados, finalmente le realizaremos un masaje tailandés con aceite de almendras unido a AE de palo de rosa, menta. Ylang ylang y canela.Duración de 85 minutos. Precio de las dos personas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Anticelulítico", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Para presumir de unas piernas sexys y elegantes de cara al próximo verano le sugerimos el tratamiento anti celulítico que consiste en una limpieza con leche de rosas, seguido de una tonificación con hidrolato de hinojo más peeling acompañado de un masaje, por último le aplicaremos un emplasto de mezcla anticelulítico y finalizamos con un drenaje linfático que contribuirá en la eliminación de las toxinas, la retención de líquido y ese aspecto a piel de naranja tan molesto."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Antiestrías", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "El tratamiento para las estrías es muy recomendable especialmente para aquellas que no han cicatrizado aún, empezamos aplicando en la zona a tratar el limpiador leche de rosas, después de retirar tonificamos la zona con hidrolato de azahar, seguidamente realizamos el peeling, retirando con agua tonificada, a continuación aplicamos el emplasto de arcilla blanca con aceites esenciales de geranio y ajedrea y micronizado de alholvas, para finalizar aplicamos aceite puro de rosa mosqueta.DDD"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Aromatherapy Ritual Para Dos", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "La aromaterapia es tan antigua como la humanidad, es el arte de utilizar los aceites esenciales para recuperar la salud, la belleza y el bienestar. Los aceites esenciales son líquidos muy volátiles que proceden de la destilación de las plantas medicinales. Este ritual consiste en un tratamiento de rostro, manos con aceites vehiculares y esenciales, maceraciones de micronizados de flores y hierbas combinado con hidrolatos de lavanda, aguas de rosas o Ylang ylang, finalizado con un masaje relajante. 55 min."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Envoltura De Algas Y Masaje", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Este tratamiento está indicado para aquellas personas que quieran reducir esos molestos adipocitos en zonas localizadas del cuerpo, consiste en limpiar la zona a tratar con leche de rosas, seguido de un peeling que se retira con toallas humedecidas e impregnadas de aromas a continuación se le envuelve la zona con algas marinas o un emplasto de hierbas y esencias con propiedades reductoras , mientras dejamos actuar la envoltura usted disfrutará de un masaje capilar o de manos si así lo prefiere.DDD"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Hidratante", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "Recomendado para pieles opacas, secas y deshidratadas. No se pierda esta experiencia en la cual le realizaremos una limpieza profunda de la piel seguido de un peeling a continuación le aplicaremos hidrolato de manzanilla para calmar tonificar la piel, finalmente le impregnaremos todo el cuerpo de una crema hidratante.DDD"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Reafirmación De Senos", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Tiene un acontecimiento especial o simplemente quiere lucir unos senos más firmes y bonitos, le sugerimos este tratamiento que le encantará, consiste en una higiene con leche de rosa, hidrolato de romero, seguido de un peeling acompañado de aceite de almendras y emplasto complex RS, se retira con hidrolato de hamamelis y finalizamos con un masaje unido a aceite especifico para reafirmación de senos.DDD"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Reafirmante (55Min)", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "La flacidez es uno de los signos más evidentes de que se está llevando una vida sedentaria y poco activa. La huella que va dejando en el cuerpo se traduce en estropear la silueta y de dar un aspecto de dejadez corporal. No entiende de edades.El origen de la perdida de la firmeza y elasticidad de la piel y la fibra muscular es el exceso de grasa en zonas del cuerpo, pérdida de peso, mala alimentación por diversas causas. En conjunto con una dieta equilibrada, prácticas regulares de ejercicios."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Reafirmante 5 Sesiones", 
+            "duration": 3600, 
+            "price": "450 € ", 
+            "description": "Multiplica los efectos de nuestro tratamiento corporal con nuestro bono de 5 sesiones. Con una dieta equilibrada y ejercicio conseguirás combatir la flacidez corporal. Cada sesión incluye limpieza, peeling y tonificación con hidrolato, mascarilla complex con gandioleo, hidrolato de pepino y un masaje reafirmante con aceites específicos, esencia de romero y crema corporal."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Express 25 Minutos", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "Pensado para todos tipos de pieles con productos específicos para lograr un buen resultado en poco tiempo. Duración de 25 minutos aproximadamente. ¿A qué estás esperando para hacer tu reserva? No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Vip Purificante", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "-10 minutos de Bienvenida se le ofrece una taza de infusión y galletas artesanales diet. Seguidamente se le realiza la evaluación de la piel.-10 minutos de higiene facial más peeling-15 minutos mascarilla, mientras la dejamos actuar usted recibirá un masaje de craneal o de manos-20 minutos, aplicación de aceites esenciales ( lavanda, limón, Ylang Ylang, Almendra dulce) masaje facial drenante y detoxificante con piedras volcánicas -5 minutos de finalización: Se retira restos de aceites y mascarilla."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "8 Sstratamiento Facial Vip Purificante (55Min)", 
+            "duration": 3600, 
+            "price": "640 € ", 
+            "description": "8 sesiones de facial Vip Purificante. Higiene con leche limpiadora de rosas y caléndula. Incluye: peeling, mascarilla de arcilla blanca, cola de caballo hojas de salvia, pétalos caléndula, flores de primavera, flores azahar y raíz de lirio. Mientras la dejamos actuar recibirás un masaje de manos. Además del sérum , aplicación de aceites esenciales lavanda, limón, Ylang Ylang, masaje facial, aplicación de hidrolato y crema hidratante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "10 Sesiones Masaje Corporal Anticelulitico (55Min)", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "Para presumir de unas piernas sexys y elegantes de cara al próximo verano le sugerimos el tratamiento anticelulítico que consiste en una limpieza con leche de rosas, seguido de una tonificación con hidrolato de hinojo más peeling acompañado de un masaje, por último le aplicaremos un emplasto de mezcla anticelulítico y finalizamos con un drenaje linfático que contribuirá en la eliminación de las toxinas, la retención de líquido y ese aspecto a piel de naranja tan molesto."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Deluxe Y Manicura Ciabal (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Le realizaremos una higiene facial profunda acompañada de peeling y una mascarilla específica para su piel y un masaje unido a aceites esenciales personalizados con sus principios activos ricos en vitaminas y nutrientes para tratar cada tipo de piel de una manera totalmente personalizada. Realizamos también Manicura completa, con peeling y masaje de manos y brazos, y esmaltado semipermenente OPI."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Y Masaje En Pareja", 
+            "duration": 5400, 
+            "price": "230 € ", 
+            "description": "Disfruta junto a tu pareja de este ritual que consiste en la aplicación del exfoliante con micronizados de hierbas y aceites esenciales personalizados, finalmente le realizaremos un masaje tailandés con aromaterapia, de 45 minutos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Drenaje Linfático 55 Min.", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Tratamiento específico post operatorio indicado para edemas, piernas cansadas y eliminación de toxinas. Muy recomendado para embarazadas. Este servicio es por una sesión de drenaje linfático corporal realizado por nuestros expertos de Ciabal, que tiene una duración de 55 minutos. Haz ya tu reserva online en Bucmi. DDD"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Drenaje Linfático 85 Min.", 
+            "duration": 5400, 
+            "price": "85 € ", 
+            "description": "Tratamiento específico post operatorio indicado para edemas, piernas cansadas y eliminación de toxinas. Muy recomendado para embarazadas. Este servicio es por una sesión de drenaje linfático corporal realizado por nuestros expertos de Ciabal, que tiene una duración de 85 minutos. Haz ya tu reserva online en Bucmi."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Reafirmante (55Min)", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Recupera la firmeza y elasticidad de tu piel con nuestro tratamiento reafirmante. Primero realizamos una limpieza, un peeling y tonificamos con hidrolato. Después aplicamos una mascarilla complex con gandioleo, hidrolato de pepino y un masaje reafirmante con aceites específicos, esencia de romero y crema corporal."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Corporal Ritual Reequilibrante (85Min)", 
+            "duration": 5400, 
+            "price": "180 € ", 
+            "description": "Déjate llevar, confía, siente y disfruta. Encuentra la armonía y el equilibrio con nuestro ritual. Aplicamos leche de rosa y caléndula, retiramos con una toallita caliente con aroma, tonificamos con hidrolato de azahar, realizamos un peeling con aceite de almendras y aplicamos envoltura con micronizados de pasiflora y salvia. Incluye además una higiene facial con limpieza, peeling y aceites esenciales, además de un masaje holístico en todo el cuerpo para finalizar."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Antiedad 3 Sesiones", 
+            "duration": 3600, 
+            "price": "150 € ", 
+            "description": "Disfrutará de una capacidad de recuperación de su piel, firme e hidratada propia de la juventud con un tratamiento facial ideado para conseguir un resultado que le devolverá la firmeza de su piel. Incluye tres sesiones de 55 minutos. No esperes más y reserva ahora tu cita online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Aplicamos una combinación de aceites esenciales personalizados con sus principios activos ricos en vitaminas y nutrientes para tratar cada tipo de piel de una manera especial, realizando una limpieza profunda con los distintos micronizados de hierbas y mascarillas se consigue recuperar el tono y la vitalidad de la piel, el contorno de ojos, de labios, cuello y el escote reciben una sesión exclusiva de masajes, mientras actúa la mascarilla recibirá un tratamiento hidratante de manos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Aromatherapy Deluxe (85Min)", 
+            "duration": 5400, 
+            "price": "150 € ", 
+            "description": "Mantén tu piel saludable con un buen cuidado, empezando por conocer su estado y necesidades. Con nuestro tratamiento facial Aromatherapy Deluxe estará más luminosa y sana que nunca. Primero realizamos un diagnóstico, acompañado de una infusión de bienvenida. Después realizamos una higiene facial con rosas y caléndula, y un peeling con arcilla verde y cola de caballo. Aplicamos mascarilla y un tratamiento de manos con esmaltado. Después aplicamos aceites esenciales, limpiando y aplicamos serum y crema 24h."
+        }
+    ]
+}

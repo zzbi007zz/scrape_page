@@ -1,0 +1,197 @@
+{
+    "adid": null, 
+    "name": "Saylu", 
+    "name_of_contact": "Saylu", 
+    "scrape_page": "https://www.bucmi.com/saylu", 
+    "business_website": "https://www.bucmi.com/saylu", 
+    "areas_covered": null, 
+    "description": "El centro de estética Saylu situado en Moratalaz, Madrid, ofrece gran variedad de tratamientos tales como faciales con vitamina C, higienes faciales, sesiones de cavitación, extensiones de pestañas, maquillaje, masajes, manicuras y pedicuras entre otros.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636227778152832890.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636227778187833053.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636227778228457710.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636233895916080549.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "7", 
+    "hqdb_review_score": "8,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Marroquina, 20", 
+    "city": "Madrid", 
+    "zipcode": "28030", 
+    "formatted_address": "C/ Marroquina, 20, Madrid, 28030", 
+    "country": "es", 
+    "office_number": "914390022", 
+    "office_number2": null, 
+    "mobile_number": "662051140", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4072388000", 
+    "longitude": "-3.6495693000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636227808028226367.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La cavitación remodela el cuerpo eficazmente desde la primera sesión. Es un tratamiento no invasivo indicado para combatir la celulitis y reducir volumen. Se aplica en zonas con grasa localizada en el abdomen, flancos, región trocantérea (talle, glúteos), cara interna y externa de los muslos y rodillas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Extensión De Pestañas", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce la mirada que siempre has deseado con nuestras extensiones de pestañas colocadas pelo a pelo. Ponte en manos de nuestros profesionales y disfruta de este magnífico servicio. Luce las pestañas de las estrellas de la televisión de la forma más fácil y cómoda y consigue un look lleno de Glamour. Ven a conocernos ¡y te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Con Esmaltado Semipermanente", 
+            "duration": 3600, 
+            "price": "21 € ", 
+            "description": "¿Quieres lucir unas manos perfectas durante semanas? Este es tu servicio ideal. Ven a Saylu y déjate mimar. Escoge el tono de esmalte que más te gusta entre la amplia gama de colores que te ofrecemos y presume de manos bonitas y cuidadas durante más tiempo. Incluye una manicura completa con esmaltado permanente para una duración increible. ¡Luce una manicura intacta durante semanas!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Las principales funciones del masaje anticelulítico son abrir los poros, movilizar el sistema linfático, romper la grasa y facilitar la penetración de los productos cosméticos que se usan con esta finalidad. Además permite mejorar la circulación venosa y linfática, el tono muscular y el aspecto de la piel, a la vez que aumenta la oxigenación y la salida de sustancias de desecho ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¿Necesitas relajarte y desconectarte durante un momento? Nosotros te damos la solución. Disfruta de un agradable masaje de 30 minutos de duración en manos de nuestros profesionales y en el ambiente más propicio a la relajación y elimina las tensiones y el estrés del día a día. ¡Te sentirás como nuev@!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte y Permanente de Pestañas", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Potenciar tu mirada sin necesidad de utilizar máscaras de pestañas, rizadores u otros utensilios, ahora es más facil. Con nuestro tinte y permanente de pestañas conseguimos intensificar tu mirada, dandole la potencia y el rizo de pestaña perfecta para que parezca que vas maquillada las 24 horas del día. Luce perfecta en cualquier momento. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones De Cavitación", 
+            "duration": 3600, 
+            "price": "135 € ", 
+            "description": "Reserva este super bono de 5 sesiones para mejorar tu figura. La cavitación remodela el cuerpo eficazmente desde la primera sesión. Es un tratamiento no invasivo indicado para combatir la celulitis y reducir volumen. Se aplica en zonas con grasa localizada en el abdomen, flancos, región trocantérea (talle, glúteos), cara interna y externa de los muslos y rodillas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La cavitación remodela el cuerpo eficazmente desde la primera sesión. Es un tratamiento no invasivo indicado para combatir la celulitis y reducir volumen. Se aplica en zonas con grasa localizada en el abdomen, flancos, región trocantérea (talle, glúteos), cara interna y externa de los muslos y rodillas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Luce la mirada que siempre has deseado con nuestras extensiones de pestañas colocadas pelo a pelo. Ponte en manos de nuestros profesionales y disfruta de este magnífico servicio. Luce las pestañas de las estrellas de la televisión de la forma más fácil y cómoda y consigue un look lleno de Glamour. Ven a conocernos ¡y te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "¿Quieres lucir una piel sana y cuidada? Este es tu tratamiento ideal. Ven a conocernos y deja que nuestros expertos profesionales pongan tu piel a punto. DIsfruta de una completa higiene facial, que incluye limpieza, exfoliación, extracción, mascarilla e hidratación para que tu piel luzca radiante y libre de imperfecciones. ¡Notarás la diferencia!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Día O De Noche", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "¿Te vas de fiesta? ¿ De Boda? Si tienes una ocasión o celebración especial en la que quieres estar perfecta no dejes nada al azar. Reserva online tu sesión de maquillaje y los mejores make up artists se pondrán a tu disposición para sacarle todo el partido a tu rostro, ojos, pestañas... ¡serás la mejor versión de ti misma!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Las principales funciones del masaje anticelulítico son abrir los poros, movilizar el sistema linfático, romper la grasa y facilitar la penetración de los productos cosméticos que se usan con esta finalidad. Además permite mejorar la circulación venosa y linfática, el tono muscular y el aspecto de la piel, a la vez que aumenta la oxigenación y la salida de sustancias de desecho ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Relleno Extensión De Pestañas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Las pestañas son partes tan fundamentales de nuestro rostro como nuestro pelo o nuestros pómulos: han de estar perfectos siempre. Reserva online el relleno de pestañas, que se suele hacer cada tres semanas) y luce una mirada impecable siempre. Notarás mucha más luminosidad en tu rostro. Reserva online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "28 € ", 
+            "description": "Si notas tu piel apagada y sin brillo este es tu tratamiento ideal. Ven a conocernos y déjate mimar por nuestros profesionales. Con este tratamiento y gracias a las propiedades de la vitamina C conseguimos devolverle al cutis la luminosidad y vida que necesita para que tu rostro luzca radiante. ¡Notarás los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamientol Especial Contorno De Ojos", 
+            "duration": 1800, 
+            "price": "12,9 € ", 
+            "description": "Si quieres lucir un rostro más joven y una mirada increíble, reserva en nuestro centro de Saylu nuestro tratamiento para el contorno de ojos, donde eliminaremos las arrugas de expresión, bolsas de ojeras...Te encantará. Trabajamos con cosméticos de alta calidad y analizamos tu piel para ajustarnos a su necesidades. Nuestros profesionales te ofrecerán un asesoramiento personalizado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tinte y Permanente de Pestañas", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Potenciar tu mirada sin necesidad de utilizar máscaras de pestañas, rizadores u otros utensilios, ahora es más facil. Con nuestro tinte y permanente de pestañas conseguimos intensificar tu mirada, dandole la potencia y el rizo de pestaña perfecta para que parezca que vas maquillada las 24 horas del día. Luce perfecta en cualquier momento. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 5 Sesiones De Cavitación", 
+            "duration": 3600, 
+            "price": "135 € ", 
+            "description": "Reserva este super bono de 5 sesiones para mejorar tu figura. La cavitación remodela el cuerpo eficazmente desde la primera sesión. Es un tratamiento no invasivo indicado para combatir la celulitis y reducir volumen. Se aplica en zonas con grasa localizada en el abdomen, flancos, región trocantérea (talle, glúteos), cara interna y externa de los muslos y rodillas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La cavitación remodela el cuerpo eficazmente desde la primera sesión. Es un tratamiento no invasivo indicado para combatir la celulitis y reducir volumen. Se aplica en zonas con grasa localizada en el abdomen, flancos, región trocantérea (talle, glúteos), cara interna y externa de los muslos y rodillas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte y Permanente de Pestañas", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Potenciar tu mirada sin necesidad de utilizar máscaras de pestañas, rizadores u otros utensilios, ahora es más facil. Con nuestro tinte y permanente de pestañas conseguimos intensificar tu mirada, dandole la potencia y el rizo de pestaña perfecta para que parezca que vas maquillada las 24 horas del día. Luce perfecta en cualquier momento. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte y Permanente de Pestañas", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Potenciar tu mirada sin necesidad de utilizar máscaras de pestañas, rizadores u otros utensilios, ahora es más facil. Con nuestro tinte y permanente de pestañas conseguimos intensificar tu mirada, dandole la potencia y el rizo de pestaña perfecta para que parezca que vas maquillada las 24 horas del día. Luce perfecta en cualquier momento. ¡Te encantarán los resultados!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 5 Sesiones De Cavitación", 
+            "duration": 3600, 
+            "price": "135 € ", 
+            "description": "Reserva este super bono de 5 sesiones para mejorar tu figura. La cavitación remodela el cuerpo eficazmente desde la primera sesión. Es un tratamiento no invasivo indicado para combatir la celulitis y reducir volumen. Se aplica en zonas con grasa localizada en el abdomen, flancos, región trocantérea (talle, glúteos), cara interna y externa de los muslos y rodillas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Cavitación", 
+            "duration": 3600, 
+            "price": "29 € ", 
+            "description": "La cavitación remodela el cuerpo eficazmente desde la primera sesión. Es un tratamiento no invasivo indicado para combatir la celulitis y reducir volumen. Se aplica en zonas con grasa localizada en el abdomen, flancos, región trocantérea (talle, glúteos), cara interna y externa de los muslos y rodillas."
+        }
+    ]
+}

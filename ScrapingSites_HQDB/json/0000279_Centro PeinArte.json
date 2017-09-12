@@ -1,0 +1,195 @@
+{
+    "adid": null, 
+    "name": "Centro PeinArte", 
+    "name_of_contact": "Centro PeinArte", 
+    "scrape_page": "https://www.bucmi.com/centropeinarte", 
+    "business_website": "https://www.bucmi.com/centropeinarte", 
+    "areas_covered": null, 
+    "description": "El Salón de Belleza Centro PeinArte situado a pocos pasos del metro Alonso Martinez, ofrece todo tipo de cortes de pelo asesorados por los mejores profesionales. Servicios de uñas tales como manicuras y pedicuras. No esperes más y reserva ahora tu cita.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762348672378.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762503047817.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762544975629.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762577631815.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762639506635.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762709755791.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762753038042.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762798823145.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635902762829451352.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "14", 
+    "hqdb_review_score": "8,1", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28010", 
+    "formatted_address": "Madrid, 28010", 
+    "country": "es", 
+    "office_number": "913195978", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4277100000", 
+    "longitude": "-3.6951500000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635902766205663458.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Permanente", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Consigue unas manos y pies perfectos durante al menos dos semanas. Limamos las uñas, tratamos y retiramos cutículas, eliminamos durezas y por último esmaltamos del color que prefieras. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Disfruta de un corte a la moda, asesorado por nuestros expertos profesionales de Centro Peinarte, y gracias a los años de experiencia que nos avalan y a que seguimos las últimas tendencias, nos adaptaremos al estilo que mejor se adapte a ti. El servicio incluye el corte de tendencia, lavado con champú y acabado con styling. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa", 
+            "duration": 1800, 
+            "price": "11 € ", 
+            "description": "Empezamos cortando/limando las uñas, se retiran las cutículas. Seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras. No incluye Francesa suplemento de 1€ a abonar en el salón. Confía en nuestros expertos esteticistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Color Y Peinado", 
+            "duration": 5400, 
+            "price": "58,5 € ", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Disfruta de un corte a la moda, asesorado por nuestros expertos profesionales de Centro Peinarte, y gracias a los años de experiencia que nos avalan y a que seguimos las últimas tendencias, nos adaptaremos al estilo que mejor se adapte a ti. El servicio incluye el corte de tendencia, lavado con champú y acabado con styling. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Color Para Mujer", 
+            "duration": 5400, 
+            "price": "44 € ", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y pero peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Y Peinado", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Si tienes un evento especial al que quieres ir guapa, pero te gusta llevar un estilo natural y menos recargado, reserva en nuestro centro de peinarte nuestro completo servicio que incluye lavado de la melena y peinado definido, todo con productos Schwarzkopf. No incluye trabajos muy elaborados, ni recogidos ni semirecogidos. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "Dale un toque de luz a tu melena de la forma más rápida, el servicio incluye lavado con champú específico y secado no incluye el peinado. Confía en nuestros expertos estilistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado", 
+            "duration": 7200, 
+            "price": "59 € ", 
+            "description": "Dale un toque de luz a tu melena de la forma más rápida, el servicio incluye lavado con champú específico y el peinado. Reserva en nuestro salón nuestro completo tratamiento de belleza capilar. Confía en nuestros expertos estilistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte, Color Y Peinado", 
+            "duration": 5400, 
+            "price": "58,5 € ", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte, Color Y Peinado", 
+            "duration": 5400, 
+            "price": "58,5 € ", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Disfruta de un corte a la moda, asesorado por nuestros expertos profesionales de Centro Peinarte, y gracias a los años de experiencia que nos avalan y a que seguimos las últimas tendencias, nos adaptaremos al estilo que mejor se adapte a ti. El servicio incluye el corte de tendencia, lavado con champú y acabado con styling. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Y Color Para Mujer", 
+            "duration": 5400, 
+            "price": "44 € ", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y pero peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Lavado Y Peinado", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Si tienes un evento especial al que quieres ir guapa, pero te gusta llevar un estilo natural y menos recargado, reserva en nuestro centro de peinarte nuestro completo servicio que incluye lavado de la melena y peinado definido, todo con productos Schwarzkopf. No incluye trabajos muy elaborados, ni recogidos ni semirecogidos. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "Dale un toque de luz a tu melena de la forma más rápida, el servicio incluye lavado con champú específico y secado no incluye el peinado. Confía en nuestros expertos estilistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte, Color Y Peinado", 
+            "duration": 5400, 
+            "price": "58,5 € ", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "Disfruta de un corte a la moda, asesorado por nuestros expertos profesionales de Centro Peinarte, y gracias a los años de experiencia que nos avalan y a que seguimos las últimas tendencias, nos adaptaremos al estilo que mejor se adapte a ti. El servicio incluye el corte de tendencia, lavado con champú y acabado con styling. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte De Pelo Y Color Para Mujer", 
+            "duration": 5400, 
+            "price": "44 € ", 
+            "description": "Con este fantástico pack de peluquería lucirás una melena ideal y saneada, además de una coloración ideal a tu estilo y tu personalidad, que potencie tu belleza natural. El servicio incluye el corte de tendencia asesorado, coloración de alta gama Schwarzkopf, lavado con champú y pero peinado definido del pelo. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Lavado Y Peinado", 
+            "duration": 2700, 
+            "price": "17 € ", 
+            "description": "Si tienes un evento especial al que quieres ir guapa, pero te gusta llevar un estilo natural y menos recargado, reserva en nuestro centro de peinarte nuestro completo servicio que incluye lavado de la melena y peinado definido, todo con productos Schwarzkopf. No incluye trabajos muy elaborados, ni recogidos ni semirecogidos. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas", 
+            "duration": 5400, 
+            "price": "42 € ", 
+            "description": "Dale un toque de luz a tu melena de la forma más rápida, el servicio incluye lavado con champú específico y secado no incluye el peinado. Confía en nuestros expertos estilistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Y Peinado", 
+            "duration": 7200, 
+            "price": "59 € ", 
+            "description": "Dale un toque de luz a tu melena de la forma más rápida, el servicio incluye lavado con champú específico y el peinado. Reserva en nuestro salón nuestro completo tratamiento de belleza capilar. Confía en nuestros expertos estilistas de Centro PeinArte y presume de unas uñas perfectas gracias a nuestros expertos profesionales."
+        }
+    ]
+}

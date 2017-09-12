@@ -1,0 +1,101 @@
+{
+    "adid": null, 
+    "name": "Centro de Fisioterapia Elena", 
+    "name_of_contact": "Centro de Fisioterapia Elena", 
+    "scrape_page": "https://www.bucmi.com/centrof", 
+    "business_website": "https://www.bucmi.com/centrof", 
+    "areas_covered": null, 
+    "description": "Centro en el barrio madrileño de Aluche, especializado en diversidad de tratamientos como la terapia manual, pudiendo ser ésta masaje, estiramientos, movilización analítica, manipulación osteopática, etc... Para nosotros, ¡tu BIENESTAR es la prioridad!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981311549579028.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981311550629008.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981311547339018.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981311548759024.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981311547339018.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981311550349035.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "13", 
+    "hqdb_review_score": "9,7", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Maqueda, 52", 
+    "city": "Madrid", 
+    "zipcode": "28024", 
+    "formatted_address": "C/ Maqueda, 52, Madrid, 28024", 
+    "country": "es", 
+    "office_number": "915186917", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3926453000", 
+    "longitude": "-3.7645595999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635981384547078058.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 3 Ses.Terapia Alternativa Cólico De Lactante", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Tratamiento completo de Cólico de Lactante. Este servicio consiste en una terapia manual mediante masajes, para eliminar los gases en los bebés, en los lactantes y mejorar así su digestión."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 4 Sesiones De Fisioterapia", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? Este centro te ofrece este tratamiento de Fisioterapia que elimina a dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? Consigue este bono de 4 sesiones al 20% de descuento."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Sesión De Fisioterapia Manual Y Osteopatía", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? Este centro te ofrece este tratamiento de Fisioterapia manual y Osteopatía que elimina a dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? Precio de 30 euros por sesión."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Sesiones De Fisioterapia", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? Este centro te ofrece este tratamiento de Fisioterapia que elimina a dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? Consigue este bono de 4 sesiones al 20% de descuento."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono De 10 Sesiones Fisioterapia", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? Este centro te ofrece este tratamiento de Fisioterapia que elimina a dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? Consigue este bono de 10 sesiones por 300 euros."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Sesión De Fisioterapia Manual Y Osteopatía", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? Este centro te ofrece este tratamiento de Fisioterapia manual y Osteopatía que elimina a dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? Precio de 30 euros por sesión."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono 4 Sesiones De Fisioterapia", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? Este centro te ofrece este tratamiento de Fisioterapia que elimina a dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? Consigue este bono de 4 sesiones al 20% de descuento."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Bono De 10 Sesiones Fisioterapia", 
+            "duration": 3600, 
+            "price": "300 € ", 
+            "description": "¿Tienes molestias en la espalda o en otra zona de tu cuerpo? ¿Necesitas ayuda de un profesional? Este centro te ofrece este tratamiento de Fisioterapia que elimina a dolencia de la zona localizada, todo ello a manos de los mejores profesionales ¿Por qué esperar más? Consigue este bono de 10 sesiones por 300 euros."
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "adid": null, 
+    "name": "Savarna", 
+    "name_of_contact": "Savarna", 
+    "scrape_page": "https://www.bucmi.com/savarna", 
+    "business_website": "https://www.bucmi.com/savarna", 
+    "areas_covered": null, 
+    "description": "Centro de belleza natural con productos naturales de la más alta calidad procedentes de la India. Fundada por Rishika Gangaramani Haresh con más de 15 años como profesional en el sector y avalado avalado por la satisfacción de sus clientes.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963219538085764.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963219539335440.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963219541991687.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963219543085412.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963219542460439.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963219543710700.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "10", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Maudes, 31", 
+    "city": "Madrid", 
+    "zipcode": "28011", 
+    "formatted_address": "C/ Maudes, 31, Madrid, 28011", 
+    "country": "es", 
+    "office_number": "914529806", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4108332000", 
+    "longitude": "-3.7362121999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963258462552659.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Diseño Y Depilacion Con Hilo Cejas", 
+            "duration": 900, 
+            "price": "9 € ", 
+            "description": "Un buen diseño de cejas es básico para embellecer tu rostro. La depilación con hilo es una técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello, menos dolorosa que otros métodos de depilación y nada agresiva para la piel. ¡Olvídate del vello por un tiempo con este servicio de depilación en cejas, siempre en manos de nuestro equipo de profesionales! ¿A qué estás esperando para probarlo? Que no te lo cuenten.F"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza Facial Diamante", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Limpieza facial con productos naturales de la India con polvo de diamante para restaurar y tener un rostro perfecto. No se utiliza ningún producto químico. En Savarna utilizamos productos de primerísima calidad. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¡No lo dudes y reserva ya este servicio con nosotros! ¿A qué estás esperando? La mejoría será increíble. Magnífica relación calidad/precio.F"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Otros Masajes: Masaje De La India Corporal", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El Masaje corporal de la India es una mezcla de aceites con polvos de hierbas que aumenta la circulación en las zonas que lo necesitan, para equilibrar el cuerpo según la necesidad de cada uno. Masaje en el cuerpo. Consulte con su profesional. ¡Reserva este servicio en Bucmi y notarás los increíbles resultados! Además, contamos con profesionales que conocen a la perfección esta técnica. Te encantará.F"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza De Cutis De Fruta", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Limpieza de cutis para una piel suave, brillante y sin purezas. Una buena manera de lograr tener una piel perfecta, luminosa y libre de arrugas. Se utilizan productos frutales para que el resultado sea espectacular. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¡No lo dudes y luce un cutis envidiable, siempre en manos de los mejores! Te encantará.F"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial Diamante", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Limpieza facial con productos naturales de la India con polvo de diamante para restaurar y tener un rostro perfecto. No se utiliza ningún producto químico. En Savarna utilizamos productos de primerísima calidad. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¡No lo dudes y reserva ya este servicio con nosotros! ¿A qué estás esperando? La mejoría será increíble. Magnífica relación calidad/precio.F"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial Oro", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "Descubre los múltiples beneficios del mineral más exclusivo con una limpieza facial de oro. Con propiedades reafirmantes. Tratamiento anti-envejecimiento de gran alcance. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¿Quieres lucir un aspecto mucho más rejuvenecido y cuidado? No lo dudes y reserva ya este servicio con nosotros. En Savarna cuidamos de tí. Saldrás como nuev@ del centro.F"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza De Cutis De Fruta", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Limpieza de cutis para una piel suave, brillante y sin purezas. Una buena manera de lograr tener una piel perfecta, luminosa y libre de arrugas. Se utilizan productos frutales para que el resultado sea espectacular. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¡No lo dudes y luce un cutis envidiable, siempre en manos de los mejores! Te encantará.F"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza Facial Diamante", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Limpieza facial con productos naturales de la India con polvo de diamante para restaurar y tener un rostro perfecto. No se utiliza ningún producto químico. En Savarna utilizamos productos de primerísima calidad. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¡No lo dudes y reserva ya este servicio con nosotros! ¿A qué estás esperando? La mejoría será increíble. Magnífica relación calidad/precio.F"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Limpieza Facial Oro", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "Descubre los múltiples beneficios del mineral más exclusivo con una limpieza facial de oro. Con propiedades reafirmantes. Tratamiento anti-envejecimiento de gran alcance. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¿Quieres lucir un aspecto mucho más rejuvenecido y cuidado? No lo dudes y reserva ya este servicio con nosotros. En Savarna cuidamos de tí. Saldrás como nuev@ del centro.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza De Cutis De Fruta", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Limpieza de cutis para una piel suave, brillante y sin purezas. Una buena manera de lograr tener una piel perfecta, luminosa y libre de arrugas. Se utilizan productos frutales para que el resultado sea espectacular. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¡No lo dudes y luce un cutis envidiable, siempre en manos de los mejores! Te encantará.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Facial Diamante", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Limpieza facial con productos naturales de la India con polvo de diamante para restaurar y tener un rostro perfecto. No se utiliza ningún producto químico. En Savarna utilizamos productos de primerísima calidad. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¡No lo dudes y reserva ya este servicio con nosotros! ¿A qué estás esperando? La mejoría será increíble. Magnífica relación calidad/precio.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Limpieza Facial Oro", 
+            "duration": 3600, 
+            "price": "37 € ", 
+            "description": "Descubre los múltiples beneficios del mineral más exclusivo con una limpieza facial de oro. Con propiedades reafirmantes. Tratamiento anti-envejecimiento de gran alcance. Puede llegar a largarse hasta 75 minutos el tratamiento completo. ¿Quieres lucir un aspecto mucho más rejuvenecido y cuidado? No lo dudes y reserva ya este servicio con nosotros. En Savarna cuidamos de tí. Saldrás como nuev@ del centro.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Otros Masajes: Masaje De La India Corporal", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "El Masaje corporal de la India es una mezcla de aceites con polvos de hierbas que aumenta la circulación en las zonas que lo necesitan, para equilibrar el cuerpo según la necesidad de cada uno. Masaje en el cuerpo. Consulte con su profesional. ¡Reserva este servicio en Bucmi y notarás los increíbles resultados! Además, contamos con profesionales que conocen a la perfección esta técnica. Te encantará.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Otros Masajes: Masaje De La India En Cabeza", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "El Masaje corporal de la India es una mezcla de aceites con polvos de hierbas que aumenta la circulación en las zonas que lo necesitan, para equilibrar el cuerpo según la necesidad de cada uno. Masaje en la cabeza. Consulte con su profesional. ¡Reserva este servicio en Bucmi y notarás los increíbles resultados! Además, contamos con profesionales que conocen a la perfección esta técnica. Te encantará.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Otros Masajes: Masaje De La India Facial", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "El Masaje corporal de la India es una mezcla de aceites con polvos de hierbas que aumenta la circulación en las zonas que lo necesitan, para equilibrar el cuerpo según la necesidad de cada uno. Masaje en el rostro para mejorar tu piel. Consulte con su profesional. ¡Reserva este servicio en Bucmi y notarás los increíbles resultados! Además, contamos con profesionales que conocen a la perfección esta técnica. Te encantará.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Hilo Rostro Completo", 
+            "duration": 1800, 
+            "price": "37,5 € ", 
+            "description": "Estudio y diseño personalizado. ¡Olvídate del molesto vello facial! La depilación con hilo es una técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello, menos dolorosa que otros métodos de depilación y nada agresiva para la piel. ¡Olvídate del vello por un tiempo con este servicio de depilación en rostro completo, siempre en manos de nuestro equipo de profesionales! ¿A qué estás esperando para probarlo? Ven ya al centro Savarna y que no te lo cuenten.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Axilas", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Utilizamos la cera de toda la vida. Reserva ya este servicio de depilación con cera en axilas, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Savarna.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Brazos Enteros", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Utilizamos la cera de toda la vida. Reserva ya este servicio de depilación con cera en brazos enteros, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Savarna.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Espalda", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Utilizamos la cera de toda la vida. Reserva ya este servicio de depilación con cera en espalda, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Savarna.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Ingles Brasileñas", 
+            "duration": 2700, 
+            "price": "12 € ", 
+            "description": "Utilizamos la cera de toda la vida. Reserva ya este servicio de depilación con cera en ingles brasileñas, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Savarna.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Ingles Normales", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Utilizamos la cera de toda la vida. Reserva ya este servicio de depilación con cera en ingles normales, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Savarna.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Medias Piernas", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Utilizamos la cera de toda la vida. Reserva ya este servicio de depilación con cera en medias piernas, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Savarna.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Medios Brazos", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Utilizamos la cera de toda la vida. Reserva ya este servicio de depilación con cera en medios brazos, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Savarna.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Piernas Enteras", 
+            "duration": 2700, 
+            "price": "14 € ", 
+            "description": "Utilizamos la cera de toda la vida. Reserva ya este servicio de depilación con cera en piernas enteras, todo ello en manos de nuestro equipo de profesionales y a un precio super asequible. ¡Luce una piel suave, cuidada y olvídate del vello por un tiempo para estar list@ para cualquier plan! ¿A qué estás esperando? No lo dudes y ven al centro Savarna.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Hilo Cejas Y Labio Superior", 
+            "duration": 1800, 
+            "price": "13 € ", 
+            "description": "Diseñaremos tus cejas acorde con la forma de tu cara. El servicio incluye el diseño y la depilación de la ceja y labio superior. Técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello. ¡Conseguirás así sacar mayor partido a tu rostro, gracias a esta técnica y a nuestro equipo de profesionales! Reserva ya en Bucmi y te encantará el resultado. ¡No lo dudes más y ven a SavarnaF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Hilo En Brazos Enteros", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¡Luce una piel suave y sedosa! La depilación con hilo es una técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello, menos dolorosa que otros métodos de depilación y nada agresiva para la piel. ¡Olvídate del vello por un tiempo con este servicio de depilación en brazos enteros, siempre en manos de nuestro equipo de profesionales! ¿A qué estás esperando para probarlo? Ven ya al centro Savarna y que no te lo cuenten.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Hilo Frente", 
+            "duration": 900, 
+            "price": "8 € ", 
+            "description": "¡Luce una piel suave y sedosa! La depilación con hilo es una técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello, menos dolorosa que otros métodos de depilación y nada agresiva para la piel. ¡Olvídate del vello por un tiempo con este servicio de depilación en la frente, siempre en manos de nuestro equipo de profesionales! ¿A qué estás esperando para probarlo? Ven ya al centro Savarna y que no te lo cuenten.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Hilo Labio", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "La depilación con hilo es una técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello, menos dolorosa que otros métodos de depilación y nada agresiva para la piel. ¡Olvídate del vello por un tiempo con este servicio de depilación en labio superior, siempre en manos de nuestro equipo de profesionales! ¿A qué estás esperando para probarlo? Ven ya al centro Savarna y que no te lo cuenten.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Hilo Manos Y Dedos", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "¡Luce una piel suave y sedosa! La depilación con hilo es una técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello, menos dolorosa que otros métodos de depilación y nada agresiva para la piel. ¡Olvídate del vello por un tiempo con este servicio de depilación en manos y dedos, siempre en manos de nuestro equipo de profesionales! ¿A qué estás esperando para probarlo? Ven ya al centro Savarna y que no te lo cuenten.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Hilo Medias Piernas", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "¡Luce una piel suave y sedosa! La depilación con hilo es una técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello, menos dolorosa que otros métodos de depilación y nada agresiva para la piel. ¡Olvídate del vello por un tiempo con este servicio de depilación en medias piernas, siempre en manos de nuestro equipo de profesionales! ¿A qué estás esperando para probarlo? Ven ya al centro Savarna y que no te lo cuenten.F"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Con Hilo Medios Brazos", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¡Luce una piel suave y sedosa! La depilación con hilo es una técnica natural e hipoalergénica que tiene su origen en la India que ralentiza la aparición de vello, menos dolorosa que otros métodos de depilación y nada agresiva para la piel. ¡Olvídate del vello por un tiempo con este servicio de depilación en medios brazos, siempre en manos de nuestro equipo de profesionales! ¿A qué estás esperando para probarlo? Ven ya al centro Savarna y que no te lo cuenten.F"
+        }
+    ]
+}

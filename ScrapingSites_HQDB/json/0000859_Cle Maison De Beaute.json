@@ -1,0 +1,571 @@
+{
+    "adid": null, 
+    "name": "Clé Maison De Beauté", 
+    "name_of_contact": "Clé Maison De Beauté", 
+    "scrape_page": "https://www.bucmi.com/clemaison", 
+    "business_website": "https://www.bucmi.com/clemaison", 
+    "areas_covered": null, 
+    "description": "En Cle Maison se encuentran los mejores especialistas en medicina estética, estética avanzada y depilación láser de Madrid. Su equipo de profesionales cuenta con más de 20 años de experiencia y sus clientes avalan la calidad de su trabajo y los resultados. Pide tu primera cita gratuita en su centro de calle Almirante 11, en la zona de Justicia, sin compromiso y ve a conocerlos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635929678969302727.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635929679020240199.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635929679036802521.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635929679072583664.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635929679096049178.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635929679118080370.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635929679130267830.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "21", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28004", 
+    "formatted_address": "Madrid, 28004", 
+    "country": "es", 
+    "office_number": "912985582", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4226435000", 
+    "longitude": "-3.6943567000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635936547103467668.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Corporal Beauty Summer", 
+            "duration": 14400, 
+            "price": "980 € ", 
+            "description": "Consigue un cuerpo 10 este verano, aún estás a tiempo! 3 SESIONES DE INDIBA +2 SESIONES DE VENDAS AROCHA +5 PRESOTERAPIAS +5 SESIONES DE CARBOXITERAPIA. Infórmate en una primera consulta gratuita dónde te realizaremos un diagnostico médico sin compromiso."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Indiba Facial Pack 10 Sesiones", 
+            "duration": 2700, 
+            "price": "750 € ", 
+            "description": "La tecnología Indiba® está indicada para tratar a nivel facial, arrugas y flacidez gracias a la regeneración de células madres y aumento de la síntesis de colágeno y elástica. A nivel corporal reduce significativamente el contenido lípido celular en preadipocitos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Jolie Visage", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Empieza a cuidar tu piel y consigue un brillo y luminosidad en tu rostro gracias a nuestro servicio de higiene facial Jolie Visage. Tratamiento de higiene facial completa con productos de primera calidad de la marca Babor. Con este rapamiento conseguiremos una piel limpia y purificada. ¡Reserva ya tu cita en Bucmi.com!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Indiba Facial Pack 5 Sesiones", 
+            "duration": 2700, 
+            "price": "318,75 € ", 
+            "description": "La tecnología Indiba® está indicada para tratar a nivel facial, arrugas y flacidez gracias a la regeneración de células madres y aumento de la síntesis de colágeno y elástica. A nivel corporal reduce significativamente el contenido lípido celular en preadipocitos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Indiba Facial, Pack 3 Sesiones", 
+            "duration": 2700, 
+            "price": "202,5 € ", 
+            "description": "La tecnología Indiba® está indicada para tratar a nivel facial, arrugas y flacidez gracias a la regeneración de células madres y aumento de la síntesis de colágeno y elástica. A nivel corporal reduce significativamente el contenido lípido celular en preadipocitos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Indiba Tratamiento Facial", 
+            "duration": 2700, 
+            "price": "75 € ", 
+            "description": "La tecnología Indiba® está indicada para tratar a nivel facial, arrugas y flacidez gracias a la regeneración de células madres y aumento de la síntesis de colágeno y elástica. A nivel corporal reduce significativamente el contenido lípido celular en preadipocitos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente Opi Gel Color", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "cuidado de las manos y uñas, esmalte permanente de marca OPI... Elige entre nuestra gama de colores.."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Spa", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "cuidado de los pies y uñas, esmalte permanente de marca OPI... Elige entre nuestra gama de colores.."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Corporal Beauty Summer", 
+            "duration": 14400, 
+            "price": "980 € ", 
+            "description": "Consigue un cuerpo 10 este verano, aún estás a tiempo! 3 SESIONES DE INDIBA +2 SESIONES DE VENDAS AROCHA +5 PRESOTERAPIAS +5 SESIONES DE CARBOXITERAPIA. Infórmate en una primera consulta gratuita dónde te realizaremos un diagnostico médico sin compromiso."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Beauty Summer Facial", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "BONO BAUTY SUMMER. Prepara tu piel para el verano con tu bono de estética facial a medida. Dos sesiones de 60 minutos cada una. En la primera sesión podrás elegir entre una higiene facial o una microdermoabrásión. En la segunda sesión entre un tratamiento de luminosidad, hidratación o rejuvenecimiento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Corporal Beauty", 
+            "duration": 14400, 
+            "price": "530 € ", 
+            "description": "Ponte a punto este verano, 3 SESIONES DE INDIBA2 SESIONES DE VENDAS5 SESIONES DE PRESOTERAPIA Informate en nuestro centro dónde te haremos una primera consulta gratuita sin compromiso."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Químico Médico, Tratamiento Facial", 
+            "duration": 2700, 
+            "price": "180 € ", 
+            "description": "Renueva y regenta tu piel. Además, elimina manchas y restos de piel muerta de las capas más externas. Perfecto para cara y escote. No lo dudes más y haz tu reserva en Cle Maison. No te arrepentirás de los resultados. ¡Reserva tu cita online con Bucmi.com! ¡Lucirás un rostro perfecto y libre de imperfecciones!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carboxiterapia Corporal 10 Sesiones", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carboxiterapia Cuello Y Escote 10 Sesiones", 
+            "duration": 2700, 
+            "price": "900 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Biosestimulación Facial 3 Sesiones", 
+            "duration": 3600, 
+            "price": "288 € ", 
+            "description": "Es inevitable que la piel sufra con el paso de los años. El tratamiento de bioestimulación ayuda a tratar aquellos signos de envejecimiento como las arrugas, líneas de expresión, la falta de elasticidad y de luminosidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carboxiterapia Corporal 5 Sesiones", 
+            "duration": 3600, 
+            "price": "450 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Indiba Corporal 10 Sesiones", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "Indiba® mejora la laxitud de la piel reduciendo la flacidez. Promueve el cuidado y la cicatrización de heridas mejorando su drenare y acelerando su recuperación. Reduce la circunferencia corporal, remodela el cuerpo vía tratamiento de la celulitis y moviliza la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Indiba Facial Pack 10 Sesiones", 
+            "duration": 2700, 
+            "price": "750 € ", 
+            "description": "La tecnología Indiba® está indicada para tratar a nivel facial, arrugas y flacidez gracias a la regeneración de células madres y aumento de la síntesis de colágeno y elástica. A nivel corporal reduce significativamente el contenido lípido celular en preadipocitos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Toxina Botulínica", 
+            "duration": 1800, 
+            "price": "495 € ", 
+            "description": "En Clé Maison somos referentes en el cuidado de tu imagen, contamos con un equipo médico especializado y resultados que avalan cada uno de nuestros tratamientos. Suaviza las arrugas de expresión y aporta a tu rostro una mirada relajada y descansada con el tratamiento de toxIna botulínica. Diagnostico gratuito y sin compromiso."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Ácido Hialurónico Tratamiento Facial", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "En Clé Maison contamos con la mayor profesionalidad y trabajamos con las mejores casas farmacéuticas para garantizar resultados de calidad a nuestros clientes en cada una de sus experiencias. Gracias al tratamiento de Ácido Hialurónico, tratamos los signos del envejecimiento, la flacidez o arrugas. Además, esta técnica es más duradera, segura y eficaz frente a otras soluciones estéticas similares."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Beau Corp Tratamiento Corporal", 
+            "duration": 5400, 
+            "price": "120 € ", 
+            "description": "En Clé Maison ofrecemos el tratamiento Beau Corp que consta de un peeling, una hidratación de la piel, un masaje reafirmante y por último, el cuidado de los pies y las manos. ¡Ponte guap@y relate con este tratamiento corporal y confía en los mejores profesionales para ello!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Biosestimulación Facial", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Es inevitable que la piel sufra con el paso de los años. El tratamiento de bioestimulación ayuda a tratar aquellos signos de envejecimiento como las arrugas, líneas de expresión, la falta de elasticidad y de luminosidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carboxiterapia Corporal 1 Sesión", 
+            "duration": 2700, 
+            "price": "90 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carboxiterapia Zona Facial 1 Sesión", 
+            "duration": 1800, 
+            "price": "50 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carboxiterapia Zona Facial 10 Sesiones", 
+            "duration": 1800, 
+            "price": "400 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Carboxiterapia Zona Facial 5 Sesiones", 
+            "duration": 1800, 
+            "price": "212,5 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Jolie Visage", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Empieza a cuidar tu piel y consigue un brillo y luminosidad en tu rostro gracias a nuestro servicio de higiene facial Jolie Visage. Tratamiento de higiene facial completa con productos de primera calidad de la marca Babor. Con este rapamiento conseguiremos una piel limpia y purificada. ¡Reserva ya tu cita en Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Hilos Tensores Tratamiento Facial", 
+            "duration": 3600, 
+            "price": "450 € ", 
+            "description": "Disfruta del tratamiento facial de hilos tensores para combatir arrugas, líneas de expresión, flacidez y falta de elasticidad. Consigue un rostro natural y terso desde el primer tratamiento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Indiba Corporal 1 Sesión", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Indiba® mejora la laxitud de la piel reduciendo la flacidez. Promueve el cuidado y la cicatrización de heridas mejorando su drenare y acelerando su recuperación. Reduce la circunferencia corporal, remodela el cuerpo vía tratamiento de la celulitis y moviliza la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Indiba Corporal 5 Sesiones", 
+            "duration": 3600, 
+            "price": "382,5 € ", 
+            "description": "Indiba® mejora la laxitud de la piel reduciendo la flacidez. Promueve el cuidado y la cicatrización de heridas mejorando su drenare y acelerando su recuperación. Reduce la circunferencia corporal, remodela el cuerpo vía tratamiento de la celulitis y moviliza la grasa localizada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Indiba Facial Pack 5 Sesiones", 
+            "duration": 2700, 
+            "price": "318,75 € ", 
+            "description": "La tecnología Indiba® está indicada para tratar a nivel facial, arrugas y flacidez gracias a la regeneración de células madres y aumento de la síntesis de colágeno y elástica. A nivel corporal reduce significativamente el contenido lípido celular en preadipocitos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Indiba Facial, Pack 3 Sesiones", 
+            "duration": 2700, 
+            "price": "202,5 € ", 
+            "description": "La tecnología Indiba® está indicada para tratar a nivel facial, arrugas y flacidez gracias a la regeneración de células madres y aumento de la síntesis de colágeno y elástica. A nivel corporal reduce significativamente el contenido lípido celular en preadipocitos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Indiba Tratamiento Facial", 
+            "duration": 2700, 
+            "price": "75 € ", 
+            "description": "La tecnología Indiba® está indicada para tratar a nivel facial, arrugas y flacidez gracias a la regeneración de células madres y aumento de la síntesis de colágeno y elástica. A nivel corporal reduce significativamente el contenido lípido celular en preadipocitos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Intralipoterapia", 
+            "duration": 2700, 
+            "price": "170 € ", 
+            "description": "¡Elimina la garsa localizada de forma efectiva y segura! Actuamos directamente sobre los acúmulos de grasa infiltrando un disolvente totalmente inocuo que diluye la grasa localizada favoreciendo su eliminación. Para que logres los resutados que estás buscando, con nuestro tratamiento corporal realizado por personal especializado. ¡Reserva tu cita online con Bucmi.com!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Intralipoterapia 3 Sesiones", 
+            "duration": 2700, 
+            "price": "450 € ", 
+            "description": "¡Elimina la garsa localizada de forma efectiva y segura! Actuamos directamente sobre los acúmulos de grasa infiltrando un producto médico totalmente inocuo que diluye la grasa localizada favoreciendo su eliminación. Tratamiento corporal realizado por personal especializado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Especial Embarazadas", 
+            "duration": 3600, 
+            "price": "70 € ", 
+            "description": "Masaje relajante,drenaje linfatico, anticellulitico, reafirmante, decontracturante, aromaterapia, piedras volcánicas. Reserva tu cita y disfruta de tu masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Para Hombre", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Masaje relajante,drenaje linfatico, anticellulitico, reafirmante, decontracturante, aromaterapia, piedras volcánicas. Reserva tu cita y disfruta de tu masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Para Hombre", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje relajante,drenaje linfatico, anticellulitico, reafirmante, decontracturante, aromaterapia, piedras volcánicas. Reserva tu cita y disfruta de tu masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Para Mujer", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Masaje relajante,drenaje linfatico, anticellulitico, reafirmante, decontracturante, aromaterapia, piedras volcánicas. Reserva tu cita y disfruta de tu masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Para Mujer", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Masaje relajante,drenaje linfatico, anticellulitico, reafirmante, decontracturante, aromaterapia, piedras volcánicas. Reserva tu cita y disfruta de tu masaje."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Facial Vitaminas", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Tratamiento médico estético de hidratación facial. Consigue una piel hidratada y luminosa gracias al tratamiento de mesoterapia facial. La mesoterapia facial es un tratamiento a base de vitaminas que elimina los signos de cansancio y aporta una piel luminosa. Consulta gratuita y sin compromiso."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Facial Vitaminas 3 Sesiones", 
+            "duration": 2700, 
+            "price": "390 € ", 
+            "description": "Tratamiento médico estético de hidratación facial. Consigue una piel hidratada y luminosa gracias al tratamiento de mesoterapia facial. La mesoterapia facial es un tratamiento a base de vitaminas que elimina los signos de cansancio y aporta una piel luminosa. Consulta gratuita y sin compromiso."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Tratamiento de renovación facial para limpiar la superficie de la piel, eliminar las células muertas y generar una renovación celular. Indicado para pieles jóvenes y maduras como tratamiento básico."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Químico Médico Facial 3 Sesiones", 
+            "duration": 2700, 
+            "price": "540 € ", 
+            "description": "Renueva y regenera tu piel. Elimina manchas e imperfecciones del rostro y consigue una piel más luminosa. Perfecto para cara y escote. Primera consulta gratuita."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Piernas Cansadas, Tratamiento Corporal", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Tratamiento combinado para combatir el efecto de piernas cansadas, en Cle Mason hemos creado un protocolo de masaje + presoterapia. 30 minutos de masaje relajante de piernas y 30 de presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Piernas Cansadas, Tratamiento Corporal 5 Sesiones", 
+            "duration": 3600, 
+            "price": "255 € ", 
+            "description": "Tratamiento combinado para combatir el efecto de piernas cansadas, en Cle Mason hemos creado un protocolo de masaje + presoterapia. 30 minutos de masaje relajante de piernas y 30 de presoterapia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiessetratamiento Médico Facial", 
+            "duration": 3600, 
+            "price": "400 € ", 
+            "description": "Combate los signos del envejecimiento, arrugas y flacidez con el tratamiento de Radiesse, un tratamiento médico para la recuperación de volúmenes y formas en tu rostro.Luce una piel más joven, de la manera más sencilla y segura."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal 1 Sesión", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "Tu piel tersa y firme con la última tecnología en radiofrecuencia. Este tratamiento corporal está orientado a mejorar la flacidez y la textura de la piel. Disfruta de una multitud de beneficios visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "440 € ", 
+            "description": "Tu piel tersa y firme con la última tecnología en radiofrecuencia. Este tratamiento corporal está orientado a mejorar la flacidez y la textura de la piel. Disfruta de una multitud de beneficios visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal Bono 5 Sesiones", 
+            "duration": 3600, 
+            "price": "233,75 € ", 
+            "description": "Tu piel tersa y firme con la última tecnología en radiofrecuencia. Este tratamiento corporal está orientado a mejorar la flacidez y la textura de la piel. Disfruta de una multitud de beneficios visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "Tu piel tersa y firme con lo último en radiofrecuencia. Disfruta de una sesión de 60 minutos de este trabajo estético orientado a mejorar la laxitud de la piel y recuperar su firmeza a nivel corporal. Conseguiremos que se terse y suavice en las zonas donde hayas perdido grasa localizada. Disfruta de una multitud de beneficios visibles desde la primera sesión. Notarás una piel más firme y tersa y una mejora en la circulación al mismo tiempo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial 10 Sesiones", 
+            "duration": 3600, 
+            "price": "280 € ", 
+            "description": "Tu piel tersa y firme con la última tecnología en radiofrecuencia. Este tratamiento está orientado a mejorar la laxitud de la piel y recuperar su firmeza a nivel facial. Disfruta de una multitud de beneficios visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial Bono 5 Sesiones", 
+            "duration": 2700, 
+            "price": "157,5 € ", 
+            "description": "Tu piel tersa y firme con lo último en radiofrecuencia. Disfruta de una sesión de 60 minutos de este trabajo estético orientado a mejorar la laxitud de la piel y recuperar su firmeza a nivel corporal. Conseguiremos que se terse y suavice en las zonas donde hayas perdido grasa localizada. Disfruta de una multitud de beneficios visibles desde la primera sesión. Notarás una piel más firme y tersa y una mejora en la circulación al mismo tiempo."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rayos Uva-Bono 120 Minutos", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "Última generación en Rayos UVA con la tecnología Ergoline prestige 1100 (biturbo)...maquina de bronceado regulable, dotada de aire condicionado, ventilador, vaporizador y música."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rayos Uva-Sesion Individual", 
+            "duration": 900, 
+            "price": "22,5 € ", 
+            "description": "Última generación en Rayos UVA con la tecnología Ergoline prestige 1100 (biturbo)...maquina de bronceado regulable, dotada de aire condicionado, ventilador, vaporizador y música."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Corporal Beauty Summer", 
+            "duration": 14400, 
+            "price": "980 € ", 
+            "description": "Consigue un cuerpo 10 este verano, aún estás a tiempo! 3 SESIONES DE INDIBA +2 SESIONES DE VENDAS AROCHA +5 PRESOTERAPIAS +5 SESIONES DE CARBOXITERAPIA. Infórmate en una primera consulta gratuita dónde te realizaremos un diagnostico médico sin compromiso."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Beauty Summer Facial", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "BONO BAUTY SUMMER. Prepara tu piel para el verano con tu bono de estética facial a medida. Dos sesiones de 60 minutos cada una. En la primera sesión podrás elegir entre una higiene facial o una microdermoabrásión. En la segunda sesión entre un tratamiento de luminosidad, hidratación o rejuvenecimiento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono Corporal Beauty", 
+            "duration": 14400, 
+            "price": "530 € ", 
+            "description": "Ponte a punto este verano, 3 SESIONES DE INDIBA2 SESIONES DE VENDAS5 SESIONES DE PRESOTERAPIA Informate en nuestro centro dónde te haremos una primera consulta gratuita sin compromiso."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Corporal Beauty Summer", 
+            "duration": 14400, 
+            "price": "980 € ", 
+            "description": "Consigue un cuerpo 10 este verano, aún estás a tiempo! 3 SESIONES DE INDIBA +2 SESIONES DE VENDAS AROCHA +5 PRESOTERAPIAS +5 SESIONES DE CARBOXITERAPIA. Infórmate en una primera consulta gratuita dónde te realizaremos un diagnostico médico sin compromiso."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Beauty Summer Facial", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "BONO BAUTY SUMMER. Prepara tu piel para el verano con tu bono de estética facial a medida. Dos sesiones de 60 minutos cada una. En la primera sesión podrás elegir entre una higiene facial o una microdermoabrásión. En la segunda sesión entre un tratamiento de luminosidad, hidratación o rejuvenecimiento."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Corporal Beauty", 
+            "duration": 14400, 
+            "price": "530 € ", 
+            "description": "Ponte a punto este verano, 3 SESIONES DE INDIBA2 SESIONES DE VENDAS5 SESIONES DE PRESOTERAPIA Informate en nuestro centro dónde te haremos una primera consulta gratuita sin compromiso."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Químico Médico, Tratamiento Facial", 
+            "duration": 2700, 
+            "price": "180 € ", 
+            "description": "Renueva y regenta tu piel. Además, elimina manchas y restos de piel muerta de las capas más externas. Perfecto para cara y escote. No lo dudes más y haz tu reserva en Cle Maison. No te arrepentirás de los resultados. ¡Reserva tu cita online con Bucmi.com! ¡Lucirás un rostro perfecto y libre de imperfecciones!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Carboxiterapia Corporal 10 Sesiones", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Corporal Beauty Summer", 
+            "duration": 14400, 
+            "price": "980 € ", 
+            "description": "Consigue un cuerpo 10 este verano, aún estás a tiempo! 3 SESIONES DE INDIBA +2 SESIONES DE VENDAS AROCHA +5 PRESOTERAPIAS +5 SESIONES DE CARBOXITERAPIA. Infórmate en una primera consulta gratuita dónde te realizaremos un diagnostico médico sin compromiso."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Beauty Summer Facial", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "BONO BAUTY SUMMER. Prepara tu piel para el verano con tu bono de estética facial a medida. Dos sesiones de 60 minutos cada una. En la primera sesión podrás elegir entre una higiene facial o una microdermoabrásión. En la segunda sesión entre un tratamiento de luminosidad, hidratación o rejuvenecimiento."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Corporal Beauty", 
+            "duration": 14400, 
+            "price": "530 € ", 
+            "description": "Ponte a punto este verano, 3 SESIONES DE INDIBA2 SESIONES DE VENDAS5 SESIONES DE PRESOTERAPIA Informate en nuestro centro dónde te haremos una primera consulta gratuita sin compromiso."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Químico Médico, Tratamiento Facial", 
+            "duration": 2700, 
+            "price": "180 € ", 
+            "description": "Renueva y regenta tu piel. Además, elimina manchas y restos de piel muerta de las capas más externas. Perfecto para cara y escote. No lo dudes más y haz tu reserva en Cle Maison. No te arrepentirás de los resultados. ¡Reserva tu cita online con Bucmi.com! ¡Lucirás un rostro perfecto y libre de imperfecciones!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Carboxiterapia Corporal 10 Sesiones", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Bono Corporal Beauty Summer", 
+            "duration": 14400, 
+            "price": "980 € ", 
+            "description": "Consigue un cuerpo 10 este verano, aún estás a tiempo! 3 SESIONES DE INDIBA +2 SESIONES DE VENDAS AROCHA +5 PRESOTERAPIAS +5 SESIONES DE CARBOXITERAPIA. Infórmate en una primera consulta gratuita dónde te realizaremos un diagnostico médico sin compromiso."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Bono Beauty Summer Facial", 
+            "duration": 7200, 
+            "price": "150 € ", 
+            "description": "BONO BAUTY SUMMER. Prepara tu piel para el verano con tu bono de estética facial a medida. Dos sesiones de 60 minutos cada una. En la primera sesión podrás elegir entre una higiene facial o una microdermoabrásión. En la segunda sesión entre un tratamiento de luminosidad, hidratación o rejuvenecimiento."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Bono Corporal Beauty", 
+            "duration": 14400, 
+            "price": "530 € ", 
+            "description": "Ponte a punto este verano, 3 SESIONES DE INDIBA2 SESIONES DE VENDAS5 SESIONES DE PRESOTERAPIA Informate en nuestro centro dónde te haremos una primera consulta gratuita sin compromiso."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Peeling Químico Médico, Tratamiento Facial", 
+            "duration": 2700, 
+            "price": "180 € ", 
+            "description": "Renueva y regenta tu piel. Además, elimina manchas y restos de piel muerta de las capas más externas. Perfecto para cara y escote. No lo dudes más y haz tu reserva en Cle Maison. No te arrepentirás de los resultados. ¡Reserva tu cita online con Bucmi.com! ¡Lucirás un rostro perfecto y libre de imperfecciones!"
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Carboxiterapia Corporal 10 Sesiones", 
+            "duration": 3600, 
+            "price": "900 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Carboxiterapia Cuello Y Escote 10 Sesiones", 
+            "duration": 2700, 
+            "price": "900 € ", 
+            "description": "El tratamiento médico carboxiterapia es una técnica mínimamente invasiva indicado para tratar grasa localizada, flacidez y celulitis."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Biosestimulación Facial 3 Sesiones", 
+            "duration": 3600, 
+            "price": "288 € ", 
+            "description": "Es inevitable que la piel sufra con el paso de los años. El tratamiento de bioestimulación ayuda a tratar aquellos signos de envejecimiento como las arrugas, líneas de expresión, la falta de elasticidad y de luminosidad."
+        }
+    ]
+}

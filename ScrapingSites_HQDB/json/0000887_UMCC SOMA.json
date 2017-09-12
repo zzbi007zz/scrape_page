@@ -1,0 +1,101 @@
+{
+    "adid": null, 
+    "name": "UMCC SOMA", 
+    "name_of_contact": "UMCC SOMA", 
+    "scrape_page": "https://www.bucmi.com/umccsoma", 
+    "business_website": "https://www.bucmi.com/umccsoma", 
+    "areas_covered": null, 
+    "description": "Dentro de la Clínica Amanón Spa, se encuentra el Centro Médico UMCC SOMA. Profesionales altamente cualificados; titulados en medicina que te cuidarán a la vez que te ponen guapa. Reserva de un sólo clic con Bucmi.com nuestros completos tratamientos.", 
+    "img_link": null, 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Serrano, 79", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Serrano, 79, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "915541022", 
+    "office_number2": null, 
+    "mobile_number": "690700280", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4360189000", 
+    "longitude": "-3.6866875000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635811969862320625.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Tto. Facial Rellenos Ácido Hialurónico Labios", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Consigue unos labios perfectos. Tratamiento que mejora el aspecto de los labios dándoles volumen, firmeza y se perfila su contorno, además de mantenerlos hidratados y protegidos, por lo que el resultado es claramente visible."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mesoterapia Facial", 
+            "duration": 2700, 
+            "price": "110 € ", 
+            "description": "Técnica a través de la cual se inyecta la piel con potentes vitaminas y ácido hialurónico, revitalizando y haciendo la piel más firme, radiante, joven y saludable. hialurónico ayuda a rellenar e hidratar la piel restaurando su apariencia juve"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Toxina Botulínica (Botox) Facial", 
+            "duration": 1800, 
+            "price": "120 € ", 
+            "description": "Técnica más conocida como botox. Especialmente diseñada para el tratamiento estético de las arrugas faciales dando un aspecto más relajado y joven al rostro. El precio es por zona (frente, entrecejo o patas de gallo). No se necesita anestesia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Facial Rellenos Ácido Hialurónico Labios", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Consigue unos labios perfectos. Tratamiento que mejora el aspecto de los labios dándoles volumen, firmeza y se perfila su contorno, además de mantenerlos hidratados y protegidos, por lo que el resultado es claramente visible."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mesoterapia Facial", 
+            "duration": 2700, 
+            "price": "110 € ", 
+            "description": "Técnica a través de la cual se inyecta la piel con potentes vitaminas y ácido hialurónico, revitalizando y haciendo la piel más firme, radiante, joven y saludable. hialurónico ayuda a rellenar e hidratar la piel restaurando su apariencia juve"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rellenos De Ácido Hialurónico", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Tratamiento para los pliegues, surcos, arrugas y depresiones del rostro, además de labios y pómulos. Se produce la recuperación del volumen de una forma rápida y segura. El efecto es inmediato ya que la sustancia inyectada rellena las arrugas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Toxina Botulínica (Botox) Facial", 
+            "duration": 1800, 
+            "price": "120 € ", 
+            "description": "Técnica más conocida como botox. Especialmente diseñada para el tratamiento estético de las arrugas faciales dando un aspecto más relajado y joven al rostro. El precio es por zona (frente, entrecejo o patas de gallo). No se necesita anestesia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Facial Hilostensores Espiculados", 
+            "duration": 2700, 
+            "price": "160 € ", 
+            "description": "Tratamiento de 2 hilos. Efecto lifting inmediato y no quirúrgico. Produce un mayor efecto tensor, mayor volumen y un resultado más duradero del Tratamiento en arrugas, pliegues nasogenianos y piel flácida. No esperes más y reserva ahora tu cita online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hilos Tensores", 
+            "duration": 2700, 
+            "price": "250 € ", 
+            "description": "Tratamiento completo de 10 hilos. Produce un efecto lifting,no quirúrgico, apreciable de forma inmediata, favorece la producción natural de colágeno, estimula el rejuvenecimiento de la piel, aportándole vitalidad, elasticidad y una mayor luminosidad."
+        }
+    ]
+}

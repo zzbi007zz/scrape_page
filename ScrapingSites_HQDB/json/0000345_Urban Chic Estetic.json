@@ -1,0 +1,368 @@
+{
+    "adid": null, 
+    "name": "Urban Chic Estetic", 
+    "name_of_contact": "Urban Chic Estetic", 
+    "scrape_page": "https://www.bucmi.com/urbanchic", 
+    "business_website": "https://www.bucmi.com/urbanchic", 
+    "areas_covered": null, 
+    "description": "Urban Chic Estetic es un exclusivo centro de belleza unisex ubicado en Arturo Soria en Madrid, que gracias a un personal cualificado y a un trato personalizado, te hará sentir cómodo a la vez que te pone guap@.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635683208811492643.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635749805146294401.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635967588539562079.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635967590107498644.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635967590435929315.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635967590623581635.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635967591385441045.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635967591526063182.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635967591690747186.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635967591870587236.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636075538042033871.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636177479265819243.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636177479397534513.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636177479929707494.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "122", 
+    "hqdb_review_score": "9,1", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Cartagena, 73", 
+    "city": "Madrid", 
+    "zipcode": "70", 
+    "formatted_address": "C/ Cartagena, 73, Madrid, 70", 
+    "country": "es", 
+    "office_number": "910250464", 
+    "office_number2": null, 
+    "mobile_number": "689539490", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4630565000", 
+    "longitude": "-3.6561848000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635931435578945071.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Demo Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "¿Quieres lucir una piel tersa y mucho más joven? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Gracias a nuestra Demo Facial de radiofrecuencia conseguirás una piel renovada ya que eliminarás las primeras líneas de expresión, reduce manchas, cicatrices y pequeñas imperfecciones. Muy reafirmante. Reserva esta sesión y comprueba la diferencia. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Y Tratamiento Labios", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "¿Quieres lucir una piel suave, hidratada y nutrida? ¿Y además cuidar tus labios? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Cuida tu piel y tus labios con este servicio. Sanea tus labios con este servicio, que incluye un peeling labial con el que eliminarás las pielecitas sobrantes y finaliza con una mascarilla bálsamo para hidratar tus labios, Además de una higiene facial completa. Reserva tu cita cómodamente online a través de Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante, Descontracturante O Mixto", 
+            "duration": 1800, 
+            "price": "28 € ", 
+            "description": "Elije entre masaje relajante, descontracturante, o mixto en la zona que tú elijas: pies, piernas, espalda y cuello, craneofacial o cuerpo entero. Relaja cuerpo y mente. Se puede elegir el aceite con el cual se quiere realizar el masaje, entre los siguientes aromas: fresa, melón, cereza, chocolate, lavanda, rosa de mosqueta, almendras, étc. Reserva tu cita cómodamente online a través de Bucmi.com y ven a nuestro Centro y sumérgete en un universo de relax y bienestar. DF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Masculina Integral (Pubis)", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Quieres lucir un cuerpo libre de vello molesto? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Olvídate de tener que depilarte al menos en 3 semanas. Servicio de depilación integral con cera en la zona del pubis para hombre La cera que utilizamos en Urban Chic es de un sólo uso, totalmente nueva y sin reciclar. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará!DF"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal: Ritual 7 Sentidos", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Disfruta de este tratamiento corporal en el que comenzamos eligiendo el aroma del ritual (Chocolate, Fresa, Cereza, Melón, Lavanda, Rosa Mosqueta, etc...), realizamos un peeling corporal por todo el cuerpo, después se pasará a la ducha, luego aplicamos la hidratación y envoltura y para finalizar realizamos una hidratación corporal mediante un masaje. Se regala una bebida fría o caliente con un detalle dulce según el aroma elegido para acabar el ritual. Reserva tu cita online a través de Bucmi.comF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Rimel Permanente (3 Semanas De Pestañas Perfectas)", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Presume de pestañas con nuestro Rimel permanente, dura hasta 3 semanas perfectas. Por este precio te rizamos las pestañas con un rizador térmico, te hacemos el rimel y te lo quitamos al acabar las 3 semanas. Ahora con el buen tiempo, presume de tus pestañas, en la playa, en el gimnasio, después de una noche loca, Siempre!!! Puedes Complementarlo por 8€ con nuestro Diseño de Cejas. Luce una mirada atractiva y seductora. Dí adiós a tú máscara de pestañas. Estarás perfecta siempre. Reserva tu cita ahora. DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Demo Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "¿Quieres lucir una piel tersa y mucho más joven? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Gracias a nuestra Demo Facial de radiofrecuencia conseguirás una piel renovada ya que eliminarás las primeras líneas de expresión, reduce manchas, cicatrices y pequeñas imperfecciones. Muy reafirmante. Reserva esta sesión y comprueba la diferencia. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Hidratación Facial Express", 
+            "duration": 1800, 
+            "price": "36 € ", 
+            "description": "El servicio incluye: Desmaquillamos la piel, peeling scrub, tonificamos la piel, Mascarilla muy hidratante, masaje facial, hidratación según tipo de piel, siempre aconsejado por nuestras profesionales. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, súper hidrata y nutrida. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel con mucho brillo y vitalidad. Reserva ahoraF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "3 Sesiones Cavitación, Lipólisis O Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "225 € ", 
+            "description": "Di adiós a la grasa localizada en abdomen, glúteos, rodilla, brazos, flanco o la zona que elijas. Para ello, podrás elegir la técnica más eficaz para ti: cavitación, lipólisis o radiofrecuencia. Además, contamos con unas ampollas que potencian los resultados hasta en un 50%. Podrás adquirir el producto en el centro y nuestra profesionales te lo aplicará en esa misma sesión. Según la ampolla elegida el precio puede oscilar entre 12 y 20 euros. Reserva tu cita cómodamente online a través de Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Tratamiento Labios", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "¿Quieres lucir una piel suave, hidratada y nutrida? ¿Y además cuidar tus labios? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Cuida tu piel y tus labios con este servicio. Sanea tus labios con este servicio, que incluye un peeling labial con el que eliminarás las pielecitas sobrantes y finaliza con una mascarilla bálsamo para hidratar tus labios, Además de una higiene facial completa. Reserva tu cita cómodamente online a través de Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Facial A Elegir Contorno Ojos O Vitamina C", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Elige uno de nuestros tratamientos estrella para tu rostro. Tratamiento Contorno de Ojos: desmaquillado, tónico, peeling de Scrub de Vitamina C, aplicación de concentrado drenante en la zona, masaje en zona orbicular, mascarilla en zona orbicular, crema para combatir las bolsas y patas de gallo y crema oxigenante en todo el rostro. Tratamiento Facial Vitamina C: Desmaquillado, tónico, peelin scrub con Vitamina C, aplicación de concentrado de Vitamina C, masaje, mascarilla y crema final. Reserva tu cita yaF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Maquillaje De Día/Noche O Fiesta", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¿Tienes un evento importante y quieres sacar lo mejor de ti? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Te asesoramos acerca del look que más te favorece, para que seas la estrella de la fiesta. Luce un maquillaje natural y que realce las facciones más bonitas de tu rostro. Deslumbrarás en tu cita especial o evento. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack *Es Tu Momento.*: Higiene Facial", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Incluye higiene facial con mascarilla de oro, peeling químico, extracción de puntos negros sin vapor de ozono.El peeling químico apto para todo tipo de pieles y edades. Sigue el tratamiento labial con peeling y mascarilla para eliminar las pieles sobrante e hidratar tus labios. Podrás elegir entre un tratamiento de parafina en manos, así como esmaltado permanente en manos o pies a 1 color, no Francesa. Y disfruta de un masaje de 10 minutos a elegir en manos, pies, cráneo o facial. ¡Detalle de té y dulce!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Con Hidratación", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "¿Quieres lucir un cuerpo suave, hidratado y nutrido? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Peeling corporal con sales del mar muerto, una ducha e hidratación corporal. Toda una experiencia de belleza y relax. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Despigmentante", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Quieres lucir una piel libre de imperfecciones? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. El peeling despigmentante servicio no agresivo y eficaz para el tratamiento de las manchas del rostro. Luce una piel bonita, suave y sin rastro de manchitas. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel mucho más hidratada y libre de imperfecciones. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará! DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una mirada de cine, gracias a nuestro servicio de tinte de pestañas, además olvídate de la máscara durante más tiempo. Disfruta de una mirada atractiva y seductora. Olvídate de tu máscara de pestañas. Estarás perfecta desde primera hora de la mañana. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Te encantará!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Tiñe y riza tus pestañas para una mirada más intensa. Un tratamiento muy reservado por bloggers, que se olvidan de usar la máscara de pestañas. Disfruta de una mirada atractiva y seductora. Olvídate de tu máscara de pestañas. Estarás perfecta desde primera hora de la mañana. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos!DF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal: Ritual 7 Sentidos", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Disfruta de este tratamiento corporal en el que comenzamos eligiendo el aroma del ritual (Chocolate, Fresa, Cereza, Melón, Lavanda, Rosa Mosqueta, etc...), realizamos un peeling corporal por todo el cuerpo, después se pasará a la ducha, luego aplicamos la hidratación y envoltura y para finalizar realizamos una hidratación corporal mediante un masaje. Se regala una bebida fría o caliente con un detalle dulce según el aroma elegido para acabar el ritual. Reserva tu cita online a través de Bucmi.comF"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal: Ritual Secretos De Egipto", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Disfruta de este tratamiento corporal con un peeling corporal por todo el cuerpo con sales minerales del Mar Muerto, después se pasará a la ducha, luego aplicamos la hidratación y envoltura de leche de Cleopatra y para finalizar realizamos una hidratación corporal mediante un masaje con leche de Cleopatra. Todo el tratamiento va enriquecido con sales minerales del Mar Muerto. Se regala una bebida fría o caliente con un detalle dulce para acabar el ritual. Reserva tu cita online a través de Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Rimel Permanente (3 Semanas De Pestañas Perfectas)", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Presume de pestañas con nuestro Rimel permanente, dura hasta 3 semanas perfectas. Por este precio te rizamos las pestañas con un rizador térmico, te hacemos el rimel y te lo quitamos al acabar las 3 semanas. Ahora con el buen tiempo, presume de tus pestañas, en la playa, en el gimnasio, después de una noche loca, Siempre!!! Puedes Complementarlo por 8€ con nuestro Diseño de Cejas. Luce una mirada atractiva y seductora. Dí adiós a tú máscara de pestañas. Estarás perfecta siempre. Reserva tu cita ahora. DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Demo Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "¿Quieres lucir una piel tersa y mucho más joven? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Gracias a nuestra Demo Facial de radiofrecuencia conseguirás una piel renovada ya que eliminarás las primeras líneas de expresión, reduce manchas, cicatrices y pequeñas imperfecciones. Muy reafirmante. Reserva esta sesión y comprueba la diferencia. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Hidratación Facial Express", 
+            "duration": 1800, 
+            "price": "36 € ", 
+            "description": "El servicio incluye: Desmaquillamos la piel, peeling scrub, tonificamos la piel, Mascarilla muy hidratante, masaje facial, hidratación según tipo de piel, siempre aconsejado por nuestras profesionales. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, súper hidrata y nutrida. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel con mucho brillo y vitalidad. Reserva ahoraF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "3 Sesiones Cavitación, Lipólisis O Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "225 € ", 
+            "description": "Di adiós a la grasa localizada en abdomen, glúteos, rodilla, brazos, flanco o la zona que elijas. Para ello, podrás elegir la técnica más eficaz para ti: cavitación, lipólisis o radiofrecuencia. Además, contamos con unas ampollas que potencian los resultados hasta en un 50%. Podrás adquirir el producto en el centro y nuestra profesionales te lo aplicará en esa misma sesión. Según la ampolla elegida el precio puede oscilar entre 12 y 20 euros. Reserva tu cita cómodamente online a través de Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Higiene Facial Y Tratamiento Labios", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "¿Quieres lucir una piel suave, hidratada y nutrida? ¿Y además cuidar tus labios? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Cuida tu piel y tus labios con este servicio. Sanea tus labios con este servicio, que incluye un peeling labial con el que eliminarás las pielecitas sobrantes y finaliza con una mascarilla bálsamo para hidratar tus labios, Además de una higiene facial completa. Reserva tu cita cómodamente online a través de Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tto. Facial A Elegir Contorno Ojos O Vitamina C", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Elige uno de nuestros tratamientos estrella para tu rostro. Tratamiento Contorno de Ojos: desmaquillado, tónico, peeling de Scrub de Vitamina C, aplicación de concentrado drenante en la zona, masaje en zona orbicular, mascarilla en zona orbicular, crema para combatir las bolsas y patas de gallo y crema oxigenante en todo el rostro. Tratamiento Facial Vitamina C: Desmaquillado, tónico, peelin scrub con Vitamina C, aplicación de concentrado de Vitamina C, masaje, mascarilla y crema final. Reserva tu cita yaF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Maquillaje De Día/Noche O Fiesta", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¿Tienes un evento importante y quieres sacar lo mejor de ti? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Te asesoramos acerca del look que más te favorece, para que seas la estrella de la fiesta. Luce un maquillaje natural y que realce las facciones más bonitas de tu rostro. Deslumbrarás en tu cita especial o evento. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack *Es Tu Momento.*: Higiene Facial", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Incluye higiene facial con mascarilla de oro, peeling químico, extracción de puntos negros sin vapor de ozono.El peeling químico apto para todo tipo de pieles y edades. Sigue el tratamiento labial con peeling y mascarilla para eliminar las pieles sobrante e hidratar tus labios. Podrás elegir entre un tratamiento de parafina en manos, así como esmaltado permanente en manos o pies a 1 color, no Francesa. Y disfruta de un masaje de 10 minutos a elegir en manos, pies, cráneo o facial. ¡Detalle de té y dulce!DF"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Peeling Corporal Con Hidratación", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "¿Quieres lucir un cuerpo suave, hidratado y nutrido? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Peeling corporal con sales del mar muerto, una ducha e hidratación corporal. Toda una experiencia de belleza y relax. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Rimel Permanente (3 Semanas De Pestañas Perfectas)", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Presume de pestañas con nuestro Rimel permanente, dura hasta 3 semanas perfectas. Por este precio te rizamos las pestañas con un rizador térmico, te hacemos el rimel y te lo quitamos al acabar las 3 semanas. Ahora con el buen tiempo, presume de tus pestañas, en la playa, en el gimnasio, después de una noche loca, Siempre!!! Puedes Complementarlo por 8€ con nuestro Diseño de Cejas. Luce una mirada atractiva y seductora. Dí adiós a tú máscara de pestañas. Estarás perfecta siempre. Reserva tu cita ahora. DF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Demo Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "¿Quieres lucir una piel tersa y mucho más joven? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Gracias a nuestra Demo Facial de radiofrecuencia conseguirás una piel renovada ya que eliminarás las primeras líneas de expresión, reduce manchas, cicatrices y pequeñas imperfecciones. Muy reafirmante. Reserva esta sesión y comprueba la diferencia. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Hidratación Facial Express", 
+            "duration": 1800, 
+            "price": "36 € ", 
+            "description": "El servicio incluye: Desmaquillamos la piel, peeling scrub, tonificamos la piel, Mascarilla muy hidratante, masaje facial, hidratación según tipo de piel, siempre aconsejado por nuestras profesionales. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, súper hidrata y nutrida. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel con mucho brillo y vitalidad. Reserva ahoraF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Rimel Permanente (3 Semanas De Pestañas Perfectas)", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Presume de pestañas con nuestro Rimel permanente, dura hasta 3 semanas perfectas. Por este precio te rizamos las pestañas con un rizador térmico, te hacemos el rimel y te lo quitamos al acabar las 3 semanas. Ahora con el buen tiempo, presume de tus pestañas, en la playa, en el gimnasio, después de una noche loca, Siempre!!! Puedes Complementarlo por 8€ con nuestro Diseño de Cejas. Luce una mirada atractiva y seductora. Dí adiós a tú máscara de pestañas. Estarás perfecta siempre. Reserva tu cita ahora. DF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Demo Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "¿Quieres lucir una piel tersa y mucho más joven? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Gracias a nuestra Demo Facial de radiofrecuencia conseguirás una piel renovada ya que eliminarás las primeras líneas de expresión, reduce manchas, cicatrices y pequeñas imperfecciones. Muy reafirmante. Reserva esta sesión y comprueba la diferencia. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Hidratación Facial Express", 
+            "duration": 1800, 
+            "price": "36 € ", 
+            "description": "El servicio incluye: Desmaquillamos la piel, peeling scrub, tonificamos la piel, Mascarilla muy hidratante, masaje facial, hidratación según tipo de piel, siempre aconsejado por nuestras profesionales. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, súper hidrata y nutrida. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel con mucho brillo y vitalidad. Reserva ahoraF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "3 Sesiones Cavitación, Lipólisis O Radiofrecuencia", 
+            "duration": 1800, 
+            "price": "225 € ", 
+            "description": "Di adiós a la grasa localizada en abdomen, glúteos, rodilla, brazos, flanco o la zona que elijas. Para ello, podrás elegir la técnica más eficaz para ti: cavitación, lipólisis o radiofrecuencia. Además, contamos con unas ampollas que potencian los resultados hasta en un 50%. Podrás adquirir el producto en el centro y nuestra profesionales te lo aplicará en esa misma sesión. Según la ampolla elegida el precio puede oscilar entre 12 y 20 euros. Reserva tu cita cómodamente online a través de Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Y Tratamiento Labios", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "¿Quieres lucir una piel suave, hidratada y nutrida? ¿Y además cuidar tus labios? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Cuida tu piel y tus labios con este servicio. Sanea tus labios con este servicio, que incluye un peeling labial con el que eliminarás las pielecitas sobrantes y finaliza con una mascarilla bálsamo para hidratar tus labios, Además de una higiene facial completa. Reserva tu cita cómodamente online a través de Bucmi.com. DF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tto. Facial A Elegir Contorno Ojos O Vitamina C", 
+            "duration": 3600, 
+            "price": "80 € ", 
+            "description": "Elige uno de nuestros tratamientos estrella para tu rostro. Tratamiento Contorno de Ojos: desmaquillado, tónico, peeling de Scrub de Vitamina C, aplicación de concentrado drenante en la zona, masaje en zona orbicular, mascarilla en zona orbicular, crema para combatir las bolsas y patas de gallo y crema oxigenante en todo el rostro. Tratamiento Facial Vitamina C: Desmaquillado, tónico, peelin scrub con Vitamina C, aplicación de concentrado de Vitamina C, masaje, mascarilla y crema final. Reserva tu cita yaF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Maquillaje De Día/Noche O Fiesta", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¿Tienes un evento importante y quieres sacar lo mejor de ti? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Te asesoramos acerca del look que más te favorece, para que seas la estrella de la fiesta. Luce un maquillaje natural y que realce las facciones más bonitas de tu rostro. Deslumbrarás en tu cita especial o evento. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack *Es Tu Momento.*: Higiene Facial", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Incluye higiene facial con mascarilla de oro, peeling químico, extracción de puntos negros sin vapor de ozono.El peeling químico apto para todo tipo de pieles y edades. Sigue el tratamiento labial con peeling y mascarilla para eliminar las pieles sobrante e hidratar tus labios. Podrás elegir entre un tratamiento de parafina en manos, así como esmaltado permanente en manos o pies a 1 color, no Francesa. Y disfruta de un masaje de 10 minutos a elegir en manos, pies, cráneo o facial. ¡Detalle de té y dulce!DF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Con Hidratación", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "¿Quieres lucir un cuerpo suave, hidratado y nutrido? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Peeling corporal con sales del mar muerto, una ducha e hidratación corporal. Toda una experiencia de belleza y relax. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Facial Despigmentante", 
+            "duration": 2700, 
+            "price": "30 € ", 
+            "description": "¿Quieres lucir una piel libre de imperfecciones? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. El peeling despigmentante servicio no agresivo y eficaz para el tratamiento de las manchas del rostro. Luce una piel bonita, suave y sin rastro de manchitas. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel mucho más hidratada y libre de imperfecciones. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Te encantará! DF"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "¿Quieres lucir una mirada penetrante y cautivadora? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una mirada de cine, gracias a nuestro servicio de tinte de pestañas, además olvídate de la máscara durante más tiempo. Disfruta de una mirada atractiva y seductora. Olvídate de tu máscara de pestañas. Estarás perfecta desde primera hora de la mañana. Reserva tu cita cómodamente online a través de Bucmi.com. ¡Ven a visitarnos! ¡Te encantará!DF"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Rimel Permanente (3 Semanas De Pestañas Perfectas)", 
+            "duration": 1800, 
+            "price": "60 € ", 
+            "description": "Presume de pestañas con nuestro Rimel permanente, dura hasta 3 semanas perfectas. Por este precio te rizamos las pestañas con un rizador térmico, te hacemos el rimel y te lo quitamos al acabar las 3 semanas. Ahora con el buen tiempo, presume de tus pestañas, en la playa, en el gimnasio, después de una noche loca, Siempre!!! Puedes Complementarlo por 8€ con nuestro Diseño de Cejas. Luce una mirada atractiva y seductora. Dí adiós a tú máscara de pestañas. Estarás perfecta siempre. Reserva tu cita ahora. DF"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Demo Radiofrecuencia Facial", 
+            "duration": 1800, 
+            "price": "90 € ", 
+            "description": "¿Quieres lucir una piel tersa y mucho más joven? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Gracias a nuestra Demo Facial de radiofrecuencia conseguirás una piel renovada ya que eliminarás las primeras líneas de expresión, reduce manchas, cicatrices y pequeñas imperfecciones. Muy reafirmante. Reserva esta sesión y comprueba la diferencia. ¡Ven a visitarnos! ¡No dejes que te lo cuenten! DF"
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Hidratación Facial Express", 
+            "duration": 1800, 
+            "price": "36 € ", 
+            "description": "El servicio incluye: Desmaquillamos la piel, peeling scrub, tonificamos la piel, Mascarilla muy hidratante, masaje facial, hidratación según tipo de piel, siempre aconsejado por nuestras profesionales. ¿Quieres lucir una piel suave, hidratada y nutrida? Ven a tu Centro de Estética Urban Chic Estetic y ponte en manos de nuestros mejores profesionales. Luce una piel suave, súper hidrata y nutrida. Devuelve a tu piel su color y aspecto natural. Disfruta de una piel con mucho brillo y vitalidad. Reserva ahoraF"
+        }
+    ]
+}

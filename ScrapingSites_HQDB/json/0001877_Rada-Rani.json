@@ -1,0 +1,390 @@
+{
+    "adid": null, 
+    "name": "Rada-Rani", 
+    "name_of_contact": "Rada-Rani", 
+    "scrape_page": "https://www.bucmi.com/radarani", 
+    "business_website": "https://www.bucmi.com/radarani", 
+    "areas_covered": null, 
+    "description": "Tu salón de belleza en Valladolid, contamos con los mejores profesionales en belleza y bienestar. En nuestro centro contamos con diversos servicios entre los que destacan las pedicuras y manicuras, mechas o servicios para caballeros. No te lo pienses más", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636359955463660571.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636359955514754278.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636359955889597618.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636359955921159898.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636359956378346928.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636359957715532580.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636359957745219996.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636359971517232518.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Paraiso, 10", 
+    "city": "Valladolid", 
+    "zipcode": "47014", 
+    "formatted_address": "C/ Paraiso, 10, Valladolid, 47014", 
+    "country": "es", 
+    "office_number": "983512912", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6371809000", 
+    "longitude": "-4.7544047999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636353689077798356.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Porque la peluqueria no es sólo cosa de chicas, en Rada-Rani lo sabemos y por ello le dedicamos al publico un hueco en nuestro centro donde poder disfrutar de un corte de pelo a tijera y lucir perfecto en cualquier ocasión.No lo dudes y reserva tu cita ya en Bucmi.com"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Mujer Axilas", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Olvídate durante unas semanas de la depilación gracias a nuestros expertos estilistas de Rada - Rani.Luce una piel suave y sedosa."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente Shellac", 
+            "duration": 3600, 
+            "price": "20 € ", 
+            "description": "Luce unas manos bonitas por más tiempo con nuestro servicio de manicura permanente, que consiste en limado de la uña natural de la forma deseada,retirada de cutículas, hidratación y esmaltado permanente del color que más te guste de nuestra amplia gama."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Californianas Media Melena Y Peinado", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Dale color a tu cabello al tiempo que lo cuidas con productos de primeras marcas que miman tu pelo mientras lo embellecen. Somos expertos en una de las técnicas más modernas de mechas que le darán a tu cabello un aspecto degradado de lo más favorecedor. No lo dudes y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Pelo Largo y Peinado", 
+            "duration": 7200, 
+            "price": "39 € ", 
+            "description": "Para embellecer tu melena con una de las técnicas mas favorecedoras de la temporada reserva tu cita ya en Rada-Rani y consigue un aspecto renovado y de lo más favorecedor. En nuestro centro somos expertos coloristas que te ayudaremos a escoger el color que mejor combine con tu cabello. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado De Barba", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Sabemos que se lleva la barba, pero siempre bien cuidada.Para lucir una barba siempre impecable no lo dudes y reserva tu cita ya para un afeitado con navaja a la antigua usanza para gozar de una piel suave e hidratada y una barba simplemente perfecta. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personlizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personalizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Completo Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personalizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos. Te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Porque la peluqueria no es sólo cosa de chicas, en Rada-Rani lo sabemos y por ello le dedicamos al publico un hueco en nuestro centro donde poder disfrutar de un corte de pelo a tijera y lucir perfecto en cualquier ocasión.No lo dudes y reserva tu cita ya en Bucmi.com"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Depilación Cera Masculina Barba", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Depilación con Cera Caliente en zona Barba, arregla tu barba de la forma que más te guste o elimínala por completo. Ponte en las manos de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Babylight Pelo Largo", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Las mechas más sutiles, con resultados de lo más natural. Con estas mechas tratamos de dar luz y brillo a tu cabello, simulando los rayos del sol en tu cabello. Además se pretende que el cabello luzca como el de los peques cuando el sol les crea pequeños reflejos dorados. Unas mechas ideales para dar luminosidad a tu rostro sin resultados muy drásticos. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Babylights Pelo Medio", 
+            "duration": 5400, 
+            "price": "20 € ", 
+            "description": "Las mechas más sutiles, con resultados de lo más natural. Con estas mechas tratamos de dar luz y brillo a tu cabello, simulando los rayos del sol en tu cabello. Además se pretende que el cabello luzca como el de los peques cuando el sol les crea pequeños reflejos dorados. Unas mechas ideales para dar luminosidad a tu rostro sin resultados muy drásticos. No incluye peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Media Melena Y Peinado", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Dale color a tu cabello al tiempo que lo cuidas con productos de primeras marcas que miman tu pelo mientras lo embellecen. Somos expertos en una de las técnicas más modernas de mechas que le darán a tu cabello un aspecto degradado de lo más favorecedor. No lo dudes y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Novias", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¿Necesitas olvidarte de presiones y estar perfecta el día más feliz de tu vida? De la mano de nuestros profesionales conseguirás un look perfecto, justo el look que siempre habías soñado. Nos adaptamos a tus gustos, estilo o facciones, coméntanos tus necesidades y preferencias y sabremos lograr el resultado ideal para que no tengas que preocuparte para nada más."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogidos", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "¿Tienes un evento a la vista? De la mano de nuestros profesionales conseguirás un look perfecto sea la ocasión que sea. Nos adaptamos a tus gustos, estilo o facciones para que el recogido se adapte justo a lo que buscabas. Coméntanos tus necesidades y preferencias para que los resultados sean justo lo que buscabas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogidos", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "¿Tienes un evento a la vista? De la mano de nuestros profesionales conseguirás un look perfecto sea la ocasión que sea. Nos adaptamos a tus gustos, estilo o facciones para que el recogido se adapte justo a lo que buscabas. Coméntanos tus necesidades y preferencias para que los resultados sean justo lo que buscabas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Hombre Loreal", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Sabemos que a vosotros también os gusta cuidaros, por eso hemos creado un servicio de tinte específico para hombre. Con este tinte Loreal conseguirás ocultar tus canas y lucir un pelo brillante y con unos resultados súper naturales. Reserva ya en Bucmi.com"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Mechas Californianas Pelo Largo y Peinado", 
+            "duration": 7200, 
+            "price": "39 € ", 
+            "description": "Para embellecer tu melena con una de las técnicas mas favorecedoras de la temporada reserva tu cita ya en Rada-Rani y consigue un aspecto renovado y de lo más favorecedor. En nuestro centro somos expertos coloristas que te ayudaremos a escoger el color que mejor combine con tu cabello. Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Afeitado De Barba", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Sabemos que se lleva la barba, pero siempre bien cuidada.Para lucir una barba siempre impecable no lo dudes y reserva tu cita ya para un afeitado con navaja a la antigua usanza para gozar de una piel suave e hidratada y una barba simplemente perfecta. Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Completo Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personlizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Completo Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personalizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos. Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Completo Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personalizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos. Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Porque la peluqueria no es sólo cosa de chicas, en Rada-Rani lo sabemos y por ello le dedicamos al publico un hueco en nuestro centro donde poder disfrutar de un corte de pelo a tijera y lucir perfecto en cualquier ocasión.No lo dudes y reserva tu cita ya en Bucmi.com"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Californianas Pelo Largo y Peinado", 
+            "duration": 7200, 
+            "price": "39 € ", 
+            "description": "Para embellecer tu melena con una de las técnicas mas favorecedoras de la temporada reserva tu cita ya en Rada-Rani y consigue un aspecto renovado y de lo más favorecedor. En nuestro centro somos expertos coloristas que te ayudaremos a escoger el color que mejor combine con tu cabello. Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Afeitado De Barba", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Sabemos que se lleva la barba, pero siempre bien cuidada.Para lucir una barba siempre impecable no lo dudes y reserva tu cita ya para un afeitado con navaja a la antigua usanza para gozar de una piel suave e hidratada y una barba simplemente perfecta. Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Completo Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personlizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Completo Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personalizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos. Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Completo Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personalizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos. Te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Porque la peluqueria no es sólo cosa de chicas, en Rada-Rani lo sabemos y por ello le dedicamos al publico un hueco en nuestro centro donde poder disfrutar de un corte de pelo a tijera y lucir perfecto en cualquier ocasión.No lo dudes y reserva tu cita ya en Bucmi.com"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Depilación Cera Masculina Barba", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Depilación con Cera Caliente en zona Barba, arregla tu barba de la forma que más te guste o elimínala por completo. Ponte en las manos de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Babylight Pelo Largo", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Las mechas más sutiles, con resultados de lo más natural. Con estas mechas tratamos de dar luz y brillo a tu cabello, simulando los rayos del sol en tu cabello. Además se pretende que el cabello luzca como el de los peques cuando el sol les crea pequeños reflejos dorados. Unas mechas ideales para dar luminosidad a tu rostro sin resultados muy drásticos. No incluye peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas Pelo Largo y Peinado", 
+            "duration": 7200, 
+            "price": "39 € ", 
+            "description": "Para embellecer tu melena con una de las técnicas mas favorecedoras de la temporada reserva tu cita ya en Rada-Rani y consigue un aspecto renovado y de lo más favorecedor. En nuestro centro somos expertos coloristas que te ayudaremos a escoger el color que mejor combine con tu cabello. Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Afeitado De Barba", 
+            "duration": 1800, 
+            "price": "6 € ", 
+            "description": "Sabemos que se lleva la barba, pero siempre bien cuidada.Para lucir una barba siempre impecable no lo dudes y reserva tu cita ya para un afeitado con navaja a la antigua usanza para gozar de una piel suave e hidratada y una barba simplemente perfecta. Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Completo Y Peinado Media Melena", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personlizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Completo Y Peinado Pelo Corto", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personalizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos. Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Completo Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "Dale color a tu melena viniendo a Rada-Rani y disfrutando del asesoramiento personalizado de nuestro equipo colorista. Tanto si es el color de siempre como si lo que quieres es probar algo nuevo, ponemos a tu disposición nuestra amplia gama y te ayudaremos a elegir el color que más te favorezca y mejor se ajuste a tus gustos. Te encantará."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Porque la peluqueria no es sólo cosa de chicas, en Rada-Rani lo sabemos y por ello le dedicamos al publico un hueco en nuestro centro donde poder disfrutar de un corte de pelo a tijera y lucir perfecto en cualquier ocasión.No lo dudes y reserva tu cita ya en Bucmi.com"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Cera Masculina Barba", 
+            "duration": 900, 
+            "price": "6 € ", 
+            "description": "Depilación con Cera Caliente en zona Barba, arregla tu barba de la forma que más te guste o elimínala por completo. Ponte en las manos de los mejores profesionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Babylight Pelo Largo", 
+            "duration": 5400, 
+            "price": "25 € ", 
+            "description": "Las mechas más sutiles, con resultados de lo más natural. Con estas mechas tratamos de dar luz y brillo a tu cabello, simulando los rayos del sol en tu cabello. Además se pretende que el cabello luzca como el de los peques cuando el sol les crea pequeños reflejos dorados. Unas mechas ideales para dar luminosidad a tu rostro sin resultados muy drásticos. No incluye peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Babylights Pelo Medio", 
+            "duration": 5400, 
+            "price": "20 € ", 
+            "description": "Las mechas más sutiles, con resultados de lo más natural. Con estas mechas tratamos de dar luz y brillo a tu cabello, simulando los rayos del sol en tu cabello. Además se pretende que el cabello luzca como el de los peques cuando el sol les crea pequeños reflejos dorados. Unas mechas ideales para dar luminosidad a tu rostro sin resultados muy drásticos. No incluye peinado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Mechas Californianas Media Melena Y Peinado", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "Dale color a tu cabello al tiempo que lo cuidas con productos de primeras marcas que miman tu pelo mientras lo embellecen. Somos expertos en una de las técnicas más modernas de mechas que le darán a tu cabello un aspecto degradado de lo más favorecedor. No lo dudes y reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Recogido Novias", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¿Necesitas olvidarte de presiones y estar perfecta el día más feliz de tu vida? De la mano de nuestros profesionales conseguirás un look perfecto, justo el look que siempre habías soñado. Nos adaptamos a tus gustos, estilo o facciones, coméntanos tus necesidades y preferencias y sabremos lograr el resultado ideal para que no tengas que preocuparte para nada más."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Recogidos", 
+            "duration": 5400, 
+            "price": "38 € ", 
+            "description": "¿Tienes un evento a la vista? De la mano de nuestros profesionales conseguirás un look perfecto sea la ocasión que sea. Nos adaptamos a tus gustos, estilo o facciones para que el recogido se adapte justo a lo que buscabas. Coméntanos tus necesidades y preferencias para que los resultados sean justo lo que buscabas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Semirecogidos", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "¿Tienes un evento a la vista? De la mano de nuestros profesionales conseguirás un look perfecto sea la ocasión que sea. Nos adaptamos a tus gustos, estilo o facciones para que el recogido se adapte justo a lo que buscabas. Coméntanos tus necesidades y preferencias para que los resultados sean justo lo que buscabas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Hombre Loreal", 
+            "duration": 2700, 
+            "price": "15 € ", 
+            "description": "Sabemos que a vosotros también os gusta cuidaros, por eso hemos creado un servicio de tinte específico para hombre. Con este tinte Loreal conseguirás ocultar tus canas y lucir un pelo brillante y con unos resultados súper naturales. Reserva ya en Bucmi.com"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación Cejas", 
+            "duration": 2700, 
+            "price": "220 € ", 
+            "description": "Sorprende con un rostro siempre perfecto para cualquier ocasión. Te ofrecemos este servicio de micropigmentación en las cejas con la técnica pelo a pelo. Un resultado muy natural. Un aspecto ideal en tu día a día, siempre en manos de un cualificado equipo de profesionales. El resultado es muy permanente. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensión de Pestañas", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "En Rada-Rani puedes conseguir la mirada que deseas en solo unos minutos.Con la técnica de pelo a pelo colocamos el numero de que sea necesario para conseguir el acabado que más te guste. Naturales y duraderas con materiales de primera calidad. Reserva tu cita ya."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Micropigmentación Línea Ojo", 
+            "duration": 2700, 
+            "price": "150 € ", 
+            "description": "Sorprende con un rostro siempre perfecto para cualquier ocasión. Te ofrecemos este servicio de micropigmentación en la línea superior del ojo, para que te olvides por un tiempo de la raya. Un aspecto ideal en tu día a día, siempre en manos de un cualificado equipo de profesionales. El resultado es muy permanente. ¡No lo dudes y reserva ya tu cita cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }
+    ]
+}

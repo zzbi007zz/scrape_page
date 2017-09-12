@@ -1,0 +1,102 @@
+{
+    "adid": null, 
+    "name": "Alice Beauty concept", 
+    "name_of_contact": "Alice Beauty concept", 
+    "scrape_page": "https://www.bucmi.com/alicebeautyconcept", 
+    "business_website": "https://www.bucmi.com/alicebeautyconcept", 
+    "areas_covered": null, 
+    "description": "En Alice Beauty Concept te esperan profesionales con más de 10 años de experiencia en el sector de la Estética Profesional. Descubre tu centro de bienestar y salud en Granada, donde estamos especializados en depilación láser y tratamientos corporales.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635610028640210984.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635610028700215673.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635610028716779684.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635610028735687299.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635610028758501533.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635610028829140286.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635610028841016278.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "4,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Recogidas, 23", 
+    "city": "Granada", 
+    "zipcode": "18005", 
+    "formatted_address": "C/ Recogidas, 23, Granada, 18005", 
+    "country": "es", 
+    "office_number": "858959653", 
+    "office_number2": null, 
+    "mobile_number": "685390866", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "37.1718160000", 
+    "longitude": "-3.6018175000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962369843465334.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Bono 10 Sesiones Laser Lipolitico.Grasa Localizada", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "Bono 10 sesiones. Te ayuda a eliminar la grasa localizada y los centímetros de más con 10 sesiones de tratamiento reductor a base de lipoláser (20 minutos), presoterapia (20 minutos) y plataforma vibratoria (10 minutos)."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Bono Fotodepilación Ipl 10 Zonas", 
+            "duration": 900, 
+            "price": "100 € ", 
+            "description": "Gracias a este bono tienes una especie de tarifa plana en la que puedes eliminar el vello de forma definitiva de 10 zonas. Te encantará el resultado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Laser Lipolitico.Grasa Localizada", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "Bono 10 sesiones. Te ayuda a eliminar la grasa localizada y los centímetros de más con 10 sesiones de tratamiento reductor a base de lipoláser (20 minutos), presoterapia (20 minutos) y plataforma vibratoria (10 minutos)."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Fotorejuvenecimiento Facial Ipl", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Resultados visibles que ayudan a reafirmar la piel y tonifica los músculos. Efecto antiaging sin cirugía. Notarás los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Laser Lipolitico.Grasa Localizada", 
+            "duration": 3600, 
+            "price": "99 € ", 
+            "description": "Bono 10 sesiones. Te ayuda a eliminar la grasa localizada y los centímetros de más con 10 sesiones de tratamiento reductor a base de lipoláser (20 minutos), presoterapia (20 minutos) y plataforma vibratoria (10 minutos)."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Fotorejuvenecimiento Facial Ipl", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Resultados visibles que ayudan a reafirmar la piel y tonifica los músculos. Efecto antiaging sin cirugía. Notarás los resultados desde la primera sesión."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Fotodepilación Ipl Axilas", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "Fotodepilación axilas una sesión. Elimina el vello de una forma definitiva, y olvídate de los sistemas de depilación tradicionales, para que solo te preocupes de disfrutar."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Fotodepilación Ipl 10 Zonas", 
+            "duration": 900, 
+            "price": "100 € ", 
+            "description": "Gracias a este bono tienes una especie de tarifa plana en la que puedes eliminar el vello de forma definitiva de 10 zonas. Te encantará el resultado."
+        }
+    ]
+}

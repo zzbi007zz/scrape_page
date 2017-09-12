@@ -1,0 +1,121 @@
+{
+    "adid": null, 
+    "name": "Don Corte", 
+    "name_of_contact": "Don Corte", 
+    "scrape_page": "https://www.bucmi.com/doncorte", 
+    "business_website": "https://www.bucmi.com/doncorte", 
+    "areas_covered": null, 
+    "description": "En pleno barrio de Argüelles, se encuentra Don Corte, tu peluquería de confianza. Disponemos de los mejores tratamientos para cuidar y mimar tu cabello. Ven a conocer a nuestros profesionales y deja que te asesoremos lo que mejor le sienta a tu melena.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930335505778307.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930335523903663.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930335565465629.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930335582497814.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635930335604535838.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Torquemada, 19", 
+    "city": "Madrid", 
+    "zipcode": "28008", 
+    "formatted_address": "C/ Torquemada, 19, Madrid, 28008", 
+    "country": "es", 
+    "office_number": "915425558", 
+    "office_number2": null, 
+    "mobile_number": "610546088", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4271385000", 
+    "longitude": "-3.7163614999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635971836111955506.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Cortar Y Secar", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¿Necesitas un corte de pelo? Reserva en nuestro centro, disponemos de los mejores profesionales que estarán encantados de atenderte. El servicio incluye corte de pelo y secado (no incluye peinado)"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Baby Lights", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¿A qué esperas para reservar las mechas de moda? ¡Reserva nuestras mechas baby lights! Vuelve a tener los destellos de cuando eras pequeña. Son unas mechas muy finas que parten de la raíz y ayudan a la falta de brillo y luminosidad de tu pelo. Incluye el lavado pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Keratina Corto", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "¿Estás harta de tener que plancharte todos los días tu cabello? Resera nuestro alisado de Keratina y te levantarás todos los días con el pelo que siempre habías deseado. Servicio específico para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Secar", 
+            "duration": 2700, 
+            "price": "18 € ", 
+            "description": "¿Necesitas un corte de pelo? Reserva en nuestro centro, disponemos de los mejores profesionales que estarán encantados de atenderte. El servicio incluye corte de pelo y secado (no incluye peinado)"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "14 € ", 
+            "description": "¡Si eres hombre y necesitas un corte de pelo, este es tu servicio! Nuestros profesionales te asesorarán en todo lo que necesites. Incluye el corte de pelo y el lavado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Largo", 
+            "duration": 9000, 
+            "price": "120 € ", 
+            "description": "Tratamiento de belleza capilar que combate el encrespamiento de tu pelo y doma los rizos más rebeldes. Servicio específico para pelo largo. En caso de pelo extralargo, el precio está sujeto a posibles suplementos en el salón. Consúltanos sin compromiso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Media Melena", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "¿Te gustaría tener tu pelo liso y sin encrespamiento? Entonces necesitas reservar nuestro tratamiento de keratina, aportará a tu cabello todo lo que necesita para que luzca perfecto. Servicio específico para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¡Luce una melena de moda reservando nuestras mechas californianas! Con esta técnica conseguiremos dar luz a tu rostro. El servicio incluye las mechas y lavado del cabello. No incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Plata", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Eres de las clásicas? No te preocupes, también disponemos de las mechas de plata de toda la vida. Cuéntanos que resultado quieres ver en tu pelo y nosotros te lo haremos. El servicio incluye mechas de plata y lavado del cabello. No incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Baby Lights", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "¿A qué esperas para reservar las mechas de moda? ¡Reserva nuestras mechas baby lights! Vuelve a tener los destellos de cuando eras pequeña. Son unas mechas muy finas que parten de la raíz y ayudan a la falta de brillo y luminosidad de tu pelo. Incluye el lavado pero no incluye el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Keratina Corto", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "¿Estás harta de tener que plancharte todos los días tu cabello? Resera nuestro alisado de Keratina y te levantarás todos los días con el pelo que siempre habías deseado. Servicio específico para cabello corto."
+        }
+    ]
+}

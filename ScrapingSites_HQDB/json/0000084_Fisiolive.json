@@ -1,0 +1,422 @@
+{
+    "adid": null, 
+    "name": "Fisiolive", 
+    "name_of_contact": "Fisiolive", 
+    "scrape_page": "https://www.bucmi.com/fisiolive", 
+    "business_website": "https://www.bucmi.com/fisiolive", 
+    "areas_covered": null, 
+    "description": "Centro de Fisioterapia y estética avanzada, en el centro de Madrid, en pleno Barrio Salamanca, tratamientos especializados y profesionales bien formados a unos precios accesibles para todos los bolsillos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858712260306494.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858712296087774.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858712309681278.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858712327493729.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635858712350641346.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "111", 
+    "hqdb_review_score": "8,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ardemans, 40", 
+    "city": "Madrid", 
+    "zipcode": "28028", 
+    "formatted_address": "C/ Ardemans, 40, Madrid, 28028", 
+    "country": "es", 
+    "office_number": "911542523", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4350043000", 
+    "longitude": "-3.6728490000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908671629463500.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "La higiene facil es el tratamiento básico para mantener nuestra piel en condiciones óptimas.En Fisiolive realizamos limpiezas totalmente personalizadas que se adaptan a cualquier tipo de piel, con un estudio previo totalmente gratuito."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Corporal A Elegir 45 Min", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Podrás elegir entre: - Relajante- Kembiki- Tecnicas japonesas- Ventosas- Técnicas de oriente medio- Peeling de sales biológicas- Peeling de micronizados- Circulatorio- Deportivo Precompeticion- Descontracturante"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Duración: 40 minutos. Realizamos un peeling con sales biológicas, para limpiar y enriquecer tu piel. presumirás de una piel suave y rejuvenecida. ¿Quieres lucir una piel perfecta? Ven a tu Centro de Salud y Belleza Fisiolive y ponte en manos de nuestros mejores profesionales. Luce una piel limpia, fresca y oxigenada. Elimina las impurezas. Disfruta de una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Tu piel recobrará su brillo y luminosidad."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Corporal Vendas Frías", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Tratamiento indicado para mala circulación y piernas cansadas, se comienza con las vendas y se finaliza con masaje circulatorio. Las vendas frías es un producto natural con una combinación de algas marinas, mentol y de otros componentes con lo cual producen un efecto inmediato, quitando inflamación en brazos, piernas y abdomen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Masaje Reductor", 
+            "duration": 2700, 
+            "price": "218 € ", 
+            "description": "con este bono de masaje conseguiremos ayudar a reducir la grasa localizada en los diferentes puntos de nuestro cuerpo mediante maniobras especifica, en cada sesión trabajaremos brazos, abdomen y piernas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Corp. Anticelulítico", 
+            "duration": 2700, 
+            "price": "290 € ", 
+            "description": "Bono de 6 sesiones, tratamiento basado en dos partes: primero con enzimas de colagenasa, lo aplicaremos manualmente seguido de radiorecuencia corporal médica. Conseguiremos trabajar la celulitis localizada de forma eficaz."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "La higiene facil es el tratamiento básico para mantener nuestra piel en condiciones óptimas.En Fisiolive realizamos limpiezas totalmente personalizadas que se adaptan a cualquier tipo de piel, con un estudio previo totalmente gratuito."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Corporal Reductor 45 Min", 
+            "duration": 2700, 
+            "price": "62 € ", 
+            "description": "Este masaje consiste en trabajar a base de maniobras especificas para ayudar a reducir la grasa localizada en los diferentes puntos de nuestro cuerpo. en cada sesión trabajaremos brazos, abdomen y piernas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Duración: 40 minutos. Realizamos un peeling con sales biológicas, para limpiar y enriquecer tu piel. presumirás de una piel suave y rejuvenecida. ¿Quieres lucir una piel perfecta? Ven a tu Centro de Salud y Belleza Fisiolive y ponte en manos de nuestros mejores profesionales. Luce una piel limpia, fresca y oxigenada. Elimina las impurezas. Disfruta de una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Tu piel recobrará su brillo y luminosidad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Con Polvo De Perla", 
+            "duration": 3600, 
+            "price": "74 € ", 
+            "description": "Indicado para aportar a tu piel la hidratación y oxigenación necesaria. Con la mascarilla de alginato conseguiremos aportar una textura e hidratación insuperable. ¿Notas tu piel demasiado seca y castigada? Ven a tu Centro de Salud y Belleza Fisiolive y ponte en manos de nuestros mejores profesionales. Presume de una piel con mucho brillo y luminosidad gracias al aporte de hidratación y nutrición de este tratamiento. Reserva tu cita online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal Vendas Frías", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Tratamiento indicado para mala circulación y piernas cansadas, se comienza con las vendas y se finaliza con masaje circulatorio. Las vendas frías es un producto natural con una combinación de algas marinas, mentol y de otros componentes con lo cual producen un efecto inmediato, quitando inflamación en brazos, piernas y abdomen."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial Y Corporal Hidratante De Princesas", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Tratamiento facial y corporal con varios guiños a distintos cuentos infantiles con el que te sentirás una princesa mas, como Ariel, Cenicienta, Jazmín, Blancanieves o la Bella. Toda una experiencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Facial: Ritual 12 Deseos", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "12 Deseos Consiste en realizar doce pasos que trabajaremos a nivel facial con un tratamiento a base de vitaminas y oro 24k para embellecer y rejuvenecer nuestro rostro. A nivel corporal con un peeling y envoltura a base de micronizado de perlas y chocolate, para aportar una renovación celular e hidratación a la piel, para finalizar un masaje tanto corporal como facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Tratamientos Corporales", 
+            "duration": 3600, 
+            "price": "246 € ", 
+            "description": "Bono de 6 Tratamientos corporales a elegir entre: O.P,A.F (Grasa o Celulitis), RADIOFRECUENCIA (Flacidez), ELECTRODRENAJE LINFÁTICO (Retención de liquidos y piernas cansadas). Este tratamiento tiene una duración de una hora en cabina."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "radiofrecuencia médica Radiant+3R. Tecnología de ultima generación para conseguir la reafirmación de la piel. Cada sesión tiene una duración de 28min"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Y Corporal Ritual Kenko Zen", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "Tratamiento ritual facial y corporal realizado con orquídea y te verde, que reúne varias técnicas de masaje japones. La duración es de 50 min. Te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Magia Oriente", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "Tratamiento Capilar, facial y corporal con técnicas de masaje del medio oriente y productos de oro, incienso y mirra. Duración 50min."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Corporal: Ritual Sensitivo", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "Con este ritual trabajaremos sobre los 5 sentidos, para potenciar al máximo las sensaciones y efecto de este ritual, consiguiendo una mayor desconexión y relajación. Es una experiencia sensorial completa que conseguiremos con la estimulación mediante música, antifaz,esencias, masaje terapéutico y una infusión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Facial Detox Para Bolsas Y Ojeras", 
+            "duration": 2700, 
+            "price": "226 € ", 
+            "description": "4 sesiones,tratamiento que consiste en trabajar el orbicular de los ojos mediante un masaje drenante con radiofrecuencia lo cual estimula a la eliminación de toxinas, seguido realizaremos un drenaje linfático manual, con este conseguimos movilizar la linfa y así mejoramos nuestro sistema linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "La Microdermabrasión es un sistema no invasivo de la epidermis para el tratamiento eficáz de los problemas de la piel, tales como: manchas de la edad, cicatrices de acné, estrías, arrugas o descamación de la piel,"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Hidratante Oro O Chocolate", 
+            "duration": 3600, 
+            "price": "62 € ", 
+            "description": "Con este tratamiento conseguirás una piel sana, tensa y luminosa. Disfruta del lujo del oro en tu piel.Para empezar eliminaremos todas tus células muertas saneando la superficie de tu piel con un peeling de sales biológicas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial De Velo De Colágeno", 
+            "duration": 3600, 
+            "price": "74 € ", 
+            "description": "Tratamiento facial refrescante y nutritivo.Rejuvenece, protege y aporta vitalidad a la piel. Los ingredientes como el Caviar, el Oro y el exclusivo Velo de Colágeno con Vitamina CEste tratamiento esta pensado para lograr resultados visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Electrodrenaje Linfático Corporal", 
+            "duration": 2700, 
+            "price": "62 € ", 
+            "description": "Nuestro Método:Los más conocidos son el drenaje linfático manual o la presoterapia, en Fisiolive llegamos más allá y ponemos a disposición de nuestros pacientes la última tecnología médica, el drenaje linfático mediante electroestimulación neuromuscular médica."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Tto. Corporal Quemagrasa", 
+            "duration": 2700, 
+            "price": "310 € ", 
+            "description": "Bono de 6 sesiones, dividido en dos partes, comenzaremos aplicando enzimas de lipasa, seguido de radiofrecuencia corporal médica. Conseguiremos trabajar la grasa localizada,"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tto. Facial Anti-Aging Con Ac.Hialurónico", 
+            "duration": 3600, 
+            "price": "450 € ", 
+            "description": "Bono de 6 sesiones.Con este fantástico tratamiento trabajaremos con enzimas de queratinasa y ácido hialurónico, acompañado de radiofrecuencia facial médica. Conseguiremos atenuar arrugas, dar luminosidad e hidratar en profundidad tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tto. Facial Extreme Firmness Con Dmae", 
+            "duration": 3600, 
+            "price": "458 € ", 
+            "description": "Bono de 6 sesiones, tratamiento en el que trabajaremos con enzimas como queratinasa, colagenasa y DMAE acompañado de radiofrecuencia facial médica.Conseguiremos trabajar la flacidez, hidratar y nutrir nuestra piel. Es un tratamiento con resultados visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Bruxismo Y Dolores De Cabeza", 
+            "duration": 1800, 
+            "price": "42 € ", 
+            "description": "En cada sesión trabajaremos con maniobras especificas para mejorar los trastornos de los músculos y la articulación temporomandibular, conseguiremos relajar y mejorar la tensión acumulada. Muy recomendable para dolores de cabeza."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Reductor Express 25 Min", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "Consiste en trabajar con maniobras específicas que ayudan a reducir la grasa localizada. ¿Quieres lucir un cuerpo tonificado? Ven a tu Centro de Salud y Belleza Fisiolive y ponte en manos de nuestros mejores profesionales. Luce un cuerpo tonificado y perfecto. Elimina la grasa localizada y la celulitis. Reduce, realza y remodela tu figura. Reserva tu cita online a través de Bucmi.com. ¡Ven a visitarnos! ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Facial Químico", 
+            "duration": 1800, 
+            "price": "74 € ", 
+            "description": "El peeling químico es un tratamiento no quirúrgico, cuyo efecto inmediato consiste en la eliminación de una parte del cutis más o menos profunda, según el tipo de ácido utilizado, así como un efecto tardío de regeneración de la piel y renovando la matriz"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Detox Para Bolsas Y Ojeras", 
+            "duration": 2700, 
+            "price": "66 € ", 
+            "description": "Tratamiento que consiste en trabajar el orbicular de los ojos mediante un masaje drenante con radiofrecuencia lo cual estimula a la eliminación de toxinas, seguido realizaremos un drenaje linfático manual, con este conseguimos movilizar la linfa y así mejoramos nuestro sistema linfático."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "3 Sesiones De Masaje O 3 Higienes Faciales", 
+            "duration": 2700, 
+            "price": "106 € ", 
+            "description": "Disfruta de esta exclusiva promoción y elige el servicio que más te convenga. Si optas por los masajes podrás elegir entre circulatorio, relajante o descontracturante. Si prefieres la limpieza de cutis, tu piel quedará perfecta e hidratada."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 6 Tratamientos Faciales", 
+            "duration": 3600, 
+            "price": "350 € ", 
+            "description": "Bono 6 tratamientos faciales a elegir entre Radiofrecuencia Médica, Microdermoabrasión, Peeling químico o Fotorrejuvenecimiento Médico. Escoge el que más te guste, nosotros te asesoraremos en todo lo que necesites."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Y Tto Radiofrecuencia Facial", 
+            "duration": 5400, 
+            "price": "79,9 € ", 
+            "description": "Con este pack, te ofrecermos la posibilidad de que en primer lugar limpiemos tu piel y la dejemos preparada para la radiofrecuencia, con la que coseguiremos activar tu propio colágeno y conseguiremos un efecto lifting con el que te verás tu piel fabulosa."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "74 € ", 
+            "description": "adiofrecuencia medica Radiant facial. Corrige las arrugas, reafirma y da luminosidad a la piel y ademas activa la microciculación"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Grasa O.P.A.F.", 
+            "duration": 2700, 
+            "price": "62 € ", 
+            "description": "Terapia O.P.A.F. Novedoso tratamiento medico estético, especialmente diseñado para trabajar sobre la grasa y los tejidos fibrosos. Es un sistema de Ondas acústicas de alta frecuencia.Podemos trabajar zonas de grasa localizada de manera indolora y efectiva."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Anti-Aging Facial", 
+            "duration": 3600, 
+            "price": "90 € ", 
+            "description": "Con este fantástico tratamiento efecto flash, trabajaremos con enzimas de queratinasa y ácido hialurónico, acompañado de radiofrecuencia facial médica. Conseguiremos atenuar arrugas, dar luminosidad e hidratar en profundidad tu piel."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Anticelulítico.", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "Tratamiento basado en dos partes: primero con enzimas de colagenasa, lo aplicaremos manualmente seguido de radiorecuencia corporal médica. Conseguiremos trabajar la celulitis localizada de forma eficaz."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Quemagrasa", 
+            "duration": 2700, 
+            "price": "74 € ", 
+            "description": "Tratamiento dividido en dos partes, comenzaremos aplicando enzimas de lipasa, seguido de radiofrecuencia corporal médica. Conseguiremos trabajar la grasa localizada,"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Tonificante", 
+            "duration": 2700, 
+            "price": "66 € ", 
+            "description": "Este tratamiento es específico para tonificar esa zona que tanto preocupa. La primera parte trabajaremos con RADIOFRECUENCIA MEDICA, para poder activar el colágeno y lo completaremos con ELECTRODRENAJE MEDICO y así fortalecer la zona."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Extreme Firmness Facial", 
+            "duration": 3600, 
+            "price": "98 € ", 
+            "description": "Tratamiento en el que trabajaremos con enzimas como queratinasa, colagenasa y DMAE acompañado de radiofrecuencia facial médica.Conseguiremos trabajar la flacidez, hidratar y nutrir nuestra piel. Es un tratamiento con resultados visibles desde la primera sesión."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tto Corporal Reductor", 
+            "duration": 2700, 
+            "price": "89 € ", 
+            "description": "Tratamiento indicado para reducir grasa o celulitis mediante Ondas de presión acústica ( O.P.A.F MEDICO) Este bono consta de tres sesiones, cada sesión tiene una primera parte de O.P.A.F y una segunda parte de DRENAJE o MASAJE ESPECIFICO."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Masaje Reductor", 
+            "duration": 2700, 
+            "price": "218 € ", 
+            "description": "con este bono de masaje conseguiremos ayudar a reducir la grasa localizada en los diferentes puntos de nuestro cuerpo mediante maniobras especifica, en cada sesión trabajaremos brazos, abdomen y piernas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 6 Corp. Anticelulítico", 
+            "duration": 2700, 
+            "price": "290 € ", 
+            "description": "Bono de 6 sesiones, tratamiento basado en dos partes: primero con enzimas de colagenasa, lo aplicaremos manualmente seguido de radiorecuencia corporal médica. Conseguiremos trabajar la celulitis localizada de forma eficaz."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "54 € ", 
+            "description": "La higiene facil es el tratamiento básico para mantener nuestra piel en condiciones óptimas.En Fisiolive realizamos limpiezas totalmente personalizadas que se adaptan a cualquier tipo de piel, con un estudio previo totalmente gratuito."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Corporal Reductor 45 Min", 
+            "duration": 2700, 
+            "price": "62 € ", 
+            "description": "Este masaje consiste en trabajar a base de maniobras especificas para ayudar a reducir la grasa localizada en los diferentes puntos de nuestro cuerpo. en cada sesión trabajaremos brazos, abdomen y piernas."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Peeling Corporal", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Duración: 40 minutos. Realizamos un peeling con sales biológicas, para limpiar y enriquecer tu piel. presumirás de una piel suave y rejuvenecida. ¿Quieres lucir una piel perfecta? Ven a tu Centro de Salud y Belleza Fisiolive y ponte en manos de nuestros mejores profesionales. Luce una piel limpia, fresca y oxigenada. Elimina las impurezas. Disfruta de una piel suave, hidratada y nutrida. Devuelve a tu piel su color y aspecto natural. Tu piel recobrará su brillo y luminosidad."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Con Polvo De Perla", 
+            "duration": 3600, 
+            "price": "74 € ", 
+            "description": "Indicado para aportar a tu piel la hidratación y oxigenación necesaria. Con la mascarilla de alginato conseguiremos aportar una textura e hidratación insuperable. ¿Notas tu piel demasiado seca y castigada? Ven a tu Centro de Salud y Belleza Fisiolive y ponte en manos de nuestros mejores profesionales. Presume de una piel con mucho brillo y luminosidad gracias al aporte de hidratación y nutrición de este tratamiento. Reserva tu cita online en Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto Corporal Vendas Frías", 
+            "duration": 2700, 
+            "price": "54 € ", 
+            "description": "Tratamiento indicado para mala circulación y piernas cansadas, se comienza con las vendas y se finaliza con masaje circulatorio. Las vendas frías es un producto natural con una combinación de algas marinas, mentol y de otros componentes con lo cual producen un efecto inmediato, quitando inflamación en brazos, piernas y abdomen."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto Facial Y Corporal Hidratante De Princesas", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "Tratamiento facial y corporal con varios guiños a distintos cuentos infantiles con el que te sentirás una princesa mas, como Ariel, Cenicienta, Jazmín, Blancanieves o la Bella. Toda una experiencia."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tto Facial: Ritual 12 Deseos", 
+            "duration": 5400, 
+            "price": "70 € ", 
+            "description": "12 Deseos Consiste en realizar doce pasos que trabajaremos a nivel facial con un tratamiento a base de vitaminas y oro 24k para embellecer y rejuvenecer nuestro rostro. A nivel corporal con un peeling y envoltura a base de micronizado de perlas y chocolate, para aportar una renovación celular e hidratación a la piel, para finalizar un masaje tanto corporal como facial."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 6 Tratamientos Corporales", 
+            "duration": 3600, 
+            "price": "246 € ", 
+            "description": "Bono de 6 Tratamientos corporales a elegir entre: O.P,A.F (Grasa o Celulitis), RADIOFRECUENCIA (Flacidez), ELECTRODRENAJE LINFÁTICO (Retención de liquidos y piernas cansadas). Este tratamiento tiene una duración de una hora en cabina."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 3600, 
+            "price": "58 € ", 
+            "description": "radiofrecuencia médica Radiant+3R. Tecnología de ultima generación para conseguir la reafirmación de la piel. Cada sesión tiene una duración de 28min"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Facial Y Corporal Ritual Kenko Zen", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "Tratamiento ritual facial y corporal realizado con orquídea y te verde, que reúne varias técnicas de masaje japones. La duración es de 50 min. Te encantará."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tratamiento Corporal Magia Oriente", 
+            "duration": 3600, 
+            "price": "72 € ", 
+            "description": "Tratamiento Capilar, facial y corporal con técnicas de masaje del medio oriente y productos de oro, incienso y mirra. Duración 50min."
+        }
+    ]
+}

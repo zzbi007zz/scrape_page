@@ -1,0 +1,171 @@
+{
+    "adid": null, 
+    "name": "Centro Estético Madrid", 
+    "name_of_contact": "Centro Estético Madrid", 
+    "scrape_page": "https://www.bucmi.com/centroestetico", 
+    "business_website": "https://www.bucmi.com/centroestetico", 
+    "areas_covered": null, 
+    "description": "Centro Estético dedicado a la belleza y bienestar con más de 30 años de experiencia. Proporcionamos los mejores tratamientos especializados para todos nuestros clientes y disponemos de la mejor aparatología. Estaremos encantados de ayudarle.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835325954808243.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835325978626665.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835325999095712.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835326014572762.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835326025831240.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635835326039123616.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "19", 
+    "hqdb_review_score": "7,2", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Calatrava, 34", 
+    "city": "Madrid", 
+    "zipcode": "28015", 
+    "formatted_address": "C/ Calatrava, 34, Madrid, 28015", 
+    "country": "es", 
+    "office_number": "915193779", 
+    "office_number2": null, 
+    "mobile_number": "662483104", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4366265000", 
+    "longitude": "-3.7161184999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635908650044777251.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Ayurveda", 
+            "duration": 3600, 
+            "price": "69 € ", 
+            "description": "¡Mejora el equilibrio de tus energías reservando este masaje! Gracias a nuestro masaje ayurveda podrás equilibrar tu doshas, tu energía física y por añadido tu espíritu. Notarás como tus males desaparecen y te sentirás mucho mejor."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Profunda", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Reserva nuestro servicio de higiene facial profunda! Incluye el desmaquillado de la piel, la limpieza profunda con extracción de impurezas de la piel, la mascarilla y, por último, el masaje facial. ¡Reserva ya online, te encantará!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "¿A qué esperas a reservar este servicio? Gracias al drenaje linfático manual conseguirás eliminar las toxinas de tu cuerpo. Utilizamos la técnica vodder. Notarás resultados desde la primera sesión. Reserva ya tu cita en nuestro centro estético."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Profunda", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Reserva nuestro servicio de higiene facial profunda! Incluye el desmaquillado de la piel, la limpieza profunda con extracción de impurezas de la piel, la mascarilla y, por último, el masaje facial. ¡Reserva ya online, te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Te gustaría lucir una mirada infinita? ¡Prueba nuestro servicio de tinte y permanente para tus pestañas! Durante el servicio oscurecemos y rizamos tus pestañas para definirlas y aportarlas más volumen. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 4 Sesiones Tratamiento Reductor", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "Si quieres reducir volumen y eliminar la grasa y celulitis acumulada en tu cuerpo, este es tu tratamiento. En la primera sesión realizamos una horita de crioterapia y en las 3 siguientes combinamos en cada sesión presoterapia y radiofrecuencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "¿A qué esperas a reservar este servicio? Gracias al drenaje linfático manual conseguirás eliminar las toxinas de tu cuerpo. Utilizamos la técnica vodder. Notarás resultados desde la primera sesión. Reserva ya tu cita en nuestro centro estético."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Profunda Con Radiofrecuencia", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Limpia y protege la piel de tu rostro, con este tratamiento facial completo. Comenzamos preparando la piel con leche limpiadora y tónico, realizamos exfoliación, extracción, aplicamos radiofrecuencia para cerrar el poro, mascarilla, masaje facial y por último aplicamos la radiofrecuencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "El servicio incluye una sesión de nuestro tratamiento rejuvenecedor facial con radiofrecuencia. ¡Notarás los resultado en tu rostro! Ven a nuestro Centro de Estética, no te arrepentirás."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Higiene Facial Profunda", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Reserva nuestro servicio de higiene facial profunda! Incluye el desmaquillado de la piel, la limpieza profunda con extracción de impurezas de la piel, la mascarilla y, por último, el masaje facial. ¡Reserva ya online, te encantará!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Te gustaría lucir una mirada infinita? ¡Prueba nuestro servicio de tinte y permanente para tus pestañas! Durante el servicio oscurecemos y rizamos tus pestañas para definirlas y aportarlas más volumen. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 4 Sesiones Tratamiento Reductor", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "Si quieres reducir volumen y eliminar la grasa y celulitis acumulada en tu cuerpo, este es tu tratamiento. En la primera sesión realizamos una horita de crioterapia y en las 3 siguientes combinamos en cada sesión presoterapia y radiofrecuencia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Profunda", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Reserva nuestro servicio de higiene facial profunda! Incluye el desmaquillado de la piel, la limpieza profunda con extracción de impurezas de la piel, la mascarilla y, por último, el masaje facial. ¡Reserva ya online, te encantará!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Te gustaría lucir una mirada infinita? ¡Prueba nuestro servicio de tinte y permanente para tus pestañas! Durante el servicio oscurecemos y rizamos tus pestañas para definirlas y aportarlas más volumen. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 4 Sesiones Tratamiento Reductor", 
+            "duration": 3600, 
+            "price": "320 € ", 
+            "description": "Si quieres reducir volumen y eliminar la grasa y celulitis acumulada en tu cuerpo, este es tu tratamiento. En la primera sesión realizamos una horita de crioterapia y en las 3 siguientes combinamos en cada sesión presoterapia y radiofrecuencia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "¿A qué esperas a reservar este servicio? Gracias al drenaje linfático manual conseguirás eliminar las toxinas de tu cuerpo. Utilizamos la técnica vodder. Notarás resultados desde la primera sesión. Reserva ya tu cita en nuestro centro estético."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Profunda Con Radiofrecuencia", 
+            "duration": 5400, 
+            "price": "90 € ", 
+            "description": "Limpia y protege la piel de tu rostro, con este tratamiento facial completo. Comenzamos preparando la piel con leche limpiadora y tónico, realizamos exfoliación, extracción, aplicamos radiofrecuencia para cerrar el poro, mascarilla, masaje facial y por último aplicamos la radiofrecuencia."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "El servicio incluye una sesión de nuestro tratamiento rejuvenecedor facial con radiofrecuencia. ¡Notarás los resultado en tu rostro! Ven a nuestro Centro de Estética, no te arrepentirás."
+        }
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "adid": null, 
+    "name": "MINERVA PEYÚS Intelligent Beauty", 
+    "name_of_contact": "MINERVA PEYÚS Intelligent Beauty", 
+    "scrape_page": "https://www.bucmi.com/minervapeyus", 
+    "business_website": "https://www.bucmi.com/minervapeyus", 
+    "areas_covered": null, 
+    "description": "Novedoso Centro de Estética situado de en la zona de Hortaleza, en Madrid, que cuenta con maquinaria de última generación y gran experiencia para conseguir el mejor resultado en tu belleza y bienestar. Reserva con Bucmi.com y te encantará el resultado.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920920875519978.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920920900363649.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920920920519848.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920920942238507.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920921010988528.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920921032394509.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920921054581939.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920921083331857.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635920921105684718.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "9", 
+    "hqdb_review_score": "7,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ayala, 98", 
+    "city": "Madrid", 
+    "zipcode": "Madrid", 
+    "formatted_address": "C/ Ayala, 98, Madrid, Madrid", 
+    "country": "es", 
+    "office_number": "911104715", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4631401000", 
+    "longitude": "-3.6507844999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635926278843005561.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Extensiones De Pestañas 3D", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Ponemos tres pestañas individuales por cada pestaña natural tuya. Ideales para ganar volumen, Respetando tus pestañas naturales al máximo. Tendrás una mirada mucho más intensa y penetrante. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial Tratamiento Biologique", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Desde la primera sesión tendrás una piel suave, hidratada, nueva y limpia. Tratamiento personalizado para tu piel. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Completa Y Parafina", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Manicura completa con parafina para hidratar, limado de uñas, corte y empuje de cutículas, esmaltado en color e hidratación de cutículas. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "En este tratamiento utilizaremos diferentes aparatologías con las que conseguiremos reducir, drenar y mejorar la piel en las zonas del cuerpo en las que se encuentren grasa localizada y/o retención de líquidos. Con ello obtendremos una pérdida de volumen visible."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Especial Novias", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Fusión de 2 tratamientos para conseguir el resplandor, tonicidad, suavidad, hidratación y efecto FLASH que una novia necesita en ese día tan especial. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Pack Especial Novias", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Fusión de 2 tratamientos para conseguir el resplandor, tonicidad, suavidad, hidratación y efecto FLASH que una novia necesita en ese día tan especial. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Y Corporal", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "Tratamiento 2 en 1. Tienes un tratamiento facial con Masaje Kobido y presoterapia zona lumbar y abdominal de 30 minutos. ¡Repetirás!. Aprovecha para adquirir varios mientras dure la oferta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Y Corporal 3 En 1", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Tratamiento Facial con ácido de frutas, masaje Effleurage y presoterapia zona lumbar y abdominal (30 minutos). ¡Para darte un capricho y disfrutar de un tratamiento para tu piel y cuerpo!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Tratamiento reductor que reduce las grasas localizadas activando el drenaje linfático y mejorando el sistema circulatorio. Se trata de un tratamiento muy beneficioso que estimula también el sistema inmunológico y tonifica los músculos. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas 3D", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Ponemos tres pestañas individuales por cada pestaña natural tuya. Ideales para ganar volumen, Respetando tus pestañas naturales al máximo. Tendrás una mirada mucho más intensa y penetrante. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "59 € ", 
+            "description": "Extensiones pelo a pelo. Ponemos una por cada de tus pestañas. Tendrás una mirada mucho más intensa y penetrante."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Facial Japonés Kobido, Lifting Natural", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Está considerado el masaje más efectivo para mejorar el estado de la piel y evitar su envejecimiento prematuro. Consigues una piel luminosa, fresca y radiante.Una técnica japonesa que reafirma la musculación facial con asombrosos resultados.Elimina las células muertas, mejora y cuida significativamente la microcirculación sanguínea del rostro, activa el sistema linfático eliminado las toxinas de la piel. Revive tu piel tonificándola y dejándola hidratada y saludable. Recupera un trocito de juventud"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Punta De Diamante", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Las agresiones externas dañan tu piel, dale el cuidado que se merece con este tratamiento facial que incluye desmaquillado, tónico al Aole Vera, peeling con punta de diamante, mascarilla y masaje facial con el que conseguirás un rostro perfecto y luminoso. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Tratamiento Biologique", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Desde la primera sesión tendrás una piel suave, hidratada, nueva y limpia. Tratamiento personalizado para tu piel. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Favorece la eliminación de la antiestética piel de naranja para lucir piernas firmes y suaves con este masaje anticelulítico con hidratación de aceites esenciales reafiarmantes. Este masaje trabaja para conseguir la reducción de todo tipo de celulitis. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Circulatorio", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Recibe un masaje circulatorio con hidratación de aceites esenciales reafirmantes con el que favorecerá la reducción de grasas localizadas y estimulara el riego sanguíneo consiguiendo así una buena circulación en nuestro cuerpo . También te ayudará a purificar el organismo y eliminar toxinas. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online?"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Drenante", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Recibe un masaje drenante con hidratación de aceites esenciales reafirmantes con el que favorecerá la reducción de grasas localizadas de la forma más relajante posible. También te ayudará a purificar el organismo y eliminar la retención de líquidos. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Microdermoabrasión Punta De Diamante", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Rejuvenece la piel de tu rostro eliminando estrías, manchas solares o marcas de acné, dejando tu piel libre de impurezas a través de un procedimiento no quirúrgico en el que se usan puntas de diamante que van desgastando la superficie de la piel. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Relleno Extensión De Pestañas Pelo A Pelo", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "Reposición de pestañas en la 3-4 semana. reponemos las que hayas perdido una a una. Tendrás una mirada mucho más intensa y penetrante. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Relleno Extensiones De Pestañas 3D", 
+            "duration": 5400, 
+            "price": "69 € ", 
+            "description": "Reposición en 3 o 4 semanas. Reponemos 3 pestañas individuales por cada pestaña natural que hayas perdido. ¡Tendrás una mirada mucho más intensa y penetrante!. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Anticelulitico Y Drenante", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "En este tratamiento utilizaremos diferentes aparatologías con las que conseguiremos tonificar, reducir, drenar y mejorar visiblemente las zonas del cuerpo que presentan celulitis localizada causada por una mala circulación y retención de líquidos. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmante", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "En este tratamiento utilizaremos diferentes aparatologías con las que conseguiremos tonificar, elevar y mejorar visiblemente las zonas del cuerpo a tratar tanto a nivel de tejido o piel como a nivel muscular. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reafirmante Y Drenante", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "En este tratamiento utilizaremos diferentes aparatologías con las que conseguiremos tonificar, elevar y mejorar visiblemente las zonas del cuerpo a tratar tanto a nivel de tejido como a nivel muscular, a la vez que eliminamos y drenamos los líquidos acumulados. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Corporal Reductor", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "En este tratamiento utilizaremos diferentes aparatologías con las que conseguiremos reducir, drenar y mejorar la piel en las zonas del cuerpo en las que se encuentren grasa localizada y/o retención de líquidos. Con ello obtendremos una pérdida de volumen visible."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiarrugas Hydradermie", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "La solución de belleza para pieles que necesitan una inyección de juventud. El procedimiento de ionización permite la penetración rápida de los activos tratantes para obtener una piel mas joven, rellenar, alisar las arrugas, y devolver vitalidad y tonicidad al rostro. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad Hydradermie", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Vida para las pieles desvitalizadas. El procedimiento de ionización permite la penetración rápida de los activos tratantes para retrasar los efectos del envejecimiento en la piel, alisar visiblemente la marca de las arrugas y devolver la luminosidad y el confort al rostro. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Deluxe", 
+            "duration": 5400, 
+            "price": "89 € ", 
+            "description": "Fusión de 3 tratamientos en 1. Es un tratamiento personalizado a cada tipo de piel en el que se unen hidratación, nutrición, antiedad, calmante o reparador antiarrugas, lifting inmediato del rostro y lifting de ojos. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Hidratante Hydradermie", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "La solución de belleza para las pieles deshidratadas. El procedimiento de ionización permite la penetración rápida de los activos tratantes para obtener una piel perfectamente hidratada, resplandeciente y luminosa. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Iluminador", 
+            "duration": 2700, 
+            "price": "45 € ", 
+            "description": "Tratamiento en el que se realiza un doble peeling con ácidos de frutas para eliminar las células muertas que apagan el cutis y así permitir la aparición de una piel nueva y resplandeciente. Finalmente se termina con una mascarilla de vitamina C para difuminar las manchas y unificar el rostro, recobrando la luminosidad de la juventud. ¡Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Lifting Hydradermie Lift", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "La solución de belleza para las pieles sin firmeza. La gimnasia facial o estimulación de los músculos aportan elasticidad a la piel, remodelan el rostro, elevan los rasgos y recobran una nueva tonicidad. Tiene efecto lifting visible. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Nutritivo Hydradermie", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Vida para las pieles secas. La ionización permite la penetración rápida de los activos tratantes para pieles desnutridas, con aspecto apagado y sensación de tirantez. Este tratamiento aporta a la piel confort, suavidad, flexibilidad y resplandor. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Reafirmante Liftosome", 
+            "duration": 3600, 
+            "price": "59 € ", 
+            "description": "Tratamiento ideal antes de cualquier evento de efecto FLASH y Novias . Dedicado al 100% a la firmeza y luminosidad de la piel gracias a su activo clave, el PRO-COLÁGENO. Ayuda a la piel a recobrar toda su luz y elasticidad con un efecto remodelador. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Vitamina C", 
+            "duration": 3600, 
+            "price": "75 € ", 
+            "description": "Este tratamiento esta especialmente indicado para pieles apagadas, sin luz, asfixiadas, envejecidas y deshidratadas. Utilizaremos vitamina C pura que junto con otros principios activos oxigenarán, recuperarán esas pieles dañadas y aportarán luminosidad, hidratación y un aspecto vivo y juvenil a la piel. ¡Te encantará!."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Y Corporal 4 En 1", 
+            "duration": 3600, 
+            "price": "120 € ", 
+            "description": "Tratamiento Facial con ácido de frutas, Masaje Effleurage, ionización con corriente galvánica, presoterapia zona lumbar y abdominal (30 minutos) y masaje hindú craneal y cervical. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Lifting De Ojos Hydradermie Lift Yeux", 
+            "duration": 2700, 
+            "price": "49 € ", 
+            "description": "La solución suave y eficaz para rejuvenecer el aspecto del contorno de ojos, elevar los párpados y proporcionarles una nueva firmeza, atenuar las patas de gallo y difuminar las arruguitas. ¡Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto!. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Pack Especial Novias", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Fusión de 2 tratamientos para conseguir el resplandor, tonicidad, suavidad, hidratación y efecto FLASH que una novia necesita en ese día tan especial. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Y Corporal", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "Tratamiento 2 en 1. Tienes un tratamiento facial con Masaje Kobido y presoterapia zona lumbar y abdominal de 30 minutos. ¡Repetirás!. Aprovecha para adquirir varios mientras dure la oferta."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Facial Y Corporal 3 En 1", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Tratamiento Facial con ácido de frutas, masaje Effleurage y presoterapia zona lumbar y abdominal (30 minutos). ¡Para darte un capricho y disfrutar de un tratamiento para tu piel y cuerpo!."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Tratamiento reductor que reduce las grasas localizadas activando el drenaje linfático y mejorando el sistema circulatorio. Se trata de un tratamiento muy beneficioso que estimula también el sistema inmunológico y tonifica los músculos. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas 3D", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Ponemos tres pestañas individuales por cada pestaña natural tuya. Ideales para ganar volumen, Respetando tus pestañas naturales al máximo. Tendrás una mirada mucho más intensa y penetrante. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "59 € ", 
+            "description": "Extensiones pelo a pelo. Ponemos una por cada de tus pestañas. Tendrás una mirada mucho más intensa y penetrante."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Pack Especial Novias", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Fusión de 2 tratamientos para conseguir el resplandor, tonicidad, suavidad, hidratación y efecto FLASH que una novia necesita en ese día tan especial. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pack Especial Novias", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Fusión de 2 tratamientos para conseguir el resplandor, tonicidad, suavidad, hidratación y efecto FLASH que una novia necesita en ese día tan especial. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Y Corporal", 
+            "duration": 2700, 
+            "price": "70 € ", 
+            "description": "Tratamiento 2 en 1. Tienes un tratamiento facial con Masaje Kobido y presoterapia zona lumbar y abdominal de 30 minutos. ¡Repetirás!. Aprovecha para adquirir varios mientras dure la oferta."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Y Corporal 3 En 1", 
+            "duration": 2700, 
+            "price": "50 € ", 
+            "description": "Tratamiento Facial con ácido de frutas, masaje Effleurage y presoterapia zona lumbar y abdominal (30 minutos). ¡Para darte un capricho y disfrutar de un tratamiento para tu piel y cuerpo!."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Tratamiento reductor que reduce las grasas localizadas activando el drenaje linfático y mejorando el sistema circulatorio. Se trata de un tratamiento muy beneficioso que estimula también el sistema inmunológico y tonifica los músculos. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas 3D", 
+            "duration": 7200, 
+            "price": "99 € ", 
+            "description": "Ponemos tres pestañas individuales por cada pestaña natural tuya. Ideales para ganar volumen, Respetando tus pestañas naturales al máximo. Tendrás una mirada mucho más intensa y penetrante. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensiones De Pestañas Pelo A Pelo", 
+            "duration": 5400, 
+            "price": "59 € ", 
+            "description": "Extensiones pelo a pelo. Ponemos una por cada de tus pestañas. Tendrás una mirada mucho más intensa y penetrante."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Facial Japonés Kobido, Lifting Natural", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Está considerado el masaje más efectivo para mejorar el estado de la piel y evitar su envejecimiento prematuro. Consigues una piel luminosa, fresca y radiante.Una técnica japonesa que reafirma la musculación facial con asombrosos resultados.Elimina las células muertas, mejora y cuida significativamente la microcirculación sanguínea del rostro, activa el sistema linfático eliminado las toxinas de la piel. Revive tu piel tonificándola y dejándola hidratada y saludable. Recupera un trocito de juventud"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Punta De Diamante", 
+            "duration": 3600, 
+            "price": "49 € ", 
+            "description": "Las agresiones externas dañan tu piel, dale el cuidado que se merece con este tratamiento facial que incluye desmaquillado, tónico al Aole Vera, peeling con punta de diamante, mascarilla y masaje facial con el que conseguirás un rostro perfecto y luminoso. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Tratamiento Biologique", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Desde la primera sesión tendrás una piel suave, hidratada, nueva y limpia. Tratamiento personalizado para tu piel. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Favorece la eliminación de la antiestética piel de naranja para lucir piernas firmes y suaves con este masaje anticelulítico con hidratación de aceites esenciales reafiarmantes. Este masaje trabaja para conseguir la reducción de todo tipo de celulitis. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Circulatorio", 
+            "duration": 3600, 
+            "price": "60 € ", 
+            "description": "Recibe un masaje circulatorio con hidratación de aceites esenciales reafirmantes con el que favorecerá la reducción de grasas localizadas y estimulara el riego sanguíneo consiguiendo así una buena circulación en nuestro cuerpo . También te ayudará a purificar el organismo y eliminar toxinas. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online?"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Drenante", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Recibe un masaje drenante con hidratación de aceites esenciales reafirmantes con el que favorecerá la reducción de grasas localizadas de la forma más relajante posible. También te ayudará a purificar el organismo y eliminar la retención de líquidos. Ponte en las manos de nuestros expertos profesionales de Minerva Peyús y comienza a disfrutar de unos resultados únicos desde el primer minuto. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }
+    ]
+}

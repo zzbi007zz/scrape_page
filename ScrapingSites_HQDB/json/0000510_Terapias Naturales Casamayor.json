@@ -1,0 +1,124 @@
+{
+    "adid": null, 
+    "name": "Terapias Naturales Casamayor", 
+    "name_of_contact": "Terapias Naturales Casamayor", 
+    "scrape_page": "https://www.bucmi.com/casamayor", 
+    "business_website": "https://www.bucmi.com/casamayor", 
+    "areas_covered": null, 
+    "description": "Centro dedicado a la salud, al cuerpo y, en general, a tu bienestar. Amplia variedad en masajes en un espacio exclusivo donde evadirte de todos los problemas del día a día.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981374982026981.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981374982636982.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981374983196902.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981374985266938.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981374983686936.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981374984886986.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981374985846616.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981374985866935.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "1", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Alburquerque, 16", 
+    "city": "Madrid", 
+    "zipcode": "28024", 
+    "formatted_address": "C/ Alburquerque, 16, Madrid, 28024", 
+    "country": "es", 
+    "office_number": "914489354", 
+    "office_number2": null, 
+    "mobile_number": "649191552", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3993545000", 
+    "longitude": "-3.7753597999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635981391109042436.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Elimina tus tensiones después de un duro día de trabajo. Masaje profundo que ayuda a descargar tensiones acumuladas. Actúa sobre los puntos de tensión: cuello, cabeza, espalda, etc."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Servicio de sesión suelta de drenaje linfático manual que favorece el funcionamiento del sistema linfático, ayuda a eliminar toxinas. Es un masaje indoloro ya que su aplicación se aplica de forma suave y con efectos relajantes."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Reflexología Podal", 
+            "duration": 2700, 
+            "price": "40 € ", 
+            "description": "Tratamiento Integral a través de los puntos que representan todos nuestros órganos y sistemas ( digestivo, nervioso, hormonal, etc) en la planta y dorso del pie."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones De Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Bono de 5 sesiones de drenaje linfático por el precio de cuatro. Favorece el funcionamiento del sistema linfático, ayuda a eliminar toxinas. Es un masaje indoloro ya que su aplicación se aplica de forma suave y con efectos relajantes."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 5 Sesiones Masaje Anticelulitico", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Bono de cinco sesiones de masaje anticelulítico. Elimina la celulitis con este tratamiento. Rompe la grasa, elimina toxinas actuando sobre la circulación. Masaje de una hora con efecto reductor."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Elimina la celulitis con este tratamiento. Rompe la grasa, elimina toxinas actuando sobre la circulación. Masaje de una hora con efecto reductor."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Servicio de sesión suelta de drenaje linfático manual que favorece el funcionamiento del sistema linfático, ayuda a eliminar toxinas. Es un masaje indoloro ya que su aplicación se aplica de forma suave y con efectos relajantes."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones De Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Bono de 5 sesiones de drenaje linfático por el precio de cuatro. Favorece el funcionamiento del sistema linfático, ayuda a eliminar toxinas. Es un masaje indoloro ya que su aplicación se aplica de forma suave y con efectos relajantes."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 5 Sesiones Masaje Anticelulitico", 
+            "duration": 3600, 
+            "price": "200 € ", 
+            "description": "Bono de cinco sesiones de masaje anticelulítico. Elimina la celulitis con este tratamiento. Rompe la grasa, elimina toxinas actuando sobre la circulación. Masaje de una hora con efecto reductor."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Masaje Anticelulítico", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Elimina la celulitis con este tratamiento. Rompe la grasa, elimina toxinas actuando sobre la circulación. Masaje de una hora con efecto reductor."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Drenaje Linfático", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Servicio de sesión suelta de drenaje linfático manual que favorece el funcionamiento del sistema linfático, ayuda a eliminar toxinas. Es un masaje indoloro ya que su aplicación se aplica de forma suave y con efectos relajantes."
+        }
+    ]
+}

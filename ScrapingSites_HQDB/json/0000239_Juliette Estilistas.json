@@ -1,0 +1,274 @@
+{
+    "adid": null, 
+    "name": "Juliette Estilistas", 
+    "name_of_contact": "Juliette Estilistas", 
+    "scrape_page": "https://www.bucmi.com/julietteestilistas", 
+    "business_website": "https://www.bucmi.com/julietteestilistas", 
+    "areas_covered": null, 
+    "description": "Juliette Estilistas es un salón de peluquería en pleno Barrio de Las Letras en Madrid que cuenta con servicios de peluquería como cortes, peinados, tintes, tratamiento capilares específicos, para que tu melena luzca siempre cuidada y llena de vida.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748718679303.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748738679243.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748755277896.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748778871563.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748805618018.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748823742968.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748841555410.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748861399076.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748881242792.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748904219635.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941748921875841.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "18", 
+    "hqdb_review_score": "8,9", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28014", 
+    "formatted_address": "Madrid, 28014", 
+    "country": "es", 
+    "office_number": "914297161", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4126791000", 
+    "longitude": "-3.6950683000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636283722564805868.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Pack Novias Completo", 
+            "duration": 5400, 
+            "price": "500 € ", 
+            "description": "En este pack te incluye todo lo que una novia necesita para estar radiante en este dia tan especial.Higiene facial con nuestra cosmetica vegetal de gandiva y sentiras un sensual abrazo de las plantas, maquillaje y tratamiento de ICON para el cabello, recogido, manicura permanente opi, pedicura permanente opi y la prueba de novia. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar De Proteinas Y Tto Ecoplex", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "Devuelve las proteínas perdidas,fortalece el cabello débil y quebradizo. Incrementando el cuerpo del cabello fino y reparando el daño interno. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Hidratante Inner Con Ecoplex", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "Este tratamiento ofrece un remedio terapéutico que penetra profundamente en el cabello ayudando a reconstruir y restablecer, reparando el daño ocasionado por agentes químicos y otros elementos medioambientales. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Eco Sin Peinado", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Disfruta de una coloración estupenda gracias a nuestro completo servicio de color que además incluye el lavado con champú y acondicionador pero no incluye el peinado del pelo. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Coloración Stained Glass, Por Dosis", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "color para cabello en superficie,rico en pigmentos,sin peroxido ni amoniaco.Lo que conseguimos es sellar el color permanente del cabello,mantiene el brillo. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?DD"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "El servicio incluye cortar, lavar y peinar con producto de acabado (Gomina, Cera). Déjate asesorar por nuestros profesionales y cambia tu look. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?DD"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "¿Estás aburrida de tu corte? ¿Quieres cambiar tu look? En Eolion Estilistas te asesoremos con un corte de tendencia adecuado a tu estilo y personalidad. El servicio incluye lavado con productos ICON un champú tratante, acondicionador tratante, styling y peinado. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Tto Infusion Icon Y Peinado Largo", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Si notas el pelo castigado por los efectos del sol y el estrés diario, en Eolion te damos la solución. Reserva este servicio completo que incluye corte de la mano de nuestros expertos estilistas, tratamiento antioxidante, lavado con champú y acondicionador y secado con acabado definido para la melena larga. Si tu pelo es extralargo consulta posible suplemento con tu profesional. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Tto Infusion Icon Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Servicio perfecto para pelos castigados. Incluye corte de tendencia, para sanear la melena, tratamiento antioxidante ICON, para recuperar la salud de tu cabello, lavado con champú y acondicionador y peinado con definición para el pelo corto y medio. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Ecotech-Bleach Icon", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Da un toque de luz y color a tu cabello con nuestras mechas eco con peinado lavado ICON que te incluye champú tratante, masaje, acondicionador tratante, producto styling. En Eolion Estilistas tienes a profesionales cualificados que darán con lo que buscas. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack De Novias Básico", 
+            "duration": 5400, 
+            "price": "300 € ", 
+            "description": "El servicio estrella para ese día tan importante. ¡Así no tendrás que precuparte por nada más! En este pack incluye la higiene facial de cosmética vegetal gandiva, maquillaje, recogido y manicura basic opi. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Manicura Opi Y Brushing", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Hazte la manicura OPI y cuidamos tu melena con nuestros productos Icon. En el lavado incluye champú tratante, masaje y acondicionador Icon. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Maquillaje, Peinado Y Manicura Opi", 
+            "duration": 5400, 
+            "price": "61 € ", 
+            "description": "Pack completo de belleza que incluye maquillaje con preparación de la piel, manicura completa OPI y peinado. En el lavado se incluye champú tratante y acondicionador ICON para que tu pelo quede sedoso y brillante.Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack Novias Completo", 
+            "duration": 5400, 
+            "price": "500 € ", 
+            "description": "En este pack te incluye todo lo que una novia necesita para estar radiante en este dia tan especial.Higiene facial con nuestra cosmetica vegetal de gandiva y sentiras un sensual abrazo de las plantas, maquillaje y tratamiento de ICON para el cabello, recogido, manicura permanente opi, pedicura permanente opi y la prueba de novia. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Corto Y Media Melena", 
+            "duration": 2700, 
+            "price": "16,5 € ", 
+            "description": "Si necesitas estar perfecta porque tienes una cita especial, ven y disfruta de nuestro peinado con definición para pelo corto y media melena. El servicio incluye lavado con champú y mascarilla. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Pelo Largo", 
+            "duration": 1800, 
+            "price": "19,5 € ", 
+            "description": "Te asesoraremos para que encuentres el estilo que buscas, nos encargaremos de darle a tu peinado un toque personal. El servicio incluye lavado con champú específico y acondicionador. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Proteínas", 
+            "duration": 900, 
+            "price": "17 € ", 
+            "description": "Protege el cabello débil y quebradizo,proporcionando la fuerza necesaria para obtener cuerpo y brillo.Protege y repara el cabello dañado con una fortalecedora mezcla de proteínas. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Proteinas Y Tto Ecoplex", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "Devuelve las proteínas perdidas,fortalece el cabello débil y quebradizo. Incrementando el cuerpo del cabello fino y reparando el daño interno. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Detox Y Peinado Corto", 
+            "duration": 900, 
+            "price": "30,5 € ", 
+            "description": "Hazte una limpieza y estimula tu cuero cabello con nuestro tratamiento,notaras tu cabello mas brillante y suelto. Incluye el champú détox, masaje, bálsamo correspondiente a tu cabello y peinado. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Con el paso del tiempo, y por motivos de la contaminación el pelo se va estropeando. Te recomendamos que pruebes este tratamiento hidratante ICON, donde tu pelo recupera elasticidad y brillo. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Hidratante Inner Con Ecoplex", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "Este tratamiento ofrece un remedio terapéutico que penetra profundamente en el cabello ayudando a reconstruir y restablecer, reparando el daño ocasionado por agentes químicos y otros elementos medioambientales. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Eco Sin Peinado", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Disfruta de una coloración estupenda gracias a nuestro completo servicio de color que además incluye el lavado con champú y acondicionador pero no incluye el peinado del pelo. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Coloración Stained Glass, Por Dosis", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "color para cabello en superficie,rico en pigmentos,sin peroxido ni amoniaco.Lo que conseguimos es sellar el color permanente del cabello,mantiene el brillo. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?DD"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "El servicio incluye cortar, lavar y peinar con producto de acabado (Gomina, Cera). Déjate asesorar por nuestros profesionales y cambia tu look. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?DD"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Eco Sin Peinado", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Disfruta de una coloración estupenda gracias a nuestro completo servicio de color que además incluye el lavado con champú y acondicionador pero no incluye el peinado del pelo. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. Trabajamos con productos ICON."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Coloración Stained Glass, Por Dosis", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "color para cabello en superficie,rico en pigmentos,sin peroxido ni amoniaco.Lo que conseguimos es sellar el color permanente del cabello,mantiene el brillo. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?DD"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "El servicio incluye cortar, lavar y peinar con producto de acabado (Gomina, Cera). Déjate asesorar por nuestros profesionales y cambia tu look. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com. ¿A qué estás esperando?DD"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte Y Peinado Pelo Largo", 
+            "duration": 3600, 
+            "price": "34 € ", 
+            "description": "¿Estás aburrida de tu corte? ¿Quieres cambiar tu look? En Eolion Estilistas te asesoremos con un corte de tendencia adecuado a tu estilo y personalidad. El servicio incluye lavado con productos ICON un champú tratante, acondicionador tratante, styling y peinado. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte, Tto Infusion Icon Y Peinado Largo", 
+            "duration": 5400, 
+            "price": "40 € ", 
+            "description": "Si notas el pelo castigado por los efectos del sol y el estrés diario, en Eolion te damos la solución. Reserva este servicio completo que incluye corte de la mano de nuestros expertos estilistas, tratamiento antioxidante, lavado con champú y acondicionador y secado con acabado definido para la melena larga. Si tu pelo es extralargo consulta posible suplemento con tu profesional. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte, Tto Infusion Icon Y Peinado Pelo Corto", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Servicio perfecto para pelos castigados. Incluye corte de tendencia, para sanear la melena, tratamiento antioxidante ICON, para recuperar la salud de tu cabello, lavado con champú y acondicionador y peinado con definición para el pelo corto y medio. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Mechas Ecotech-Bleach Icon", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Da un toque de luz y color a tu cabello con nuestras mechas eco con peinado lavado ICON que te incluye champú tratante, masaje, acondicionador tratante, producto styling. En Eolion Estilistas tienes a profesionales cualificados que darán con lo que buscas. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. No lo dudes más y haz tu reserva online de un solo clic, gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Color Eco Sin Peinado", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Disfruta de una coloración estupenda gracias a nuestro completo servicio de color que además incluye el lavado con champú y acondicionador pero no incluye el peinado del pelo. Ponte en las manos de nuestros expertos profesionales de Juliette Estilistas y disfruta de unos resultados increíbles gracias a los años de experiencia que nos avalan. Trabajamos con productos ICON."
+        }
+    ]
+}

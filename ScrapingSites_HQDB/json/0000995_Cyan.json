@@ -1,0 +1,513 @@
+{
+    "adid": null, 
+    "name": "Cyan", 
+    "name_of_contact": "Cyan", 
+    "scrape_page": "https://www.bucmi.com/centredepilaciocyan", 
+    "business_website": "https://www.bucmi.com/centredepilaciocyan", 
+    "areas_covered": null, 
+    "description": "Centro de estética de Barcelona especializado sobre todo en servicios como: Diseño de Cejas, Extensiones de Pestañas XTREME LASHES NY, y ARDELL. Realizamos diversos servicios especializados y personalizados en Depilación IPL y tratamiento INDIBA.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635289203504364649.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635385159730536143.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635385159737411037.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635385159740692273.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635385159748504739.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "24", 
+    "hqdb_review_score": "9,5", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Casanova, 117", 
+    "city": "Barcelona", 
+    "zipcode": "08041", 
+    "formatted_address": "C/ Casanova, 117, Barcelona, 08041", 
+    "country": "es", 
+    "office_number": "934366934", 
+    "office_number2": null, 
+    "mobile_number": "632414261", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.4153034000", 
+    "longitude": "2.1799931000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966814817988347.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Cera Axilas Mujer", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "Ponte en las manos de nuestros expertos esteticistas del Centro de Depilación Cyan y presume de una piel suave, sedosa y libre de vello por un par de semanas. Te evitarás tener que recurrir de forma diaria a las cuchillas gracias a nuestro completo servicio de depilación con cera de un solo uso. Aplicamos crema final para evitar irritaciones. No lo dudes más y haz tu reserva en nuestro salón."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Drenaje Linfático Corporal", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Sin duda es una de las técnicas más revolucionarias y populares que consiste en estimular el sistema linfático a través de un masaje terapéutico. Aconsejable, sobre todo, a personas que padecen de enfermedades crónicas. Reserva una hora para ti y recupera la salud perdida de tu cuerpo a la vez que lo tonificas gracias a nuestros cualificados profesionales."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "La manicura de toda la vida de la mano de de nuestros expertos esteticistas del Centro de Depilación Cyan. El servicio incluye el limado de la uña, el cuidado de las cutículas, una ligera hidratación y el esmaltado a escoger dentro de nuestra gama de coloraciones de esmaltes tradicionales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "330 € ", 
+            "description": "Consiste en la aplicación de la presoterapia con la combinación de una masaje relajante. Conseguirás eliminar la grasa localizada y mejorar la circulación de tu cuerpo, para eliminar así el efecto de piernas cansadas que se produce por el estrés diario. No lo dudes más y haz tu reserva online. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Indiba 2 Zonas: Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "570 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Corporal", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Sin duda es una de las técnicas más revolucionarias y populares que consiste en estimular el sistema linfático a través de un masaje terapéutico. Aconsejable, sobre todo, a personas que padecen de enfermedades crónicas. Reserva una hora para ti y recupera la salud perdida de tu cuerpo a la vez que lo tonificas gracias a nuestros cualificados profesionales."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas Efecto Natural 0,15 Vison", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Colocación de Extensiones de las pestañas que logra un efecto voluminoso y consigue un efecto muy natural. Conseguirás una mirada más impactante y seductora, al más puro estilo de las celebrities de Hollywood. Confía en nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas Por Grupos", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Colocación de Extensiones de las pestañas que logra un efecto voluminoso y consigue un efecto muy natural. Conseguirás una mirada más impactante y seductora, al más puro estilo de las celebrities de Hollywood. Confía en nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico Y Reafirmante 30M", 
+            "duration": 1800, 
+            "price": "26 € ", 
+            "description": "Reserva 30 minutos en tu agenda y visita nuestro Centro de Depilación Cyan, donde te realizaremos un masaje anticelulítico y reafirmante. Gracias a la terapia manual, conseguiremos romper la grasa de forma manual y ayudarte a drenar la grasa localizada de forma natural. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulítico Y Reafirmante 60M", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Reserva 30 minutos en tu agenda y visita nuestro Centro de Depilación Cyan, donde te realizaremos un masaje anticelulítico y reafirmante. Gracias a la terapia manual, conseguiremos romper la grasa de forma manual y ayudarte a drenar la grasa localizada de forma natural. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Presoterapia", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "Consiste en la aplicación de la presoterapia con la combinación de una masaje relajante. Conseguirás eliminar la grasa localizada y mejorar la circulación de tu cuerpo, para eliminar así el efecto de piernas cansadas que se produce por el estrés diario. No lo dudes más y haz tu reserva online. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuecia Facial Indiba 30 Min", 
+            "duration": 1800, 
+            "price": "42 € ", 
+            "description": "Consigue un rejuvenecimiento facial con la radiofrecuencia de la tecnología INDIBA que actúa desde el interior movilizando los iones. Se recomienda 6 sesiones para que de esta manera podrás revitalizar, suavizar arrugas y rejuvenecimiento facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial Indiba 20 Min", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Consigue un rejuvenecimiento facial con la radiofrecuencia de la tecnología INDIBA que actúa desde el interior movilizando los iones. Se recomienda 6 sesiones para que de esta manera puedas revitalizar, suavizar arrugas y un rejuvenecimiento facial."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Indiba 2 Zonas: Bono 6 Sesiones", 
+            "duration": 1800, 
+            "price": "312 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Indiba 3 Zonas: Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "640 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Indiba 3 Zonas: Bono 6 Sesiones", 
+            "duration": 3600, 
+            "price": "432 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia: Indiba Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "340 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia: Indiba Bono 6 Sesiones", 
+            "duration": 1800, 
+            "price": "222 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis. No lo dudes más y haz tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Este tratamiento incluye vaporización, extracción de puntos negros, eliminación de las impurezas y masaje facial. Disfruta de una piel limpia y nutrida gracias a nuestros expertos esteticistas del Centro de Depilación de Cyan. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Da un tono más a tus pestañas probando uno de nuestros tintes y haz que parezca más profunda y cautivadora. Te va a encantar como te queda sin necesidad que recurras de forma diaria a la máscara de pestañas. No lo dudes más y haz tu reserva online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Masaje Relajante", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "Consta de una exfoliación corporal más envoltura y masaje. Puedes elegir entre cacao, melón, perla y oro. Disfruta de una experiencia única en nuestro centro. Ponte en las manos de nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente De Pestañas", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Después de esta permanente desconocerás el significado de la palabra máscara de pestañas. Tendrás una mirada cautivadora y penetrante gracias al rizo perfecto que conseguirás en nuestro centro. Ponte en las manos de nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "330 € ", 
+            "description": "Consiste en la aplicación de la presoterapia con la combinación de una masaje relajante. Conseguirás eliminar la grasa localizada y mejorar la circulación de tu cuerpo, para eliminar así el efecto de piernas cansadas que se produce por el estrés diario. No lo dudes más y haz tu reserva online. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuencia Indiba 2 Zonas: Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "570 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Drenaje Linfático Corporal", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Sin duda es una de las técnicas más revolucionarias y populares que consiste en estimular el sistema linfático a través de un masaje terapéutico. Aconsejable, sobre todo, a personas que padecen de enfermedades crónicas. Reserva una hora para ti y recupera la salud perdida de tu cuerpo a la vez que lo tonificas gracias a nuestros cualificados profesionales."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas Efecto Natural 0,15 Vison", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Colocación de Extensiones de las pestañas que logra un efecto voluminoso y consigue un efecto muy natural. Conseguirás una mirada más impactante y seductora, al más puro estilo de las celebrities de Hollywood. Confía en nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas Por Grupos", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Colocación de Extensiones de las pestañas que logra un efecto voluminoso y consigue un efecto muy natural. Conseguirás una mirada más impactante y seductora, al más puro estilo de las celebrities de Hollywood. Confía en nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje Anticelulítico Y Reafirmante 30M", 
+            "duration": 1800, 
+            "price": "26 € ", 
+            "description": "Reserva 30 minutos en tu agenda y visita nuestro Centro de Depilación Cyan, donde te realizaremos un masaje anticelulítico y reafirmante. Gracias a la terapia manual, conseguiremos romper la grasa de forma manual y ayudarte a drenar la grasa localizada de forma natural. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Masaje Anticelulítico Y Reafirmante 60M", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Reserva 30 minutos en tu agenda y visita nuestro Centro de Depilación Cyan, donde te realizaremos un masaje anticelulítico y reafirmante. Gracias a la terapia manual, conseguiremos romper la grasa de forma manual y ayudarte a drenar la grasa localizada de forma natural. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Presoterapia", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "Consiste en la aplicación de la presoterapia con la combinación de una masaje relajante. Conseguirás eliminar la grasa localizada y mejorar la circulación de tu cuerpo, para eliminar así el efecto de piernas cansadas que se produce por el estrés diario. No lo dudes más y haz tu reserva online. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuecia Facial Indiba 30 Min", 
+            "duration": 1800, 
+            "price": "42 € ", 
+            "description": "Consigue un rejuvenecimiento facial con la radiofrecuencia de la tecnología INDIBA que actúa desde el interior movilizando los iones. Se recomienda 6 sesiones para que de esta manera podrás revitalizar, suavizar arrugas y rejuvenecimiento facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuencia Facial Indiba 20 Min", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Consigue un rejuvenecimiento facial con la radiofrecuencia de la tecnología INDIBA que actúa desde el interior movilizando los iones. Se recomienda 6 sesiones para que de esta manera puedas revitalizar, suavizar arrugas y un rejuvenecimiento facial."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuencia Indiba 2 Zonas: Bono 6 Sesiones", 
+            "duration": 1800, 
+            "price": "312 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuencia Indiba 3 Zonas: Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "640 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuencia Indiba 3 Zonas: Bono 6 Sesiones", 
+            "duration": 3600, 
+            "price": "432 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Radiofrecuencia: Indiba Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "340 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Presoterapia Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "330 € ", 
+            "description": "Consiste en la aplicación de la presoterapia con la combinación de una masaje relajante. Conseguirás eliminar la grasa localizada y mejorar la circulación de tu cuerpo, para eliminar así el efecto de piernas cansadas que se produce por el estrés diario. No lo dudes más y haz tu reserva online. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Radiofrecuencia Indiba 2 Zonas: Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "570 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "330 € ", 
+            "description": "Consiste en la aplicación de la presoterapia con la combinación de una masaje relajante. Conseguirás eliminar la grasa localizada y mejorar la circulación de tu cuerpo, para eliminar así el efecto de piernas cansadas que se produce por el estrés diario. No lo dudes más y haz tu reserva online. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Indiba 2 Zonas: Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "570 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Drenaje Linfático Corporal", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Sin duda es una de las técnicas más revolucionarias y populares que consiste en estimular el sistema linfático a través de un masaje terapéutico. Aconsejable, sobre todo, a personas que padecen de enfermedades crónicas. Reserva una hora para ti y recupera la salud perdida de tu cuerpo a la vez que lo tonificas gracias a nuestros cualificados profesionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensión De Pestañas Efecto Natural 0,15 Vison", 
+            "duration": 3600, 
+            "price": "65 € ", 
+            "description": "Colocación de Extensiones de las pestañas que logra un efecto voluminoso y consigue un efecto muy natural. Conseguirás una mirada más impactante y seductora, al más puro estilo de las celebrities de Hollywood. Confía en nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Extensión De Pestañas Por Grupos", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "Colocación de Extensiones de las pestañas que logra un efecto voluminoso y consigue un efecto muy natural. Conseguirás una mirada más impactante y seductora, al más puro estilo de las celebrities de Hollywood. Confía en nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Anticelulítico Y Reafirmante 30M", 
+            "duration": 1800, 
+            "price": "26 € ", 
+            "description": "Reserva 30 minutos en tu agenda y visita nuestro Centro de Depilación Cyan, donde te realizaremos un masaje anticelulítico y reafirmante. Gracias a la terapia manual, conseguiremos romper la grasa de forma manual y ayudarte a drenar la grasa localizada de forma natural. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Anticelulítico Y Reafirmante 60M", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Reserva 30 minutos en tu agenda y visita nuestro Centro de Depilación Cyan, donde te realizaremos un masaje anticelulítico y reafirmante. Gracias a la terapia manual, conseguiremos romper la grasa de forma manual y ayudarte a drenar la grasa localizada de forma natural. No lo dudes más y haz tu reserva con nosotros."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Presoterapia", 
+            "duration": 3600, 
+            "price": "33 € ", 
+            "description": "Consiste en la aplicación de la presoterapia con la combinación de una masaje relajante. Conseguirás eliminar la grasa localizada y mejorar la circulación de tu cuerpo, para eliminar así el efecto de piernas cansadas que se produce por el estrés diario. No lo dudes más y haz tu reserva online. No te arrepentirás de los resultados."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuecia Facial Indiba 30 Min", 
+            "duration": 1800, 
+            "price": "42 € ", 
+            "description": "Consigue un rejuvenecimiento facial con la radiofrecuencia de la tecnología INDIBA que actúa desde el interior movilizando los iones. Se recomienda 6 sesiones para que de esta manera podrás revitalizar, suavizar arrugas y rejuvenecimiento facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Facial Indiba 20 Min", 
+            "duration": 1800, 
+            "price": "35 € ", 
+            "description": "Consigue un rejuvenecimiento facial con la radiofrecuencia de la tecnología INDIBA que actúa desde el interior movilizando los iones. Se recomienda 6 sesiones para que de esta manera puedas revitalizar, suavizar arrugas y un rejuvenecimiento facial."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Indiba 2 Zonas: Bono 6 Sesiones", 
+            "duration": 1800, 
+            "price": "312 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Indiba 3 Zonas: Bono 10 Sesiones", 
+            "duration": 3600, 
+            "price": "640 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia Indiba 3 Zonas: Bono 6 Sesiones", 
+            "duration": 3600, 
+            "price": "432 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia: Indiba Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "340 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y actúa contra la celulitis."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Radiofrecuencia: Indiba Bono 6 Sesiones", 
+            "duration": 1800, 
+            "price": "222 € ", 
+            "description": "Aparato de RadioFrecuencia que actúa desde el interior, ofreciendo grandes resultados estéticos en tratamientos faciales y corporales. Encontrarás beneficios como: Bienestar integral, reducción de arrugas con efecto lifting y también, actúa contra la celulitis. No lo dudes más y haz tu reserva gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "Este tratamiento incluye vaporización, extracción de puntos negros, eliminación de las impurezas y masaje facial. Disfruta de una piel limpia y nutrida gracias a nuestros expertos esteticistas del Centro de Depilación de Cyan. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte De Pestañas", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "Da un tono más a tus pestañas probando uno de nuestros tintes y haz que parezca más profunda y cautivadora. Te va a encantar como te queda sin necesidad que recurras de forma diaria a la máscara de pestañas. No lo dudes más y haz tu reserva online con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Peeling Corporal Y Masaje Relajante", 
+            "duration": 5400, 
+            "price": "48 € ", 
+            "description": "Consta de una exfoliación corporal más envoltura y masaje. Puedes elegir entre cacao, melón, perla y oro. Disfruta de una experiencia única en nuestro centro. Ponte en las manos de nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Permanente De Pestañas", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Después de esta permanente desconocerás el significado de la palabra máscara de pestañas. Tendrás una mirada cautivadora y penetrante gracias al rizo perfecto que conseguirás en nuestro centro. Ponte en las manos de nuestros expertos esteticistas del Centro de Depilación Cyan y no te arrepentirás de los resultados. Haz ya tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "La manicura de toda la vida de la mano de de nuestros expertos esteticistas del Centro de Depilación Cyan. El servicio incluye el limado de la uña, el cuidado de las cutículas, una ligera hidratación y el esmaltado a escoger dentro de nuestra gama de coloraciones de esmaltes tradicionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Express", 
+            "duration": 1800, 
+            "price": "8 € ", 
+            "description": "La manicura más rápida para nuestras clientes con más prisa en la agenda. El servicio incluye el limado de la uña y el esmaltado. Escoge entre nuestra gama de coloraciones de esmaltes tradicionales y nosotros nos encargamos de lo demás. No incluye cuidado completo de las manos."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Express Semipermanente", 
+            "duration": 900, 
+            "price": "12 € ", 
+            "description": "La manicura más rápida para nuestras clientes con más prisa en la agenda. El servicio incluye el limado de la uña y el esmaltado. Escoge entre nuestra gama de coloraciones de esmaltes semipermanentes y nosotros nos encargamos de lo demás. No incluye cuidado completo de las manos. Y luce unas manos estupendas por más tiempo."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Francesa Clásica", 
+            "duration": 1800, 
+            "price": "12 € ", 
+            "description": "La manicura francesa de toda la vida de la mano de de nuestros expertos esteticistas del Centro de Depilación Cyan. El servicio incluye el limado de la uña, el cuidado de las cutículas, una ligera hidratación y el esmaltado en manicura francesa. No lo dudes más y haz tu reserva online con nosotros. No te arrepentirás del resultado."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Francesa Semipermanente", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "Presume de unas uñas bonitas y de aspecto cuidado por más tiempo, gracias a este completo servicio de manicura con esmaltado semipermanente. El esmaltado es en francesa, para las clientes más sofisticadas. El servicio incluye el limado de la uña, retirada de cutículas, ligera hidratación y el esmaltado. No lo dudes más y haz tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Hombre", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "Servicio exclusivo para el hombre, porque a ellos también les gusta cuidar de su imagen. El servicio incluye el limado de la uña, cuidado de las cutículas y ligera hidratación para que salgas estupenda de nuestro centro. ¿A qué estás esperando para hacer tu reserva online? De un solo clic gracias a Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Semipermanente", 
+            "duration": 3600, 
+            "price": "18 € ", 
+            "description": "Presume de unas uñas bonitas y de aspecto cuidado por más tiempo, gracias a este completo servicio de manicura con esmaltado semipermanente. Escoge entre nuestra paleta de colores y nosotros nos encargamos de todo lo demás. El servicio incluye el limado de la uña, retirada de cutículas, ligera hidratación y el esmaltado. No lo dudes más y haz tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Completa Clásica", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "La pedicura de toda la vida gracias a nuestros expertos esteticistas del Centro de Depilación Cyan. El servicio incluye el limado de la uña, el cuidado de las cutículas y durezas, una ligera hidratación y el esmaltado a escoger dentro de nuestra gama de coloraciones de esmaltes tradicionales."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Pedicura Completa Semipermanente", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Presume de unas uñas bonitas y de aspecto cuidado por más tiempo, gracias a este completo servicio de pedicura con esmaltado semipermanente. Escoge entre nuestra paleta de colores y nosotros nos encargamos de todo lo demás. El servicio incluye el limado de la uña, retirada de cutículas, ligera hidratación y el esmaltado. No lo dudes más y haz tu reserva con Bucmi.com."
+        }, 
+        {
+            "service_category": "Varios", 
+            "service": "Presoterapia Bono 10 Sesiones", 
+            "duration": 1800, 
+            "price": "330 € ", 
+            "description": "Consiste en la aplicación de la presoterapia con la combinación de una masaje relajante. Conseguirás eliminar la grasa localizada y mejorar la circulación de tu cuerpo, para eliminar así el efecto de piernas cansadas que se produce por el estrés diario. No lo dudes más y haz tu reserva online. No te arrepentirás de los resultados."
+        }
+    ]
+}

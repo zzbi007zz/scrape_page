@@ -1,0 +1,155 @@
+{
+    "adid": null, 
+    "name": "Figaro", 
+    "name_of_contact": "Figaro", 
+    "scrape_page": "https://www.bucmi.com/peluqueriafigaro", 
+    "business_website": "https://www.bucmi.com/peluqueriafigaro", 
+    "areas_covered": null, 
+    "description": "Figaro es el fruto de la pasión y el amor por la peluquería y la belleza. Un espacio creado para soñar y dejarnos inspirar. Cuidamos tu cabello y satisfacemos tus deseos.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635392977881229477.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635392977921512395.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635392977954012423.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635805154026376413.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "7,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Brusi, 39", 
+    "city": "Barcelona", 
+    "zipcode": "08003", 
+    "formatted_address": "C/ Brusi, 39, Barcelona, 08003", 
+    "country": "es", 
+    "office_number": "932219687", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3783028000", 
+    "longitude": "2.1898956999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966560198157466.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Chica Cabello Corto", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Aunque tengas el cabello corto, te gusta cuidarlo para que tu corte siempre esté perfecto. No lo pienses y ponte en manos de nuestros profesionales: te asesorarán para que disfrutes de un corte a la última que se adapte a ti. El servicio incluye lavado con champú específico y acondicionador, así como peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Chica Cabello Largo", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Tener el pelo largo exige un mantenimiento regular para cuidar las puntas y garantizar una melena saludable. Ya sea por mantenimiento,o porque busques un cambio de look, ponte en manos de nuestros profesionales: te asesorarán para que disfrutes de un corte a la última que se adapte a ti. El servicio incluye lavado con champú específico y acondicionador, así como peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Hombre Corte", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "En Figaro Peluqueros también pensamos en ellos; existen muchos cortes de pelo para él y te asesoramos para que te lleves el que más vaya contigo y con tu estilo. Con este servicio se incluye el lavado y el corte. ¡Apúntate!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíces", 
+            "duration": 5400, 
+            "price": "28 € ", 
+            "description": "Lo sabemos: el cabello crece y, con ello, termina llegando el temido efecto raíz. ¡Pero no te preocupes! En Figaró Peluquería te ofrecemos este servicio de retoque de color en raíz. Para que vuelvas a estar estupenda y no tengas que preocuparte por nada."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Puntas", 
+            "duration": 5400, 
+            "price": "32 € ", 
+            "description": "¿Necesitas renovar tu cabello? ¿Buscas una melena brillante y llena de color? No te lo pienses y consigue ya este servicio de color, realizado por nuestros mejores profesionales. El servicio se aplica en raíces y puntas, dándote un toque de luz adaptado a tus gustos y necesidades."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chica Cabello Corto", 
+            "duration": 2700, 
+            "price": "29 € ", 
+            "description": "Aunque tengas el cabello corto, te gusta cuidarlo para que tu corte siempre esté perfecto. No lo pienses y ponte en manos de nuestros profesionales: te asesorarán para que disfrutes de un corte a la última que se adapte a ti. El servicio incluye lavado con champú específico y acondicionador, así como peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chica Cabello Largo", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Tener el pelo largo exige un mantenimiento regular para cuidar las puntas y garantizar una melena saludable. Ya sea por mantenimiento,o porque busques un cambio de look, ponte en manos de nuestros profesionales: te asesorarán para que disfrutes de un corte a la última que se adapte a ti. El servicio incluye lavado con champú específico y acondicionador, así como peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Chica Cabello Medio", 
+            "duration": 2700, 
+            "price": "32 € ", 
+            "description": "Si te gusta cuidar tu media melena y quieres disfrutar de un corte con estilo, ponte en manos de nuestros profesionales: te asesorarán para que disfrutes de un corte a la última que se adapte a ti. El servicio incluye lavado con champú específico y acondicionador, así como peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Hombre Corte", 
+            "duration": 1800, 
+            "price": "19 € ", 
+            "description": "En Figaro Peluqueros también pensamos en ellos; existen muchos cortes de pelo para él y te asesoramos para que te lleves el que más vaya contigo y con tu estilo. Con este servicio se incluye el lavado y el corte. ¡Apúntate!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Cabello Corto", 
+            "duration": 900, 
+            "price": "15 € ", 
+            "description": "¿Tienes una cita especial? ¿Algún evento en el que necesites estar impecable? Quizá te apetezca estar guapa en tu día a día. Sea cual sea el motivo, en Figaro Peluqueros te peinamos para que estés perfecta. El servicio incluye lavado con champú específico y acondicionador, así como peinado para cabello corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Cabello Medio", 
+            "duration": 1800, 
+            "price": "18 € ", 
+            "description": "¿Tienes una cita especial? ¿Algún evento en el que necesites estar impecable? Quizá te apetezca estar guapa en tu día a día. Sea cual sea el motivo, en Figaro Peluqueros te peinamos para que estés perfecta. El servicio incluye lavado con champú específico y acondicionador, así como peinado para media melena."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavar Y Peinar Largo", 
+            "duration": 1800, 
+            "price": "20 € ", 
+            "description": "¿Tienes una cita especial? ¿Algún evento en el que necesites estar impecable? Quizá te apetezca estar guapa en tu día a día. Sea cual sea el motivo, en Figaro Peluqueros te peinamos para que estés perfecta. El servicio incluye lavado con champú específico y acondicionador, así como peinado para cabello largo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Media Cabeza)", 
+            "duration": 5400, 
+            "price": "44 € ", 
+            "description": "Con nuestro servicio de mechas conseguirás aportar luz y movimiento a tu rostro. Te asesoraremos para que el tono elegido vaya con tu tono de cabello y con tu corte y estilo, así que ponte en manos de nuestros profesionales y prepárate: el resultado te encantará. Estas mechas se realizan en media cabeza."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Parte Superior)", 
+            "duration": 5400, 
+            "price": "34 € ", 
+            "description": "Con estas mechas en la parte superior de la cabeza lograrás dar pinceladas de luz y color a tu melena. Te asesoraremos para que el tono elegido vaya con tu tono de cabello y con tu corte y estilo, así que ponte en manos de nuestros profesionales y prepárate: el resultado te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas (Toda La Cabeza)", 
+            "duration": 5400, 
+            "price": "54 € ", 
+            "description": "¿Buscas el look completo? ¿Quieres que tu estilo destaque por encima de los demás? No lo dudes y apúntate a nuestro servicio de mechas en toda la cabeza. Te asesoraremos para que el tono elegido vaya con tu tono de cabello y con tu corte y estilo, así que ponte en manos de nuestros profesionales y prepárate: el resultado te encantará."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "¿Tu pelo necesita hidratación? Consigue nutrirlo en profundidad gracias a este completo tratamiento de keratina pura sin formol. Conseguiremos rellenar la cutícula del cabello. ¿El resultado? Un pelo lleno de brillo, cuerpo, suave y libre de encrespamiento. No es un alisado del cabello ."
+        }
+    ]
+}

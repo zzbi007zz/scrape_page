@@ -1,0 +1,80 @@
+{
+    "adid": null, 
+    "name": "Clínica Lladó", 
+    "name_of_contact": "Clínica Lladó", 
+    "scrape_page": "https://www.bucmi.com/clinicallado", 
+    "business_website": "https://www.bucmi.com/clinicallado", 
+    "areas_covered": null, 
+    "description": "En Clínica Lladó, situado en el barrio Chamartín (Madrid), nos tomamos muy en serio la seguridad de nuestros pacientes y es por ello que no aceptamos el uso de materiales y equipos no reconocidos y certificados por la CE.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635566588401890394.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635566588457053255.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635566588471742260.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635566588484086632.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635566588504797778.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635566588517142483.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Goya, 30", 
+    "city": "Madrid", 
+    "zipcode": "28016", 
+    "formatted_address": "C/ Goya, 30, Madrid, 28016", 
+    "country": "es", 
+    "office_number": "915631886", 
+    "office_number2": null, 
+    "mobile_number": "640606122", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4558621000", 
+    "longitude": "-3.6767113999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635973799465407984.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilacion Laser Axilas", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Servicio para la eliminacion del vello en las axilas. La depilacion está realizada por el Equipo de laser alejandrita."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Anticelulitico", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Ejercen una presión mecánica sobre los tejidos, influyendo directamente sobre las venas y los vasos linfáticos que se encuentran comprimidos por varios nódulos celulíticos de esta forma se produce una mejor eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Masaje Anticelulitico", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Ejercen una presión mecánica sobre los tejidos, influyendo directamente sobre las venas y los vasos linfáticos que se encuentran comprimidos por varios nódulos celulíticos de esta forma se produce una mejor eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Anticelulitico", 
+            "duration": 1800, 
+            "price": "25 € ", 
+            "description": "Ejercen una presión mecánica sobre los tejidos, influyendo directamente sobre las venas y los vasos linfáticos que se encuentran comprimidos por varios nódulos celulíticos de esta forma se produce una mejor eliminación de toxinas."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilacion Laser Axilas", 
+            "duration": 1800, 
+            "price": "45 € ", 
+            "description": "Servicio para la eliminacion del vello en las axilas. La depilacion está realizada por el Equipo de laser alejandrita."
+        }
+    ]
+}

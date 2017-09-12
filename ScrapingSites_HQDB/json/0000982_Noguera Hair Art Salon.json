@@ -1,0 +1,375 @@
+{
+    "adid": null, 
+    "name": "Noguera Hair Art Salon", 
+    "name_of_contact": "Noguera Hair Art Salon", 
+    "scrape_page": "https://www.bucmi.com/noguerahairart", 
+    "business_website": "https://www.bucmi.com/noguerahairart", 
+    "areas_covered": null, 
+    "description": "Noguera Hair Art Salon es uno de los dos salones fundados y dirigidos por Juanma Noguera Moreno. Se sitúa en la plaza Doctor Letamendi 29, en pleno Eixample de Barcelona y desde su apertura se ha convertido en una peluquería de referencia en la ciudad condal, creando un nuevo concepto de peluquería. Se definen como un equipo eficaz y competente. En este moderno y elegante salón, se ralizan servicios de peluquería, barbería, estética, masajes, manicuras y pedicuras. Utilizan Redken y GHD para el cabello; American Crew y Macho para el cuidado masculino; y Essie para el cuidado de manos y pies. La calidad de sus servicios está avalada por una valoración sobresaliente de sus clientes.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283128516447489.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283128595821348.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283128625508338.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283128646445685.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283128664570387.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283128682539032.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636283128696132433.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "71", 
+    "hqdb_review_score": "9,6", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Urgell, 171", 
+    "city": "Barcelona", 
+    "zipcode": "08007", 
+    "formatted_address": "C/ Urgell, 171, Barcelona, 08007", 
+    "country": "es", 
+    "office_number": "935313449", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3895331000", 
+    "longitude": "2.1610111999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636283126650692764.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado De Keratina Cabello Largo", 
+            "duration": 12600, 
+            "price": "200 € ", 
+            "description": "¿Nunca has soñado con lucir una melena lisa, libre del frizz frente a la humedad, el agua sin usar la plancha o el secador? Noguera Hair Art te ofrece este Tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y brillante .Consultar en salón suplemento por medida extra larga. El servicio incluye lavado y peinado. Reserva online al mejor precio y en tan solo 3 clics. Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Redken, Cortar Y Peinado Para Mujer", 
+            "duration": 7200, 
+            "price": "88,5 € ", 
+            "description": "Coloración permanente con Chromatics de Redken (coloración sin amoniaco rica en proteínas) corte con asesoramiento y peinado con productos de acabado. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. Si tienes una melena extralarga o un cabello con mucho volumen es posible que se cobre un suplemento en el salón. Reserva online en tan solo 3 clics."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Balayage O Californianas Y Peinado", 
+            "duration": 10800, 
+            "price": "99,5 € ", 
+            "description": "El precio incluye Mechas técnica balayage, tratamiento de color Shades Q para matizar y unificar el degradado y peinado. Todos nuestros servicios incluyen el champú especifico Redken y el producto de Styling Redken. NO incluida la coloración base o corrección de cana si fuera necesaria. Consultar en salón suplemento por medida extra en mecha o matiz. El servicio incluye mechas balayage o californianas a elegir con asesoramiento y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar De Hidratación Heatcure", 
+            "duration": 5400, 
+            "price": "68 € ", 
+            "description": "Reserva online este ritual de moxaterapia capilar para curar y reparar el cabello. Aconsejado para cabellos que han sido tratados químicamente (decoloraciones, alisados...) y cabellos debilitados. Beneficios: oxigena el cuero cabelludo, aporta el brillo perdido y la hidratación necesaria y reestructura el cabello llevándolo a su estado natural. Incluye lavado, tratamiento, peinado y productos de mantenimiento. Consultar en salón suplemento por medida XXL."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Capilar Cocktail Intensivo Personalizado", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "Consigue una melena mucho más brillante, rejuvenecida y llena de vida gracias a este tratamiento capilar que Noguera te ofrece. El servicio incluye un tratamiento profundo personalizado adaptado a las necesidades de cada cabello , aportando la cantidad necesaria de hidratación , proteínas, brillo, disciplina...y peinado . Consultar suplemento en salón de melena extra larga."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "33 € ", 
+            "description": "En Noguera Hair Art ofrecemos un asesoramiento personalizado para el y conseguir el look perfecto según tu estilo. El servicio incluye un Corte de hombre y estilismo de barba con ritual de toallas calientes y aceites esenciales. Reserva online este paquete completo de belleza para el hombre, por que a ellos también les gusta cuidarse, te encantará el resultado obtenido ¡Trabajamos con productos Redken, American Crew, y Depot de primera calidad!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Spa Essie", 
+            "duration": 3600, 
+            "price": "42 € ", 
+            "description": "Ponemos a tu disposición la pedicura más especial y relajante, te evadirás de la rutina y del estrés del día a día. Reserva online y disfruta de una pedicura relajante y uñas bonitas con este servicio: Limado, cortar uñas, quitar cutículas, crema hidratante , tratamiento de durezas, exfoliante, mascarillas , toallas húmedas y esmaltado del color que elijas de la marca Essie. Realizamos el servicio en cabina."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Cabello Largo", 
+            "duration": 12600, 
+            "price": "200 € ", 
+            "description": "¿Nunca has soñado con lucir una melena lisa, libre del frizz frente a la humedad, el agua sin usar la plancha o el secador? Noguera Hair Art te ofrece este Tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y brillante .Consultar en salón suplemento por medida extra larga. El servicio incluye lavado y peinado. Reserva online al mejor precio y en tan solo 3 clics. Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina Media Melena", 
+            "duration": 12600, 
+            "price": "160 € ", 
+            "description": "¿Deseas lucir un cabello liso, fuerte y con mucho cuerpo y brillo? En Noguera Hair Art te ofrecemos este tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y rejuvenecida. Consultar en salón suplemento por medida extra larga o cabello con mucha densidad. El servicio Incluye lavado y peinado. Olvídate de las planchas y disfruta de tener una melena preciosa cada día, al salir de la ducha, de la playa o en un lugar con humedad."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Es momento de cuidarse y mimarse de la mano de los mejores estilistas de la cuidad. En Noguera Hair Art Salón te ofrecemos un Estilismo de barba con ritual tradicional a base de aceites esenciales y toallas calientes. Puedes escoger entre un estilo hipster, británico, tradicional... pero en definitiva, te quitarás ese aspecto desaliñado. Te encantará el resultado ¡Trabajamos con productos de American Crew!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Redken, Hidratacion, Corte Y Secado", 
+            "duration": 7200, 
+            "price": "73,5 € ", 
+            "description": "Noguera Hair Art te ofrecemos el pack perfecto para cambiar de look y dejar tu cabello bonito, sano y brillante. El servicio incluye coloración de raíz con coloración sin amoniaco Chromatics de Redken, corte, hidratación con mascarilla especifica y secado. No incluida la coloración de medios y puntas, posibilidad de abonar la diferencia según la necesidad. Consultar en salón suplemento por medida extra larga."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Redken, Cortar Y Peinado Para Mujer", 
+            "duration": 7200, 
+            "price": "88,5 € ", 
+            "description": "Coloración permanente con Chromatics de Redken (coloración sin amoniaco rica en proteínas) corte con asesoramiento y peinado con productos de acabado. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. Si tienes una melena extralarga o un cabello con mucho volumen es posible que se cobre un suplemento en el salón. Reserva online en tan solo 3 clics."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Cortar Y Color Hombre", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "En Noguera te ofrecemos un asesoramiento totalmente personalizado para que consigas el look perfecto para ti. Nos adaptaremos a tus necesidades para que el resultado sea perfecto, siempre adecuado a tu estilo. El servicio incluye Coloración masculina Redken o American Crew , para corregir o camuflar las canas, corte de tendencia y peinado. Lucirás un aspecto más joven gracias a nuestros estilistas de Noguera Hair."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "19,5 € ", 
+            "description": "¿Tienes ganas de un cambio de look asesorado por nuestros estilistas de Noguera Hair Art Salon? ¿O simplemente necesitas sanear tu cabello? Reserva online tu corte de pelo, te encantará el resultado, siempre se adaptará a tu estilo.Todos nuestros servicios incluyen diagnóstico de pelo, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken y productos de acabado de American Crew."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "39,5 € ", 
+            "description": "Tanto si quieres un cambio de look como si necesitas sanear tu cabello, reservar online este pack de corte con peinado en tan solo tres clics de la manera más rápida y cómoda. El servicio incluye el corte con asesoramiento y peinado en media melena. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "41 € ", 
+            "description": "Tanto si quieres un cambio de estilo como si necesitas sanear tu puntas, reserva online este pack de corte con peinado en tan solo tres clics de la manera más rápida y cómoda. El servicio incluye el corte de pelo y el peinado en pelo largo. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. Consultar en salón suplemento por medida extra larga."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre Y Afeitado Clásico A Navaja", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "¡Te ofrecemos el pack perfecto para que cuides tu imagen! Cambia de look con el corte personalizado de tendencia o sanea las puntas y disfruta de un afeitado clásico a navaja. Todos nuestros servicios incluyen diagnóstico de pelo, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. También incluye afeitado clásico a navaja. ¡Trabajamos con productos de acabado de American Crew, Redken!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre, Diseño De Barba Y Manicura", 
+            "duration": 5400, 
+            "price": "48,5 € ", 
+            "description": "Corte ,diseño y arreglo de barba acompañado del ritual de toallas calientes y aceites esenciales, y manicura masculina.Todos nuestros servicios incluyen diagnóstico de pelo, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken y productos de acabado de American Crew."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Diseño De Barba", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "Sea cual sea tu estilo y tus gustos, en Noguera te ofrecemos un asesoramiento personalizado para lograr un look perfecto y un diseño de barba de tendencia. Diseño y arreglo de barba acompañado del ritual de toallas calientes y aceites esenciales. Si no sabes que tipo y forma de barba es la que te puede quedar mejor dejate asesorar por nuestros expertos estilistas ¡Trabajamos con productos de American Crew y Depot!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage O Californianas Y Corte", 
+            "duration": 12600, 
+            "price": "122,5 € ", 
+            "description": "El precio incluye Mechas técnica balayage o californianas, tratamiento de color Shades Q para matizar y unificar el degradado y corte con asesoramiento personalizado con secado natural. Todos nuestros servicios incluyen el champú especifico Redken y el producto de Styling Redken. NO incluida la coloración base o corrección de cana si fuera necesaria. Consultar en salón suplemento por medida extra en mecha o matiz."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Balayage O Californianas Y Peinado", 
+            "duration": 10800, 
+            "price": "99,5 € ", 
+            "description": "El precio incluye Mechas técnica balayage, tratamiento de color Shades Q para matizar y unificar el degradado y peinado. Todos nuestros servicios incluyen el champú especifico Redken y el producto de Styling Redken. NO incluida la coloración base o corrección de cana si fuera necesaria. Consultar en salón suplemento por medida extra en mecha o matiz. El servicio incluye mechas balayage o californianas a elegir con asesoramiento y peinado con productos de acabado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Papel Aluminio Y Peinado", 
+            "duration": 9000, 
+            "price": "81 € ", 
+            "description": "Si estás pensando en aportar luz a tu cabello, tu mejor opción son las mechas de papel de plata. El servicio incluye mechas con papel aluminio y peinado. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. No incluido en el servicio el matiz en caso de ser necesario. Consultar en salón suplemento por medida extra larga."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar De Hidratación Heatcure", 
+            "duration": 5400, 
+            "price": "68 € ", 
+            "description": "Reserva online este ritual de moxaterapia capilar para curar y reparar el cabello. Aconsejado para cabellos que han sido tratados químicamente (decoloraciones, alisados...) y cabellos debilitados. Beneficios: oxigena el cuero cabelludo, aporta el brillo perdido y la hidratación necesaria y reestructura el cabello llevándolo a su estado natural. Incluye lavado, tratamiento, peinado y productos de mantenimiento. Consultar en salón suplemento por medida XXL."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Cocktail Intensivo Personalizado", 
+            "duration": 5400, 
+            "price": "36 € ", 
+            "description": "Consigue una melena mucho más brillante, rejuvenecida y llena de vida gracias a este tratamiento capilar que Noguera te ofrece. El servicio incluye un tratamiento profundo personalizado adaptado a las necesidades de cada cabello , aportando la cantidad necesaria de hidratación , proteínas, brillo, disciplina...y peinado . Consultar suplemento en salón de melena extra larga."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre Y Arreglo De Barba", 
+            "duration": 2700, 
+            "price": "33 € ", 
+            "description": "En Noguera Hair Art ofrecemos un asesoramiento personalizado para el y conseguir el look perfecto según tu estilo. El servicio incluye un Corte de hombre y estilismo de barba con ritual de toallas calientes y aceites esenciales. Reserva online este paquete completo de belleza para el hombre, por que a ellos también les gusta cuidarse, te encantará el resultado obtenido ¡Trabajamos con productos Redken, American Crew, y Depot de primera calidad!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado Clásico A Navaja", 
+            "duration": 1800, 
+            "price": "19,5 € ", 
+            "description": "El Afeitado Clásico a Navaja es un servicio para que ellos se cuiden como se merecen. Si deseas eliminar la barba de tu rostro, reserva online un ritual tradicional de afeitado, con toallas calientes y aceites esenciales. Ven a vernos a nuestro exclusivo salón y vivirás una experiencia única con el mejor trato. Te encantará el resultado ¡Trabajamos con productos de American Crew de primera calidad!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Pelo Corto", 
+            "duration": 2700, 
+            "price": "37 € ", 
+            "description": "Los estilistas de Noguera Hair Art Salon te ofrecen un asesoramiento 100% personalizado para conseguir un nuevo look adaptado a tu estilo y necesidades. Te encantará el resultado y desearás repetir. El servicio incluye el corte y secado en pelo Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina Cabello Largo", 
+            "duration": 12600, 
+            "price": "200 € ", 
+            "description": "¿Nunca has soñado con lucir una melena lisa, libre del frizz frente a la humedad, el agua sin usar la plancha o el secador? Noguera Hair Art te ofrece este Tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y brillante .Consultar en salón suplemento por medida extra larga. El servicio incluye lavado y peinado. Reserva online al mejor precio y en tan solo 3 clics. Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina Media Melena", 
+            "duration": 12600, 
+            "price": "160 € ", 
+            "description": "¿Deseas lucir un cabello liso, fuerte y con mucho cuerpo y brillo? En Noguera Hair Art te ofrecemos este tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y rejuvenecida. Consultar en salón suplemento por medida extra larga o cabello con mucha densidad. El servicio Incluye lavado y peinado. Olvídate de las planchas y disfruta de tener una melena preciosa cada día, al salir de la ducha, de la playa o en un lugar con humedad."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Es momento de cuidarse y mimarse de la mano de los mejores estilistas de la cuidad. En Noguera Hair Art Salón te ofrecemos un Estilismo de barba con ritual tradicional a base de aceites esenciales y toallas calientes. Puedes escoger entre un estilo hipster, británico, tradicional... pero en definitiva, te quitarás ese aspecto desaliñado. Te encantará el resultado ¡Trabajamos con productos de American Crew!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Raíz Redken, Hidratacion, Corte Y Secado", 
+            "duration": 7200, 
+            "price": "73,5 € ", 
+            "description": "Noguera Hair Art te ofrecemos el pack perfecto para cambiar de look y dejar tu cabello bonito, sano y brillante. El servicio incluye coloración de raíz con coloración sin amoniaco Chromatics de Redken, corte, hidratación con mascarilla especifica y secado. No incluida la coloración de medios y puntas, posibilidad de abonar la diferencia según la necesidad. Consultar en salón suplemento por medida extra larga."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Color Redken, Cortar Y Peinado Para Mujer", 
+            "duration": 7200, 
+            "price": "88,5 € ", 
+            "description": "Coloración permanente con Chromatics de Redken (coloración sin amoniaco rica en proteínas) corte con asesoramiento y peinado con productos de acabado. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. Si tienes una melena extralarga o un cabello con mucho volumen es posible que se cobre un suplemento en el salón. Reserva online en tan solo 3 clics."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Cortar Y Color Hombre", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "En Noguera te ofrecemos un asesoramiento totalmente personalizado para que consigas el look perfecto para ti. Nos adaptaremos a tus necesidades para que el resultado sea perfecto, siempre adecuado a tu estilo. El servicio incluye Coloración masculina Redken o American Crew , para corregir o camuflar las canas, corte de tendencia y peinado. Lucirás un aspecto más joven gracias a nuestros estilistas de Noguera Hair."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "19,5 € ", 
+            "description": "¿Tienes ganas de un cambio de look asesorado por nuestros estilistas de Noguera Hair Art Salon? ¿O simplemente necesitas sanear tu cabello? Reserva online tu corte de pelo, te encantará el resultado, siempre se adaptará a tu estilo.Todos nuestros servicios incluyen diagnóstico de pelo, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken y productos de acabado de American Crew."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Y Peinado Media Melena", 
+            "duration": 3600, 
+            "price": "39,5 € ", 
+            "description": "Tanto si quieres un cambio de look como si necesitas sanear tu cabello, reservar online este pack de corte con peinado en tan solo tres clics de la manera más rápida y cómoda. El servicio incluye el corte con asesoramiento y peinado en media melena. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte De Pelo Y Peinado Pelo Largo", 
+            "duration": 5400, 
+            "price": "41 € ", 
+            "description": "Tanto si quieres un cambio de estilo como si necesitas sanear tu puntas, reserva online este pack de corte con peinado en tan solo tres clics de la manera más rápida y cómoda. El servicio incluye el corte de pelo y el peinado en pelo largo. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. Consultar en salón suplemento por medida extra larga."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Corte Hombre Y Afeitado Clásico A Navaja", 
+            "duration": 5400, 
+            "price": "39 € ", 
+            "description": "¡Te ofrecemos el pack perfecto para que cuides tu imagen! Cambia de look con el corte personalizado de tendencia o sanea las puntas y disfruta de un afeitado clásico a navaja. Todos nuestros servicios incluyen diagnóstico de pelo, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. También incluye afeitado clásico a navaja. ¡Trabajamos con productos de acabado de American Crew, Redken!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina Cabello Largo", 
+            "duration": 12600, 
+            "price": "200 € ", 
+            "description": "¿Nunca has soñado con lucir una melena lisa, libre del frizz frente a la humedad, el agua sin usar la plancha o el secador? Noguera Hair Art te ofrece este Tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y brillante .Consultar en salón suplemento por medida extra larga. El servicio incluye lavado y peinado. Reserva online al mejor precio y en tan solo 3 clics. Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado De Keratina Media Melena", 
+            "duration": 12600, 
+            "price": "160 € ", 
+            "description": "¿Deseas lucir un cabello liso, fuerte y con mucho cuerpo y brillo? En Noguera Hair Art te ofrecemos este tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y rejuvenecida. Consultar en salón suplemento por medida extra larga o cabello con mucha densidad. El servicio Incluye lavado y peinado. Olvídate de las planchas y disfruta de tener una melena preciosa cada día, al salir de la ducha, de la playa o en un lugar con humedad."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "13,5 € ", 
+            "description": "Es momento de cuidarse y mimarse de la mano de los mejores estilistas de la cuidad. En Noguera Hair Art Salón te ofrecemos un Estilismo de barba con ritual tradicional a base de aceites esenciales y toallas calientes. Puedes escoger entre un estilo hipster, británico, tradicional... pero en definitiva, te quitarás ese aspecto desaliñado. Te encantará el resultado ¡Trabajamos con productos de American Crew!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Raíz Redken, Hidratacion, Corte Y Secado", 
+            "duration": 7200, 
+            "price": "73,5 € ", 
+            "description": "Noguera Hair Art te ofrecemos el pack perfecto para cambiar de look y dejar tu cabello bonito, sano y brillante. El servicio incluye coloración de raíz con coloración sin amoniaco Chromatics de Redken, corte, hidratación con mascarilla especifica y secado. No incluida la coloración de medios y puntas, posibilidad de abonar la diferencia según la necesidad. Consultar en salón suplemento por medida extra larga."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Color Redken, Cortar Y Peinado Para Mujer", 
+            "duration": 7200, 
+            "price": "88,5 € ", 
+            "description": "Coloración permanente con Chromatics de Redken (coloración sin amoniaco rica en proteínas) corte con asesoramiento y peinado con productos de acabado. Todos nuestros servicios incluyen diagnóstico del cabello, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken. Si tienes una melena extralarga o un cabello con mucho volumen es posible que se cobre un suplemento en el salón. Reserva online en tan solo 3 clics."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Cortar Y Color Hombre", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "En Noguera te ofrecemos un asesoramiento totalmente personalizado para que consigas el look perfecto para ti. Nos adaptaremos a tus necesidades para que el resultado sea perfecto, siempre adecuado a tu estilo. El servicio incluye Coloración masculina Redken o American Crew , para corregir o camuflar las canas, corte de tendencia y peinado. Lucirás un aspecto más joven gracias a nuestros estilistas de Noguera Hair."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "19,5 € ", 
+            "description": "¿Tienes ganas de un cambio de look asesorado por nuestros estilistas de Noguera Hair Art Salon? ¿O simplemente necesitas sanear tu cabello? Reserva online tu corte de pelo, te encantará el resultado, siempre se adaptará a tu estilo.Todos nuestros servicios incluyen diagnóstico de pelo, asesoramiento, masaje craneal, champú, acondicionador específico y producto de Styling Redken y productos de acabado de American Crew."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Alisado De Keratina Cabello Largo", 
+            "duration": 12600, 
+            "price": "200 € ", 
+            "description": "¿Nunca has soñado con lucir una melena lisa, libre del frizz frente a la humedad, el agua sin usar la plancha o el secador? Noguera Hair Art te ofrece este Tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y brillante .Consultar en salón suplemento por medida extra larga. El servicio incluye lavado y peinado. Reserva online al mejor precio y en tan solo 3 clics. Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Alisado De Keratina Cabello Largo", 
+            "duration": 12600, 
+            "price": "200 € ", 
+            "description": "¿Nunca has soñado con lucir una melena lisa, libre del frizz frente a la humedad, el agua sin usar la plancha o el secador? Noguera Hair Art te ofrece este Tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y brillante .Consultar en salón suplemento por medida extra larga. El servicio incluye lavado y peinado. Reserva online al mejor precio y en tan solo 3 clics. Te encantarán los resultados."
+        }, 
+        {
+            "service_category": "Bienestar", 
+            "service": "Alisado De Keratina Media Melena", 
+            "duration": 12600, 
+            "price": "160 € ", 
+            "description": "¿Deseas lucir un cabello liso, fuerte y con mucho cuerpo y brillo? En Noguera Hair Art te ofrecemos este tratamiento de queratina para olvidarte del encrespamiento durante 3/4 meses, luciendo una melena sana y rejuvenecida. Consultar en salón suplemento por medida extra larga o cabello con mucha densidad. El servicio Incluye lavado y peinado. Olvídate de las planchas y disfruta de tener una melena preciosa cada día, al salir de la ducha, de la playa o en un lugar con humedad."
+        }
+    ]
+}

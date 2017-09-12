@@ -1,0 +1,142 @@
+{
+    "adid": null, 
+    "name": "On Line", 
+    "name_of_contact": "On Line", 
+    "scrape_page": "https://www.bucmi.com/online", 
+    "business_website": "https://www.bucmi.com/online", 
+    "areas_covered": null, 
+    "description": "Peluquería y estética en L'Eixample de Barcelona, a la vanguardia de las últimas tendencias tanto en cortes, color, maquillaje, manicuras, pedicuras, uñas de gel. Profesionales cualificados y en continua formación, para ofrecerte los mejores servicios.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816361380866761.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816361465241807.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816361498366657.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816361554306307.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635816361645556303.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Barcelona", 
+    "zipcode": "08015", 
+    "formatted_address": "Barcelona, 08008, Barcelona, Barcelona, Barcelona, 08015", 
+    "country": "es", 
+    "office_number": "934243081", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.3793725000", 
+    "longitude": "2.1601650000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635966652784492547.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Brasileño", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Descubre la eficacia del alisado brasileño y deshazte de del encrespamiento. Este servicio de alisado brasileño incluye: lavado, tratamiento alisado brasileño y secado con fijado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Color Raíz , Corte Y Secado", 
+            "duration": 5400, 
+            "price": "53 € ", 
+            "description": "Mantén tu pelo como recién teñido con este servicio de color para raíz. Este servicio incluye color en raíz, lavado con champú neutro masaje craneal , corte y secado con marcado. No incluye productos de styling suplemento de 3,50€."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte, Tratamiento Capilar Células Madre Y Secado", 
+            "duration": 3600, 
+            "price": "46 € ", 
+            "description": "Consigue un pelo más sano y bonito con este pack de corte y tratamiento hidratante. INcluye corte de cabello más tratamiento de células madre, que contribuyen a rejuvenecer el cabello y producir un efecto más vaporoso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Descubre la eficacia del alisado brasileño y deshazte de del encrespamiento. Este servicio de alisado brasileño incluye: lavado, tratamiento alisado brasileño y secado con fijado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Keratina Basica", 
+            "duration": 10800, 
+            "price": "110 € ", 
+            "description": "tratamiento contra el encrespado i doma los rizos aporta peso al cabello i elasticidad!!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre", 
+            "duration": 1800, 
+            "price": "17 € ", 
+            "description": "Nuestros profesionales te ofrecen este corte de moda. Especialmente pensado para los chicos. Incluye: corte caballero, champú y secado. No incluye productos de styling (suplemento de 3.50€)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz , Corte Y Secado", 
+            "duration": 5400, 
+            "price": "53 € ", 
+            "description": "Mantén tu pelo como recién teñido con este servicio de color para raíz. Este servicio incluye color en raíz, lavado con champú neutro masaje craneal , corte y secado con marcado. No incluye productos de styling suplemento de 3,50€."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Secado", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Recupera el color en la zona de la raíz. Este servicio incluye color en raíz, lavado con champú neutro masaje craneal y secado con marcado. No incluye productos de styling (suplemento a parte 3.50€)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Hombre Y Arreglo De Barba", 
+            "duration": 1800, 
+            "price": "24 € ", 
+            "description": "Los chicos también conseguiréis un look perfecto en nuestro centro con este pack de corte de caballero en el que está incluido el arreglo de barba. No incluye productos de styling (suplemento de 3,50€)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Tratamiento Capilar Células Madre Y Secado", 
+            "duration": 3600, 
+            "price": "46 € ", 
+            "description": "Consigue un pelo más sano y bonito con este pack de corte y tratamiento hidratante. INcluye corte de cabello más tratamiento de células madre, que contribuyen a rejuvenecer el cabello y producir un efecto más vaporoso."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Básicas, Corte Y Secado", 
+            "duration": 9000, 
+            "price": "65 € ", 
+            "description": "Mechas básicas del tono que más te favorece, lavado con masaje craneal, corte y secado con marcado. No incluye productos de styling (suplemento de 3.5€)."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Botox Capilar Con Secado Marcado", 
+            "duration": 2700, 
+            "price": "42 € ", 
+            "description": "Rejuvenece tu cabello desde el interior con este tratamiento de botox capilar. Incluye: lavado y tratamiento de botox. Recuperarás la vitalidad del cabello, consiguiendo más cuerpo, un pelo más flexible y mas brillo."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Brasileño", 
+            "duration": 9000, 
+            "price": "200 € ", 
+            "description": "Descubre la eficacia del alisado brasileño y deshazte de del encrespamiento. Este servicio de alisado brasileño incluye: lavado, tratamiento alisado brasileño y secado con fijado."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Keratina Basica", 
+            "duration": 10800, 
+            "price": "110 € ", 
+            "description": "tratamiento contra el encrespado i doma los rizos aporta peso al cabello i elasticidad!!"
+        }
+    ]
+}

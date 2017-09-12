@@ -1,0 +1,92 @@
+{
+    "adid": null, 
+    "name": "YO Salud Estética", 
+    "name_of_contact": "YO Salud Estética", 
+    "scrape_page": "https://www.bucmi.com/yo-salud-estetica", 
+    "business_website": "https://www.bucmi.com/yo-salud-estetica", 
+    "areas_covered": null, 
+    "description": "El centro de estética YO Salud situado en Gros, San Sebastián ofrece un espacio reservado al cuidado de las personas. Ofrecemos Salud y Bienestar. Cada detalle es cuidado por nuestro equipo de profesionales. Respira profundamente y relájate.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636129313282279212.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636129313342278570.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636129313373215652.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636129313458526839.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Bermingham, 8", 
+    "city": "Donostia-San Sebastián", 
+    "zipcode": "20002", 
+    "formatted_address": "C/ Bermingham, 8, Donostia-San Sebastián, 20002", 
+    "country": "es", 
+    "office_number": "943290889", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "43.3248101999", 
+    "longitude": "-1.9730948999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636131014002647902.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Oxigenación Facial + 4 Ses. Solárium", 
+            "duration": 5400, 
+            "price": "97 € ", 
+            "description": "Indicado para el equilibrio y oxigenación de todo tipo de pieles y edades. Aporta luminosidad y resplandor a tu rostro. Ven a nuestro centro y disfruta de este agradable tratamiento con el que podrás lucir un cutis radiante. 4 sesiones de Solárium de Alta Presión, ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Oxigenación Facial + 4 Ses. Solárium", 
+            "duration": 5400, 
+            "price": "97 € ", 
+            "description": "Indicado para el equilibrio y oxigenación de todo tipo de pieles y edades. Aporta luminosidad y resplandor a tu rostro. Ven a nuestro centro y disfruta de este agradable tratamiento con el que podrás lucir un cutis radiante. 4 sesiones de Solárium de Alta Presión, ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "4 Sesiones Rayos Uva Alta Presión", 
+            "duration": 900, 
+            "price": "32 € ", 
+            "description": "Si quieres lucir un bronceado envidiable, prueba nuestro bono de 4 sesiones de rayos uva de alta presión, logrando unos resultados aún más visibles y duraderos. Ven a YO Salud Estética y consigue el tono de piel que deseas de la manera más fácil, rápida y cómoda. ¡Notarás los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 1800, 
+            "price": "32 € ", 
+            "description": "¿Quieres lucir una mirada increíble sin necesidad de utilizar máscara de pestañas? ¡Este es tu servicio ideal! Ven a conocernos y disfruta de tinte y permanente en tus pestañas, logrando efectos como si llevases máscara de pestañas las 24 horas. Mirada más intensa y con la curvatura de pestaña perfecta ¡para que tu mirada sea el centro de todas las miradas!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas (1H Y 15Min)", 
+            "duration": 3600, 
+            "price": "32 € ", 
+            "description": "Luce una mirada de cine de la mano de los mejores profesionales gracias a este tinte y permanente de pestañas. Conseguirás intensificar tu mirada en poco más de una hora. Te olvidarás de la máscara y el rizador de pestañas. No esperes más y reserva ahora online a través de Bucmi.com."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Oxigenación Facial + 4 Ses. Solárium", 
+            "duration": 5400, 
+            "price": "97 € ", 
+            "description": "Indicado para el equilibrio y oxigenación de todo tipo de pieles y edades. Aporta luminosidad y resplandor a tu rostro. Ven a nuestro centro y disfruta de este agradable tratamiento con el que podrás lucir un cutis radiante. 4 sesiones de Solárium de Alta Presión, ¡Te encantará!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "4 Sesiones Rayos Uva Alta Presión", 
+            "duration": 900, 
+            "price": "32 € ", 
+            "description": "Si quieres lucir un bronceado envidiable, prueba nuestro bono de 4 sesiones de rayos uva de alta presión, logrando unos resultados aún más visibles y duraderos. Ven a YO Salud Estética y consigue el tono de piel que deseas de la manera más fácil, rápida y cómoda. ¡Notarás los resultados!"
+        }
+    ]
+}

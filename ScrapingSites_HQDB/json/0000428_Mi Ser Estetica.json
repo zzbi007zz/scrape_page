@@ -1,0 +1,143 @@
+{
+    "adid": null, 
+    "name": "Mi Ser Estética", 
+    "name_of_contact": "Mi Ser Estética", 
+    "scrape_page": "https://www.bucmi.com/miserestetica", 
+    "business_website": "https://www.bucmi.com/miserestetica", 
+    "areas_covered": null, 
+    "description": "Mi Ser Estética es un centro de belleza ubicado en la zona de Ciudad Lineal, en Madrid. Disponemos de un amplio catálogo de tratamientos realizados siempre con la última tecnología. ¡Ven a conocernos, te ofrecemos un entorno cordial y confortable!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981324243662510.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981324244602468.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981324245812516.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981324246602547.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981324248882140.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981324247812130.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "10,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Longares, 46", 
+    "city": "Madrid", 
+    "zipcode": "28027", 
+    "formatted_address": "C/ Longares, 46, Madrid, 28027", 
+    "country": "es", 
+    "office_number": "913265774", 
+    "office_number2": null, 
+    "mobile_number": "618103316", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4416039000", 
+    "longitude": "-3.6556737999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635981389451639150.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 5400, 
+            "price": "33 € ", 
+            "description": "Empezamos limando las uñas tanto en manos como en pies, se retiran las cutículas,se tratan las durezas, seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Terapeutico", 
+            "duration": 3600, 
+            "price": "36 € ", 
+            "description": "Masaje indicado para dolores de espalda, cervicales, de tensión muscular etc. Es un masaje descontracturante que se adapta a la situación del cliente, para conseguir aliviar cualquier tipo de dolencia."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Bono de seis sesiones de rediofrecuencia facial de una hora de duración cada sesión. La sesión suelta tiene un precio de 35 euros por lo que cogiendo el bono, la sesión tiene un precio de 30 euros. Tratamiento ideal para reducir la flacidez."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Tratamiento Facial Células Madre", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Bono de 4 sesiones. Es un tratamiento facial super completo, realizamos cuidado y limpieza de la piel y además agregamos tus propias células madres revitalizadas para rejuveneces y aportar más vitalidad a tu rostro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Disfruta de este masaje manual especializado para mejorar la circulación y la retención de líquidos de tu cuerpo. Con este tratamiento conseguimos ayudar a tu cuerpo a eliminar la temida piel de naranja."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Básica", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "¿A qué esperas para reservar nuestra higiene facial básica? Este tratamiento incluye: desmaquillado de la piel, peeling suave, mascarilla y masaje final. ¡Prepara tu piel para el verano con esta estupenda higiene! No incluye extracción."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Bono de seis sesiones de rediofrecuencia facial de una hora de duración cada sesión. La sesión suelta tiene un precio de 35 euros por lo que cogiendo el bono, la sesión tiene un precio de 30 euros. Tratamiento ideal para reducir la flacidez."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Bono de seis sesiones de rediofrecuencia facial de una hora de duración cada sesión. La sesión suelta tiene un precio de 35 euros por lo que cogiendo el bono, la sesión tiene un precio de 30 euros. Tratamiento ideal para reducir la flacidez."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Tratamiento Facial Células Madre", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Bono de 4 sesiones. Es un tratamiento facial super completo, realizamos cuidado y limpieza de la piel y además agregamos tus propias células madres revitalizadas para rejuveneces y aportar más vitalidad a tu rostro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "6 Sesiones Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "180 € ", 
+            "description": "Bono de seis sesiones de rediofrecuencia facial de una hora de duración cada sesión. La sesión suelta tiene un precio de 35 euros por lo que cogiendo el bono, la sesión tiene un precio de 30 euros. Tratamiento ideal para reducir la flacidez."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Tratamiento Facial Células Madre", 
+            "duration": 3600, 
+            "price": "240 € ", 
+            "description": "Bono de 4 sesiones. Es un tratamiento facial super completo, realizamos cuidado y limpieza de la piel y además agregamos tus propias células madres revitalizadas para rejuveneces y aportar más vitalidad a tu rostro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Drenaje Linfático Manual", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Disfruta de este masaje manual especializado para mejorar la circulación y la retención de líquidos de tu cuerpo. Con este tratamiento conseguimos ayudar a tu cuerpo a eliminar la temida piel de naranja."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Básica", 
+            "duration": 2700, 
+            "price": "24 € ", 
+            "description": "¿A qué esperas para reservar nuestra higiene facial básica? Este tratamiento incluye: desmaquillado de la piel, peeling suave, mascarilla y masaje final. ¡Prepara tu piel para el verano con esta estupenda higiene! No incluye extracción."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Manicura Y Pedicura", 
+            "duration": 5400, 
+            "price": "33 € ", 
+            "description": "Empezamos limando las uñas tanto en manos como en pies, se retiran las cutículas,se tratan las durezas, seguimos con un masaje para conseguir un mayor efecto de manos suaves y nutridas y finalizamos con el esmaltado del color que prefieras."
+        }
+    ]
+}

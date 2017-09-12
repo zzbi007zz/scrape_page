@@ -1,0 +1,144 @@
+{
+    "adid": null, 
+    "name": "Georges", 
+    "name_of_contact": "Georges", 
+    "scrape_page": "https://www.bucmi.com/georges", 
+    "business_website": "https://www.bucmi.com/georges", 
+    "areas_covered": null, 
+    "description": "Georges es un salón de belleza ubicado en la zona de Puente de Vallecas, en Madrid. Contamos con servicios de peluquería y estética realizados por profesionales de gran experiencia en el sector. Además, te aconsejaremos en todo lo que necesites.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023721636349616.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023721641037486.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023721639943738.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023721637599716.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023721641818798.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023721643537689.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/636023721645274403.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "8,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28053", 
+    "formatted_address": "Madrid, 28036, Madrid, DistritoSanBlás, Madrid, 28032, Madrid, 28035, Madrid, Madrid, Madrid, 28053", 
+    "country": "es", 
+    "office_number": "910712596", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3822105000", 
+    "longitude": "-3.6718906999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/636023722232630314.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas, Corte, Hidratación Y Peinado Medio", 
+            "duration": 7200, 
+            "price": "57 € ", 
+            "description": "¡Reserva nuestro completo pack! Podrás realizar unas mechas. Además, te realizaremos el corte y el peinado que desees. También incluye un tratamiento de hidratación de keratina con aceite de argán y otro bioregenerador para pelo dañado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Alisado Brasileño Corto Y Media Melena", 
+            "duration": 10800, 
+            "price": "95 € ", 
+            "description": "¿Te gustaría decir adiós al cabello encrespado? ¡Reserva nuestro alisado brasileño! Podrás conseguir un cabello totalmente hidratado y liso con este servicio de alisado sin ningún tipo de formol."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte, Hidratación Y Peinado Medio", 
+            "duration": 5400, 
+            "price": "27 € ", 
+            "description": "¿Quieres cambiar de look? ¡Reserva nuestro servicio de corte y peinado para tu media melena! Disponemos de profesionales en peluquería que te ayudarán a conseguir el estilo que quieras lucir en tu pelo. Incluye el lavado con hidratación y el peinado final. En caso de tener un largo superior se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento De Keratina Corto Y Media Melena", 
+            "duration": 10800, 
+            "price": "100 € ", 
+            "description": "Elimina el encrespado de tu cabello con este tratamiento de keratina sin formol de profunda hidratación. Reserva este servicio y podrás disfrutar de un pelo sedoso y brillante. ¡No lo dudes más!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte, Hidratación Y Peinado Medio", 
+            "duration": 7200, 
+            "price": "57 € ", 
+            "description": "¡Reserva nuestro completo pack! Podrás realizar unas mechas. Además, te realizaremos el corte y el peinado que desees. También incluye un tratamiento de hidratación de keratina con aceite de argán y otro bioregenerador para pelo dañado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte, Hidratación Y Peinar Largo", 
+            "duration": 9000, 
+            "price": "65 € ", 
+            "description": "Incluye mechas normales o bicoloración con baño de oro fluído. Corte, lavado y peinado. Además, incluye tratamiento de hidratación y bioregenerador para pelo dañado. Para cabello extralargo consulte con profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas, Corte, Hidratación Y Peinado Corto", 
+            "duration": 7200, 
+            "price": "47 € ", 
+            "description": "Incluye lavado, mechas normales o bicoloración con baño de oro fluído. Además, incluye tratamiento de hidratación de keratina con aceite de argán y otro bioregenerador para pelo dañado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Corto Y Media Melena", 
+            "duration": 10800, 
+            "price": "95 € ", 
+            "description": "¿Te gustaría decir adiós al cabello encrespado? ¡Reserva nuestro alisado brasileño! Podrás conseguir un cabello totalmente hidratado y liso con este servicio de alisado sin ningún tipo de formol."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Brasileño Largo", 
+            "duration": 12600, 
+            "price": "120 € ", 
+            "description": "¿Quieres tener el pelo liso? ¡Reserva nuestro servicio de alisado brasileño! Gracias a este tratamiento conseguimos dejar el cabello liso y sin encrespamiento. ¡Podrás disfrutar del pelo que siempre has querido sin utilizar herramientas de calor!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Hidratación Y Peinado Corto", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "¿Necesitas un corte de pelo con estilo? ¡Reserva este servicio que incluye el corte asesorado, lavado con hidratación y peinado con productos de acabado. Este servicio es exclusivo para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Hidratación Y Peinado Largo", 
+            "duration": 5400, 
+            "price": "29 € ", 
+            "description": "¡Peina y corta tu pelo reservando este servicio! Te aconsejaremos en todo lo que necesites para que salgas con el corte que siempre has querido. También incluye el peinado y el lavado con hidratación. Para cabellos extralargo consulte suplemento con profesional."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte, Hidratación Y Peinado Medio", 
+            "duration": 5400, 
+            "price": "27 € ", 
+            "description": "¿Quieres cambiar de look? ¡Reserva nuestro servicio de corte y peinado para tu media melena! Disponemos de profesionales en peluquería que te ayudarán a conseguir el estilo que quieras lucir en tu pelo. Incluye el lavado con hidratación y el peinado final. En caso de tener un largo superior se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Keratina Corto Y Media Melena", 
+            "duration": 10800, 
+            "price": "100 € ", 
+            "description": "Elimina el encrespado de tu cabello con este tratamiento de keratina sin formol de profunda hidratación. Reserva este servicio y podrás disfrutar de un pelo sedoso y brillante. ¡No lo dudes más!"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento De Keratina Largo", 
+            "duration": 12600, 
+            "price": "120 € ", 
+            "description": "Elimina el encrespado de tu cabello con este tratamiento de keratina sin formol de profunda hidratación. Consigue un pelo sedoso y brillante. Para cabellos extralargos consulte suplemento con profesional."
+        }
+    ]
+}

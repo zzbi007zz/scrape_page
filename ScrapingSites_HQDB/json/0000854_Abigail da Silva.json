@@ -1,0 +1,300 @@
+{
+    "adid": null, 
+    "name": "Abigail da Silva", 
+    "name_of_contact": "Abigail da Silva", 
+    "scrape_page": "https://www.bucmi.com/abigailds", 
+    "business_website": "https://www.bucmi.com/abigailds", 
+    "areas_covered": null, 
+    "description": "En el Centro Abigail da Silva, situado en el barrio de Hortaleza, disponemos de diversos tratamientos estéticos para tu belleza, además de contar con el mejor equipo de estilistas para hacer que tu paso por nuestro centro sea lo más agradable posible.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597240811317.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597261124012.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597302278824.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597318685042.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597338684982.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597356809936.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597373372357.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597393528568.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941597410872774.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "14", 
+    "hqdb_review_score": "9,4", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Zipaquira, 79", 
+    "city": "Madrid", 
+    "zipcode": "28033", 
+    "formatted_address": "C/ Zipaquira, 79, Madrid, 28033", 
+    "country": "es", 
+    "office_number": "913820872", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4733085000", 
+    "longitude": "-3.6354166999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635962544351044373.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 5400, 
+            "price": "22,5 € ", 
+            "description": "Es la manicura más duradera. El servicio incluye el retirado de cutícula, peeling, pulimos las uñas y comenzaremos a realizar la técnica del esmaltado semipermanente, crema final y aceite de mango para una mayor hidratación. No se agrieta y se mantiene perfecta durante mínimo tres semanas. ¿Quieres lucir unas manos envidiables durante semanas? Ponte en las mejores manos y reserva ya este servicio cómodamente online. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Y Pedicura Normal", 
+            "duration": 7200, 
+            "price": "35 € ", 
+            "description": "¡Reserva ya este servicio de manicura y pedicura normal por un precio increíble! El servicio incluye el limado de la uña para conseguir la forma deseada, la retirada de cutículas y el esmaltado a elegir entre nuestra variedad de colores. ¡Luce unas manos y pies envidiables, siempre en manos de nuestros mejores profesionales! ¿A qué estás esperando? ¡No dejes que te lo cuenten! Unas uñas perfectas, a un precio increíble."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante 90M", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Elimina tus tensiones después de un duro día de trabajo y consigue alcanzar un estado de relajación profunda, de manos de nuestro mejores profesionales. En nuestro centro nos preocupamos por tu salud y bienestar. ¡Saldrás como nuevo! Disfruta de 90 minutos sumergido en un universo de relajación y bienestar y no te arrepentirás. ¡Reserva ya tu cita cómodamente online y te encantará el resultado! Te hacemos el día a día más fácil. ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Pedicura Con Parafina", 
+            "duration": 5400, 
+            "price": "32,9 € ", 
+            "description": "Empezamos con el remojo de los pies para ablandar callosidades , durezas y cutículas, cortaremos , limaremos, retiramos cutícula y durezas, peeling y masaje , baño de parafina para hidratar y reparar daños causados en el pie y, por último, esmaltaremos con el color que gusten. Podrás escoger el tono que más vaya contigo, con tu estilo y personalidad. ¡No esperes sólo a llevar sandalias para lucir unos pies perfectos!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto. Facial Estrella Hidratación Profunda", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "La duración exacta del servicio es de 1 hora y 45 minutos. Disfruta de este tratamiento facial que consiste en una hidratación profunda de la piel. Utilizamos productos de primera calidad, de la línea SKEYNDOR. Lucirás así un rostro envidiable y con muchos nutrientes. ¿A qué estás esperando para reservar? Con toda comodidad, con un solo clic. ¡Notarás los resultados y querrás repetir!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peeling Corporal Y Masaje", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Exfoliación corporal con cítricos, para conseguir eliminar impurezas y las células muertas de tu piel. Sentirás tu piel mucho más lisa y suave. Indicado para cualquier temporada del año. Además, para finalizar, realizamos un masaje con aceites esenciales. ¡No lo dudes y reserva ya este servicio cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "40 € ", 
+            "description": "Disfruta de este magnífico bono de 10 sesiones de rayos uva. Luce un bronceado perfecto con este bono. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 12 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "Disfruta de este magnífico bono de 12 sesiones de rayos uva. Luce un bronceado perfecto con este bono. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 3 Sesiones Peeling Corporal", 
+            "duration": 3600, 
+            "price": "135 € ", 
+            "description": "Bono 3 sesiones. ¿Quieres lucir una piel suave e hidratada? Reserva ya este tratamiento de peeling corporal, siempre en manos de nuestros profesionales que utilizarán productos de primeras marcas. En Abigail Da Silva nos preocupamos por tu belleza. ¿A qué estás esperando? Que no te lo cuenten, reserva en Bucmi y te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Drenaje Linfático Facial", 
+            "duration": 5400, 
+            "price": "26,3 € ", 
+            "description": "Es una técnica de terapia manual, se realizan suaves y lentos movimientos dérmicos para la eliminación de toxinas de forma natural. El rosto mejora su aspecto, la piel se ve mejorada, tersa y jovial. ¡No lo dudes y reserva ya este servicio cómodamente online! Confía en nuestro equipo de profesionales y te encantarán los resultados. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Extensión De Pestañas", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Disfruta de unas pestañas como recién maquilladas y con el volumen que siempre quisiste. Este servicio consiste en aplicación de pestañas pelo a pelo, para que el resultado quede muy natural. Confía en nuestro equipo de profesionales y conseguirás la mirada que siempre has deseada. Disfruta de un trato exclusivo y personalizado ¡Todo un lujo! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial Completa", 
+            "duration": 5400, 
+            "price": "41,5 € ", 
+            "description": "Primero desmaquillaremos rosto, cuello y escote, limpiaremos el profundidad con gel exfoliante, tonificamos la piel, aplicaremos vapor para abrir los poros a continuación realizaremos la extracción, continuaremos con un peeling y pasaremos alta frecuencia para cauterizar los poros. ¿Quieres lucir un cutis perfecto? Entonces este es tu servicio. Utilizamos productos de primera calidad. ¡No esperes más y reserva ya cómodamente a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Limpieza Facial Y Tratamiento Específico", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Un auténtico pack exclusivo para tu rostro. El servicio incluye una limpieza facial (desmaquillante, exfoliación, extracción...) y un un tratamiento con Vitamina C o Ampollas de Colágeno que ayuda a fortalecer la piel, le aporta hidratación, tersura y firmeza. Utilizamos productos de primera calidad, siempre en manos de nuestro equipo de profesionales. ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Micropigmentación De Cejas/Labio/Ojos", 
+            "duration": 7200, 
+            "price": "400 € ", 
+            "description": "Tratamiento de micropigmentación de cejas, podrás repoblar las cejas y tener el diseño que siempre quisiste de una forma permanente. También puedes elegir la micropigmentación en labio o el ojo. En nuestro centro contamos con lo último en aparatología. ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten! Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Permanente Y Tinte De Pestañas", 
+            "duration": 7200, 
+            "price": "29,9 € ", 
+            "description": "El tratamiento de permanente y tinte de pestañas consta en: aplicación del bigudi y el gel de permanente, retiramos y aplicamos gel neutralizante. Después daremos el tinte que mejor convenga a tus pestañas y estarás lista para lucir una mirada mas joven e impactante. Presume de una mirada profunda y penetrante como una verdadera estrella de Hollywood. Tus pestañas serán el centro de todas las miradas. ¡No esperes más y reserva ya tu cita cómodamente online!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Maquillaje", 
+            "duration": 3600, 
+            "price": "50 € ", 
+            "description": "Consigue un maquillado perfecto gracias a nuestros expertos maquilladores, que estudiaran tu rostro y darán con el maquillaje que más se adecue a tu rostro o tus facciones. Siempre con un resultado duradero y natural. ¡Si tienes algún evento u ocasión especial, este es tu servicio! Utilizamos productos de primera calidad. ¡Reserva ya tu cita cómodamente online! Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Sesión De Rayos Uva", 
+            "duration": 900, 
+            "price": "4,5 € ", 
+            "description": "Disfruta una sesión suelta de rayos uva. Luce un bronceado perfecto. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte De Pestañas", 
+            "duration": 900, 
+            "price": "7,5 € ", 
+            "description": "Déjate asesorar por nuestro profesionales y consigue el tinte perfecto para lograr una mirada ideal y profunda que buscas. ¡Conseguirás una pestañas con profundidad sin necesidad de utilizar la máscara! En resumen, luce una mirada de infarto día a día, siempre en manos de nuestro cualificado equipo de profesionales. ¿A qué estás esperando? Reserva ya en Bucmi y te encantará."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiacné", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "El acné es una enfermedad cutánea que afecta al 75% de la población adolescente. Con este tratamiento conseguirás una eliminación progresiva del acné, el 90% de los casos de acné se solucionan. Ponte en en manos de nuestro profesionales y te asesorarán debidamente para eliminar esas pequeñas imperfecciones en tu piel. Utilizamos productos de primera calidad. ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Facial Estrella Hidratación Profunda", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "La duración exacta del servicio es de 1 hora y 45 minutos. Disfruta de este tratamiento facial que consiste en una hidratación profunda de la piel. Utilizamos productos de primera calidad, de la línea SKEYNDOR. Lucirás así un rostro envidiable y con muchos nutrientes. ¿A qué estás esperando para reservar? Con toda comodidad, con un solo clic. ¡Notarás los resultados y querrás repetir!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Facial Vitamina C Línea Skeyndor", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Este tratamiento sirve para conseguir una hidratación máxima en la piel. Además, conseguirás los nutrientes y la luminosidad que estás buscando para tu cutis. Utilizamos la línea SKEYNDOR, con productos de primera calidad. ¿A qué estás esperando? Ponte en las mejores manos y confía en nuestro equipo de profesionales. ¡Reserva ya tu cita cómodamente online y estarás encantada con los resultados!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto. Facial Y Mesoterapia Línea Skeyndor", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "La duración exacta del servicio es de 1 hora y 45 minutos. Disfruta de este tratamiento facial que consiste en un relleno de arrugas, hidratación y reafirmación de la piel. Utilizamos productos de primera calidad, de la línea SKEYNDOR. Lucirás así un rostro envidiable, con la luz que estabas buscando. ¿A qué estás esperando para reservar? Con toda comodidad, con un solo clic. ¡Notarás los resultados y querrás repetir!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Peeling Corporal Y Masaje", 
+            "duration": 5400, 
+            "price": "45 € ", 
+            "description": "Exfoliación corporal con cítricos, para conseguir eliminar impurezas y las células muertas de tu piel. Sentirás tu piel mucho más lisa y suave. Indicado para cualquier temporada del año. Además, para finalizar, realizamos un masaje con aceites esenciales. ¡No lo dudes y reserva ya este servicio cómodamente online! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 10 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "40 € ", 
+            "description": "Disfruta de este magnífico bono de 10 sesiones de rayos uva. Luce un bronceado perfecto con este bono. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 12 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "Disfruta de este magnífico bono de 12 sesiones de rayos uva. Luce un bronceado perfecto con este bono. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Bono 3 Sesiones Peeling Corporal", 
+            "duration": 3600, 
+            "price": "135 € ", 
+            "description": "Bono 3 sesiones. ¿Quieres lucir una piel suave e hidratada? Reserva ya este tratamiento de peeling corporal, siempre en manos de nuestros profesionales que utilizarán productos de primeras marcas. En Abigail Da Silva nos preocupamos por tu belleza. ¿A qué estás esperando? Que no te lo cuenten, reserva en Bucmi y te encantará."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Drenaje Linfático Facial", 
+            "duration": 5400, 
+            "price": "26,3 € ", 
+            "description": "Es una técnica de terapia manual, se realizan suaves y lentos movimientos dérmicos para la eliminación de toxinas de forma natural. El rosto mejora su aspecto, la piel se ve mejorada, tersa y jovial. ¡No lo dudes y reserva ya este servicio cómodamente online! Confía en nuestro equipo de profesionales y te encantarán los resultados. Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Extensión De Pestañas", 
+            "duration": 7200, 
+            "price": "60 € ", 
+            "description": "Disfruta de unas pestañas como recién maquilladas y con el volumen que siempre quisiste. Este servicio consiste en aplicación de pestañas pelo a pelo, para que el resultado quede muy natural. Confía en nuestro equipo de profesionales y conseguirás la mirada que siempre has deseada. Disfruta de un trato exclusivo y personalizado ¡Todo un lujo! ¿A qué estás esperando? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Facial Completa", 
+            "duration": 5400, 
+            "price": "41,5 € ", 
+            "description": "Primero desmaquillaremos rosto, cuello y escote, limpiaremos el profundidad con gel exfoliante, tonificamos la piel, aplicaremos vapor para abrir los poros a continuación realizaremos la extracción, continuaremos con un peeling y pasaremos alta frecuencia para cauterizar los poros. ¿Quieres lucir un cutis perfecto? Entonces este es tu servicio. Utilizamos productos de primera calidad. ¡No esperes más y reserva ya cómodamente a través de Bucmi!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Limpieza Facial Y Tratamiento Específico", 
+            "duration": 5400, 
+            "price": "60 € ", 
+            "description": "Un auténtico pack exclusivo para tu rostro. El servicio incluye una limpieza facial (desmaquillante, exfoliación, extracción...) y un un tratamiento con Vitamina C o Ampollas de Colágeno que ayuda a fortalecer la piel, le aporta hidratación, tersura y firmeza. Utilizamos productos de primera calidad, siempre en manos de nuestro equipo de profesionales. ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Micropigmentación De Cejas/Labio/Ojos", 
+            "duration": 7200, 
+            "price": "400 € ", 
+            "description": "Tratamiento de micropigmentación de cejas, podrás repoblar las cejas y tener el diseño que siempre quisiste de una forma permanente. También puedes elegir la micropigmentación en labio o el ojo. En nuestro centro contamos con lo último en aparatología. ¿A qué estás esperando para reservar? ¡No dejes que te lo cuenten! Para más información, consulta con el centro."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 10 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "40 € ", 
+            "description": "Disfruta de este magnífico bono de 10 sesiones de rayos uva. Luce un bronceado perfecto con este bono. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono 12 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "Disfruta de este magnífico bono de 12 sesiones de rayos uva. Luce un bronceado perfecto con este bono. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "40 € ", 
+            "description": "Disfruta de este magnífico bono de 10 sesiones de rayos uva. Luce un bronceado perfecto con este bono. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 12 Sesiones Rayos Uva", 
+            "duration": 900, 
+            "price": "45 € ", 
+            "description": "Disfruta de este magnífico bono de 12 sesiones de rayos uva. Luce un bronceado perfecto con este bono. La máquina es vertical. La duración es de 16 minutos cada sesión. Presume de así una piel bronceada y perfecta para cualquier temporada del año. En nuestro centro contamos con la mejor aparatología para que el resultado sea perfecto. ¿A qué estás esperando para reservar cómodamente online? ¡No dejes que te lo cuenten!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 3 Sesiones Peeling Corporal", 
+            "duration": 3600, 
+            "price": "135 € ", 
+            "description": "Bono 3 sesiones. ¿Quieres lucir una piel suave e hidratada? Reserva ya este tratamiento de peeling corporal, siempre en manos de nuestros profesionales que utilizarán productos de primeras marcas. En Abigail Da Silva nos preocupamos por tu belleza. ¿A qué estás esperando? Que no te lo cuenten, reserva en Bucmi y te encantará."
+        }
+    ]
+}

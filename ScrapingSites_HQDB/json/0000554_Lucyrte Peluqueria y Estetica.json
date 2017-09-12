@@ -1,0 +1,392 @@
+{
+    "adid": null, 
+    "name": "Lucyrte Peluquería y Estética", 
+    "name_of_contact": "Lucyrte Peluquería y Estética", 
+    "scrape_page": "https://www.bucmi.com/lucyrte", 
+    "business_website": "https://www.bucmi.com/lucyrte", 
+    "areas_covered": null, 
+    "description": "Lucyrte es un salón de peluquería y estética en la zona de Hortaleza, Madrid. Somos especialistas en todo tipo de tratamientos y alisados de keratina. Trabajamos estos servicios con productos de gran calidad que cuidan tu pelo a la vez que lo embellecen.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941594475443302.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635941594518753304.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981560349910289.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981560361019991.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981560375619602.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981560391629303.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981560406838318.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981560423078272.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981560434127532.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635981560448126708.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "4", 
+    "hqdb_review_score": "7,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Encomienda, 9", 
+    "city": "Madrid", 
+    "zipcode": "28033", 
+    "formatted_address": "C/ Encomienda, 9, Madrid, 28033", 
+    "country": "es", 
+    "office_number": "910338044", 
+    "office_number2": null, 
+    "mobile_number": "637405068", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4757700000", 
+    "longitude": "-3.6668999999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635942375551231813.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Limpieza De Cutis E Hidratación", 
+            "duration": 3600, 
+            "price": "35 € ", 
+            "description": "Limpieza de cutis completa consistente en cuatro pasos: Limpieza de rostro con loción limpiadora profesional, peeling exfoliante, mascarilla facial y finalización con crema hidratante. Tratamiento en cabina individual. Duración aproximada 60 minutos."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tto Hidratación Capilar Kerafibra", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Tratamiento en profundidad revitalizante del cabello, recupera la elasticidad, hidrata y da volumen. Se nota el resultado de manera inmediata."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Manicura Permanente", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Luce unas uñas perfectas durante más tiempo. La manicura más duradera, no se agrieta y se mantiene perfecta durante 3 semanas. Olvídate de los esmaltes que pierden el brillo y se cuartean."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿Cansado de llevar siempre el mismo corte de pelo? Disfruta de un corte actual y con estilo y déjate asesorar por nuestros estilistas. El servicio incluye lavado, corte asesorado y productos de acabado de tocador."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Con Keratina Líquida", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Peinado con keratina líquida, para hidrtar de forma profunda durante el lavado tu melena y luzca sedosa y suave. Si tienes el pelo largo o con mucho volumen deberás consultar posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Permanente Y Moldeado De Pestañas", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Tinte permanente y moldeado de pestañas para adecuarlas al color de tu cabello."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Capilar Keratina Semanal", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Tratamiento Keratina semanal: Hidrata, suaviza, fortalece la melena. Se recomienda un tratamiento semanal. Si tu melena es larga o con mucho volumen consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Lavado Con Tratamiento Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¿Tienes el pelo seco y sin brillo? Ponemos a tu disposición un tratamiento capilar específico hidratante con el lavado para devolver el brillo y la suavidad natural a tu pelo y para finalizar un peinado asesorado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Portier: Nutre Hidrata Y Alisa", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "¡Reserva nuestro tratamiento capilar Portier! Gracias a este servicio conseguimos nutrir, hidratar y alisar el cabello, aportándole vitalidad y volumen. El precio del servicio es para pelo corto, en caso de tener un largo superior hay que abonar la diferencia en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Hidratación Capilar Kerafibra", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Tratamiento en profundidad revitalizante del cabello, recupera la elasticidad, hidrata y da volumen. Se nota el resultado de manera inmediata."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Bótox Brasileño Corto", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Disfruta de la última técnica revolucionaria de alisado: el botox brasileño, que aparte de alisar y quitar el encrespamiento engrosa y repara el cabello para que gane luminosidad y cuerpo. Te encantará. Si tu pelo es largo y con volumen, consulta posible suplemento en el salón. Solo para pelo corto, en caso de tener un largo superior se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Botox Brasileño Largo", 
+            "duration": 7200, 
+            "price": "160 € ", 
+            "description": "¡Alisa tu melena reservando nuestro tratamiento de botox brasileño para tu pelo largo! Conseguirás un pelo sano, hidratado, liso y libre de encrespamiento. Además, también engrosa la fibra capilar dando más volumen a tu cabello. En caso de tener el pelo extralargo, se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Botox Brasileño Medio", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¿Te gustaría ver tu pelo alisado sin tener que utilizar herramientas de calor? ¡Reserva nuestro botox brasileño! Además de alisar el pelo, repara el cabello aportándole brillo y sedosidad. También elimina el encrespamiento y engrosa la fibra capilar. Servicio exclusivo para media melena, en caso de no tener este largo se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado De Keratina", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "¿Tienes el pelo seco y encrespado? Ven a Lucyrte y déjate asesorar por nuestros profesionales. Este tratamiento te ayudará a devolver la suavidad y el brillo a tu melena sin necesidad de utilizar planchas o secadores. Servicio exclusivo para pelo corto, en caso de tener el pelo largo o media melena, se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Alisado Unamy Kemon Pelo Normal Y Teñido", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Alisado UNAMY KEMON: ideal para alisar aquellos cabellos teñidos de textura normal, es decir, ni muy secos, ni muy largos. Disfruta de una melena lisa y sin encrespamiento. Este servicio es para pelo corto. Si tu pelo es largo o con mucho volumen, consulta suplemento con el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Infantil Hasta 15 Años", 
+            "duration": 1800, 
+            "price": "10 € ", 
+            "description": "¿Tus niños necesitan un corte de pelo? Reserva este servicio para niños y niñas hasta los 15 años de edad. Trae al más pequeño de la casa para que tenga él también un corte a la moda y con estilo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Mujer", 
+            "duration": 1800, 
+            "price": "17,5 € ", 
+            "description": "¿Necesitas un corte de pelo? Disfruta de un corte de tendencia gracias a nuestros peluqueros. Incluye el corte y lavado de la melena. Si tienes el pelo largo o extralargo consulta suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Para Hombre", 
+            "duration": 1800, 
+            "price": "15 € ", 
+            "description": "¿Cansado de llevar siempre el mismo corte de pelo? Disfruta de un corte actual y con estilo y déjate asesorar por nuestros estilistas. El servicio incluye lavado, corte asesorado y productos de acabado de tocador."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¿Quieres darle un toque diferente y con estilo a tu cabello? ¡Reserva nuestras mechas californianas! Con esta técnica de mechas conseguirás unos reflejos naturales para tu pelo. Tu melena tendrá más brillo y luminosidad de forma natural"
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Combinadas", 
+            "duration": 3600, 
+            "price": "45 € ", 
+            "description": "¿Te apetece un cambio de look? Reserva nuestras mechas combinadas, en las que podrás elegir un par de tonos, para tener un look diferente y ser la envidia de tus amigas. Incluye las mechas y el lavado pero no el peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Raíz", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Si lo que necesitas es retocar tus mechas, este es el servicio que tienes que reservar. Ilumina la parte de arriba de tu cabeza y consigue unas mechas perfectas gracias a la profesionalidad de nuestros peluqueros."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Pelo Corto", 
+            "duration": 3600, 
+            "price": "39 € ", 
+            "description": "¿Quieres cambiar el estilo de tu pelo? Dale volumen a tu cabello con este moldeado. Conseguirás más cuerpo y volumen con unas ondas definidas durante tres o cuatro meses. Te encantará como te quedan. Servicio exclusivo para pelo corto."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Pelo Largo", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¿Te gustaría cambiar el estilo de tu melena? Dale volumen a tu cabello con este moldeado. Conseguirás más cuerpo y volumen con unas ondas definidas durante tres o cuatro meses. Te encantará como te quedan."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Con Keratina Líquida", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Peinado con keratina líquida, para hidrtar de forma profunda durante el lavado tu melena y luzca sedosa y suave. Si tienes el pelo largo o con mucho volumen deberás consultar posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Recogido Sencillo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Sé la protagonista de ese evento y cita tan importante que tienes gracias a nuestro servicio de recogido sencillo. Previamente, lavaremos tu melena y luego realizaremos el peinado. Si el recogido es más elaborado consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Semirecogido", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "Sé la protagonista de ese evento y cita tan importante que tienes gracias a nuestro servicio de semirrecogido sencillo. Previamente, lavaremos tu melena y luego realizaremos el peinado. Si el semirrecogido es más elaborado consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte", 
+            "duration": 3600, 
+            "price": "25 € ", 
+            "description": "¿Quieres cambiar el color de tu melena? ¡Reserva nuestro servicio de tinte completo y consigue un color luminoso e unificado para tu melena! Saldrás de nuestro centro luciendo un cabello con brillo y un color espectacular."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tinte Y Tratamiento Hidratante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Consigue un color luminoso e unificado para tu melena, déjate asesorar por nuestros profesionales y luce un cabello con un brillo y un color espectacular. . El servicio incluye tratamiento hidratante para realzar el brillo de tu pelo."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Alisador Pelo Rizado", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Tratamiento alisador cabellos rizados: Quita el encrespamiento y da cuerpo a tu melena. ¡Di adiós a esos rizos encrespados que tanto detestas! Si tienes media melena, el pelo largo o con mucho volumen tendrás que abonar un suplemento en el salón. Puedes llamar para consultar la diferencia."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Brasil Mandioca: Fortalecedor", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Tratamiento Mandioca: Fortalece el pelo, da brillo e intensifica el crecimiento. Es un tratamiento brasileño totalmente ecológico, con productos 100% naturales, sin químicos ni sulfatos. El precio del servicio es para pelo corto. Si tu melena es superior a este largo o con mucho volumen consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Coke: Alisa, Suaviza Y Nutre", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "Tratamiento Brasileño COKE: Alisa, suaviza y nutre la melena con nuestro producto ecológico 100% natural. En caso de tener el pelo medio o largo, consulta con el centro por posible suplemento."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tratamiento Capilar Keratina Semanal", 
+            "duration": 5400, 
+            "price": "50 € ", 
+            "description": "Tratamiento Keratina semanal: Hidrata, suaviza, fortalece la melena. Se recomienda un tratamiento semanal. Si tu melena es larga o con mucho volumen consulta posible suplemento en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Tto Capilar Brasileño Zap: Alisa Y Da Brillo", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "¿Te gustaría tener un pelo más liso y brillante? ¡Reserva nuestro tratamiento Brasileño ZAP! Alisa y da brillo a tu melena, quitándole el encrespamiento. En caso de tener media melena o el pelo largo, se cobrará el suplemento correspondiente en el salón."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Lavado Con Tratamiento Capilar Y Peinado", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¿Tienes el pelo seco y sin brillo? Ponemos a tu disposición un tratamiento capilar específico hidratante con el lavado para devolver el brillo y la suavidad natural a tu pelo y para finalizar un peinado asesorado."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Capilar Portier: Nutre Hidrata Y Alisa", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "¡Reserva nuestro tratamiento capilar Portier! Gracias a este servicio conseguimos nutrir, hidratar y alisar el cabello, aportándole vitalidad y volumen. El precio del servicio es para pelo corto, en caso de tener un largo superior hay que abonar la diferencia en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tto Hidratación Capilar Kerafibra", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Tratamiento en profundidad revitalizante del cabello, recupera la elasticidad, hidrata y da volumen. Se nota el resultado de manera inmediata."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Bótox Brasileño Corto", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Disfruta de la última técnica revolucionaria de alisado: el botox brasileño, que aparte de alisar y quitar el encrespamiento engrosa y repara el cabello para que gane luminosidad y cuerpo. Te encantará. Si tu pelo es largo y con volumen, consulta posible suplemento en el salón. Solo para pelo corto, en caso de tener un largo superior se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Botox Brasileño Largo", 
+            "duration": 7200, 
+            "price": "160 € ", 
+            "description": "¡Alisa tu melena reservando nuestro tratamiento de botox brasileño para tu pelo largo! Conseguirás un pelo sano, hidratado, liso y libre de encrespamiento. Además, también engrosa la fibra capilar dando más volumen a tu cabello. En caso de tener el pelo extralargo, se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Botox Brasileño Medio", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¿Te gustaría ver tu pelo alisado sin tener que utilizar herramientas de calor? ¡Reserva nuestro botox brasileño! Además de alisar el pelo, repara el cabello aportándole brillo y sedosidad. También elimina el encrespamiento y engrosa la fibra capilar. Servicio exclusivo para media melena, en caso de no tener este largo se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado De Keratina", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "¿Tienes el pelo seco y encrespado? Ven a Lucyrte y déjate asesorar por nuestros profesionales. Este tratamiento te ayudará a devolver la suavidad y el brillo a tu melena sin necesidad de utilizar planchas o secadores. Servicio exclusivo para pelo corto, en caso de tener el pelo largo o media melena, se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Alisado Unamy Kemon Pelo Normal Y Teñido", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Alisado UNAMY KEMON: ideal para alisar aquellos cabellos teñidos de textura normal, es decir, ni muy secos, ni muy largos. Disfruta de una melena lisa y sin encrespamiento. Este servicio es para pelo corto. Si tu pelo es largo o con mucho volumen, consulta suplemento con el salón."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tratamiento Capilar Portier: Nutre Hidrata Y Alisa", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "¡Reserva nuestro tratamiento capilar Portier! Gracias a este servicio conseguimos nutrir, hidratar y alisar el cabello, aportándole vitalidad y volumen. El precio del servicio es para pelo corto, en caso de tener un largo superior hay que abonar la diferencia en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Tto Hidratación Capilar Kerafibra", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Tratamiento en profundidad revitalizante del cabello, recupera la elasticidad, hidrata y da volumen. Se nota el resultado de manera inmediata."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Bótox Brasileño Corto", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Disfruta de la última técnica revolucionaria de alisado: el botox brasileño, que aparte de alisar y quitar el encrespamiento engrosa y repara el cabello para que gane luminosidad y cuerpo. Te encantará. Si tu pelo es largo y con volumen, consulta posible suplemento en el salón. Solo para pelo corto, en caso de tener un largo superior se cobrará suplemento."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Botox Brasileño Largo", 
+            "duration": 7200, 
+            "price": "160 € ", 
+            "description": "¡Alisa tu melena reservando nuestro tratamiento de botox brasileño para tu pelo largo! Conseguirás un pelo sano, hidratado, liso y libre de encrespamiento. Además, también engrosa la fibra capilar dando más volumen a tu cabello. En caso de tener el pelo extralargo, se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Manicura y Pedicura", 
+            "service": "Alisado Botox Brasileño Medio", 
+            "duration": 7200, 
+            "price": "120 € ", 
+            "description": "¿Te gustaría ver tu pelo alisado sin tener que utilizar herramientas de calor? ¡Reserva nuestro botox brasileño! Además de alisar el pelo, repara el cabello aportándole brillo y sedosidad. También elimina el encrespamiento y engrosa la fibra capilar. Servicio exclusivo para media melena, en caso de no tener este largo se cobrará suplemento en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Capilar Portier: Nutre Hidrata Y Alisa", 
+            "duration": 7200, 
+            "price": "100 € ", 
+            "description": "¡Reserva nuestro tratamiento capilar Portier! Gracias a este servicio conseguimos nutrir, hidratar y alisar el cabello, aportándole vitalidad y volumen. El precio del servicio es para pelo corto, en caso de tener un largo superior hay que abonar la diferencia en el centro."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tto Hidratación Capilar Kerafibra", 
+            "duration": 5400, 
+            "price": "65 € ", 
+            "description": "Tratamiento en profundidad revitalizante del cabello, recupera la elasticidad, hidrata y da volumen. Se nota el resultado de manera inmediata."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Alisado Bótox Brasileño Corto", 
+            "duration": 7200, 
+            "price": "90 € ", 
+            "description": "Disfruta de la última técnica revolucionaria de alisado: el botox brasileño, que aparte de alisar y quitar el encrespamiento engrosa y repara el cabello para que gane luminosidad y cuerpo. Te encantará. Si tu pelo es largo y con volumen, consulta posible suplemento en el salón. Solo para pelo corto, en caso de tener un largo superior se cobrará suplemento."
+        }
+    ]
+}

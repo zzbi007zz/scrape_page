@@ -1,0 +1,119 @@
+{
+    "adid": null, 
+    "name": "AQ Estética", 
+    "name_of_contact": "AQ Estética", 
+    "scrape_page": "https://www.bucmi.com/aqestetica", 
+    "business_website": "https://www.bucmi.com/aqestetica", 
+    "areas_covered": null, 
+    "description": "En frente de AQ Peluqueros, ubicado en Chamartín, se encuentra la zona de estética para poder responder así a todas tus necesidades de belleza. Ofrecemos un trato personalizado para cada cliente. Ven a conocer nuestros servicios, no te arrepentirás.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558588129168.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558626326238.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635954558665388331.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Ordicia, 27", 
+    "city": "Madrid", 
+    "zipcode": "28016", 
+    "formatted_address": "C/ Ordicia, 27, Madrid, 28016", 
+    "country": "es", 
+    "office_number": "910145319", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4588253000", 
+    "longitude": "-3.6738146000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635954582439669358.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Depilación Láser Diodo Piernas Enteras", 
+            "duration": 1800, 
+            "price": "65 € ", 
+            "description": "¡Reserva nuestra sesión de láser para la zona de las piernas enteras! Se recomiendan como mínimo entre cinco y seis sesiones para que la depilación sea completamente definitiva. ¡Olvídate de la cuchilla y de la cera!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Limpia y cuida la piel de tu rostro reservando nuestra higiene facial! El servicio incluye el desmaquillado de la piel, limpieza con extracción, mascarilla y masaje facial para tonificar el rostro. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "¡Despídete de la celulitis y la flacidez reservando nuestra radiofrecuencia corporal! Con este tratamiento conseguimos regenerar colágeno y elastina. Además, se corrige la flacidez corporal, manchas, cicatrices, estrías y cúmulos de grasas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Y 5 Presoterapia", 
+            "duration": 3600, 
+            "price": "299 € ", 
+            "description": "¿A qué esperas para reservar nuestro bono de tratamiento adelgazante corporal? Este incluye 10 sesiones de radiofrecuencia y 5 sesiones de presoterapia. ¡No lo dudes más, reserva este servicio y presume de figura!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Limpia y cuida la piel de tu rostro reservando nuestra higiene facial! El servicio incluye el desmaquillado de la piel, limpieza con extracción, mascarilla y masaje facial para tonificar el rostro. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Higiene Facial Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¡Reserva nuestra higiene facial no invasiva! Este servicio se realiza con punta de diamante para conseguir eliminar las impurezas y puntos negros de manera eficaz. Disponemos de los mejores profesionales en estética para que te dejen una piel perfecta."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Corporal", 
+            "duration": 1800, 
+            "price": "40 € ", 
+            "description": "¡Despídete de la celulitis y la flacidez reservando nuestra radiofrecuencia corporal! Con este tratamiento conseguimos regenerar colágeno y elastina. Además, se corrige la flacidez corporal, manchas, cicatrices, estrías y cúmulos de grasas."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Radiofrecuencia Facial", 
+            "duration": 3600, 
+            "price": "55 € ", 
+            "description": "¡Di adiós a las arrugas y a las imperfecciones de tu rostro! Reserva nuestro tratamiento regenerador de colágeno y elastina. Es tu solución para las arrugas, flacidez, marcas, manchas, acné, cicatrices, bolsas y ojeras."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono 10 Sesiones Radiofrecuencia Y 5 Presoterapia", 
+            "duration": 3600, 
+            "price": "299 € ", 
+            "description": "¿A qué esperas para reservar nuestro bono de tratamiento adelgazante corporal? Este incluye 10 sesiones de radiofrecuencia y 5 sesiones de presoterapia. ¡No lo dudes más, reserva este servicio y presume de figura!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "¡Limpia y cuida la piel de tu rostro reservando nuestra higiene facial! El servicio incluye el desmaquillado de la piel, limpieza con extracción, mascarilla y masaje facial para tonificar el rostro. ¡Te encantará el resultado!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Higiene Facial Con Punta De Diamante", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "¡Reserva nuestra higiene facial no invasiva! Este servicio se realiza con punta de diamante para conseguir eliminar las impurezas y puntos negros de manera eficaz. Disponemos de los mejores profesionales en estética para que te dejen una piel perfecta."
+        }
+    ]
+}

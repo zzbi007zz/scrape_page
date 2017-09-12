@@ -1,0 +1,142 @@
+{
+    "adid": null, 
+    "name": "PaoBell", 
+    "name_of_contact": "PaoBell", 
+    "scrape_page": "https://www.bucmi.com/paobell", 
+    "business_website": "https://www.bucmi.com/paobell", 
+    "areas_covered": null, 
+    "description": "El centro de estética PaoBell, situado en Villaverde Alto, Madrid, ofrece masajes relajante para conseguir eliminar el estrés que vamos acumulando sía a día, depilación con láser y tratamientos faciales entre otros. No esperes más y reserva ahora online.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635899276070363719.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635899276100279205.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635899276139233335.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635899276174389211.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635899276205969323.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Madrid", 
+    "zipcode": "28021", 
+    "formatted_address": "Madrid, 28021", 
+    "country": "es", 
+    "office_number": "912635151", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.3474047000", 
+    "longitude": "-3.7033641000", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635974618123357191.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Elimina el estrés del día a día y ven a nuestro centro a disfrutar de 60 minutos de un agradable masaje relajante con manteca de Karité templado y terminación de piedras calientes. Sensación de placer absoluto gracias al friccionamiento de las piedras contra tu cuerpo con una agradable temperatura. No lo pienses, ven, relájate y sobretodo.. ¡disfruta!"
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "En Paobell queremos que te sientas guapa. Nuestros estilistas conseguirán que luzcas una mirada cautivadora gracias al tratamiento de tinte y permanente de pestañas. Luce 24h como si estuvieses recién maquillada, efecto máscara de pestañas. Lograrás una mirada más intensa y unas pestañas curvadas que harán que tu mirada no pase desapercibida."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Tratamiento Facial Antiedad", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si sientes que tu piel va notando el paso del tiempo, acude a nuestro centro y disfruta de un tratamiento facial antiarrugas con velo de colágeno y elastina. Elimina las arrugas, mejora las líneas de expresión y devuelve a tu piel la juventud que necesita. De la mano de nuestros profesionales más cualificados podrás presumir de un rostro más vivo y con una firmeza inigualable."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Bono Rayos Uva", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Consigue un cuerpo perfectamente bronceado con este bono de 10 sesiones de rayos UVA y presume de moreno todo el año!!"
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "En Paobell queremos que te sientas guapa. Nuestros estilistas conseguirán que luzcas una mirada cautivadora gracias al tratamiento de tinte y permanente de pestañas. Luce 24h como si estuvieses recién maquillada, efecto máscara de pestañas. Lograrás una mirada más intensa y unas pestañas curvadas que harán que tu mirada no pase desapercibida."
+        }, 
+        {
+            "service_category": "Estética", 
+            "service": "Tratamiento Facial Antiedad", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si sientes que tu piel va notando el paso del tiempo, acude a nuestro centro y disfruta de un tratamiento facial antiarrugas con velo de colágeno y elastina. Elimina las arrugas, mejora las líneas de expresión y devuelve a tu piel la juventud que necesita. De la mano de nuestros profesionales más cualificados podrás presumir de un rostro más vivo y con una firmeza inigualable."
+        }, 
+        {
+            "service_category": "Masaje", 
+            "service": "Bono Rayos Uva", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Consigue un cuerpo perfectamente bronceado con este bono de 10 sesiones de rayos UVA y presume de moreno todo el año!!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono Rayos Uva", 
+            "duration": 5400, 
+            "price": "30 € ", 
+            "description": "Consigue un cuerpo perfectamente bronceado con este bono de 10 sesiones de rayos UVA y presume de moreno todo el año!!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tinte Y Permanente De Pestañas", 
+            "duration": 3600, 
+            "price": "23 € ", 
+            "description": "En Paobell queremos que te sientas guapa. Nuestros estilistas conseguirán que luzcas una mirada cautivadora gracias al tratamiento de tinte y permanente de pestañas. Luce 24h como si estuvieses recién maquillada, efecto máscara de pestañas. Lograrás una mirada más intensa y unas pestañas curvadas que harán que tu mirada no pase desapercibida."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Tratamiento Facial Antiedad", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Si sientes que tu piel va notando el paso del tiempo, acude a nuestro centro y disfruta de un tratamiento facial antiarrugas con velo de colágeno y elastina. Elimina las arrugas, mejora las líneas de expresión y devuelve a tu piel la juventud que necesita. De la mano de nuestros profesionales más cualificados podrás presumir de un rostro más vivo y con una firmeza inigualable."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Masaje Relajante", 
+            "duration": 3600, 
+            "price": "30 € ", 
+            "description": "Elimina el estrés del día a día y ven a nuestro centro a disfrutar de 60 minutos de un agradable masaje relajante con manteca de Karité templado y terminación de piedras calientes. Sensación de placer absoluto gracias al friccionamiento de las piedras contra tu cuerpo con una agradable temperatura. No lo pienses, ven, relájate y sobretodo.. ¡disfruta!"
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono depilación láser ingles y axilas", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Estupendo pack de una sesión de 30 minutos de depilación con láser de diodo en ingles y axilas. Elimina el vello de tus zonas más íntimas de manera permanente y olvídate de otros métodos depilatorios."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Bono depilación láser labio, mentón y patillas", 
+            "duration": 900, 
+            "price": "20 € ", 
+            "description": "¿Quieres eliminar de forma permanente el vello facial de tu rostro? en nuestro centro podrás disfrutar de un estupendo bono de una sesión de 15 minutos con láser de diodo donde nuestros profesionales tratarán labio, mentón y patillas para que puedas olvidarte para siempre de otros métodos depilatorios."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Depilación Láser Diodo zona mediana", 
+            "duration": 1800, 
+            "price": "30 € ", 
+            "description": "Disfruta de 25 minutos de sesión de láser de diodo y elige la zona en la que quieres eliminar el vello de forma progresiva y permanente. Con este servicio puedes escoger entre medias piernas, ingles brasileñas, brazos, espalda o pecho y podrás olvidarte para siempre de otros métodos depilatorios. El servicio incluye una sesión de 25 minutos a elegir la zona a tratar."
+        }
+    ]
+}

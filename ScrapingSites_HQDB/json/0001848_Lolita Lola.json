@@ -1,0 +1,100 @@
+{
+    "adid": null, 
+    "name": "Lolita Lola", 
+    "name_of_contact": "Lolita Lola", 
+    "scrape_page": "https://www.bucmi.com/lolitalola", 
+    "business_website": "https://www.bucmi.com/lolitalola", 
+    "areas_covered": null, 
+    "description": "El Salón de belleza e imagen Lolita situado en Valladolid, encontrarás una buena energía en nuestro local con una serie de profesionales que te atenderán de una manera personalizada. Realizamos cortes de pelo asesorados para sacarte el mejor partido.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615969288529189.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615969325630688.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615972524744716.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635615974229676336.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635616283947931100.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": null, 
+    "city": "Valladolid", 
+    "zipcode": "47009", 
+    "formatted_address": "Valladolid, 47009", 
+    "country": "es", 
+    "office_number": "983362999", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6615314000", 
+    "longitude": "-4.7333869999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635961520312827943.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Color Raíz Y Peinado", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "Incluye color raíz de la línea Inoa de L'Oréal con un resultado de color natural y duradero y con una cobertura perfecta, incluye masaje craneal y peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte De Pelo Y Peinado Para Mujer", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "El servicio incluye lavado, corte de pelo asesorado y productos de acabado de la marca L'Oréal. Déjate asesorar por los mejores estilistas."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Peinado Y Tratamiento Capilar Profyber", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Mima tu melena con este pack súper hidratante, el tratamiento incluye lavado con productos de L'Oréal específicos, masaje craneal y para finalizar peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Color Raíz Y Peinado", 
+            "duration": 5400, 
+            "price": "37 € ", 
+            "description": "Incluye color raíz de la línea Inoa de L'Oréal con un resultado de color natural y duradero y con una cobertura perfecta, incluye masaje craneal y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte De Pelo Y Peinado Para Mujer", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "El servicio incluye lavado, corte de pelo asesorado y productos de acabado de la marca L'Oréal. Déjate asesorar por los mejores estilistas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Y Peinado", 
+            "duration": 9000, 
+            "price": "50 € ", 
+            "description": "Mechas, Peinado y Masaje Craneal, todos los productos de la marca L'Oréal. Ha llegado el momento de cambiar tu imagen, déjate asesorar por los mejores profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Moldeado Y Peinado", 
+            "duration": 9000, 
+            "price": "48 € ", 
+            "description": "El servicio incluye moldeado y peinado. Define tus rizos gracias a este tratamiento sin amoniaco para no dañar tu melena y déjate asesorar por nuestros profesionales."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Peinado Y Tratamiento Capilar Profyber", 
+            "duration": 2700, 
+            "price": "35 € ", 
+            "description": "Mima tu melena con este pack súper hidratante, el tratamiento incluye lavado con productos de L'Oréal específicos, masaje craneal y para finalizar peinado."
+        }
+    ]
+}

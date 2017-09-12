@@ -1,0 +1,101 @@
+{
+    "adid": null, 
+    "name": "Temar", 
+    "name_of_contact": "Temar", 
+    "scrape_page": "https://www.bucmi.com/temar", 
+    "business_website": "https://www.bucmi.com/temar", 
+    "areas_covered": null, 
+    "description": "Disfruta de una peluquería con más de 37 años de experiencia. En Temar disfrutarás de servicios de peluquería casi artesanales, la mejor atención es nuestro mejor punto a favor. Ven y disfruta de un cambio de look o un tratamiento capilar y ¡disfruta!", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963186195686780.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963186193342935.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963186195999177.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963186193499189.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963186195061697.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635963186194436686.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "0", 
+    "hqdb_review_score": "0,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Caleruega, 54", 
+    "city": "Madrid", 
+    "zipcode": "28007", 
+    "formatted_address": "C/ Caleruega, 54, Madrid, 28007", 
+    "country": "es", 
+    "office_number": "914336397", 
+    "office_number2": null, 
+    "mobile_number": "691344533", 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "40.4071025999", 
+    "longitude": "-3.6760157999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635963259240168088.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Y Peinado Mujer Media Melena", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Pack de belleza para estar guapa y dar un toque distinto a tu look. El servicio incluye lavado con champú especifico, corte con asesoramiento personalizado y peinado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Mechas Californianas Pelo Largo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Consigue un efecto degradado del color de tu pelo, de la manera más natural, para aportar un toque de color y luminosidad. El servicio incluye mechas y lavado."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Mujer Pelo Largo", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "¿Te atreves con un cambio radical? ¿O prefieres un corte clásico? Con este servicio podrás cambiar de look o sanear tu cabello, siempre bajo el asesoramiento de nuestros profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento personalizado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Mujer Media Melena", 
+            "duration": 2700, 
+            "price": "27 € ", 
+            "description": "Pack de belleza para estar guapa y dar un toque distinto a tu look. El servicio incluye lavado con champú especifico, corte con asesoramiento personalizado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Y Peinado Mujer Pelo Corto", 
+            "duration": 2700, 
+            "price": "26 € ", 
+            "description": "Ponte en nuestras manos para conseguir un corte de última tendencia y déjate asesorar por los mejores profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento personalizado y peinado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Media Melena", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Las mechas degradadas que dan un toque de luz y brillo a tu cabello. Atrévete con unas mechas californianas y dale color a tu pelo de la manera más natural. El servicio incluye lavado con champú especifico y mechas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Mechas Californianas Pelo Largo", 
+            "duration": 3600, 
+            "price": "40 € ", 
+            "description": "Consigue un efecto degradado del color de tu pelo, de la manera más natural, para aportar un toque de color y luminosidad. El servicio incluye mechas y lavado."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Mujer Pelo Largo", 
+            "duration": 2700, 
+            "price": "28 € ", 
+            "description": "¿Te atreves con un cambio radical? ¿O prefieres un corte clásico? Con este servicio podrás cambiar de look o sanear tu cabello, siempre bajo el asesoramiento de nuestros profesionales. El servicio incluye lavado con champú especifico, corte con asesoramiento personalizado y peinado."
+        }
+    ]
+}

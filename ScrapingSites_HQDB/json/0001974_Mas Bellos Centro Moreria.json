@@ -1,0 +1,111 @@
+{
+    "adid": null, 
+    "name": "Mas Bellos Centro Moreria", 
+    "name_of_contact": "Mas Bellos Centro Moreria", 
+    "scrape_page": "https://www.bucmi.com/masbellosmoreria", 
+    "business_website": "https://www.bucmi.com/masbellosmoreria", 
+    "areas_covered": null, 
+    "description": "En la peluquería masculina Mas Bellos, nuestros profesionales y nuestros espacios te darán el confort y tranquilidad que estabas buscando en Zaragoza. Gestionado y dotado de peluqueros y estilistas con una larga trayectoria profesional para tu bienestar.", 
+    "img_link": [
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798956945127253.jpg", 
+        "https://d1nd15w2k87kz0.cloudfront.net/Uploads/635798957720450773.jpg"
+    ], 
+    "hqdb_featured_ad_type": "Featured", 
+    "hqdb_nr_reviews": "2", 
+    "hqdb_review_score": "9,0", 
+    "accreditations": null, 
+    "category": null, 
+    "subcategory": null, 
+    "street": "C/ Moreria, 6", 
+    "city": "Zaragoza", 
+    "zipcode": "50004", 
+    "formatted_address": "C/ Moreria, 6, Zaragoza, 50004", 
+    "country": "es", 
+    "office_number": "976234749", 
+    "office_number2": null, 
+    "mobile_number": null, 
+    "mobile_number2": null, 
+    "unidentified_phone_numbers": null, 
+    "latitude": "41.6530652000", 
+    "longitude": "-0.8841340999", 
+    "business_email": null, 
+    "yelp_page": null, 
+    "facebook": null, 
+    "twitter": null, 
+    "instagram": null, 
+    "venue_images": "https://d1nd15w2k87kz0.cloudfront.net/Logotipos/635911470071371331.jpg", 
+    "opening_hours_raw": null, 
+    "pricelist_link": null, 
+    "services": [
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero Y Afeitado", 
+            "duration": 2700, 
+            "price": "26,5 € ", 
+            "description": "Ponte en manos de los mejores profesionales y córtate el pelo además de terminar con un estupendo afeitado. Incluye: lavar, cortar, Aclarado, Secado y acondicionador. Usamos navajas desechables. Afeitado con toalla caliente y crema calmante."
+        }, 
+        {
+            "service_category": "Preferente", 
+            "service": "Corte Caballero Y Depilación Cejas", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Disfruta de este pack que incluye: lavar, corte de pelo, aclarado, secado y acondicionador. Usamos navajas desechables. Además el servicio incluye depilación de cejas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero Y Afeitado", 
+            "duration": 2700, 
+            "price": "26,5 € ", 
+            "description": "Ponte en manos de los mejores profesionales y córtate el pelo además de terminar con un estupendo afeitado. Incluye: lavar, cortar, Aclarado, Secado y acondicionador. Usamos navajas desechables. Afeitado con toalla caliente y crema calmante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero Y Depilación Cejas", 
+            "duration": 2700, 
+            "price": "23 € ", 
+            "description": "Disfruta de este pack que incluye: lavar, corte de pelo, aclarado, secado y acondicionador. Usamos navajas desechables. Además el servicio incluye depilación de cejas."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Afeitado", 
+            "duration": 900, 
+            "price": "10 € ", 
+            "description": "Si lo que deseas es un afeitado de calidad, que sea cuidadoso y respetuoso con tu piel, ven a la peluquería Mas Bellos. El servicio incluye el afeitado con toalla caliente y crema calmante."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Caballero", 
+            "duration": 1800, 
+            "price": "16,5 € ", 
+            "description": "Renueva tu estilo y tu corte de pelo en la peluquería Mas Bellos. El servicio incluye: lavar, corte de pelo, aclarado, secado y acondicionador. Usamos navajas desechables."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Corte Niño Hasta 11 Años", 
+            "duration": 1800, 
+            "price": "14,5 € ", 
+            "description": "Para que los pequeños de la casa también puedan disfrutar de su experiencia en la peluquería. El servicio incluye: lavar, corte de pelo, aclarado, secado y acondicionador."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack 10 Corte De Caballero", 
+            "duration": 1800, 
+            "price": "135 € ", 
+            "description": "Bono de 10 servicios de Corte de Caballero que Incluye: lavar, corte de pelo, aclarado, secado y acondicionador. Usamos navajas desechables."
+        }, 
+        {
+            "service_category": "Peluquería", 
+            "service": "Pack 5 Corte De Caballero", 
+            "duration": 1800, 
+            "price": "70 € ", 
+            "description": "Bono de 5 servicios de Corte de Caballero que Incluye: lavar, corte de pelo, aclarado, secado y acondicionador. Usamos navajas desechables."
+        }, 
+        {
+            "service_category": "Depilación", 
+            "service": "Corte Caballero Y Afeitado", 
+            "duration": 2700, 
+            "price": "26,5 € ", 
+            "description": "Ponte en manos de los mejores profesionales y córtate el pelo además de terminar con un estupendo afeitado. Incluye: lavar, cortar, Aclarado, Secado y acondicionador. Usamos navajas desechables. Afeitado con toalla caliente y crema calmante."
+        }
+    ]
+}
