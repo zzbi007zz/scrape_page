@@ -1,70 +1,66 @@
-
 from __future__ import unicode_literals
-import requests
-import codecs
-import io
+import json
+import re
+import cgi
+from bs4 import BeautifulSoup
 from lxml import etree as ET
 from lxml import html
-from urllib import urlencode
-from urllib import quote_plus
-from HTMLParser import HTMLParser
-import os
-import csv
-import unicodecsv
-import json
-import datetime
-from collections import OrderedDict
-import csv
-import urllib2
+import requests
+import urlparse
 import urllib3
-import urllib
-from bs4 import BeautifulSoup
-def getYQLXML2(select, url, xpath, spec=False):
-    baseurl = u"https://query.yahooapis.com/v1/public/yql?"
-    yql_query = u"select {0} from htmlstring where url='{1}' and xpath='{2}'"
-    yql_query = yql_query.format(select,url,xpath)
-    yql_url = baseurl + urllib.urlencode({'q':yql_query}) + u"&env=store://datatables.org/alltableswithkeys"
-    result = urllib2.urlopen(yql_url).read()
-    if spec == True:
-        return result
-    else:
-        xml = ET.ElementTree(ET.fromstring(result))
-        xml = xml.getroot()[0][0]
-        if xml.text != None:
-            xml = xml.text.replace('\r','').replace('\n','').strip()
-            xml = '<results>' + xml + '</results>'
-            xml = ET.ElementTree(ET.fromstring(xml))
-            return xml.getroot()
+from Common import Util,Validation
+from BaseSite import BaseSite
+from SiteObjects.Objects_HQDB import Venue, Service
+import itertools
+import requests.packages.urllib3
+from dbfread import __url__
+from StringIO import StringIO
+from selenium import webdriver
+import StringIO
+from html5lib.constants import namespaces
 
-def getYQLXML(select, url, xpath, spec=False):
-    try:
-        baseurl = "https://query.yahooapis.com/v1/public/yql"
-        query = "select * from htmlstring where url='{0}' and xpath='{1}'"
-        query = query.format(url,xpath)
-        params = {
-                "q":query,
-                "env":"store://datatables.org/alltableswithkeys"
-            }
-        headers = {
-                'content-type': "application/x-www-form-urlencoded",
-                'user-agent': "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
-            }
-        response = requests.get(baseurl, headers=headers, params=urlencode(params),timeout=(60,60),verify=False)
-        body = response.text.encode('utf-8')
-        if spec == True:
-            return body
-        xml = ET.ElementTree(ET.fromstring(body))
-        xml = xml.getroot()[0][0]
-        if xml.text != None:
-            xml = xml.text.replace('\r','').replace('\n','').strip()
-            xml = '<results>' + xml + '</results>'
-            xml = ET.ElementTree(ET.fromstring(xml))
-            return xml.getroot()
-    except:
-        return None
 
+
+def _serviceParse(self, url):
+    print "Service section 2"
+    service = []
+    xpath_sv = "//form[@id='Form']/main"
+    xmlService = Util.getRequestsXML(url, xpath_sv)
+
+    # if xmlService != None:
+    #     ul_tag = xmlService.xpath(".//ul[@class='bcmContentServiceListFront ClassAccordion']")
+    #     numb = 0
+    #     for pos in ul_tag[0].getchildren():
+    #         if pos.tag == "li":
+    li = xmlService.xpath('//li[@class="bcmContentServiceListFront"]')
+    for content in li:
+        for child in content.getchildren():
+            if child.tag == "h3":
+                print child.text
+                cate = child.text
+            else:
+                svName = child.xpath('.//span[@id="lblServiceName"]/text()')
+                duration = child.xpath('.//span[@id="lblTime"]/text()')
+                r = re.compile(r'\s\w+')
+                duration = [r.sub("", item) for item in duration]
+                duration = [int(x) for x in duration]
+                duration = [x * 60 for x in duration]
+                desc = child.xpath('.//p[@id="lblDescriptionService"]')
+                price = child.xpath(".//span[@id='lblNormalPrice']")
+
+                for i in range(0, len(svName)):
+                    sv = Service()
+                    sv.service_category = cate
+                    sv.duration = duration[i]
+                    sv.service = svName[i]
+                    sName = svName[i]
+                    sv.price = price[i].text
+                    sv.description = desc[i].text
+
+                    service.append(sv)
+
+    return service
 
 if __name__ == "__main__":
-    url = "https://www.bucmi.com/hair-and-beauty"
-    xpath_service = "//ul[@class='bcmContentServiceListFront ClassAccordion']"
-    xml = getYQLXML2("*",url,xpath_service)
+    url = "https://www.bucmi.com/cortoycambio"
+    sv = _serviceParse(url)

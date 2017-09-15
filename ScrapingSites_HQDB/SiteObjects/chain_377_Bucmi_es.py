@@ -14,6 +14,7 @@ from BaseSite import BaseSite
 from SiteObjects.Objects_HQDB import Venue, Service
 import itertools
 import requests.packages.urllib3
+import HTMLParser
 from dbfread import __url__
 from StringIO import StringIO
 from selenium import webdriver
@@ -29,13 +30,13 @@ class Bucmi_es(BaseSite):
     __name__ = 'Bucmi '
  
     _url_venue = 'https://www.bucmi.com/'
-    _xpath_Venues = "//div[@class='dvRecentLocation']/ul/li/span[@class='LocationAddress']" 
+    _xpath_Venues = "//section/div/ul/li/a"
     _xpath_LstVenues = '//ul[@class="bcmPagination""]/li[last()-1]'        
     _url_lstServices = ''
     _xpath_lstServices = '//div[@id="divVenueServiceList"]'
     _xpath_addr = "//div[@class='DireccionWrap']"
-    _xpath_lat = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLatitude"]'
-    _xpath_long = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLongitude"]'
+    _xpath_lat = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLatitude"]/@value'
+    _xpath_long = '//div[@id="dvMapa"]/input[@id="dnn_ctlVenueContent_ctlVenueMap_hdnLongitude"]/@value'
     _xpath_img = './/ul[@class="grid"]/li[@class="grid-item"]/a/img'
 
     xpath_normal_price = "//li[not(@category='Preferente')]/ul/li/span[@id='lblNormalPrice']"
@@ -63,383 +64,291 @@ class Bucmi_es(BaseSite):
         self._isWriteList = isWriteList
     
     def doWork(self):
-      self.outFileVN = self.folder + '/' + self._chain_ + '_' + Validation.RevalidName(self.__name__) + '_Venues.csv'
-      self.outFileSV = self.folder + '/' + self._chain_ + '_' + Validation.RevalidName(self.__name__) + '_Services.csv'
-      
+      # self.outFileVN = self.folder + '/' + self._chain_ + '_' + Validation.RevalidName(self.__name__) + '_Venues.csv'
+      # self.outFileSV = self.folder + '/' + self._chain_ + '_' + Validation.RevalidName(self.__name__) + '_Services.csv'
+      #
       print "-----------------------------"
       print self._chain_ + self.__name__
-      print "-----------------------------"
+      print
       self.__getListVenues()
       self.Write2File()
-      if len(self._lstVenues) > 0:
+      if len(self.venues) > 0:
             index = 0
-            print "Number of venues is : " + str(len(self._lstVenues))
-            for i in range(index,len(self._lstVenues)):
+            print "Number of venues is : " + str(len(self.venues))
+            for i in range(index,len(self.venues)):
                 try:
-                    ven = self.__VenueParser(self._lstVenues[i])
-                   
+                    ven = self.venues[i]
+                    ven = self.__VenueParser(self.venues[i])
                 except Exception, ex:
                      print "File ",str(index), ":", ex
                      Util.log.error("File " + str(i) + ": " + ex.message)
-                     index+=1
-                ven.writeToFile(self.folder,index,self.__name__)
-                
-                    
-            if len(self.venues_csv) > 0:
-                 self.writelist2File(self.__name__,self.venues_csv,self.outFileVN)
-            if len(self.services_csv) > 0:
-                 self.writelist2File(self.__name__,self.services_csv,self.outFileSV)
 
     def Write2File(self):
-        if self._lstVenues != None and len(self._lstVenues) > 0:                                    
-            print "Number of venues is : " + str(len(self._lstVenues))
-            index = 0                          
-            for i in range(len(self._lstVenues)):
+        if self.venues != None and len(self.venues) > 0:
+            print "Number of venues is : " + str(len(self.venues))
+            index = 0
+            for i in range(len(self.venues)):
                 try:
                     print ven + "  a"
-                    ven = self._lstVenues[i]
-                    
+                    ven = self.venues[i]
+
                     if ven != None:
                         name = ''
                         if ven.name != None:
-                            name += self.__name__ + ' - ' + ven.name                      
-                        ven.writeToFile(self.folder,index,name.strip('-'))
-                        index+=1
-                        self.venues.append(ven.toOrderDict())                                                        
-                except Exception,ex:
-                   Util.log.error("File " + str(i) + ": " + ex.message)                       
-        if len(self.venues) > 0:            
-            Util.writelist2File(self.venues,self.outFileVN)    
+                            name += self.__name__ + ' - ' + ven.name
+                        ven.writeToFile(self.folder, index, name.strip('-'))
+                        index += 1
+                        self.venues.append(ven.toOrderDict())
+                except Exception, ex:
+                    Util.log.error("File " + str(i) + ": " + ex.message)
+        if len(self.venues) > 0:
+            Util.writelist2File(self.venues, self.outFileVN)
         if len(self.services) > 0:
-            Util.writelist2File(self.services,self.outFileSV)
-                                        
-            
- 
+            Util.writelist2File(self.services, self.outFileSV)
+
     def __getListVenues(self):
         print "Getting list of Venues"
-       
-
         xmlRegions = Util.GetHTMLResponse(self.__url__,self._xpath_Venues)
-        idx = 0
-        opt = []
-        for i in range(idx,len(xmlRegions)):
-            opt = xmlRegions[i].text.strip()
-            self._getLinkVenue(opt)
-         
-    
-    def _getLinkVenue(self, region,page = 1,totalPage = 1):    
-        if page > totalPage: return
-        print "Scraping Region: " + region + " at page = " + str(page)
-        url = self._url_venue + region +".html" + "?search=" + region 
-#       https://www.bucmi.com/Santander.html?search=Santander
-        url = url[:url.rfind("?")]
-#       https://www.bucmi.com/Santander.html
-     
+        for i in xmlRegions:
+            url = self.__url__ + i.get("href")
+            existing = [x for x in self.venues if x in url]
+            if len(existing) <= 0:
+                self.venues.append(url)
+                self._getLinkVenue(url)
 
-        if page > 1:
-            url = url + "?page=" + str(page)
-            print url
-            
-#         https://www.bucmi.com/Madrid.html?page=1
-        rq = requests.get(url)
-        htmldoc = html.fromstring(rq.content)
-        nodes= htmldoc.xpath('//ul[@class="bcmPagination"]/li[last() -1]')
-        ttPage = totalPage
-        if totalPage == 1:
-            tag_a = filter(lambda ele: ele.tag == "a", nodes)
-            if len(tag_a) > 0:
-                ttPage = int(tag_a[0].text.strip())
-        for ele in nodes:
-            if ele.tag == "li":
+    def _getLinkVenue(self, region, page=1, totalPage=1):
+        print "Scraping page: " + str(page)
+        # url = region + "?page=" + str(page)
+        region = "https://www.bucmi.com/peluqueria/madrid"
+        nodes = Util.getRequestsXML(region,"//ul[@class='bcmPagination']/li")
+        if nodes != None:
+            tag_a = nodes.xpath("//a/@href")
+            _numb_arr = []
+            for a in tag_a:
+                url = str(a)
+                p = re.findall("page=(\d+)",url)
+                _numb_arr.append(p)
+            i = iter(_numb_arr)
 
-                _sub = ele.getchildren()
-                for s in _sub:
-                   ttpage = s.text
-                   idx = 1 
-                   _scrape_page =url + "?page=" 
-                   for i in range(idx,int(ttpage)):
-                       url =_scrape_page + str(i)
-                       self.__VenueParser(url)
-            
-        page += 1
-        
-        self._getLinkVenue(region, page, ttPage)
-        
+
+
+
+            # print total
+            # i=1
+            # if i <= total:
+            #     i+=1
+            #     url = region + "?page=" + str(i)
+            # elif i >= total:
+            #     pass
+
+
+        # rq = requests.get(region)
+        # htmldoc = html.fromstring(rq.content)
+        # nodes = htmldoc.xpath('//ul[@class="bcmPagination"]/li[last()]')
+        # for content in nodes:
+        #     for child in content.getchildren():
+        #         print child.text
+        #
+        #     page += 1
+        # self._getLinkVenue(region, page, ttPage)
+
+
     def __VenueParser(self, url):
-        vens = Venue()
-        xmlVen = Util.getRequestsXML(url, "//section/article")
+        print "Scraping " + url
+        xpathz = "//parent::article/div"
+        xmlVenue = Util.getRequestsXML(url,xpathz)
+        if xmlVenue != None and len(xmlVenue) > 0:
+            vens = Venue()
+            vens.country = 'es'
+            name = xmlVenue.find(".//h1/a")
+            name = name.text
+            vens.name = name
+            vens.name_of_contact = name
+            scrape_page = xmlVenue.xpath("//h1/a/@href")[0]
+            spaceRegex = re.compile(r"\s+").search(scrape_page)
+            if spaceRegex:
+                scrape_page = scrape_page.replace(" ","%20")
+            else:
+                vens.scrape_page = scrape_page
+            print "Page " + scrape_page
 
-        print "Scraping page "  + url
-       
-        vens.country = 'es'
-#   Featured 
-        xmlFeatured = xmlVen.xpath('.//div[@class="noved-list recommendedPremium" or @class="noved-list recommended"]')  
-        _idx = 0
-        for i in range(_idx,len(xmlFeatured)):
-            if xmlFeatured != None and len(xmlFeatured) > 0 :
-                _featured = "".join(xmlFeatured[i].itertext())
-                if _featured == 'RECOMENDADO' :
-                        vens.hqdb_featured_ad_type = 'Featured' 
+            vens.business_website = scrape_page
 
+            review = xmlVenue.find(".//header/div/span")
+            review= review.text
+            review = [int(s) for s in review.split() if s.isdigit()]
+            review = review[0]
+            review = str(review)
+            print "review " + review
+            vens.hqdb_nr_reviews = review
+            score = xmlVenue.find(".//div[@class='bcmComentRatio']/div/p/span")
+            score = score.text
+            print "score " + score
+            vens.hqdb_review_score = score
+            address = xmlVenue.xpath("//header/p/a/@title")[0]
+            zipcode = re.search(r"\d{5}",address)
+            vens.zipcode = zipcode.group()
+            print "zipcode " + zipcode.group()
+            street = ",".join(address.split(",", 2)[:2])
+            vens.street = street
+            city = address.split(",",4)
+            city = city[4]
+            vens.city = city
+            featured = xmlVenue.xpath("//div[@class='noved-list recommendedPremium' or @class='noved-list recommended']")[0]
+            if featured.text == "RECOMENDADO":
+                vens.hqdb_featured_ad_type = 'Featured'
 
-        xpath_detail = '//div[@id="liFoot"]/a'
-        _xmldetail = xmlVen.xpath(xpath_detail)
-        if len(_xmldetail) > 0:
-            
-            idx = 0
-            for i in range(idx,len(_xmldetail)):
-                urlDetail = _xmldetail[i].get('href')
-                vens.business_website = urlDetail
-                print "Link "+ str(i) + " " + urlDetail
-                # urlDetail = "https://www.bucmi.com/Bika Depilacion Hilo Moncloa"
-                spaceRegex = re.compile(r"\s+").search(urlDetail)
-                if spaceRegex:
-                    urlDetail = urlDetail.replace(" ","%20")
+            service_url = scrape_page
+            xmlPhone = Util.GetHTMLResponse(service_url,"//div[@class='DireccionWrap']/a/@href")
+            phonenum = xmlPhone[0]
+            phonenum = phonenum[4:]
+            print "phone: " + phonenum
+            if xmlPhone!= None:
+                if phonenum.find('06') == 0 or phonenum.find('07') == 0:
+                    vens.mobile_number = phonenum
+                else:
+                    vens.office_number = phonenum
 
-                vens.scrape_page = urlDetail
-                
-                vens.services = self.__ServicesParser(urlDetail)
+            xmlImg = Util.GetHTMLResponse(service_url,"//div[@class='VenueLogo']/a[@class='goingToImg']/img/@src")
+            if xmlImg != None:
+                vens.img_link = xmlImg[0]
+            vens.services = self.__ServicesParser(service_url)
 
-                _xmlMCate = Util.getRequestsXML(urlDetail,"//nav[@class='bcmMenu']")
-                _xpathCate = '//a[re:test(@id,"^Cat_[0-9]")]'  
-                _xpathRate = ".//div/span[@class='RatingCount']"
-                _xpathSCore = ".//span[@class='Score']"
-                xmlInfo = Util.getRequestsXML(urlDetail,".//div[@class='VenueInfo']")
-                xmlLogo =  Util.getRequestsXML(urlDetail, ".//div[@class='VenueLogo']/a[@class='goingToImg']/img")
-                for _item in xmlInfo:
-                    for score in xmlInfo.xpath(_xpathSCore):
-                        vens.hqdb_review_score = score.text
-                    for rate in xmlInfo.xpath(_xpathRate):
-                        rate = rate.text
-                        # vens.hqdb_nr_reviews = rate.text
-                        rate = [int(s) for s in rate.split() if s.isdigit()]
-                        rate = rate[0]
-                        vens.hqdb_nr_reviews = str(rate)
-                for i in xmlLogo:
-                    for img in i.xpath("@src"):
-                        vens.venue_images = img
-                  
-                # idx = 0
-                # for i in range(idx,len(_xmlMCate)):
-                #         venueCate = []
-                #         for cate in _xmlMCate.xpath(_xpathCate,namespaces={'re': "http://exslt.org/regular-expressions"}):
-                #
-                #                 _cate = cate.text.strip()
-                #                 venueCate.append(_cate)
-                #
-                #         vens.category = ",".join(venueCate)
-                        
-                xmlVenueDetail = Util.getRequestsXML(urlDetail,'//div[@class="contentCenter"]/div')
-                xmlBussinessname = Util.getRequestsXML(urlDetail,'//div[@class="OtherVenueData"]')
-                for bn in xmlBussinessname.xpath("//h1/text()"):
-                     vens.name_of_contact = bn.strip()
-                     vens.name = vens.name_of_contact
-                      
-#               Get city       
-                
-                xmlCities = Util.getRequestsXML(urlDetail,"//div[@class='OtherVenueData']/a")
-                for ct in xmlCities.xpath(".//span"):
-                    _ct = ct.text.strip().replace(",","").lstrip()
-                    vens.city = _ct
-#             
-                
-                desc = xmlVenueDetail.find(".//div[@class='DescriptionWrap']/p")
-                if desc != None and desc.text != None:
-                    vens.description=desc.text.strip()
+            venueImgs = self.GetHTMLResponse(service_url,"//ul/li/a/img/@src")
+            if venueImgs != None:
+                vens.venue_images = venueImgs
+            xmlLat = self.GetHTMLResponse(service_url,self._xpath_lat)
+            xmlLong = self.GetHTMLResponse(service_url,self._xpath_long)
+            if xmlLat != None and xmlLong!= None:
+                lat = str(xmlLat)[0]
+                long = str(xmlLong)[0]
+                vens.latitude = lat
+                vens.longitude = long
 
-                tel = xmlVenueDetail.find(".//div[@class='DireccionWrap']/a")
-                for t in tel.xpath("@href"):
-                        phoneNum = t
-                        phoneNum = phoneNum[4:]
-                        # vens.office_number = phoneNum
-                        phoneRegex = re.compile(r'^6\d+|^7\d+')
-                        telNum = phoneRegex.search(phoneNum)
-                        if telNum:
-                            print telNum.group()
-                            telNum = telNum.group()
-                            vens.mobile_number = telNum
-                            if vens.mobile_number != None:
-                                vens.mobile_number = ""
-                        else:
-                            vens.office_number = phoneNum
-                            if vens.mobile_number != None:
-                                vens.mobile_number = ""
+        if self.venues != None and len(self.venues) > 0:
+            self.venues.append(vens)
+            print str(self.page) + ") Scrapping chain 377 page " + vens.scrape_page
 
-                addr = xmlVenueDetail.xpath("//div[@class='DireccionWrap']/node()[3]")
-                if addr != None and len(addr) != None:
-                    baseAdr= addr[0]
+        self.page += 1
 
-                    baseAdr = addr[0]
-                    addRegEx = re.compile(r'\w+/\s\w+,\s\d+\s')
-                    street = addRegEx.search(baseAdr)
-                    zipCodeRegEx = re.compile(r'\d{5}')
-                    zipCode = zipCodeRegEx.search(baseAdr)
-                    if street:
-                        street = street.group()
-                        vens.street = street
-                    if zipCode:
-                        zipCode = zipCode.group()
-                        vens.zipcode = zipCode
-
-                     
-                venueImg = xmlVenueDetail.xpath(self._xpath_img)
-                images = []
-                for item in venueImg:
-                    for img in item.xpath("@src"): 
-                        _imgLst = images.append(img)
-                
-                vens.img_link = images
-
-                xmlLat = xmlVenueDetail.xpath(self._xpath_lat)
-                for item in xmlLat:
-                    for lat in item.xpath("@value"):
-                        vens.latitude = str(lat)
-                        print str(lat)
-                xmlLong = xmlVenueDetail.xpath(self._xpath_long)
-                for item in xmlLong:
-                    for long in item.xpath("@value"):
-                        vens.longitude = str(long)
-                        print long
- 
-                if self._lstVenues != None and len(self._lstVenues) > 0:
-            
-                    self._lstVenues.append(vens)
-                    print str(self.page) + ") Scrapping chain 377 page " + vens.scrape_page
-                    print len(self._lstVenues)
-                vens.writeToFile(self.folder,self.page,vens.name_of_contact)
-                self.venues_csv.append(vens)
-                
-                self.page+=1    
         return vens
-   
+
+    def GetHTMLResponse(url, xpath, headers=None, params=None):
+        respone = requests.get(url, data=params, headers=headers)
+        content = respone.text
+        htmlData = html.fromstring(content)
+
+        return htmlData.xpath(xpath)
+#
     def __ServicesParser(self,url):
         services = []
-        
         print 'Getting service page ', url
-        try :
-            sv1 = self._serviceParser1(url)
-            services += sv1[:]
-            # sv2 = self._serviceParser2(url)
-            # services += sv2[:]
-            sv3 = self._serviceParse(url)
-            services += sv3[:]
-        except TypeError, er:
-            print "Error" + str(er)
-
-         
-        print 'Scrape service done'
-      
-        return services
-
-    def _serviceParser1(self, url):
-        services = []
-        xpath_service = "//form[@id='Form']/main"
-        xmlService = Util.getRequestsXML(url, xpath_service)
-        cates = xmlService.xpath("//li[contains(@class,'Preferente')]")
-        lblServiceName = xmlService.findall(".//li[@category='Preferente']/ul/li/div/span[@id='lblServiceName']")
-        lblTime = xmlService.findall(".//li[@category='Preferente']/ul/li/div/span[@id='lblTime']")
-
-        lblDescriptionService = xmlService.findall(".//li[@category='Preferente']/ul/li/div/p[@id='lblDescriptionService']")
-        lblNormalPrice = xmlService.findall(".//li[@category='Preferente']/ul/li/span[@id='lblNormalPrice']")
-
-        print "Getting service section 1 " + url
-
-        for i in range(len(cates)):
-                sv = Service()
-                sCate = xmlService.findall(".//li[@category='Preferente']")
-                ct = sCate[0].attrib
-                for k,v in ct.items():
-                    if k=='category':
-                        sv.service_category = v
-
-                sName = xmlService.findall(".//span[@id='lblServiceName']")
-                sv.service = sName[i].text
 
 
-                sTime = xmlService.findall(".//span[@id='lblTime']")
-                sTime = sTime[i].text
-                sTime = re.search(r'\d+', sTime).group()
-                dbTime = int(sTime) * 60
-                sv.duration = dbTime
+#         try :
+#             sv1 = self._serviceParser1(url)
+#             services += sv1[:]
+#             # sv2 = self._serviceParser2(url)
+#             # services += sv2[:]
+#             sv3 = self._serviceParse(url)
+#             services += sv3[:]
+#         except TypeError, er:
+#             print "Error" + str(er)
+#
+#
+#         print 'Scrape service done'
+#
+#         return services
+#
+#     def _serviceParser1(self, url):
+#         services = []
+#         xpath_service = "//form[@id='Form']/main"
+#         xmlService = Util.getRequestsXML(url, xpath_service)
+#         cates = xmlService.xpath("//li[contains(@class,'Preferente')]")
+#         lblServiceName = xmlService.findall(".//li[@category='Preferente']/ul/li/div/span[@id='lblServiceName']")
+#         lblTime = xmlService.findall(".//li[@category='Preferente']/ul/li/div/span[@id='lblTime']")
+#
+#         lblDescriptionService = xmlService.findall(".//li[@category='Preferente']/ul/li/div/p[@id='lblDescriptionService']")
+#         lblNormalPrice = xmlService.findall(".//li[@category='Preferente']/ul/li/span[@id='lblNormalPrice']")
+#
+#         print "Getting service section 1 " + url
+#
+#         for i in range(len(cates)):
+#                 sv = Service()
+#                 sCate = xmlService.findall(".//li[@category='Preferente']")
+#                 ct = sCate[0].attrib
+#                 for k,v in ct.items():
+#                     if k=='category':
+#                         sv.service_category = v
+#
+#                 sName = xmlService.findall(".//span[@id='lblServiceName']")
+#                 sv.service = sName[i].text
+#
+#
+#                 sTime = xmlService.findall(".//span[@id='lblTime']")
+#                 sTime = sTime[i].text
+#                 sTime = re.search(r'\d+', sTime).group()
+#                 dbTime = int(sTime) * 60
+#                 sv.duration = dbTime
+#
+#
+#                 sPrice = xmlService.findall(".//span[@id='lblNormalPrice']")
+#                 sv.price = sPrice[i].text
+#
+#                 sDesc = xmlService.findall(".//p[@id='lblDescriptionService']")
+#
+#                 sv.description = sDesc[i].text
+#                 services.append(sv)
+#                 print "Done section 1"
+#         return services
+#
+#
+#     def _serviceParse(self,url):
+#
+#         print "Service section 2"
+#         service = []
+#         xpath_sv= "//form[@id='Form']/main"
+#         xmlService = Util.getRequestsXML(url, xpath_sv)
+#
+#         # if xmlService != None:
+#         #     ul_tag = xmlService.xpath(".//ul[@class='bcmContentServiceListFront ClassAccordion']")
+#         #     numb = 0
+#         #     for pos in ul_tag[0].getchildren():
+#         #         if pos.tag == "li":
+#         li = xmlService.xpath('//li[@class="bcmContentServiceListFront"]')
+#         for content in li:
+#             for child in content.getchildren():
+#                 if child.tag == "h3":
+#                     print child.text
+#                     cate = child.text
+#                     if cate == None:
+#                         break
+#                 else:
+#                     svName = child.xpath('.//span[@id="lblServiceName"]/text()')
+#                     duration = child.xpath('.//span[@id="lblTime"]/text()')
+#                     r = re.compile(r'\s\w+')
+#                     duration = [r.sub("", item) for item in duration]
+#                     duration = [int(x) for x in duration]
+#                     duration = [x * 60 for x in duration]
+#                     desc = child.xpath('.//p[@id="lblDescriptionService"]')
+#                     price = child.xpath(".//span[@id='lblNormalPrice']")
+#
+#                     for i in range(0,len(svName)):
+#                         sv = Service()
+#                         sv.service_category = cate
+#                         sv.duration = duration[i]
+#                         sv.service = svName[i]
+#                         sName = svName[i]
+#                         sv.price = price[i].text
+#                         sv.description = desc[i].text
+#
+#                         service.append(sv)
+#
+#         return service
+
+       # def _serviceParser1(self):
 
 
-                sPrice = xmlService.findall(".//span[@id='lblNormalPrice']")
-                sv.price = sPrice[i].text
-
-                sDesc = xmlService.findall(".//p[@id='lblDescriptionService']")
-
-                sv.description = sDesc[i].text
-                services.append(sv)
-                print "Done section 1"
-        return services
-
-
-
-    # Count number of category
-    def _countCate(self,url):
-       xmlService = Util.getRequestsXML(url, self.xpath_service)
-       xmlServiceCate = xmlService.xpath(self.xpath_lst)
-       for i in range(len(xmlServiceCate)):
-            temp_cate = xmlServiceCate[0]
-            if temp_cate not in cate_s:
-              xpath_count = "count(//li[@category='" + xmlServiceCate[i] + "'])"
-            elif temp_cate in cate_s:
-                xpath_count = xpath_count = "count(//li[@category='" + xmlServiceCate[i+1] + "'])"
-            numbSv = xmlService.xpath(xpath_count)
-            countNum = int(numbSv)
-            cate_s.append(temp_cate)
-            return countNum
-
-
-    def _serviceParse(self,url):
-        print "Service section 2"
-        service = []
-        xpath_sv= "//form[@id='Form']/main"
-        xmlService = Util.getRequestsXML(url, xpath_sv)
-
-        # if xmlService != None:
-        #     ul_tag = xmlService.xpath(".//ul[@class='bcmContentServiceListFront ClassAccordion']")
-        #     numb = 0
-        #     for pos in ul_tag[0].getchildren():
-        #         if pos.tag == "li":
-        li = xmlService.xpath('//li[@class="bcmContentServiceListFront"]')
-        for content in li:
-            for child in content.getchildren():
-                if child.tag == "h3":
-                    print child.text
-                    cate = child.text
-                else:
-                    svName = child.xpath('.//span[@id="lblServiceName"]/text()')
-                    duration = child.xpath('.//span[@id="lblTime"]/text()')
-                    r = re.compile(r'\s\w+')
-                    duration = [r.sub("", item) for item in duration]
-                    duration = [int(x) for x in duration]
-                    duration = [x * 60 for x in duration]
-                    desc = child.xpath('.//p[@id="lblDescriptionService"]')
-                    price = child.xpath(".//span[@id='lblNormalPrice']")
-
-                    for i in range(0,len(svName)):
-                        sv = Service()
-                        sv.service_category = cate
-                        sv.duration = duration[i]
-                        sv.service = svName[i]
-                        sName = svName[i]
-                        sv.price = price[i].text
-                        sv.description = desc[i].text
-
-                        service.append(sv)
-
-
-
-        return service
-
-
- 
- 
-
-       
-       
-       
        
        
        
